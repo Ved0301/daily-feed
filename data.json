@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-07-05T00:00:00+00:00",
+  "sections": {
+    "research": [
+      {
+        "title": "This is placeholder content",
+        "url": "https://arxiv.org",
+        "summary": "Run fetch.py (or wait for the daily GitHub Action) to replace this with real, live arXiv papers.",
+        "source": "arXiv",
+        "date": "2026-07-05T00:00:00+00:00"
+      }
+    ],
+    "labs": [
+      {
+        "title": "This is placeholder content",
+        "url": "https://openai.com/news",
+        "summary": "Real posts from OpenAI, Google Research, and DeepMind will appear here once the fetcher runs.",
+        "source": "OpenAI",
+        "date": "2026-07-05T00:00:00+00:00"
+      }
+    ],
+    "startups": [
+      {
+        "title": "This is placeholder content",
+        "url": "https://techcrunch.com",
+        "summary": "Real TechCrunch startup stories will appear here once the fetcher runs.",
+        "source": "TechCrunch",
+        "date": "2026-07-05T00:00:00+00:00"
+      }
+    ],
+    "wider_tech": [
+      {
+        "title": "This is placeholder content",
+        "url": "https://theverge.com",
+        "summary": "Real stories from The Verge and Hacker News will appear here once the fetcher runs.",
+        "source": "The Verge",
+        "date": "2026-07-05T00:00:00+00:00"
+      }
+    ]
+  }
+}
