@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T15:30:06.532678+00:00",
+  "generated_at": "2026-07-05T15:36:03.942781+00:00",
   "sections": {
     "research": [
       {
@@ -298,14 +298,14 @@
       {
         "title": "If you're a button, you have one job",
         "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-        "summary": "Now, I’m going to exaggerate the problem a bit and tap 90-degree rotation quickly eight times . The Nothing Phone button gives you a tap confirmation via both haptics and sound, and then ignores the tap if a previous rotation is still animating. Photo-taking on phones is typically casual. (401 points, 195 comments on Hacker News)",
+        "summary": "Now, I’m going to exaggerate the problem a bit and tap 90-degree rotation quickly eight times . The Nothing Phone button gives you a tap confirmation via both haptics and sound, and then ignores the tap if a previous rotation is still animating. Photo-taking on phones is typically casual. (401 points, 196 comments on Hacker News)",
         "source": "Hacker News",
         "date": "2026-07-05T02:01:03+00:00"
       },
       {
         "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
         "url": "https://github.com/openai/codex/issues/30364",
-        "summary": "I found an aggregate pattern in Codex token_count metadata: gpt-5.5 responses disproportionately land at exactly reasoning_output_tokens = 516 , with additional fixed-boundary spikes around 1034 and 1552 . Monthly exact-516 clustering increased sharply: At the same time, overall reasoning-token intensity decreased: The anomaly is not simply higher reasoning-token usage overall. Could the Codex team investigate… (330 points, 133 comments on Hacker News)",
+        "summary": "I found an aggregate pattern in Codex token_count metadata: gpt-5.5 responses disproportionately land at exactly reasoning_output_tokens = 516 , with additional fixed-boundary spikes around 1034 and 1552 . Monthly exact-516 clustering increased sharply: At the same time, overall reasoning-token intensity decreased: The anomaly is not simply higher reasoning-token usage overall. Could the Codex team investigate… (331 points, 133 comments on Hacker News)",
         "source": "Hacker News",
         "date": "2026-07-04T21:51:09+00:00"
       },
@@ -340,7 +340,7 @@
       {
         "title": "Leaking YouTube creators' private videos",
         "url": "https://javoriuski.com/post/youtube",
-        "summary": "YouTube Studio has an AI assistant called Ask Studio. Ask Studio is useful for creators. Next time Ask Studio tells you something, think twice before trusting it. (648 points, 369 comments on Hacker News)",
+        "summary": "YouTube Studio has an AI assistant called Ask Studio. Ask Studio is useful for creators. Next time Ask Studio tells you something, think twice before trusting it. (649 points, 370 comments on Hacker News)",
         "source": "Hacker News",
         "date": "2026-07-04T16:45:10+00:00"
       }
