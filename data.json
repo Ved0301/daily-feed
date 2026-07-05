@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T15:20:22.400975+00:00",
+  "generated_at": "2026-07-05T15:30:06.532678+00:00",
   "sections": {
     "research": [
       {
@@ -26,7 +26,7 @@
       {
         "title": "Online Safety Monitoring for LLMs",
         "url": "https://arxiv.org/abs/2607.02510v1",
-        "summary": "Mona Schirmer, Metod Jazbec, Alexander Timans et al. — Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical. We study a simple…",
+        "summary": "Mona Schirmer, Metod Jazbec, Alexander Timans et al. — Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical.",
         "source": "arXiv",
         "date": "2026-07-02T17:59:43Z"
       },
@@ -91,28 +91,28 @@
       {
         "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
         "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-        "summary": "",
+        "summary": "Today, Google DeepMind and A24 are announcing a first-of-its-kind partnership focused on research. This partnership creates a deep research and development collaboration between A24 and Google DeepMind spanning multiple projects over time. This hands-on collaboration provides Google DeepMind with invaluable feedback and guidance from leading artists.",
         "source": "Google DeepMind",
         "date": "2026-07-03T14:25:43+00:00"
       },
       {
         "title": "Expanding our Heat Resilience data to 50+ global cities",
         "url": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/",
-        "summary": "Climate & Sustainability",
+        "summary": "This dataset is being made accessible through a new high-resolution Heat Resilience Earth Engine App. This dataset is open and accessible through our new, high-resolution Heat Resilience Earth Engine App . This platform provides high-resolution rooftop albedo (reflectivity) data to empower proactive municipal planning.",
         "source": "Google Research",
         "date": "2026-06-30T17:03:00+00:00"
       },
       {
         "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
         "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-        "summary": "",
+        "summary": "We’re making it easier to experiment and scale your ideas with Nano Banana 2 Lite, our fastest, most cost-efficient Gemini Image model, and Gemini Omni Flash for high-quality video generation and conversational editing. Today, Gemini Omni Flash (gemini-omni-flash-preview) is rolling to developers via the Gemini API and Google AI Studio, natively supporting high-quality video generation and conversational editing…",
         "source": "Google DeepMind",
         "date": "2026-06-30T16:02:40+00:00"
       },
       {
         "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
         "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
-        "summary": "Data Management",
+        "summary": "We introduce TabFM, a new foundation model for tabular data to simplify classification and regression workflows. Today, we introduce TabFM, a foundation model designed specifically for tabular data classification and regression. By framing tabular prediction as an ICL problem, TabFM eliminates the need for manual model training, hyperparameter tuning , and complex feature engineering.",
         "source": "Google Research",
         "date": "2026-06-30T10:26:00+00:00"
       },
@@ -161,7 +161,7 @@
       {
         "title": "Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction",
         "url": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/",
-        "summary": "Machine Intelligence",
+        "summary": "Instead of training a separate small language model to draft tokens, we append a lightweight Transformer head, the MTP head, to the final layers of the main model. Gemini Nano token generation impact of MTP vs. app-specific standalone tuned drafter across various Pixel 9 applications. Compared to Pixel 9 and Pixel 10 phones prior to MTP update.",
         "source": "Google Research",
         "date": "2026-06-26T18:30:00+00:00"
       },
@@ -177,84 +177,84 @@
       {
         "title": "5 desk gadgets that can make your workday better",
         "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
-        "summary": "The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.",
+        "summary": "The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day. At just $13, the desktop vacuum is a great way to keep your desk clean as you work. The Govee Glide Hexa Light Panels are a simple and fun way to add some personality to your work desk setup without taking up any actual desk space.",
         "source": "TechCrunch",
         "date": "2026-07-05T15:00:00+00:00"
       },
       {
         "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
         "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
-        "summary": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
+        "summary": "This approach was long orthogonal to VC, and Bending Spoons remained bootstrapped for years. While Bending Spoons acquired several companies between 2014 and 2021, including the AI-powered photo enhancer Remini, its most notable acquisitions happened more recently. In November 2024, Bending Spoons announced it would spend $233 million on an all-cash take-private deal to acquire video platform Brightcove.",
         "source": "TechCrunch",
         "date": "2026-07-05T13:33:32+00:00"
       },
       {
         "title": "Almost 90 new unicorns have been minted so far this year — here they are",
         "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
-        "summary": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
+        "summary": "It last raised a $195 million Series A and has raised $217 million in funding to date. It last raised a $100 million Series D. Founded in 2024, it last raised a $255 million Series A.",
         "source": "TechCrunch",
         "date": "2026-07-05T12:47:39+00:00"
       },
       {
         "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
         "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-        "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+        "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial from Google asks : What if the Founding Fathers had access to Google Workspace? Edits are suggested in Google Docs, a meeting gets scheduled in Google Calendar and conducted remotely via Google Meet (with every single attendee apparently turning their camera off?), then the whole thing is finalized with e-signatures;…",
         "source": "TechCrunch",
         "date": "2026-07-04T20:55:25+00:00"
       },
       {
         "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
         "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-        "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+        "summary": "As part of an ongoing legal dispute with three Hollywood studios, AI startup Midjourney is seeking to compel those studios to reveal how they use AI themselves. Disney and Universal sued Midjourney for alleged copyright infringement last year, noting that the startup’s image-generation models could create images of characters, such as Bart Simpson and Darth Vader, who are owned by the studios. A few months later,…",
         "source": "TechCrunch",
         "date": "2026-07-04T18:00:05+00:00"
       },
       {
         "title": "Alibaba reportedly bans employees from using Claude Code",
         "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-        "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+        "summary": "China’s Alibaba will ban employees from using Anthropic’s programming tool Claude Code, starting on July 10, according to multiple reports . Anthropic already prohibits Chinese companies, as well as foreign entities owned by those companies, from using its models. The company has reportedly been working to close loopholes that allow Chinese users to access Claude.",
         "source": "TechCrunch",
         "date": "2026-07-04T16:32:08+00:00"
       },
       {
         "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
         "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-        "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+        "summary": "This vision means that Mistral is looking beyond the enterprise. Six months later, Mistral closed a €385 million Series A ($415 million at the time), at a reported valuation of $2 billion. In June 2024, Mistral raised €600 million (about $640 million) in a mix of equity and debt .",
         "source": "TechCrunch",
         "date": "2026-07-04T15:51:32+00:00"
       },
       {
         "title": "The only AI glossary you’ll need this year",
         "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "summary": "Reasoning models are developed from traditional large language models and optimized for chain-of-thought thinking thanks to reinforcement learning. Developing machine learning AIs involves a process known as training. Transfer learning can drive efficiency savings by shortcutting model development.",
         "source": "TechCrunch",
         "date": "2026-07-03T21:20:00+00:00"
       },
       {
         "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
         "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-        "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+        "summary": "The Browser Company, the startup behind the Arc browser, recently introduced Dia , its AI-centric browser that looks similar to Google Chrome but with an AI chat tool. OpenAI recently launched its AI-powered web browser, called Atlas . Zen Browser aims to create a “calmer internet” with its open source browser.",
         "source": "TechCrunch",
         "date": "2026-07-03T18:43:00+00:00"
       },
       {
         "title": "The Dune keypad device can be your meeting controller and more",
         "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
-        "summary": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.",
+        "summary": "Dune ships with a companion app for configuring shortcuts, either per-app or system-wide. Within a given app, you can assign a Dune key to a keyboard shortcut, a command, or a link that opens an app or URL. The app also has a marketplace, from where you can explore skills made by other Dune owners.",
         "source": "TechCrunch",
         "date": "2026-07-03T18:28:30+00:00"
       },
       {
         "title": "Chevy built an all-American EV truck — why is nobody buying it?",
         "url": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
-        "summary": "The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better.",
+        "summary": "The Silverado EV drives, well, almost like a car. The fossil fuel Silverado sells 10 times that in a quarter. Pick the route to maximize time spent in Super Cruise.",
         "source": "TechCrunch",
         "date": "2026-07-03T16:30:00+00:00"
       },
       {
         "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
         "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
-        "summary": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.",
+        "summary": "Security researchers have confirmed that a European politician had his phone hacked with the Pegasus spyware while serving on an investigatory committee probing abuses of the notorious surveillance tool. The researchers at the University of Toronto’s digital rights unit The Citizen Lab say the confirmed phone hacking of Greek journalist and former politician Stelios Kouloglou during 2022 and 2023 marks the first…",
         "source": "TechCrunch",
         "date": "2026-07-03T05:05:00+00:00"
       }
@@ -263,84 +263,84 @@
       {
         "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-        "summary": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's…",
+        "summary": "It should make Americans of every political stripe want to hurl their devices against a wall. It should make Americans of every political stripe want to hurl their devices against a wall. The clip imagines what it would be like if the founding fathers turned to Google’s collaboration tools and Gemini to help them draft the Declaration of Independence.",
         "source": "The Verge",
         "date": "2026-07-05T14:23:11+00:00"
       },
       {
         "title": "The Sourdough Sidekick automates the boring bit of baking",
         "url": "https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter",
-        "summary": "Baking sourdough bread is inherently old-fashioned, relying on natural fermentation and wild yeast instead of the simple, predictable commercial stuff. So it might sound anathema to bring a gadget into the mix. The…",
+        "summary": "There’s no option to set the Sidekick into an Auto maintenance mode. While Auto feeds your starter with flour and water at a 1:1:1 ratio, Ratio mode gives you a few preset ratios to pick from and lets you set the starter seed amount and the feeding frequency. For that you need Custom mode.",
         "source": "The Verge",
         "date": "2026-07-05T14:00:00+00:00"
       },
       {
         "title": "How Keurig saved — and ruined — your coffee",
         "url": "https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history",
-        "summary": "Before Keurig, the coffee in your office was almost certainly terrible. Old, burned, made by someone who would rather poorly eyeball than properly measure. Just altogether gross. After Keurig? You could make your own…",
+        "summary": "On Version History: How one company filled the world with K-Cups, and changed our relationship with coffee. On Version History: How one company filled the world with K-Cups, and changed our relationship with coffee. This is the fourth episode of the fourth season of Version History .",
         "source": "The Verge",
         "date": "2026-07-05T13:51:56+00:00"
       },
       {
         "title": "Vizio accidentally made the best dumb TV on the market",
         "url": "https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review",
-        "summary": "When I first started testing Vizio's 65-inch Mini LED Quantum TV, I thought the big story was that Vizio was back and that it had a quantum-dot TV for under $398 - the cheapest on the market. Vizio's been pretty quiet…",
+        "summary": "The Mini LED Quantum is the cheapest quantum-dot TV you can get, but Walmart’s tracking is worrisome. Walmart bought Vizio for its advertising business . Most people, though, will be more than happy with the performance of the Vizio Mini LED Quantum.",
         "source": "The Verge",
         "date": "2026-07-05T13:00:00+00:00"
       },
       {
         "title": "Xbox is a disaster",
         "url": "https://www.theverge.com/column/960600/xbox-is-a-disaster",
-        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the bleak state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers'…",
+        "summary": "Major changes are looming for Microsoft’s gaming division after years of bad decisions.﻿ Major changes are looming for Microsoft’s gaming division after years of bad decisions.﻿ This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. Microsoft closed out Summer Game Fest with a bang. She also made some strange and superficial changes, like restyling Xbox as XBOX .",
         "source": "The Verge",
         "date": "2026-07-05T12:00:00+00:00"
       },
       {
         "title": "If you're a button, you have one job",
         "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-        "summary": "392 points, 192 comments on Hacker News",
+        "summary": "Now, I’m going to exaggerate the problem a bit and tap 90-degree rotation quickly eight times . The Nothing Phone button gives you a tap confirmation via both haptics and sound, and then ignores the tap if a previous rotation is still animating. Photo-taking on phones is typically casual. (401 points, 195 comments on Hacker News)",
         "source": "Hacker News",
         "date": "2026-07-05T02:01:03+00:00"
       },
       {
         "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
         "url": "https://github.com/openai/codex/issues/30364",
-        "summary": "329 points, 130 comments on Hacker News",
+        "summary": "I found an aggregate pattern in Codex token_count metadata: gpt-5.5 responses disproportionately land at exactly reasoning_output_tokens = 516 , with additional fixed-boundary spikes around 1034 and 1552 . Monthly exact-516 clustering increased sharply: At the same time, overall reasoning-token intensity decreased: The anomaly is not simply higher reasoning-token usage overall. Could the Codex team investigate… (330 points, 133 comments on Hacker News)",
         "source": "Hacker News",
         "date": "2026-07-04T21:51:09+00:00"
       },
       {
         "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
         "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-        "summary": "616 points, 258 comments on Hacker News",
+        "summary": "Please reload this page . Please reload this page . Please reload this page . (617 points, 258 comments on Hacker News)",
         "source": "Hacker News",
         "date": "2026-07-04T19:41:10+00:00"
       },
       {
         "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
         "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
-        "summary": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has…",
+        "summary": "The mission came together in just nine months. The mission came together in just nine months. NASA required the company to rush the job because Swift would be too low to save by October. $30 million and nine months later, help is on the way for the $500 million Swift.",
         "source": "The Verge",
         "date": "2026-07-04T19:06:27+00:00"
       },
       {
         "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
         "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-        "summary": "503 points, 292 comments on Hacker News",
+        "summary": "505 points, 294 comments on Hacker News",
         "source": "Hacker News",
         "date": "2026-07-04T16:51:26+00:00"
       },
       {
         "title": "Meta data center water discharges suspended for contaminating water supply",
         "url": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
-        "summary": "233 points, 77 comments on Hacker News",
+        "summary": "Tom's Hardware Premium equips you with world-class coverage and detailed insights into the evolving hardware landscape. Dive into our proprietary testing data and compare hardware with detailed benchmarks. Dive into our proprietary testing data and compare hardware with detailed benchmarks. (233 points, 78 comments on Hacker News)",
         "source": "Hacker News",
         "date": "2026-07-04T16:45:23+00:00"
       },
       {
         "title": "Leaking YouTube creators' private videos",
         "url": "https://javoriuski.com/post/youtube",
-        "summary": "646 points, 368 comments on Hacker News",
+        "summary": "YouTube Studio has an AI assistant called Ask Studio. Ask Studio is useful for creators. Next time Ask Studio tells you something, think twice before trusting it. (648 points, 369 comments on Hacker News)",
         "source": "Hacker News",
         "date": "2026-07-04T16:45:10+00:00"
       }
