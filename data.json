@@ -1,40 +1,348 @@
 {
-  "generated_at": "2026-07-05T00:00:00+00:00",
+  "generated_at": "2026-07-05T15:16:49.831844+00:00",
   "sections": {
     "research": [
       {
-        "title": "This is placeholder content",
-        "url": "https://arxiv.org",
-        "summary": "Run fetch.py (or wait for the daily GitHub Action) to replace this with real, live arXiv papers.",
+        "title": "Distributed Attacks in Persistent-State AI Control",
+        "url": "https://arxiv.org/abs/2607.02514v1",
+        "summary": "Josh Hills, Ida Caspary, Asa Cooper Stickland — As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt-injected agent can…",
         "source": "arXiv",
-        "date": "2026-07-05T00:00:00+00:00"
+        "date": "2026-07-02T17:59:56Z"
+      },
+      {
+        "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+        "url": "https://arxiv.org/abs/2607.02513v1",
+        "summary": "Matteo Boglioni, Thibault Rousset, Siva Reddy et al. — LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising solution, with…",
+        "source": "arXiv",
+        "date": "2026-07-02T17:59:52Z"
+      },
+      {
+        "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+        "url": "https://arxiv.org/abs/2607.02512v1",
+        "summary": "Wentao Zhang, Liliana Hotsko, Woojeong Kim et al. — Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly outsourced to large…",
+        "source": "arXiv",
+        "date": "2026-07-02T17:59:50Z"
+      },
+      {
+        "title": "Online Safety Monitoring for LLMs",
+        "url": "https://arxiv.org/abs/2607.02510v1",
+        "summary": "Mona Schirmer, Metod Jazbec, Alexander Timans et al. — Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical. We study a simple…",
+        "source": "arXiv",
+        "date": "2026-07-02T17:59:43Z"
+      },
+      {
+        "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+        "url": "https://arxiv.org/abs/2607.02509v1",
+        "summary": "Yanjun Zhao, Ruizhong Qiu, Tianxin Wei et al. — Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context windows, they…",
+        "source": "arXiv",
+        "date": "2026-07-02T17:59:26Z"
+      },
+      {
+        "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+        "url": "https://arxiv.org/abs/2607.02507v1",
+        "summary": "Arman Ghaffarizadeh, Danyal Mohaddes, Aliakbar Izadkhah et al. — LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, without any explicit…",
+        "source": "arXiv",
+        "date": "2026-07-02T17:59:23Z"
+      },
+      {
+        "title": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
+        "url": "https://arxiv.org/abs/2607.02504v1",
+        "summary": "Yuxuan Li, Lingxi Xie, Xinyue Huo et al. — Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deciphering complex storyline often relies on \\textbf{speaker recognition}, the task of accurately attributing each spoken…",
+        "source": "arXiv",
+        "date": "2026-07-02T17:58:52Z"
+      },
+      {
+        "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+        "url": "https://arxiv.org/abs/2607.02502v1",
+        "summary": "Yunhe Li, Hao Shi, Wenhao Liu et al. — On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different levels of…",
+        "source": "arXiv",
+        "date": "2026-07-02T17:58:29Z"
+      },
+      {
+        "title": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+        "url": "https://arxiv.org/abs/2607.02499v1",
+        "summary": "Gil Harari, Yoel Zimmermann, Ola Tangen Kulseng et al. — Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for scientific simulation. While efforts on new architectures and datasets have led to increasingly accurate and general models, the choice of…",
+        "source": "arXiv",
+        "date": "2026-07-02T17:57:31Z"
+      },
+      {
+        "title": "Controllable Sim Agents with Behavior Latents",
+        "url": "https://arxiv.org/abs/2607.02496v1",
+        "summary": "Juanwu Lu, Junyu Zhu, Ziran Wang — Realistic traffic simulation requires agents that imitate logged behavior and can also be steered along interpretable axes. Such controllability enables engineers to isolate variables, reproduce specific edge cases, and…",
+        "source": "arXiv",
+        "date": "2026-07-02T17:55:39Z"
+      },
+      {
+        "title": "Towards Robustness against Typographic Attack with Training-free Concept Localization",
+        "url": "https://arxiv.org/abs/2607.02494v1",
+        "summary": "Bohan Liu, Wenqian Ye, Guangzhi Xiong et al. — Models trained via Contrastive Language-Image Pretraining (CLIP) serve as the foundational vision encoders for most modern Large Vision Language Models (LVLMs). Despite their widespread adoption, CLIP models exhibit a…",
+        "source": "arXiv",
+        "date": "2026-07-02T17:55:24Z"
+      },
+      {
+        "title": "G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models",
+        "url": "https://arxiv.org/abs/2607.02491v1",
+        "summary": "Timo Bertram, Sidhant Bhavnani, Richard Freinschlag et al. — In this work, we focus on SE-RRMs, a symbol-equivariant instantiation of RRMs that exhibits improved extrapolation to larger problem sizes. We propose a neuro-symbolic approach, ``Guiding with Recurrent Reasoning…",
+        "source": "arXiv",
+        "date": "2026-07-02T17:53:31Z"
       }
     ],
     "labs": [
       {
-        "title": "This is placeholder content",
-        "url": "https://openai.com/news",
-        "summary": "Real posts from OpenAI, Google Research, and DeepMind will appear here once the fetcher runs.",
+        "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+        "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+        "summary": "",
+        "source": "Google DeepMind",
+        "date": "2026-07-03T14:25:43+00:00"
+      },
+      {
+        "title": "Expanding our Heat Resilience data to 50+ global cities",
+        "url": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/",
+        "summary": "Climate & Sustainability",
+        "source": "Google Research",
+        "date": "2026-06-30T17:03:00+00:00"
+      },
+      {
+        "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+        "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+        "summary": "",
+        "source": "Google DeepMind",
+        "date": "2026-06-30T16:02:40+00:00"
+      },
+      {
+        "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
+        "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+        "summary": "Data Management",
+        "source": "Google Research",
+        "date": "2026-06-30T10:26:00+00:00"
+      },
+      {
+        "title": "How ChatGPT adoption has expanded",
+        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+        "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
         "source": "OpenAI",
-        "date": "2026-07-05T00:00:00+00:00"
+        "date": "2026-06-30T09:00:00+00:00"
+      },
+      {
+        "title": "Inside Genebench-Pro",
+        "url": "https://openai.com/index/genebench-pro/case-studies",
+        "summary": "",
+        "source": "OpenAI",
+        "date": "2026-06-30T00:00:00+00:00"
+      },
+      {
+        "title": "Introducing GeneBench-Pro",
+        "url": "https://openai.com/index/introducing-genebench-pro",
+        "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+        "source": "OpenAI",
+        "date": "2026-06-30T00:00:00+00:00"
+      },
+      {
+        "title": "Core dump epidemiology: fixing an 18-year-old bug",
+        "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+        "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+        "source": "OpenAI",
+        "date": "2026-06-30T00:00:00+00:00"
+      },
+      {
+        "title": "Mapping Europe’s AI Workforce Opportunity",
+        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+        "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+        "source": "OpenAI",
+        "date": "2026-06-29T07:00:00+00:00"
+      },
+      {
+        "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+        "url": "https://openai.com/index/hp-frontier-partnership",
+        "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+        "source": "OpenAI",
+        "date": "2026-06-28T17:00:00+00:00"
+      },
+      {
+        "title": "Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction",
+        "url": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/",
+        "summary": "Machine Intelligence",
+        "source": "Google Research",
+        "date": "2026-06-26T18:30:00+00:00"
+      },
+      {
+        "title": "Previewing GPT-5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+        "source": "OpenAI",
+        "date": "2026-06-26T10:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "This is placeholder content",
-        "url": "https://techcrunch.com",
-        "summary": "Real TechCrunch startup stories will appear here once the fetcher runs.",
+        "title": "5 desk gadgets that can make your workday better",
+        "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
+        "summary": "The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.",
         "source": "TechCrunch",
-        "date": "2026-07-05T00:00:00+00:00"
+        "date": "2026-07-05T15:00:00+00:00"
+      },
+      {
+        "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
+        "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+        "summary": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
+        "source": "TechCrunch",
+        "date": "2026-07-05T13:33:32+00:00"
+      },
+      {
+        "title": "Almost 90 new unicorns have been minted so far this year — here they are",
+        "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+        "summary": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
+        "source": "TechCrunch",
+        "date": "2026-07-05T12:47:39+00:00"
+      },
+      {
+        "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+        "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+        "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+        "source": "TechCrunch",
+        "date": "2026-07-04T20:55:25+00:00"
+      },
+      {
+        "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+        "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+        "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+        "source": "TechCrunch",
+        "date": "2026-07-04T18:00:05+00:00"
+      },
+      {
+        "title": "Alibaba reportedly bans employees from using Claude Code",
+        "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+        "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+        "source": "TechCrunch",
+        "date": "2026-07-04T16:32:08+00:00"
+      },
+      {
+        "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+        "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+        "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+        "source": "TechCrunch",
+        "date": "2026-07-04T15:51:32+00:00"
+      },
+      {
+        "title": "The only AI glossary you’ll need this year",
+        "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "source": "TechCrunch",
+        "date": "2026-07-03T21:20:00+00:00"
+      },
+      {
+        "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+        "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+        "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+        "source": "TechCrunch",
+        "date": "2026-07-03T18:43:00+00:00"
+      },
+      {
+        "title": "The Dune keypad device can be your meeting controller and more",
+        "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+        "summary": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.",
+        "source": "TechCrunch",
+        "date": "2026-07-03T18:28:30+00:00"
+      },
+      {
+        "title": "Chevy built an all-American EV truck — why is nobody buying it?",
+        "url": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
+        "summary": "The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better.",
+        "source": "TechCrunch",
+        "date": "2026-07-03T16:30:00+00:00"
+      },
+      {
+        "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+        "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+        "summary": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.",
+        "source": "TechCrunch",
+        "date": "2026-07-03T05:05:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "This is placeholder content",
-        "url": "https://theverge.com",
-        "summary": "Real stories from The Verge and Hacker News will appear here once the fetcher runs.",
+        "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+        "summary": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's…",
         "source": "The Verge",
-        "date": "2026-07-05T00:00:00+00:00"
+        "date": "2026-07-05T14:23:11+00:00"
+      },
+      {
+        "title": "The Sourdough Sidekick automates the boring bit of baking",
+        "url": "https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter",
+        "summary": "Baking sourdough bread is inherently old-fashioned, relying on natural fermentation and wild yeast instead of the simple, predictable commercial stuff. So it might sound anathema to bring a gadget into the mix. The…",
+        "source": "The Verge",
+        "date": "2026-07-05T14:00:00+00:00"
+      },
+      {
+        "title": "How Keurig saved — and ruined — your coffee",
+        "url": "https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history",
+        "summary": "Before Keurig, the coffee in your office was almost certainly terrible. Old, burned, made by someone who would rather poorly eyeball than properly measure. Just altogether gross. After Keurig? You could make your own…",
+        "source": "The Verge",
+        "date": "2026-07-05T13:51:56+00:00"
+      },
+      {
+        "title": "Vizio accidentally made the best dumb TV on the market",
+        "url": "https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review",
+        "summary": "When I first started testing Vizio's 65-inch Mini LED Quantum TV, I thought the big story was that Vizio was back and that it had a quantum-dot TV for under $398 - the cheapest on the market. Vizio's been pretty quiet…",
+        "source": "The Verge",
+        "date": "2026-07-05T13:00:00+00:00"
+      },
+      {
+        "title": "Xbox is a disaster",
+        "url": "https://www.theverge.com/column/960600/xbox-is-a-disaster",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the bleak state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers'…",
+        "source": "The Verge",
+        "date": "2026-07-05T12:00:00+00:00"
+      },
+      {
+        "title": "If you're a button, you have one job",
+        "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+        "summary": "391 points, 191 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-07-05T02:01:03+00:00"
+      },
+      {
+        "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+        "url": "https://github.com/openai/codex/issues/30364",
+        "summary": "329 points, 129 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-07-04T21:51:09+00:00"
+      },
+      {
+        "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+        "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+        "summary": "616 points, 258 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-07-04T19:41:10+00:00"
+      },
+      {
+        "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+        "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+        "summary": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has…",
+        "source": "The Verge",
+        "date": "2026-07-04T19:06:27+00:00"
+      },
+      {
+        "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+        "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+        "summary": "503 points, 290 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-07-04T16:51:26+00:00"
+      },
+      {
+        "title": "Meta data center water discharges suspended for contaminating water supply",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
+        "summary": "233 points, 77 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-07-04T16:45:23+00:00"
+      },
+      {
+        "title": "Leaking YouTube creators' private videos",
+        "url": "https://javoriuski.com/post/youtube",
+        "summary": "646 points, 368 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-07-04T16:45:10+00:00"
       }
     ]
   }
