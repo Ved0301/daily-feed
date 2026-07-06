@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T15:36:03.942781+00:00",
+  "generated_at": "2026-07-06T11:28:20.811486+00:00",
   "sections": {
     "research": [
       {
@@ -175,6 +175,41 @@
     ],
     "startups": [
       {
+        "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
+        "url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+        "summary": "Even’s earlier backers are mostly high-profile China names including Sequoia China. Even was started by ex-Apple engineers in 2023. The startup moved quickly, launching its first product, Even G1 , in 2024 as what Wang calls the lightest waveguide smart glasses then on the market.",
+        "source": "TechCrunch",
+        "date": "2026-07-06T09:00:00+00:00"
+      },
+      {
+        "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
+        "url": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
+        "summary": "Last week, AI2 Robotics, a Shenzhen-based startup that makes wheeled humanoid robots, raised roughly $735 million at a nearly $3 billion valuation. By comparison, Peggy Johnson, CEO of Agility Robotics, is surprisingly measured. Based in Salem, Oregon, the company makes bipedal humanoid robots designed to work in warehouses and factories.",
+        "source": "TechCrunch",
+        "date": "2026-07-06T06:05:29+00:00"
+      },
+      {
+        "title": "Uber’s European expansion plans may have hit a speed bump",
+        "url": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+        "summary": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now the Financial Times reports that five of those launches are on hold. Country launches that have been paused include Austria, Norway, and Greece. Another likely factor in the decision: Uber’s continuing efforts to acquire Delivery Hero, a European company that rejected Uber’s 10 billion euro takeover bid in May.",
+        "source": "TechCrunch",
+        "date": "2026-07-05T21:35:17+00:00"
+      },
+      {
+        "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
+        "url": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
+        "summary": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, according to cryptocurrency analytics firm Nansen. That represents around two out of three $TRUMP buyers. Trump announced the memecoin three days before his inauguration in 2025.",
+        "source": "TechCrunch",
+        "date": "2026-07-05T20:29:05+00:00"
+      },
+      {
+        "title": "Amazon will stop accepting new customers for Mechanical Turk",
+        "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+        "summary": "These may be the last days of Amazon’s Mechanical Turk. An announcement on the Mechanical Turk website says that on July 30, 2026, the crowdsourcing service will close to new customers. Over time, the relationship between Mechanical Turk and AI models grew even more complicated.",
+        "source": "TechCrunch",
+        "date": "2026-07-05T17:43:36+00:00"
+      },
+      {
         "title": "5 desk gadgets that can make your workday better",
         "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
         "summary": "The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day. At just $13, the desktop vacuum is a great way to keep your desk clean as you work. The Govee Glide Hexa Light Panels are a simple and fun way to add some personality to your work desk setup without taking up any actual desk space.",
@@ -205,7 +240,7 @@
       {
         "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
         "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-        "summary": "As part of an ongoing legal dispute with three Hollywood studios, AI startup Midjourney is seeking to compel those studios to reveal how they use AI themselves. Disney and Universal sued Midjourney for alleged copyright infringement last year, noting that the startup’s image-generation models could create images of characters, such as Bart Simpson and Darth Vader, who are owned by the studios. A few months later,…",
+        "summary": "As part of an ongoing legal dispute with three Hollywood studios, AI startup Midjourney is seeking to compel those studios to reveal how they use AI themselves. Disney and Universal sued Midjourney for alleged copyright infringement last year, noting that the startup’s models could generate images of characters, such as Bart Simpson and Darth Vader, who are owned by the studios. A few months later, Warner Bros. sued…",
         "source": "TechCrunch",
         "date": "2026-07-04T18:00:05+00:00"
       },
@@ -222,44 +257,79 @@
         "summary": "This vision means that Mistral is looking beyond the enterprise. Six months later, Mistral closed a €385 million Series A ($415 million at the time), at a reported valuation of $2 billion. In June 2024, Mistral raised €600 million (about $640 million) in a mix of equity and debt .",
         "source": "TechCrunch",
         "date": "2026-07-04T15:51:32+00:00"
-      },
-      {
-        "title": "The only AI glossary you’ll need this year",
-        "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-        "summary": "Reasoning models are developed from traditional large language models and optimized for chain-of-thought thinking thanks to reinforcement learning. Developing machine learning AIs involves a process known as training. Transfer learning can drive efficiency savings by shortcutting model development.",
-        "source": "TechCrunch",
-        "date": "2026-07-03T21:20:00+00:00"
-      },
-      {
-        "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-        "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-        "summary": "The Browser Company, the startup behind the Arc browser, recently introduced Dia , its AI-centric browser that looks similar to Google Chrome but with an AI chat tool. OpenAI recently launched its AI-powered web browser, called Atlas . Zen Browser aims to create a “calmer internet” with its open source browser.",
-        "source": "TechCrunch",
-        "date": "2026-07-03T18:43:00+00:00"
-      },
-      {
-        "title": "The Dune keypad device can be your meeting controller and more",
-        "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
-        "summary": "Dune ships with a companion app for configuring shortcuts, either per-app or system-wide. Within a given app, you can assign a Dune key to a keyboard shortcut, a command, or a link that opens an app or URL. The app also has a marketplace, from where you can explore skills made by other Dune owners.",
-        "source": "TechCrunch",
-        "date": "2026-07-03T18:28:30+00:00"
-      },
-      {
-        "title": "Chevy built an all-American EV truck — why is nobody buying it?",
-        "url": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
-        "summary": "The Silverado EV drives, well, almost like a car. The fossil fuel Silverado sells 10 times that in a quarter. Pick the route to maximize time spent in Super Cruise.",
-        "source": "TechCrunch",
-        "date": "2026-07-03T16:30:00+00:00"
-      },
-      {
-        "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-        "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
-        "summary": "Security researchers have confirmed that a European politician had his phone hacked with the Pegasus spyware while serving on an investigatory committee probing abuses of the notorious surveillance tool. The researchers at the University of Toronto’s digital rights unit The Citizen Lab say the confirmed phone hacking of Greek journalist and former politician Stelios Kouloglou during 2022 and 2023 marks the first…",
-        "source": "TechCrunch",
-        "date": "2026-07-03T05:05:00+00:00"
       }
     ],
     "wider_tech": [
+      {
+        "title": "GPT-5.6 Sol Ultra will be in Codex",
+        "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+        "summary": "309 points, 252 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-07-06T01:04:03+00:00"
+      },
+      {
+        "title": "Has_not_been_viewed_much",
+        "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+        "summary": "The Art Institute of Chicago's API includes a has_not_been_viewed_much field on artwork. More specifically, per the source code , has_not_been_viewed_much means the art piece has been viewed fewer than 200 times on the website since January 1, 2010. Why aren't they being viewed? (337 points, 88 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-05T23:49:00+00:00"
+      },
+      {
+        "title": "Some of the nation’s rich are letting AI teach their kids",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+        "summary": "They’re paying tens of thousands of dollars for their children to be beta testers for unproven tech. They’re paying tens of thousands of dollars for their children to be beta testers for unproven tech. Companies like Forge Prep and Alpha School are charging families tens of thousands of dollars to turn their kids into beta testers for AI tutors and “interactive project-based workshops.” Unsurprisingly, Silicon…",
+        "source": "The Verge",
+        "date": "2026-07-05T22:30:54+00:00"
+      },
+      {
+        "title": "Completing a computer science degree on Coursera",
+        "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+        "summary": "Just because it's online doesn't mean it's easy. However, many students opt to complete 4 modules straight through, and I think the fastest possible time to complete the course is 3 years flat. I started my degree one month before ChatGPT was launched, so it's been quite interesting to watch the degree evolve as LLM capabilities have changed. (222 points, 140 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-05T21:20:49+00:00"
+      },
+      {
+        "title": "OpenPrinter",
+        "url": "https://www.opentools.studio/",
+        "summary": "With Openprinter, easily refill your cartridges . Openprinter fits anywhere . Standard mechanical components : easily found from several suppliers. (908 points, 227 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-05T21:03:06+00:00"
+      },
+      {
+        "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip-hop at its most daring",
+        "url": "https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review",
+        "summary": "With production from El-P, Edan, and Lif himself, it doesn’t shy away from political controversy. With production from El-P, Edan, and Lif himself, it doesn’t shy away from political controversy. Lif’s Emergency Rations can be hard to come by (so is I Phantom , for that matter).",
+        "source": "The Verge",
+        "date": "2026-07-05T18:30:00+00:00"
+      },
+      {
+        "title": "The future of Flipper Zero development",
+        "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+        "summary": "We've seen the strong reaction from the community over the idea that we've stopped developing the Flipper Zero firmware. TL;DR: We've allocated resources to maintain Flipper Zero firmware and support community contributions. We're moving all requests from the Flipper Zero community to GitHub Discussions . (352 points, 149 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-05T18:22:00+00:00"
+      },
+      {
+        "title": "Starring the Computer",
+        "url": "https://www.starringthecomputer.com/computers.html",
+        "summary": "243 points, 55 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-07-05T17:33:04+00:00"
+      },
+      {
+        "title": "Where to preorder Grand Theft Auto VI",
+        "url": "https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy",
+        "summary": "There aren’t store-exclusive preorder bonuses, so you can buy from wherever you prefer without missing out on trinkets. There aren’t store-exclusive preorder bonuses, so you can buy from wherever you prefer without missing out on trinkets. It’s only available digitally from PlayStation or Xbox .",
+        "source": "The Verge",
+        "date": "2026-07-05T16:00:00+00:00"
+      },
+      {
+        "title": "It's not about physical vs. digital games, it's about ownership",
+        "url": "https://popcar.bearblog.dev/its-about-ownership/",
+        "summary": "This also isn't specific to video games. Even games that aren't that old! Donate to an organization that preserves games & game-related content. (544 points, 396 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-05T14:56:15+00:00"
+      },
       {
         "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
@@ -268,81 +338,11 @@
         "date": "2026-07-05T14:23:11+00:00"
       },
       {
-        "title": "The Sourdough Sidekick automates the boring bit of baking",
-        "url": "https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter",
-        "summary": "There’s no option to set the Sidekick into an Auto maintenance mode. While Auto feeds your starter with flour and water at a 1:1:1 ratio, Ratio mode gives you a few preset ratios to pick from and lets you set the starter seed amount and the feeding frequency. For that you need Custom mode.",
-        "source": "The Verge",
-        "date": "2026-07-05T14:00:00+00:00"
-      },
-      {
-        "title": "How Keurig saved — and ruined — your coffee",
-        "url": "https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history",
-        "summary": "On Version History: How one company filled the world with K-Cups, and changed our relationship with coffee. On Version History: How one company filled the world with K-Cups, and changed our relationship with coffee. This is the fourth episode of the fourth season of Version History .",
-        "source": "The Verge",
-        "date": "2026-07-05T13:51:56+00:00"
-      },
-      {
-        "title": "Vizio accidentally made the best dumb TV on the market",
-        "url": "https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review",
-        "summary": "The Mini LED Quantum is the cheapest quantum-dot TV you can get, but Walmart’s tracking is worrisome. Walmart bought Vizio for its advertising business . Most people, though, will be more than happy with the performance of the Vizio Mini LED Quantum.",
-        "source": "The Verge",
-        "date": "2026-07-05T13:00:00+00:00"
-      },
-      {
-        "title": "Xbox is a disaster",
-        "url": "https://www.theverge.com/column/960600/xbox-is-a-disaster",
-        "summary": "Major changes are looming for Microsoft’s gaming division after years of bad decisions.﻿ Major changes are looming for Microsoft’s gaming division after years of bad decisions.﻿ This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. Microsoft closed out Summer Game Fest with a bang. She also made some strange and superficial changes, like restyling Xbox as XBOX .",
-        "source": "The Verge",
-        "date": "2026-07-05T12:00:00+00:00"
-      },
-      {
-        "title": "If you're a button, you have one job",
-        "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-        "summary": "Now, I’m going to exaggerate the problem a bit and tap 90-degree rotation quickly eight times . The Nothing Phone button gives you a tap confirmation via both haptics and sound, and then ignores the tap if a previous rotation is still animating. Photo-taking on phones is typically casual. (401 points, 196 comments on Hacker News)",
+        "title": "Organic Maps",
+        "url": "https://organicmaps.app/",
+        "summary": "Organic Maps is a privacy-focused offline maps & GPS app for hiking, cycling, biking, and driving. In December 2025, Organic Maps reached 6M installs . Organic Maps is the ultimate companion app for travelers, tourists, hikers, drivers, and cyclists: Organic Maps is pure and organic, made with love: Organic Maps app is free from trackers and other bad stuff: The application is verified by Exodus Privacy Project :… (1036 points, 322 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-05T02:01:03+00:00"
-      },
-      {
-        "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-        "url": "https://github.com/openai/codex/issues/30364",
-        "summary": "I found an aggregate pattern in Codex token_count metadata: gpt-5.5 responses disproportionately land at exactly reasoning_output_tokens = 516 , with additional fixed-boundary spikes around 1034 and 1552 . Monthly exact-516 clustering increased sharply: At the same time, overall reasoning-token intensity decreased: The anomaly is not simply higher reasoning-token usage overall. Could the Codex team investigate… (331 points, 133 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-04T21:51:09+00:00"
-      },
-      {
-        "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-        "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-        "summary": "Please reload this page . Please reload this page . Please reload this page . (617 points, 258 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-04T19:41:10+00:00"
-      },
-      {
-        "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
-        "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
-        "summary": "The mission came together in just nine months. The mission came together in just nine months. NASA required the company to rush the job because Swift would be too low to save by October. $30 million and nine months later, help is on the way for the $500 million Swift.",
-        "source": "The Verge",
-        "date": "2026-07-04T19:06:27+00:00"
-      },
-      {
-        "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
-        "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-        "summary": "505 points, 294 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-07-04T16:51:26+00:00"
-      },
-      {
-        "title": "Meta data center water discharges suspended for contaminating water supply",
-        "url": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
-        "summary": "Tom's Hardware Premium equips you with world-class coverage and detailed insights into the evolving hardware landscape. Dive into our proprietary testing data and compare hardware with detailed benchmarks. Dive into our proprietary testing data and compare hardware with detailed benchmarks. (233 points, 78 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-04T16:45:23+00:00"
-      },
-      {
-        "title": "Leaking YouTube creators' private videos",
-        "url": "https://javoriuski.com/post/youtube",
-        "summary": "YouTube Studio has an AI assistant called Ask Studio. Ask Studio is useful for creators. Next time Ask Studio tells you something, think twice before trusting it. (649 points, 370 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-04T16:45:10+00:00"
+        "date": "2026-07-05T14:14:30+00:00"
       }
     ]
   }
