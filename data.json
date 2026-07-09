@@ -1,93 +1,121 @@
 {
-  "generated_at": "2026-07-08T09:26:27.268376+00:00",
+  "generated_at": "2026-07-09T10:31:15.083430+00:00",
   "sections": {
     "research": [
       {
-        "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
-        "url": "https://arxiv.org/abs/2607.06565v1",
-        "summary": "Tianjiao Yu, Xinzhuo Li, Yifan Shen et al. — Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatenate text and 3D…",
+        "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
+        "url": "https://arxiv.org/abs/2607.07708v1",
+        "summary": "Chen Tang, Yizhou Wang, Jianyu Wu et al. — Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization.",
         "source": "arXiv",
-        "date": "2026-07-07T17:59:50Z"
+        "date": "2026-07-08T17:59:59Z"
       },
       {
-        "title": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
-        "url": "https://arxiv.org/abs/2607.06546v1",
-        "summary": "Shervin Khalafi, Igor Krawczuk, Sergio Rozada et al. — Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoising graphs.…",
+        "title": "Co-LMLM: Continuous-Query Limited Memory Language Models",
+        "url": "https://arxiv.org/abs/2607.07707v1",
+        "summary": "Yair Feldman, Linxi Zhao, Nathan Godey et al. — Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowledge base (KB), rather than memorizing it in their weights. During generation, the model then fetches knowledge from the…",
         "source": "arXiv",
-        "date": "2026-07-07T17:52:17Z"
+        "date": "2026-07-08T17:59:45Z"
       },
       {
-        "title": "Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
-        "url": "https://arxiv.org/abs/2607.06544v1",
-        "summary": "Aparna Madva, Sharath Srivatsa, Srinath Srinivasa et al. — As Artificial Intelligence (AI) makes inroads into different parts of the Indian subcontinent, there is significant interest in studying how AI impacts the linguistic and cultural foundations of this civilization.",
+        "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization",
+        "url": "https://arxiv.org/abs/2607.07706v1",
+        "summary": "Anna Kuzina, Paul N. Whatmough, Babak Ehteshami Bejnordi — The quadratic cost of causal self-attention severely bottlenecks long-context transformer inference. While numerous post hoc linearization pipelines exist, it is difficult to identify which components preserve model…",
         "source": "arXiv",
-        "date": "2026-07-07T17:51:10Z"
+        "date": "2026-07-08T17:59:09Z"
       },
       {
-        "title": "On the feasibility of dependency parsing of non-human sequences without a gold standard. Is evaluation possible in other species?",
-        "url": "https://arxiv.org/abs/2607.06542v1",
-        "summary": "Ramon Ferrer-i-Cancho, Catherine Hobaiter, Thore Bergman et al. — Dependency parsing consists of finding a tree representation for a sequence. Unsupervised dependency parsing aims to develop parsing methods without a gold standard during model training.",
+        "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
+        "url": "https://arxiv.org/abs/2607.07702v1",
+        "summary": "Ying Chang, Jiahang Xu, Xuan Feng et al. — The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policies.",
         "source": "arXiv",
-        "date": "2026-07-07T17:47:26Z"
+        "date": "2026-07-08T17:57:27Z"
       },
       {
-        "title": "Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs",
-        "url": "https://arxiv.org/abs/2607.06540v1",
-        "summary": "Zhenyu Liu, Yunxin Li, Xuanyu Zhang et al. — Developing seamless, high-performance, native intelligent full-duplex Spoken Language Models (SLMs) remains a critical challenge and long-standing goal for the speech and NLP community. Despite notable progress, recent…",
+        "title": "Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass",
+        "url": "https://arxiv.org/abs/2607.07696v1",
+        "summary": "Victor Giannakouris, Immanuel Trummer — Analytical workloads operating on data stored in external database systems face a fundamental bottleneck: data access is guarded entirely by the database driver, like JDBC or ODBC, forcing all reads through query…",
         "source": "arXiv",
-        "date": "2026-07-07T17:43:36Z"
+        "date": "2026-07-08T17:55:00Z"
       },
       {
-        "title": "GraphBU: MILP Instance Generation with Graph-Native Block Units",
-        "url": "https://arxiv.org/abs/2607.06532v1",
-        "summary": "Xiaolei Guo, Chenyu Zhou, Jianghao Lin et al. — Mixed-integer linear programming (MILP) instances used for solver development are hard to obtain when models come from private or application-specific pipelines. A generator must keep the structure that solvers and…",
+        "title": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
+        "url": "https://arxiv.org/abs/2607.07695v1",
+        "summary": "Yujiao Chen — We introduce institutional red-teaming, an evaluation methodology for testing deployment rules in multi-agent AI: hold the agents, objectives, and task state fixed, vary only one rule, and attribute the resulting change…",
         "source": "arXiv",
-        "date": "2026-07-07T17:39:06Z"
+        "date": "2026-07-08T17:53:56Z"
       },
       {
-        "title": "The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
-        "url": "https://arxiv.org/abs/2607.06531v1",
-        "summary": "Ghassen Marrakchi, Basarab Matei — - Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference.",
+        "title": "Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF",
+        "url": "https://arxiv.org/abs/2607.07693v1",
+        "summary": "Eric Zhu, Abhinav Shrivastava, Soumik Mukhopadhyay — Reinforcement learning from human feedback (RLHF) has emerged as a powerful paradigm for aligning generative models with human preferences. However, applying RLHF to diffusion models remains highly feedback inefficient,…",
         "source": "arXiv",
-        "date": "2026-07-07T17:38:47Z"
+        "date": "2026-07-08T17:49:49Z"
       },
       {
-        "title": "Life Style Levels: Neighborhood Delineation using Geospatial Data",
-        "url": "https://arxiv.org/abs/2607.06529v1",
-        "summary": "Srivatsa Kulkarni, Debarag Banerjee — Fine-scale socioeconomic information is often unavailable across rapidly ur-banizing regions of the developing world, like India, limiting the ability to delineate intra-urban variations in affluence and deprivation.…",
+        "title": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
+        "url": "https://arxiv.org/abs/2607.07690v1",
+        "summary": "Vladislav Beliaev — Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer.",
         "source": "arXiv",
-        "date": "2026-07-07T17:37:03Z"
+        "date": "2026-07-08T17:49:14Z"
       },
       {
-        "title": "RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation",
-        "url": "https://arxiv.org/abs/2607.06527v1",
-        "summary": "Sambaran Bandyopadhyay, Ananth Muppidi — Multi-hop Question Answering over Knowledge Graphs faces a critical challenge: traditional retrieve-then-read pipelines break differentiability, preventing the retriever from learning to bridge the semantic gap where…",
+        "title": "ECGLight: Compute-Light Framework For Paper ECG Digitization and Myocardial Infarction Screening",
+        "url": "https://arxiv.org/abs/2607.07683v1",
+        "summary": "Shreyasvi Natraj, Cyrus Achtari, Felice Gragnano et al. — Electrocardiography (ECG) is one of the most widely used tests for diagnosing cardiovascular disease. Yet several remote clinics still utilize paper ECG printouts for their analysis due to limited connectivity and…",
         "source": "arXiv",
-        "date": "2026-07-07T17:32:36Z"
+        "date": "2026-07-08T17:42:00Z"
       },
       {
-        "title": "DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression",
-        "url": "https://arxiv.org/abs/2607.06523v1",
-        "summary": "Anna Cordoba, Adam Puente Tercero, Nerea Angulo Hijo et al. — Long-context language model inference is increasingly limited by the memory bandwidth and capacity required to store key-value caches, yet existing compression methods often apply uniform budgets across layers or tokens…",
+        "title": "Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization",
+        "url": "https://arxiv.org/abs/2607.07682v1",
+        "summary": "Xiangming Huang, Guannan Zhang, Lu Lu et al. — The inverse design of physical systems governed by partial differential equations is computationally demanding due to the high dimensionality and non-convexity of design spaces. Generative models for inverse design…",
         "source": "arXiv",
-        "date": "2026-07-07T17:29:01Z"
+        "date": "2026-07-08T17:41:56Z"
       },
       {
-        "title": "Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Reasoning Alignment",
-        "url": "https://arxiv.org/abs/2607.06522v1",
-        "summary": "Han-Jun Ko, Jr-Jen Chen, Haobo Yuan et al. — Vision-language models (VLMs) struggle to generalize in interactive physical reasoning, particularly under unseen tasks and environments. Two key failure modes are prominent: hallucinated chain-of-thought (CoT)…",
+        "title": "Any-Dimensional Learning by Sampling",
+        "url": "https://arxiv.org/abs/2607.07680v1",
+        "summary": "Eitan Levin, Venkat Chandrasekaran — Many machine learning models are defined for inputs of different sizes, such as point clouds containing different numbers of points, sequences of tokens of different lengths, and graphs on different numbers of nodes.…",
         "source": "arXiv",
-        "date": "2026-07-07T17:27:59Z"
+        "date": "2026-07-08T17:38:29Z"
       },
       {
-        "title": "FreqDepthKV: Frequency-Guided Depth Sharing for Robust KV Cache Compression in Long-Context LLM Inference",
-        "url": "https://arxiv.org/abs/2607.06519v1",
-        "summary": "Anna Córdoba, Adam Puente Tercero, Nerea Angulo Hijo et al. — Long-context LLM inference is increasingly limited by the memory and bandwidth cost of KV caches, yet aggressive compression can remove the layer-specific evidence needed for retrieval and multi-step reasoning.",
+        "title": "How Data Shapes RoPE Frequency Usage: From Positional Scale Matching to Length Generalization",
+        "url": "https://arxiv.org/abs/2607.07678v1",
+        "summary": "Xinyi Wu, Siyuan Liu, Ali Jadbabaie — Rotary Position Embeddings (RoPE) provide transformers with a fixed grid of positional frequencies, yet trained models use these frequencies highly non-uniformly. We study what determines this frequency usage and…",
         "source": "arXiv",
-        "date": "2026-07-07T17:26:28Z"
+        "date": "2026-07-08T17:38:14Z"
       }
     ],
     "labs": [
+      {
+        "title": "Our approach to government and national security partnerships",
+        "url": "https://openai.com/index/government-national-security-partnerships",
+        "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+        "source": "OpenAI",
+        "date": "2026-07-08T13:30:00+00:00"
+      },
+      {
+        "title": "Separating signal from noise in coding evaluations",
+        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+        "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+        "source": "OpenAI",
+        "date": "2026-07-08T13:00:00+00:00"
+      },
+      {
+        "title": "Helping K–12 educators build practical AI skills",
+        "url": "https://openai.com/index/k-12-educators-practical-skills",
+        "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+        "source": "OpenAI",
+        "date": "2026-07-08T10:00:00+00:00"
+      },
+      {
+        "title": "Introducing GPT-Live",
+        "url": "https://openai.com/index/introducing-gpt-live",
+        "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+        "source": "OpenAI",
+        "date": "2026-07-08T00:00:00+00:00"
+      },
       {
         "title": "The power of collaboration: How we can reduce traffic congestion",
         "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
@@ -143,206 +171,164 @@
         "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
         "source": "OpenAI",
         "date": "2026-06-30T09:00:00+00:00"
-      },
-      {
-        "title": "Core dump epidemiology: fixing an 18-year-old bug",
-        "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-        "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-        "source": "OpenAI",
-        "date": "2026-06-30T00:00:00+00:00"
-      },
-      {
-        "title": "Introducing GeneBench-Pro",
-        "url": "https://openai.com/index/introducing-genebench-pro",
-        "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-        "source": "OpenAI",
-        "date": "2026-06-30T00:00:00+00:00"
-      },
-      {
-        "title": "Inside Genebench-Pro",
-        "url": "https://openai.com/index/genebench-pro/case-studies",
-        "summary": "",
-        "source": "OpenAI",
-        "date": "2026-06-30T00:00:00+00:00"
-      },
-      {
-        "title": "Mapping Europe’s AI Workforce Opportunity",
-        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-        "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-        "source": "OpenAI",
-        "date": "2026-06-29T07:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-        "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-        "summary": "With ZML/LLMD , the newly launched LLM inference server, the company’s ambition is to break existing silos and make different chips available for AI use cases at their maximum available speed, and sometimes faster, ZML founder Steeve Morin told TechCrunch. Unlike ZML’s first public project, the inference-focused ML framework released in 2024 and updated in March , ZML/LLMD is not open source. “I couldn’t do ZML…",
+        "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules",
+        "url": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
+        "summary": "On Wednesday, CEO Rishit Jhunjhunwala (pictured above) took to X to publicly challenge the Telecom Regulatory Authority of India (TRAI), accusing the watchdog of preventing Truecaller from displaying community-reported spam information for calls from the country’s dedicated 1400 and 1600 number series, a restriction he said had enabled abuse of those numbers and eroded trust in legitimate business calls. TRAI later…",
         "source": "TechCrunch",
-        "date": "2026-07-08T08:00:00+00:00"
+        "date": "2026-07-09T02:30:00+00:00"
       },
       {
-        "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-        "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-        "summary": "“Having JPMorgan Chase decide they’re going to use SambaNova for their inference solution is a big deal,” Liang told TechCrunch. Liang said SambaNova’s edge as “premium inference” running the largest models and running them fast. SambaNova sees three types of customers.",
+        "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
+        "url": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
+        "summary": "District Judge Sparkle Sooknanan noted that her court would accept the settlement, Bloomberg reported Wednesday, which cited her court opinion . Sooknanan previously questioned whether Musk was receiving “special treatment” from the Trump administration. Musk helped to bankroll Trump’s campaign during the 2024 presidential race.",
         "source": "TechCrunch",
-        "date": "2026-07-08T07:16:00+00:00"
+        "date": "2026-07-08T23:11:42+00:00"
       },
       {
-        "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-        "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
-        "summary": "Due to overwhelming interest, we’ve extended applications for Startup Battlefield Australia to July 20 . Automatic entry into Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October. Isabelle leads Startup Battlefield, TechCrunch’s iconic launchpad and competition for the world’s most promising early-stage startups.",
+        "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+        "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+        "summary": "Lovable, a Swedish vibe-coding startup, is in talks to raise $300 million at a valuation of $13.2 billion — exactly double the $6.6 billion valuation the company achieved last December, Sifted reported . Other high-profile vibe-coding startups include Replit, valued at $9 billion in March, and Factory, a startup that helps enterprises develop AI agents, which raised $150 million at a $1.5 billion valuation in April.…",
         "source": "TechCrunch",
-        "date": "2026-07-07T22:30:00+00:00"
+        "date": "2026-07-08T22:41:33+00:00"
       },
       {
-        "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-        "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-        "summary": "Meta on Tuesday unveiled Muse Image, its new AI image generator built by Meta Superintelligence Labs, the company’s dedicated AI unit. The model also features prompt-based image editing, which lets users create images to share across Meta’s apps and platforms. Meta’s privacy record is one reason for users’ unease over Muse.",
+        "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
+        "url": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
+        "summary": "National Highway Traffic Safety Administration (NHTSA) Administrator Jonathan Morrison issued a directive Wednesday to autonomous vehicle (AV) developers, stating that it is unacceptable for their vehicles to interfere with first responders or law enforcement. Morrison noted in the letter that the agency has “identified a clear pattern of driverless AVs interfering with law enforcement and other first responders,”…",
         "source": "TechCrunch",
-        "date": "2026-07-07T22:18:10+00:00"
+        "date": "2026-07-08T21:49:33+00:00"
       },
       {
-        "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-        "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-        "summary": "It’s a new way to think about the relationship between frontier and open source models. In Zhang’s telling, they aren’t competitors, and open source models’ success isn’t coming at the expense of frontier labs. As more mature use cases switch to lighter models , new use cases keep arising — and the overall spend on frontier models barely goes down.",
+        "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+        "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+        "summary": "Google’s SynthID system has been used to debunk a high-profile AI-generated hoax image, in a rare but significant win for the system. The image was shared widely on Reddit and X , but by Wednesday, the revered fact-checking site Snopes had debunked the image, noting that, when checked, the image registers as containing the SynthID watermark designed by Google to identify AI-generated pictures. Because the signature…",
         "source": "TechCrunch",
-        "date": "2026-07-07T20:04:32+00:00"
+        "date": "2026-07-08T20:37:03+00:00"
       },
       {
-        "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-        "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-        "summary": "The most recent example is Microsoft, which has reportedly begun to deploy a cost-savings strategy by relying less on software from OpenAI and Anthropic and instead deploying its own in-house models. Last month, at its annual Build conference, the company announced the launch of seven new MAI models , including an agentic coder and a text-to-image generator. Microsoft’s apparent cutbacks are part of a broader trend.",
+        "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+        "url": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+        "summary": "One of the beneficiaries is QuantumDiamonds , a German startup that applies a novel approach to inspecting chips. CEO Kevin Berghoff told TechCrunch that raising the round was a fairly quick process, as QuantumDiamonds was able to demonstrate customer pull. “[QuantumDiamonds] can become Europe’s next ASML,” World Fund managing partner Daria Saharova wrote in a statement.",
         "source": "TechCrunch",
-        "date": "2026-07-07T19:58:20+00:00"
+        "date": "2026-07-08T20:29:50+00:00"
       },
       {
-        "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-        "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-        "summary": "Our systems flag content by matching it against known harmful material. The intended behavior is to… — Discord Support (@discord_support) July 7, 2026 Our systems flag content by matching it against known harmful material. I have requested a review of my suspension. @discord @discord_support pic.twitter.com/QfAkCIJo6S Discord isn’t alone in facing moderation troubles due to automated systems.",
+        "title": "Autonomous drone delivery startup Manna plots major US expansion",
+        "url": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
+        "summary": "Manna Aero, the Ireland-based autonomous drone delivery startup, has been a smaller player in the United States. Manna has a hybrid business model. Manna isn’t entirely new to the United States.",
         "source": "TechCrunch",
-        "date": "2026-07-07T19:28:38+00:00"
+        "date": "2026-07-08T20:06:54+00:00"
       },
       {
-        "title": "Google’s Pixel event is set for August 12",
-        "url": "https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/",
-        "summary": "Google is preparing for its Made by Google launch event, which is scheduled for August 12 in New York City, as announced on Tuesday. Google Pixel event – August 12 pic.twitter.com/Veo1RCJN7j — Mark Gurman (@markgurman) July 7, 2026 Google Pixel event – August 12 pic.twitter.com/Veo1RCJN7j Other leaks suggest that the base Pixel 11 may come with slimmer bezels and a sleek black camera bar, while the Pixel 11 Pro is…",
+        "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+        "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+        "summary": "The combination of capability, faster speed and lower cost is what makes it competitive.” SpaceXAI says that its new model costs $2 per million input tokens and $6 per million output tokens. Opus 4.7 , by comparison, costs $5 per million input tokens and $25 per million output tokens. OpenAI has tiered costs for different model versions: Sol, its most expensive, costs $5 for 1 million input tokens and $30 for 1…",
         "source": "TechCrunch",
-        "date": "2026-07-07T18:38:29+00:00"
+        "date": "2026-07-08T19:30:16+00:00"
       },
       {
-        "title": "Figma acquires team behind a vibe-coding app",
-        "url": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
-        "summary": "Toward that end, it has acquired the team behind the vibe-coding and AI agent platform Bud (formerly Orchids). The Y Combinator-backed startup began as a vibe-coding platform letting users spin up apps for mobile, web, Slack, browser, and more. Last year, it released Figma Make for creating web apps .",
+        "title": "‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon",
+        "url": "https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/",
+        "summary": "Mendelsohn’s friends were onto something. Join the movement on Roost! Replacing the art in an app this size takes time, planning, and money.” Mendelsohn’s resources are limited as he continues to work on Roost in his spare time.",
         "source": "TechCrunch",
-        "date": "2026-07-07T18:37:01+00:00"
+        "date": "2026-07-08T19:22:11+00:00"
       },
       {
-        "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
-        "url": "https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/",
-        "summary": "After expanding its service to include live content, video games, and, more recently, video podcasts, the streamer is now adding video content from publishers such as BuzzFeed Studios, Condé Nast, Hearst Magazines, People Inc., Tastemade, and various Penske Media PMX brands, like Variety, THR, Billboard, Eater, Rolling Stone, and IndieWire. Netflix says other publishers will be added over time. To court viewers…",
+        "title": "This startup thinks robotics is about to have its ChatGPT moment",
+        "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+        "summary": "Before OpenAI’s GPT-3 ushered in the era of foundation models, companies built specialized natural language processing models from scratch, training each on large amounts of task-specific data. Pim de Witte, CEO of General Intuition , thinks embodied AI will follow a similar pattern. Rather than collecting huge real-world datasets to build specialized robot models, he argues the industry should focus on better…",
         "source": "TechCrunch",
-        "date": "2026-07-07T17:24:35+00:00"
+        "date": "2026-07-08T19:19:15+00:00"
       },
       {
-        "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
-        "url": "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/",
-        "summary": "In the data breach, Klue exposed the keys to its customers’ cloud services, allowing the hackers to break in and steal those stores of data to extort those companies for a ransom. The hackers breached the company’s flagship learning management system Canvas to steal private data and personal information belonging to over 30 million students and staff. Instructure wasn’t the only company targeted by the ShinyHunters…",
+        "title": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
+        "url": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
+        "summary": "X’s crowdsourced fact-checking system, Community Notes, will be updated to send users direct messages alerting them whenever a post they have interacted with has received a correction. Instead, Community Notes contributors could suggest corrections and add critical details or missing information to posts. This weakens Community Notes as a system that surfaces information when it’s most needed, critics have pointed…",
         "source": "TechCrunch",
-        "date": "2026-07-07T16:45:00+00:00"
+        "date": "2026-07-08T18:46:20+00:00"
       },
       {
-        "title": "Claude Cowork expands to mobile and web",
-        "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-        "summary": "Claude Cowork — Anthropic’s Claude Code-style agent for general knowledge work — is coming to your phone. Claude Cowork launched as a desktop app in January, but starting Tuesday it is available on web and mobile for Max subscribers. Anthropic recently launched Claude Tag , an always-on Claude that lives in Slack and acts as an AI teammate.",
+        "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+        "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+        "summary": "Google Photos is getting a new “Video Remix” feature that can edit and transform videos in seconds, Google announced on Wednesday. “Creating beautiful video clips shouldn’t require professional skills or hours of editing,” Google wrote in the blog post. The feature is the latest in a series of AI-powered updates introduced to Google Photos.",
         "source": "TechCrunch",
-        "date": "2026-07-07T16:27:18+00:00"
+        "date": "2026-07-08T18:30:08+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Samsung will launch its new wide foldable on July 22nd",
-        "url": "https://www.theverge.com/tech/962658/samsung-galaxy-unpacked-wide-foldable-watch-july",
-        "summary": "﻿The Galaxy Unpacked invite teases a new shape for Samsung’s foldable phones. ﻿The Galaxy Unpacked invite teases a new shape for Samsung’s foldable phones. Samsung has announced that its next Galaxy Unpacked launch event will be held on July 22nd, with the tagline: “A new shape unfolds.” It’s long been rumored that Samsung is about to expand its foldable phone line to a third format , with a shorter and wider…",
+        "title": "Meta is reportedly working on smart glasses that would be recording all the time",
+        "url": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+        "summary": "The ‘super sensing’ glasses could continuously record audio and frequently snap photos. The ‘super sensing’ glasses could continuously record audio and frequently snap photos. Should these glasses or the “super sensing” features be released, they would raise significant privacy concerns.",
         "source": "The Verge",
-        "date": "2026-07-08T08:13:52+00:00"
+        "date": "2026-07-08T22:37:25+00:00"
       },
       {
-        "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-        "url": "https://kb.cert.org/vuls/id/213560",
-        "summary": "205 points, 62 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-07-08T00:08:51+00:00"
-      },
-      {
-        "title": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
-        "url": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
-        "summary": "The company is rolling out an update following increased scrutiny of its smart glasses. The company is rolling out an update following increased scrutiny of its smart glasses. Meta has previously tried to discourage tampering with the LED light.",
+        "title": "Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones",
+        "url": "https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder",
+        "summary": "Samsung is announcing new foldables soon, and you can save $30 if you register your interest ahead of time. Samsung is announcing new foldables soon, and you can save $30 if you register your interest ahead of time. If you register your interest ahead of time and end up preordering one of the new phones shortly after they’re announced, Samsung will give you a $30 store credit at checkout.",
         "source": "The Verge",
-        "date": "2026-07-07T23:55:19+00:00"
+        "date": "2026-07-08T20:00:00+00:00"
       },
       {
-        "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-        "url": "https://www.gao.gov/products/gao-26-108193",
-        "summary": "When planning these projects, DOE should identify a need without having a particular solution already in mind. However, the majority of mission need statements that GAO reviewed for EM’s large projects identify a particular solution. GAO recommends that for future large projects DOE (1) ensures that the mission need is revised if it includes a predetermined solution and (2) includes independent experts in the… (199 points, 96 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-07T22:23:58+00:00"
-      },
-      {
-        "title": "Of course viewers are giving up on Netflix shows",
-        "url": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
-        "summary": "Even though Netflix is the world’s most popular paid streaming service, the company has been struggling to keep viewers watching its series after their first seasons. In addition to viewers spending more time on other platforms, Netflix also has to contend with the way the streaming wars have fundamentally altered people’s relationships with episodic television. Something else that Netflix has to take into…",
+        "title": "Microsoft&#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
+        "url": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs",
+        "summary": "Josh Sawyer, the director of Fallout: New Vegas, is reportedly heading up the new game. Josh Sawyer, the director of Fallout: New Vegas, is reportedly heading up the new game. Josh Sawyer, Obsidian’s studio design director, will head up the new Fallout game.",
         "source": "The Verge",
-        "date": "2026-07-07T21:58:39+00:00"
+        "date": "2026-07-08T18:50:27+00:00"
       },
       {
-        "title": "Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers",
-        "url": "https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming",
-        "summary": "﻿A new deal will bring videos from brands like Architectural Digest and Variety to the streaming service. ﻿A new deal will bring videos from brands like Architectural Digest and Variety to the streaming service. Starting on August 3rd, Netflix’s streaming library will include video content from dozens of digital media brands including BuzzFeed, Condé Nast, Hearst Magazines, People Inc, and Tastemade. The videos…",
+        "title": "America’s cheapest new EV is smaller than a ping-pong table and tops out at 19mph",
+        "url": "https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty",
+        "summary": "The Fiat Topolino may only cost $13,995, but you’re not really buying a car for that money. The Fiat Topolino may only cost $13,995, but you’re not really buying a car for that money. The Fiat Topolino is basically the ultimate embodiment of those tradeoffs.",
         "source": "The Verge",
-        "date": "2026-07-07T21:37:19+00:00"
+        "date": "2026-07-08T17:57:53+00:00"
       },
       {
-        "title": "Every new car sold in the European Union must include a driver monitoring camera",
-        "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-        "summary": "632 points, 791 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-07-07T20:50:46+00:00"
-      },
-      {
-        "title": "We charge $10k a week to delete AI-generated code",
-        "url": "https://odra.dev/slopfix/",
-        "summary": "Yes, we use Claude Code too. Three senior engineers. $10,000. Hit the target or beat it, you pay full price. (274 points, 174 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-07T20:35:42+00:00"
-      },
-      {
-        "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
-        "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-        "summary": "Users can ’@ mention’ accounts in their prompts. Users can ’@ mention’ accounts in their prompts. Meta is launching the first AI image generation model made by its Superintelligence Labs division.",
+        "title": "Cockroaches will learn to fear my SwitchBot Bot Rechargeable",
+        "url": "https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review",
+        "summary": "The SwitchBot Bot Rechargeable’s capabilities are identical to the original SwitchBot Bot that costs a little less. The Bot also includes a small plastic attachment that sticks directly to your light switch. The SwitchBot Bot Rechargeable is a clever, relatively inexpensive solution.",
         "source": "The Verge",
-        "date": "2026-07-07T20:31:58+00:00"
+        "date": "2026-07-08T17:30:00+00:00"
       },
       {
-        "title": "Show HN: Davit, a Apple Containers UI",
-        "url": "https://davit.app",
-        "summary": "Davit talks directly to Apple's open-source container daemon over XPC — the same wire path the CLI uses. No container platform installed? Set a port mapping — host 8088 → container 80 — and run. (307 points, 69 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-07T18:44:29+00:00"
-      },
-      {
-        "title": "Astro 7.0",
-        "url": "https://astro.build/blog/astro-7/",
-        "summary": "Astro 7 is the fastest version of Astro to date. Astro 7 makes it the default. Astro 7 introduces route caching to solve this. (193 points, 54 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-07T18:30:02+00:00"
-      },
-      {
-        "title": "X says top accounts steal videos from other users as it announces new video tools",
-        "url": "https://www.theverge.com/tech/962415/x-video-editor-recycled-content",
-        "summary": "The platform’s new built-in video editor and recorder are available now in X’s iOS app. The platform’s new built-in video editor and recorder are available now in X’s iOS app. The new video tools are X’s latest push to encourage more users to post original content.",
+        "title": "If Microsoft sold off Xbox, who would even buy it?",
+        "url": "https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma",
+        "summary": "This week, Microsoft took a huge ax to its Xbox business. We don’t know what Microsoft’s asking price for Xbox would be. Microsoft acquired Activision Blizzard in a $68.7 billion deal .",
         "source": "The Verge",
-        "date": "2026-07-07T18:28:08+00:00"
+        "date": "2026-07-08T17:10:05+00:00"
+      },
+      {
+        "title": "Twelve South’s AirFly Pro is a great travel companion, and it&#8217;s on sale for $40",
+        "url": "https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale",
+        "summary": "The Pro lets you use wireless earbuds with in-flight entertainment systems, and it’s at its best price in over a year. The Pro lets you use wireless earbuds with in-flight entertainment systems, and it’s at its best price in over a year. The AirFly Pro is useful in other ways, too.",
+        "source": "The Verge",
+        "date": "2026-07-08T17:09:28+00:00"
+      },
+      {
+        "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+        "summary": "The new GPT-Live-1 model can speak and listen at the same time — and interrupt you less. The new GPT-Live-1 model can speak and listen at the same time — and interrupt you less. During a press briefing, OpenAI research lead Kundan Kumar called GPT-Live-1 the company’s “smartest voice model” yet.",
+        "source": "The Verge",
+        "date": "2026-07-08T17:00:00+00:00"
+      },
+      {
+        "title": "This jumping $800 robot camera dog filled me with joy",
+        "url": "https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview",
+        "summary": "DJI veterans are building a new kind of stabilized robot camera. DJI veterans are building a new kind of stabilized robot camera. Truth is, Beni does need work.",
+        "source": "The Verge",
+        "date": "2026-07-08T15:00:00+00:00"
+      },
+      {
+        "title": "The whole Pixel line could get more expensive this year",
+        "url": "https://www.theverge.com/tech/962781/google-pixel-11-lineup-price-increase",
+        "summary": "The Pixel 11 could drop the 128GB storage configuration, while the Pixel Watch 5 may cost $50 more than last year’s model. The Pixel 11 could drop the 128GB storage configuration, while the Pixel Watch 5 may cost $50 more than last year’s model. Last year’s base Pixel 10 model cost €899 with 128GB of storage, while the Pixel 10 Pro started at €1,099.",
+        "source": "The Verge",
+        "date": "2026-07-08T14:43:13+00:00"
       }
     ]
   }
