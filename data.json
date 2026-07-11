@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T10:25:09.573389+00:00",
+  "generated_at": "2026-07-11T08:47:45.631480+00:00",
   "sections": {
     "research": [
       {
@@ -175,174 +175,174 @@
     ],
     "startups": [
       {
-        "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
-        "url": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
-        "summary": "India on Thursday approved a manufacturing joint venture between China’s Vivo and local manufacturer Dixon Technologies, a move that could mark the next phase of the country’s smartphone manufacturing boom after Apple helped turn India into a global smartphone production hub. The 51/49 venture — majority-owned by Dixon, with Vivo holding the remaining stake — reflects a broader shift in how Chinese smartphone brands…",
+        "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+        "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+        "summary": "U.S. federal cybersecurity agency CISA said it did not have a prepared response plan for how it should handle a cybersecurity incident in May, after an investigative reporter notified the agency that a contractor had publicly exposed sensitive keys and credentials for accessing U.S. government systems. Only after Krebs contacted CISA did the agency take the repository offline and revoke and replace all of the…",
         "source": "TechCrunch",
-        "date": "2026-07-10T04:36:20+00:00"
+        "date": "2026-07-11T01:01:28+00:00"
       },
       {
-        "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-        "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-        "summary": "Earlier this week, Bloomberg reported that Microsoft was replacing some of OpenAI’s software with its own in-house models to cut costs. OpenAI noted in a related blog post that GPT 5.6 would support Microsoft users across the company’s suite of productivity apps, including Word, Excel, PowerPoint, and Cowork. What being a “preferred model” actually means isn’t entirely clear, other than that OpenAI’s software will…",
+        "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+        "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+        "summary": "Phia, the shopping startup co-founded by Bill Gates’ daughter, Phoebe Gates, and Sophia Kianni, has been accused of a practice known as “cookie stuffing,” which may have helped the product receive commissions and credit for sales it did not actually generate, according to a Bloomberg investigation . The report has sparked controversy and led to Phia’s suspension from Impact.com , a leading affiliate and influencer…",
         "source": "TechCrunch",
-        "date": "2026-07-10T00:16:54+00:00"
+        "date": "2026-07-11T00:29:25+00:00"
       },
       {
-        "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
-        "url": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
-        "summary": "Musk’s other publicly traded company, Tesla, is a longtime favorite of mutual funds, especially the large cap and growth varieties. The two newly registered ETFs , named Nasdaq-100 Ex-Elon Enterprises ETF and S&P 500 Ex-Elon Enterprises ETF, are designed to block these companies. Musk’s other companies, including Neuralink and The Boring Company are not publicly traded.",
+        "title": "Meta removes controversial AI feature on Instagram after backlash",
+        "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+        "summary": "Meta has axed a controversial feature that allowed users to modify photos from public Instagram accounts using AI. Meta promoted one feature that allowed individuals to generate images by @-mentioning public Instagram accounts that they wanted to reference. Now Meta has reversed course.",
         "source": "TechCrunch",
-        "date": "2026-07-10T00:13:00+00:00"
+        "date": "2026-07-10T23:55:07+00:00"
       },
       {
-        "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
-        "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-        "summary": "Fidji Simo, OpenAI’s No. Simo joined OpenAI’s board of directors in 2024 and joined OpenAI in May 2025 as CEO of Applications, then a newly created role reporting directly to Sam Altman that consolidated the company’s business and product operations. Simo was primarily focused on growing OpenAI’s consumer business.",
+        "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+        "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+        "summary": "In March, Bluesky’s longtime CEO, Jay Graber, stepped down from that role to become its chief innovation officer. Graber was immediately succeeded by Toni Schneider, the founding CEO of Automattic, which is the company behind WordPress and Tumblr. “I’m four months into my interim CEO role at Bluesky, and it’s time for an update,” Schneider wrote on his personal blog .",
         "source": "TechCrunch",
-        "date": "2026-07-09T23:38:00+00:00"
+        "date": "2026-07-10T21:51:55+00:00"
       },
       {
-        "title": "OpenAI launches its new family of models with GPT-5.6",
-        "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-        "summary": "Not to be outdone, OpenAI cites the Artificial Analysis Coding Agent Index , a notable benchmarking metric, to claim that its latest family of models outshines Anthropic’s models at every turn. OpenAI calls Sol its “best coding model yet,” and has explicitly compared it to Anthropic’s recently released (and much hyped) Fable . Availability per million tokens is priced as follows: Sol is $5 input / $30 output, Terra…",
+        "title": "Apple sues OpenAI over alleged trade secret theft",
+        "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+        "summary": "Apple filed a lawsuit Friday against OpenAI over allegations of trade secret theft and breach of contract. Before joining OpenAI, Tan had spent 24 years at Apple, most recently as VP of product design for the iPhone and Apple Watch. Apple also alleges that Chang Liu, who spent eight years at Apple as a senior systems electrical engineer, failed to return an Apple-issued laptop after leaving the company for OpenAI in…",
         "source": "TechCrunch",
-        "date": "2026-07-09T22:24:24+00:00"
+        "date": "2026-07-10T21:00:29+00:00"
       },
       {
-        "title": "An AI agent startup just let its agent run its $100M fundraise",
-        "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-        "summary": "Lyzr, a three-year-old, Jersey City, New Jersey, startup that helps enterprises build AI agents, used its own AI agent to raise its own round. It basically ran point on the startup’s $100 million Series B (at a roughly $500 million valuation) while proving that the product actually works. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle.",
+        "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+        "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+        "summary": "Fizz’s filing also alleges that Lu continued to act as a conduit, funneling information about Fizz’s fundraising efforts and other matters to Sidechat. However, Fizz claims Lu had been in discussions with Sidechat as early as 2022. Fizz declined to comment.",
         "source": "TechCrunch",
-        "date": "2026-07-09T22:08:58+00:00"
+        "date": "2026-07-10T17:42:36+00:00"
       },
       {
-        "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-        "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-        "summary": "OpenAI is sunsetting Atlas, the AI-powered browser it launched in October with ChatGPT at its core. Perplexity launched Comet, The Browser Company launched Dia, and Google and Microsoft have updated Chrome and Edge, respectively, with new AI-powered features. OpenAI is also boosting its ChatGPT desktop app by featuring a more robust browser that allows users to browse websites, log into accounts, download files, and…",
+        "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+        "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+        "summary": "SK Hynix, a South Korean memory chip giant, said Friday it has raised $26.5 billion (KRW 40 trillion) in its U.S. market debut. But SK Hynix clearly isn’t suffering from the Korea Discount and that’s because it makes memory chips, including high-bandwidth memory (HBM). IPO for SK Hynix: Both Korean chipmakers just pledged more than $550 billion for new manufacturing investment in South Korea.",
         "source": "TechCrunch",
-        "date": "2026-07-09T22:03:54+00:00"
+        "date": "2026-07-10T17:17:12+00:00"
       },
       {
-        "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-        "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-        "summary": "Should Anthropic trust Elon Musk to host its models? As of July 2026, Anthropic is one of SpaceX’s largest customers. Anthropic doesn’t have to rely on Musk’s sticking to his “style,” though.",
+        "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+        "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+        "summary": "A new app called HyperTexting is making it as easy to surf the web as it is to scroll through a social media feed, like Facebook or X. That, of course, changed with the arrival of social media. Most prefer a scrollable feed — the kind that social media sites use.",
         "source": "TechCrunch",
-        "date": "2026-07-09T21:57:42+00:00"
+        "date": "2026-07-10T17:11:51+00:00"
       },
       {
-        "title": "Can AI answer the $3 trillion question?",
-        "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-        "summary": "In 2023 , he was reacting to Nvidia’s reported annual GPU revenue of $50 billion. Slok notes a risk we’re currently seeing across AI usage: More organizations turning to cheaper open weight models, often Chinese, not those built by the frontier labs, and overall token prices falling. OpenAI’s latest model, per CEO Sam Altman, is 54% more token efficient on coding tasks.",
+        "title": "China is catching up to Elon Musk’s reusable rockets",
+        "url": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
+        "summary": "China’s state-owned space company successfully launched a Long March orbital rocket and landed the booster on a seagoing recovery vessel, making it the second country to achieve the feat. However, a reusable rocket would enable China’s satellite communications networks and hypothetical orbital data centers to compete with SpaceX’s offerings. Rocket Lab has been working on Neutron, which is intended to fly with a…",
         "source": "TechCrunch",
-        "date": "2026-07-09T21:47:50+00:00"
+        "date": "2026-07-10T16:51:07+00:00"
       },
       {
-        "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-        "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-        "summary": "Meta publicly launched a new version of Muse Spark on Thursday, a multimodal AI model designed for agentic coding that aims to compete with similar products offered by OpenAI and Anthropic. Meta is a bit behind its competitors here; Anthropic and OpenAI have offered similar models for quite some time. The Muse Spark release was apparently important enough to compel CEO Mark Zuckerberg to post on X for the first time…",
+        "title": "Disney+ is considering a free streaming tier, report says",
+        "url": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+        "summary": "Disney+ is considering making some of its streaming library available to watch for free, according to a report from Business Insider . The rollout of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time. According to data from Neilson , free streaming services represented 18.7% of U.S. television watch time in…",
         "source": "TechCrunch",
-        "date": "2026-07-09T19:40:45+00:00"
+        "date": "2026-07-10T16:29:05+00:00"
       },
       {
-        "title": "Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups",
-        "url": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/",
-        "summary": "A high valuation doesn’t make sense for every company. Great businesses aren’t always venture-scale businesses. New episodes of ⁠ Build Mode⁠ drop every Thursday.",
+        "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
+        "url": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
+        "summary": "When Lydia Peabody saw her friend pull out a flip phone at a party last year, she burst out laughing. She told me that the Dumb Phone can record audio. Peabody drove thousands of miles without a smartphone.",
         "source": "TechCrunch",
-        "date": "2026-07-09T19:26:31+00:00"
+        "date": "2026-07-10T16:06:49+00:00"
       },
       {
-        "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-        "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-        "summary": "Throughout the case, OpenAI has argued that it lacked the ability to search its own training corpus. In an April court-ordered deposition, OpenAI data privacy engineer Vinnie Monaco allegedly revealed that OpenAI had already conducted internal searches and evaluations of its training corpus to search for copyrighted journalism works. The plaintiffs had originally asked OpenAI to provide a sample of 120 million chat…",
+        "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+        "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+        "summary": "A number of companies , betting on various architectural approaches, are trying to build the first commercially viable quantum computer capable of significantly outperforming current systems. Oratomic , which entered the race earlier this year with the goal of developing the first utility-scale quantum computer by the end of the decade, said this week that it has raised $300 million. Marina Temkin is a venture…",
         "source": "TechCrunch",
-        "date": "2026-07-09T19:05:58+00:00"
+        "date": "2026-07-10T15:00:09+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Microsoft’s carbon emissions went up 25 percent last year",
-        "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-        "summary": "The company’s annual sustainability report also says sustainability solutions aren’t keeping up with AI demands. The company’s annual sustainability report also says sustainability solutions aren’t keeping up with AI demands. This year’s report admits that, “While AI infrastructure is driving demand for energy, water, land, and materials, sustainability solutions are not scaling fast enough to meet demand.” Google…",
+        "title": "Are you filthy enough for a $700 portable shower?",
+        "url": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
+        "summary": "The Hottap Go is an all-in-one hot water system that justifies its high price. The Hottap Go also recirculates the water until it reaches your chosen temperature. Water flow is just okay, even at maximum setting.",
         "source": "The Verge",
-        "date": "2026-07-10T00:04:13+00:00"
+        "date": "2026-07-11T07:00:00+00:00"
       },
       {
-        "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-        "summary": "Simo is transitioning to a role as a ‘part-time advisor.’ She took a medical leave a few months ago. Simo is transitioning to a role as a ‘part-time advisor.’ She took a medical leave a few months ago. OpenAI’s Fidji Simo is departing her full-time role as the company’s AGI chief and is transitioning to being a “part-time advisor,” she said on X .",
+        "title": "No, Flock isn&#8217;t threatening people for debating surveillance",
+        "url": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
+        "summary": "Photos of purported cease and desist letters from the company have gone viral, but Flock says it didn’t send them. Photos of purported cease and desist letters from the company have gone viral, but Flock says it didn’t send them. Flock welcomes and encourages public debate about our technology.",
         "source": "The Verge",
-        "date": "2026-07-09T23:24:04+00:00"
+        "date": "2026-07-11T00:10:38+00:00"
       },
       {
-        "title": "Netflix reportedly considers adding always-on channels",
-        "url": "https://www.theverge.com/streaming/963733/netflix-always-on-channels-bundles",
-        "summary": "It’s seeing signs of falling engagement, so it’s looking for ways to turn things around. It’s seeing signs of falling engagement, so it’s looking for ways to turn things around. Netflix spokesperson Adrian Zamora declined to comment.",
+        "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+        "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+        "summary": "The feature, announced on Tuesday, received significant backlash. The feature, announced on Tuesday, received significant backlash. Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them.",
         "source": "The Verge",
-        "date": "2026-07-09T23:00:31+00:00"
+        "date": "2026-07-10T23:49:50+00:00"
       },
       {
-        "title": "The ChatGPT browser is already dead",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-        "summary": "Less than a year after launch, Atlas is being shut down. Less than a year after launch, Atlas is being shut down. As part of that push, in March, The Wall Street Journal reported that OpenAI planned to combine the ChatGPT app, Codex, and Atlas into a desktop “superapp” — ChatGPT Work appears to be the result of those efforts.",
+        "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
+        "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
+        "summary": "Eight companies are under investigation, and the FCC plans to deauthorize one testing lab in China, too. Eight companies are under investigation, and the FCC plans to deauthorize one testing lab in China, too. DJI would not confirm or deny whether Xtra and Skyrover, for example, are DJI products in disguise.",
         "source": "The Verge",
-        "date": "2026-07-09T20:34:05+00:00"
+        "date": "2026-07-10T22:35:18+00:00"
       },
       {
-        "title": "The floatable, powerful Soundcore Boom 2 speaker is over half off",
-        "url": "https://www.theverge.com/gadgets/963537/anker-soundcore-boom-2-bluetooth-speaker-deal-sale",
-        "summary": "This Bluetooth speaker has big sound, long battery life, and a waterproof build, all for less than $100. This Bluetooth speaker has big sound, long battery life, and a waterproof build, all for less than $100. Its support for Anker PartyCast 2.0 lets the Boom 2 sync with other Anker speakers for larger audio.",
-        "source": "The Verge",
-        "date": "2026-07-09T20:32:18+00:00"
-      },
-      {
-        "title": "Google will now tell you if an ad was made with AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-        "summary": "Google says it will automatically apply the ‘created or edited with AI’ label to ads made with its own generative AI tools. Google says it will automatically apply the ‘created or edited with AI’ label to ads made with its own generative AI tools. Google says it will automatically apply the AI label to any ads made with its own generative AI advertising tools, but AI ads made elsewhere will need to have the label…",
-        "source": "The Verge",
-        "date": "2026-07-09T20:11:38+00:00"
-      },
-      {
-        "title": "Google&#8217;s Nest Thermostat has hit its best price of the year",
-        "url": "https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale",
-        "summary": "Google’s entry-level smart thermostat offers energy-saving features and support for Matter. Google’s entry-level smart thermostat offers energy-saving features and support for Matter. If you’re looking for a relatively affordable way to cut down on cooling costs, Google’s Nest Thermostat can help.",
-        "source": "The Verge",
-        "date": "2026-07-09T17:33:46+00:00"
-      },
-      {
-        "title": "GPT-5.6",
-        "url": "https://openai.com/index/gpt-5-6/",
-        "summary": "1294 points, 916 comments on Hacker News",
+        "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+        "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+        "summary": "PROVIDENCE, R.I. [Brown University] — Brown University chemists have provided direct evidence that upends the textbook explanation of how triple chemical bonds work in heavy elements. The textbook picture of triple bonding involves two different types of bonds: one sigma bond and two pi bonds. The two pi bonds are somewhat weaker, “side-by-side” bonds that wrap around the sigma bond. (224 points, 78 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-09T17:04:14+00:00"
+        "date": "2026-07-10T22:30:44+00:00"
       },
       {
-        "title": "ChatGPT Work",
-        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-        "summary": "339 points, 173 comments on Hacker News",
+        "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+        "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+        "summary": "Apple alleges that it has uncovered a ‘pattern of theft’ from OpenAI employees who formerly worked at Apple. Apple alleges that it has uncovered a ‘pattern of theft’ from OpenAI employees who formerly worked at Apple. “OpenAI never responded,” according to Apple.",
+        "source": "The Verge",
+        "date": "2026-07-10T21:36:51+00:00"
+      },
+      {
+        "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+        "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+        "summary": "Specifically, Apple alleges that its former employees have stolen trade secrets “for the benefit of OpenAI.” “This case is about Apple’s former employees stealing Apple’s trade secrets for the benefit of OpenAI. Cannon also previously worked at Apple. When interviewing Apple employees for jobs at OpenAI, Mr. (1007 points, 513 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-09T17:03:53+00:00"
+        "date": "2026-07-10T20:47:09+00:00"
       },
       {
-        "title": "Microsoft’s patch Tuesdays are about to get bigger",
-        "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-        "summary": "﻿The company will be using AI more heavily in its security updates process. ﻿The company will be using AI more heavily in its security updates process. Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it’s now using AI to “identify potential issues earlier,” which means “customers will see a higher volume of security updates included in each…",
+        "title": "A decade later, Pokémon Go finally made good on its original promise",
+        "url": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
+        "summary": "﻿Players celebrated the game’s 10th anniversary by jumping Mewtwo as a community. ﻿Players celebrated the game’s 10th anniversary by jumping Mewtwo as a community. When Niantic dropped the first Pokémon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pokémon like Mewtwo. With each new mainline Pokémon game launch, a new generation of players arrives.",
         "source": "The Verge",
-        "date": "2026-07-09T17:00:00+00:00"
+        "date": "2026-07-10T19:51:10+00:00"
       },
       {
-        "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-        "summary": "The limited preview period is officially over. The limited preview period is officially over. Mac and Windows users worldwide, including free ChatGPT users, should have immediate access to ChatGPT Work and GPT-5.6 via the ChatGPT desktop app.",
+        "title": "ICE is threatening to deport witnesses of its latest shooting",
+        "url": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
+        "summary": "Even with three eyewitness accounts that contradict its story, the agency is using a self-defense justification for the fatal shooting of Lorenzo Salgado Araujo. Even with three eyewitness accounts that contradict its story, the agency is using a self-defense justification for the fatal shooting of Lorenzo Salgado Araujo. Even if footage of Salgado Araujo’s shooting does emerge, it won’t stop DHS from saying…",
         "source": "The Verge",
-        "date": "2026-07-09T17:00:00+00:00"
+        "date": "2026-07-10T19:20:00+00:00"
       },
       {
-        "title": "Schlage’s Sense Pro unlocks the door so I don’t have to",
-        "url": "https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock",
-        "summary": "The $399 smart lock ditches keys for ultra-wideband hands-free unlocking. The Schlage Sense Pro is a beautiful smart lock. The Schlage Sense Pro nails UWB hands-free unlocking.",
+        "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+        "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+        "summary": "444 points, 361 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-07-10T18:29:19+00:00"
+      },
+      {
+        "title": "New York City to ban deceptive subscription practices",
+        "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+        "summary": "Rule from Mamdani administration bans companies from trapping customers into paying recurring charges and ‘junk fees’ New York City has adopted a new rule that bans companies from using deceptive subscriptions to trap customers into paying for gym memberships, streaming services and other recurring charges, the city’s consumer protection office said. While the subscription rule would only apply to New York City… (506 points, 252 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-10T18:26:24+00:00"
+      },
+      {
+        "title": "Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
+        "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
+        "summary": "SK Hynix opened at $170 per share as it continues to benefit from a surge in demand for memory components. SK Hynix opened at $170 per share as it continues to benefit from a surge in demand for memory components. SK Hynix is one of three major companies benefitting from a surge in demand for DRAM and high-bandwidth memory (HBM).",
         "source": "The Verge",
-        "date": "2026-07-09T15:45:46+00:00"
+        "date": "2026-07-10T17:31:35+00:00"
       }
     ]
   }
