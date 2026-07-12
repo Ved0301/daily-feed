@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T08:47:45.631480+00:00",
+  "generated_at": "2026-07-12T09:02:16.810191+00:00",
   "sections": {
     "research": [
       {
@@ -175,6 +175,34 @@
     ],
     "startups": [
       {
+        "title": "Reed Jobs would rather talk about curing cancer than his last name",
+        "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+        "summary": "What undruggable targets are your companies going after? We’re going after it with three different companies and several strategies. Three years into running Yosemite, what’s been the biggest surprise?",
+        "source": "TechCrunch",
+        "date": "2026-07-12T00:16:06+00:00"
+      },
+      {
+        "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+        "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+        "summary": "Last weekend’s brutal NYC heat wave had me craving a frozen drink almost every afternoon. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. For entertaining, this machine solves a real problem.",
+        "source": "TechCrunch",
+        "date": "2026-07-11T22:00:00+00:00"
+      },
+      {
+        "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+        "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+        "summary": "Even Realities’ G2 smart glasses are in the same boat. Even Realities takes a different approach to smart glasses than players like Meta. Smart glasses are coming out fast.",
+        "source": "TechCrunch",
+        "date": "2026-07-11T17:30:00+00:00"
+      },
+      {
+        "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+        "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+        "summary": "More than three years after ChatGPT’s launch brought generative AI into the mainstream, OpenAI is broadening its focus beyond individual users to families. OpenAI is hiring a dedicated product manager in San Francisco to build experiences for families, caregivers, and older adults across its products. The hiring comes as ChatGPT’s audience continues to broaden beyond younger users.",
+        "source": "TechCrunch",
+        "date": "2026-07-11T14:13:00+00:00"
+      },
+      {
         "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
         "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
         "summary": "U.S. federal cybersecurity agency CISA said it did not have a prepared response plan for how it should handle a cybersecurity incident in May, after an investigative reporter notified the agency that a contractor had publicly exposed sensitive keys and credentials for accessing U.S. government systems. Only after Krebs contacted CISA did the agency take the repository offline and revoke and replace all of the…",
@@ -205,7 +233,7 @@
       {
         "title": "Apple sues OpenAI over alleged trade secret theft",
         "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-        "summary": "Apple filed a lawsuit Friday against OpenAI over allegations of trade secret theft and breach of contract. Before joining OpenAI, Tan had spent 24 years at Apple, most recently as VP of product design for the iPhone and Apple Watch. Apple also alleges that Chang Liu, who spent eight years at Apple as a senior systems electrical engineer, failed to return an Apple-issued laptop after leaving the company for OpenAI in…",
+        "summary": "Apple filed a lawsuit Friday against OpenAI over allegations of trade secret theft and breach of contract. Before joining OpenAI, Tan had spent 24 years at Apple, most recently as VP of product design for the iPhone and Apple Watch. OpenAI was asked for comment.",
         "source": "TechCrunch",
         "date": "2026-07-10T21:00:29+00:00"
       },
@@ -229,120 +257,92 @@
         "summary": "A new app called HyperTexting is making it as easy to surf the web as it is to scroll through a social media feed, like Facebook or X. That, of course, changed with the arrival of social media. Most prefer a scrollable feed — the kind that social media sites use.",
         "source": "TechCrunch",
         "date": "2026-07-10T17:11:51+00:00"
-      },
-      {
-        "title": "China is catching up to Elon Musk’s reusable rockets",
-        "url": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
-        "summary": "China’s state-owned space company successfully launched a Long March orbital rocket and landed the booster on a seagoing recovery vessel, making it the second country to achieve the feat. However, a reusable rocket would enable China’s satellite communications networks and hypothetical orbital data centers to compete with SpaceX’s offerings. Rocket Lab has been working on Neutron, which is intended to fly with a…",
-        "source": "TechCrunch",
-        "date": "2026-07-10T16:51:07+00:00"
-      },
-      {
-        "title": "Disney+ is considering a free streaming tier, report says",
-        "url": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
-        "summary": "Disney+ is considering making some of its streaming library available to watch for free, according to a report from Business Insider . The rollout of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time. According to data from Neilson , free streaming services represented 18.7% of U.S. television watch time in…",
-        "source": "TechCrunch",
-        "date": "2026-07-10T16:29:05+00:00"
-      },
-      {
-        "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
-        "url": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
-        "summary": "When Lydia Peabody saw her friend pull out a flip phone at a party last year, she burst out laughing. She told me that the Dumb Phone can record audio. Peabody drove thousands of miles without a smartphone.",
-        "source": "TechCrunch",
-        "date": "2026-07-10T16:06:49+00:00"
-      },
-      {
-        "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
-        "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
-        "summary": "A number of companies , betting on various architectural approaches, are trying to build the first commercially viable quantum computer capable of significantly outperforming current systems. Oratomic , which entered the race earlier this year with the goal of developing the first utility-scale quantum computer by the end of the decade, said this week that it has raised $300 million. Marina Temkin is a venture…",
-        "source": "TechCrunch",
-        "date": "2026-07-10T15:00:09+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Are you filthy enough for a $700 portable shower?",
-        "url": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
-        "summary": "The Hottap Go is an all-in-one hot water system that justifies its high price. The Hottap Go also recirculates the water until it reaches your chosen temperature. Water flow is just okay, even at maximum setting.",
-        "source": "The Verge",
-        "date": "2026-07-11T07:00:00+00:00"
-      },
-      {
-        "title": "No, Flock isn&#8217;t threatening people for debating surveillance",
-        "url": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
-        "summary": "Photos of purported cease and desist letters from the company have gone viral, but Flock says it didn’t send them. Photos of purported cease and desist letters from the company have gone viral, but Flock says it didn’t send them. Flock welcomes and encourages public debate about our technology.",
-        "source": "The Verge",
-        "date": "2026-07-11T00:10:38+00:00"
-      },
-      {
-        "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-        "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-        "summary": "The feature, announced on Tuesday, received significant backlash. The feature, announced on Tuesday, received significant backlash. Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them.",
-        "source": "The Verge",
-        "date": "2026-07-10T23:49:50+00:00"
-      },
-      {
-        "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
-        "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
-        "summary": "Eight companies are under investigation, and the FCC plans to deauthorize one testing lab in China, too. Eight companies are under investigation, and the FCC plans to deauthorize one testing lab in China, too. DJI would not confirm or deny whether Xtra and Skyrover, for example, are DJI products in disguise.",
-        "source": "The Verge",
-        "date": "2026-07-10T22:35:18+00:00"
-      },
-      {
-        "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-        "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-        "summary": "PROVIDENCE, R.I. [Brown University] — Brown University chemists have provided direct evidence that upends the textbook explanation of how triple chemical bonds work in heavy elements. The textbook picture of triple bonding involves two different types of bonds: one sigma bond and two pi bonds. The two pi bonds are somewhat weaker, “side-by-side” bonds that wrap around the sigma bond. (224 points, 78 comments on Hacker News)",
+        "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+        "summary": "It contains the secrets file verbatim (appendix: secrets_responses_body.bin , secret_verbatim.txt ): Repro: grep -a \"CANARY7F3A9-DBPASS\" secrets_responses_body.bin → matches. Total /v1/storage* request bytes: 5,476,228,005 B. Zero storage requests failed. (269 points, 125 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-10T22:30:44+00:00"
+        "date": "2026-07-12T01:09:50+00:00"
       },
       {
-        "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-        "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-        "summary": "Apple alleges that it has uncovered a ‘pattern of theft’ from OpenAI employees who formerly worked at Apple. Apple alleges that it has uncovered a ‘pattern of theft’ from OpenAI employees who formerly worked at Apple. “OpenAI never responded,” according to Apple.",
-        "source": "The Verge",
-        "date": "2026-07-10T21:36:51+00:00"
-      },
-      {
-        "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-        "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-        "summary": "Specifically, Apple alleges that its former employees have stolen trade secrets “for the benefit of OpenAI.” “This case is about Apple’s former employees stealing Apple’s trade secrets for the benefit of OpenAI. Cannon also previously worked at Apple. When interviewing Apple employees for jobs at OpenAI, Mr. (1007 points, 513 comments on Hacker News)",
+        "title": "Mesh LLM: distributed AI computing on iroh",
+        "url": "https://www.iroh.computer/blog/mesh-llm",
+        "summary": "Run bigger models without buying bigger GPUs. Under the hood, Mesh LLM distributes model compute across a mesh of iroh endpoints. For the giants, Mesh LLM has a split mode (internally, \"Skippy\"). (245 points, 52 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-10T20:47:09+00:00"
+        "date": "2026-07-11T22:38:57+00:00"
       },
       {
-        "title": "A decade later, Pokémon Go finally made good on its original promise",
-        "url": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
-        "summary": "﻿Players celebrated the game’s 10th anniversary by jumping Mewtwo as a community. ﻿Players celebrated the game’s 10th anniversary by jumping Mewtwo as a community. When Niantic dropped the first Pokémon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pokémon like Mewtwo. With each new mainline Pokémon game launch, a new generation of players arrives.",
+        "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+        "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+        "summary": "The ‘harmony machine’ will be out by the end of the year for ‘around £550.’ The ‘harmony machine’ will be out by the end of the year for ‘around £550.’ After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia , creators Martin Grieco and Rocío Gal are almost ready to bring it to market. Nopia is built around harmonic interplay in a unique way. Additional…",
         "source": "The Verge",
-        "date": "2026-07-10T19:51:10+00:00"
+        "date": "2026-07-11T20:57:42+00:00"
       },
       {
-        "title": "ICE is threatening to deport witnesses of its latest shooting",
-        "url": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
-        "summary": "Even with three eyewitness accounts that contradict its story, the agency is using a self-defense justification for the fatal shooting of Lorenzo Salgado Araujo. Even with three eyewitness accounts that contradict its story, the agency is using a self-defense justification for the fatal shooting of Lorenzo Salgado Araujo. Even if footage of Salgado Araujo’s shooting does emerge, it won’t stop DHS from saying…",
-        "source": "The Verge",
-        "date": "2026-07-10T19:20:00+00:00"
-      },
-      {
-        "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-        "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-        "summary": "444 points, 361 comments on Hacker News",
+        "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+        "url": "https://antjs.org",
+        "summary": "260 points, 111 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-07-10T18:29:19+00:00"
+        "date": "2026-07-11T20:07:18+00:00"
       },
       {
-        "title": "New York City to ban deceptive subscription practices",
-        "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-        "summary": "Rule from Mamdani administration bans companies from trapping customers into paying recurring charges and ‘junk fees’ New York City has adopted a new rule that bans companies from using deceptive subscriptions to trap customers into paying for gym memberships, streaming services and other recurring charges, the city’s consumer protection office said. While the subscription rule would only apply to New York City… (506 points, 252 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-10T18:26:24+00:00"
-      },
-      {
-        "title": "Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
-        "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
-        "summary": "SK Hynix opened at $170 per share as it continues to benefit from a surge in demand for memory components. SK Hynix opened at $170 per share as it continues to benefit from a surge in demand for memory components. SK Hynix is one of three major companies benefitting from a surge in demand for DRAM and high-bandwidth memory (HBM).",
+        "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
+        "url": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
+        "summary": "AG Dan Rayfield says Paramount clearly thinks “they’re above the law.” AG Dan Rayfield says Paramount clearly thinks “they’re above the law.” Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Obviously, Paramount is pleased with Rayfield’s decision to withdraw his request, but the AG’s office isn’t exactly satisfied with the outcome. We’ve…",
         "source": "The Verge",
-        "date": "2026-07-10T17:31:35+00:00"
+        "date": "2026-07-11T18:44:12+00:00"
+      },
+      {
+        "title": "AI 2040 and the cult of intelligence",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+        "summary": "Then I joined the real world and actually tried to do things. You cannot take over the world with tokens. And there’s still no hard takeoff . (203 points, 232 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-11T18:04:01+00:00"
+      },
+      {
+        "title": "Prefer strict tables in SQLite",
+        "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+        "summary": "SQLite has a feature that I think is underrated: strict tables . Strict tables help enforce rigid typing, preventing mistakes like putting text into integer columns. Personally, I think the pros of strict tables outweigh the cons. (280 points, 131 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-11T17:33:55+00:00"
+      },
+      {
+        "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+        "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+        "summary": "Nvidia recently invested $2 billion in both CoreWeave and Nebius . Source: YCharts For the full-year, CoreWeave expects to spend $31 billion to $35 billion on capex, or $33 billion at the midpoint. Given CoreWeave’s $2.27 billion cash balance, this creates a huge funding gap of $17.33 billion. (253 points, 87 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-11T17:21:49+00:00"
+      },
+      {
+        "title": "Female US rower completes historic solo journey from California to Hawaii",
+        "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+        "summary": "Kelsey Pfendler set out to become first US woman, youngest woman and fastest woman to solo over 2,400-mile journey A Grand Canyon river-rafting guide who aimed to become the first US woman to row solo across the mid-Pacific has completed a record-breaking journey from California to Hawaii . Pfendler, who launched from Monterey, California, in May, set out to become the first American woman, youngest woman and… (292 points, 100 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-11T17:03:23+00:00"
+      },
+      {
+        "title": "We scaled PgBouncer to 4x throughput",
+        "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+        "summary": "PgBouncer is single-threaded. A single process uses one CPU core, no matter how many the machine has. One pooler box ran a single PgBouncer process; the other ran a fleet of 16. (206 points, 44 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-11T15:28:02+00:00"
+      },
+      {
+        "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
+        "url": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
+        "summary": "The Image Line CEO hits the forums and subreddits every day to keep in touch with his users. The Image Line CEO hits the forums and subreddits every day to keep in touch with his users. No day ends with open tabs.",
+        "source": "The Verge",
+        "date": "2026-07-11T15:00:00+00:00"
+      },
+      {
+        "title": "Nintendo’s Talking Flower got a small price cut",
+        "url": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
+        "summary": "For fans of Super Mario Bros. For fans of Super Mario Bros. The Talking Flower doesn’t have much utility.",
+        "source": "The Verge",
+        "date": "2026-07-11T15:00:00+00:00"
       }
     ]
   }
