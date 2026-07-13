@@ -1,90 +1,90 @@
 {
-  "generated_at": "2026-07-12T09:02:16.810191+00:00",
+  "generated_at": "2026-07-13T10:27:15.253023+00:00",
   "sections": {
     "research": [
       {
-        "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
-        "url": "https://arxiv.org/abs/2607.08768v1",
-        "summary": "Zhekai Chen, Chengqi Duan, Kaiyue Sun et al. — The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments.…",
+        "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal…",
+        "url": "https://arxiv.org/abs/2607.09662v1",
+        "summary": "Ren Takahashi, Emre Yusuf, Jayabrata Bhaduri — Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating characteristic curve…",
         "source": "arXiv",
-        "date": "2026-07-09T17:59:32Z"
+        "date": "2026-07-10T17:59:45Z"
       },
       {
-        "title": "OpenCoF: Learning to Reason Through Video Generation",
-        "url": "https://arxiv.org/abs/2607.08763v1",
-        "summary": "Xinyan Chen, Ziyu Guo, Renrui Zhang et al. — Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous…",
+        "title": "Scalable Visual Pretraining for Language Intelligence",
+        "url": "https://arxiv.org/abs/2607.09657v1",
+        "summary": "Yiming Zhang, Zhonghan Zhao, Wenwei Zhang et al. — The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, where figures,…",
         "source": "arXiv",
-        "date": "2026-07-09T17:58:29Z"
+        "date": "2026-07-10T17:57:03Z"
       },
       {
-        "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
-        "url": "https://arxiv.org/abs/2607.08758v1",
-        "summary": "Yifan Zhou, Qihao Yang, Yan Li et al. — Scientific ideas rarely start from a blank page. Current benchmarks still say little about whether…",
+        "title": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models",
+        "url": "https://arxiv.org/abs/2607.09654v1",
+        "summary": "Shravan Murlidaran, Miguel P. Eckstein — Vision language models (VLMs) have made remarkable progress in visual reasoning during the last decade. Most evaluations have used simple scenes (MS-COCO) that do not showcase complex human interactions or behaviors,…",
         "source": "arXiv",
-        "date": "2026-07-09T17:55:53Z"
+        "date": "2026-07-10T17:53:37Z"
       },
       {
-        "title": "Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling",
-        "url": "https://arxiv.org/abs/2607.08757v1",
-        "summary": "Yiwei Zhou — Score matching controls average error under the forward marginals, but a discretized reverse-time sampler evaluates the learned score along its own trajectory. We show that small forward-marginal error does not…",
+        "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
+        "url": "https://arxiv.org/abs/2607.09653v1",
+        "summary": "Katherine Swinea, Kshitiz Aryal, Lopamudra Praharaj et al. — Internet of Things (IoT) systems are inherently vulnerable due to constrained hardware, outdated firmware, and insecure default configurations, creating a need for scalable and adaptive security testing approaches.…",
         "source": "arXiv",
-        "date": "2026-07-09T17:55:52Z"
+        "date": "2026-07-10T17:52:29Z"
       },
       {
-        "title": "MulTTiPop: A Multitrack Transcription Dataset for Pop Music",
-        "url": "https://arxiv.org/abs/2607.08756v1",
-        "summary": "Nathan Pruyne, Benjamin Stoler, William Chen et al. — We present MulTTiPop, a dataset of pop music segments and their associated multitrack MIDI recordings for the evaluation of automatic music transcription models. MulTTiPop contains 572 segments of popular music totaling…",
+        "title": "ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI",
+        "url": "https://arxiv.org/abs/2607.09649v1",
+        "summary": "Mohadeseh Mollapour, Koorosh Aslansefat, Zeinab Dehghani et al. — Concept-based explainable artificial intelligence (AI) can make model reasoning more human-understandable, but concept-level outputs are not automatically trustworthy. We introduce ConceptSMILE, a model-agnostic…",
         "source": "arXiv",
-        "date": "2026-07-09T17:55:33Z"
+        "date": "2026-07-10T17:47:38Z"
       },
       {
-        "title": "SLORR: Simple and Efficient In-Training Low-Rank Regularization",
-        "url": "https://arxiv.org/abs/2607.08754v1",
-        "summary": "David González-Martínez, Shiwei Liu — Low-rank factorization is widely used to compress neural networks, but modern models are often not naturally amenable to aggressive factorization without significant accuracy loss. Existing training-time low-rank…",
+        "title": "Deep Gaussian Processes on Directed Acyclic Graphs",
+        "url": "https://arxiv.org/abs/2607.09645v1",
+        "summary": "Federico L. Perlino, Oliver Hamelijnck, Adam M. Johansen et al. — Many real-world processes can be represented as compositions of functions along a directed acyclic graph (DAG). In causal modelling, these correspond to the underlying mechanisms; in engineering, to multiple fidelity…",
         "source": "arXiv",
-        "date": "2026-07-09T17:51:50Z"
+        "date": "2026-07-10T17:41:11Z"
       },
       {
-        "title": "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis",
-        "url": "https://arxiv.org/abs/2607.08748v1",
-        "summary": "Kristina Schaaff, Quintus Stierstorfer, Valerie Heckel — In this study, we present a large-scale descriptive analysis of the use of an AI-based learning assistant (Syntea) in higher education. Based on objective log data from 77,543 students enrolled in distance studies, we…",
+        "title": "Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection",
+        "url": "https://arxiv.org/abs/2607.09641v1",
+        "summary": "Cláudio Lúcio do Val Lopes, Lucca Machado da Silva — Financial anomaly detection suffers from extreme class imbalance, causing traditional single-objective algorithms to exhibit ``fraud collapse'', defaulting to the majority class and failing to balance anomaly…",
         "source": "arXiv",
-        "date": "2026-07-09T17:49:14Z"
+        "date": "2026-07-10T17:39:00Z"
       },
       {
-        "title": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph",
-        "url": "https://arxiv.org/abs/2607.08746v1",
-        "summary": "Duen Horng Chau, Donghao Ren, Fred Hohman et al. — While UMAP is widely used for exploring high-dimensional data, typical workflows focus on its lower-dimensional embedding, largely overlooking the rich k-nearest-neighbor (kNN) graph that UMAP constructs internally.…",
+        "title": "Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory",
+        "url": "https://arxiv.org/abs/2607.09632v1",
+        "summary": "Chengkai Zhu, Ziao Tang, Guocheng Zhen et al. — Quantum information theory (QIT) characterizes the capabilities and fundamental limits of quantum information processing, underpinning quantum communication, computation, and error correction. Formalizing its coding…",
         "source": "arXiv",
-        "date": "2026-07-09T17:47:08Z"
+        "date": "2026-07-10T17:28:26Z"
       },
       {
-        "title": "AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding",
-        "url": "https://arxiv.org/abs/2607.08745v1",
-        "summary": "Siddharth Damodharan, Radhika Gupta, Ali Alshami et al. — Recent advances in Vision-Language Models, Large Language Models, and Multimodal Large Language Models have improved autonomous driving tasks such as scene understanding, decision making, trajectory prediction, and…",
+        "title": "4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception",
+        "url": "https://arxiv.org/abs/2607.09629v1",
+        "summary": "Xiaokai Bai, Lianqing Zheng, Runwei Guan et al. — Reliable autonomous driving requires full-scene perception that couples foreground objects with dense semantic layout. Recently, 4D millimeter-wave radar has emerged as a robust and affordable sensor, yet its sparse…",
         "source": "arXiv",
-        "date": "2026-07-09T17:46:24Z"
+        "date": "2026-07-10T17:26:19Z"
       },
       {
-        "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
-        "url": "https://arxiv.org/abs/2607.08741v1",
-        "summary": "Kaifeng Zhao, Mathis Petrovich, Haotian Zhang et al. — Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer precise control via…",
+        "title": "Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026",
+        "url": "https://arxiv.org/abs/2607.09623v1",
+        "summary": "Nirjhar Das, Md. Al-Mamun Provath — We present our submission to the QANTA 2026 shared challenge at the ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA). Quanta evaluates multimodal quizbowl systems that answer pyramid-style…",
         "source": "arXiv",
-        "date": "2026-07-09T17:41:49Z"
+        "date": "2026-07-10T17:22:49Z"
       },
       {
-        "title": "Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows",
-        "url": "https://arxiv.org/abs/2607.08740v1",
-        "summary": "Emanuele Quinto, Carlo Andrea Rozzi, Francesco Zanitti — Large language model (LLM) applications increasingly use explicit workflows for tool use, retrieval, branching, checkpointing, and human approval. Existing workflow systems already address many execution concerns.",
+        "title": "LLM for EDA in Front-End Design: Challenges and Opportunities",
+        "url": "https://arxiv.org/abs/2607.09616v1",
+        "summary": "Kangwei Xu, Bing Li, Ulf Schlichtmann — As chip complexity increases and time-to-market pressures grow, front-end design has become a critical bottleneck in chip development. Recently, Large Language Models (LLMs) have shown great potential in Electronic…",
         "source": "arXiv",
-        "date": "2026-07-09T17:40:46Z"
+        "date": "2026-07-10T17:15:54Z"
       },
       {
-        "title": "The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs",
-        "url": "https://arxiv.org/abs/2607.08734v1",
-        "summary": "Baha Rababah, Cuneyt Gurcan Akcora, Carson K. Leung — Post-training quantization is widely used to deploy large language models in resource-constrained settings, yet its evaluation relies almost exclusively on accuracy and perplexity. We show that these metrics fail to…",
+        "title": "Toward Real-Time Sentence-Level Sign Language Translation",
+        "url": "https://arxiv.org/abs/2607.09611v1",
+        "summary": "Thanh-Hoang Nguyen Doan — Most sign language understanding systems operate at the level of isolated signs, limiting their usefulness in natural communication. We study sentence-level sign language translation (SLT) with the primary goal of…",
         "source": "arXiv",
-        "date": "2026-07-09T17:35:02Z"
+        "date": "2026-07-10T17:11:03Z"
       }
     ],
     "labs": [
@@ -175,16 +175,23 @@
     ],
     "startups": [
       {
+        "title": "TechCrunch Mobility: A robotaxi ultimatum",
+        "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+        "summary": "This week, we saw another interesting development in the autonomous vehicle industry on the federal stage. It contains a long list of proposed changes to Federal Motor Vehicle Safety Standards (FMVSS) requirements, which govern vehicle design and equipment requirements. Email Kirsten Korosec at kirsten.korosec@techcrunch.com or my Signal at kkorosec.07, or email Sean O’Kane at sean.okane@techcrunch.com .",
+        "source": "TechCrunch",
+        "date": "2026-07-12T16:07:00+00:00"
+      },
+      {
         "title": "Reed Jobs would rather talk about curing cancer than his last name",
         "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
-        "summary": "What undruggable targets are your companies going after? We’re going after it with three different companies and several strategies. Three years into running Yosemite, what’s been the biggest surprise?",
+        "summary": "Two of our 20 companies in the first fund came directly out of a grant. What undruggable targets are your companies going after? Three years into running Yosemite, what’s been the biggest surprise?",
         "source": "TechCrunch",
         "date": "2026-07-12T00:16:06+00:00"
       },
       {
         "title": "This slushie machine was a lifesaver during NYC’s heat wave",
         "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
-        "summary": "Last weekend’s brutal NYC heat wave had me craving a frozen drink almost every afternoon. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. For entertaining, this machine solves a real problem.",
+        "summary": "Last weekend’s brutal NYC heat wave had me craving a frozen drink almost every afternoon. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. My favorite feature, though, is the twist dispenser.",
         "source": "TechCrunch",
         "date": "2026-07-11T22:00:00+00:00"
       },
@@ -250,99 +257,92 @@
         "summary": "SK Hynix, a South Korean memory chip giant, said Friday it has raised $26.5 billion (KRW 40 trillion) in its U.S. market debut. But SK Hynix clearly isn’t suffering from the Korea Discount and that’s because it makes memory chips, including high-bandwidth memory (HBM). IPO for SK Hynix: Both Korean chipmakers just pledged more than $550 billion for new manufacturing investment in South Korea.",
         "source": "TechCrunch",
         "date": "2026-07-10T17:17:12+00:00"
-      },
-      {
-        "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
-        "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
-        "summary": "A new app called HyperTexting is making it as easy to surf the web as it is to scroll through a social media feed, like Facebook or X. That, of course, changed with the arrival of social media. Most prefer a scrollable feed — the kind that social media sites use.",
-        "source": "TechCrunch",
-        "date": "2026-07-10T17:11:51+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "What xAI's Grok Build CLI Actually Sends to xAI",
-        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-        "summary": "It contains the secrets file verbatim (appendix: secrets_responses_body.bin , secret_verbatim.txt ): Repro: grep -a \"CANARY7F3A9-DBPASS\" secrets_responses_body.bin → matches. Total /v1/storage* request bytes: 5,476,228,005 B. Zero storage requests failed. (269 points, 125 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-12T01:09:50+00:00"
-      },
-      {
-        "title": "Mesh LLM: distributed AI computing on iroh",
-        "url": "https://www.iroh.computer/blog/mesh-llm",
-        "summary": "Run bigger models without buying bigger GPUs. Under the hood, Mesh LLM distributes model compute across a mesh of iroh endpoints. For the giants, Mesh LLM has a split mode (internally, \"Skippy\"). (245 points, 52 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-11T22:38:57+00:00"
-      },
-      {
-        "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
-        "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
-        "summary": "The ‘harmony machine’ will be out by the end of the year for ‘around £550.’ The ‘harmony machine’ will be out by the end of the year for ‘around £550.’ After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia , creators Martin Grieco and Rocío Gal are almost ready to bring it to market. Nopia is built around harmonic interplay in a unique way. Additional…",
+        "title": "This free Mac app reveals the truth about your mystery USB-C cables",
+        "url": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
+        "summary": "Nearly three years ago, I showed you an awesome $8 cable tester that quickly tells you if your USB-C cable is likely fast, slow, powerful, or weak. Now let’s try the theoretically latest and greatest cable in my drawer: a 240W USB4 40Gbps cable. Morley isn’t the first to realize a MacBook could be a USB-C cable tester.",
         "source": "The Verge",
-        "date": "2026-07-11T20:57:42+00:00"
+        "date": "2026-07-13T10:00:00+00:00"
       },
       {
-        "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-        "url": "https://antjs.org",
-        "summary": "260 points, 111 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-07-11T20:07:18+00:00"
-      },
-      {
-        "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
-        "url": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
-        "summary": "AG Dan Rayfield says Paramount clearly thinks “they’re above the law.” AG Dan Rayfield says Paramount clearly thinks “they’re above the law.” Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Obviously, Paramount is pleased with Rayfield’s decision to withdraw his request, but the AG’s office isn’t exactly satisfied with the outcome. We’ve…",
+        "title": "Social media limits are coming for teens across Europe",
+        "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
+        "summary": "‘We need age-appropriate restrictions on platforms,’ said EU leader Ursula von der Leyen. ‘We need age-appropriate restrictions on platforms,’ said EU leader Ursula von der Leyen. “This is not about whether children can access social media. It is about when social media can access our children,” von der Leyen said.",
         "source": "The Verge",
-        "date": "2026-07-11T18:44:12+00:00"
+        "date": "2026-07-13T09:22:52+00:00"
       },
       {
-        "title": "AI 2040 and the cult of intelligence",
-        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-        "summary": "Then I joined the real world and actually tried to do things. You cannot take over the world with tokens. And there’s still no hard takeoff . (203 points, 232 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-11T18:04:01+00:00"
-      },
-      {
-        "title": "Prefer strict tables in SQLite",
-        "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-        "summary": "SQLite has a feature that I think is underrated: strict tables . Strict tables help enforce rigid typing, preventing mistakes like putting text into integer columns. Personally, I think the pros of strict tables outweigh the cons. (280 points, 131 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-11T17:33:55+00:00"
-      },
-      {
-        "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-        "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-        "summary": "Nvidia recently invested $2 billion in both CoreWeave and Nebius . Source: YCharts For the full-year, CoreWeave expects to spend $31 billion to $35 billion on capex, or $33 billion at the midpoint. Given CoreWeave’s $2.27 billion cash balance, this creates a huge funding gap of $17.33 billion. (253 points, 87 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-11T17:21:49+00:00"
-      },
-      {
-        "title": "Female US rower completes historic solo journey from California to Hawaii",
-        "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-        "summary": "Kelsey Pfendler set out to become first US woman, youngest woman and fastest woman to solo over 2,400-mile journey A Grand Canyon river-rafting guide who aimed to become the first US woman to row solo across the mid-Pacific has completed a record-breaking journey from California to Hawaii . Pfendler, who launched from Monterey, California, in May, set out to become the first American woman, youngest woman and… (292 points, 100 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-11T17:03:23+00:00"
-      },
-      {
-        "title": "We scaled PgBouncer to 4x throughput",
-        "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-        "summary": "PgBouncer is single-threaded. A single process uses one CPU core, no matter how many the machine has. One pooler box ran a single PgBouncer process; the other ran a fleet of 16. (206 points, 44 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-11T15:28:02+00:00"
-      },
-      {
-        "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
-        "url": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
-        "summary": "The Image Line CEO hits the forums and subreddits every day to keep in touch with his users. The Image Line CEO hits the forums and subreddits every day to keep in touch with his users. No day ends with open tabs.",
+        "title": "Waze is getting a bunch of new AI-powered features",
+        "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+        "summary": "The driving app is getting help from Google’s flagship AI assistant. The driving app is getting help from Google’s flagship AI assistant. Waze is getting an AI makeover.",
         "source": "The Verge",
-        "date": "2026-07-11T15:00:00+00:00"
+        "date": "2026-07-13T09:00:00+00:00"
       },
       {
-        "title": "Nintendo’s Talking Flower got a small price cut",
-        "url": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
-        "summary": "For fans of Super Mario Bros. For fans of Super Mario Bros. The Talking Flower doesn’t have much utility.",
+        "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+        "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+        "summary": "Anthropic is actively campaigning to end software engineering . This week, Anthropic / Bun put out their explanation of the decision to port Bun from Zig to Rust. People will try to understand what happened, and decide which is more true: Anthropic/Bun story : Bun tried everything reasonable, and was still overwhelmed by memory bugs because Zig wasn’t up to the task. (211 points, 122 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-13T08:39:39+00:00"
+      },
+      {
+        "title": "Count Binface",
+        "url": "https://countbinface.com",
+        "summary": "In 2021, I received 92,896 votes (including 24,775 first choice votes) from the humans of London, who made me their 9th choice to be Mayor of the Earth capital, out of 20 candidates. I defeated Piers Corbyn and UKIP again in the process. In 2024 I fought to be London Mayor again, winning 24,260 votes and defeating Britain First, and then took on Prime Minister Rishi Sunak at the General Election in Richmond &… (290 points, 211 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-13T04:00:54+00:00"
+      },
+      {
+        "title": "Ask HN: Add flag for AI-generated articles",
+        "url": "https://news.ycombinator.com/item?id=48886741",
+        "summary": "Perhaps https://news.ycombinator.com/item?id=23308098 . It's going to isolate people even more Human connection. You don't even know what you don't know until you start writing. (692 points, 311 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-13T01:24:20+00:00"
+      },
+      {
+        "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+        "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+        "summary": "A genuine Mac runs Math.tanh through Apple’s math library. Only some math leaks. JavaScript math and CSS math are different code paths. (402 points, 192 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-12T21:12:11+00:00"
+      },
+      {
+        "title": "Tiny Emulators",
+        "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+        "summary": "261 points, 23 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-07-12T20:23:05+00:00"
+      },
+      {
+        "title": "Irish datacenters now guzzle 23% of the country's electricity",
+        "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
+        "summary": "Consumption rose another 10% while restrictions on most new grid connections remained around Dublin Electricity used by datacenters in Ireland increased by 10 percent during 2025, despite an effective moratorium on most new datacenter grid connections in the Dublin area. The latest figures from Ireland's Central Statistics Office (CSO) show that giant server farms now account for nearly a quarter of the country's… (233 points, 261 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-12T20:16:12+00:00"
+      },
+      {
+        "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+        "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses . Don’t get the glasses. Not sexy.” The comments come as Meta faces renewed scrutiny over its smart glasses.",
         "source": "The Verge",
-        "date": "2026-07-11T15:00:00+00:00"
+        "date": "2026-07-12T20:10:19+00:00"
+      },
+      {
+        "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
+        "url": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
+        "summary": "The Soft Pink Truth’s beautiful and spontaneous feeling record is a balm in trying times. The Soft Pink Truth’s beautiful and spontaneous feeling record is a balm in trying times. Feels meticulous, Shall We Go On… feels spontaneous.",
+        "source": "The Verge",
+        "date": "2026-07-12T19:40:00+00:00"
+      },
+      {
+        "title": "I love LLMs, I hate hype",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+        "summary": "I’m so excited for the new LLMs , self driving cars , video generation models , and coding agents . What’s really happening is that programming is changing. Can compilers program? (429 points, 270 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-12T18:31:56+00:00"
       }
     ]
   }
