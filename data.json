@@ -1,93 +1,100 @@
 {
-  "generated_at": "2026-07-13T10:27:15.253023+00:00",
+  "generated_at": "2026-07-14T09:05:24.804938+00:00",
   "sections": {
     "research": [
       {
-        "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal…",
-        "url": "https://arxiv.org/abs/2607.09662v1",
-        "summary": "Ren Takahashi, Emre Yusuf, Jayabrata Bhaduri — Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating characteristic curve…",
+        "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
+        "url": "https://arxiv.org/abs/2607.11883v1",
+        "summary": "Shikai Qiu, Marc Finzi, Yujia Zheng et al. — Compression is fundamental to intelligence. Large neural networks may learn functions far simpler than…",
         "source": "arXiv",
-        "date": "2026-07-10T17:59:45Z"
+        "date": "2026-07-13T17:58:50Z"
       },
       {
-        "title": "Scalable Visual Pretraining for Language Intelligence",
-        "url": "https://arxiv.org/abs/2607.09657v1",
-        "summary": "Yiming Zhang, Zhonghan Zhao, Wenwei Zhang et al. — The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, where figures,…",
+        "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
+        "url": "https://arxiv.org/abs/2607.11881v1",
+        "summary": "Gabrielle Kaili-May Liu, Areeb Gani, Jacqueline Lu et al. — Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recognized as a…",
         "source": "arXiv",
-        "date": "2026-07-10T17:57:03Z"
+        "date": "2026-07-13T17:58:37Z"
       },
       {
-        "title": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models",
-        "url": "https://arxiv.org/abs/2607.09654v1",
-        "summary": "Shravan Murlidaran, Miguel P. Eckstein — Vision language models (VLMs) have made remarkable progress in visual reasoning during the last decade. Most evaluations have used simple scenes (MS-COCO) that do not showcase complex human interactions or behaviors,…",
+        "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
+        "url": "https://arxiv.org/abs/2607.11875v1",
+        "summary": "Tiberiu Musat, Tiago Pimentel, Nicholas Zucchet et al. — We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been mostly tied to specific…",
         "source": "arXiv",
-        "date": "2026-07-10T17:53:37Z"
+        "date": "2026-07-13T17:56:11Z"
       },
       {
-        "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
-        "url": "https://arxiv.org/abs/2607.09653v1",
-        "summary": "Katherine Swinea, Kshitiz Aryal, Lopamudra Praharaj et al. — Internet of Things (IoT) systems are inherently vulnerable due to constrained hardware, outdated firmware, and insecure default configurations, creating a need for scalable and adaptive security testing approaches.…",
+        "title": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation",
+        "url": "https://arxiv.org/abs/2607.11874v1",
+        "summary": "Yunhai Feng, Natalie Leung, Jiaxuan Wang et al. — Recent work in humanoid whole-body control has found success with a simple recipe: retarget human motion to robot kinematic references, then train policies via reinforcement learning (RL) to track them.",
         "source": "arXiv",
-        "date": "2026-07-10T17:52:29Z"
+        "date": "2026-07-13T17:56:08Z"
       },
       {
-        "title": "ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI",
-        "url": "https://arxiv.org/abs/2607.09649v1",
-        "summary": "Mohadeseh Mollapour, Koorosh Aslansefat, Zeinab Dehghani et al. — Concept-based explainable artificial intelligence (AI) can make model reasoning more human-understandable, but concept-level outputs are not automatically trustworthy. We introduce ConceptSMILE, a model-agnostic…",
+        "title": "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol",
+        "url": "https://arxiv.org/abs/2607.11873v1",
+        "summary": "Esteban U. Vega Barajas — Institutions collect far more open-ended teaching-evaluation feedback than they read. A prior study introduced a validated protocol for classifying such comments by thematic category and sentiment, built from a…",
         "source": "arXiv",
-        "date": "2026-07-10T17:47:38Z"
+        "date": "2026-07-13T17:56:05Z"
       },
       {
-        "title": "Deep Gaussian Processes on Directed Acyclic Graphs",
-        "url": "https://arxiv.org/abs/2607.09645v1",
-        "summary": "Federico L. Perlino, Oliver Hamelijnck, Adam M. Johansen et al. — Many real-world processes can be represented as compositions of functions along a directed acyclic graph (DAG). In causal modelling, these correspond to the underlying mechanisms; in engineering, to multiple fidelity…",
+        "title": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
+        "url": "https://arxiv.org/abs/2607.11871v1",
+        "summary": "Zixiang Xu, Sixian Li, Huaxing Liu et al. — Existing studies of LLM-as-judge scoring bias work predominantly at the input-output level: they perturb inputs, measure score deltas, and propose prompt-level mitigations. We argue that the same biases admit a…",
         "source": "arXiv",
-        "date": "2026-07-10T17:41:11Z"
+        "date": "2026-07-13T17:55:19Z"
       },
       {
-        "title": "Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection",
-        "url": "https://arxiv.org/abs/2607.09641v1",
-        "summary": "Cláudio Lúcio do Val Lopes, Lucca Machado da Silva — Financial anomaly detection suffers from extreme class imbalance, causing traditional single-objective algorithms to exhibit ``fraud collapse'', defaulting to the majority class and failing to balance anomaly…",
+        "title": "Evidence-Backed Video Question Answering",
+        "url": "https://arxiv.org/abs/2607.11862v1",
+        "summary": "Shijie Wang, Honglu Zhou, Ziyang Wang et al. — Current Video Large Language Models (Video LLMs) excel in question answering (QA) but largely operate as black boxes, providing textual answers without verifiable visual grounding. Existing explainability efforts rely…",
         "source": "arXiv",
-        "date": "2026-07-10T17:39:00Z"
+        "date": "2026-07-13T17:49:10Z"
       },
       {
-        "title": "Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory",
-        "url": "https://arxiv.org/abs/2607.09632v1",
-        "summary": "Chengkai Zhu, Ziao Tang, Guocheng Zhen et al. — Quantum information theory (QIT) characterizes the capabilities and fundamental limits of quantum information processing, underpinning quantum communication, computation, and error correction. Formalizing its coding…",
+        "title": "AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification",
+        "url": "https://arxiv.org/abs/2607.11849v1",
+        "summary": "Lingkai Kong, Zijian Wu, Yuzhe Gu et al. — Large language models (LLMs) have achieved remarkable performance on high-school and olympiad-style mathematics, yet their capabilities on advanced mathematics remain poorly understood. Existing benchmarks, however,…",
         "source": "arXiv",
-        "date": "2026-07-10T17:28:26Z"
+        "date": "2026-07-13T17:38:22Z"
       },
       {
-        "title": "4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception",
-        "url": "https://arxiv.org/abs/2607.09629v1",
-        "summary": "Xiaokai Bai, Lianqing Zheng, Runwei Guan et al. — Reliable autonomous driving requires full-scene perception that couples foreground objects with dense semantic layout. Recently, 4D millimeter-wave radar has emerged as a robust and affordable sensor, yet its sparse…",
+        "title": "Input-Aware Dynamic Backdoor Attack Against Quantum Neural Networks",
+        "url": "https://arxiv.org/abs/2607.11843v1",
+        "summary": "Junrui Zhang, Zemin Chen, Lusi Li et al. — Quantum Neural Networks (QNNs) are a promising framework for quantum machine learning on near-term quantum devices, but their security risks remain insufficiently understood. Studies have shown that QNNs are vulnerable…",
         "source": "arXiv",
-        "date": "2026-07-10T17:26:19Z"
+        "date": "2026-07-13T17:34:17Z"
       },
       {
-        "title": "Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026",
-        "url": "https://arxiv.org/abs/2607.09623v1",
-        "summary": "Nirjhar Das, Md. Al-Mamun Provath — We present our submission to the QANTA 2026 shared challenge at the ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA). Quanta evaluates multimodal quizbowl systems that answer pyramid-style…",
+        "title": "LoRA-Based Cascaded Multimodal Fusion for Action Recognition in Medical Training Environments",
+        "url": "https://arxiv.org/abs/2607.11839v1",
+        "summary": "Divya Mereddy, Jeevan Beedareddy — This paper presents a cascaded Low-Rank Adaptation (LoRA)-based multimodal fusion framework for action and activity recognition in healthcare-oriented training environments. The proposed architecture combines…",
         "source": "arXiv",
-        "date": "2026-07-10T17:22:49Z"
+        "date": "2026-07-13T17:27:58Z"
       },
       {
-        "title": "LLM for EDA in Front-End Design: Challenges and Opportunities",
-        "url": "https://arxiv.org/abs/2607.09616v1",
-        "summary": "Kangwei Xu, Bing Li, Ulf Schlichtmann — As chip complexity increases and time-to-market pressures grow, front-end design has become a critical bottleneck in chip development. Recently, Large Language Models (LLMs) have shown great potential in Electronic…",
+        "title": "Transformer-Guided Swarm Intelligence for Frugal Neural Architecture Search",
+        "url": "https://arxiv.org/abs/2607.11826v1",
+        "summary": "Romain Amigon — Neural Architecture Search (NAS) has automated the design of deep learning models but traditionally requires massive computational resources, often measured in thousands of GPU-days. In this paper, we propose a frugal…",
         "source": "arXiv",
-        "date": "2026-07-10T17:15:54Z"
+        "date": "2026-07-13T17:18:24Z"
       },
       {
-        "title": "Toward Real-Time Sentence-Level Sign Language Translation",
-        "url": "https://arxiv.org/abs/2607.09611v1",
-        "summary": "Thanh-Hoang Nguyen Doan — Most sign language understanding systems operate at the level of isolated signs, limiting their usefulness in natural communication. We study sentence-level sign language translation (SLT) with the primary goal of…",
+        "title": "MM-ToolSandBox: A Unified Framework for Evaluating Visual Tool-Calling Agents",
+        "url": "https://arxiv.org/abs/2607.11818v1",
+        "summary": "Kaixin Ma, Di Feng, Alexander Metz et al. — We introduce MM-ToolSandBox, a benchmark and evaluation framework for visually grounded tool-calling agents. The framework provides a stateful execution environment spanning 500+ tools across 16 application domains,…",
         "source": "arXiv",
-        "date": "2026-07-10T17:11:03Z"
+        "date": "2026-07-13T17:13:09Z"
       }
     ],
     "labs": [
+      {
+        "title": "Empowering India’s next generation of innovators with ATL Saathi",
+        "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+        "summary": "Atal Tinkering Labs (ATL) is bringing access to new technology—such as 3D printing, IoT, and robotics—for over 1.1 crore students across India. The application provides summarized modules, AI-generated infographics, video overviews, and interactive quizzes for 12 core modules from the ATL prescribed curriculum. Powering the ATL Saathi, the Gemini model provides the underlying intelligence to transform tinkering labs…",
+        "source": "Google DeepMind",
+        "date": "2026-07-13T12:37:28+00:00"
+      },
       {
         "title": "How Deutsche Telekom is rewiring telecommunications with AI",
         "url": "https://openai.com/index/deutsche-telekom",
@@ -96,11 +103,25 @@
         "date": "2026-07-10T07:00:00+00:00"
       },
       {
+        "title": "Getting started with ChatGPT",
+        "url": "https://openai.com/academy/getting-started",
+        "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+        "source": "OpenAI",
+        "date": "2026-07-10T00:00:00+00:00"
+      },
+      {
         "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
         "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
         "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
         "source": "OpenAI",
         "date": "2026-07-09T13:00:00+00:00"
+      },
+      {
+        "title": "GPT-5.5 Bio Bug Bounty",
+        "url": "https://openai.com/index/bio-bug-bounty",
+        "summary": "Details about the OpenAI Bio Bounty program",
+        "source": "OpenAI",
+        "date": "2026-07-09T10:00:00+00:00"
       },
       {
         "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
@@ -113,13 +134,6 @@
         "title": "ChatGPT is now a partner for your most ambitious work",
         "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
         "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-        "source": "OpenAI",
-        "date": "2026-07-09T10:00:00+00:00"
-      },
-      {
-        "title": "GPT-5.5 Bio Bug Bounty",
-        "url": "https://openai.com/index/bio-bug-bounty",
-        "summary": "Details about the OpenAI Bio Bounty program",
         "source": "OpenAI",
         "date": "2026-07-09T10:00:00+00:00"
       },
@@ -157,192 +171,178 @@
         "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
         "source": "OpenAI",
         "date": "2026-07-08T00:00:00+00:00"
-      },
-      {
-        "title": "The power of collaboration: How we can reduce traffic congestion",
-        "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
-        "summary": "During “treatment” days, the modified routing guided all trips that encountered the pre-selected congested segments toward alternative routes with similar travel times. Estimated outcomes on trip travel times, speeds, and estimated emissions. Bottom: Histogram of net volume changes on individual segments.",
-        "source": "Google Research",
-        "date": "2026-07-07T16:42:08+00:00"
-      },
-      {
-        "title": "MUFG aims to become AI-native with OpenAI",
-        "url": "https://openai.com/index/mufg",
-        "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-        "source": "OpenAI",
-        "date": "2026-07-07T00:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "TechCrunch Mobility: A robotaxi ultimatum",
-        "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
-        "summary": "This week, we saw another interesting development in the autonomous vehicle industry on the federal stage. It contains a long list of proposed changes to Federal Motor Vehicle Safety Standards (FMVSS) requirements, which govern vehicle design and equipment requirements. Email Kirsten Korosec at kirsten.korosec@techcrunch.com or my Signal at kkorosec.07, or email Sean O’Kane at sean.okane@techcrunch.com .",
+        "title": "Pinwheel launches a retro-inspired landline phone for kids",
+        "url": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
+        "summary": "The kid-focused tech company announced Tuesday the launch of Pinwheel Home, a modern take on the classic household phone designed to let children stay connected without the distractions of a smartphone. Instead of texting or doomscrolling on social media, Pinwheel Home is built solely for voice calls. Calls between Pinwheel Home devices are free through the company’s Pinwheel Circle service.",
         "source": "TechCrunch",
-        "date": "2026-07-12T16:07:00+00:00"
+        "date": "2026-07-14T09:00:00+00:00"
       },
       {
-        "title": "Reed Jobs would rather talk about curing cancer than his last name",
-        "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
-        "summary": "Two of our 20 companies in the first fund came directly out of a grant. What undruggable targets are your companies going after? Three years into running Yosemite, what’s been the biggest surprise?",
+        "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+        "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+        "summary": "“Member of technical staff” is the deliberately flat, non-hierarchical label that Anthropic and OpenAI use for nearly everyone on their technical teams, regardless of seniority. It’s the same title Blomfield is taking. Bailis lasted less than a year before trading it for a spot at Anthropic.",
         "source": "TechCrunch",
-        "date": "2026-07-12T00:16:06+00:00"
+        "date": "2026-07-14T02:46:42+00:00"
       },
       {
-        "title": "This slushie machine was a lifesaver during NYC’s heat wave",
-        "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
-        "summary": "Last weekend’s brutal NYC heat wave had me craving a frozen drink almost every afternoon. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. My favorite feature, though, is the twist dispenser.",
+        "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+        "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+        "summary": "Would Uber ever offer its own buy now, pay later product? Is Uber Eats still leaning on ride-hailing to stay healthy? Is Uber selling driver and rider data to Gen AI companies?",
         "source": "TechCrunch",
-        "date": "2026-07-11T22:00:00+00:00"
+        "date": "2026-07-14T00:45:00+00:00"
       },
       {
-        "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
-        "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
-        "summary": "Even Realities’ G2 smart glasses are in the same boat. Even Realities takes a different approach to smart glasses than players like Meta. Smart glasses are coming out fast.",
+        "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+        "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+        "summary": "PixVerse offers multiple models, including a V-Series video model for consumer and API use, a C-Series video model for professional film and commercial workflows, and an R-Series of world models for game development and world building, which was released earlier this year . Other companies like Meta and Tencent are not able to create high-quality video models. This experience comes in handy when building a…",
         "source": "TechCrunch",
-        "date": "2026-07-11T17:30:00+00:00"
+        "date": "2026-07-14T00:00:00+00:00"
       },
       {
-        "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-        "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-        "summary": "More than three years after ChatGPT’s launch brought generative AI into the mainstream, OpenAI is broadening its focus beyond individual users to families. OpenAI is hiring a dedicated product manager in San Francisco to build experiences for families, caregivers, and older adults across its products. The hiring comes as ChatGPT’s audience continues to broaden beyond younger users.",
+        "title": "X just tweaked its algorithm to make it more friendly, less battleground",
+        "url": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
+        "summary": "X has made a “tweak” to its algorithm to boost the visibility of posts to users’ “mutuals” — the people they follow who follow them back, head of product, Nikita Bier, said Monday. For instance, last month Threads rolled out a Your Algo feature , which lets users privately control what they see in their feed. It also reached 500 million monthly active users .",
         "source": "TechCrunch",
-        "date": "2026-07-11T14:13:00+00:00"
+        "date": "2026-07-13T23:58:27+00:00"
       },
       {
-        "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-        "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
-        "summary": "U.S. federal cybersecurity agency CISA said it did not have a prepared response plan for how it should handle a cybersecurity incident in May, after an investigative reporter notified the agency that a contractor had publicly exposed sensitive keys and credentials for accessing U.S. government systems. Only after Krebs contacted CISA did the agency take the repository offline and revoke and replace all of the…",
+        "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+        "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+        "summary": "Nous Research declined to comment. Weeks after Openclaw’s agent went viral, Nous Research released its own competitor called Hermes. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-07-11T01:01:28+00:00"
+        "date": "2026-07-13T23:31:18+00:00"
       },
       {
-        "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
-        "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
-        "summary": "Phia, the shopping startup co-founded by Bill Gates’ daughter, Phoebe Gates, and Sophia Kianni, has been accused of a practice known as “cookie stuffing,” which may have helped the product receive commissions and credit for sales it did not actually generate, according to a Bloomberg investigation . The report has sparked controversy and led to Phia’s suspension from Impact.com , a leading affiliate and influencer…",
+        "title": "Satya Nadella has issued a shocking warning to companies using AI",
+        "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+        "summary": "Nadella argues that if AI companies get to freely scrape the internet to train their models, it’s only fair that enterprises get to study — or “distill” — those models in return. After experimenting with proprietary model makers, they start asking themselves: “Can I take an open source model and run it on-prem? She sees companies increasingly installing on-premise open source models and sees it as the next big wave…",
         "source": "TechCrunch",
-        "date": "2026-07-11T00:29:25+00:00"
+        "date": "2026-07-13T20:59:00+00:00"
       },
       {
-        "title": "Meta removes controversial AI feature on Instagram after backlash",
-        "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-        "summary": "Meta has axed a controversial feature that allowed users to modify photos from public Instagram accounts using AI. Meta promoted one feature that allowed individuals to generate images by @-mentioning public Instagram accounts that they wanted to reference. Now Meta has reversed course.",
+        "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+        "url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+        "summary": "In accusing OpenAI of stealing secrets about Apple’s unreleased products, Apple revealed that a former employee allegedly siphoned reams of sensitive files from the company’s shared network folders, weeks after leaving Apple for a job at OpenAI. Liu allegedly used Peng’s Apple-issued work laptop “while she was still employed at Apple and he was not.” Apple said that during February 2026, Liu “tried to access Apple’s…",
         "source": "TechCrunch",
-        "date": "2026-07-10T23:55:07+00:00"
+        "date": "2026-07-13T20:00:17+00:00"
       },
       {
-        "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
-        "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
-        "summary": "In March, Bluesky’s longtime CEO, Jay Graber, stepped down from that role to become its chief innovation officer. Graber was immediately succeeded by Toni Schneider, the founding CEO of Automattic, which is the company behind WordPress and Tumblr. “I’m four months into my interim CEO role at Bluesky, and it’s time for an update,” Schneider wrote on his personal blog .",
+        "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+        "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+        "summary": "Apple’s trade secret lawsuit against OpenAI is packed with a number of extraordinary allegations that paint a picture of a coordinated effort to extract confidential information from current and former Apple employees. But what’s perhaps most striking is how casually the alleged misconduct is described, including one message that reads, “LOL, I found out I can access the [network storage], so funny.” The 41-page…",
         "source": "TechCrunch",
-        "date": "2026-07-10T21:51:55+00:00"
+        "date": "2026-07-13T18:22:10+00:00"
       },
       {
-        "title": "Apple sues OpenAI over alleged trade secret theft",
-        "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-        "summary": "Apple filed a lawsuit Friday against OpenAI over allegations of trade secret theft and breach of contract. Before joining OpenAI, Tan had spent 24 years at Apple, most recently as VP of product design for the iPhone and Apple Watch. OpenAI was asked for comment.",
+        "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+        "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+        "summary": "Sam Altman and Elon Musk traded barbed social media posts over the weekend, drawing new attention to the gap between vision and reality for the space-compute business. Responding to Musk accusing him of being a scammer, Altman said , “homeboy you’re the one sellling [sic] public market investors on short-term space datacenters.” Setting aside “homeboy,” Altman is saying what a lot of experts have concluded but…",
         "source": "TechCrunch",
-        "date": "2026-07-10T21:00:29+00:00"
+        "date": "2026-07-13T17:28:37+00:00"
       },
       {
-        "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
-        "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
-        "summary": "Fizz’s filing also alleges that Lu continued to act as a conduit, funneling information about Fizz’s fundraising efforts and other matters to Sidechat. However, Fizz claims Lu had been in discussions with Sidechat as early as 2022. Fizz declined to comment.",
+        "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company",
+        "url": "https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/",
+        "summary": "Alongside the de-SPAC, General Fusion also raised $108 million from private investors. That round gave General Fusion some breathing room. Founded in 2002, General Fusion is one of the oldest fusion power companies around.",
         "source": "TechCrunch",
-        "date": "2026-07-10T17:42:36+00:00"
+        "date": "2026-07-13T17:03:11+00:00"
       },
       {
-        "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-        "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-        "summary": "SK Hynix, a South Korean memory chip giant, said Friday it has raised $26.5 billion (KRW 40 trillion) in its U.S. market debut. But SK Hynix clearly isn’t suffering from the Korea Discount and that’s because it makes memory chips, including high-bandwidth memory (HBM). IPO for SK Hynix: Both Korean chipmakers just pledged more than $550 billion for new manufacturing investment in South Korea.",
+        "title": "12 states sue to block Paramount’s $110B Warner Bros. deal",
+        "url": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
+        "summary": "Discovery (WBD), alleging that the deal would harm movie theaters, basic cable distributors, and audiences. The deal would combine two notable film studios as well as streaming platforms Paramount+ and HBO Max . Aisha is a consumer news reporter at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-07-10T17:17:12+00:00"
+        "date": "2026-07-13T17:00:14+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "This free Mac app reveals the truth about your mystery USB-C cables",
-        "url": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
-        "summary": "Nearly three years ago, I showed you an awesome $8 cable tester that quickly tells you if your USB-C cable is likely fast, slow, powerful, or weak. Now let’s try the theoretically latest and greatest cable in my drawer: a 240W USB4 40Gbps cable. Morley isn’t the first to realize a MacBook could be a USB-C cable tester.",
+        "title": "New York becomes the first state to enact a data center moratorium",
+        "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+        "summary": "But a version approved by state lawmakers could go even further. But a version approved by state lawmakers could go even further. Maine nearly became the first state to pass a data center moratorium before its governor vetoed the bill in April.",
         "source": "The Verge",
-        "date": "2026-07-13T10:00:00+00:00"
+        "date": "2026-07-14T09:00:00+00:00"
       },
       {
-        "title": "Social media limits are coming for teens across Europe",
-        "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
-        "summary": "‘We need age-appropriate restrictions on platforms,’ said EU leader Ursula von der Leyen. ‘We need age-appropriate restrictions on platforms,’ said EU leader Ursula von der Leyen. “This is not about whether children can access social media. It is about when social media can access our children,” von der Leyen said.",
+        "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+        "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+        "summary": "This huge breakthrough in tech has come from a recycling facility in Japan, where engineers have managed to extract around 90 percent of lithium from used batteries . This helps convert battery waste, known as ‘black mass’, into high-purity lithium that can be reused in new batteries. NHK World confirms Japan has perfected a revolutionary process to extract high purity lithium from dead batteries with a staggering… (435 points, 106 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-14T02:27:20+00:00"
+      },
+      {
+        "title": "Microsoft tests Windows Search without all the ads and fluff",
+        "url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
+        "summary": "The decluttered search menu gets rid of those distracting tiles with game recommendations and the ‘image of the day.’ The decluttered search menu gets rid of those distracting tiles with game recommendations and the ‘image of the day.’ Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads. Currently, when you open the search menu, it shows your recent…",
         "source": "The Verge",
-        "date": "2026-07-13T09:22:52+00:00"
+        "date": "2026-07-13T21:53:20+00:00"
       },
       {
-        "title": "Waze is getting a bunch of new AI-powered features",
-        "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-        "summary": "The driving app is getting help from Google’s flagship AI assistant. The driving app is getting help from Google’s flagship AI assistant. Waze is getting an AI makeover.",
+        "title": "OnePlus is reportedly bailing on the US",
+        "url": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
+        "summary": "OnePlus and its parent company, Oppo, plan to announce in the coming days that OnePlus brand will be leaving the US and European markets, according to a machine translation of a WinFuture report . Android Headlines said in January that OnePlus was being “dismantled,” though OnePlus, in a statement at the time, said that “OnePlus North America continues to operate, with full guarantee of users’ after-sales support,…",
         "source": "The Verge",
-        "date": "2026-07-13T09:00:00+00:00"
+        "date": "2026-07-13T21:48:43+00:00"
       },
       {
-        "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-        "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-        "summary": "Anthropic is actively campaigning to end software engineering . This week, Anthropic / Bun put out their explanation of the decision to port Bun from Zig to Rust. People will try to understand what happened, and decide which is more true: Anthropic/Bun story : Bun tried everything reasonable, and was still overwhelmed by memory bugs because Zig wasn’t up to the task. (211 points, 122 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-13T08:39:39+00:00"
-      },
-      {
-        "title": "Count Binface",
-        "url": "https://countbinface.com",
-        "summary": "In 2021, I received 92,896 votes (including 24,775 first choice votes) from the humans of London, who made me their 9th choice to be Mayor of the Earth capital, out of 20 candidates. I defeated Piers Corbyn and UKIP again in the process. In 2024 I fought to be London Mayor again, winning 24,260 votes and defeating Britain First, and then took on Prime Minister Rishi Sunak at the General Election in Richmond &… (290 points, 211 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-13T04:00:54+00:00"
-      },
-      {
-        "title": "Ask HN: Add flag for AI-generated articles",
-        "url": "https://news.ycombinator.com/item?id=48886741",
-        "summary": "Perhaps https://news.ycombinator.com/item?id=23308098 . It's going to isolate people even more Human connection. You don't even know what you don't know until you start writing. (692 points, 311 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-13T01:24:20+00:00"
-      },
-      {
-        "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
-        "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-        "summary": "A genuine Mac runs Math.tanh through Apple’s math library. Only some math leaks. JavaScript math and CSS math are different code paths. (402 points, 192 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-12T21:12:11+00:00"
-      },
-      {
-        "title": "Tiny Emulators",
-        "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-        "summary": "261 points, 23 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-07-12T20:23:05+00:00"
-      },
-      {
-        "title": "Irish datacenters now guzzle 23% of the country's electricity",
-        "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
-        "summary": "Consumption rose another 10% while restrictions on most new grid connections remained around Dublin Electricity used by datacenters in Ireland increased by 10 percent during 2025, despite an effective moratorium on most new datacenter grid connections in the Dublin area. The latest figures from Ireland's Central Statistics Office (CSO) show that giant server farms now account for nearly a quarter of the country's… (233 points, 261 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-12T20:16:12+00:00"
-      },
-      {
-        "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-        "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses . Don’t get the glasses. Not sexy.” The comments come as Meta faces renewed scrutiny over its smart glasses.",
+        "title": "A two-pack of DJI&#8217;s most capable wireless mics just got its first price cut",
+        "url": "https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale",
+        "summary": "This discounted portable microphone kit brings clearer audio to your smartphone videos. This discounted portable microphone kit brings clearer audio to your smartphone videos. A wireless lavalier microphone can dramatically improve the audio quality of your videos, whether you’re the only one talking, or if you’re getting audio from multiple people.",
         "source": "The Verge",
-        "date": "2026-07-12T20:10:19+00:00"
+        "date": "2026-07-13T21:03:14+00:00"
       },
       {
-        "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
-        "url": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
-        "summary": "The Soft Pink Truth’s beautiful and spontaneous feeling record is a balm in trying times. The Soft Pink Truth’s beautiful and spontaneous feeling record is a balm in trying times. Feels meticulous, Shall We Go On… feels spontaneous.",
+        "title": "The Shokz OpenRun Pro are the cheapest they’ve been since January",
+        "url": "https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale",
+        "summary": "The open-ear bone-conduction headphones let you stay aware of your surroundings while running, cycling, or walking. The open-ear bone-conduction headphones let you stay aware of your surroundings while running, cycling, or walking. Unlike traditional earbuds, the OpenRun Pro rests just outside your ears and uses bone conduction to deliver sound.",
         "source": "The Verge",
-        "date": "2026-07-12T19:40:00+00:00"
+        "date": "2026-07-13T20:57:44+00:00"
       },
       {
-        "title": "I love LLMs, I hate hype",
-        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-        "summary": "I’m so excited for the new LLMs , self driving cars , video generation models , and coding agents . What’s really happening is that programming is changing. Can compilers program? (429 points, 270 comments on Hacker News)",
+        "title": "The Pixel colors might rule this year",
+        "url": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
+        "summary": "If this hot pink Pixel is real, that would be awesome. If this hot pink Pixel is real, that would be awesome. This year’s Google Pixel 11 lineup might come in a bunch of funky colors.",
+        "source": "The Verge",
+        "date": "2026-07-13T20:52:27+00:00"
+      },
+      {
+        "title": "Apple’s public betas for iOS 27 and more are out now",
+        "url": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
+        "summary": "The betas let you try the new Siri before Apple’s wider launch this fall. The betas let you try the new Siri before Apple’s wider launch this fall. Apple has just released public betas for iOS 27 and other major OS updates that are set to publicly launch this fall.",
+        "source": "The Verge",
+        "date": "2026-07-13T20:45:40+00:00"
+      },
+      {
+        "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
+        "url": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
+        "summary": "watchOS 27 feels like a culmination of several years of smaller updates.﻿ watchOS 27 feels like a culmination of several years of smaller updates.﻿ Siri has been on the Apple Watch since day one, though I’m usually hard-pressed to find people who actually make good use of it. I haven’t really had this issue with Siri AI on watchOS 27. In watchOS 26, Workout Buddy mostly surfaced milestones.",
+        "source": "The Verge",
+        "date": "2026-07-13T20:44:20+00:00"
+      },
+      {
+        "title": "Siri AI is already changing how I use my iPhone",
+        "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+        "summary": "App entities and intents allow Siri to control and pull data from them, and Siri’s semantic layer handles the understanding of your words. This time, Apple is asking developers to update their apps to improve the Siri experience. Not only is this a beta OS, but a beta Siri.",
+        "source": "The Verge",
+        "date": "2026-07-13T20:43:20+00:00"
+      },
+      {
+        "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
+        "url": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai",
+        "summary": "The macOS 27 Golden Gate public beta is here , and anyone with an M-series Mac now has easier access to test-drive Apple’s latest changes — including a more subdued Liquid Glass aesthetic. And aside from dialing down Liquid Glass, that is what Golden Gate feels like. Even though I don’t care much for Siri AI and the new Apple Intelligence features, I much prefer Golden Gate to Tahoe.",
+        "source": "The Verge",
+        "date": "2026-07-13T20:43:15+00:00"
+      },
+      {
+        "title": "Samsung Health app threatens data deletion if users opt out AI training",
+        "url": "https://neow.in/cWsyMTV3",
+        "summary": "Samsung has started notifying users that they'd have to consent to the use of their private health data to train new AI models or risk losing it forever. Apparently, the company has introduced a \"Consent to the Use of Health Data for AI training and modelling\" toggle deep in the settings of the Samsung Health app and is forcing people to agree to these terms if they want to back up their information. Samsung said… (315 points, 85 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-12T18:31:56+00:00"
+        "date": "2026-07-13T20:01:43+00:00"
       }
     ]
   }
