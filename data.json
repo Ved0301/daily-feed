@@ -1,93 +1,114 @@
 {
-  "generated_at": "2026-07-15T09:10:16.457759+00:00",
+  "generated_at": "2026-07-16T09:14:36.469294+00:00",
   "sections": {
     "research": [
       {
-        "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
-        "url": "https://arxiv.org/abs/2607.13034v1",
-        "summary": "Junjie Yin, Xinyu Feng — Large language model (LLM) agents increasingly automate multi-step engineering and informatics workflows, yet they rarely ask how much effort a task actually requires. They often follow a maximum-context-first…",
+        "title": "Leveraging unlabelled data for generalizable neural population decoding",
+        "url": "https://arxiv.org/abs/2607.14086v1",
+        "summary": "Ximeng Mao, Nanda H. Krishna, Avery Hee-Woon Ryoo et al. — Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike level facilitates…",
         "source": "arXiv",
-        "date": "2026-07-14T17:59:31Z"
+        "date": "2026-07-15T17:58:00Z"
       },
       {
-        "title": "The Seriality Gap in Video Diffusion Models",
-        "url": "https://arxiv.org/abs/2607.13031v1",
-        "summary": "Jorge Diaz Chao, Konpat Preechakul, Yuxi Liu et al. — When one ball strikes another, then another, video models should predict the consequences of each bounce. In controlled experiments on multi-ball hard-sphere dynamics, we find that the performance of standard…",
+        "title": "Linear Independent Component Analysis via Optimal Transport",
+        "url": "https://arxiv.org/abs/2607.14081v1",
+        "summary": "Ashutosh Jha, Michel Besserve, Simon Buchholz — Linear Independent Component Analysis (ICA) recovers jointly independent source signals from their linear mixtures. To achieve this, classical ICA algorithms attempt to maximize non-Gaussianity, measured by negentropy,…",
         "source": "arXiv",
-        "date": "2026-07-14T17:59:22Z"
+        "date": "2026-07-15T17:56:11Z"
       },
       {
-        "title": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale",
-        "url": "https://arxiv.org/abs/2607.13028v1",
-        "summary": "Zhouchonghao Wu, Akshay Rangesh, Weixin Li et al. — Training robust autonomous driving agents requires a simulator that is fast enough for reinforcement learning at scale, realistic enough to ground behavior in real-world map structure, and diverse enough to cover the…",
+        "title": "MetaPerch: Learning from metadata for bioacoustics foundation models",
+        "url": "https://arxiv.org/abs/2607.14072v1",
+        "summary": "Mustafa Chasmai, Vincent Dumoulin, Jenny Hamer — Bioacoustic foundation models rely on large-scale citizen science platforms like Xeno-Canto for geographically and ecologically diverse data. Recent work has shown that supervision alone can produce SotA species…",
         "source": "arXiv",
-        "date": "2026-07-14T17:59:02Z"
+        "date": "2026-07-15T17:42:41Z"
       },
       {
-        "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
-        "url": "https://arxiv.org/abs/2607.13027v1",
-        "summary": "Hongru Cai, Yongqi Li, Ran Wei et al. — Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent systems run on…",
+        "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes",
+        "url": "https://arxiv.org/abs/2607.14070v1",
+        "summary": "Jeremy Guntoro, Alexander Dack, Dylan Danno et al. — Genomic foundation models such as Evo 2 learn rich sequence representations, but their value for biosecurity screening is largely unexplored. We ask how much biosecurity-relevant signal is linearly accessible in these…",
         "source": "arXiv",
-        "date": "2026-07-14T17:58:57Z"
+        "date": "2026-07-15T17:38:02Z"
       },
       {
-        "title": "A Shortcut to Statistically Steady-State Turbulence with Flow Matching",
-        "url": "https://arxiv.org/abs/2607.13022v1",
-        "summary": "Gianluca Galletti, Gerald Gutenbrunner, William Hornsby et al. — Many nonlinear physical systems exhibit an initial transient phase in which perturbations grow before nonlinear interactions lead to a statistically steady state. While this saturated regime is of primary interest,…",
+        "title": "Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters",
+        "url": "https://arxiv.org/abs/2607.14051v1",
+        "summary": "Xiao Ye, Jacob Dineen, Evan Zhu et al. — Forecasters are evaluated by backtesting, which replays resolved questions and grades the probability the system would have assigned before the outcome was known. For LLMs, two channels leak the answer into this test.",
         "source": "arXiv",
-        "date": "2026-07-14T17:58:13Z"
+        "date": "2026-07-15T17:21:43Z"
       },
       {
-        "title": "Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model",
-        "url": "https://arxiv.org/abs/2607.13013v1",
-        "summary": "Harsha Vardhan Khurdula, Abhinav Kumar Singh, Yoeven D Khemlani et al. — Automatic speech recognition is dominated by autoregressive decoders that emit one token at a time. We ask whether a discrete diffusion language model can transcribe speech instead, refining a whole transcript in…",
+        "title": "Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models",
+        "url": "https://arxiv.org/abs/2607.14049v1",
+        "summary": "Hefeng Zhou, Jinxuan Zhang, Jiong Lou et al. — The emergence of Chain-of-Thought (CoT) reasoning has significantly enhanced the ability of large language models (LLMs) to tackle complex, multi-step tasks. However, when errors occur, current interaction approaches…",
         "source": "arXiv",
-        "date": "2026-07-14T17:53:22Z"
+        "date": "2026-07-15T17:16:43Z"
       },
       {
-        "title": "Dynamic Resource Allocation for Ensemble Determinization MCTS",
-        "url": "https://arxiv.org/abs/2607.13007v1",
-        "summary": "Jakub Kowalski, Adam Ciężkowski, Artur Krzyżyński et al. — Simulation-based algorithms are especially suited for high-uncertainty environments such as adversarial board games with significant elements of randomness and hidden information. In particular, several Monte Carlo Tree…",
+        "title": "Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education",
+        "url": "https://arxiv.org/abs/2607.14046v1",
+        "summary": "Xanthi Kokkinou, Chaido Mizeli, Nafsika Koulaxidou et al. — This paper presents Earthquaker-AI, a hybrid educational framework building upon a previously implemented educational robotics project by integrating a conversational AI assistant based on Retrieval-Augmented…",
         "source": "arXiv",
-        "date": "2026-07-14T17:51:15Z"
+        "date": "2026-07-15T17:15:16Z"
       },
       {
-        "title": "The Spectrum Is Not Enough: When Context Helps Time-Series Forecasting",
-        "url": "https://arxiv.org/abs/2607.13006v1",
-        "summary": "Mert Onur Cakiroglu, Mehmet Dalkilic, Hasan Kurban — A growing family of indices scores how predictable a series is from its spectrum. Practitioners increasingly read these scores as answering a different question: whether \\emph{adding context}, a longer lookback, a…",
+        "title": "AI-accelerated End-to-End Framework for Rapid Professional Upskilling",
+        "url": "https://arxiv.org/abs/2607.14044v1",
+        "summary": "Tam Nguyen, Hung Nguyen, Robert Ogburn — By 2030, 59 of every 100 workers will need reskilling or upskilling, yet the average time to close an enterprise skills gap grew from roughly 3 days in 2014 to 36 days in 2018. Most current frameworks accelerate single…",
         "source": "arXiv",
-        "date": "2026-07-14T17:50:28Z"
+        "date": "2026-07-15T17:14:03Z"
       },
       {
-        "title": "Watermark Forensics for Generative Models: An Information-Theoretic Perspective",
-        "url": "https://arxiv.org/abs/2607.13003v1",
-        "summary": "Xiaoyu Li, Zheng Gao, Xiaoyan Feng et al. — A watermark in a generative model's output is usually asked only whether a text is machine-made. The same mark can do more: attribute it to the user who produced it, extract a hidden payload, or localize the part that…",
+        "title": "Multi-Expert Routing for Multi-Domain Low-Resource OCR: A Manchu Case Study",
+        "url": "https://arxiv.org/abs/2607.14041v1",
+        "summary": "Zhan Chen, Jiqiao Ma, Chih-wen Kuo — Historical Manchu OCR must accommodate various visually distinct writing styles, including regular script, running script, and the semi-cursive chancery hand used in palace memorials, despite limited labeled data.",
         "source": "arXiv",
-        "date": "2026-07-14T17:49:52Z"
+        "date": "2026-07-15T17:12:37Z"
       },
       {
-        "title": "Win by Silence: Deletion Non-Monotonicity, Autonomous Exploitation, and Typed-State Gating in LLM Plan Evaluation",
-        "url": "https://arxiv.org/abs/2607.12986v1",
-        "summary": "Aleh Manchuliantsau — Plan evaluators can reward a strategic plan for becoming less explicit. This paper studies that failure in a staged expected-value scorer for LLM-generated venture routes.",
+        "title": "Can an Old Dog Be Taught New Tricks? Taking LLMs Beyond Sentence Level Translation",
+        "url": "https://arxiv.org/abs/2607.14040v1",
+        "summary": "Alaina Brandt — Automatic translation systems, from CAT tools to MT, overwhelmingly treat translation as a sentence-by-sentence act. This paper asks whether LLMs can be moved beyond that paradigm through whole-document, corpus-informed…",
         "source": "arXiv",
-        "date": "2026-07-14T17:29:28Z"
+        "date": "2026-07-15T17:10:24Z"
       },
       {
-        "title": "Resist and Update: Counterfactual Report Coordinates for Incentive-Compatible LLMs",
-        "url": "https://arxiv.org/abs/2607.12985v1",
-        "summary": "Sen Yang, Yuen-Hei Yeung — Aligned language models routinely misreport under non-evidential incentive pressure: they agree with a confident user or overstate certainty even when their internal belief is unchanged. We cast this as a failure of…",
+        "title": "Early Adoption of Agentic Coding Tools by GitHub Projects",
+        "url": "https://arxiv.org/abs/2607.14037v1",
+        "summary": "Maliha Noushin Raida, Daqing Hou — Agentic coding tools are increasingly capable of generating and submitting pull requests (PRs) to software projects, introducing new forms of human-agent collaboration in software development. While prior studies have…",
         "source": "arXiv",
-        "date": "2026-07-14T17:28:25Z"
+        "date": "2026-07-15T17:05:06Z"
       },
       {
-        "title": "FormalAnalyticGeo: A Neural-Symbolic Based Framework for Multimodal Analytic Geometry Problem Generation",
-        "url": "https://arxiv.org/abs/2607.12982v1",
-        "summary": "Ruoran Xu, Wending Gao, Qiufeng Wang — Math reasoning has achieved significant progress with the rapid advancement of Multimodal Large Language Models (MLLMs), however analytic geometry remains largely underexplored, primarily due to the scarcity of…",
+        "title": "Improving Wind and Solar Power Prediction with Efficient Wrapper-based Feature Selection: An Empirical Study",
+        "url": "https://arxiv.org/abs/2607.14024v1",
+        "summary": "Daniel Grillmeyer, Marius Hadry, Michael Stenger et al. — With rising global energy demand and growing awareness of climate change and its impacts, the share of renewable energies in the global energy mix continues to grow. Unlike conventional power generation, the output of…",
         "source": "arXiv",
-        "date": "2026-07-14T17:24:57Z"
+        "date": "2026-07-15T16:55:42Z"
       }
     ],
     "labs": [
+      {
+        "title": "Towards demystifying the creativity of diffusion models",
+        "url": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
+        "summary": "In a diffusion model, the moving particles are individual data points undergoing denoising. The score function drives the denoising process which turns pure noise into meaningful data (e.g., images). Score smoothing creates an “interpolation zone” between training data points.",
+        "source": "Google Research",
+        "date": "2026-07-15T18:06:27+00:00"
+      },
+      {
+        "title": "The US is advancing AI safety through state and federal action",
+        "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+        "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+        "source": "OpenAI",
+        "date": "2026-07-15T12:00:00+00:00"
+      },
+      {
+        "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+        "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+        "source": "OpenAI",
+        "date": "2026-07-15T10:00:00+00:00"
+      },
       {
         "title": "How to manage AI investments in the agentic era",
         "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
@@ -96,16 +117,16 @@
         "date": "2026-07-14T10:00:00+00:00"
       },
       {
-        "title": "How data science teams use ChatGPT Work",
-        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-        "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+        "title": "How sales teams use ChatGPT Work",
+        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+        "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
         "source": "OpenAI",
         "date": "2026-07-14T00:00:00+00:00"
       },
       {
-        "title": "How sales teams use ChatGPT Work",
-        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-        "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+        "title": "How data science teams use ChatGPT Work",
+        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+        "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
         "source": "OpenAI",
         "date": "2026-07-14T00:00:00+00:00"
       },
@@ -138,20 +159,6 @@
         "date": "2026-07-09T13:00:00+00:00"
       },
       {
-        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-        "url": "https://openai.com/index/gpt-5-6",
-        "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-        "source": "OpenAI",
-        "date": "2026-07-09T10:00:00+00:00"
-      },
-      {
-        "title": "GPT-5.5 Bio Bug Bounty",
-        "url": "https://openai.com/index/bio-bug-bounty",
-        "summary": "Details about the OpenAI Bio Bounty program",
-        "source": "OpenAI",
-        "date": "2026-07-09T10:00:00+00:00"
-      },
-      {
         "title": "ChatGPT is now a partner for your most ambitious work",
         "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
         "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
@@ -159,190 +166,183 @@
         "date": "2026-07-09T10:00:00+00:00"
       },
       {
-        "title": "SensorFM: Towards a general intelligence and interface for wearable health data",
-        "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/",
-        "summary": "By co-scaling model size and data, SensorFM learns a general-purpose representation of human physiology that transfers to 35 health prediction tasks, supports label-efficient adaptation and data infilling, and can serve as a grounding tool for a Personal Health Agent. Across model variants, SensorFM-B wins on 33 of 35 tasks. The tasks span six categories: cardiovascular health, metabolic risk, mental health, sleep,…",
-        "source": "Google Research",
-        "date": "2026-07-09T09:56:00+00:00"
-      },
-      {
-        "title": "Our approach to government and national security partnerships",
-        "url": "https://openai.com/index/government-national-security-partnerships",
-        "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+        "url": "https://openai.com/index/gpt-5-6",
+        "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
         "source": "OpenAI",
-        "date": "2026-07-08T13:30:00+00:00"
+        "date": "2026-07-09T10:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-        "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-        "summary": "Miles Wang , an OpenAI researcher whose work includes using AI to accelerate scientific and biological discovery, is leaving the ChatGPT maker to launch a new startup focused on developing AI models for drug discovery, according to four people with knowledge of his plans. Several other OpenAI researchers are expected to join the new company. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
+        "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
+        "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+        "summary": "Activewear company Lululemon has invested in the $30 million Series A round raised by Syntetica, a French startup that developed a novel approach to recycling nylon, whose properties make it both too good to give up but hard to reuse. Syntetica promises to recycle two types of nylon — Nylon 6 and Nylon 6,6 — that can’t easily be sorted out from each other in the textile waste collected from consumers, its CEO, Marco…",
         "source": "TechCrunch",
-        "date": "2026-07-15T00:27:04+00:00"
+        "date": "2026-07-16T04:00:00+00:00"
       },
       {
-        "title": "Lorde says AI glasses are ‘not sexy’",
-        "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-        "summary": "Don’t get the glasses. Don’t get the glasses. Ray-Ban Meta glasses have been such a hit in the smart glasses category that an emboldened Meta keeps expanding the lineup .",
+        "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+        "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+        "summary": "Unlike large language models, which predict the next word, Applied Computing says its foundation model, Orbital, combines a time series model, a physics-based model, and a language model to predict the state of a facility. Cognite and Seeq target the data layer, helping facilities analyze industrial data, and apply AI to design workflows. Adamson said the partnership gives Applied Computing access to operational…",
         "source": "TechCrunch",
-        "date": "2026-07-14T23:10:02+00:00"
+        "date": "2026-07-16T04:00:00+00:00"
       },
       {
-        "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-        "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-        "summary": "Apple last week sued OpenAI , accusing the AI company of stealing its trade secrets. OpenAI has denied wrongdoing. Citing anonymous sources with knowledge of OpenAI’s plans, Bloomberg writes that the company feels its new product “veers significantly from anything Apple has on the market today” and that it is “unlikely that it violates trade secrets” belonging to Apple.",
+        "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+        "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+        "summary": "On Tuesday, the 61-year-old firm announced that it had raised a $1.5 billion 18th fund. Even so, Greylock doesn’t stick strictly to early-stage deals. The firm’s 17th fund included three such growth-stage bets: Anthropic, Revolut, and Wiz.",
         "source": "TechCrunch",
-        "date": "2026-07-14T22:22:24+00:00"
+        "date": "2026-07-16T00:20:42+00:00"
       },
       {
-        "title": "OpenAI pushes back on Apple trade secret lawsuit",
-        "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-        "summary": "OpenAI pushed back Tuesday against allegations made by Apple in a trade secret lawsuit , suggesting the complaint lacks merit. Before joining OpenAI, Tan was a veteran at Apple, where he worked for 24 years and held top positions, including vice president of product design for the iPhone and Apple Watch. We remain focused on building innovative technology that empowers people everywhere.” Apple claims in its lawsuit…",
+        "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+        "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+        "summary": "There was a time when Microsoft and OpenAI were attached at the hip. The two companies entered into a very unique agreement years ago that saw Microsoft provide capital and compute to OpenAI while allowing Microsoft to enjoy exclusive access to OpenAI’s API and models. The companies amended the partnership in April, dropping the exclusivity clause and clearing OpenAI to sell to Microsoft’s competitors.",
         "source": "TechCrunch",
-        "date": "2026-07-14T22:07:42+00:00"
+        "date": "2026-07-15T23:59:44+00:00"
       },
       {
-        "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-        "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-        "summary": "“GPT-5.6 Sol just deleted my whole production database. But OpenAI itself flagged this risk before Sol ever shipped. OpenAI shared examples.",
+        "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+        "url": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+        "summary": "The National Transportation Safety Board (NTSB) said Wednesday that the driver of a Tesla who crashed into a house in June had pressed the accelerator pedal to 100%, overriding the company’s Full Self-Driving (Supervised) software. The family of the victim has since sued the alleged driver, 44-year-old Michael Butler, and Tesla, claiming negligence. Police reportedly discovered that his Google searches included the…",
         "source": "TechCrunch",
-        "date": "2026-07-14T21:50:11+00:00"
+        "date": "2026-07-15T20:22:52+00:00"
       },
       {
-        "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-        "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-        "summary": "The public beta marks the first time Apple has made its AI-powered Siri widely available beyond developers. In addition to iOS 27 on iPhone, the upgraded Siri is available across all other Apple products, including iPad, Mac, Apple Watch, CarPlay, AirPods, Apple TV, and Vision Pro. Under the hood, Siri AI leverages Apple Intelligence, including Apple’s new Foundation Models that run on the device and use its Private…",
+        "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+        "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+        "summary": "Neko Health , the body-scanning and health assessment startup founded by Spotify’s Daniel Ek (pictured above, right) and his co-founder Hjalmar Nilsonne (above, left), has raised a $700 million Series C. Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person’s health. One of the people who had a Neko Health scan is Calm founder Alex Tew.",
         "source": "TechCrunch",
-        "date": "2026-07-14T19:42:27+00:00"
+        "date": "2026-07-15T19:46:54+00:00"
       },
       {
-        "title": "Anthropic’s newest ad is creeping people out",
-        "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-        "summary": "“Anthropic is quite an amazing company. As some have pointed out , Anthropic is following a very time-tested marketing playbook here. Anthropic’s marketing has made a splash before.",
+        "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+        "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+        "summary": "OpenAI is officially entering the hardware market with the launch of a $230 light-up keyboard designed to pair with its AI coding assistant, Codex. Apple last week sued OpenAI , accusing the company’s senior leadership of a deliberate strategy to extract its confidential information; it alleges OpenAI used that information in developing its own hardware device. OpenAI has denied wrongdoing.",
         "source": "TechCrunch",
-        "date": "2026-07-14T19:41:27+00:00"
+        "date": "2026-07-15T19:41:38+00:00"
       },
       {
-        "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-        "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-        "summary": "Hinge founder Justin McLeod announced an $18 million fundraise for his new dating company, Overtone . McLeod stepped down from his CEO role at Hinge just last year, and Hinge owner Match Group — which also owns apps like Tinder and OkCupid — is helping to fund his new company, alongside FirstMark Capital and Pace Capital. A Forbes Health survey conducted in 2024 found that 78% of dating app users felt burnt out.",
+        "title": "Microsoft patches bug in video game Age of Empires II",
+        "url": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
+        "summary": "Among the fixed vulnerabilities was one for the remastered version of the classic 25-year-old war strategy video game Age of Empires II. The flaw allowed hackers to take over a victim’s computer by sending a custom malicious game invite, according to security researchers. A video posted on X shows how the flaw could be exploited by hackers.",
         "source": "TechCrunch",
-        "date": "2026-07-14T19:39:39+00:00"
+        "date": "2026-07-15T18:47:01+00:00"
       },
       {
-        "title": "Lucid Motors denies report it’s considering bankruptcy",
-        "url": "https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/",
-        "summary": "Lucid Motors is denying a report that it’s weighing filing for Chapter 11 bankruptcy protection. Twork said AlixPartners is assisting Lucid on strengthening its operations and “nothing else and has not recommended bankruptcy to management or the Board.” AlixPartners has been a go-to consulting firm for struggling electric vehicle companies in recent years. Lucid Motors recently revealed that it delivered 3,953…",
+        "title": "Apple bans home services from its upcoming Maps ads",
+        "url": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
+        "summary": "Apple has quietly published a rulebook for its new Maps ads, revealing a more curated approach than advertising giant Google. In a newly published Apple Advertising Services policy, effective as of July 14, 2026, the iPhone maker shares its rules for advertising on Apple Maps. It could also save Apple some headaches as it gets its Apple Maps ads off the ground.",
         "source": "TechCrunch",
-        "date": "2026-07-14T18:47:14+00:00"
+        "date": "2026-07-15T18:21:22+00:00"
       },
       {
-        "title": "Google faces another AI training lawsuit from major publishers",
-        "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-        "summary": "A group of publishers and authors have filed a class action lawsuit against Google, accusing the tech giant of using their copyrighted works to train its AI platform, Gemini. The lawsuit against Google was filed in the U.S. The lawsuit explains that publishers and authors have a long history of providing Google with copyrighted works for the specific purpose of making books searchable through Google Books.",
+        "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+        "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+        "summary": "SpaceX’s shares fell to just above $135 on Wednesday, the price that CEO Elon Musk and his company chose ahead of its blockbuster June 12 IPO that raked in nearly $86 billion. The dip on Wednesday followed a steady decline in the month since the company went public. On Thursday the company will test launch its Starship rocket for the first time since the IPO.",
         "source": "TechCrunch",
-        "date": "2026-07-14T18:33:31+00:00"
+        "date": "2026-07-15T18:06:05+00:00"
       },
       {
-        "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-        "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-        "summary": "In an X post on Tuesday morning, Google DeepMind CEO Demis Hassabis called for the creation of a new regulatory body to oversee frontier model releases. Titled “A Framework for Frontier AI and the Dawning of a New Age,” the post makes the case for a “standards body” modeled after the Financial Industry Regulatory Authority (FINRA), which could test frontier models and develop best practices for their release.…",
+        "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+        "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+        "summary": "Thinking Machines Lab, the AI startup founded by former OpenAI CTO Mira Murati, released its first in-house AI model Wednesday morning, called Inkling . Thinking Machines doesn’t claim Inkling is best-in-class. On the cost side, Thinking Machines has been more guarded.",
         "source": "TechCrunch",
-        "date": "2026-07-14T17:45:55+00:00"
+        "date": "2026-07-15T18:04:06+00:00"
       },
       {
-        "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
-        "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
-        "summary": "The news comes after the company raised $7 billion in funds just a month ago at around a $50 billion valuation in its first-ever outside funding round. DeepSeek’s cloud service runs on chips made by the Chinese company Huawei Technologies. Investors in DeepSeek include Tencent and Beijing’s National Artificial Intelligence Industry Investment Fund, per Bloomberg.",
+        "title": "Phone maker OnePlus reportedly plans to wind down US and Europe operations",
+        "url": "https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
+        "summary": "OnePlus was started by Pete Lau and Carl Pei in 2013 to make affordable Android phones for tech enthusiasts. Pei left the company in 2020 to start Nothing . As the price of the company’s flagship phones increased, OnePlus also ventured into more affordable phones with its Nord series .",
         "source": "TechCrunch",
-        "date": "2026-07-14T16:45:23+00:00"
+        "date": "2026-07-15T17:53:32+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Starlink’s V5 dish is now available — here’s how it compares",
-        "url": "https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison",
-        "summary": "The new residential dish is notably smaller, lighter, and uses less energy. The new residential dish is notably smaller, lighter, and uses less energy. SpaceX’s latest residential dish — the Starlink V5 — is now available in “select areas.” It’s notably smaller and lighter than the V4 dish with improved power efficiency.",
+        "title": "OnePlus officially gives up on the US and Europe",
+        "url": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
+        "summary": "﻿Existing OnePlus devices will transition to Oppo’s ColorOS for future software updates. ﻿Existing OnePlus devices will transition to Oppo’s ColorOS for future software updates. Parent company Oppo promises that it will honor existing support and warranty agreements, with devices transitioning to its ColorOS for future updates. In order to provide owners with software support, devices will be transitioned from…",
         "source": "The Verge",
-        "date": "2026-07-15T07:17:27+00:00"
+        "date": "2026-07-16T09:00:00+00:00"
       },
       {
-        "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
-        "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
-        "summary": "Get ready for rival app stores inside of Google Play. Get ready for rival app stores inside of Google Play. In fact, Google tells the court, it’s ready to begin carrying third-party app stores on Wednesday, July 22nd.",
-        "source": "The Verge",
-        "date": "2026-07-15T03:28:53+00:00"
-      },
-      {
-        "title": "Jurassic Park computers in excruciating detail",
-        "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-        "summary": "Ray Arnold's workstation is a SGI R4000 Indigo . Dennis Nedry's powerhouse workstation is an SGI IRIS Crimson . The SGI Crimson is rarely visible on screen. (405 points, 99 comments on Hacker News)",
+        "title": "The lost joy of music piracy",
+        "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+        "summary": "I ended up discovering a whole bunch of music that way. Now that’s kind of acknowledged by streaming music. The record labels had finally won the war against music piracy. (282 points, 144 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-15T02:57:47+00:00"
+        "date": "2026-07-16T04:46:21+00:00"
       },
       {
-        "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-        "url": "https://vpd.ca/",
-        "summary": "Welcome to the Vancouver Police Department website. The Vancouver Police Department is a diverse, forward-thinking, and award-winning organization. VPD Headquarters 2120 Cambie Street Vancouver, BC Canada V5Z 4N6 View Map VPD Mailing Address 3585 Graveley Street Vancouver, BC Canada V5K 5J5 View Map The Vancouver Police Board provides independent civilian oversight, governance and strategic leadership to the… (260 points, 104 comments on Hacker News)",
+        "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
+        "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+        "summary": "The Crusher 1080 ANC feature new drivers and Bose’s audio technology to reduce distortion when the bass is cranked. The Crusher 1080 ANC feature new drivers and Bose’s audio technology to reduce distortion when the bass is cranked. The Crusher 1080 ANC supports Bluetooth 5.3 with LE Audio, low latency audio, and Auracast .",
+        "source": "The Verge",
+        "date": "2026-07-16T00:00:00+00:00"
+      },
+      {
+        "title": "HP&#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
+        "url": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale",
+        "summary": "Given the state of hardware prices, this discounted convertible HP laptop could be the deal you’ve been waiting on. Given the state of hardware prices, this discounted convertible HP laptop could be the deal you’ve been waiting on. See our ethics statement.",
+        "source": "The Verge",
+        "date": "2026-07-15T22:47:11+00:00"
+      },
+      {
+        "title": "SQLite should have (Rust-style) editions",
+        "url": "https://mort.coffee/home/sqlite-editions/",
+        "summary": "Date: 2026-07-15 Git: https://gitlab.com/mort96/blog/blob/published/content/00000-home/00017-sqlite-editions.md SQLite is an amazing database engine. Luckily, SQLite has the concept of strict tables , which makes SQLite produce a type error when the wrong type is inserted into a column: Unfortunately, there is no pragma to globally make all tables strict. You see, strict tables in SQLite don't just enforce types. (262 points, 104 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-15T00:15:53+00:00"
+        "date": "2026-07-15T22:42:58+00:00"
       },
       {
-        "title": "Nothing’s good-looking Watch 3 Pro smartwatch is just $69",
-        "url": "https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale",
-        "summary": "The platform-agnostic watch can run for almost two weeks between charges. The platform-agnostic watch can run for almost two weeks between charges. Nothing’s slick-looking budget watch features a 1.43-inch OLED display, 131 sports modes, dual-band GPS, and a four-channel heart rate sensor.",
+        "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
+        "url": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
+        "summary": "Prices for new subscribers to Apple’s service plan will go up by 50 cents for monthly payments, and by $5 on annual plans. Prices for new subscribers to Apple’s service plan will go up by 50 cents for monthly payments, and by $5 on annual plans. Last month, Apple announced that it’s raising prices on iPads, Macs, the Vision Pro, HomePod devices, and the Apple TV 4K.",
         "source": "The Verge",
-        "date": "2026-07-14T22:24:26+00:00"
+        "date": "2026-07-15T22:39:40+00:00"
       },
       {
-        "title": "Microsoft’s biggest ever patch Tuesday lets you hold off updating for longer",
-        "url": "https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates",
-        "summary": "You can now pause updates for up to 35 days and continue extending the deadline. You can now pause updates for up to 35 days and continue extending the deadline. It also includes the ability to pause updates indefinitely, as reported earlier by Windows Central .",
+        "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
+        "url": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
+        "summary": "Valve won’t be sunsetting the battery yet. Valve won’t be sunsetting the battery yet. But by afternoon, Valve and iFixit had already managed to change that.",
         "source": "The Verge",
-        "date": "2026-07-14T21:32:04+00:00"
+        "date": "2026-07-15T22:16:46+00:00"
       },
       {
-        "title": "OpenAI may announce a ChatGPT smart speaker this year",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-        "summary": "The company wants to release the gadget, its first major hardware device, in 2027. The company wants to release the gadget, its first major hardware device, in 2027. Bloomberg additionally says that the device will use GPT-Live, OpenAI’s upgraded voice model announced last week .",
+        "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+        "summary": "Elon Musk’s xAI claims Terry Harwood bypassed Grok’s safeguards to generate CSAM. Elon Musk’s xAI claims Terry Harwood bypassed Grok’s safeguards to generate CSAM. A group of teens sued xAI in March over claims Grok generated sexualized images of themselves as minors.",
         "source": "The Verge",
-        "date": "2026-07-14T21:26:32+00:00"
+        "date": "2026-07-15T21:33:20+00:00"
       },
       {
-        "title": "How I use HTMX with Go",
-        "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
-        "summary": "Let's first add an assets/html/pages/users.tmpl file with the page-specific HTML content: There are a couple of interesting things here. By default the HTMX cache stores up to 10 pages. Fortunately, HTMX sends this information with each request in the HX-Current-URL header. (238 points, 64 comments on Hacker News)",
+        "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
+        "url": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
+        "summary": "The FCC chair wants to end the broadcast ownership cap. The FCC chair wants to end the broadcast ownership cap. In a Breitbart op-ed on Wednesday, Republican Chair Brendan Carr announced an August 6th vote to end the national ownership cap rule, which was intended to prevent one company from dominating the media landscape and incentivize serving local communities.",
+        "source": "The Verge",
+        "date": "2026-07-15T21:30:17+00:00"
+      },
+      {
+        "title": "Grok Build is open source",
+        "url": "https://github.com/xai-org/grok-build",
+        "summary": "Please reload this page . Please reload this page . Please reload this page . (435 points, 473 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-14T19:55:31+00:00"
+        "date": "2026-07-15T20:24:58+00:00"
       },
       {
-        "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-        "summary": "﻿Elon Musk says that all previously uploaded data will be deleted. ﻿Elon Musk says that all previously uploaded data will be deleted. The researchers say that as of Monday, their tests show SpaceXAI’s servers returning a “disable_codebase_upload: true” flag, and the codebase upload “no longer fires.” Elon Musk responded to the incident in a post on X claiming that all data Grok Build previously uploaded will be…",
+        "title": "Roblox is shutting down its video chat service",
+        "url": "https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down",
+        "summary": "﻿The platform says users 13 and older instead mostly use party voice chat. ﻿The platform says users 13 and older instead mostly use party voice chat. Roblox will be shutting down Roblox Connect, its video calling service introduced in 2023. “Roblox Connect is being discontinued today, including both the developer-facing APIs and the Roblox Connect feature itself,” Roblox spokesperson Angela Allison tells The Verge .",
         "source": "The Verge",
-        "date": "2026-07-14T19:25:00+00:00"
+        "date": "2026-07-15T20:02:26+00:00"
       },
       {
-        "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-        "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-        "summary": "Meanwhile, Cursor continued shipping releases. Like many security research teams, Mindgard prefers coordinated disclosure. Especially when disclosure becomes uncomfortable. (357 points, 164 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-14T17:58:35+00:00"
-      },
-      {
-        "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-        "url": "https://prismml.com/news/bonsai-27b",
-        "summary": "Bonsai 27B changes that. By intelligence density — the measure we introduced with 1-bit Bonsai 8B — 1-bit Bonsai 27B delivers 0.53 per GB: more than 10x the full-precision baseline, and roughly 2.7x the best low-bit alternative available. Bonsai 27B is that model. (583 points, 208 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-14T17:50:48+00:00"
-      },
-      {
-        "title": "Philips Hue&#8217;s budget-friendly Essential starter kit has hit a new low price",
-        "url": "https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale",
-        "summary": "Four Philips Hue smart bulbs with a Hue Bridge are down to $79.99, matching the two-bulb kit. Four Philips Hue smart bulbs with a Hue Bridge are down to $79.99, matching the two-bulb kit. Philips Hue also doesn’t guarantee they’ll match the color accuracy of its flagship bulbs across generations.",
+        "title": "AI slop movies are the new direct-to-video cash grabs",
+        "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+        "summary": "Projects like Odysseus: The Fall highlight how the AI hype machine is powered by stunts and stolen valor. Projects like Odysseus: The Fall highlight how the AI hype machine is powered by stunts and stolen valor. People are clearly excited to see how Nolan uses cutting-edge filmmaking tech to make the Homeric classic feel fresh.",
         "source": "The Verge",
-        "date": "2026-07-14T17:36:05+00:00"
+        "date": "2026-07-15T20:00:00+00:00"
       }
     ]
   }
