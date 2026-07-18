@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T09:10:29.513412+00:00",
+  "generated_at": "2026-07-18T08:49:07.889808+00:00",
   "sections": {
     "research": [
       {
@@ -89,6 +89,13 @@
     ],
     "labs": [
       {
+        "title": "A scorecard for the AI age",
+        "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+        "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+        "source": "OpenAI",
+        "date": "2026-07-17T10:00:00+00:00"
+      },
+      {
         "title": "Why teens deserve access to safe AI",
         "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
         "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
@@ -164,185 +171,178 @@
         "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
         "source": "OpenAI",
         "date": "2026-07-10T07:00:00+00:00"
-      },
-      {
-        "title": "Getting started with ChatGPT",
-        "url": "https://openai.com/academy/getting-started",
-        "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-        "source": "OpenAI",
-        "date": "2026-07-10T00:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
-        "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
-        "summary": "Mayor Lurie has asked state regulators to bolster rules for autonomous vehicles nearly two weeks after Waymo robotaxis became immobile in heavy July 4 traffic, ran out of power, and blocked key streets, further compounding the gridlock. The San Francisco Chronicle first reported on the letter . Six companies, including Nuro, Waymo, and Zoox, hold driverless testing permits, which allow the vehicles to drive without…",
+        "title": "Neil Rimer thinks the AI money is coming back out",
+        "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+        "summary": "Rimer has found ways to give back. Forbes counted 45 new AI billionaires in its 2026 rankings alone, worth a combined $2.9 trillion, and that’s before either Anthropic or OpenAI has gone public. Rimer’s two paths, voluntary or forced, have precedent from the last time American wealth concentration reached this level.",
         "source": "TechCrunch",
-        "date": "2026-07-16T23:25:22+00:00"
+        "date": "2026-07-18T04:47:25+00:00"
       },
       {
-        "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
-        "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
-        "summary": "SpaceX abruptly aborted the second attempted launch of its upgraded Starship rocket system on Thursday, just moments after the booster ignited at the company’s complex in South Texas. SpaceX won’t try to launch Starship again until next week, he wrote . This is also SpaceX’s first Starship test launch attempt since it went public on June 12 in the largest IPO in history.",
+        "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+        "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+        "summary": "Grand winner: $15,000 in Stripe fee credits + automatic entry into Startup Battlefield 200 at TechCrunch Disrupt, San Francisco, October 13–15, 2026. Second place: $5,000 in Stripe fee credits. Isabelle leads Startup Battlefield, TechCrunch’s iconic launchpad and competition for the world’s most promising early-stage startups.",
         "source": "TechCrunch",
-        "date": "2026-07-16T23:01:27+00:00"
+        "date": "2026-07-17T23:08:00+00:00"
       },
       {
-        "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
-        "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
-        "summary": "Securities and Exchange Commission that its Fairlife dairy company was hit by ransomware and that its production systems are affected. The company said that its Fairlife production operations across the United States are “temporarily suspended.” Fairlife’s operations in Canada are unaffected. Coca-Cola didn’t say when Fairlife’s systems would be restored.",
+        "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+        "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+        "summary": "Vertu is taking a different path. Gemini on Samsung’s Galaxy Z Fold 7 took a different approach. Vertu is also positioning the Alphafold as a business platform rather than just a smartphone.",
         "source": "TechCrunch",
-        "date": "2026-07-16T21:22:31+00:00"
+        "date": "2026-07-17T22:55:09+00:00"
       },
       {
-        "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
-        "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
-        "summary": "Ryan Beiermeister has joined Founders Fund as a partner, she announced on Monday. Beiermeister played the game against OpenAI’s Sam Altman, Anduril’s Palmer Luckey, Figma’s Dylan Field, Flexport’s Ryan Petersen, Founders Fund’s Trae Stephens, and several others. Still, Beiermeister has known Trae Stephens for at least a decade.",
+        "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+        "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+        "summary": "Databricks on Thursday announced a new round of funding that values the company at $188 billion . Only five months ago, in February, Databricks closed a $5 billion Series L raise at a $134 billion valuation . Five months before that, in September 2025, it raised $1 billion at a $100 billion valuation .",
         "source": "TechCrunch",
-        "date": "2026-07-16T20:07:14+00:00"
+        "date": "2026-07-17T22:12:56+00:00"
       },
       {
-        "title": "Google Vids now lets you star in your own AI videos",
-        "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-        "summary": "OpenAI’s Sora may have shut down , but Google apparently thinks there’s still interest in a tool that lets you star in your own AI videos. Omni then mixes those inputs together to create the AI video you want. The updates push Google Vids beyond its original role as an AI-assisted workplace presentation tool to become more of an all-in-one video creation platform.",
+        "title": "The Zoom hack that says, ‘Don’t record me’",
+        "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+        "summary": "VC Jeremy Levine has a wry solution to something that routinely annoys him, according to a new Wall Street Journal article on the rise of AI transcription apps. On Zoom, he is no longer “Jeremy Levine” but instead “Jeremy Levine I do not consent to transcribing or recording.” It may sound petty or brilliant, depending on your point of view, but what’s clear is that always-on recording is becoming ubiquitous, thanks…",
         "source": "TechCrunch",
-        "date": "2026-07-16T18:32:54+00:00"
+        "date": "2026-07-17T21:20:47+00:00"
       },
       {
-        "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-        "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-        "summary": "Roblox announced Thursday a new feature called “Build,” allowing users to design games from their mobile devices using AI. The Build feature lets anyone turn simple text prompts into a basic game without any programming experience. Additionally, the announcement comes shortly after Roblox disclosed plans to discontinue “Roblox Connect,” the avatar-based video-calling feature introduced in 2023.",
+        "title": "Agility Robotics plants its flag in Tesla’s backyard",
+        "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+        "summary": "Agility Robotics is opening a 60,000-square-foot facility to train its humanoid robots in Fremont, California, just up the highway from the factory where Tesla is expected to start manufacturing its Optimus robots this year. Tesla has increasingly bet on Optimus. Unlike many of the newer entrants to the humanoid space, Agility isn’t planning to offer in-home humanoid robots anytime soon.",
         "source": "TechCrunch",
-        "date": "2026-07-16T18:22:06+00:00"
+        "date": "2026-07-17T20:19:49+00:00"
       },
       {
-        "title": "Oil giant BP shutters its corporate venture arm after 20 years",
-        "url": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
-        "summary": "Now it’s definitely “off.” On top of pivoting away from clean energy earlier this year, the oil giant announced today that it was selling the majority of its venture portfolio — more than 10 companies, according to BP — to Verdane , a Nordic private equity firm. Since BP launched its venture arm in 2007, it has invested in a wide range of industries, many of them focused on the energy transition, including green…",
+        "title": "AI-driven memory crunch jolts India’s smartphone market",
+        "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+        "summary": "India, the world’s second-largest smartphone market by shipments after China, saw smartphone shipments fall 10% year-over-year in the April-June quarter, according to market research firm Counterpoint Research, marking the steepest June-quarter decline in six years as higher memory costs pushed up handset prices. India has been a prominent market for global smartphone brands for several years. Pathak told TechCrunch…",
         "source": "TechCrunch",
-        "date": "2026-07-16T17:37:03+00:00"
+        "date": "2026-07-17T20:09:27+00:00"
       },
       {
-        "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
-        "url": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
-        "summary": "After weeks of speculation, Uber officially agreed to acquire Delivery Hero, a purchase that will take the ride-hailing and delivery giant’s status to new heights, and to nearly 100 markets across Europe, the Middle East, Latin America, and Asia. German-based Delivery Hero also made a separate agreement to sell its business in 14 markets, where Uber Eats is already operating, to New York-based investment firm SSW…",
+        "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
+        "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
+        "summary": "The city of San Francisco has ordered Apple and Google to remove dozens of “nudify” apps — — software programs that can digitally alter pictures to unclothe the people in them — from their app stores. “Apple and Google are profiting off apps that exploit women and girls by generating nonconsensual intimate deepfakes,” San Francisco City Attorney David Chiu said in an emailed statement to TechCrunch. Update July 17:…",
         "source": "TechCrunch",
-        "date": "2026-07-16T17:12:00+00:00"
+        "date": "2026-07-17T19:49:53+00:00"
       },
       {
-        "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
-        "url": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
-        "summary": "The company also launched a new AI Copilot that helps creators manage and grow their audience. The updates come as Beehiiv positions itself as a creator platform beyond newsletters. Beehiiv’s new Community tool will allow users to spin up a discussion forum within the platform.",
+        "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+        "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+        "summary": "Valar Atomics, a startup building small modular nuclear reactors (SMRs) — essentially miniaturized, factory-built power plants designed to be cheaper and faster to deploy than traditional reactors — is in talks to raise a new round of capital, according to three sources familiar with the company. Sequoia and Valar Atomics declined to comment. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-07-16T17:00:00+00:00"
+        "date": "2026-07-17T19:22:00+00:00"
       },
       {
-        "title": "X cracks down on creators who steal content",
-        "url": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
-        "summary": "X is taking a tougher stance against people who try to abuse its creator revenue-sharing program by soliciting engagement and stealing content from others. It’s common for viral content to be recirculated, especially on platforms like X, where that content can be rewarded with likes, follows, and, in some cases, cold, hard cash . Bier has complained about engagement bait on the platform before, and even went after…",
+        "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
+        "url": "https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/",
+        "summary": "Designed for year-round comfort, the $499 unit combines quiet operation and smart controls with Dyson’s signature bladeless design. Its combination of heating, cooling, smart features, quiet operation, and easy maintenance makes it a compelling upgrade over a standard space heater or fan. Aisha is a consumer news reporter at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-07-16T16:40:36+00:00"
+        "date": "2026-07-17T18:00:17+00:00"
       },
       {
-        "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
-        "url": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
-        "summary": "Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion. Fora , founded in 2021, is a two-part platform: It lets people easily become travel agents by providing the infrastructure to support client communication and travel planning; it also lets users find and communicate with advisors as they plan trips for occasions like honeymoons or…",
+        "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+        "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+        "summary": "You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com .",
         "source": "TechCrunch",
-        "date": "2026-07-16T16:08:40+00:00"
+        "date": "2026-07-17T17:45:46+00:00"
       },
       {
-        "title": "Google’s AI Mode now lets you link and interact with select apps",
-        "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-        "summary": "At launch, supported apps include Instacart, Canva, and YouTube. Supported apps include Canva, OpenTable, Spark, Instacart, and more. Earlier this year, Google launched “Personal Intelligence” on AI Mode , enabling it to tap into users’ Gmail and Google Photos to provide more individualized responses.",
+        "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
+        "url": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
+        "summary": "U.S. prosecutors have accused a Florida man of uploading fake video games that contained malware to Steam, the popular PC games platform. Over the past two years, Wilkins and his partners allegedly published several malware-laden video games on Steam, including BlockBlasters, Dashverse, Lampy, Lunara, and PirateFi . In the last year, Steam’s maker Valve has removed several video games from its platform after they…",
         "source": "TechCrunch",
-        "date": "2026-07-16T16:00:00+00:00"
+        "date": "2026-07-17T16:18:09+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
-        "url": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
-        "summary": "﻿Creators can now use 36 Fortnite characters in their experiences. ﻿Creators can now use 36 Fortnite characters in their experiences. Get ready for more AI characters in Fortnite . Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead of that launch, it’s created 36 characters with “consistent voices and personas” that…",
+        "title": "Fine, electric mountain bikes don’t suck",
+        "url": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
+        "summary": "See our ethics statement. See our ethics statement. The addition of a motor won’t suddenly make you a better mountain biker.",
         "source": "The Verge",
-        "date": "2026-07-16T21:30:35+00:00"
+        "date": "2026-07-18T07:00:00+00:00"
       },
       {
-        "title": "Samsung’s 55-inch Frame art TV is $200 cheaper than usual",
-        "url": "https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale",
-        "summary": "The Samsung Frame is a nice compromise. The Samsung Frame is a nice compromise. Samsung’s Frame is different from your average 4K TV.",
-        "source": "The Verge",
-        "date": "2026-07-16T20:47:30+00:00"
-      },
-      {
-        "title": "Netflix says around 300 titles used generative AI",
-        "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
-        "summary": "The American Experiment docuseries includes 17-minutes of ‘AI-enhanced’ footage. The American Experiment docuseries includes 17-minutes of ‘AI-enhanced’ footage. Update, July 16th: Added information from Netflix’s earnings call.",
-        "source": "The Verge",
-        "date": "2026-07-16T20:29:27+00:00"
-      },
-      {
-        "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-        "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-        "summary": "GPT-5.6 Sol at $100 mixed three different video models in a single run. Each run's full transcript, every plan, tool call, and command, is here: Fable 5 · $25 , Sol · $25 , Sol · $100 , Fable 5 · $100 . The arena is open source: github.com/hershalb/music-video-arena . (256 points, 347 comments on Hacker News)",
+        "title": "Regressive JPEGs",
+        "url": "https://maurycyz.com/projects/bad_jpeg/",
+        "summary": "Scans number two through five contain full low precision data. That way, number 5 has full quarter precision data to build on. Since AC data must follow DC data, the smallest possible \"progressive\" JPEG contains a single DC-only scan. (269 points, 17 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-16T20:03:23+00:00"
+        "date": "2026-07-18T03:14:20+00:00"
       },
       {
-        "title": "Why are people buying so many CDs?",
-        "url": "https://www.theverge.com/entertainment/966726/cd-sales-vinyl-physical-media-luminate",
-        "summary": "A new report shows that CD sales are up over the first half of 2026. A new report shows that CD sales are up over the first half of 2026. Vinyl sales were at 21.8 million units and cassette sales hit around 205,000 units, Luminate’s Denise Schenasi tells The Verge .",
-        "source": "The Verge",
-        "date": "2026-07-16T19:55:29+00:00"
-      },
-      {
-        "title": "Kalshi says it caught Trump&#8217;s teleprompter operator insider trading",
-        "url": "https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation",
-        "summary": "﻿ABC News reports that the president’s longtime teleprompter operator made $100,000 betting on Kalshi markets related to Donald Trump’s speeches. ﻿ABC News reports that the president’s longtime teleprompter operator made $100,000 betting on Kalshi markets related to Donald Trump’s speeches. Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition:…",
-        "source": "The Verge",
-        "date": "2026-07-16T18:43:14+00:00"
-      },
-      {
-        "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-        "summary": "Governor Kathy Hochul says her team reviewed the state’s legislation with AI in just ‘a couple of months.’ Governor Kathy Hochul says her team reviewed the state’s legislation with AI in just ‘a couple of months.’ New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she’s not against using the technology herself. During an interview with Bloomberg ’s Odd Lots…",
-        "source": "The Verge",
-        "date": "2026-07-16T17:58:37+00:00"
-      },
-      {
-        "title": "Ecovacs&#8217; self-cleaning Deebot X11 has hit a new low price",
-        "url": "https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale",
-        "summary": "The self-cleaning hybrid vacuum and mop washes and dries its mop and climbs over raised thresholds. The self-cleaning hybrid vacuum and mop washes and dries its mop and climbs over raised thresholds. The bagless dock automatically empties the dustbin, then washes the mop with hot water and dries it.",
-        "source": "The Verge",
-        "date": "2026-07-16T17:57:15+00:00"
-      },
-      {
-        "title": "Google is better than Apple at playing the AI regulations game",
-        "url": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
-        "summary": "Google scored a grace period to bring Android in line with EU rules, while Apple must make Siri AI compliant before launch. Google scored a grace period to bring Android in line with EU rules, while Apple must make Siri AI compliant before launch. Google has a year to bring Android into compliance while continuing to expand Gemini.",
-        "source": "The Verge",
-        "date": "2026-07-16T16:55:54+00:00"
-      },
-      {
-        "title": "Roblox will let people use AI to make games on their phone",
-        "url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
-        "summary": "It’s the latest push into AI from Roblox, which has embraced the technology. It’s the latest push into AI from Roblox, which has embraced the technology. However, the company claims that games made with Build will be ranked by the same retention-based criteria as other Roblox experiences, so games that aren’t played theoretically won’t get picked up by Roblox’s discovery systems.",
-        "source": "The Verge",
-        "date": "2026-07-16T16:45:29+00:00"
-      },
-      {
-        "title": "Decoy Font",
-        "url": "https://www.mixfont.com/experiments/decoy-font",
-        "summary": "Decoy Font is constructed based on the technique behind hybrid images . However, where Ghost Font relies on a animation to disguise its message, Decoy Font works as a direct TTF font file and can be directly typed in projects. Using Decoy Font as a benchmark of text recognition LLMs would be interesting. (542 points, 126 comments on Hacker News)",
+        "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+        "summary": "Kaiser Permanente in Oakland on Aug. Kaiser Permanente in Oakland on Aug. Kaiser Permanente in Oakland on Aug. (495 points, 318 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-16T16:18:21+00:00"
+        "date": "2026-07-17T22:26:30+00:00"
       },
       {
-        "title": "NotebookLM is now Gemini Notebook",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-        "summary": "We’re renaming NotebookLM to Gemini Notebook. Today, we’re renaming NotebookLM to Gemini Notebook. You can already access and create notebooks directly within the Gemini app, with full cross-app syncing between the Gemini app and the standalone Gemini Notebook experience. (301 points, 154 comments on Hacker News)",
+        "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
+        "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
+        "summary": "Everything we know so far about the cyclosporiasis outbreak. Everything we know so far about the cyclosporiasis outbreak. Based on information provided yesterday by the FDA, Taylor Farms de Mexico is voluntarily removing all iceberg lettuce sourced from central Mexico from the U.S. market.",
+        "source": "The Verge",
+        "date": "2026-07-17T22:09:47+00:00"
+      },
+      {
+        "title": "Shark&#8217;s versatile ChillPill cooling system is back to its best price",
+        "url": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
+        "summary": "The rechargeable fan doubles as a dry-touch mister and can be worn, clipped to a bag, or used on a tabletop. The rechargeable fan doubles as a dry-touch mister and can be worn, clipped to a bag, or used on a tabletop. If you’re looking for something more versatile, though, Shark’s ChillPill Personal Fan and Cooling System combines a rechargeable fan with a dry-touch evaporative mister in a design that can be worn,…",
+        "source": "The Verge",
+        "date": "2026-07-17T20:15:54+00:00"
+      },
+      {
+        "title": "TikTok is testing an AI likeness detection tool",
+        "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+        "summary": "Creators can have TikTok scan for unauthorized AI deepfakes. Creators can have TikTok scan for unauthorized AI deepfakes. From there, a creator can review what TikTok found and potentially report unauthorized posts and accounts.",
+        "source": "The Verge",
+        "date": "2026-07-17T19:34:30+00:00"
+      },
+      {
+        "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
+        "url": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
+        "summary": "﻿Pebble is also ‘looking into’ offering parts for DIY repairs. ﻿Pebble is also ‘looking into’ offering parts for DIY repairs. Pebble founder Eric Migicovsky says buyers of its new e-paper smartwatches should know what they’re signing up for and trust Pebble to make things right if they run into issues, despite the short warranty. People have also reported running into hardware issues early on, like the front glass…",
+        "source": "The Verge",
+        "date": "2026-07-17T19:14:42+00:00"
+      },
+      {
+        "title": "Apple Music is getting a price hike",
+        "url": "https://www.theverge.com/tech/967379/apple-music-price-increase",
+        "summary": "A family plan now costs $19.99 per month, up from $16.99, and a student plan costs $6.99 per month, up from $5.99. Apple has also increased some prices of Apple One subscriptions , MacMagazine reports . The individual plan remains $19.95 per month.",
+        "source": "The Verge",
+        "date": "2026-07-17T18:14:26+00:00"
+      },
+      {
+        "title": "Learning a few things about running SQLite",
+        "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+        "summary": "I’ve been working on a Django site recently, and I decided to use SQLite as the database. Maybe one day I’ll learn to read a query plan. I’ve done SQLite backups a couple of ways. (242 points, 63 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-16T16:08:13+00:00"
+        "date": "2026-07-17T17:45:41+00:00"
+      },
+      {
+        "title": "Apple’s plot to crush OpenAI",
+        "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+        "summary": "Also on The Vergecast: Siri AI is here, OnePlus is leaving, and the cracking face emoji is coming. Also on The Vergecast: Siri AI is here, OnePlus is leaving, and the cracking face emoji is coming. Apple is suing OpenAI .",
+        "source": "The Verge",
+        "date": "2026-07-17T17:41:32+00:00"
+      },
+      {
+        "title": "Thanks HN for 15 years of support and helping me find my life's work",
+        "url": "https://news.ycombinator.com/item?id=48949551",
+        "summary": "So, thanks HN, for helping make the Recurse Center possible, and for helping me find my life's work. [1] https://news.ycombinator.com/item?id=3435183 [2] \"This sounds like a crazy plan for a startup, I realize, but this is the right sort of crazy. So, thanks HN, for helping make the Recurse Center possible, and for helping me find my life's work. [1] https://news.ycombinator.com/item?id=3435183 [2] \"This sounds like… (558 points, 54 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-17T16:57:27+00:00"
+      },
+      {
+        "title": "Asus’ top-end 4K QD-OLED gaming monitor is $400 off",
+        "url": "https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale",
+        "summary": "We also found deals on an Anker power brick, Sennheiser Accentum earbuds, and the lowest price yet for Marathon on PC. We also found deals on an Anker power brick, Sennheiser Accentum earbuds, and the lowest price yet for Marathon on PC. See our ethics statement.",
+        "source": "The Verge",
+        "date": "2026-07-17T16:47:13+00:00"
       }
     ]
   }
