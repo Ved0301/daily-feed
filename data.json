@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T08:49:07.889808+00:00",
+  "generated_at": "2026-07-19T09:05:34.534600+00:00",
   "sections": {
     "research": [
       {
@@ -175,6 +175,41 @@
     ],
     "startups": [
       {
+        "title": "Waymo says San Francisco service has resumed after one-hour pause",
+        "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+        "summary": "Waymo says robotaxi service has resumed after it made “temporary adjustments” in San Francisco amidst a power outage that appears to have affected around 7,000 PG&E customers in the city. According to a screenshot posted on social media , Waymo told SF customers that service was “temporarily paused” and that “freeway routes are unavailable.” When TechCrunch reached out to the Alphabet-owned company for comment, a…",
+        "source": "TechCrunch",
+        "date": "2026-07-18T19:30:23+00:00"
+      },
+      {
+        "title": "Kimi: Threat or menace?",
+        "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+        "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, leading to a perhaps-inevitable wave of discourse about China and open source AI. Moonshot said that although Kimi K3 “still trails the most powerful proprietary models, Claude Fable 5 and GPT 5.6 Sol,” the new open source model “demonstrated frontier-level performance across our evaluation suite, consistently outperforming other tested…",
+        "source": "TechCrunch",
+        "date": "2026-07-18T18:51:07+00:00"
+      },
+      {
+        "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+        "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+        "summary": "TechCrunch confirmed with Honda that the Prologue was going out of production. Nissan decided last year it would not produce a 2026 model year of its all-electric Ariya SUV for the U.S. market. 4 electric SUV and the ID Buzz.",
+        "source": "TechCrunch",
+        "date": "2026-07-18T16:30:00+00:00"
+      },
+      {
+        "title": "Federal employees can download TikTok on their work phones again",
+        "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+        "summary": "The Department of Justice says that federal employees can now download TikTok on their government devices, according to Reuters . A 2022 law banned federal employees from using the short-form video app on those devices, but the DOJ reportedly says the law no longer applies, thanks to a deal transferring ownership of TikTok’s U.S. operations to a joint venture backed by Oracle, Silver Lake, and MGX. (Oracle serves as…",
+        "source": "TechCrunch",
+        "date": "2026-07-18T15:54:24+00:00"
+      },
+      {
+        "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+        "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+        "summary": "EV fast charging has historically been lackluster. With one small exception, my charging experience was flawless. Gaps in the network still exist and EV chargers still break.",
+        "source": "TechCrunch",
+        "date": "2026-07-18T14:32:00+00:00"
+      },
+      {
         "title": "Neil Rimer thinks the AI money is coming back out",
         "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
         "summary": "Rimer has found ways to give back. Forbes counted 45 new AI billionaires in its 2026 rankings alone, worth a combined $2.9 trillion, and that’s before either Anthropic or OpenAI has gone public. Rimer’s two paths, voluntary or forced, have precedent from the last time American wealth concentration reached this level.",
@@ -222,127 +257,92 @@
         "summary": "India, the world’s second-largest smartphone market by shipments after China, saw smartphone shipments fall 10% year-over-year in the April-June quarter, according to market research firm Counterpoint Research, marking the steepest June-quarter decline in six years as higher memory costs pushed up handset prices. India has been a prominent market for global smartphone brands for several years. Pathak told TechCrunch…",
         "source": "TechCrunch",
         "date": "2026-07-17T20:09:27+00:00"
-      },
-      {
-        "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
-        "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
-        "summary": "The city of San Francisco has ordered Apple and Google to remove dozens of “nudify” apps — — software programs that can digitally alter pictures to unclothe the people in them — from their app stores. “Apple and Google are profiting off apps that exploit women and girls by generating nonconsensual intimate deepfakes,” San Francisco City Attorney David Chiu said in an emailed statement to TechCrunch. Update July 17:…",
-        "source": "TechCrunch",
-        "date": "2026-07-17T19:49:53+00:00"
-      },
-      {
-        "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-        "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-        "summary": "Valar Atomics, a startup building small modular nuclear reactors (SMRs) — essentially miniaturized, factory-built power plants designed to be cheaper and faster to deploy than traditional reactors — is in talks to raise a new round of capital, according to three sources familiar with the company. Sequoia and Valar Atomics declined to comment. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
-        "source": "TechCrunch",
-        "date": "2026-07-17T19:22:00+00:00"
-      },
-      {
-        "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
-        "url": "https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/",
-        "summary": "Designed for year-round comfort, the $499 unit combines quiet operation and smart controls with Dyson’s signature bladeless design. Its combination of heating, cooling, smart features, quiet operation, and easy maintenance makes it a compelling upgrade over a standard space heater or fan. Aisha is a consumer news reporter at TechCrunch.",
-        "source": "TechCrunch",
-        "date": "2026-07-17T18:00:17+00:00"
-      },
-      {
-        "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-        "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-        "summary": "You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com .",
-        "source": "TechCrunch",
-        "date": "2026-07-17T17:45:46+00:00"
-      },
-      {
-        "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
-        "url": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
-        "summary": "U.S. prosecutors have accused a Florida man of uploading fake video games that contained malware to Steam, the popular PC games platform. Over the past two years, Wilkins and his partners allegedly published several malware-laden video games on Steam, including BlockBlasters, Dashverse, Lampy, Lunara, and PirateFi . In the last year, Steam’s maker Valve has removed several video games from its platform after they…",
-        "source": "TechCrunch",
-        "date": "2026-07-17T16:18:09+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Fine, electric mountain bikes don’t suck",
-        "url": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
-        "summary": "See our ethics statement. See our ethics statement. The addition of a motor won’t suddenly make you a better mountain biker.",
-        "source": "The Verge",
-        "date": "2026-07-18T07:00:00+00:00"
-      },
-      {
-        "title": "Regressive JPEGs",
-        "url": "https://maurycyz.com/projects/bad_jpeg/",
-        "summary": "Scans number two through five contain full low precision data. That way, number 5 has full quarter precision data to build on. Since AC data must follow DC data, the smallest possible \"progressive\" JPEG contains a single DC-only scan. (269 points, 17 comments on Hacker News)",
+        "title": "Transcribe.cpp",
+        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+        "summary": "I'm super excited to share transcribe.cpp today. transcribe.cpp is a ggml based transcription library which supports all the latest transcription models. You've basically got whisper.cpp and ONNX. An RK3566 can run models via transcribe.cpp faster than real time on its anemic CPU. (493 points, 98 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-18T03:14:20+00:00"
+        "date": "2026-07-19T00:38:26+00:00"
       },
       {
-        "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-        "summary": "Kaiser Permanente in Oakland on Aug. Kaiser Permanente in Oakland on Aug. Kaiser Permanente in Oakland on Aug. (495 points, 318 comments on Hacker News)",
+        "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+        "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+        "summary": "New York City mayor Zohran Mamdani is having a very busy week. “The Rental Ripoff Hearings and today’s report are writing a new chapter in tenant power in New York City. Image credits Photo courtesy of Mayor Mamdani’s office. (464 points, 204 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-17T22:26:30+00:00"
+        "date": "2026-07-18T22:13:39+00:00"
       },
       {
-        "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
-        "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
-        "summary": "Everything we know so far about the cyclosporiasis outbreak. Everything we know so far about the cyclosporiasis outbreak. Based on information provided yesterday by the FDA, Taylor Farms de Mexico is voluntarily removing all iceberg lettuce sourced from central Mexico from the U.S. market.",
+        "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+        "summary": "The author used Sam Altmans invitation to give a speech as an opportunity to lash out. The author used Sam Altmans invitation to give a speech as an opportunity to lash out. Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers.",
         "source": "The Verge",
-        "date": "2026-07-17T22:09:47+00:00"
+        "date": "2026-07-18T20:54:42+00:00"
       },
       {
-        "title": "Shark&#8217;s versatile ChillPill cooling system is back to its best price",
-        "url": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
-        "summary": "The rechargeable fan doubles as a dry-touch mister and can be worn, clipped to a bag, or used on a tabletop. The rechargeable fan doubles as a dry-touch mister and can be worn, clipped to a bag, or used on a tabletop. If you’re looking for something more versatile, though, Shark’s ChillPill Personal Fan and Cooling System combines a rechargeable fan with a dry-touch evaporative mister in a design that can be worn,…",
+        "title": "Google might not kneecap the Pixel 11a with an old processor",
+        "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
+        "summary": "The leak also suggests the Tensor G6 will feature a more reliable MediaTek modem. The leak also suggests the Tensor G6 will feature a more reliable MediaTek modem. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro , the Pixel 10a shipped with the previous generation Tensor G4.",
         "source": "The Verge",
-        "date": "2026-07-17T20:15:54+00:00"
+        "date": "2026-07-18T18:25:08+00:00"
       },
       {
-        "title": "TikTok is testing an AI likeness detection tool",
-        "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-        "summary": "Creators can have TikTok scan for unauthorized AI deepfakes. Creators can have TikTok scan for unauthorized AI deepfakes. From there, a creator can review what TikTok found and potentially report unauthorized posts and accounts.",
-        "source": "The Verge",
-        "date": "2026-07-17T19:34:30+00:00"
-      },
-      {
-        "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
-        "url": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
-        "summary": "﻿Pebble is also ‘looking into’ offering parts for DIY repairs. ﻿Pebble is also ‘looking into’ offering parts for DIY repairs. Pebble founder Eric Migicovsky says buyers of its new e-paper smartwatches should know what they’re signing up for and trust Pebble to make things right if they run into issues, despite the short warranty. People have also reported running into hardware issues early on, like the front glass…",
-        "source": "The Verge",
-        "date": "2026-07-17T19:14:42+00:00"
-      },
-      {
-        "title": "Apple Music is getting a price hike",
-        "url": "https://www.theverge.com/tech/967379/apple-music-price-increase",
-        "summary": "A family plan now costs $19.99 per month, up from $16.99, and a student plan costs $6.99 per month, up from $5.99. Apple has also increased some prices of Apple One subscriptions , MacMagazine reports . The individual plan remains $19.95 per month.",
-        "source": "The Verge",
-        "date": "2026-07-17T18:14:26+00:00"
-      },
-      {
-        "title": "Learning a few things about running SQLite",
-        "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-        "summary": "I’ve been working on a Django site recently, and I decided to use SQLite as the database. Maybe one day I’ll learn to read a query plan. I’ve done SQLite backups a couple of ways. (242 points, 63 comments on Hacker News)",
+        "title": "The Kimi K3 Moment",
+        "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+        "summary": "Claude’s top model costs $10 and $50 for the same units. Claude couldn’t sustain Fable access on the twenty dollar plan, so they turned it off, and the plan quietly falls back to Opus. When the headline model on your plan can be switched off because the economics don’t work, the plan was never really selling you the headline model. (379 points, 415 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-17T17:45:41+00:00"
+        "date": "2026-07-18T17:32:40+00:00"
       },
       {
-        "title": "Apple’s plot to crush OpenAI",
-        "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-        "summary": "Also on The Vergecast: Siri AI is here, OnePlus is leaving, and the cracking face emoji is coming. Also on The Vergecast: Siri AI is here, OnePlus is leaving, and the cracking face emoji is coming. Apple is suing OpenAI .",
+        "title": "Google is open-sourcing its 3D emoji",
+        "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+        "summary": "The company also gave a bit of insight into the design process for World Emoji Day. The company also gave a bit of insight into the design process for World Emoji Day. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday.",
         "source": "The Verge",
-        "date": "2026-07-17T17:41:32+00:00"
+        "date": "2026-07-18T16:40:55+00:00"
       },
       {
-        "title": "Thanks HN for 15 years of support and helping me find my life's work",
-        "url": "https://news.ycombinator.com/item?id=48949551",
-        "summary": "So, thanks HN, for helping make the Recurse Center possible, and for helping me find my life's work. [1] https://news.ycombinator.com/item?id=3435183 [2] \"This sounds like a crazy plan for a startup, I realize, but this is the right sort of crazy. So, thanks HN, for helping make the Recurse Center possible, and for helping me find my life's work. [1] https://news.ycombinator.com/item?id=3435183 [2] \"This sounds like… (558 points, 54 comments on Hacker News)",
+        "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+        "url": "https://ykdojo.github.io/claude-controls-mac/",
+        "summary": "Run this once on the target. Run on the target: Add .local to form the address: .local . Remote Control lets you drive Claude Code from your phone through the Claude app. (227 points, 156 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-17T16:57:27+00:00"
+        "date": "2026-07-18T16:12:08+00:00"
       },
       {
-        "title": "Asus’ top-end 4K QD-OLED gaming monitor is $400 off",
-        "url": "https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale",
-        "summary": "We also found deals on an Anker power brick, Sennheiser Accentum earbuds, and the lowest price yet for Marathon on PC. We also found deals on an Anker power brick, Sennheiser Accentum earbuds, and the lowest price yet for Marathon on PC. See our ethics statement.",
+        "title": "Gleam Is Now on Tangled",
+        "url": "https://tangled.org/gleam.run/gleam",
+        "summary": "Select the types of activity you want to include in your feed. Select the types of activity you want to include in your feed. Co-authored-by: Andrey Closes https://github.com/gleam-lang/gleam/issues/5979 Use the API key from the HEXPM_READ_API_KEY environment variable, when set, to authenticate requests to Hex while resolving and downloading dependencies. (232 points, 146 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-18T15:44:04+00:00"
+      },
+      {
+        "title": "If You Build It, They Will Come",
+        "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+        "summary": "Surprisingly, it turns out things don’t actually work that way. The work of organizing is underappreciated by many people. Lots of people want to consume social fabric, but our social scripts telling people to produce social fabric have largely fallen by the wayside . (400 points, 137 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-18T15:37:01+00:00"
+      },
+      {
+        "title": "GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories",
+        "url": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
+        "summary": "The 360-degree camera bundle includes over $100 worth of accessories for $70, and is great for getting started. The 360-degree camera bundle includes over $100 worth of accessories for $70, and is great for getting started. The standalone camera includes most of those accessories, but has fewer mounts, a single battery, no SD card, and no extension pole.",
         "source": "The Verge",
-        "date": "2026-07-17T16:47:13+00:00"
+        "date": "2026-07-18T15:00:00+00:00"
+      },
+      {
+        "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
+        "url": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
+        "summary": "The author of The Second Coming lives for French press and splurges on concert tickets. The author of The Second Coming lives for French press and splurges on concert tickets. She’s also the author of The Second Coming: Sex and the Next Generation’s Fight Over Its Future .",
+        "source": "The Verge",
+        "date": "2026-07-18T14:30:00+00:00"
+      },
+      {
+        "title": "EU ban on destruction of unsold clothes and shoes enters into application",
+        "url": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
+        "summary": "Under the new rules, businesses must prioritise keeping products in use by selling them or preparing them for reuse. The Ecodesign for Sustainable Products Regulation (ESPR), which came into force in 2024, sets EU-wide rules to make products more durable, repairable, recyclable and resource-efficient. Ecodesign for Sustainable Products Regulation | European Commission EEA briefing - The destruction of returned and… (292 points, 292 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-18T14:04:42+00:00"
       }
     ]
   }
