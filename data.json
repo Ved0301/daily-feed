@@ -1,90 +1,90 @@
 {
-  "generated_at": "2026-07-19T09:05:34.534600+00:00",
+  "generated_at": "2026-07-20T10:11:41.247906+00:00",
   "sections": {
     "research": [
       {
-        "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
-        "url": "https://arxiv.org/abs/2607.15277v1",
-        "summary": "Patrik Wolf, Thomas Kleine Buening, Andreas Krause et al. — In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditional distribution.",
+        "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
+        "url": "https://arxiv.org/abs/2607.16184v1",
+        "summary": "Yuchen Yang, Yifan Zhao, Anisha Dasgupta et al. — Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension between the GPU memory…",
         "source": "arXiv",
-        "date": "2026-07-16T17:59:31Z"
+        "date": "2026-07-17T17:58:29Z"
       },
       {
-        "title": "RoboTTT: Context Scaling for Robot Policies",
-        "url": "https://arxiv.org/abs/2607.15275v1",
-        "summary": "Yunfan Jiang, Yevgen Chebotar, Ruijie Zheng et al. — Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to…",
+        "title": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
+        "url": "https://arxiv.org/abs/2607.16183v1",
+        "summary": "Owen Lockwood, Jérémy Béjanin, Joost Bus et al. — To address the escalating energy and latency demands of machine-learning workloads, we introduce a blueprint for an energy-efficient and fast thermodynamic computing stack that leverages stochastic analog processes in…",
         "source": "arXiv",
-        "date": "2026-07-16T17:59:06Z"
+        "date": "2026-07-17T17:57:49Z"
       },
       {
-        "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
-        "url": "https://arxiv.org/abs/2607.15273v1",
-        "summary": "Yushi Huang, Xiangxin Zhou, Jun Zhang et al. — MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a powerful way to align…",
+        "title": "Cluster-Aware Matching via Laplacian Optimal Transport",
+        "url": "https://arxiv.org/abs/2607.16178v1",
+        "summary": "Gabriel Samberg, YoonHaeng Hur, Yuehaw Khoo et al. — In many applications of matching, the point clouds to be matched are not merely unstructured sets of points but rather samples from distributions with an intrinsic cluster structure. In such cases, as individual points…",
         "source": "arXiv",
-        "date": "2026-07-16T17:59:02Z"
+        "date": "2026-07-17T17:56:51Z"
       },
       {
-        "title": "SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions",
-        "url": "https://arxiv.org/abs/2607.15272v1",
-        "summary": "Yasheng Sun, Zezi Zeng, Yifan Yang et al. — Editing the figures in a research paper is a routine and time-consuming part of everyday research practice: authors relabel components, rearrange panels, and restyle visuals as they revise their manuscripts.",
+        "title": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems",
+        "url": "https://arxiv.org/abs/2607.16177v1",
+        "summary": "Matteo Tomasetto, Nicolò Botteghi, Gabriele Bruni et al. — Reinforcement learning (RL) has recently emerged as a promising feedback control strategy for nonlinear and complex dynamical systems. However, RL algorithms are sample inefficient and require a large number of…",
         "source": "arXiv",
-        "date": "2026-07-16T17:58:36Z"
+        "date": "2026-07-17T17:56:05Z"
       },
       {
-        "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
-        "url": "https://arxiv.org/abs/2607.15271v1",
-        "summary": "Baback Elmieh, Lynn Tsai, Zeman Li et al. — Online novel view synthesis from multi-view streaming videos faces a fundamental trade-off: maintaining a persistent, long-horizon memory to reconstruct temporarily occluded regions while operating under strict…",
+        "title": "Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities",
+        "url": "https://arxiv.org/abs/2607.16175v1",
+        "summary": "Md Erfan, Ahmed Ryan, Md Kamal Hossain Chowdhury et al. — Connected and Autonomous Vehicles (CAVs) rely on interconnected software and hardware components, including sensors, Electronic Control Units, in-vehicle infotainment systems, and telematics units, where vulnerabilities…",
         "source": "arXiv",
-        "date": "2026-07-16T17:58:18Z"
+        "date": "2026-07-17T17:55:19Z"
       },
       {
-        "title": "Pretraining Data Can Be Poisoned through Computational Propaganda",
-        "url": "https://arxiv.org/abs/2607.15267v1",
-        "summary": "Victoria Graf, Hannaneh Hajishirzi, Noah A. Smith et al. — Poisoning pretraining data can introduce harmful behaviors to LMs that are difficult to detect and mitigate. Prior work on poisoning pretraining data has largely exploited established data sources such as Wikipedia,…",
+        "title": "When Does Muon Help Agentic Reinforcement Learning?",
+        "url": "https://arxiv.org/abs/2607.16169v1",
+        "summary": "Kai Ruan, Jinghao Lin, Zihe Huang et al. — Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed…",
         "source": "arXiv",
-        "date": "2026-07-16T17:56:05Z"
+        "date": "2026-07-17T17:49:05Z"
       },
       {
-        "title": "SceneBind: Binding What and Where Across Vision, Audio and Language",
-        "url": "https://arxiv.org/abs/2607.15265v1",
-        "summary": "Mingfei Chen, Zijun Cui, Ruoke Zhang et al. — We present SceneBind, an omni-modal representation of realistic scenes with joint semantic and 3D spatial understanding across vision, audio and language. Existing omni-modal encoders excel at instance-level semantics…",
+        "title": "Behaviour-Conditioned Neural Processes for Adaptive Residential Short-Term Load Forecasting",
+        "url": "https://arxiv.org/abs/2607.16168v1",
+        "summary": "Ramin Soleimani, Andrea Visentin, Dirk Pesch — Residential short-term load forecasting (STLF) is challenging because household demand is heterogeneous, temporally variable, and shaped by diverse behavioural routines. This work investigates whether inferred…",
         "source": "arXiv",
-        "date": "2026-07-16T17:55:15Z"
+        "date": "2026-07-17T17:48:22Z"
       },
       {
-        "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
-        "url": "https://arxiv.org/abs/2607.15263v1",
-        "summary": "Paul Kassianik, Blaine Nelson, Yaron Singer — Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completion.",
+        "title": "An Exam for Active Observers",
+        "url": "https://arxiv.org/abs/2607.16165v1",
+        "summary": "Jiarui Zhang, Muzi Tao, Shangshang Wang et al. — Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is…",
         "source": "arXiv",
-        "date": "2026-07-16T17:54:47Z"
+        "date": "2026-07-17T17:46:23Z"
       },
       {
-        "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier",
-        "url": "https://arxiv.org/abs/2607.15258v1",
-        "summary": "Arthur G. Bubolz, Abreu Quevedo, Giancarlo Lucca et al. — The growing use of Bitcoin as a decentralized digital asset and investment tool has sparked strong interest in understanding its market behavior. This study presents a new approach to analyze Bitcoin market sentiment by…",
+        "title": "PRISA: Proactive Infrastructure LiDAR Framework for Intersection Safety Assessment",
+        "url": "https://arxiv.org/abs/2607.16156v1",
+        "summary": "Tam Bang, Hussam Abubakr, Emiliano de la Garza Villarreal et al. — Urban intersections are among the most hazardous locations in road networks, posing significant risks to vehicles and vulnerable road users (VRUs) such as pedestrians and cyclists. The complexity of multi-agent…",
         "source": "arXiv",
-        "date": "2026-07-16T17:52:26Z"
+        "date": "2026-07-17T17:35:23Z"
       },
       {
-        "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
-        "url": "https://arxiv.org/abs/2607.15257v1",
-        "summary": "Yuyao Zhang, Junjie Gao, Zhengxian Wu et al. — Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress.…",
+        "title": "Learning Standard Model structure from LHC data with Riemannian flow matching",
+        "url": "https://arxiv.org/abs/2607.16144v1",
+        "summary": "Midori Kato, Kevin A. Urquía-Calderón, Inar Timiryasov et al. — In this work we demonstrate that a single transformer-based generative model can capture Standard Model structure spanning five decades of invariant mass, from the sub-GeV regime to the TeV continuum, a range that no…",
         "source": "arXiv",
-        "date": "2026-07-16T17:51:23Z"
+        "date": "2026-07-17T17:23:22Z"
       },
       {
-        "title": "teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data",
-        "url": "https://arxiv.org/abs/2607.15254v1",
-        "summary": "Qiwei Li, Jorge Ortiz — Traffic agencies now have access to large volumes of video-derived data for studying safety and congestion. Most of these data are observational and collected without interventions, which makes causal questions such as…",
+        "title": "Improving Improved Kernel PLS",
+        "url": "https://arxiv.org/abs/2607.16138v1",
+        "summary": "Ole-Christian Galbo Engstrøm — Improved Kernel Partial Least Squares (IKPLS) algorithms 1 and 2 are among the fastest PLS calibration algorithms. This article focuses on two shared steps, the computation of the $\\mathbf{X}$ rotations, $\\mathbf{R}$,…",
         "source": "arXiv",
-        "date": "2026-07-16T17:49:28Z"
+        "date": "2026-07-17T17:19:04Z"
       },
       {
-        "title": "Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search",
-        "url": "https://arxiv.org/abs/2607.15253v1",
-        "summary": "Debayan Mukhopadhyay, Utshab Kumar Ghosh, Shubham Chatterjee — Retrieval systems are trained and evaluated on a static idea of usefulness: hand a document and a question to a reader model, see whether the answer improves, and score the document accordingly. The idea holds up when a…",
+        "title": "When Do Multi-Agent Systems Help? An Information Bottleneck Perspective",
+        "url": "https://arxiv.org/abs/2607.16133v1",
+        "summary": "Wendi Yu, Lianhao Zhou, Xiangjue Dong et al. — LLM powered multi-agent systems (MAS) have emerged as a promising paradigm for complex tasks. However, their advantages over single-agent systems (SAS) remain unclear, with performance varying inconsistently across…",
         "source": "arXiv",
-        "date": "2026-07-16T17:48:29Z"
+        "date": "2026-07-17T17:13:44Z"
       }
     ],
     "labs": [
@@ -175,6 +175,48 @@
     ],
     "startups": [
       {
+        "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+        "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+        "summary": "In a new regulatory filing , Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by actor and director Ben Affleck. The streaming company announced the acquisition in March , with a statement from Affleck saying he wanted to “protect the power of human creativity.” According to Affleck, InterPublic’s AI tools help filmmakers improve their footage in post-production,…",
+        "source": "TechCrunch",
+        "date": "2026-07-19T21:45:00+00:00"
+      },
+      {
+        "title": "What to watch for after Jensen Huang’s Japan visit",
+        "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+        "summary": "Japan wants to own the software brain. “Japan invented modern manufacturing. Toyota uses Nvidia chips across much of its stack.",
+        "source": "TechCrunch",
+        "date": "2026-07-19T21:16:07+00:00"
+      },
+      {
+        "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+        "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+        "summary": "Apple recently filed a trade secrets lawsuit against OpenAI , accusing the AI company of a pattern of misconduct aimed at getting current and former Apple employees to share confidential information. (In response, OpenAI said it is “not aware of any evidence that this complaint has merit.”) On the latest episode of TechCrunch’s Equity podcast , Kirsten Korosec, Sean O’Kane, and I debated whether this lawsuit will…",
+        "source": "TechCrunch",
+        "date": "2026-07-19T19:24:45+00:00"
+      },
+      {
+        "title": "TechCrunch Mobility: The battle over robotaxi rules",
+        "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+        "summary": "Uber is considered a ride-hailing and delivery giant. The upshot: Uber’s delivery footprint will double. Lyft CEO David Risher says it’s the “Good Uber,” per Wired .",
+        "source": "TechCrunch",
+        "date": "2026-07-19T16:05:00+00:00"
+      },
+      {
+        "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+        "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+        "summary": "Christopher Nolan, the Oscar-winning director whose new version of “The Odyssey” is currently conquering the box office , said it’s been “pretty encouraging” to see deep skepticism of AI, especially from young people . Nolan was responding to a question from interviewer Hugo Travers , who publishes on YouTube under the name HugoDécrypte. Anthony Ha is TechCrunch’s weekend editor.",
+        "source": "TechCrunch",
+        "date": "2026-07-19T14:52:08+00:00"
+      },
+      {
+        "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+        "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+        "summary": "The device is open-sourced, available for developer communities to build on. Current AI operates as a “public-private partnership” bringing together governments, companies, and philanthropies to fund public interest tech, she told TechCrunch. Current’s first cohort grant round, announced last month, involved deploying $3.2 million to four organizations across Kenya, Lebanon, and the Brazilian Amazon.",
+        "source": "TechCrunch",
+        "date": "2026-07-19T14:00:00+00:00"
+      },
+      {
         "title": "Waymo says San Francisco service has resumed after one-hour pause",
         "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
         "summary": "Waymo says robotaxi service has resumed after it made “temporary adjustments” in San Francisco amidst a power outage that appears to have affected around 7,000 PG&E customers in the city. According to a screenshot posted on social media , Waymo told SF customers that service was “temporarily paused” and that “freeway routes are unavailable.” When TechCrunch reached out to the Alphabet-owned company for comment, a…",
@@ -215,134 +257,92 @@
         "summary": "Rimer has found ways to give back. Forbes counted 45 new AI billionaires in its 2026 rankings alone, worth a combined $2.9 trillion, and that’s before either Anthropic or OpenAI has gone public. Rimer’s two paths, voluntary or forced, have precedent from the last time American wealth concentration reached this level.",
         "source": "TechCrunch",
         "date": "2026-07-18T04:47:25+00:00"
-      },
-      {
-        "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-        "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
-        "summary": "Grand winner: $15,000 in Stripe fee credits + automatic entry into Startup Battlefield 200 at TechCrunch Disrupt, San Francisco, October 13–15, 2026. Second place: $5,000 in Stripe fee credits. Isabelle leads Startup Battlefield, TechCrunch’s iconic launchpad and competition for the world’s most promising early-stage startups.",
-        "source": "TechCrunch",
-        "date": "2026-07-17T23:08:00+00:00"
-      },
-      {
-        "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-        "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-        "summary": "Vertu is taking a different path. Gemini on Samsung’s Galaxy Z Fold 7 took a different approach. Vertu is also positioning the Alphafold as a business platform rather than just a smartphone.",
-        "source": "TechCrunch",
-        "date": "2026-07-17T22:55:09+00:00"
-      },
-      {
-        "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-        "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-        "summary": "Databricks on Thursday announced a new round of funding that values the company at $188 billion . Only five months ago, in February, Databricks closed a $5 billion Series L raise at a $134 billion valuation . Five months before that, in September 2025, it raised $1 billion at a $100 billion valuation .",
-        "source": "TechCrunch",
-        "date": "2026-07-17T22:12:56+00:00"
-      },
-      {
-        "title": "The Zoom hack that says, ‘Don’t record me’",
-        "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-        "summary": "VC Jeremy Levine has a wry solution to something that routinely annoys him, according to a new Wall Street Journal article on the rise of AI transcription apps. On Zoom, he is no longer “Jeremy Levine” but instead “Jeremy Levine I do not consent to transcribing or recording.” It may sound petty or brilliant, depending on your point of view, but what’s clear is that always-on recording is becoming ubiquitous, thanks…",
-        "source": "TechCrunch",
-        "date": "2026-07-17T21:20:47+00:00"
-      },
-      {
-        "title": "Agility Robotics plants its flag in Tesla’s backyard",
-        "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-        "summary": "Agility Robotics is opening a 60,000-square-foot facility to train its humanoid robots in Fremont, California, just up the highway from the factory where Tesla is expected to start manufacturing its Optimus robots this year. Tesla has increasingly bet on Optimus. Unlike many of the newer entrants to the humanoid space, Agility isn’t planning to offer in-home humanoid robots anytime soon.",
-        "source": "TechCrunch",
-        "date": "2026-07-17T20:19:49+00:00"
-      },
-      {
-        "title": "AI-driven memory crunch jolts India’s smartphone market",
-        "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-        "summary": "India, the world’s second-largest smartphone market by shipments after China, saw smartphone shipments fall 10% year-over-year in the April-June quarter, according to market research firm Counterpoint Research, marking the steepest June-quarter decline in six years as higher memory costs pushed up handset prices. India has been a prominent market for global smartphone brands for several years. Pathak told TechCrunch…",
-        "source": "TechCrunch",
-        "date": "2026-07-17T20:09:27+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Transcribe.cpp",
-        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-        "summary": "I'm super excited to share transcribe.cpp today. transcribe.cpp is a ggml based transcription library which supports all the latest transcription models. You've basically got whisper.cpp and ONNX. An RK3566 can run models via transcribe.cpp faster than real time on its anemic CPU. (493 points, 98 comments on Hacker News)",
+        "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+        "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+        "summary": "403 points, 242 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-07-19T00:38:26+00:00"
+        "date": "2026-07-20T02:51:16+00:00"
       },
       {
-        "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-        "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-        "summary": "New York City mayor Zohran Mamdani is having a very busy week. “The Rental Ripoff Hearings and today’s report are writing a new chapter in tenant power in New York City. Image credits Photo courtesy of Mayor Mamdani’s office. (464 points, 204 comments on Hacker News)",
+        "title": "AI advice made people less accurate but more confident – sudy",
+        "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+        "summary": "Researchers found AI advice suppressed judgment suspension from 44% to 3%, accuracy from 27% to 9%, while confidence rose from 30% to 76%. People trusted wrong AI answers. Confidence, meanwhile, rose from 30% to 76%. (338 points, 190 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-18T22:13:39+00:00"
+        "date": "2026-07-19T21:18:10+00:00"
       },
       {
-        "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-        "summary": "The author used Sam Altmans invitation to give a speech as an opportunity to lash out. The author used Sam Altmans invitation to give a speech as an opportunity to lash out. Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers.",
+        "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
+        "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
+        "summary": "Another on Apple Music. Wingdings leans heavily toward Four Tet’s dancier outputs. Four Tet’s Wingdings is available on Bandcamp and most major streaming services, including Apple Music , Spotify , Deezer , and Qobuz .",
         "source": "The Verge",
-        "date": "2026-07-18T20:54:42+00:00"
+        "date": "2026-07-19T21:02:45+00:00"
       },
       {
-        "title": "Google might not kneecap the Pixel 11a with an old processor",
-        "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
-        "summary": "The leak also suggests the Tensor G6 will feature a more reliable MediaTek modem. The leak also suggests the Tensor G6 will feature a more reliable MediaTek modem. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro , the Pixel 10a shipped with the previous generation Tensor G4.",
+        "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+        "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
+        "summary": "The film photography renaissance continues and gets more affordable. The film photography renaissance continues and gets more affordable. Even the midnight black and vanilla white feature different colored accents, making them slightly more stylish than a disposable camera.",
         "source": "The Verge",
-        "date": "2026-07-18T18:25:08+00:00"
+        "date": "2026-07-19T19:26:06+00:00"
       },
       {
-        "title": "The Kimi K3 Moment",
-        "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-        "summary": "Claude’s top model costs $10 and $50 for the same units. Claude couldn’t sustain Fable access on the twenty dollar plan, so they turned it off, and the plan quietly falls back to Opus. When the headline model on your plan can be switched off because the economics don’t work, the plan was never really selling you the headline model. (379 points, 415 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-18T17:32:40+00:00"
-      },
-      {
-        "title": "Google is open-sourcing its 3D emoji",
-        "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
-        "summary": "The company also gave a bit of insight into the design process for World Emoji Day. The company also gave a bit of insight into the design process for World Emoji Day. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday.",
+        "title": "I hate that I don’t hate this song made with Suno",
+        "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+        "summary": "1010Benja’s ‘Semiramis’ Dream’ shows AI can be more than a slop engine in the right hands. 1010Benja’s ‘Semiramis’ Dream’ shows AI can be more than a slop engine in the right hands. But Benja isn’t hiding.",
         "source": "The Verge",
-        "date": "2026-07-18T16:40:55+00:00"
+        "date": "2026-07-19T17:35:54+00:00"
       },
       {
-        "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-        "url": "https://ykdojo.github.io/claude-controls-mac/",
-        "summary": "Run this once on the target. Run on the target: Add .local to form the address: .local . Remote Control lets you drive Claude Code from your phone through the Claude app. (227 points, 156 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-18T16:12:08+00:00"
-      },
-      {
-        "title": "Gleam Is Now on Tangled",
-        "url": "https://tangled.org/gleam.run/gleam",
-        "summary": "Select the types of activity you want to include in your feed. Select the types of activity you want to include in your feed. Co-authored-by: Andrey Closes https://github.com/gleam-lang/gleam/issues/5979 Use the API key from the HEXPM_READ_API_KEY environment variable, when set, to authenticate requests to Hex while resolving and downloading dependencies. (232 points, 146 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-18T15:44:04+00:00"
-      },
-      {
-        "title": "If You Build It, They Will Come",
-        "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-        "summary": "Surprisingly, it turns out things don’t actually work that way. The work of organizing is underappreciated by many people. Lots of people want to consume social fabric, but our social scripts telling people to produce social fabric have largely fallen by the wayside . (400 points, 137 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-18T15:37:01+00:00"
-      },
-      {
-        "title": "GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories",
-        "url": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
-        "summary": "The 360-degree camera bundle includes over $100 worth of accessories for $70, and is great for getting started. The 360-degree camera bundle includes over $100 worth of accessories for $70, and is great for getting started. The standalone camera includes most of those accessories, but has fewer mounts, a single battery, no SD card, and no extension pole.",
+        "title": "The FBI reportedly won’t investigate ICE anymore",
+        "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
+        "summary": "The change would essentially leave ICE to investigate itself and leave little chance of agents being held accountable. The change would essentially leave ICE to investigate itself and leave little chance of agents being held accountable. The new guidance would end FBI investigations of assaults against DHS agents.",
         "source": "The Verge",
-        "date": "2026-07-18T15:00:00+00:00"
+        "date": "2026-07-19T16:42:10+00:00"
       },
       {
-        "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
-        "url": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
-        "summary": "The author of The Second Coming lives for French press and splurges on concert tickets. The author of The Second Coming lives for French press and splurges on concert tickets. She’s also the author of The Second Coming: Sex and the Next Generation’s Fight Over Its Future .",
-        "source": "The Verge",
-        "date": "2026-07-18T14:30:00+00:00"
-      },
-      {
-        "title": "EU ban on destruction of unsold clothes and shoes enters into application",
-        "url": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
-        "summary": "Under the new rules, businesses must prioritise keeping products in use by selling them or preparing them for reuse. The Ecodesign for Sustainable Products Regulation (ESPR), which came into force in 2024, sets EU-wide rules to make products more durable, repairable, recyclable and resource-efficient. Ecodesign for Sustainable Products Regulation | European Commission EEA briefing - The destruction of returned and… (292 points, 292 comments on Hacker News)",
+        "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+        "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+        "summary": "261 points, 107 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-07-18T14:04:42+00:00"
+        "date": "2026-07-19T16:02:25+00:00"
+      },
+      {
+        "title": "Orchid is a delightfully retro and approachable hipster synth",
+        "url": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review",
+        "summary": "In 2017, I bought an old Magnus chord organ off Craigslist for $10. Just like those vintage electric chord organs, the Orchid allows you to play rich chord progressions without having to master a ton of theory or complex fingering. The Orchid isn’t for tinkering.",
+        "source": "The Verge",
+        "date": "2026-07-19T15:15:00+00:00"
+      },
+      {
+        "title": "Birdfy&#8217;s solar-powered smart feeder is down to one of its best prices",
+        "url": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale",
+        "summary": "Birdfy’s AI-powered smart bird feeder includes a solar panel and lifetime AI bird identification at no extra cost. Birdfy’s AI-powered smart bird feeder includes a solar panel and lifetime AI bird identification at no extra cost. One of the best deals is on Netvue’s Birdfy Feeder AI-Powered Smart Bird Feeder with Camera , which has dropped to $149.99 at Birdfy and is its second-best price to date.",
+        "source": "The Verge",
+        "date": "2026-07-19T15:00:00+00:00"
+      },
+      {
+        "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+        "url": "https://news.ycombinator.com/item?id=48968606",
+        "summary": "It's not even just about bowling. It's not even just about bowling. It's not even just about bowling. (2335 points, 251 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-19T14:41:16+00:00"
+      },
+      {
+        "title": "US Marshals arrest the Tate brothers in Miami",
+        "url": "https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami",
+        "summary": "The two are facing new charges of rape, sex trafficking, and ‘extreme pornography’ in the UK. The two are facing new charges of rape, sex trafficking, and ‘extreme pornography’ in the UK. Tristan Tate faces two new charges of rape, one of sexual assault, and three of sex trafficking.",
+        "source": "The Verge",
+        "date": "2026-07-19T14:20:48+00:00"
+      },
+      {
+        "title": "The Clapper was a bad smart home gadget — and a viral sensation",
+        "url": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
+        "summary": "On Version History: How a gadget that didn’t really work became a big hit anyway. On Version History: How a gadget that didn’t really work became a big hit anyway. This is the sixth and final episode of the fourth season of Version History .",
+        "source": "The Verge",
+        "date": "2026-07-19T13:28:26+00:00"
       }
     ]
   }
