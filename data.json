@@ -1,93 +1,100 @@
 {
-  "generated_at": "2026-07-20T10:11:41.247906+00:00",
+  "generated_at": "2026-07-21T09:27:36.476250+00:00",
   "sections": {
     "research": [
       {
-        "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
-        "url": "https://arxiv.org/abs/2607.16184v1",
-        "summary": "Yuchen Yang, Yifan Zhao, Anisha Dasgupta et al. — Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension between the GPU memory…",
+        "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
+        "url": "https://arxiv.org/abs/2607.18237v1",
+        "summary": "Sheng-Yu Wang, Yotam Nitzan, Aaron Hertzmann et al. — Human visual similarity judgments are context-dependent. Existing perceptual similarity metrics, however, collapse these nuances into a single…",
         "source": "arXiv",
-        "date": "2026-07-17T17:58:29Z"
+        "date": "2026-07-20T17:59:51Z"
       },
       {
-        "title": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
-        "url": "https://arxiv.org/abs/2607.16183v1",
-        "summary": "Owen Lockwood, Jérémy Béjanin, Joost Bus et al. — To address the escalating energy and latency demands of machine-learning workloads, we introduce a blueprint for an energy-efficient and fast thermodynamic computing stack that leverages stochastic analog processes in…",
+        "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+        "url": "https://arxiv.org/abs/2607.18236v1",
+        "summary": "Gaoyue Zhou, Zichen Jeff Cui, Ada Langford et al. — Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global token, or rely on…",
         "source": "arXiv",
-        "date": "2026-07-17T17:57:49Z"
+        "date": "2026-07-20T17:59:41Z"
       },
       {
-        "title": "Cluster-Aware Matching via Laplacian Optimal Transport",
-        "url": "https://arxiv.org/abs/2607.16178v1",
-        "summary": "Gabriel Samberg, YoonHaeng Hur, Yuehaw Khoo et al. — In many applications of matching, the point clouds to be matched are not merely unstructured sets of points but rather samples from distributions with an intrinsic cluster structure. In such cases, as individual points…",
+        "title": "Automated Discovery Has No Universally Superior Harness",
+        "url": "https://arxiv.org/abs/2607.18235v1",
+        "summary": "Akshat Gupta, Jermaine Lei, Alexander Lu et al. — Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about archives, parent…",
         "source": "arXiv",
-        "date": "2026-07-17T17:56:51Z"
+        "date": "2026-07-20T17:59:37Z"
       },
       {
-        "title": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems",
-        "url": "https://arxiv.org/abs/2607.16177v1",
-        "summary": "Matteo Tomasetto, Nicolò Botteghi, Gabriele Bruni et al. — Reinforcement learning (RL) has recently emerged as a promising feedback control strategy for nonlinear and complex dynamical systems. However, RL algorithms are sample inefficient and require a large number of…",
+        "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
+        "url": "https://arxiv.org/abs/2607.18232v1",
+        "summary": "Kevin Du, Clara Kümpel, Michelle Wastl et al. — Users frequently express their beliefs to large language models (LLMs). In some situations, the LLM should accept these contextual beliefs as true.",
         "source": "arXiv",
-        "date": "2026-07-17T17:56:05Z"
+        "date": "2026-07-20T17:58:31Z"
       },
       {
-        "title": "Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities",
-        "url": "https://arxiv.org/abs/2607.16175v1",
-        "summary": "Md Erfan, Ahmed Ryan, Md Kamal Hossain Chowdhury et al. — Connected and Autonomous Vehicles (CAVs) rely on interconnected software and hardware components, including sensors, Electronic Control Units, in-vehicle infotainment systems, and telematics units, where vulnerabilities…",
+        "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
+        "url": "https://arxiv.org/abs/2607.18230v1",
+        "summary": "Yi Tang, Xinyi Shang, Jiacheng Cui et al. — Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cross-model and…",
         "source": "arXiv",
-        "date": "2026-07-17T17:55:19Z"
+        "date": "2026-07-20T17:58:13Z"
       },
       {
-        "title": "When Does Muon Help Agentic Reinforcement Learning?",
-        "url": "https://arxiv.org/abs/2607.16169v1",
-        "summary": "Kai Ruan, Jinghao Lin, Zihe Huang et al. — Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed…",
+        "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
+        "url": "https://arxiv.org/abs/2607.18228v1",
+        "summary": "Brian K Chen — To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exactly labeled syllogistic reasoning benchmark while keeping the model fixed. Soft prefixes are opaque continuous…",
         "source": "arXiv",
-        "date": "2026-07-17T17:49:05Z"
+        "date": "2026-07-20T17:58:05Z"
       },
       {
-        "title": "Behaviour-Conditioned Neural Processes for Adaptive Residential Short-Term Load Forecasting",
-        "url": "https://arxiv.org/abs/2607.16168v1",
-        "summary": "Ramin Soleimani, Andrea Visentin, Dirk Pesch — Residential short-term load forecasting (STLF) is challenging because household demand is heterogeneous, temporally variable, and shaped by diverse behavioural routines. This work investigates whether inferred…",
+        "title": "Causal Discovery on Irregular Time Series",
+        "url": "https://arxiv.org/abs/2607.18226v1",
+        "summary": "Martim Penim, Ricardo Ribeiro Pereira, Jacopo Bono et al. — Causal discovery methods have shown strong performance in temporal systems, but they typically rely on regular and discrete lag structures, limiting their applicability to regularly sampled data.",
         "source": "arXiv",
-        "date": "2026-07-17T17:48:22Z"
+        "date": "2026-07-20T17:57:45Z"
       },
       {
-        "title": "An Exam for Active Observers",
-        "url": "https://arxiv.org/abs/2607.16165v1",
-        "summary": "Jiarui Zhang, Muzi Tao, Shangshang Wang et al. — Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is…",
+        "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
+        "url": "https://arxiv.org/abs/2607.18225v1",
+        "summary": "Masahiro Kato, Taka Kato — We propose one-step and two-step methods for policy learning with retrieval-augmented generation (RAG). We formulate RAG-based action selection under the potential outcome framework.",
         "source": "arXiv",
-        "date": "2026-07-17T17:46:23Z"
+        "date": "2026-07-20T17:57:20Z"
       },
       {
-        "title": "PRISA: Proactive Infrastructure LiDAR Framework for Intersection Safety Assessment",
-        "url": "https://arxiv.org/abs/2607.16156v1",
-        "summary": "Tam Bang, Hussam Abubakr, Emiliano de la Garza Villarreal et al. — Urban intersections are among the most hazardous locations in road networks, posing significant risks to vehicles and vulnerable road users (VRUs) such as pedestrians and cyclists. The complexity of multi-agent…",
+        "title": "GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis",
+        "url": "https://arxiv.org/abs/2607.18218v1",
+        "summary": "Naoto Usuyama, Jeya Maria Jose Valanarasu, Sicong Yao et al. — Foundation models have emerged as a driving force in computational pathology, with the potential to transform cancer diagnosis, prognosis, and treatment selection by learning transferable representations from…",
         "source": "arXiv",
-        "date": "2026-07-17T17:35:23Z"
+        "date": "2026-07-20T17:52:33Z"
       },
       {
-        "title": "Learning Standard Model structure from LHC data with Riemannian flow matching",
-        "url": "https://arxiv.org/abs/2607.16144v1",
-        "summary": "Midori Kato, Kevin A. Urquía-Calderón, Inar Timiryasov et al. — In this work we demonstrate that a single transformer-based generative model can capture Standard Model structure spanning five decades of invariant mass, from the sub-GeV regime to the TeV continuum, a range that no…",
+        "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
+        "url": "https://arxiv.org/abs/2607.18213v1",
+        "summary": "Yuhang Wang, Yuling Shi, Shaoqiu Zhang et al. — Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code classifier, we…",
         "source": "arXiv",
-        "date": "2026-07-17T17:23:22Z"
+        "date": "2026-07-20T17:47:44Z"
       },
       {
-        "title": "Improving Improved Kernel PLS",
-        "url": "https://arxiv.org/abs/2607.16138v1",
-        "summary": "Ole-Christian Galbo Engstrøm — Improved Kernel Partial Least Squares (IKPLS) algorithms 1 and 2 are among the fastest PLS calibration algorithms. This article focuses on two shared steps, the computation of the $\\mathbf{X}$ rotations, $\\mathbf{R}$,…",
+        "title": "Unveiling Invariant and Transferable Latent Factors Across Heterogeneous Environments via ATLAS",
+        "url": "https://arxiv.org/abs/2607.18209v1",
+        "summary": "Yihong Gu, Katherine Liao, Tianxi Cai — This paper considers a multi-environment factor model in which high-dimensional covariates are collected from heterogeneous environments, with auxiliary labels available in a subset of these environments.",
         "source": "arXiv",
-        "date": "2026-07-17T17:19:04Z"
+        "date": "2026-07-20T17:44:57Z"
       },
       {
-        "title": "When Do Multi-Agent Systems Help? An Information Bottleneck Perspective",
-        "url": "https://arxiv.org/abs/2607.16133v1",
-        "summary": "Wendi Yu, Lianhao Zhou, Xiangjue Dong et al. — LLM powered multi-agent systems (MAS) have emerged as a promising paradigm for complex tasks. However, their advantages over single-agent systems (SAS) remain unclear, with performance varying inconsistently across…",
+        "title": "Learning Adaptive Safety Margins for Visual Navigation",
+        "url": "https://arxiv.org/abs/2607.18200v1",
+        "summary": "Junyi Hu, Shuaihang Yuan, Geeta Chandra Raju Bethala et al. — Robots in cluttered indoor spaces often fail not because they cannot generate collision-free paths, but because a fixed safety margin is mis-calibrated: conservative margins cause detours and timeouts, while permissive…",
         "source": "arXiv",
-        "date": "2026-07-17T17:13:44Z"
+        "date": "2026-07-20T17:40:25Z"
       }
     ],
     "labs": [
+      {
+        "title": "Safety and alignment in an era of long-horizon models",
+        "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+        "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+        "source": "OpenAI",
+        "date": "2026-07-20T10:00:00+00:00"
+      },
       {
         "title": "A scorecard for the AI age",
         "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
@@ -164,185 +171,178 @@
         "summary": "Atal Tinkering Labs (ATL) is bringing access to new technology—such as 3D printing, IoT, and robotics—for over 1.1 crore students across India. The application provides summarized modules, AI-generated infographics, video overviews, and interactive quizzes for 12 core modules from the ATL prescribed curriculum. Powering the ATL Saathi, the Gemini model provides the underlying intelligence to transform tinkering labs…",
         "source": "Google DeepMind",
         "date": "2026-07-13T12:37:28+00:00"
-      },
-      {
-        "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-        "url": "https://openai.com/index/deutsche-telekom",
-        "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-        "source": "OpenAI",
-        "date": "2026-07-10T07:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-        "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
-        "summary": "In a new regulatory filing , Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by actor and director Ben Affleck. The streaming company announced the acquisition in March , with a statement from Affleck saying he wanted to “protect the power of human creativity.” According to Affleck, InterPublic’s AI tools help filmmakers improve their footage in post-production,…",
+        "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+        "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+        "summary": "A federal judge gave final approval Monday of Anthropic’s landmark $1.5 billion settlement of a class action copyright lawsuit, Reuters reported . District Court for the Northern District of California issued a preliminary approval of the settlement last year, after ruling that Anthropic had illegally downloaded and stored millions of copyrighted books. Alsup sided with Anthropic on the core issue.",
         "source": "TechCrunch",
-        "date": "2026-07-19T21:45:00+00:00"
+        "date": "2026-07-21T00:12:24+00:00"
       },
       {
-        "title": "What to watch for after Jensen Huang’s Japan visit",
-        "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-        "summary": "Japan wants to own the software brain. “Japan invented modern manufacturing. Toyota uses Nvidia chips across much of its stack.",
+        "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+        "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+        "summary": "Colossal co-founder and CEO Ben Lamm told TechCrunch last year that the company sees three revenue streams for the business. Lamm told TechCrunch last year that the company also plans to spin off its artificial animal womb technology, which could have applications for human fertility treatment. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-07-19T21:16:07+00:00"
+        "date": "2026-07-20T23:39:35+00:00"
       },
       {
-        "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-        "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-        "summary": "Apple recently filed a trade secrets lawsuit against OpenAI , accusing the AI company of a pattern of misconduct aimed at getting current and former Apple employees to share confidential information. (In response, OpenAI said it is “not aware of any evidence that this complaint has merit.”) On the latest episode of TechCrunch’s Equity podcast , Kirsten Korosec, Sean O’Kane, and I debated whether this lawsuit will…",
+        "title": "Trump’s latest AI czar has already resigned",
+        "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+        "summary": "Chris Fall, the director of the Center for AI Standards and Innovation (CAISI), has resigned, the agency confirmed to multiple news outlets. Commerce Department invoked an obscure export control directive that effectively forced Anthropic to pull its Mythos and Fable models from the market. The administration was weighing efforts to somehow ban Chinese open models, Axios reported .",
         "source": "TechCrunch",
-        "date": "2026-07-19T19:24:45+00:00"
+        "date": "2026-07-20T22:21:04+00:00"
       },
       {
-        "title": "TechCrunch Mobility: The battle over robotaxi rules",
-        "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
-        "summary": "Uber is considered a ride-hailing and delivery giant. The upshot: Uber’s delivery footprint will double. Lyft CEO David Risher says it’s the “Good Uber,” per Wired .",
+        "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+        "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+        "summary": "Alphabet, Google’s parent company, is designing a new server chip to help its in-house Gemini models operate more efficiently. In June, OpenAI announced its first custom chip, an inference processor dubbed Jalapeño . News of the more efficient Frozen v2 chip appears to have assuaged investors, giving Google a boost ahead of its earnings report later this week.",
         "source": "TechCrunch",
-        "date": "2026-07-19T16:05:00+00:00"
+        "date": "2026-07-20T21:21:15+00:00"
       },
       {
-        "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-        "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-        "summary": "Christopher Nolan, the Oscar-winning director whose new version of “The Odyssey” is currently conquering the box office , said it’s been “pretty encouraging” to see deep skepticism of AI, especially from young people . Nolan was responding to a question from interviewer Hugo Travers , who publishes on YouTube under the name HugoDécrypte. Anthony Ha is TechCrunch’s weekend editor.",
+        "title": "AI’s most important protocol is getting a little bit easier to use",
+        "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+        "summary": "The server replies with its own capabilities and hands back a session ID… From then on, the client sends that session ID on every request so the server knows it’s the same conversation. Picture a real deployment. That’s been a significant headache for anyone running an MCP server at scale, and part of the reason we haven’t seen more companies ship large-scale, first-party MCP integrations despite all the hype around…",
         "source": "TechCrunch",
-        "date": "2026-07-19T14:52:08+00:00"
+        "date": "2026-07-20T20:50:40+00:00"
       },
       {
-        "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-        "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-        "summary": "The device is open-sourced, available for developer communities to build on. Current AI operates as a “public-private partnership” bringing together governments, companies, and philanthropies to fund public interest tech, she told TechCrunch. Current’s first cohort grant round, announced last month, involved deploying $3.2 million to four organizations across Kenya, Lebanon, and the Brazilian Amazon.",
+        "title": "X relaunches a rebuilt Android app after year-long effort",
+        "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+        "summary": "Nearly a year ago, Elon Musk-owned X announced it would begin rebuilding the Android version of its app, which had not held up well compared with its iOS counterpart. We've completely rebuilt the Android X app from the ground up. Existing Android users can get the new X app by updating their existing app through the Google Play Store.",
         "source": "TechCrunch",
-        "date": "2026-07-19T14:00:00+00:00"
+        "date": "2026-07-20T19:37:39+00:00"
       },
       {
-        "title": "Waymo says San Francisco service has resumed after one-hour pause",
-        "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
-        "summary": "Waymo says robotaxi service has resumed after it made “temporary adjustments” in San Francisco amidst a power outage that appears to have affected around 7,000 PG&E customers in the city. According to a screenshot posted on social media , Waymo told SF customers that service was “temporarily paused” and that “freeway routes are unavailable.” When TechCrunch reached out to the Alphabet-owned company for comment, a…",
+        "title": "OpenAI is scared of open-weight models. Should the US be?",
+        "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+        "summary": "Concerns over Chinese models come in several flavors. Advocates for open AI say that the frontier companies are creating a false binary between innovation and closed models. Some US companies, including Thinking Machines Lab and Nvidia, are trying to make a business around releasing open models.",
         "source": "TechCrunch",
-        "date": "2026-07-18T19:30:23+00:00"
+        "date": "2026-07-20T19:33:25+00:00"
       },
       {
-        "title": "Kimi: Threat or menace?",
-        "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-        "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, leading to a perhaps-inevitable wave of discourse about China and open source AI. Moonshot said that although Kimi K3 “still trails the most powerful proprietary models, Claude Fable 5 and GPT 5.6 Sol,” the new open source model “demonstrated frontier-level performance across our evaluation suite, consistently outperforming other tested…",
+        "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+        "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+        "summary": "But these financial rails were built for human-initiated transactions, not autonomous AI agents. By integrating Natural’s infrastructure, companies can allow their agents to make autonomous payments, collect funds, and transact with both humans and other agents. Green was attracted by Natural’s broader ambitions.",
         "source": "TechCrunch",
-        "date": "2026-07-18T18:51:07+00:00"
+        "date": "2026-07-20T19:11:25+00:00"
       },
       {
-        "title": "All the EVs that were discontinued or killed off in the U.S. this year",
-        "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
-        "summary": "TechCrunch confirmed with Honda that the Prologue was going out of production. Nissan decided last year it would not produce a 2026 model year of its all-electric Ariya SUV for the U.S. market. 4 electric SUV and the ID Buzz.",
+        "title": "Judge pauses $110B Paramount-Warner Bros. merger",
+        "url": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
+        "summary": "Paramount Skydance’s proposed acquisition of Warner Bros. Discovery (WBD) has hit a roadblock after a judge temporarily paused the deal in response to a lawsuit filed by a coalition of 12 state attorneys general who argue that the merger would harm competition. Aisha is a consumer news reporter at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-07-18T16:30:00+00:00"
+        "date": "2026-07-20T17:58:50+00:00"
       },
       {
-        "title": "Federal employees can download TikTok on their work phones again",
-        "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
-        "summary": "The Department of Justice says that federal employees can now download TikTok on their government devices, according to Reuters . A 2022 law banned federal employees from using the short-form video app on those devices, but the DOJ reportedly says the law no longer applies, thanks to a deal transferring ownership of TikTok’s U.S. operations to a joint venture backed by Oracle, Silver Lake, and MGX. (Oracle serves as…",
+        "title": "Adobe camera app’s new feature will critique your photos using AI",
+        "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+        "summary": "Adobe is adding new AI-powered features to its experimental iOS camera app called Project Indigo, launched last year . The app previously offered pro controls, multi-frame super-resolution, and different capture modes, and is now adding features that will use LLMs (large language models) to critique photos and provide editing suggestions. Photography apps, including Apple Photos, Google Photos, and Adobe Photoshop,…",
         "source": "TechCrunch",
-        "date": "2026-07-18T15:54:24+00:00"
+        "date": "2026-07-20T15:45:00+00:00"
       },
       {
-        "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
-        "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
-        "summary": "EV fast charging has historically been lackluster. With one small exception, my charging experience was flawless. Gaps in the network still exist and EV chargers still break.",
+        "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
+        "url": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
+        "summary": "Hackers are breaking into websites that run vulnerable versions of the popular blogging software WordPress, according to several cybersecurity firms. One estimate puts the number of vulnerable WordPress websites at tens of millions as of Monday. The vulnerable versions of WordPress are 6.9.0 through 6.9.4, and 7.0.0 to 7.0.1.",
         "source": "TechCrunch",
-        "date": "2026-07-18T14:32:00+00:00"
+        "date": "2026-07-20T15:35:37+00:00"
       },
       {
-        "title": "Neil Rimer thinks the AI money is coming back out",
-        "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-        "summary": "Rimer has found ways to give back. Forbes counted 45 new AI billionaires in its 2026 rankings alone, worth a combined $2.9 trillion, and that’s before either Anthropic or OpenAI has gone public. Rimer’s two paths, voluntary or forced, have precedent from the last time American wealth concentration reached this level.",
+        "title": "YouTube clarifies policies around AI slop and upsetting videos",
+        "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+        "summary": "To discourage creators from using AI and other tools to make low-quality content, YouTube’s policy now explains that there are three types of videos under the broader category of “inauthentic content” that cannot be monetized. YouTube already had policies around AI content. The second category focuses on what YouTube calls “off-putting” content, or content designed to be distressing or emotionally manipulative to…",
         "source": "TechCrunch",
-        "date": "2026-07-18T04:47:25+00:00"
+        "date": "2026-07-20T15:23:06+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-        "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-        "summary": "403 points, 242 comments on Hacker News",
+        "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+        "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+        "summary": "Data center leases, GPU supply contracts raise liabilities at Meta, Oracle, Nikkei study shows A Meta data center in the state of Georgia. The company's off-balance-sheet debt is about $420 billion, nearly triple its transparent debt. © AP PALO ALTO, California -- Hidden debt at U.S. tech giants swelled eightfold in roughly four years to an estimated $1.65 trillion as artificial intelligence investments ballooned, a… (279 points, 153 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-20T02:51:16+00:00"
+        "date": "2026-07-21T03:56:03+00:00"
       },
       {
-        "title": "AI advice made people less accurate but more confident – sudy",
-        "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-        "summary": "Researchers found AI advice suppressed judgment suspension from 44% to 3%, accuracy from 27% to 9%, while confidence rose from 30% to 76%. People trusted wrong AI answers. Confidence, meanwhile, rose from 30% to 76%. (338 points, 190 comments on Hacker News)",
+        "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
+        "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
+        "summary": "At the end of that meeting, the Oshkosh City Council approved a contract with Flock. The very next morning, the city learned that Flock had lied . The CEO admitted Flock was used for immigration enforcement but argued that such matters were not Flock’s problem . (402 points, 121 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-19T21:18:10+00:00"
+        "date": "2026-07-21T00:33:53+00:00"
       },
       {
-        "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
-        "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
-        "summary": "Another on Apple Music. Wingdings leans heavily toward Four Tet’s dancier outputs. Four Tet’s Wingdings is available on Bandcamp and most major streaming services, including Apple Music , Spotify , Deezer , and Qobuz .",
-        "source": "The Verge",
-        "date": "2026-07-19T21:02:45+00:00"
-      },
-      {
-        "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
-        "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
-        "summary": "The film photography renaissance continues and gets more affordable. The film photography renaissance continues and gets more affordable. Even the midnight black and vanilla white feature different colored accents, making them slightly more stylish than a disposable camera.",
-        "source": "The Verge",
-        "date": "2026-07-19T19:26:06+00:00"
-      },
-      {
-        "title": "I hate that I don’t hate this song made with Suno",
-        "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-        "summary": "1010Benja’s ‘Semiramis’ Dream’ shows AI can be more than a slop engine in the right hands. 1010Benja’s ‘Semiramis’ Dream’ shows AI can be more than a slop engine in the right hands. But Benja isn’t hiding.",
-        "source": "The Verge",
-        "date": "2026-07-19T17:35:54+00:00"
-      },
-      {
-        "title": "The FBI reportedly won’t investigate ICE anymore",
-        "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
-        "summary": "The change would essentially leave ICE to investigate itself and leave little chance of agents being held accountable. The change would essentially leave ICE to investigate itself and leave little chance of agents being held accountable. The new guidance would end FBI investigations of assaults against DHS agents.",
-        "source": "The Verge",
-        "date": "2026-07-19T16:42:10+00:00"
-      },
-      {
-        "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-        "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-        "summary": "261 points, 107 comments on Hacker News",
+        "title": "Jellyfin founder Andrew leaves team",
+        "url": "https://forum.jellyfin.org/t-project-leadership-changes",
+        "summary": "242 points, 189 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-07-19T16:02:25+00:00"
+        "date": "2026-07-20T23:15:41+00:00"
       },
       {
-        "title": "Orchid is a delightfully retro and approachable hipster synth",
-        "url": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review",
-        "summary": "In 2017, I bought an old Magnus chord organ off Craigslist for $10. Just like those vintage electric chord organs, the Orchid allows you to play rich chord progressions without having to master a ton of theory or complex fingering. The Orchid isn’t for tinkering.",
+        "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+        "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+        "summary": "Songs from Beyoncé, Britney Spears, Johnny Cash, Harry Styles, and many more are on the list. Songs from Beyoncé, Britney Spears, Johnny Cash, Harry Styles, and many more are on the list. In 2024, Sony, along with Universal Music Group and Warner Records, filed a lawsuit against Udio and the AI music-maker Suno.",
         "source": "The Verge",
-        "date": "2026-07-19T15:15:00+00:00"
+        "date": "2026-07-20T22:19:12+00:00"
       },
       {
-        "title": "Birdfy&#8217;s solar-powered smart feeder is down to one of its best prices",
-        "url": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale",
-        "summary": "Birdfy’s AI-powered smart bird feeder includes a solar panel and lifetime AI bird identification at no extra cost. Birdfy’s AI-powered smart bird feeder includes a solar panel and lifetime AI bird identification at no extra cost. One of the best deals is on Netvue’s Birdfy Feeder AI-Powered Smart Bird Feeder with Camera , which has dropped to $149.99 at Birdfy and is its second-best price to date.",
+        "title": "The FCC is planning to retroactively ban disguised DJI gadgets",
+        "url": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
+        "summary": "The FCC’s currently taking public comments for 30 days first. All save XAG were brought to the FCC’s attention by Konrad Iturbe, who figured out how to track the “FCC front companies” last year. The FCC also cites our story about Xtra .",
         "source": "The Verge",
-        "date": "2026-07-19T15:00:00+00:00"
+        "date": "2026-07-20T22:16:14+00:00"
       },
       {
-        "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-        "url": "https://news.ycombinator.com/item?id=48968606",
-        "summary": "It's not even just about bowling. It's not even just about bowling. It's not even just about bowling. (2335 points, 251 comments on Hacker News)",
+        "title": "The Odyssey turned me into an IMAX believer",
+        "url": "https://www.theverge.com/entertainment/968337/the-odyssey-imax-screenings-christopher-nolan",
+        "summary": "﻿Seeing the film’s most impressive monsters in a larger format is a completely different experience. ﻿Seeing the film’s most impressive monsters in a larger format is a completely different experience. After seeing Christopher Nolan’s The Odyssey for the first time early last week, I came away impressed, but somewhat conflicted about two of the film’s more fantastical set pieces. It also helps that the movie is…",
+        "source": "The Verge",
+        "date": "2026-07-20T21:47:37+00:00"
+      },
+      {
+        "title": "SpaceX in your index fund, explained",
+        "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+        "summary": "Index funds are supposed to be the safest way to invest — does SpaceX change that? But SpaceX isn’t a reason to avoid index funds, he says. Index rebalancing funds made out like bandits .",
+        "source": "The Verge",
+        "date": "2026-07-20T21:00:00+00:00"
+      },
+      {
+        "title": "Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15",
+        "url": "https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale",
+        "summary": "The aptly-named “2K Megahits 2026 Bundle” from Humble includes 15 Steam games for $15. One of my personal favorite games, Risk of Rain 2 , is included in the bundle. The bundle also notably includes three games from the Borderlands universe.",
+        "source": "The Verge",
+        "date": "2026-07-20T20:08:51+00:00"
+      },
+      {
+        "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
+        "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
+        "summary": "The $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair. The $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair. You probably know the signature PlayStation boot sound .",
+        "source": "The Verge",
+        "date": "2026-07-20T20:06:40+00:00"
+      },
+      {
+        "title": "Ford&#8217;s $30,000 electric truck: all the news about the company&#8217;s big EV re-do",
+        "url": "https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable",
+        "summary": "The company scrapped plans to build a next-gen electric truck, codenamed T3 , and an electric commercial van. To say that Ford has struggled to make profitable electric vehicles would be an understatement. But Ford still sees EVs as the future — just not oversize ones with “no path to profitability,” like the Lightning, as Andrew Frick, president of Ford Model e and Ford Blue, said last year.",
+        "source": "The Verge",
+        "date": "2026-07-20T19:18:45+00:00"
+      },
+      {
+        "title": "Human mathematicians are being outcounterexampled",
+        "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+        "summary": "So of course my first question was “is the counterexample formalized in Lean”. Interesting data point. Another counterexample! (342 points, 138 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-19T14:41:16+00:00"
+        "date": "2026-07-20T19:03:37+00:00"
       },
       {
-        "title": "US Marshals arrest the Tate brothers in Miami",
-        "url": "https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami",
-        "summary": "The two are facing new charges of rape, sex trafficking, and ‘extreme pornography’ in the UK. The two are facing new charges of rape, sex trafficking, and ‘extreme pornography’ in the UK. Tristan Tate faces two new charges of rape, one of sexual assault, and three of sex trafficking.",
-        "source": "The Verge",
-        "date": "2026-07-19T14:20:48+00:00"
-      },
-      {
-        "title": "The Clapper was a bad smart home gadget — and a viral sensation",
-        "url": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
-        "summary": "On Version History: How a gadget that didn’t really work became a big hit anyway. On Version History: How a gadget that didn’t really work became a big hit anyway. This is the sixth and final episode of the fourth season of Version History .",
-        "source": "The Verge",
-        "date": "2026-07-19T13:28:26+00:00"
+        "title": "Nativ: Run frontier open models locally on your Mac",
+        "url": "https://blaizzy.github.io/nativ/",
+        "summary": "Download and run open models on Apple Silicon — no accounts, no subscriptions, no cloud. Run standout open models from Google, Cohere, and Liquid AI. We built in the open. (274 points, 87 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-20T18:16:08+00:00"
       }
     ]
   }
