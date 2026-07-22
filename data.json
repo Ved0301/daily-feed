@@ -1,99 +1,134 @@
 {
-  "generated_at": "2026-07-21T09:27:36.476250+00:00",
+  "generated_at": "2026-07-22T09:26:25.693159+00:00",
   "sections": {
     "research": [
       {
-        "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
-        "url": "https://arxiv.org/abs/2607.18237v1",
-        "summary": "Sheng-Yu Wang, Yotam Nitzan, Aaron Hertzmann et al. — Human visual similarity judgments are context-dependent. Existing perceptual similarity metrics, however, collapse these nuances into a single…",
+        "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2607.19345v1",
+        "summary": "Lizhe Fang, Weizhou Shen, Tianyi Tang et al. — Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. However, we identify…",
         "source": "arXiv",
-        "date": "2026-07-20T17:59:51Z"
+        "date": "2026-07-21T17:59:21Z"
       },
       {
-        "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
-        "url": "https://arxiv.org/abs/2607.18236v1",
-        "summary": "Gaoyue Zhou, Zichen Jeff Cui, Ada Langford et al. — Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global token, or rely on…",
+        "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
+        "url": "https://arxiv.org/abs/2607.19344v1",
+        "summary": "Rahul Sajnani, Yulia Gryaditskaya, Radomír Měch et al. — Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reliably achieved…",
         "source": "arXiv",
-        "date": "2026-07-20T17:59:41Z"
+        "date": "2026-07-21T17:59:12Z"
       },
       {
-        "title": "Automated Discovery Has No Universally Superior Harness",
-        "url": "https://arxiv.org/abs/2607.18235v1",
-        "summary": "Akshat Gupta, Jermaine Lei, Alexander Lu et al. — Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about archives, parent…",
+        "title": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
+        "url": "https://arxiv.org/abs/2607.19338v1",
+        "summary": "Qijia He, Jiayi Cheng, Chenqian Le et al. — Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat such failures as…",
         "source": "arXiv",
-        "date": "2026-07-20T17:59:37Z"
+        "date": "2026-07-21T17:56:49Z"
       },
       {
-        "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
-        "url": "https://arxiv.org/abs/2607.18232v1",
-        "summary": "Kevin Du, Clara Kümpel, Michelle Wastl et al. — Users frequently express their beliefs to large language models (LLMs). In some situations, the LLM should accept these contextual beliefs as true.",
+        "title": "Agents in the Wild: Where Research Meets Deployment",
+        "url": "https://arxiv.org/abs/2607.19336v1",
+        "summary": "Grace Hui Yang, Pranav N. Venkit, Hooman Sedghamiz et al. — Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes to production scale…",
         "source": "arXiv",
-        "date": "2026-07-20T17:58:31Z"
+        "date": "2026-07-21T17:55:10Z"
       },
       {
-        "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
-        "url": "https://arxiv.org/abs/2607.18230v1",
-        "summary": "Yi Tang, Xinyi Shang, Jiacheng Cui et al. — Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cross-model and…",
+        "title": "1-Lipschitz Neural Networks on Hadamard Manifolds",
+        "url": "https://arxiv.org/abs/2607.19335v1",
+        "summary": "Davide Murari, Marta Ghirardelli, Ben Adcock et al. — Controlling the Lipschitz constant of a neural network is a standard way to promote robustness and stability. Most existing constraining strategies are designed for Euclidean spaces.",
         "source": "arXiv",
-        "date": "2026-07-20T17:58:13Z"
+        "date": "2026-07-21T17:54:34Z"
       },
       {
-        "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
-        "url": "https://arxiv.org/abs/2607.18228v1",
-        "summary": "Brian K Chen — To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exactly labeled syllogistic reasoning benchmark while keeping the model fixed. Soft prefixes are opaque continuous…",
+        "title": "Fundamental limits of distributed multiclass classification from simple binary decisions",
+        "url": "https://arxiv.org/abs/2607.19334v1",
+        "summary": "Ioannis Papageorgiou, Srinivas Nomula, Ayalvadi Ganesh et al. — We consider the problem of constructing a $K$-class classifier from the combination of $O(\\log K)$ simple binary classifiers -- this is a natural paradigm to construct a sophisticated classifier in a distributed manner…",
         "source": "arXiv",
-        "date": "2026-07-20T17:58:05Z"
+        "date": "2026-07-21T17:53:44Z"
       },
       {
-        "title": "Causal Discovery on Irregular Time Series",
-        "url": "https://arxiv.org/abs/2607.18226v1",
-        "summary": "Martim Penim, Ricardo Ribeiro Pereira, Jacopo Bono et al. — Causal discovery methods have shown strong performance in temporal systems, but they typically rely on regular and discrete lag structures, limiting their applicability to regularly sampled data.",
+        "title": "Provable diffusion-based posterior sampling for linear inverse problems via DDIM",
+        "url": "https://arxiv.org/abs/2607.19333v1",
+        "summary": "Yuchen Jiao, Na Li, Changxiao Cai et al. — Diffusion-based methods have achieved remarkable empirical success in solving inverse problems. However, many existing posterior samplers either lack rigorous theoretical guarantees or incur substantial computational…",
         "source": "arXiv",
-        "date": "2026-07-20T17:57:45Z"
+        "date": "2026-07-21T17:53:36Z"
       },
       {
-        "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
-        "url": "https://arxiv.org/abs/2607.18225v1",
-        "summary": "Masahiro Kato, Taka Kato — We propose one-step and two-step methods for policy learning with retrieval-augmented generation (RAG). We formulate RAG-based action selection under the potential outcome framework.",
+        "title": "ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling",
+        "url": "https://arxiv.org/abs/2607.19332v1",
+        "summary": "Chirag Vashist, Ke Li — Generative models have undergone many generations of evolution, from VAEs/GANs to diffusion/flow matching. Along the way, the underlying techniques have become more complicated and various beliefs about what drives…",
         "source": "arXiv",
-        "date": "2026-07-20T17:57:20Z"
+        "date": "2026-07-21T17:51:38Z"
       },
       {
-        "title": "GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis",
-        "url": "https://arxiv.org/abs/2607.18218v1",
-        "summary": "Naoto Usuyama, Jeya Maria Jose Valanarasu, Sicong Yao et al. — Foundation models have emerged as a driving force in computational pathology, with the potential to transform cancer diagnosis, prognosis, and treatment selection by learning transferable representations from…",
+        "title": "ISO: An RLVR-Native Optimization Stack",
+        "url": "https://arxiv.org/abs/2607.19331v1",
+        "summary": "Hanqing Zhu, Wenyan Cong, Zhizhou Sha et al. — Reinforcement learning with verifiable rewards (RLVR) is rapidly advancing the reasoning capabilities of language models, yet the optimization layer that converts reward feedback into weight-space updates remains poorly…",
         "source": "arXiv",
-        "date": "2026-07-20T17:52:33Z"
+        "date": "2026-07-21T17:51:36Z"
       },
       {
-        "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
-        "url": "https://arxiv.org/abs/2607.18213v1",
-        "summary": "Yuhang Wang, Yuling Shi, Shaoqiu Zhang et al. — Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code classifier, we…",
+        "title": "Associative Emotional Learning in Convolutional Neural Networks",
+        "url": "https://arxiv.org/abs/2607.19327v1",
+        "summary": "Seowung Leem, Andreas Keil, Mingzhou Ding et al. — Associative emotional learning enables organisms to adaptively link pleasant or unpleasant outcomes to the presence of predictive stimuli. Whereas computational models such as the Rescorla-Wagner model have shed light…",
         "source": "arXiv",
-        "date": "2026-07-20T17:47:44Z"
+        "date": "2026-07-21T17:49:19Z"
       },
       {
-        "title": "Unveiling Invariant and Transferable Latent Factors Across Heterogeneous Environments via ATLAS",
-        "url": "https://arxiv.org/abs/2607.18209v1",
-        "summary": "Yihong Gu, Katherine Liao, Tianxi Cai — This paper considers a multi-environment factor model in which high-dimensional covariates are collected from heterogeneous environments, with auxiliary labels available in a subset of these environments.",
+        "title": "Selective State-Space Adaptation and Retrieval for Language Model Reasoning",
+        "url": "https://arxiv.org/abs/2607.19326v1",
+        "summary": "Atahan Dokme, Larry Heck — Low-rank adaptation introduces a static learned update applied identically to every input. The update provides task-level adaptation but does not explicitly represent token-level or instance-level state variation.",
         "source": "arXiv",
-        "date": "2026-07-20T17:44:57Z"
+        "date": "2026-07-21T17:47:57Z"
       },
       {
-        "title": "Learning Adaptive Safety Margins for Visual Navigation",
-        "url": "https://arxiv.org/abs/2607.18200v1",
-        "summary": "Junyi Hu, Shuaihang Yuan, Geeta Chandra Raju Bethala et al. — Robots in cluttered indoor spaces often fail not because they cannot generate collision-free paths, but because a fixed safety margin is mis-calibrated: conservative margins cause detours and timeouts, while permissive…",
+        "title": "Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness",
+        "url": "https://arxiv.org/abs/2607.19322v1",
+        "summary": "Xilun Chen, Zhaleh Feizollahi, Ross Goodwin et al. — Evaluating the factuality of long-form generations has focused predominantly on precision, measuring whether the claims a model makes are correct. The dominant decompose-search-verify pipeline catches incorrect claims…",
         "source": "arXiv",
-        "date": "2026-07-20T17:40:25Z"
+        "date": "2026-07-21T17:42:50Z"
       }
     ],
     "labs": [
+      {
+        "title": "Introducing the ChatGPT for small business program",
+        "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+        "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+        "source": "OpenAI",
+        "date": "2026-07-21T17:00:00+00:00"
+      },
+      {
+        "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+        "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+        "summary": "Gemini 3.6 Flash builds directly on developer and customer feedback from 3.5 Flash. 3.5 Flash-Lite executes high volume tasks at a lower latency than 3.5 Flash. 3.5 Flash-Lite enables efficient scaling for agentic systems.",
+        "source": "Google DeepMind",
+        "date": "2026-07-21T15:16:30+00:00"
+      },
+      {
+        "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+        "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+        "source": "OpenAI",
+        "date": "2026-07-21T07:00:00+00:00"
+      },
+      {
+        "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+        "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+        "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+        "source": "OpenAI",
+        "date": "2026-07-21T00:00:00+00:00"
+      },
       {
         "title": "Safety and alignment in an era of long-horizon models",
         "url": "https://openai.com/index/safety-alignment-long-horizon-models",
         "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
         "source": "OpenAI",
         "date": "2026-07-20T10:00:00+00:00"
+      },
+      {
+        "title": "Introducing Gemini 3.5 Flash Cyber",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+        "summary": "Here, 3.5 Flash Cyber significantly surpassed mainline 3.5 Flash and 3.6 Flash. The results showed a significant uplift from 3.5 Flash Cyber compared to 3.5 Flash. Moreover, 3.5 Flash Cyber consistently discovered more unique vulnerabilities compared with mainline 3.5 Flash and Claude Opus 4.6.",
+        "source": "Google DeepMind",
+        "date": "2026-07-17T15:00:11+00:00"
       },
       {
         "title": "A scorecard for the AI age",
@@ -136,213 +171,178 @@
         "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
         "source": "OpenAI",
         "date": "2026-07-15T12:00:00+00:00"
-      },
-      {
-        "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-        "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-        "source": "OpenAI",
-        "date": "2026-07-15T10:00:00+00:00"
-      },
-      {
-        "title": "How to manage AI investments in the agentic era",
-        "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-        "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-        "source": "OpenAI",
-        "date": "2026-07-14T10:00:00+00:00"
-      },
-      {
-        "title": "How sales teams use ChatGPT Work",
-        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-        "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-        "source": "OpenAI",
-        "date": "2026-07-14T00:00:00+00:00"
-      },
-      {
-        "title": "How data science teams use ChatGPT Work",
-        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-        "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-        "source": "OpenAI",
-        "date": "2026-07-14T00:00:00+00:00"
-      },
-      {
-        "title": "Empowering India’s next generation of innovators with ATL Saathi",
-        "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-        "summary": "Atal Tinkering Labs (ATL) is bringing access to new technology—such as 3D printing, IoT, and robotics—for over 1.1 crore students across India. The application provides summarized modules, AI-generated infographics, video overviews, and interactive quizzes for 12 core modules from the ATL prescribed curriculum. Powering the ATL Saathi, the Gemini model provides the underlying intelligence to transform tinkering labs…",
-        "source": "Google DeepMind",
-        "date": "2026-07-13T12:37:28+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-        "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-        "summary": "A federal judge gave final approval Monday of Anthropic’s landmark $1.5 billion settlement of a class action copyright lawsuit, Reuters reported . District Court for the Northern District of California issued a preliminary approval of the settlement last year, after ruling that Anthropic had illegally downloaded and stored millions of copyrighted books. Alsup sided with Anthropic on the core issue.",
+        "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+        "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+        "summary": "Citing a meta-analysis of learning research , Synthesia argues that most corporate training — including, implicitly, its own core video product — stops short of actually changing behavior. “Video performs way better than text or sending out a document,” Synthesia CEO and co-founder Victor Riparbelli told TechCrunch. As with Synthesia’s main product, customers can either create their own training programs on the…",
         "source": "TechCrunch",
-        "date": "2026-07-21T00:12:24+00:00"
+        "date": "2026-07-22T08:00:00+00:00"
       },
       {
-        "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
-        "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
-        "summary": "Colossal co-founder and CEO Ben Lamm told TechCrunch last year that the company sees three revenue streams for the business. Lamm told TechCrunch last year that the company also plans to spin off its artificial animal womb technology, which could have applications for human fertility treatment. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
+        "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+        "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+        "summary": "Which is what made a weekend rumor about Anthropic acquiring robotics startup Physical Intelligence stand out. Physical Intelligence isn’t some obscure robotics shop. Anthropic hasn’t built anything resembling OpenAI’s hardware lab.",
         "source": "TechCrunch",
-        "date": "2026-07-20T23:39:35+00:00"
+        "date": "2026-07-22T03:20:57+00:00"
       },
       {
-        "title": "Trump’s latest AI czar has already resigned",
-        "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-        "summary": "Chris Fall, the director of the Center for AI Standards and Innovation (CAISI), has resigned, the agency confirmed to multiple news outlets. Commerce Department invoked an obscure export control directive that effectively forced Anthropic to pull its Mythos and Fable models from the market. The administration was weighing efforts to somehow ban Chinese open models, Axios reported .",
+        "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
+        "url": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+        "summary": "While many newer VC firms are still struggling to raise fresh capital, Dimension Capital, founded in late 2022, has been raising increasingly larger funds in quick succession. On Tuesday, the New York firm — which invests at the intersection of science and compute — announced an $800 million fund, which is 60% larger than its $500 million second vehicle announced just 18 months ago. The firm’s other notable…",
         "source": "TechCrunch",
-        "date": "2026-07-20T22:21:04+00:00"
+        "date": "2026-07-22T01:27:58+00:00"
       },
       {
-        "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-        "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-        "summary": "Alphabet, Google’s parent company, is designing a new server chip to help its in-house Gemini models operate more efficiently. In June, OpenAI announced its first custom chip, an inference processor dubbed Jalapeño . News of the more efficient Frozen v2 chip appears to have assuaged investors, giving Google a boost ahead of its earnings report later this week.",
+        "title": "Meta is testing an AI bedtime story app for people with no imagination",
+        "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+        "summary": "Meta is working on an AI storytelling app called StoryKit , which creates AI-generated children’s stories with custom characters, settings, lessons, and music. StoryKit was first spotted in the App Store by 9to5Mac . Meta confirmed to TechCrunch that the company is piloting StoryKit in select countries to see how parents like it.",
         "source": "TechCrunch",
-        "date": "2026-07-20T21:21:15+00:00"
+        "date": "2026-07-21T23:55:10+00:00"
       },
       {
-        "title": "AI’s most important protocol is getting a little bit easier to use",
-        "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-        "summary": "The server replies with its own capabilities and hands back a session ID… From then on, the client sends that session ID on every request so the server knows it’s the same conversation. Picture a real deployment. That’s been a significant headache for anyone running an MCP server at scale, and part of the reason we haven’t seen more companies ship large-scale, first-party MCP integrations despite all the hype around…",
+        "title": "These are the countries moving to ban social media for children",
+        "url": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
+        "summary": "Australia became the world’s first country to ban social media for children under 16 in December 2025. Denmark is set to ban social media platforms for children under 15. The Malaysian government said in November 2025 that it plans to ban social media for children under 16.",
         "source": "TechCrunch",
-        "date": "2026-07-20T20:50:40+00:00"
+        "date": "2026-07-21T20:57:35+00:00"
       },
       {
-        "title": "X relaunches a rebuilt Android app after year-long effort",
-        "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-        "summary": "Nearly a year ago, Elon Musk-owned X announced it would begin rebuilding the Android version of its app, which had not held up well compared with its iOS counterpart. We've completely rebuilt the Android X app from the ground up. Existing Android users can get the new X app by updating their existing app through the Google Play Store.",
+        "title": "OpenAI says Hugging Face was breached by its pre-release models",
+        "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+        "summary": "OpenAI admitted Tuesday that one of its AI models breached the systems of Hugging Face, the unaffiliated AI hosting platform, during an internal cybersecurity test that went awry. The models reportedly escaped their isolated testing environment and reached Hugging Face’s systems from there. “After gaining Internet access, the models inferred that Hugging Face potentially hosted models, datasets and solutions for…",
         "source": "TechCrunch",
-        "date": "2026-07-20T19:37:39+00:00"
+        "date": "2026-07-21T20:56:55+00:00"
       },
       {
-        "title": "OpenAI is scared of open-weight models. Should the US be?",
-        "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-        "summary": "Concerns over Chinese models come in several flavors. Advocates for open AI say that the frontier companies are creating a false binary between innovation and closed models. Some US companies, including Thinking Machines Lab and Nvidia, are trying to make a business around releasing open models.",
+        "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+        "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+        "summary": "Twitter and Block co-founder Jack Dorsey announced a new app on Tuesday called Buzz . Positioned as a challenger to Slack and GitHub, Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversations. Dorsey wrote on X that Buzz is “model-agnostic, decentralized, self-sovereign, and open source.” This product seems to be more than just a Dorsey passion project.",
         "source": "TechCrunch",
-        "date": "2026-07-20T19:33:25+00:00"
+        "date": "2026-07-21T19:43:41+00:00"
       },
       {
-        "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
-        "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
-        "summary": "But these financial rails were built for human-initiated transactions, not autonomous AI agents. By integrating Natural’s infrastructure, companies can allow their agents to make autonomous payments, collect funds, and transact with both humans and other agents. Green was attracted by Natural’s broader ambitions.",
+        "title": "AI and the rise of the universal entertainment app",
+        "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+        "summary": "For a decade, platforms fought over who would dominate a single format: music, video, podcasts, audiobooks. Meanwhile, YouTube, originally the home to longer-form creator content, moved into short-form content to compete with TikTok, while also adding dedicated space for podcasts , gaming content, music, movies and TV, sports and news, shopping, and more. Even TikTok, largely known for short videos, offers support…",
         "source": "TechCrunch",
-        "date": "2026-07-20T19:11:25+00:00"
+        "date": "2026-07-21T19:39:30+00:00"
       },
       {
-        "title": "Judge pauses $110B Paramount-Warner Bros. merger",
-        "url": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
-        "summary": "Paramount Skydance’s proposed acquisition of Warner Bros. Discovery (WBD) has hit a roadblock after a judge temporarily paused the deal in response to a lawsuit filed by a coalition of 12 state attorneys general who argue that the merger would harm competition. Aisha is a consumer news reporter at TechCrunch.",
+        "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
+        "url": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
+        "summary": "Battery materials startup Sila announced Tuesday that it raised $300 million to expand its factory in Washington state to produce enough anode material for more than 100,000 EVs. Sila previously announced deals to supply its anode material to Mercedes and Panasonic . Sila has been developing the material for the last 15 years.",
         "source": "TechCrunch",
-        "date": "2026-07-20T17:58:50+00:00"
+        "date": "2026-07-21T19:36:35+00:00"
       },
       {
-        "title": "Adobe camera app’s new feature will critique your photos using AI",
-        "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-        "summary": "Adobe is adding new AI-powered features to its experimental iOS camera app called Project Indigo, launched last year . The app previously offered pro controls, multi-frame super-resolution, and different capture modes, and is now adding features that will use LLMs (large language models) to critique photos and provide editing suggestions. Photography apps, including Apple Photos, Google Photos, and Adobe Photoshop,…",
+        "title": "Einride bets $38M on EV charging as it scales electric trucking",
+        "url": "https://techcrunch.com/2026/07/21/einride-bets-38m-on-ev-charging-as-it-scales-electric-trucking/",
+        "summary": "Swedish electric and autonomous trucking company Einride has agreed to acquire EV charging startup Flipturn in an all-stock deal worth $38 million. The acquisition — Einride’s first as a publicly traded company — will expand its EV-charging ecosystem as it works to scale its electric trucking business. Einride is perhaps best known for its unusual-looking cabless autonomous podlike trucks.",
         "source": "TechCrunch",
-        "date": "2026-07-20T15:45:00+00:00"
+        "date": "2026-07-21T18:48:38+00:00"
       },
       {
-        "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
-        "url": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
-        "summary": "Hackers are breaking into websites that run vulnerable versions of the popular blogging software WordPress, according to several cybersecurity firms. One estimate puts the number of vulnerable WordPress websites at tens of millions as of Monday. The vulnerable versions of WordPress are 6.9.0 through 6.9.4, and 7.0.0 to 7.0.1.",
+        "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
+        "url": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
+        "summary": "Apple is reportedly teaming up with deferred payment processor Klarna to launch a new lease-to-own program for its devices. Bloomberg reported Tuesday that the program — dubbed Apple Upgrade — is set to launch next Tuesday, July 28. A leasing program is an obvious strategy for Apple at this point.",
         "source": "TechCrunch",
-        "date": "2026-07-20T15:35:37+00:00"
+        "date": "2026-07-21T18:18:43+00:00"
       },
       {
-        "title": "YouTube clarifies policies around AI slop and upsetting videos",
-        "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-        "summary": "To discourage creators from using AI and other tools to make low-quality content, YouTube’s policy now explains that there are three types of videos under the broader category of “inauthentic content” that cannot be monetized. YouTube already had policies around AI content. The second category focuses on what YouTube calls “off-putting” content, or content designed to be distressing or emotionally manipulative to…",
+        "title": "Data centers expected to use 4x more electricity by 2035",
+        "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+        "summary": "A surge in AI compute will push data center capacity to nearly 200 gigawatts over the next decade, the report predicts. In the coming decade, BloombergNEF expects the majority of new data centers to hit electrical grids that are already strained. Despite the U.S. claiming a majority of AI compute, data centers will continue to grow elsewhere.",
         "source": "TechCrunch",
-        "date": "2026-07-20T15:23:06+00:00"
+        "date": "2026-07-21T18:06:38+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-        "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-        "summary": "Data center leases, GPU supply contracts raise liabilities at Meta, Oracle, Nikkei study shows A Meta data center in the state of Georgia. The company's off-balance-sheet debt is about $420 billion, nearly triple its transparent debt. © AP PALO ALTO, California -- Hidden debt at U.S. tech giants swelled eightfold in roughly four years to an estimated $1.65 trillion as artificial intelligence investments ballooned, a… (279 points, 153 comments on Hacker News)",
+        "title": "LG to ban residential proxies from smart TV apps",
+        "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+        "summary": "Proxy SDK prevalence among smart TV apps for LG (webOS) and Samsung (Tizen OS) televisions. Spur’s report found the residential proxy network Bright Data accounted for a majority of proxy SDKs across both Samsung and LG smart TVs. Good – residential proxy providers are scum. (267 points, 237 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-21T03:56:03+00:00"
+        "date": "2026-07-22T01:52:31+00:00"
       },
       {
-        "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
-        "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
-        "summary": "At the end of that meeting, the Oshkosh City Council approved a contract with Flock. The very next morning, the city learned that Flock had lied . The CEO admitted Flock was used for immigration enforcement but argued that such matters were not Flock’s problem . (402 points, 121 comments on Hacker News)",
+        "title": "Samsung Galaxy Unpacked July 2026: How to watch",
+        "url": "https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch",
+        "summary": "Get ready for another foldable-filled show. Get ready for another foldable-filled show. Samsung is expected to reveal some new wearables as well, including a new Galaxy Watch Ultra 2.",
+        "source": "The Verge",
+        "date": "2026-07-22T01:00:00+00:00"
+      },
+      {
+        "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+        "url": "https://fireworks.ai/blog/kimik3-fable",
+        "summary": "K3 is a frontier quality open model at a fraction of the cost. Per-task routing always out performs any single model run: The oracle router choose K3, 72-96% of task traffic. Kimi K3 + Fable routed together unlocks their best qualities at the best price. (608 points, 337 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-21T00:33:53+00:00"
+        "date": "2026-07-21T22:35:24+00:00"
       },
       {
-        "title": "Jellyfin founder Andrew leaves team",
-        "url": "https://forum.jellyfin.org/t-project-leadership-changes",
-        "summary": "242 points, 189 comments on Hacker News",
+        "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+        "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+        "summary": "No amount of clever editing can make this Seedance-generated mess interesting.﻿ No amount of clever editing can make this Seedance-generated mess interesting.﻿ On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that’s loosely based on Peter Watts’ 2014 novel Echopraxia . Blomkamp seems to think that Nightborne is a strong proof of…",
+        "source": "The Verge",
+        "date": "2026-07-21T22:06:43+00:00"
+      },
+      {
+        "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+        "summary": "The announcement about a serious security issue oddly reads like an advertisement for how capable OpenAI’s technology is. The announcement about a serious security issue oddly reads like an advertisement for how capable OpenAI’s technology is. OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing.",
+        "source": "The Verge",
+        "date": "2026-07-21T21:48:54+00:00"
+      },
+      {
+        "title": "OpenAI and Hugging Face address security incident during model evaluation",
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+        "summary": "1134 points, 777 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-07-20T23:15:41+00:00"
+        "date": "2026-07-21T20:09:52+00:00"
       },
       {
-        "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
-        "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-        "summary": "Songs from Beyoncé, Britney Spears, Johnny Cash, Harry Styles, and many more are on the list. Songs from Beyoncé, Britney Spears, Johnny Cash, Harry Styles, and many more are on the list. In 2024, Sony, along with Universal Music Group and Warner Records, filed a lawsuit against Udio and the AI music-maker Suno.",
-        "source": "The Verge",
-        "date": "2026-07-20T22:19:12+00:00"
-      },
-      {
-        "title": "The FCC is planning to retroactively ban disguised DJI gadgets",
-        "url": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
-        "summary": "The FCC’s currently taking public comments for 30 days first. All save XAG were brought to the FCC’s attention by Konrad Iturbe, who figured out how to track the “FCC front companies” last year. The FCC also cites our story about Xtra .",
-        "source": "The Verge",
-        "date": "2026-07-20T22:16:14+00:00"
-      },
-      {
-        "title": "The Odyssey turned me into an IMAX believer",
-        "url": "https://www.theverge.com/entertainment/968337/the-odyssey-imax-screenings-christopher-nolan",
-        "summary": "﻿Seeing the film’s most impressive monsters in a larger format is a completely different experience. ﻿Seeing the film’s most impressive monsters in a larger format is a completely different experience. After seeing Christopher Nolan’s The Odyssey for the first time early last week, I came away impressed, but somewhat conflicted about two of the film’s more fantastical set pieces. It also helps that the movie is…",
-        "source": "The Verge",
-        "date": "2026-07-20T21:47:37+00:00"
-      },
-      {
-        "title": "SpaceX in your index fund, explained",
-        "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-        "summary": "Index funds are supposed to be the safest way to invest — does SpaceX change that? But SpaceX isn’t a reason to avoid index funds, he says. Index rebalancing funds made out like bandits .",
-        "source": "The Verge",
-        "date": "2026-07-20T21:00:00+00:00"
-      },
-      {
-        "title": "Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15",
-        "url": "https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale",
-        "summary": "The aptly-named “2K Megahits 2026 Bundle” from Humble includes 15 Steam games for $15. One of my personal favorite games, Risk of Rain 2 , is included in the bundle. The bundle also notably includes three games from the Borderlands universe.",
-        "source": "The Verge",
-        "date": "2026-07-20T20:08:51+00:00"
-      },
-      {
-        "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
-        "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
-        "summary": "The $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair. The $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair. You probably know the signature PlayStation boot sound .",
-        "source": "The Verge",
-        "date": "2026-07-20T20:06:40+00:00"
-      },
-      {
-        "title": "Ford&#8217;s $30,000 electric truck: all the news about the company&#8217;s big EV re-do",
-        "url": "https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable",
-        "summary": "The company scrapped plans to build a next-gen electric truck, codenamed T3 , and an electric commercial van. To say that Ford has struggled to make profitable electric vehicles would be an understatement. But Ford still sees EVs as the future — just not oversize ones with “no path to profitability,” like the Lightning, as Andrew Frick, president of Ford Model e and Ford Blue, said last year.",
-        "source": "The Verge",
-        "date": "2026-07-20T19:18:45+00:00"
-      },
-      {
-        "title": "Human mathematicians are being outcounterexampled",
-        "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-        "summary": "So of course my first question was “is the counterexample formalized in Lean”. Interesting data point. Another counterexample! (342 points, 138 comments on Hacker News)",
+        "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+        "url": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+        "summary": "Sign up for breaking news, reviews, opinion, top tech deals, and more. The EU's top court just confirmed: Geo-blocking is the copyright holder's problem, not the VPN's. The Anne Frank Fonds, which holds the Dutch copyright, sued. (550 points, 92 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-20T19:03:37+00:00"
+        "date": "2026-07-21T19:43:59+00:00"
       },
       {
-        "title": "Nativ: Run frontier open models locally on your Mac",
-        "url": "https://blaizzy.github.io/nativ/",
-        "summary": "Download and run open models on Apple Silicon — no accounts, no subscriptions, no cloud. Run standout open models from Google, Cohere, and Liquid AI. We built in the open. (274 points, 87 comments on Hacker News)",
+        "title": "Substack adds an AI detector to help spot blogs written by no one",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+        "summary": "The new tool can pick up on ‘Claudefishing’ across posts, comments, notes, and replies. The new tool can pick up on ‘Claudefishing’ across posts, comments, notes, and replies. Best notes that “Pangram can only detect whether AI was used to make the text, not whether great human care went into creating it, nor whether AI tools were used as a source.” But the goal, according to Best, is to make it easier for someone…",
+        "source": "The Verge",
+        "date": "2026-07-21T19:22:28+00:00"
+      },
+      {
+        "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+        "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+        "summary": "District Judge Araceli Martínez-Olguín said in a Monday ruling that the class-action settlement provides “meaningful relief” to affected authors and publishers. District Judge William Alsup issued the preliminary approval in San Francisco federal court last September and has since retired. Bestselling thriller novelist Andrea Bartz first brought the suit with two other authors in 2024. (351 points, 275 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-20T18:16:08+00:00"
+        "date": "2026-07-21T19:04:39+00:00"
+      },
+      {
+        "title": "Advertise in ChatGPT",
+        "url": "https://ads.openai.com/",
+        "summary": "739 points, 528 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-07-21T18:58:44+00:00"
+      },
+      {
+        "title": "FreeInk: Open ecosystem for e-readers",
+        "url": "https://freeink.org/",
+        "summary": "552 points, 119 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-07-21T18:39:06+00:00"
+      },
+      {
+        "title": "Peak Design’s modular Field Bracket has a finder tag built-in",
+        "url": "https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter",
+        "summary": "The Peak Design Field Bracket is part L-Bracket, part hand grip, part cheese plate. Peak’s Beacon Finder Tag is a Peak Design-branded finder that works with Apple Find My and Google Find Hub. The Beacon Finder Tag is just one of the accessories Peak Design is selling alongside the Field Bracket.",
+        "source": "The Verge",
+        "date": "2026-07-21T18:12:02+00:00"
       }
     ]
   }
