@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T09:22:27.934064+00:00",
+  "generated_at": "2026-07-25T09:03:03.688946+00:00",
   "sections": {
     "research": [
       {
@@ -175,174 +175,174 @@
     ],
     "startups": [
       {
-        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-        "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-        "summary": "For months, AI giants have devised special vetted programs and strict guardrails to limit the use of their models by malicious hackers. Both Anthropic, with its other models, and OpenAI offer cybersecurity researchers programs they can apply to get vetted and — if approved — access models with fewer cybersecurity restrictions: OpenAI’s Trusted Access for Cyber program and Anthropic’s Cyber Verification Program .…",
+        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+        "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+        "summary": "OpenAI launched its first piece of hardware last week — a fancy little keypad built to pair with ChatGPT. OpenAI sent TechCrunch a Micro test unit. Micro’s buttons are color-coded.",
         "source": "TechCrunch",
-        "date": "2026-07-24T01:00:00+00:00"
+        "date": "2026-07-25T00:23:11+00:00"
       },
       {
-        "title": "Meet the judges who will crown Australia’s next breakout startup",
-        "url": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
-        "summary": "Stripe doesn’t just sponsor Startup Battlefield — the company is also deeply embedded in the startup ecosystem. Second place takes $5,000 in Stripe credits. Third place takes $2,000 in Stripe credits.",
+        "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+        "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+        "summary": "In May, on the first Starship V3 flight, SpaceX encountered a failure of the Starship’s Super Heavy booster as it separated from the upper stage of the rocket. SpaceX was able to perform a simulated landing of the upper stage of Starship during Friday’s launch after it deployed the Starlink satellites. SpaceX had better luck with the Starship V3 upper stage during Friday’s launch.",
         "source": "TechCrunch",
-        "date": "2026-07-24T00:05:00+00:00"
+        "date": "2026-07-24T23:25:47+00:00"
       },
       {
-        "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
-        "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
-        "summary": "Mobileye founder and CEO Amnon Shashua plans to step down from the top leadership post after nearly three decades, just as the company pushes into robotaxis and humanoid robots. Shashua will remain CEO until Mobileye hires a replacement, according to a regulatory filing Thursday. In January, the company acquired Shashua’s humanoid robotics startup Mentee Robotics for $900 million , which Shashua called part of…",
+        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+        "summary": "Prentis didn’t respond to TechCrunch’s request for comment. Ritankar Das, CEO of Prentis, is also the founder of Titan, a holding company that builds and operates AI companies. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-07-23T22:40:08+00:00"
+        "date": "2026-07-24T22:25:58+00:00"
       },
       {
-        "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-        "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-        "summary": "Chipmaker AMD is taking aim at competitor Nvidia with its latest hardware release: a rack-scale system designed to power computing needs of the world’s largest AI labs. Nvidia has historically dominated this market with its Vera Rubin and Grace Blackwell rack-scale systems. AMD also introduced Thursday its Venice-X CPU, which is designed for data centers and to handle high-computing workloads.",
+        "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
+        "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
+        "summary": "The brand-new Smart Money Stage will be where fintech, payments, and AI collide. And if you still need some convincing, let’s dive into the Smart Money Stage’s programming: Stablecoins and instant payments are changing how money moves around the world. Airwallex, now valued at $11 billion by its investors, is building an AI native financial operating system, helping companies move money across borders, manage global…",
         "source": "TechCrunch",
-        "date": "2026-07-23T20:33:02+00:00"
+        "date": "2026-07-24T22:10:00+00:00"
       },
       {
-        "title": "Patreon lays off 20% of its workforce",
-        "url": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
-        "summary": "Patreon is laying off 20% of its workforce, or 93 people, CEO Jack Conte told employees on Thursday. Aisha is a consumer news reporter at TechCrunch. You can contact or verify outreach from Aisha by emailing aisha@techcrunch.com or via encrypted message at aisha_malik.01 on Signal.",
+        "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
+        "url": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
+        "summary": "Australia became the world’s first country to ban social media for children under 16 in December 2025. Denmark is set to ban social media platforms for children under 15. The Malaysian government said in November 2025 that it plans to ban social media for children under 16.",
         "source": "TechCrunch",
-        "date": "2026-07-23T20:30:07+00:00"
+        "date": "2026-07-24T21:15:00+00:00"
       },
       {
-        "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
-        "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
-        "summary": "Insurance tech, data room software, and coffee-shop startup Corgi is reportedly raising yet another round that closely follows its last raise and would double its valuation, sources have told Forbes . Corgi announced its last round, the B1 round of $106 million at a $2.6 billion valuation at the end of May, about eight weeks ago. Corgi offers AI-powered insurance.",
+        "title": "Waymo reportedly mulling a breakup with Uber",
+        "url": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
+        "summary": "Uber said the contract with Waymo that covers Austin and Atlanta ends in May 2028. This all follows months of rising tensions between Waymo and Uber. Waymo, meanwhile, has wound up opposite Uber in a number of fresh policy fights over robotaxi regulations.",
         "source": "TechCrunch",
-        "date": "2026-07-23T20:13:24+00:00"
+        "date": "2026-07-24T20:43:35+00:00"
       },
       {
-        "title": "Tesla’s door handles may spur new US safety rules",
-        "url": "https://techcrunch.com/2026/07/23/teslas-door-handles-may-spur-new-u-s-safety-rules/",
-        "summary": "The National Highway Traffic Safety Administration (NHTSA) made the announcement in response to a petition that asked the agency to open a safety defect investigation into the emergency mechanical door release design on 2022 Tesla Model 3 vehicles. The petition argued that door release doesn’t comply with federal motor vehicle standards. While Tesla vehicles do have manual door releases, they are located only inside…",
+        "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
+        "url": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
+        "summary": "Department of Justice has charged two Volkswagen engineers with securities fraud for an alleged insider-trading scheme connected to the German automaker’s joint venture with Rivian. Stamp and Plank then allegedly sold their Rivian positions, with Stamp realizing about $250,000 in profits, Plank realizing about $50,000, and Plank’s close family member realizing about $12,000, as detailed in the indictment. Rivian…",
         "source": "TechCrunch",
-        "date": "2026-07-23T20:06:21+00:00"
+        "date": "2026-07-24T19:56:23+00:00"
       },
       {
-        "title": "Meta drops out of a major clean energy pact as its natural gas buildout accelerates",
-        "url": "https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/",
-        "summary": "Over the past year, Meta has funded the construction of at least a dozen natural gas power plants, including one project that alone will burn enough natural gas to generate as much electricity as the entire state of South Dakota uses. Two months later, Meta said it would build three large natural gas power plants in Louisiana to supply electricity to its Hyperion data center. Meta can still claim to be 100%…",
+        "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+        "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+        "summary": "Over the past three months, Poke users exchanged more than 100 million messages on the platform, Cognition said. Poke plans to remain on Apple’s platform. However, next year the team will experiment with how both Poke and Devin can improve, with Poke turning to Cognition’s newest software engineering model SWE-1.7 for some tasks.",
         "source": "TechCrunch",
-        "date": "2026-07-23T19:41:54+00:00"
+        "date": "2026-07-24T18:07:32+00:00"
       },
       {
-        "title": "Anthropic updates Claude voice mode with more capable models",
-        "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-        "summary": "Weeks after OpenAI rolled out a new family of conversational models and updated ChatGPT’s voice mode , rival Anthropic is making its move to make Claude more voice-friendly with a new update. Earlier this year, Anthropic added multilingual support to Claude’s voice mode in beta. The new voice mode is available to all users in beta across platforms.",
+        "title": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
+        "url": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
+        "summary": "Tunick’s attorneys confirmed GrapheneOS was running on his phone. Tunick has pleaded not guilty. The Atlanta federal court overseeing the case is expected to rule on Tunick’s motion to suppress later this year.",
         "source": "TechCrunch",
-        "date": "2026-07-23T19:00:00+00:00"
+        "date": "2026-07-24T17:53:30+00:00"
       },
       {
-        "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-        "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-        "summary": "The fresh funding brings the startup’s total capital to $49 million . While AegisAI is starting with email, the startup has its sights on eventually expanding to other areas of defense, such as data security. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
+        "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
+        "url": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
+        "summary": "Defense tech company Anduril is said to be raising a new round of capital that may push its valuation up by a whopping $40 billion to about $100 billion, Reuters reported, citing anonymous sources. The company, which raised $5 billion in May at a $61 billion valuation — itself roughly double the $30.5 billion valuation it landed in its June 2025 Series G round — may be structuring the fundraise as a two-stage…",
         "source": "TechCrunch",
-        "date": "2026-07-23T18:38:34+00:00"
+        "date": "2026-07-24T17:33:19+00:00"
       },
       {
-        "title": "US government says Iran-linked hackers are disrupting American water and energy providers",
-        "url": "https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/",
-        "summary": "The U.S. government is warning that Iranian state-backed hackers are actively breaking in and disrupting industrial control systems at American water and energy providers. Handala also took credit for a data breach affecting California water provider Cal Water in June, and claimed it could have disrupted the water supply (without providing evidence). The water provider said that it saw no evidence of unauthorized…",
+        "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
+        "url": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+        "summary": "“I either win or lose, and a lot of young founders have the same mindset,” he told TechCrunch. That pressure has always existed in startup culture, but founders say it’s grown more extreme. Dominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-07-23T17:27:08+00:00"
+        "date": "2026-07-24T17:00:00+00:00"
       },
       {
-        "title": "Runway launches AI model router as generative media gets crowded",
-        "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-        "summary": "Runway no longer wants to be just another AI model company . Through the Runway Dev platform, developers can access the latest media models when they’re released. Runway’s last AI video model release — Gen 4.5 — was in December.",
+        "title": "Anthropic launches Opus 5",
+        "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+        "summary": "On Friday, Anthropic launched its Opus 5 model, the newest version of its long-standing heavyweight model. Notably, Opus 5 actually outperforms Fable 5 on a number of benchmarks included in the announcement. Opus 5 is launching only two months after Opus 4.8, which became available on May 28.",
         "source": "TechCrunch",
-        "date": "2026-07-23T17:07:35+00:00"
+        "date": "2026-07-24T17:00:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Microsoft pressures LG into killing unwanted McAfee ads",
-        "url": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown",
-        "summary": "Microsoft has intervened to stop Windows 11 users with LG monitors from being bombarded with annoying McAfee trial pop-ups. The LG Monitor App Installer is distributed through Microsoft’s official Windows distribution process, which included McAfee as an option. Under no circumstances is McAfee installed automatically or without user authorization.",
+        "title": "Forget expensive sleepbuds. Buy this pillow instead",
+        "url": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
+        "summary": "Blissbury’s piercing pillow accommodates both positions nicely. The Ear Pillow is 26 inches (66cm) long and 15 inches (38cm) wide, which makes it slightly narrower than a US Standard pillow. Blissbury ships the pillow with foam fillers for the holes in case the Ear Pillow ever gets demoted to a guest pillow.",
         "source": "The Verge",
-        "date": "2026-07-24T09:20:09+00:00"
+        "date": "2026-07-25T07:00:00+00:00"
       },
       {
-        "title": "98.css",
-        "url": "https://jdan.github.io/98.css/#status-bar",
-        "summary": "Input elements require labels. Icon buttons rely on aria-label . You can render a status bar with the status-bar class, and status-bar-field for every child text element. (469 points, 108 comments on Hacker News)",
+        "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
+        "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
+        "summary": "Meta has paused those plans, spokesperson Tyler Yee confirms to The Verge . Yee confirms that “some premium features will be subscription-based over time.” But Conversation Focus, the accessibility feature, “will remain available for free through our Early Access Program for early testers while we work on a better approach.” Here’s one of the company’s statements to The Verge : Meta’s AI glasses pack a lot of value…",
+        "source": "The Verge",
+        "date": "2026-07-24T22:27:46+00:00"
+      },
+      {
+        "title": "Meta just created a moderation nightmare for its smart glasses",
+        "url": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
+        "summary": "﻿Meta says it’s banning some content filmed with the company’s smart glasses from Instagram. Moderation gets messy very quickly. ﻿Meta says it’s banning some content filmed with the company’s smart glasses from Instagram. Meta’s smart glasses have been a PR headache for the company.",
+        "source": "The Verge",
+        "date": "2026-07-24T19:23:44+00:00"
+      },
+      {
+        "title": "Qualcomm is about to raise prices and that&#8217;s bad news for everyone",
+        "url": "https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg",
+        "summary": "The double-digit price hikes will reportedly start with products shipped after September 1st. The double-digit price hikes will reportedly start with products shipped after September 1st. The price hikes will go into effect starting with products shipped after September 1st.",
+        "source": "The Verge",
+        "date": "2026-07-24T19:14:23+00:00"
+      },
+      {
+        "title": "Midjourney bought the astrology app Co-Star",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+        "summary": "Co-Star’s founder has joined Midjourney to help build the AI startup’s first apps. Co-Star’s founder has joined Midjourney to help build the AI startup’s first apps. Midjourney founder David Holz says Co-Star founder Banu Guler will stay in charge of the app following the acquisition.",
+        "source": "The Verge",
+        "date": "2026-07-24T19:06:58+00:00"
+      },
+      {
+        "title": "Postgres LISTEN/NOTIFY actually scales",
+        "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+        "summary": "The better solution is LISTEN/NOTIFY. This lock is necessary because Postgres guarantees that notifications are sent in transaction commit order. This lock is necessary because Postgres guarantees that notifications are sent in transaction commit order. (298 points, 56 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-23T22:30:29+00:00"
+        "date": "2026-07-24T19:05:53+00:00"
       },
       {
-        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-        "summary": "Amazon’s upgraded AI assistant will be able to do more across a wider range of smart home devices. Amazon’s upgraded AI assistant will be able to do more across a wider range of smart home devices. Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways.",
+        "title": "DJI camera clone company Xtra is halting and refunding all preorders",
+        "url": "https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders",
+        "summary": "Xtra already sells five different versions of DJI cameras, while Skyrover is the most prominent of many new drone brands selling DJI tech. Last year, we showed you visually just how identical the Xtra Muse and DJI Osmo Pocket 3 truly are: Xtra didn’t immediately respond to a request for comment. Questions we’ve sent to DJI about Xtra, and other “DJI front companies,” remain unanswered.",
         "source": "The Verge",
-        "date": "2026-07-23T21:15:06+00:00"
+        "date": "2026-07-24T18:27:00+00:00"
       },
       {
-        "title": "Tell HN: Namecheap gave my account to an unverified third party",
-        "url": "https://news.ycombinator.com/item?id=49028037",
-        "summary": "The way you pay for club assets: your club has a treasurer, and your club has a \"purse\" or club account, and your club writes the checks. The way you pay for club assets: your club has a treasurer, and your club has a \"purse\" or club account, and your club writes the checks. The way you pay for club assets: your club has a treasurer, and your club has a \"purse\" or club account, and your club writes the checks. (430 points, 161 comments on Hacker News)",
+        "title": "Nothing confirms layoffs, but calls market exit rumors &#8216;fake news&#8217;",
+        "url": "https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b",
+        "summary": "﻿A Nothing cofounder said Phone 4B sales broke records in the price segment on day one. ﻿A Nothing cofounder said Phone 4B sales broke records in the price segment on day one. Last month, Evangelidis announced that Nothing’s budget CMF brand won’t release a new phone this year due to ongoing component shortages. Inaccurate reports are being circulated; Phone (4b) sold 29,537 units on Day 1 only, breaking records in…",
+        "source": "The Verge",
+        "date": "2026-07-24T18:10:22+00:00"
+      },
+      {
+        "title": "Roku raises streaming hardware prices by up to $50",
+        "url": "https://www.theverge.com/streaming/970814/roku-streaming-price-increase",
+        "summary": "The Roku Ultra now costs $149.99, up from $99.99. The Roku Ultra now costs $149.99, up from $99.99. Fox announced plans to acquire Roku last month .",
+        "source": "The Verge",
+        "date": "2026-07-24T18:07:19+00:00"
+      },
+      {
+        "title": "Blade Runner 2099’s moody dystopia streams on Amazon in November",
+        "url": "https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video",
+        "summary": "The series stars Michelle Yeoh and Hunter Schafer, and you can watch the first trailer now. The series stars Michelle Yeoh and Hunter Schafer, and you can watch the first trailer now. After teasing the series with some first-look images yesterday, Amazon is finally properly unveiling its Blade Runner streaming series.",
+        "source": "The Verge",
+        "date": "2026-07-24T17:40:00+00:00"
+      },
+      {
+        "title": "You can’t ignore Google Zero anymore",
+        "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+        "summary": "On The Vergecast: Google vs. websites, OpenAI vs. Hugging Face, and Ford’s deal with Apple Maps. On The Vergecast: Google vs. websites, OpenAI vs.",
+        "source": "The Verge",
+        "date": "2026-07-24T17:29:48+00:00"
+      },
+      {
+        "title": "Claude Opus 5",
+        "url": "https://www.anthropic.com/news/claude-opus-5",
+        "summary": "Claude Opus 5 is available today. Claude Opus 5 provides greatly improved performance for the same cost as its predecessor, Opus 4.8. Opus 4.8 served as fallback on safety-classifier refusals for Opus 5 and Fable 5. (1535 points, 868 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-23T21:05:29+00:00"
-      },
-      {
-        "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
-        "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
-        "summary": "329 points, 199 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-07-23T20:52:19+00:00"
-      },
-      {
-        "title": "The Echo Show 21 is a great smart home hub that’s $80 off",
-        "url": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
-        "summary": "Its adjustable stand is also discounted, if you don’t want to mount the Echo Show 21 to a wall. Its adjustable stand is also discounted, if you don’t want to mount the Echo Show 21 to a wall. The Echo Show 21 can act as the centerpiece of any burgeoning smart home.",
-        "source": "The Verge",
-        "date": "2026-07-23T20:36:40+00:00"
-      },
-      {
-        "title": "FCC Chairman Brendan Carr’s war on the First Amendment",
-        "url": "https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment",
-        "summary": "As the chairman of the Federal Communications Commission, Brendan Carr has authority over the nation’s TV, radio, and internet. Broadband customers may find themselves blighted by unexpected charges again, thanks to Federal Communications Commission chairman Brendan Carr. The comedian tackled the uproar head-on, directly naming Brendan Carr, the Federal Communications Commission chair who had instigated Kimmel’s…",
-        "source": "The Verge",
-        "date": "2026-07-23T19:46:11+00:00"
-      },
-      {
-        "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-        "url": "https://news.ycombinator.com/item?id=49026810",
-        "summary": "On my first evaluation mix, Echo consistently performed better than the best individual model in its pool. On my first evaluation mix, Echo consistently performed better than the best individual model in its pool. On my first evaluation mix, Echo consistently performed better than the best individual model in its pool. (378 points, 179 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-23T19:26:01+00:00"
-      },
-      {
-        "title": "Claude’s voice mode is now available for Opus and Sonnet",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-        "summary": "Anthropic is also granting voice mode access to your apps like Gmail and Slack. Anthropic is also granting voice mode access to your apps like Gmail and Slack. Anthropic is also expanding voice mode to several new languages.",
-        "source": "The Verge",
-        "date": "2026-07-23T19:00:00+00:00"
-      },
-      {
-        "title": "Patreon is laying off 20 percent of workers",
-        "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
-        "summary": "Patreon CEO Jack Conte doesn’t believe ‘AI replaces humans,’ but says the technology has ‘fundamentally transformed the tech industry.’ Patreon CEO Jack Conte doesn’t believe ‘AI replaces humans,’ but says the technology has ‘fundamentally transformed the tech industry.’ Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media . In a memo to employees, Patreon CEO…",
-        "source": "The Verge",
-        "date": "2026-07-23T18:20:30+00:00"
-      },
-      {
-        "title": "Corsair’s PC case with a panoramic glass design is $70 off",
-        "url": "https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale",
-        "summary": "This discounted case sports a beautiful panoramic window and plenty of flexibility with your build. This discounted case sports a beautiful panoramic window and plenty of flexibility with your build. The case includes a two year manufacturer’s warranty.",
-        "source": "The Verge",
-        "date": "2026-07-23T17:20:00+00:00"
-      },
-      {
-        "title": "Tesla’s robotaxi promises are clashing with reality",
-        "url": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk",
-        "summary": "In an earnings call yesterday , Tesla CEO Elon Musk did his best to paint a positive portrait of the company’s robotaxi program. Tesla’s total mileage, a year into its robotaxi program, is less than 10 percent of that figure. But Tesla’s safety record is a mixed bag.",
-        "source": "The Verge",
-        "date": "2026-07-23T17:09:31+00:00"
+        "date": "2026-07-24T16:57:41+00:00"
       }
     ]
   }
