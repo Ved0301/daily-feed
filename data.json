@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T09:03:03.688946+00:00",
+  "generated_at": "2026-07-26T09:13:14.326188+00:00",
   "sections": {
     "research": [
       {
@@ -175,6 +175,55 @@
     ],
     "startups": [
       {
+        "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+        "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "summary": "Oracle — June 22, 2026. Cloudflare cut about 20% of its workforce (1,100 people), reporting quarterly revenue of $639.8 million, up 34% year-over-year and the highest single quarter in company history. Oracle — March 5-31, 2026.",
+        "source": "TechCrunch",
+        "date": "2026-07-26T01:30:00+00:00"
+      },
+      {
+        "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+        "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
+        "summary": "Discovery filed a lawsuit this week accusing Amazon of interference with contractual relations, breach of contract, and unfair competition. As reported by Deadline , the lawsuit alleges Amazon has been “hurriedly seeking to pirate away a number of contracted employees,” including Pia Barlow, an HBO Max marketing executive who recently joined Amazon MGM Studios. Deadline noted that this lawsuit is likely to renew…",
+        "source": "TechCrunch",
+        "date": "2026-07-25T20:55:11+00:00"
+      },
+      {
+        "title": "The hacker who humiliated spyware makers and was never caught",
+        "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+        "summary": "Phineas’ hack against Hacking Team eventually led to the startup’s demise years later . The hack hinted at a different side of Phineas. So who is Phineas Fisher?",
+        "source": "TechCrunch",
+        "date": "2026-07-25T20:24:14+00:00"
+      },
+      {
+        "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+        "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+        "summary": "Elon Musk’s tunneling startup The Boring Company is in talks to raise a $4 billion funding round at a valuation of $20 billion, according to The Wall Street Journal . At $20 billion, the valuation would be a significant increase from The Boring Company’s $5.7 billion valuation in 2022 . The Boring Company has announced plans to build tunnel networks under Nashville and Dubai.",
+        "source": "TechCrunch",
+        "date": "2026-07-25T19:23:32+00:00"
+      },
+      {
+        "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
+        "url": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
+        "summary": "Prediction market Kalshi sent Netflix a cease-and-desist letter on Friday demanding that the streaming service take down the trailer for an upcoming documentary. In the letter, Kalshi claimed the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.” “Instadocs: The Prediction Games” is a documentary about the rise of prediction markets. However, Kalshi is currently…",
+        "source": "TechCrunch",
+        "date": "2026-07-25T16:46:46+00:00"
+      },
+      {
+        "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+        "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+        "summary": "Including the livestream, about 70 people attended each of Cyrus’ first two workshops. When Bailey followed Cyrus’ lead to host a workshop in Philadelphia, the reception was similarly unprecedented. “As an information professional, it feels good to see people skeptical of AI,” Bailey said.",
+        "source": "TechCrunch",
+        "date": "2026-07-25T16:00:00+00:00"
+      },
+      {
+        "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+        "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+        "summary": "When the power line went down this week, it triggered data centers to switch to backup power, and about 3.1 gigawatts of load vanished in about 30 seconds, according to PJM data . As more data centers made the switch, they removed greater amounts of load from the grid. Perhaps more important, it also means that data centers can absorb power fluctuations from the grid.",
+        "source": "TechCrunch",
+        "date": "2026-07-25T13:05:00+00:00"
+      },
+      {
         "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
         "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
         "summary": "OpenAI launched its first piece of hardware last week — a fancy little keypad built to pair with ChatGPT. OpenAI sent TechCrunch a Micro test unit. Micro’s buttons are color-coded.",
@@ -208,141 +257,92 @@
         "summary": "Australia became the world’s first country to ban social media for children under 16 in December 2025. Denmark is set to ban social media platforms for children under 15. The Malaysian government said in November 2025 that it plans to ban social media for children under 16.",
         "source": "TechCrunch",
         "date": "2026-07-24T21:15:00+00:00"
-      },
-      {
-        "title": "Waymo reportedly mulling a breakup with Uber",
-        "url": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
-        "summary": "Uber said the contract with Waymo that covers Austin and Atlanta ends in May 2028. This all follows months of rising tensions between Waymo and Uber. Waymo, meanwhile, has wound up opposite Uber in a number of fresh policy fights over robotaxi regulations.",
-        "source": "TechCrunch",
-        "date": "2026-07-24T20:43:35+00:00"
-      },
-      {
-        "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
-        "url": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
-        "summary": "Department of Justice has charged two Volkswagen engineers with securities fraud for an alleged insider-trading scheme connected to the German automaker’s joint venture with Rivian. Stamp and Plank then allegedly sold their Rivian positions, with Stamp realizing about $250,000 in profits, Plank realizing about $50,000, and Plank’s close family member realizing about $12,000, as detailed in the indictment. Rivian…",
-        "source": "TechCrunch",
-        "date": "2026-07-24T19:56:23+00:00"
-      },
-      {
-        "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-        "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-        "summary": "Over the past three months, Poke users exchanged more than 100 million messages on the platform, Cognition said. Poke plans to remain on Apple’s platform. However, next year the team will experiment with how both Poke and Devin can improve, with Poke turning to Cognition’s newest software engineering model SWE-1.7 for some tasks.",
-        "source": "TechCrunch",
-        "date": "2026-07-24T18:07:32+00:00"
-      },
-      {
-        "title": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
-        "url": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
-        "summary": "Tunick’s attorneys confirmed GrapheneOS was running on his phone. Tunick has pleaded not guilty. The Atlanta federal court overseeing the case is expected to rule on Tunick’s motion to suppress later this year.",
-        "source": "TechCrunch",
-        "date": "2026-07-24T17:53:30+00:00"
-      },
-      {
-        "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
-        "url": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
-        "summary": "Defense tech company Anduril is said to be raising a new round of capital that may push its valuation up by a whopping $40 billion to about $100 billion, Reuters reported, citing anonymous sources. The company, which raised $5 billion in May at a $61 billion valuation — itself roughly double the $30.5 billion valuation it landed in its June 2025 Series G round — may be structuring the fundraise as a two-stage…",
-        "source": "TechCrunch",
-        "date": "2026-07-24T17:33:19+00:00"
-      },
-      {
-        "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
-        "url": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-        "summary": "“I either win or lose, and a lot of young founders have the same mindset,” he told TechCrunch. That pressure has always existed in startup culture, but founders say it’s grown more extreme. Dominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch.",
-        "source": "TechCrunch",
-        "date": "2026-07-24T17:00:00+00:00"
-      },
-      {
-        "title": "Anthropic launches Opus 5",
-        "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-        "summary": "On Friday, Anthropic launched its Opus 5 model, the newest version of its long-standing heavyweight model. Notably, Opus 5 actually outperforms Fable 5 on a number of benchmarks included in the announcement. Opus 5 is launching only two months after Opus 4.8, which became available on May 28.",
-        "source": "TechCrunch",
-        "date": "2026-07-24T17:00:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Forget expensive sleepbuds. Buy this pillow instead",
-        "url": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
-        "summary": "Blissbury’s piercing pillow accommodates both positions nicely. The Ear Pillow is 26 inches (66cm) long and 15 inches (38cm) wide, which makes it slightly narrower than a US Standard pillow. Blissbury ships the pillow with foam fillers for the holes in case the Ear Pillow ever gets demoted to a guest pillow.",
-        "source": "The Verge",
-        "date": "2026-07-25T07:00:00+00:00"
-      },
-      {
-        "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
-        "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
-        "summary": "Meta has paused those plans, spokesperson Tyler Yee confirms to The Verge . Yee confirms that “some premium features will be subscription-based over time.” But Conversation Focus, the accessibility feature, “will remain available for free through our Early Access Program for early testers while we work on a better approach.” Here’s one of the company’s statements to The Verge : Meta’s AI glasses pack a lot of value…",
-        "source": "The Verge",
-        "date": "2026-07-24T22:27:46+00:00"
-      },
-      {
-        "title": "Meta just created a moderation nightmare for its smart glasses",
-        "url": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
-        "summary": "﻿Meta says it’s banning some content filmed with the company’s smart glasses from Instagram. Moderation gets messy very quickly. ﻿Meta says it’s banning some content filmed with the company’s smart glasses from Instagram. Meta’s smart glasses have been a PR headache for the company.",
-        "source": "The Verge",
-        "date": "2026-07-24T19:23:44+00:00"
-      },
-      {
-        "title": "Qualcomm is about to raise prices and that&#8217;s bad news for everyone",
-        "url": "https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg",
-        "summary": "The double-digit price hikes will reportedly start with products shipped after September 1st. The double-digit price hikes will reportedly start with products shipped after September 1st. The price hikes will go into effect starting with products shipped after September 1st.",
-        "source": "The Verge",
-        "date": "2026-07-24T19:14:23+00:00"
-      },
-      {
-        "title": "Midjourney bought the astrology app Co-Star",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-        "summary": "Co-Star’s founder has joined Midjourney to help build the AI startup’s first apps. Co-Star’s founder has joined Midjourney to help build the AI startup’s first apps. Midjourney founder David Holz says Co-Star founder Banu Guler will stay in charge of the app following the acquisition.",
-        "source": "The Verge",
-        "date": "2026-07-24T19:06:58+00:00"
-      },
-      {
-        "title": "Postgres LISTEN/NOTIFY actually scales",
-        "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-        "summary": "The better solution is LISTEN/NOTIFY. This lock is necessary because Postgres guarantees that notifications are sent in transaction commit order. This lock is necessary because Postgres guarantees that notifications are sent in transaction commit order. (298 points, 56 comments on Hacker News)",
+        "title": "Turn And Face The Strange",
+        "url": "https://fly.io/blog/kurt-scott-money-sprites/",
+        "summary": "Agents work best when things are explicit. We call them Sprites . But robots don’t want sandboxes. (200 points, 127 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-24T19:05:53+00:00"
+        "date": "2026-07-25T20:43:11+00:00"
       },
       {
-        "title": "DJI camera clone company Xtra is halting and refunding all preorders",
-        "url": "https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders",
-        "summary": "Xtra already sells five different versions of DJI cameras, while Skyrover is the most prominent of many new drone brands selling DJI tech. Last year, we showed you visually just how identical the Xtra Muse and DJI Osmo Pocket 3 truly are: Xtra didn’t immediately respond to a request for comment. Questions we’ve sent to DJI about Xtra, and other “DJI front companies,” remain unanswered.",
-        "source": "The Verge",
-        "date": "2026-07-24T18:27:00+00:00"
-      },
-      {
-        "title": "Nothing confirms layoffs, but calls market exit rumors &#8216;fake news&#8217;",
-        "url": "https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b",
-        "summary": "﻿A Nothing cofounder said Phone 4B sales broke records in the price segment on day one. ﻿A Nothing cofounder said Phone 4B sales broke records in the price segment on day one. Last month, Evangelidis announced that Nothing’s budget CMF brand won’t release a new phone this year due to ongoing component shortages. Inaccurate reports are being circulated; Phone (4b) sold 29,537 units on Day 1 only, breaking records in…",
-        "source": "The Verge",
-        "date": "2026-07-24T18:10:22+00:00"
-      },
-      {
-        "title": "Roku raises streaming hardware prices by up to $50",
-        "url": "https://www.theverge.com/streaming/970814/roku-streaming-price-increase",
-        "summary": "The Roku Ultra now costs $149.99, up from $99.99. The Roku Ultra now costs $149.99, up from $99.99. Fox announced plans to acquire Roku last month .",
-        "source": "The Verge",
-        "date": "2026-07-24T18:07:19+00:00"
-      },
-      {
-        "title": "Blade Runner 2099’s moody dystopia streams on Amazon in November",
-        "url": "https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video",
-        "summary": "The series stars Michelle Yeoh and Hunter Schafer, and you can watch the first trailer now. The series stars Michelle Yeoh and Hunter Schafer, and you can watch the first trailer now. After teasing the series with some first-look images yesterday, Amazon is finally properly unveiling its Blade Runner streaming series.",
-        "source": "The Verge",
-        "date": "2026-07-24T17:40:00+00:00"
-      },
-      {
-        "title": "You can’t ignore Google Zero anymore",
-        "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-        "summary": "On The Vergecast: Google vs. websites, OpenAI vs. Hugging Face, and Ford’s deal with Apple Maps. On The Vergecast: Google vs. websites, OpenAI vs.",
-        "source": "The Verge",
-        "date": "2026-07-24T17:29:48+00:00"
-      },
-      {
-        "title": "Claude Opus 5",
-        "url": "https://www.anthropic.com/news/claude-opus-5",
-        "summary": "Claude Opus 5 is available today. Claude Opus 5 provides greatly improved performance for the same cost as its predecessor, Opus 4.8. Opus 4.8 served as fallback on safety-classifier refusals for Opus 5 and Fable 5. (1535 points, 868 comments on Hacker News)",
+        "title": "The new rules of context engineering for Claude 5 generation models",
+        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "summary": "Additionally, Claude Code now has many more tools. Thanks for your help! Thanks for your help! (315 points, 200 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-24T16:57:41+00:00"
+        "date": "2026-07-25T20:42:35+00:00"
+      },
+      {
+        "title": "Did they ghost you?",
+        "url": "https://didtheyghostyou.com/",
+        "summary": "397 points, 172 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-07-25T20:18:03+00:00"
+      },
+      {
+        "title": "The growing vigilante movement to knock out Flock surveillance cameras",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
+        "summary": "NoMark has not been caught in his campaign against Flock cameras. In New Mexico, Jevon Martinez was arrested after allegedly destroying 13 Flock cameras . Not all anti-Flock activism takes the form of camera destruction. (240 points, 139 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-25T19:02:17+00:00"
+      },
+      {
+        "title": "Google basically confirms the Pixel 11 is getting a price hike",
+        "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+        "summary": "It’s just the latest victim of RAMageddon. Google’s Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Google’s scheduled to announce the next generation of Pixel devices on August 12th .",
+        "source": "The Verge",
+        "date": "2026-07-25T18:13:36+00:00"
+      },
+      {
+        "title": "The Dark Night of Mathematics",
+        "url": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
+        "summary": "198 points, 244 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-07-25T15:54:59+00:00"
+      },
+      {
+        "title": "Synth historian Oli Freke will spend big on a good bicycle",
+        "url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+        "summary": "He’s hard at work on the upcoming Beat Gems, a gorgeous coffee-table book about the history of drum machines. He’s hard at work on the upcoming Beat Gems, a gorgeous coffee-table book about the history of drum machines. His new project is Beat Gems , a coffee-table visual history of drum machines from publisher Bjooks .",
+        "source": "The Verge",
+        "date": "2026-07-25T15:15:00+00:00"
+      },
+      {
+        "title": "Teenage Engineering’s unique music machines are 30 percent off",
+        "url": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
+        "summary": "It’s currently sold out at Amazon, but in stock and discounted at Guitar Center and B&H Photo . Read our Teenage Engineering OP-XY review . Normally $329, the EP-40 is $230.30 at Amazon , Guitar Center , and B&H Photo during the promotion.",
+        "source": "The Verge",
+        "date": "2026-07-25T15:00:00+00:00"
+      },
+      {
+        "title": "Open-weight AI is having its Kubernetes moment",
+        "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+        "summary": "Open-weight models are becoming the foundation for the next AI ecosystem. Most models we casually call “open source” are more accurately described as open-weight . The same playbook can accelerate innovation around open-weight models. (374 points, 289 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-25T14:49:49+00:00"
+      },
+      {
+        "title": "Warner Bros. is suing Amazon for poaching employees",
+        "url": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees",
+        "summary": "﻿The suit accuses Amazon of going on a ‘lawless employee shopping spree.’ ﻿The suit accuses Amazon of going on a ‘lawless employee shopping spree.’ Warner Bros. Discovery has filed suit against Amazon, accusing it of illegally poaching employees , including Pia Barlow, former senior VP for originals marketing. It accuses Amazon of knowingly “inducing” Barlow to breach her agreement by offering her a higher pay…",
+        "source": "The Verge",
+        "date": "2026-07-25T14:05:12+00:00"
+      },
+      {
+        "title": "Bitchat is now on Radicle",
+        "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
+        "summary": "239 points, 129 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-07-25T13:18:49+00:00"
+      },
+      {
+        "title": "Is this e-reader case a gun?",
+        "url": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun",
+        "summary": "A 3D-printed case for a niche e-reader illustrates why mandating gun-blocking software is an unwinnable task. A 3D-printed case for a niche e-reader illustrates why mandating gun-blocking software is an unwinnable task. Blackford’s e-reader case falls directly in that detection gray area.",
+        "source": "The Verge",
+        "date": "2026-07-25T13:00:00+00:00"
       }
     ]
   }
