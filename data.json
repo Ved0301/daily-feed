@@ -1,93 +1,100 @@
 {
-  "generated_at": "2026-07-26T09:13:14.326188+00:00",
+  "generated_at": "2026-07-27T10:43:49.542274+00:00",
   "sections": {
     "research": [
       {
-        "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
-        "url": "https://arxiv.org/abs/2607.21595v1",
-        "summary": "Wenhao Li, Xueying Jiang, Quanhao Qian et al. — Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning.",
+        "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
+        "url": "https://arxiv.org/abs/2607.22534v1",
+        "summary": "Shing Ho J. Lin, Wenzhao Zheng, Dong Zhuo et al. — Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing motion perception…",
         "source": "arXiv",
-        "date": "2026-07-23T17:59:59Z"
+        "date": "2026-07-24T17:59:51Z"
       },
       {
-        "title": "Expanding Flow Maps",
-        "url": "https://arxiv.org/abs/2607.21585v1",
-        "summary": "Sophia Tang, Pranam Chatterjee — Flow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed dimensions or fixed…",
+        "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
+        "url": "https://arxiv.org/abs/2607.22529v1",
+        "summary": "Siyuan Huang, Pengyu Cheng, Haotian Liu et al. — LLM training is shifting from manual design and annotation to interaction-driven self-evolution. However, existing self-evolutionary methods face a fundamental dilemma between task diversity and verification…",
         "source": "arXiv",
-        "date": "2026-07-23T17:57:38Z"
+        "date": "2026-07-24T17:59:22Z"
       },
       {
-        "title": "GraphVid: Interactive Graph-Controllable Video Generation",
-        "url": "https://arxiv.org/abs/2607.21580v1",
-        "summary": "Vedant Shah, Onkar Susladkar, Tushar Prakash et al. — Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movement.",
+        "title": "Explainable Reinforcement Learning for assisting Air Traffic Controllers",
+        "url": "https://arxiv.org/abs/2607.22525v1",
+        "summary": "Anduel Mehmeti, Gabriella Gigante, Salvatore Venticinque — To effectively integrate AI into high-stakes, critical environments such as healthcare, autonomous driving, and aviation--and to advance toward higher levels of automation and seamless human-AI collaboration--building…",
         "source": "arXiv",
-        "date": "2026-07-23T17:56:30Z"
+        "date": "2026-07-24T17:56:38Z"
       },
       {
-        "title": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
-        "url": "https://arxiv.org/abs/2607.21579v1",
-        "summary": "Dawei Li, Xiaotian Jiang, Mingyi Hong — Barzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question is whether BB…",
+        "title": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents",
+        "url": "https://arxiv.org/abs/2607.22520v1",
+        "summary": "Darshan Tank, Baran Nama — Adding procedural skills to an LLM agent is typically evaluated by average improvement in task success. However, this metric hides an important cost: skills can also make agents worse.",
         "source": "arXiv",
-        "date": "2026-07-23T17:56:05Z"
+        "date": "2026-07-24T17:50:03Z"
       },
       {
-        "title": "Synthetic data generation framework for quality control automation in gravure printing",
-        "url": "https://arxiv.org/abs/2607.21577v1",
-        "summary": "Korota Arsène Coulibaly, Mohamed Hamlich, Khalid Hmali et al. — Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-quality standards…",
+        "title": "PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest",
+        "url": "https://arxiv.org/abs/2607.22518v1",
+        "summary": "Olafur Gudmundsson, Bo Zhao, Huayi Liao et al. — In this paper, we propose a new solution for addressing the content cold-start problem in industry-scale search and recommender systems. Compared to prior approaches, we have made the following new contributions: 1) our…",
         "source": "arXiv",
-        "date": "2026-07-23T17:55:21Z"
+        "date": "2026-07-24T17:41:28Z"
       },
       {
-        "title": "Surprisal Theory is Tautological (without Rational Grounding)",
-        "url": "https://arxiv.org/abs/2607.21574v1",
-        "summary": "Ryan Cotterell — Surprisal theory holds that the human processing difficulty of a linguistic unit in context is an affine function of its surprisal under some language model. I argue this claim is a tautology without further constraint:…",
+        "title": "Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support",
+        "url": "https://arxiv.org/abs/2607.22516v1",
+        "summary": "Peiyong Wang, Udaya Parampalli, Casey R. Myers — A central design principle in modern machine learning and artificial intelligence is to align a model's inductive bias with the structure of its input data. For matrix-valued inputs, relevant matrix-level relationships…",
         "source": "arXiv",
-        "date": "2026-07-23T17:54:37Z"
+        "date": "2026-07-24T17:39:14Z"
       },
       {
-        "title": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
-        "url": "https://arxiv.org/abs/2607.21573v1",
-        "summary": "Hongnan Ma, Yiwei Shi, Mengyue Yang et al. — Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it.",
+        "title": "Dysphagia Risk Stratification in Head and Neck Cancer via Two-Stage PRO-Clinical Stacking",
+        "url": "https://arxiv.org/abs/2607.22514v1",
+        "summary": "Siyuan Zhao, Eric Ababio Anyimadu, Zachary G. Brumm et al. — Dysphagia is a debilitating late effect of head and neck cancer (HNC) treatment, yet timely identification of at-risk patients remains challenging in survivorship care. Definitive assessment relies on videofluoroscopic…",
         "source": "arXiv",
-        "date": "2026-07-23T17:52:01Z"
+        "date": "2026-07-24T17:34:26Z"
       },
       {
-        "title": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
-        "url": "https://arxiv.org/abs/2607.21570v1",
-        "summary": "Qian Wu, Xinrong Zhou, Zizhan Ma et al. — Large Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an entire clinical…",
+        "title": "Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science",
+        "url": "https://arxiv.org/abs/2607.22513v1",
+        "summary": "Davide Scarso, Hugo Noronha de Almeida, Joaquim Pina — Commercial large language models are increasingly used as knowledge references, yet their stance on contested scientific claims is neither stable nor transparent. We tested how four major LLM families (Claude, Grok,…",
         "source": "arXiv",
-        "date": "2026-07-23T17:50:28Z"
+        "date": "2026-07-24T17:32:43Z"
       },
       {
-        "title": "Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling",
-        "url": "https://arxiv.org/abs/2607.21561v1",
-        "summary": "Aaron Feller, Kris Deibler, Maxim Secor — Molecular property prediction from structure often uses a single representative conformation, even though many molecules exist as conformational ensembles in solution. We introduce EnsembleEGNN, a molecular ensemble…",
+        "title": "CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference",
+        "url": "https://arxiv.org/abs/2607.22511v1",
+        "summary": "Jiyuan Tan, Vasilis Syrgkanis — Automating theoretical research is constrained not only by the generation of candidate results, but also by their reliable evaluation. A common approach is to close the research loop with a large language model (LLM)…",
         "source": "arXiv",
-        "date": "2026-07-23T17:42:51Z"
+        "date": "2026-07-24T17:32:35Z"
       },
       {
-        "title": "Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana",
-        "url": "https://arxiv.org/abs/2607.21559v1",
-        "summary": "T. Ansah-Narh, Y. Asare Afrane — A consensus anomaly detection framework was applied to monthly malaria surveillance data from Ghana (2014-2023) to identify atypical transmission patterns. Anomalies were highly structured in space and time.",
+        "title": "Interpretable EEG biomarkers with bag-of-waves: Spatial and temporal waveform dictionaries for low-data regimes",
+        "url": "https://arxiv.org/abs/2607.22508v1",
+        "summary": "Athanasios Papastathopoulos-Katsaros, Steven T. Lee, Lin Yao et al. — Electroencephalography (EEG) is widely used to diagnose neurological conditions, but its analysis usually relies on either predefined spectral features or deep neural networks. Predefined features carry a strong bias,…",
         "source": "arXiv",
-        "date": "2026-07-23T17:40:51Z"
+        "date": "2026-07-24T17:27:43Z"
       },
       {
-        "title": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning",
-        "url": "https://arxiv.org/abs/2607.21558v1",
-        "summary": "Baihui Wang, Bernard Koch — Building socially calibrated large language models, which can learn from others without simply yielding to them, requires more than reducing sycophancy as a one-dimensional failure mode. Models must distinguish when to…",
+        "title": "Susceptible Reservoir Architectures for Regime-Conditional Volatility Forecasting",
+        "url": "https://arxiv.org/abs/2607.22491v1",
+        "summary": "Aliaksei Kaliutau — Volatility forecasting is dominated by persistence and measurement noise, leaving limited residual structure for nonlinear models to exploit. We introduce Susceptible Architectures (SUSA), a reservoir-design principle…",
         "source": "arXiv",
-        "date": "2026-07-23T17:40:07Z"
+        "date": "2026-07-24T17:03:08Z"
       },
       {
-        "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
-        "url": "https://arxiv.org/abs/2607.21557v1",
-        "summary": "Xiao Yu, Baolin Peng, Ruize Xu et al. — Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex harnesses also make…",
+        "title": "\\k{appa}-LoRA: Condition Numbers Reveal Which LoRA Matrices Worth Updating",
+        "url": "https://arxiv.org/abs/2607.22489v1",
+        "summary": "Jianghui Wang, Silong Yong, Francesco Orabona et al. — Low-Rank Adaptation (LoRA) has become a widely adopted technique for efficient neural network fine-tuning, decomposing model updates into low-rank matrices. However, LoRA remains computationally costly because it…",
         "source": "arXiv",
-        "date": "2026-07-23T17:38:30Z"
+        "date": "2026-07-24T17:00:40Z"
       }
     ],
     "labs": [
+      {
+        "title": "How AI is expanding what people do at work",
+        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+        "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+        "source": "OpenAI",
+        "date": "2026-07-27T03:30:00+00:00"
+      },
       {
         "title": "Launching Health in ChatGPT",
         "url": "https://openai.com/index/health-in-chatgpt",
@@ -164,16 +171,58 @@
         "summary": "Gemini 3.6 Flash builds directly on developer and customer feedback from 3.5 Flash. 3.5 Flash-Lite executes high volume tasks at a lower latency than 3.5 Flash. 3.5 Flash-Lite enables efficient scaling for agentic systems.",
         "source": "Google DeepMind",
         "date": "2026-07-21T15:16:30+00:00"
-      },
-      {
-        "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-        "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-        "source": "OpenAI",
-        "date": "2026-07-21T07:00:00+00:00"
       }
     ],
     "startups": [
+      {
+        "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+        "url": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+        "summary": "Luke Knight and Ronan Chambers first launched the London-based European Technology Network (ETN) last October, breaking down tech trends and news during a two-day-a-week live stream. As the show became more popular, Chambers said they were getting around 70 pitches a week from guests looking to come on the show. “It’s a European technology network, but we think there’s massive [global] opportunities,” Chambers said.",
+        "source": "TechCrunch",
+        "date": "2026-07-27T10:00:00+00:00"
+      },
+      {
+        "title": "Are brain waves the next unlock for physical AI?",
+        "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+        "summary": "That warehouse is occupied by Encord , a company that builds data tooling used to train AI models. Encord was founded to help companies building machine-vision applications annotate data and evaluate models. “The data simply does not exist,” Velmurugan said.",
+        "source": "TechCrunch",
+        "date": "2026-07-27T00:19:14+00:00"
+      },
+      {
+        "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+        "url": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+        "summary": "As Apple prepares to launch its first smart glasses, the company is also wrestling with how to address consumer privacy concerns, according to Bloomberg’s Mark Gurman . It sounds like the company has noticed the concerns around Meta’s smart glasses — sometimes decried as “pervert glasses” — being used to make non-consensual video recordings . Gain practical expertise.",
+        "source": "TechCrunch",
+        "date": "2026-07-26T21:06:44+00:00"
+      },
+      {
+        "title": "Making sense of the panic over Chinese AI",
+        "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+        "summary": "Anthony: I completely agree. I think the China aspect always adds this certain level of hysteria. Anthony Ha is TechCrunch’s weekend editor.",
+        "source": "TechCrunch",
+        "date": "2026-07-26T19:40:57+00:00"
+      },
+      {
+        "title": "Inside one London founder house rewriting the founder-house rules",
+        "url": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+        "summary": "Six twentysomethings in East London have built what they say is the anti-San Francisco hacker house. Like all hacker houses, Lift House is part startup workspace, part co-living space. Aldean also feels the London ecosystem is less cutthroat than the Valley.",
+        "source": "TechCrunch",
+        "date": "2026-07-26T17:03:19+00:00"
+      },
+      {
+        "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+        "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+        "summary": "After OpenAI recently admitted that one of its models had breached the systems of AI platform Hugging Face , Hugging Face’s CEO Clem Delangue posted on X that he was flying to San Francisco to have “a little chat with that ‘rogue agent.’” Then, in a follow-up post on Saturday, Delangue outlined what he’d asked for from OpenAI. He said he called for “radical transparency,” asking OpenAI to “release the traces from…",
+        "source": "TechCrunch",
+        "date": "2026-07-26T16:33:13+00:00"
+      },
+      {
+        "title": "TechCrunch Mobility: Uber bets on its former CEO",
+        "url": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
+        "summary": "The company’s net income fell 5% year over year. Reminder: In 2016 and while Kalanick was CEO, Uber acquired Levandowski’s self-driving trucks startup Otto. Less than a year later, Levandowski’s former employer Waymo (Google self-driving project) sued Uber for trade secret theft .",
+        "source": "TechCrunch",
+        "date": "2026-07-26T16:03:00+00:00"
+      },
       {
         "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
         "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
@@ -208,141 +257,92 @@
         "summary": "Prediction market Kalshi sent Netflix a cease-and-desist letter on Friday demanding that the streaming service take down the trailer for an upcoming documentary. In the letter, Kalshi claimed the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.” “Instadocs: The Prediction Games” is a documentary about the rise of prediction markets. However, Kalshi is currently…",
         "source": "TechCrunch",
         "date": "2026-07-25T16:46:46+00:00"
-      },
-      {
-        "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-        "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-        "summary": "Including the livestream, about 70 people attended each of Cyrus’ first two workshops. When Bailey followed Cyrus’ lead to host a workshop in Philadelphia, the reception was similarly unprecedented. “As an information professional, it feels good to see people skeptical of AI,” Bailey said.",
-        "source": "TechCrunch",
-        "date": "2026-07-25T16:00:00+00:00"
-      },
-      {
-        "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-        "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-        "summary": "When the power line went down this week, it triggered data centers to switch to backup power, and about 3.1 gigawatts of load vanished in about 30 seconds, according to PJM data . As more data centers made the switch, they removed greater amounts of load from the grid. Perhaps more important, it also means that data centers can absorb power fluctuations from the grid.",
-        "source": "TechCrunch",
-        "date": "2026-07-25T13:05:00+00:00"
-      },
-      {
-        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-        "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-        "summary": "OpenAI launched its first piece of hardware last week — a fancy little keypad built to pair with ChatGPT. OpenAI sent TechCrunch a Micro test unit. Micro’s buttons are color-coded.",
-        "source": "TechCrunch",
-        "date": "2026-07-25T00:23:11+00:00"
-      },
-      {
-        "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-        "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
-        "summary": "In May, on the first Starship V3 flight, SpaceX encountered a failure of the Starship’s Super Heavy booster as it separated from the upper stage of the rocket. SpaceX was able to perform a simulated landing of the upper stage of Starship during Friday’s launch after it deployed the Starlink satellites. SpaceX had better luck with the Starship V3 upper stage during Friday’s launch.",
-        "source": "TechCrunch",
-        "date": "2026-07-24T23:25:47+00:00"
-      },
-      {
-        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-        "summary": "Prentis didn’t respond to TechCrunch’s request for comment. Ritankar Das, CEO of Prentis, is also the founder of Titan, a holding company that builds and operates AI companies. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
-        "source": "TechCrunch",
-        "date": "2026-07-24T22:25:58+00:00"
-      },
-      {
-        "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
-        "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
-        "summary": "The brand-new Smart Money Stage will be where fintech, payments, and AI collide. And if you still need some convincing, let’s dive into the Smart Money Stage’s programming: Stablecoins and instant payments are changing how money moves around the world. Airwallex, now valued at $11 billion by its investors, is building an AI native financial operating system, helping companies move money across borders, manage global…",
-        "source": "TechCrunch",
-        "date": "2026-07-24T22:10:00+00:00"
-      },
-      {
-        "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
-        "url": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
-        "summary": "Australia became the world’s first country to ban social media for children under 16 in December 2025. Denmark is set to ban social media platforms for children under 15. The Malaysian government said in November 2025 that it plans to ban social media for children under 16.",
-        "source": "TechCrunch",
-        "date": "2026-07-24T21:15:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Turn And Face The Strange",
-        "url": "https://fly.io/blog/kurt-scott-money-sprites/",
-        "summary": "Agents work best when things are explicit. We call them Sprites . But robots don’t want sandboxes. (200 points, 127 comments on Hacker News)",
+        "title": "Kimi-K3 Releases on HuggingFace 7/27",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3",
+        "summary": "K3 is the next generation of open frontier models from Moonshot AI. It is the world's first open 3T-class model, designed for frontier intelligence across long-horizon coding, knowledge work, and reasoning. Hit Like and Notify on release and we will send you a single email the moment the weights are public. (355 points, 153 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-25T20:43:11+00:00"
+        "date": "2026-07-27T06:18:10+00:00"
       },
       {
-        "title": "The new rules of context engineering for Claude 5 generation models",
-        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "summary": "Additionally, Claude Code now has many more tools. Thanks for your help! Thanks for your help! (315 points, 200 comments on Hacker News)",
+        "title": "PGSimCity - How PostgreSQL Works",
+        "url": "https://nikolays.github.io/PGSimCity/",
+        "summary": "631 points, 61 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-07-25T20:42:35+00:00"
+        "date": "2026-07-27T00:19:04+00:00"
       },
       {
-        "title": "Did they ghost you?",
-        "url": "https://didtheyghostyou.com/",
-        "summary": "397 points, 172 comments on Hacker News",
+        "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+        "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+        "summary": "A hot potato: A federal case in Atlanta is raising questions about a privacy-focused mobile operating system, with prosecutors arguing that its features were used to erase evidence. GrapheneOS is designed to improve privacy and security on Pixel phones. \"The main goal [of the operating system] is protection of privacy,\" Boutry said. (806 points, 602 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-25T20:18:03+00:00"
+        "date": "2026-07-26T22:21:41+00:00"
       },
       {
-        "title": "The growing vigilante movement to knock out Flock surveillance cameras",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
-        "summary": "NoMark has not been caught in his campaign against Flock cameras. In New Mexico, Jevon Martinez was arrested after allegedly destroying 13 Flock cameras . Not all anti-Flock activism takes the form of camera destruction. (240 points, 139 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-07-25T19:02:17+00:00"
-      },
-      {
-        "title": "Google basically confirms the Pixel 11 is getting a price hike",
-        "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
-        "summary": "It’s just the latest victim of RAMageddon. Google’s Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Google’s scheduled to announce the next generation of Pixel devices on August 12th .",
+        "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
+        "url": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review",
+        "summary": "See our ethics statement. The movie is almost entirely the work of one man, John De Hart. Hart wrote, directed, and stars as Rick Bode in the film.",
         "source": "The Verge",
-        "date": "2026-07-25T18:13:36+00:00"
+        "date": "2026-07-26T21:24:07+00:00"
       },
       {
-        "title": "The Dark Night of Mathematics",
-        "url": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
-        "summary": "198 points, 244 comments on Hacker News",
+        "title": "Apple is banking on privacy to set its smart glasses apart",
+        "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+        "summary": "They’re expected be revealed next June at WWDC. They’re expected be revealed next June at WWDC. According to Mark Gurman , Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they’ll launch by the end of 2027.",
+        "source": "The Verge",
+        "date": "2026-07-26T19:36:38+00:00"
+      },
+      {
+        "title": "The US is charging an American citizen for wiping his phone at the border",
+        "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
+        "summary": "Sam Tunick allegedly gave federal agents a fake ‘duress password’ at the airport. Sam Tunick allegedly gave federal agents a fake ‘duress password’ at the airport. Federal agents detained Tunick at the airport, allegedly questioning him about child exploitation images.",
+        "source": "The Verge",
+        "date": "2026-07-26T18:45:50+00:00"
+      },
+      {
+        "title": "The Strongest El Niño Ever",
+        "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
+        "summary": "Around 91% of ensemble members exceed the 2015-16 record at their peak. However, even using RONI the multi-model median in 11 of the 14 models shows a record event. The figure below maps each model’s SST anomaly field at its own forecast peak month. (259 points, 282 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-25T15:54:59+00:00"
+        "date": "2026-07-26T18:35:36+00:00"
       },
       {
-        "title": "Synth historian Oli Freke will spend big on a good bicycle",
-        "url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
-        "summary": "He’s hard at work on the upcoming Beat Gems, a gorgeous coffee-table book about the history of drum machines. He’s hard at work on the upcoming Beat Gems, a gorgeous coffee-table book about the history of drum machines. His new project is Beat Gems , a coffee-table visual history of drum machines from publisher Bjooks .",
-        "source": "The Verge",
-        "date": "2026-07-25T15:15:00+00:00"
-      },
-      {
-        "title": "Teenage Engineering’s unique music machines are 30 percent off",
-        "url": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
-        "summary": "It’s currently sold out at Amazon, but in stock and discounted at Guitar Center and B&H Photo . Read our Teenage Engineering OP-XY review . Normally $329, the EP-40 is $230.30 at Amazon , Guitar Center , and B&H Photo during the promotion.",
-        "source": "The Verge",
-        "date": "2026-07-25T15:00:00+00:00"
-      },
-      {
-        "title": "Open-weight AI is having its Kubernetes moment",
-        "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-        "summary": "Open-weight models are becoming the foundation for the next AI ecosystem. Most models we casually call “open source” are more accurately described as open-weight . The same playbook can accelerate innovation around open-weight models. (374 points, 289 comments on Hacker News)",
+        "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+        "url": "https://beyondloom.com/decker/",
+        "summary": "Decker also runs natively on MacOS, Windows, BSD, and Linux. The Itch page includes a community forum for discussing Decker and sharing projects made with Decker. We also hold Decker-themed \"Game Jams\" every July and December ; the next upcoming jam will be Decker Fantasy Camp, July 2026. (317 points, 74 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-25T14:49:49+00:00"
+        "date": "2026-07-26T18:23:06+00:00"
       },
       {
-        "title": "Warner Bros. is suing Amazon for poaching employees",
-        "url": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees",
-        "summary": "﻿The suit accuses Amazon of going on a ‘lawless employee shopping spree.’ ﻿The suit accuses Amazon of going on a ‘lawless employee shopping spree.’ Warner Bros. Discovery has filed suit against Amazon, accusing it of illegally poaching employees , including Pia Barlow, former senior VP for originals marketing. It accuses Amazon of knowingly “inducing” Barlow to breach her agreement by offering her a higher pay…",
-        "source": "The Verge",
-        "date": "2026-07-25T14:05:12+00:00"
-      },
-      {
-        "title": "Bitchat is now on Radicle",
-        "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-        "summary": "239 points, 129 comments on Hacker News",
+        "title": "French firefighters face 'pyrocumulonimbus' for first time",
+        "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+        "summary": "NASA calls them the \"fire-breathing dragon of clouds\". This contact creates a pyrocumulonimbus -- or fire cloud -- though unfortunately one devoid of moisture. \"Lightning forms within the cloud, striking the embers on the ground and further fuelling the fire ... (389 points, 264 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-25T13:18:49+00:00"
+        "date": "2026-07-26T17:49:44+00:00"
       },
       {
-        "title": "Is this e-reader case a gun?",
-        "url": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun",
-        "summary": "A 3D-printed case for a niche e-reader illustrates why mandating gun-blocking software is an unwinnable task. A 3D-printed case for a niche e-reader illustrates why mandating gun-blocking software is an unwinnable task. Blackford’s e-reader case falls directly in that detection gray area.",
+        "title": "Design is compromise",
+        "url": "https://stephango.com/design-is-compromise",
+        "summary": "Choosing the right compromises is what defines good design. Good design is opinionated. Good design is choosing the right compromise for your audience. (260 points, 88 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-26T15:51:12+00:00"
+      },
+      {
+        "title": "Carrie is just trying to make a friend in the new trailer",
+        "url": "https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con",
+        "summary": "Mike Flanagan’s adaptation updates the Stephen King classic for the modern age. Mike Flanagan’s adaptation updates the Stephen King classic for the modern age. Mike Flanagan’s latest Stephen King adaptation, Carrie (this will be his fourth), is slated to make its debut on Amazon Prime on October 7th.",
         "source": "The Verge",
-        "date": "2026-07-25T13:00:00+00:00"
+        "date": "2026-07-26T15:33:27+00:00"
+      },
+      {
+        "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
+        "url": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
+        "summary": "Jump into Halo: Campaign Evolved and many other great games for significantly less than the normal monthly cost. Jump into Halo: Campaign Evolved and many other great games for significantly less than the normal monthly cost. Game Pass Ultimate grants you access to the full Game Pass library on Xbox (compared to a more limited slice with Premium), including first-party titles and online multiplayer access.",
+        "source": "The Verge",
+        "date": "2026-07-26T15:00:00+00:00"
       }
     ]
   }
