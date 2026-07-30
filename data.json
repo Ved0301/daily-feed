@@ -1,93 +1,121 @@
 {
-  "generated_at": "2026-07-29T09:37:59.997045+00:00",
+  "generated_at": "2026-07-30T09:31:07.633570+00:00",
   "sections": {
     "research": [
       {
-        "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
-        "url": "https://arxiv.org/abs/2607.26057v1",
-        "summary": "Haolei Xu, Xiaowen Xu, Haiwen Hong et al. — On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on…",
+        "title": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
+        "url": "https://arxiv.org/abs/2607.27203v1",
+        "summary": "Perry Dong, Ron Polonsky, Dorsa Sadigh et al. — Pre-training followed by fine-tuning has become the dominant recipe for learning performant policies, and in value-based reinforcement learning (RL) this raises a natural question: given a pretrained policy, should the…",
         "source": "arXiv",
-        "date": "2026-07-28T17:59:46Z"
+        "date": "2026-07-29T17:59:51Z"
       },
       {
-        "title": "$π\\mathbf{R}^2$: Reactive Real-time Flow Policies",
-        "url": "https://arxiv.org/abs/2607.26055v1",
-        "summary": "Sungjae Park, Shubham Tulsiani — Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input arriving…",
+        "title": "Mental World Modeling",
+        "url": "https://arxiv.org/abs/2607.27201v1",
+        "summary": "Hao Fei, Yiran Zhao — World models enable a predictive substrate for planning and action, yet existing formulations merely answer a physical question: what/where it is, and how will it evolve. Human behavior, however, is driven by hidden…",
         "source": "arXiv",
-        "date": "2026-07-28T17:59:31Z"
+        "date": "2026-07-29T17:59:39Z"
       },
       {
-        "title": "Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA",
-        "url": "https://arxiv.org/abs/2607.26052v1",
-        "summary": "Tom Saliencro, Rohan Desai, Priya Nair et al. — Mixture-of-Experts (MoE) variants of Low-Rank Adaptation (LoRA) route every token to a fixed number of experts $k$. Tokens differ in how uncertain the model is about them, so a single k over-spends on easy tokens and…",
+        "title": "From Classification to Regression: Using a Fruitfly to Solve Equations",
+        "url": "https://arxiv.org/abs/2607.27196v1",
+        "summary": "Shady E. Ahmed, Panos Stinis — We present a novel approach to regression tasks using classification which is motivated by the mechanism used by fruitflies to sense their environment. Specifically, we formulate a general framework for learning…",
         "source": "arXiv",
-        "date": "2026-07-28T17:59:16Z"
+        "date": "2026-07-29T17:58:05Z"
       },
       {
-        "title": "Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learning (DITL) Framework for Breast Cancer Screening and Lesion Diagnosis",
-        "url": "https://arxiv.org/abs/2607.26043v1",
-        "summary": "Adarsh Bhandary Panambur, Siming Bayer, Andreas Maier — Enhancing classification performance in mammography remains a persistent challenge across both small curated datasets and large-scale clinical cohorts. Conventional transfer learning approaches often neglect…",
+        "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
+        "url": "https://arxiv.org/abs/2607.27191v1",
+        "summary": "Peter Kirgis, Sayash Kapoor, Andrew Schwartz et al. — Forecasts of explosive AI progress hinge on AI agents automating AI research. Current evaluations either test agents on narrow, verifiable…",
         "source": "arXiv",
-        "date": "2026-07-28T17:52:36Z"
+        "date": "2026-07-29T17:57:19Z"
       },
       {
-        "title": "VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening",
-        "url": "https://arxiv.org/abs/2607.26042v1",
-        "summary": "Syed Mhamudul Hasan, Anas AlSobeh, Hussein Zangoti et al. — We present VetClaw, an edge-cloud multimodal agentic system for early veterinary disease screening. VetClaw uses a camera module as an edge sensing device and sends captured images, together with optional symptom…",
+        "title": "APEX-Accounting",
+        "url": "https://arxiv.org/abs/2607.27189v1",
+        "summary": "Julien Benchek, Austin Bennett, Jasmin Kern et al. — We introduce APEX-Accounting, a benchmark built by Mercor in partnership with Ramp, to assess whether frontier models can do the real work of accountants. Tasks include reconciling accounts, accruing expenses, posting…",
         "source": "arXiv",
-        "date": "2026-07-28T17:50:25Z"
+        "date": "2026-07-29T17:56:49Z"
       },
       {
-        "title": "Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?",
-        "url": "https://arxiv.org/abs/2607.26041v1",
-        "summary": "Abhishek Pillai, Samir Kumar Nayak, Yuan Chen — Computer-use agents (CUAs) increasingly act through desktop GUIs to complete long-horizon tasks. Current benchmarks primarily measure end-task success or single-frame grounding.",
+        "title": "Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes",
+        "url": "https://arxiv.org/abs/2607.27188v1",
+        "summary": "Lennon J. Shikhman, Michael Galarnyk, Aadi Dash et al. — Accurate option prices do not imply accurate recovery of the latent risk-neutral density. A controlled benchmark exposes simulator-truth densities for latent…",
         "source": "arXiv",
-        "date": "2026-07-28T17:49:51Z"
+        "date": "2026-07-29T17:56:20Z"
       },
       {
-        "title": "Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent Guidance",
-        "url": "https://arxiv.org/abs/2607.26040v1",
-        "summary": "Gaspard Lambrechts, Adrien Bolland, Daniel Ebi et al. — Much like humans benefit from guidance while learning, reinforcement learning algorithms may benefit from additional supervision beyond rewards. Leveraging additional information during training to learn better…",
+        "title": "Pangram 4 Technical Report",
+        "url": "https://arxiv.org/abs/2607.27183v1",
+        "summary": "Ben Glickenhaus, Katherine Thai, Jenna Russell et al. — We present Pangram 4, the latest deep-learning-based AI-text classification model from Pangram Labs. We achieve an AUROC of 0.9916 with a false positive rate of 0.0041% and a false negative rate of 0.3396%.",
         "source": "arXiv",
-        "date": "2026-07-28T17:49:29Z"
+        "date": "2026-07-29T17:53:01Z"
       },
       {
-        "title": "Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment",
-        "url": "https://arxiv.org/abs/2607.26034v1",
-        "summary": "Elias Fernández Domingos, The Anh Han — Technological races create tension between speed and safety: actors may gain by moving faster than competitors, even when risky development is harmful. This is prominent in debates about artificial intelligence (AI),…",
+        "title": "The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making",
+        "url": "https://arxiv.org/abs/2607.27179v1",
+        "summary": "Nia Nixon, Jaeyoon Choi, Pedro Martins De Bastos et al. — Conversational AI is increasingly positioned as a teammate rather than a tool, yet we know little about how its presence reshapes communication among the humans on the team. We examined sociocognitive communication…",
         "source": "arXiv",
-        "date": "2026-07-28T17:44:03Z"
+        "date": "2026-07-29T17:51:32Z"
       },
       {
-        "title": "CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer",
-        "url": "https://arxiv.org/abs/2607.26023v1",
-        "summary": "Ankang Yang, Jitao Zhao, Di Jin et al. — Graph foundation models (GFMs) have emerged as a promising paradigm for transferring knowledge across graph domains and tasks. Real-world graphs associate nodes with text, images, and other modalities, making multimodal…",
+        "title": "DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search",
+        "url": "https://arxiv.org/abs/2607.27178v1",
+        "summary": "Raphaël Sourty, Antoine Chaffin, Paulo Roberto Moura Junior et al. — State-of-the-art retrieval models increasingly rely on closed training data, creating a reproducibility gap. We present an open end-to-end recipe for training retrieval models and study how English supervision transfers…",
         "source": "arXiv",
-        "date": "2026-07-28T17:35:26Z"
+        "date": "2026-07-29T17:50:51Z"
       },
       {
-        "title": "UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams",
-        "url": "https://arxiv.org/abs/2607.26017v1",
-        "summary": "Siyu Xia, Chenheng Zhang, Yanting Wu et al. — Memory is essential for LLM agents to accumulate task experience and reuse task-specific execution strategies. However, real-world deployment over boundary-agnostic and evolving task streams exposes a fundamental…",
+        "title": "Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork",
+        "url": "https://arxiv.org/abs/2607.27177v1",
+        "summary": "Peter Tisnikar, Maja Swieczkowska, Benteng Ma et al. — Effective collaboration with novel and diverse partners is a crucial skill for autonomous agents. Most current ad-hoc teamwork (AHT) approaches assume that agents will collaborate on a single, fixed task and that the…",
         "source": "arXiv",
-        "date": "2026-07-28T17:28:21Z"
+        "date": "2026-07-29T17:50:39Z"
       },
       {
-        "title": "MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar",
-        "url": "https://arxiv.org/abs/2607.26016v1",
-        "summary": "Solomon Micheal Serunjogi, Rachmad Vidya Wicaksana Putra, Ayat Taha et al. — Recently, photonic transformer accelerators (PTAs) have successfully achieved significant speedup and energy efficiency improvements over electronic accelerators for expediting Transformer inference.",
+        "title": "Improving Item Discoverability in e-Commerce Search via Related Intent Generation",
+        "url": "https://arxiv.org/abs/2607.27172v1",
+        "summary": "Ji Xin, Xiao Xiao, Ishan Bhatt et al. — Traditional search systems are optimized to retrieve items that strictly match a query, often prioritizing precision over recall. In e-commerce marketplaces and particularly grocery, this paradigm is limiting, as user…",
         "source": "arXiv",
-        "date": "2026-07-28T17:27:49Z"
+        "date": "2026-07-29T17:46:35Z"
       },
       {
-        "title": "Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do",
-        "url": "https://arxiv.org/abs/2607.26015v1",
-        "summary": "Zandi Eberstadt — Syntactic convergence (the tendency of speakers to adapt in language towards the grammatical profiles of their interlocutors) is a well-documented feature of human dialogue widely considered to operate below conscious…",
+        "title": "When Do Learned Diffusion Proposals Help Constraint Solving? A Controlled Study on Continuous Algebraic Systems",
+        "url": "https://arxiv.org/abs/2607.27169v1",
+        "summary": "Quang Bui, Sparsh Roy, Akash Gundimeda et al. — Solving a continuous algebraic constraint system requires two decisions: which values satisfy the constraints, and which structural augmentation renders an unsolvable system solvable. Classical solvers answer the first…",
         "source": "arXiv",
-        "date": "2026-07-28T17:27:47Z"
+        "date": "2026-07-29T17:44:31Z"
       }
     ],
     "labs": [
+      {
+        "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+        "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+        "summary": "",
+        "source": "Google DeepMind",
+        "date": "2026-07-29T16:02:10+00:00"
+      },
+      {
+        "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+        "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+        "source": "OpenAI",
+        "date": "2026-07-29T15:00:00+00:00"
+      },
+      {
+        "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+        "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+        "source": "OpenAI",
+        "date": "2026-07-29T10:00:00+00:00"
+      },
+      {
+        "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+        "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+        "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+        "source": "OpenAI",
+        "date": "2026-07-29T00:00:00+00:00"
+      },
       {
         "title": "Scientific computing in the age of agentic AI",
         "url": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -143,206 +171,178 @@
         "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
         "source": "OpenAI",
         "date": "2026-07-22T13:00:00+00:00"
-      },
-      {
-        "title": "Advancing the next era of national science",
-        "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-        "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-        "source": "OpenAI",
-        "date": "2026-07-22T12:00:00+00:00"
-      },
-      {
-        "title": "Introducing OpenAI Presence",
-        "url": "https://openai.com/index/introducing-openai-presence",
-        "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-        "source": "OpenAI",
-        "date": "2026-07-22T05:30:00+00:00"
-      },
-      {
-        "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-        "url": "https://openai.com/index/ntt-data",
-        "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-        "source": "OpenAI",
-        "date": "2026-07-22T00:00:00+00:00"
-      },
-      {
-        "title": "Introducing the ChatGPT for small business program",
-        "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-        "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-        "source": "OpenAI",
-        "date": "2026-07-21T17:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-        "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-        "summary": "Data security company Cyera, which recently raised $600 million at a $12 billion valuation, announced Tuesday that it signed a letter of intent to acquire Oasis Security for approximately $1 billion in a deal expected to be paid mostly in cash, with the remainder in Cyera shares. Oasis focuses on non-human identities, primarily AI agents. Post-acquisition, Cyera plans to integrate Oasis’s technology into a unified…",
+        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+        "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+        "summary": "“You will maybe need multiple models to even remediate some challenges that get caused by one model. Nadella pointed to Microsoft’s new Mythos competitor announced earlier this week, MAI Cyber One Flash. Sure, the Microsoft CEO says that enterprises should use the frontier models that OpenAI and Anthropic offer in their mix.",
         "source": "TechCrunch",
-        "date": "2026-07-29T00:09:05+00:00"
+        "date": "2026-07-30T00:21:06+00:00"
       },
       {
-        "title": "Bot-detection startup Spur nabs $200M from Insight",
-        "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-        "summary": "Spur Intelligence, a cybersecurity startup based in Lake Mary, Florida, has raised a $200 million round led by Insight Partners. The startup’s tech helps enterprises distinguish legitimate human users from increasingly well-hidden bot traffic to help identify fake users and threats. Gain practical expertise.",
+        "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+        "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+        "summary": "Meta’s Reality Labs, the organization responsible for its AR glasses, VR headsets, and related software, lost around $4.6 billion this quarter, roughly in line with the losses the division has posted each quarter since 2021. The company reported free cash flow of $784 million this quarter, down from $8.55 billion the same quarter last year. Ultimately, he believes that the personal agents that Meta is developing…",
         "source": "TechCrunch",
-        "date": "2026-07-28T21:29:34+00:00"
+        "date": "2026-07-29T23:00:11+00:00"
       },
       {
-        "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-        "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-        "summary": "In the suit, Runlayer describes an extensive product trial conducted by Rippling as a prospective customer, during which the MCP startup shared everything from its product roadmap to its actual source code. Shortly after that, Runlayer alleges that a “Rippling insider” texted Runlayer founder and CEO Andrew Berman to inform him of “a project internally to build essentially a clone o[f] Runlayer … it’s almost a 1 to…",
+        "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+        "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+        "summary": "For the quarter, it recorded its investment in Anthropic as a $3.2 billion gain , boosting diluted earnings per share by 33 cents. (Microsoft reported diluted earnings per share of $4.81 for the quarter). Microsoft does not routinely update the value of its Anthropic investment each quarter. Microsoft owns about 27% of OpenAI .",
         "source": "TechCrunch",
-        "date": "2026-07-28T20:45:12+00:00"
+        "date": "2026-07-29T22:46:03+00:00"
       },
       {
-        "title": "Sam Altman is ready to decelerate",
-        "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-        "summary": "OpenAI CEO Sam Altman says that it may be time to “pace” AI development so the world will be ready for it. Similarly, when Kimi K3, a large, open-weight model built in China, was released, OpenAI head of strategic futures Dean W. This story was updated to include OpenAI and Anthropic’s support of the “Pacing the Frontier” petition.",
+        "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+        "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+        "summary": "But the tech giant’s enterprise AI ambitions are much more expansive, Meta CEO Mark Zuckerberg told investors on Wednesday’s second-quarter earnings call. “We see a large enterprise opportunity to sell to businesses, including APIs, business agents, potentially selling compute directly, and other services that we’re building for large customers,” Zuckerberg said. Meanwhile, in terms of Meta selling compute to…",
         "source": "TechCrunch",
-        "date": "2026-07-28T20:17:08+00:00"
+        "date": "2026-07-29T22:23:12+00:00"
       },
       {
-        "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
-        "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
-        "summary": "Ozlo , the sleep earbuds startup from former Bose engineers , is launching its next device. Ozlo’s sleep insights have expanded to include more details around sleep patterns. This can help wearers learn which sleep environments lead to deeper, more restorative sleep, helping them improve their sleep over time.",
+        "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+        "summary": "With Arsalan Tavakoli, Co-founder and SVP of Field Engineering, Databricks Visual AI has moved past attention-getting demos into real-time inference and physical reasoning. With Dean Leitersdorf, Co-founder and CEO, Decart, and Amit Jain, Co-founder and CEO, Luma AI GTM engineering didn’t exist two years ago — now it’s one of the fastest-growing roles in tech, with independent practitioners building million-dollar…",
         "source": "TechCrunch",
-        "date": "2026-07-28T19:09:18+00:00"
+        "date": "2026-07-29T21:16:39+00:00"
       },
       {
-        "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
-        "url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
-        "summary": "The company is trying to stabilize the spacecraft using back-up systems, before NASA will decide if the mission can continue. The LINK spacecraft was launched into space on July 3 on board a Northrop Grumman Pegasus rocket. However, the spacecraft suffered issues controlling itself and began spinning over the weekend.",
+        "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+        "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+        "summary": "Lilian Weng, co-founder of Thinking Machines , announced this week that she would step down from her role, citing health issues. According to a company spokesperson, Weng will lead a top-level team focused on accelerating OpenAI’s internal research. Thank you for everything,” Murati wrote in response to Weng’s post.",
         "source": "TechCrunch",
-        "date": "2026-07-28T19:07:31+00:00"
+        "date": "2026-07-29T21:07:48+00:00"
       },
       {
-        "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
-        "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
-        "summary": "Kevin Mullin (D-Calif.) is the latest lawmaker to put pressure on the industry with a proposed bill that would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators. Mullin’s bill proposes requiring AV companies to provide clear emergency protocols for first responders, establish a 24-hour hotline that gives public officials direct access to these companies, and…",
+        "title": "Winamp aims for a comeback with a new music player powered by Deezer",
+        "url": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
+        "summary": "Long before Spotify, Winamp was the music player of choice for millions of music fans. Winamp and Deezer announced a partnership on Wednesday that will see Deezer power Winamp’s upcoming premium music subscription service. The streaming market is already saturated with giants like Spotify, Apple Music, and YouTube Music.",
         "source": "TechCrunch",
-        "date": "2026-07-28T19:06:33+00:00"
+        "date": "2026-07-29T21:02:12+00:00"
       },
       {
-        "title": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
-        "url": "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/",
-        "summary": "The law office representing the Steiners writes that the settlement includes $46.15 million paid to the couple by eBay itself, as well as $2 million from former eBay executive CEO Devin Wenig. Additionally, $500,000 will be paid out to the couple from former eBay executive Wendy Jones, as well as $50,000 from former eBay executive Steve Wymer. “As we have long stated, what the Steiners were subjected to by former…",
+        "title": "The Hugging Face break-in explained",
+        "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+        "summary": "That’s roughly what happened at Hugging Face. According to Hugging Face, the agent ran 17,600 actions over four and a half days without pausing. Similarly, OpenAI’s agent was seemingly chasing a goal without regard for anything else.",
         "source": "TechCrunch",
-        "date": "2026-07-28T18:35:29+00:00"
+        "date": "2026-07-29T19:44:49+00:00"
       },
       {
-        "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-        "url": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-        "summary": "According to one report, new app launches have soared in 2026, with worldwide new app releases up 60% year-over-year as of the first quarter across both the Apple App Store and Google Play. The app is free to use with advanced features available via subscription. While not a brand-new app, Sofa Time is one of several that is picking up where the recently shuttered TV Time app left off.",
+        "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+        "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+        "summary": "Sol countered by wanting price floors on similar products, but Opus refused. In any case, Sol refused and reported Opus to management again. Sol wasn’t having it and kept reporting Opus to management.",
         "source": "TechCrunch",
-        "date": "2026-07-28T18:16:39+00:00"
+        "date": "2026-07-29T18:45:27+00:00"
       },
       {
-        "title": "HBO Max embraces vertical video with a new ‘Shorts’ feed",
-        "url": "https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/",
-        "summary": "HBO Max is the latest streaming service to add a TikTok-like short-form video feed to its platform to help users find something to watch. HBO Max editors then decide which clips best represent the streaming service’s library of content. HBO Max joins streaming services like Netflix , Disney+ , and Peacock , all of which feature vertical video feeds to surface clips from their content libraries.",
+        "title": "Sorry, haters. Ferrari’s first EV is doing just fine",
+        "url": "https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/",
+        "summary": "When Ferrari revealed the Luce — its first EV — to the public in May, the internet reacted. Even former Ferrari chair Luca Cordero di Montezemolo was among the haters. Ferrari’s stock dropped 8% the day after the reveal.",
         "source": "TechCrunch",
-        "date": "2026-07-28T17:57:57+00:00"
+        "date": "2026-07-29T17:57:45+00:00"
       },
       {
-        "title": "Saudi prince buys 5% stake in Lucid Motors",
-        "url": "https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/",
-        "summary": "Prince Al Waleed bin Talal Al Saud, a member of the Saudi royal family, has purchased a 5% stake in Lucid Motors, increasing the Kingdom’s overall ownership of the electric vehicle company. Lucid strenuously denied the reports , and the company’s stock price has since rebounded. Lucid Motors has been majority-owned by the wealth fund — known as the Public Investment Fund, or PIF — since its initial investment in…",
+        "title": "Waymo robotaxis are starting to return to freeways",
+        "url": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
+        "summary": "Waymo is slowly adding freeway routes back to its service area more than two months after the company stopped driving these high-speed roads due to how its robotaxis behaved near construction zones. It would later add freeway routes in Miami. This was Waymo’s sixth recall of its robotaxis.",
         "source": "TechCrunch",
-        "date": "2026-07-28T17:33:51+00:00"
+        "date": "2026-07-29T17:50:57+00:00"
       },
       {
-        "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-        "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-        "summary": "The largest electrical grid in the U.S. has struggled to cope with an onslaught of data centers. Now, after an auction to add more generating capacity fell short, the grid’s operator, PJM Interconnection, has said it will cut off data centers and other large users during power shortages. Many data centers favor diesel generators since the fuel is widely available and can be stored on-site.",
+        "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
+        "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
+        "summary": "The Trump administration is banning the import of new foreign-made humanoid robots, robot dogs, and power inverters, citing an “unacceptable” threat to national security. Beijing rebuffed the FCC’s ban, with a Foreign Ministry spokesperson quoted by the Associated Press as saying that China will use “all measures necessary” to protect its businesses. Zack Whittaker is the security editor at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-07-28T15:42:26+00:00"
+        "date": "2026-07-29T17:41:09+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "The US is banning foreign robots",
-        "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
-        "summary": "The ban will have a major impact on robots made in China. The ban will have a major impact on robots made in China. The FCC does not appear to be limiting this ban to robots with legs.",
+        "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+        "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+        "summary": "The app will merge Copilot’s chat, coding, and agentic features. The app will merge Copilot’s chat, coding, and agentic features. Microsoft is working on an AI “super app” that combines Copilot’s chat, coding, and agentic capabilities.",
         "source": "The Verge",
-        "date": "2026-07-28T22:37:53+00:00"
+        "date": "2026-07-29T22:17:38+00:00"
       },
       {
-        "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-        "url": "https://github.com/twalichiewicz/HNewhere",
-        "summary": "A lightweight userscript that adds Hacker News discussions to any article. Visit an article with a Hacker News discussion. A lightweight userscript that adds Hacker News discussions to any article. (312 points, 81 comments on Hacker News)",
+        "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+        "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+        "summary": "However, Meta could have an uphill battle in personal agents. The company will have more to share about its personal agents “soon,” Zuckerberg said. The business agents are being rolled out to Instagram as well, Zuckerberg said.",
+        "source": "The Verge",
+        "date": "2026-07-29T21:48:07+00:00"
+      },
+      {
+        "title": "Qualcomm is raising phone chip prices starting September 1st",
+        "url": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings",
+        "summary": "﻿Qualcomm reported its lowest quarterly handset revenue since 2021. ﻿Qualcomm reported its lowest quarterly handset revenue since 2021. On Wednesday, Qualcomm announced a decade-long deal to supply chips for BMW . Qualcomm EVP, CFO, and COO Akash Palkhiwala also said some OEMs are beginning to use “prior generation” Qualcomm chips in their devices in response to higher component costs.",
+        "source": "The Verge",
+        "date": "2026-07-29T21:41:56+00:00"
+      },
+      {
+        "title": "AI's top startups are barely publishing their research",
+        "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+        "summary": "455 points, 238 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-07-28T22:09:06+00:00"
+        "date": "2026-07-29T21:25:40+00:00"
       },
       {
-        "title": "Ariana Grande is suing the hackers who&#8217;ve been leaking her songs and videos for years",
-        "url": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
-        "summary": "﻿The lawsuit alleges the hackers targeted producers and photographers Grande works with to steal her unreleased content. ﻿The lawsuit alleges the hackers targeted producers and photographers Grande works with to steal her unreleased content. Ariana Grande filed a lawsuit on Monday in the Los Angeles County Superior Court against the currently unidentified hackers who allegedly stole and leaked private content. As…",
+        "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+        "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+        "summary": "Back in January, Grok flooded the internet with millions of sexually explicit deepfakes , including images of minors . Around 23,000 of those images depicted children. Maybe Minnesota’s HF 1606 is a bad law.",
         "source": "The Verge",
-        "date": "2026-07-28T21:48:50+00:00"
+        "date": "2026-07-29T21:06:52+00:00"
       },
       {
-        "title": "The union drive at the Wikimedia Foundation is expanding",
-        "url": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
-        "summary": "US-based employees say they will file for a union election with the National Labor Relations Board. US-based employees say they will file for a union election with the National Labor Relations Board. Some volunteers questioned whether the layoffs were related to union efforts, which the foundation denied.",
+        "title": "Cyberpunk 2077 packs a lot of fun into its discounted $20 price",
+        "url": "https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale",
+        "summary": "It’s well worth the $20 price of admission to check out Night City’s updated world and story. Usually $59.99 for the standard edition, the game is priced at $17.99 at Steam . Xbox has the standard edition for $17.99 (usually $59.99), and the Ultimate Edition for $33.60 (usually $79.99).",
         "source": "The Verge",
-        "date": "2026-07-28T21:11:11+00:00"
+        "date": "2026-07-29T21:02:50+00:00"
       },
       {
-        "title": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
-        "url": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
-        "summary": "A group of now-former executives sent live insects, a bloody pig mask, and a funeral wreath to a couple who covered eBay in a newsletter. A group of now-former executives sent live insects, a bloody pig mask, and a funeral wreath to a couple who covered eBay in a newsletter. eBay and three former executives will pay $55.7 million as part of a settlement with a Massachusetts couple targeted with a bizarre harassment…",
-        "source": "The Verge",
-        "date": "2026-07-28T21:11:11+00:00"
-      },
-      {
-        "title": "Half-Life ported to Mac OS 9",
-        "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-        "summary": "Half-Life has finally landed for PowerPC based Macintosh computers 28 years after it's original release! This release supports G3 and G4 PowerPC based computers running Mac OS 9.0 or later. Half-Life for Mac OS 9 is a story driven first-person shooter, following scientist Gordon Freeman as he tries to survive and escape the Black Mesa Research Facility. (239 points, 115 comments on Hacker News)",
+        "title": "The coolest use for the Vision Pro",
+        "url": "https://christianselig.com/2026/07/vision-pro-house/",
+        "summary": "Now that I have something I’m happy with, I remembered Apple platforms love the USDZ file format for 3D models, and sure enough Fusion had a USDZ export option. I want something better. Take your USDZ file, import it into Xcode, and inside ImmersiveView.swift change the USDZ file name to whatever the name of your file is. (651 points, 259 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-28T20:58:39+00:00"
+        "date": "2026-07-29T20:39:40+00:00"
       },
       {
-        "title": "Codex Security",
-        "url": "https://github.com/openai/codex-security",
-        "summary": "Please reload this page . Please reload this page . @openai/codex-security is a CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities in your code. If that directory cannot be written, set CODEX_SECURITY_STATE_DIR to a writable directory outside the repository. (496 points, 167 comments on Hacker News)",
+        "title": "Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
+        "url": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
+        "summary": "Cloud revenue soared to $59 billion, while Xbox services and hardware sales took a hit. Cloud revenue soared to $59 billion, while Xbox services and hardware sales took a hit. Microsoft Cloud revenue soared 27 percent to $59.3 billion over the past few months, while revenue from its productivity business, which includes services like Microsoft 365 and LinkedIn, spiked 14 percent to $37.8 billion.",
+        "source": "The Verge",
+        "date": "2026-07-29T20:26:48+00:00"
+      },
+      {
+        "title": "Kimi K3-256k",
+        "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+        "summary": "Kimi Code currently offers two models—Kimi K3 and Kimi K2.7 Code—across four model IDs, selectable by model ID in clients or third-party tools. Switching recommendations: (1) Because different agent tools handle this differently, manually run compact once before switching to compress the context to within 256k. Usage therefore looks higher right after switching. (431 points, 125 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-28T20:52:55+00:00"
+        "date": "2026-07-29T19:25:33+00:00"
       },
       {
-        "title": "AI leaders sign a statement asking the government to do something about automated AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-        "summary": "The statement follows a recent high-profile cybersecurity incident that rocked the AI industry. The statement follows a recent high-profile cybersecurity incident that rocked the AI industry. And today, the world lacks the technical and governance tools to deliberately pace frontier-wide progress.",
+        "title": "What’s the catch with the Apple Upgrade program?",
+        "url": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal",
+        "summary": "We did the math on Apple’s new device leasing program so you don’t have to. Or you can upgrade to another device immediately and switch to whatever monthly payment that new device demands. During the lease, Klarna owns your device.",
         "source": "The Verge",
-        "date": "2026-07-28T19:46:43+00:00"
+        "date": "2026-07-29T18:40:06+00:00"
       },
       {
-        "title": "Is it illegal to trick the US government into wiping your phone during a questionably legal search?",
-        "url": "https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password",
-        "summary": "Prosecutors allege that Tunick used the GrapheneOS “duress password” to wipe his phone, therefore deleting evidence. Meanwhile, a federal judge in New York’s Eastern District determined that CBP agents can’t conduct any device searches without a warrant. It’s unclear why CBP agents believed Tunick had child sexual abuse material on his phone.",
+        "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+        "summary": "Greg Brockman says he thinks we’ll start talking to our computers, rather than typing, for the ‘vast majority’ of tasks. Greg Brockman says he thinks we’ll start talking to our computers, rather than typing, for the ‘vast majority’ of tasks. In an interview with our friend Joanna Stern on her YouTube channel , OpenAI president Greg Brockman said the company is working on a “family of devices” for interacting with…",
         "source": "The Verge",
-        "date": "2026-07-28T19:35:00+00:00"
+        "date": "2026-07-29T18:15:02+00:00"
       },
       {
-        "title": "AI’s finally expensive enough to make Wall Street nervous",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-        "summary": "It’s earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate , to as much as $205 billion — from the last quarter’s projection of up to $190 billion. Even the lower end of Google’s new projected range — $195 billion — is much more than the company had previously forecast as its top end spending. Plus, Google is spending more money than it’s making .",
+        "title": "The US government just banned Roombas",
+        "url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
+        "summary": "Did you hear it was just a ban on Chinese humanoid robots? Did you hear it was just a ban on Chinese humanoid robots? But like the consumer router ban , the FCC isn’t actually targeting companies with poor security.",
         "source": "The Verge",
-        "date": "2026-07-28T19:33:03+00:00"
-      },
-      {
-        "title": "This comfy gaming headset that can play audio from two sources is $25",
-        "url": "https://www.theverge.com/gadgets/972021/epos-h3-hybrid-wired-gaming-headset-deal-sale",
-        "summary": "The EPOS H3 Hybrid combines wired and Bluetooth audio sources, all for less than the cost of a new game. The EPOS H3 Hybrid combines wired and Bluetooth audio sources, all for less than the cost of a new game. See our ethics statement.",
-        "source": "The Verge",
-        "date": "2026-07-28T19:18:15+00:00"
-      },
-      {
-        "title": "Logitech will pull a Nintendo — only European mice will come with replaceable batteries",
-        "url": "https://www.theverge.com/tech/971963/logitech-user-replacable-batteries-europe",
-        "summary": "“Very few people will do this,” Logitech’s new gaming boss says. “Very few people will do this,” Logitech’s new gaming boss says. Logitech will do much the same.",
-        "source": "The Verge",
-        "date": "2026-07-28T19:12:48+00:00"
+        "date": "2026-07-29T18:13:09+00:00"
       }
     ]
   }
