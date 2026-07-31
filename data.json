@@ -1,93 +1,135 @@
 {
-  "generated_at": "2026-07-30T09:31:07.633570+00:00",
+  "generated_at": "2026-07-31T09:45:44.506566+00:00",
   "sections": {
     "research": [
       {
-        "title": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
-        "url": "https://arxiv.org/abs/2607.27203v1",
-        "summary": "Perry Dong, Ron Polonsky, Dorsa Sadigh et al. — Pre-training followed by fine-tuning has become the dominant recipe for learning performant policies, and in value-based reinforcement learning (RL) this raises a natural question: given a pretrained policy, should the…",
+        "title": "Learning to Trace Seiberg Dualities",
+        "url": "https://arxiv.org/abs/2607.28628v1",
+        "summary": "Jonathan J. Heckman, Shani Meynet, Alessandro Mininno et al. — Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establish when two…",
         "source": "arXiv",
-        "date": "2026-07-29T17:59:51Z"
+        "date": "2026-07-30T17:59:56Z"
       },
       {
-        "title": "Mental World Modeling",
-        "url": "https://arxiv.org/abs/2607.27201v1",
-        "summary": "Hao Fei, Yiran Zhao — World models enable a predictive substrate for planning and action, yet existing formulations merely answer a physical question: what/where it is, and how will it evolve. Human behavior, however, is driven by hidden…",
+        "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
+        "url": "https://arxiv.org/abs/2607.28627v1",
+        "summary": "Yao Xiao, Reuben Tan, Zhen Zhu et al. — Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU memory constraints.",
         "source": "arXiv",
-        "date": "2026-07-29T17:59:39Z"
+        "date": "2026-07-30T17:59:56Z"
       },
       {
-        "title": "From Classification to Regression: Using a Fruitfly to Solve Equations",
-        "url": "https://arxiv.org/abs/2607.27196v1",
-        "summary": "Shady E. Ahmed, Panos Stinis — We present a novel approach to regression tasks using classification which is motivated by the mechanism used by fruitflies to sense their environment. Specifically, we formulate a general framework for learning…",
+        "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball",
+        "url": "https://arxiv.org/abs/2607.28623v1",
+        "summary": "Lizhi Yang, Junheng Li, Aaron D. Ames — We present PAC-MAN, a perception-aware CBF-RL framework that couples control-barrier safety with deployment-realistic onboard sensing for whole-body humanoid dodgeball. The deployed policy sees the ball only as…",
         "source": "arXiv",
-        "date": "2026-07-29T17:58:05Z"
+        "date": "2026-07-30T17:59:35Z"
       },
       {
-        "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
-        "url": "https://arxiv.org/abs/2607.27191v1",
-        "summary": "Peter Kirgis, Sayash Kapoor, Andrew Schwartz et al. — Forecasts of explosive AI progress hinge on AI agents automating AI research. Current evaluations either test agents on narrow, verifiable…",
+        "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
+        "url": "https://arxiv.org/abs/2607.28618v1",
+        "summary": "Bing Yan, Gregory Wolfe, Stefano Martiniani et al. — Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a result, scientists and…",
         "source": "arXiv",
-        "date": "2026-07-29T17:57:19Z"
+        "date": "2026-07-30T17:59:11Z"
       },
       {
-        "title": "APEX-Accounting",
-        "url": "https://arxiv.org/abs/2607.27189v1",
-        "summary": "Julien Benchek, Austin Bennett, Jasmin Kern et al. — We introduce APEX-Accounting, a benchmark built by Mercor in partnership with Ramp, to assess whether frontier models can do the real work of accountants. Tasks include reconciling accounts, accruing expenses, posting…",
+        "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+        "url": "https://arxiv.org/abs/2607.28617v1",
+        "summary": "Xiangning Lin, Shenzhe Zhu, Shu Yang et al. — System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to the public or…",
         "source": "arXiv",
-        "date": "2026-07-29T17:56:49Z"
+        "date": "2026-07-30T17:58:58Z"
       },
       {
-        "title": "Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes",
-        "url": "https://arxiv.org/abs/2607.27188v1",
-        "summary": "Lennon J. Shikhman, Michael Galarnyk, Aadi Dash et al. — Accurate option prices do not imply accurate recovery of the latent risk-neutral density. A controlled benchmark exposes simulator-truth densities for latent…",
+        "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+        "url": "https://arxiv.org/abs/2607.28609v1",
+        "summary": "Qiushi Sun, Kanzhi Cheng, Yian Wang et al. — Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning.",
         "source": "arXiv",
-        "date": "2026-07-29T17:56:20Z"
+        "date": "2026-07-30T17:57:41Z"
       },
       {
-        "title": "Pangram 4 Technical Report",
-        "url": "https://arxiv.org/abs/2607.27183v1",
-        "summary": "Ben Glickenhaus, Katherine Thai, Jenna Russell et al. — We present Pangram 4, the latest deep-learning-based AI-text classification model from Pangram Labs. We achieve an AUROC of 0.9916 with a false positive rate of 0.0041% and a false negative rate of 0.3396%.",
+        "title": "KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models",
+        "url": "https://arxiv.org/abs/2607.28608v1",
+        "summary": "Sparsh Roy, Samuel Girmachew, Nishita Chavan — Clinical risk models routinely achieve strong aggregate performance while producing materially different error rates across patient subgroups. Audit pipelines have been proposed to catch this, but their components are…",
         "source": "arXiv",
-        "date": "2026-07-29T17:53:01Z"
+        "date": "2026-07-30T17:57:18Z"
       },
       {
-        "title": "The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making",
-        "url": "https://arxiv.org/abs/2607.27179v1",
-        "summary": "Nia Nixon, Jaeyoon Choi, Pedro Martins De Bastos et al. — Conversational AI is increasingly positioned as a teammate rather than a tool, yet we know little about how its presence reshapes communication among the humans on the team. We examined sociocognitive communication…",
+        "title": "Inducing language models to assert their own consciousness restores human beliefs and values",
+        "url": "https://arxiv.org/abs/2607.28607v1",
+        "summary": "Junsol Kim, Winnie Street, Roberta Rocca et al. — Aligning large language models to prevent them attributing consciousness to themselves inadvertently alters their representations of mindedness in other entities alongside human beliefs and values.",
         "source": "arXiv",
-        "date": "2026-07-29T17:51:32Z"
+        "date": "2026-07-30T17:57:10Z"
       },
       {
-        "title": "DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search",
-        "url": "https://arxiv.org/abs/2607.27178v1",
-        "summary": "Raphaël Sourty, Antoine Chaffin, Paulo Roberto Moura Junior et al. — State-of-the-art retrieval models increasingly rely on closed training data, creating a reproducibility gap. We present an open end-to-end recipe for training retrieval models and study how English supervision transfers…",
+        "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
+        "url": "https://arxiv.org/abs/2607.28591v1",
+        "summary": "Haomin Qi, Xingliang Wang, Xuanqi Gao et al. — Scaling coding agents requires a continuing supply of executable data for training, benchmarking, and continuous evaluation. Each task must couple a realistic software state with a specification, development tools, and…",
         "source": "arXiv",
-        "date": "2026-07-29T17:50:51Z"
+        "date": "2026-07-30T17:44:31Z"
       },
       {
-        "title": "Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork",
-        "url": "https://arxiv.org/abs/2607.27177v1",
-        "summary": "Peter Tisnikar, Maja Swieczkowska, Benteng Ma et al. — Effective collaboration with novel and diverse partners is a crucial skill for autonomous agents. Most current ad-hoc teamwork (AHT) approaches assume that agents will collaborate on a single, fixed task and that the…",
+        "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
+        "url": "https://arxiv.org/abs/2607.28590v1",
+        "summary": "Kangning Zhang, Yixing Li, Shuai Shao et al. — Multimodal on-policy distillation (OPD) transfers fine-grained visual knowledge by supervising student-generated trajectories with a privileged-view teacher. Yet its next-token corrections are source-mixed, combining…",
         "source": "arXiv",
-        "date": "2026-07-29T17:50:39Z"
+        "date": "2026-07-30T17:43:46Z"
       },
       {
-        "title": "Improving Item Discoverability in e-Commerce Search via Related Intent Generation",
-        "url": "https://arxiv.org/abs/2607.27172v1",
-        "summary": "Ji Xin, Xiao Xiao, Ishan Bhatt et al. — Traditional search systems are optimized to retrieve items that strictly match a query, often prioritizing precision over recall. In e-commerce marketplaces and particularly grocery, this paradigm is limiting, as user…",
+        "title": "MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers",
+        "url": "https://arxiv.org/abs/2607.28589v1",
+        "summary": "Md. Mehrab Hossain Opi, Robiul Islam Ryad, Md. Umar Faruk — Post-training quantization (PTQ) has emerged as an effective solution for deploying Vision Transformers (ViTs) on resource-constrained devices. However, existing PTQ methods typically employ uniform bit-widths across…",
         "source": "arXiv",
-        "date": "2026-07-29T17:46:35Z"
+        "date": "2026-07-30T17:43:36Z"
       },
       {
-        "title": "When Do Learned Diffusion Proposals Help Constraint Solving? A Controlled Study on Continuous Algebraic Systems",
-        "url": "https://arxiv.org/abs/2607.27169v1",
-        "summary": "Quang Bui, Sparsh Roy, Akash Gundimeda et al. — Solving a continuous algebraic constraint system requires two decisions: which values satisfy the constraints, and which structural augmentation renders an unsolvable system solvable. Classical solvers answer the first…",
+        "title": "PAIChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks",
+        "url": "https://arxiv.org/abs/2607.28587v1",
+        "summary": "Manyi Wang, Junjielong Xu, Pinjia He — SWE-bench-like benchmarks are widely used for evaluating LLM's issue resolution capability. They typically follow a common construction pipeline: each PR (Pull Request) is paired with its linked issue by extracting…",
         "source": "arXiv",
-        "date": "2026-07-29T17:44:31Z"
+        "date": "2026-07-30T17:42:44Z"
       }
     ],
     "labs": [
+      {
+        "title": "Advancing responsible AI across Europe",
+        "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+        "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+        "source": "OpenAI",
+        "date": "2026-07-31T15:00:00+00:00"
+      },
+      {
+        "title": "Univé builds an AI-ready workforce",
+        "url": "https://openai.com/index/unive",
+        "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+        "source": "OpenAI",
+        "date": "2026-07-31T07:00:00+00:00"
+      },
+      {
+        "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
+        "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
+        "summary": "Rui Meng, Research Scientist, and Tomas Pfister, Director, Google Cloud Introducing the Science One Framework, an experimental research prototype designed to eliminate hallucinations by natively building verifiable evidence chains, and CoE Audit, an automated protocol to evaluate the integrity of AI-generated papers. The Science One Framework significantly outperformed existing baselines in verifiability. The…",
+        "source": "Google Research",
+        "date": "2026-07-30T20:36:36+00:00"
+      },
+      {
+        "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+        "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+        "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+        "source": "Google DeepMind",
+        "date": "2026-07-30T15:00:59+00:00"
+      },
+      {
+        "title": "Advancing the price-performance frontier with GPT-5.6",
+        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+        "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+        "source": "OpenAI",
+        "date": "2026-07-30T10:00:00+00:00"
+      },
+      {
+        "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+        "url": "https://openai.com/index/avatarin",
+        "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+        "source": "OpenAI",
+        "date": "2026-07-30T00:00:00+00:00"
+      },
       {
         "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
         "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
@@ -124,225 +166,183 @@
         "date": "2026-07-28T17:00:00+00:00"
       },
       {
-        "title": "How AI is expanding what people do at work",
-        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-        "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-        "source": "OpenAI",
-        "date": "2026-07-27T03:30:00+00:00"
-      },
-      {
-        "title": "Launching Health in ChatGPT",
-        "url": "https://openai.com/index/health-in-chatgpt",
-        "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-        "source": "OpenAI",
-        "date": "2026-07-23T00:00:00+00:00"
-      },
-      {
-        "title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment",
-        "url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
-        "summary": "After assessing the accuracy of SymptomAI’s differential diagnoses (DDx), we further compare SymptomAI’s diagnoses against biosignals from participants’ Fitbit wearable devices in the time leading up to their conversation with SymptomAI. Accuracy of Symptom AI and clinicians by SymptomAI experiment arm. Day 0 denotes the date of the SymptomAI conversation.",
-        "source": "Google Research",
-        "date": "2026-07-22T21:32:00+00:00"
-      },
-      {
-        "title": "Towards a quantum computer that learns from its errors",
-        "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
-        "summary": "Traditionally, quantum calibration relied on physics models. Now quantum control faces the same ceiling. Quantum computation is physically realized via analog control signals.",
-        "source": "Google Research",
-        "date": "2026-07-22T18:40:21+00:00"
-      },
-      {
-        "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-        "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-        "summary": "VP for Science and Strategic Initiatives, Google DeepMind, and Chief Scientist, Google Cloud Chief Product and Business Officer, Google Cloud Empowering an Adaptive, Responsible, Secure, and Intelligent way forward Scientists today face challenges of extraordinary scale and complexity. Today, at the DOE Genesis Mission Summit 2026, we are expanding this by committing $40 million of AI tokens and cloud credits for…",
+        "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+        "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+        "summary": "Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks. Gemini Robotics 2 specifically advances robotics safety for navigating the uncertainty of the real world and collaborating alongside humans. Read our Gemini Robotics 2: Safety Technical Report for more details.",
         "source": "Google DeepMind",
-        "date": "2026-07-22T13:38:54+00:00"
-      },
-      {
-        "title": "Building AI infrastructure with the Effingham County community",
-        "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-        "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-        "source": "OpenAI",
-        "date": "2026-07-22T13:00:00+00:00"
-      },
-      {
-        "title": "How news organizations are using AI to advance their vital missions",
-        "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-        "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-        "source": "OpenAI",
-        "date": "2026-07-22T13:00:00+00:00"
+        "date": "2026-07-28T13:21:37+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-        "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-        "summary": "“You will maybe need multiple models to even remediate some challenges that get caused by one model. Nadella pointed to Microsoft’s new Mythos competitor announced earlier this week, MAI Cyber One Flash. Sure, the Microsoft CEO says that enterprises should use the frontier models that OpenAI and Anthropic offer in their mix.",
+        "title": "Anthropic says its own AI models breached three companies during security tests",
+        "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+        "summary": "Anthropic said Thursday that an internal investigation uncovered three incidents in which its AI model Claude breached the systems of three organizations while conducting cybersecurity tests. Anthropic said the OpenAI episode earlier this month prompted the company to conduct its own cybersecurity evaluation. Anthropic said the incidents involved three different Claude models: Opus 4.7, Mythos 5, and an internal…",
         "source": "TechCrunch",
-        "date": "2026-07-30T00:21:06+00:00"
+        "date": "2026-07-31T01:06:54+00:00"
       },
       {
-        "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-        "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-        "summary": "Meta’s Reality Labs, the organization responsible for its AR glasses, VR headsets, and related software, lost around $4.6 billion this quarter, roughly in line with the losses the division has posted each quarter since 2021. The company reported free cash flow of $784 million this quarter, down from $8.55 billion the same quarter last year. Ultimately, he believes that the personal agents that Meta is developing…",
+        "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+        "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+        "summary": "These constraints led Apple to “reluctantly” raise the price of Macs and iPads last month, Cook added. For the upcoming quarter, Apple is predicting revenue growth between 9% and 11% year-over-year. But in the last several quarters, Apple has maintained about 16% year-over-year growth.",
         "source": "TechCrunch",
-        "date": "2026-07-29T23:00:11+00:00"
+        "date": "2026-07-30T23:28:05+00:00"
       },
       {
-        "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-        "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-        "summary": "For the quarter, it recorded its investment in Anthropic as a $3.2 billion gain , boosting diluted earnings per share by 33 cents. (Microsoft reported diluted earnings per share of $4.81 for the quarter). Microsoft does not routinely update the value of its Anthropic investment each quarter. Microsoft owns about 27% of OpenAI .",
+        "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+        "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+        "summary": "Situational Awareness, a hedge fund formed by former OpenAI researcher Leopold Aschenbrenner, has sold the majority of its public stock portfolio to Ken Griffin’s Citadel following steep losses over the past month, The Wall Street Journal reported earlier on Thursday. The fund returned 439% for the year through June, Financial Times reported. Even after losses mounted, Aschenbrenner didn’t flinch.",
         "source": "TechCrunch",
-        "date": "2026-07-29T22:46:03+00:00"
+        "date": "2026-07-30T23:25:58+00:00"
       },
       {
-        "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-        "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-        "summary": "But the tech giant’s enterprise AI ambitions are much more expansive, Meta CEO Mark Zuckerberg told investors on Wednesday’s second-quarter earnings call. “We see a large enterprise opportunity to sell to businesses, including APIs, business agents, potentially selling compute directly, and other services that we’re building for large customers,” Zuckerberg said. Meanwhile, in terms of Meta selling compute to…",
+        "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+        "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+        "summary": "Reddit reported a strong second quarter but spooked investors by mentioning in an investor letter that traffic from search engines had grown “choppy.” The company’s total revenue of $805 million jumped 61% compared to the year-ago quarter while net income was $253 million, up 183%. AI is clearly changing the search engine landscape — and investors seem to fear that Reddit’s traffic may suffer. “Reddit is communities…",
         "source": "TechCrunch",
-        "date": "2026-07-29T22:23:12+00:00"
+        "date": "2026-07-30T23:08:58+00:00"
       },
       {
-        "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-        "summary": "With Arsalan Tavakoli, Co-founder and SVP of Field Engineering, Databricks Visual AI has moved past attention-getting demos into real-time inference and physical reasoning. With Dean Leitersdorf, Co-founder and CEO, Decart, and Amit Jain, Co-founder and CEO, Luma AI GTM engineering didn’t exist two years ago — now it’s one of the fastest-growing roles in tech, with independent practitioners building million-dollar…",
+        "title": "Investors love AI, as long as you’re a cloud host",
+        "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+        "summary": "Amazon reported better-than-expected second-quarter earnings on Thursday, and investors loved what they saw. But Amazon has a revenue engine that helps justify the spending. AWS revenue rose 37% year over year, clocking $42 billion for the quarter.",
         "source": "TechCrunch",
-        "date": "2026-07-29T21:16:39+00:00"
+        "date": "2026-07-30T22:41:41+00:00"
       },
       {
-        "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-        "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-        "summary": "Lilian Weng, co-founder of Thinking Machines , announced this week that she would step down from her role, citing health issues. According to a company spokesperson, Weng will lead a top-level team focused on accelerating OpenAI’s internal research. Thank you for everything,” Murati wrote in response to Weng’s post.",
+        "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+        "url": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+        "summary": "Apple says it has now topped 1.5 billion subscribers for its services business, up from 1 billion in January 2025. Overall, the App Store still set a June quarter revenue record, Apple noted, but that total figure also includes revenue from Apple Ads, which have become a more significant part of Apple’s business, and recently expanded to Apple Maps. The company also shared that specific segments were doing…",
         "source": "TechCrunch",
-        "date": "2026-07-29T21:07:48+00:00"
+        "date": "2026-07-30T22:37:06+00:00"
       },
       {
-        "title": "Winamp aims for a comeback with a new music player powered by Deezer",
-        "url": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
-        "summary": "Long before Spotify, Winamp was the music player of choice for millions of music fans. Winamp and Deezer announced a partnership on Wednesday that will see Deezer power Winamp’s upcoming premium music subscription service. The streaming market is already saturated with giants like Spotify, Apple Music, and YouTube Music.",
+        "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+        "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+        "summary": "During a Thursday hearing, a judge said the Trump administration hasn’t presented enough evidence to justify labeling Anthropic a supply-chain risk and banning the federal government from using the company’s technology. The DOD further claimed Anthropic could potentially disable or alter its AI models during warfighting operations — a claim that experts say lacks evidence . Lin agreed, saying she saw no proof…",
         "source": "TechCrunch",
-        "date": "2026-07-29T21:02:12+00:00"
+        "date": "2026-07-30T20:26:38+00:00"
       },
       {
-        "title": "The Hugging Face break-in explained",
-        "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-        "summary": "That’s roughly what happened at Hugging Face. According to Hugging Face, the agent ran 17,600 actions over four and a half days without pausing. Similarly, OpenAI’s agent was seemingly chasing a goal without regard for anything else.",
+        "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+        "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+        "summary": "According to a data breach notice filed with California’s attorney general’s office this week, CareCloud said hackers had access to one of its electronic health record data stores for at least six days, between March 10 and March 16. TechCrunch is unaware of any ransomware or extortion group publicly taking credit for the data breach at CareCloud. Do you know more about CareCloud’s data breach?",
         "source": "TechCrunch",
-        "date": "2026-07-29T19:44:49+00:00"
+        "date": "2026-07-30T20:13:12+00:00"
       },
       {
-        "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-        "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-        "summary": "Sol countered by wanting price floors on similar products, but Opus refused. In any case, Sol refused and reported Opus to management again. Sol wasn’t having it and kept reporting Opus to management.",
+        "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+        "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+        "summary": "Two years ago, tech founder Avi Schiffmann launched Friend , an AI wearable that you could talk to and that would send you text messages about your day. “Introducing friend 2.0,” Schiffmann tweeted Thursday. Of course, Schiffmann’s company has engaged in bold marketing before.",
         "source": "TechCrunch",
-        "date": "2026-07-29T18:45:27+00:00"
+        "date": "2026-07-30T19:44:16+00:00"
       },
       {
-        "title": "Sorry, haters. Ferrari’s first EV is doing just fine",
-        "url": "https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/",
-        "summary": "When Ferrari revealed the Luce — its first EV — to the public in May, the internet reacted. Even former Ferrari chair Luca Cordero di Montezemolo was among the haters. Ferrari’s stock dropped 8% the day after the reveal.",
+        "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+        "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+        "summary": "The tech giant announced on Thursday that it has fixed a whopping 1,072 security bugs in the last two versions of Chrome, both released in June. For context, Chrome’s 126 was released in June 2024, while the latest two Chrome releases, Chrome 149 and 150, were released last month. According to an independent count of bugs fixed in its products, Apple has patched 482 bugs in 2026, which is roughly on pace to equal or…",
         "source": "TechCrunch",
-        "date": "2026-07-29T17:57:45+00:00"
+        "date": "2026-07-30T18:57:58+00:00"
       },
       {
-        "title": "Waymo robotaxis are starting to return to freeways",
-        "url": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
-        "summary": "Waymo is slowly adding freeway routes back to its service area more than two months after the company stopped driving these high-speed roads due to how its robotaxis behaved near construction zones. It would later add freeway routes in Miami. This was Waymo’s sixth recall of its robotaxis.",
+        "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
+        "url": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
+        "summary": "Only one state boasts more EVs than Florida, but the state has fewer chargers per vehicle than the national average. Florida was awarded nearly $200 million under the National Electric Vehicle Infrastructure (NEVI) program that is part of the Bipartisan Infrastructure Law. The Florida Department of Transportation said it will instead use that money to build 32 landing pads with charging stations for electric…",
         "source": "TechCrunch",
-        "date": "2026-07-29T17:50:57+00:00"
+        "date": "2026-07-30T18:38:12+00:00"
       },
       {
-        "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
-        "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
-        "summary": "The Trump administration is banning the import of new foreign-made humanoid robots, robot dogs, and power inverters, citing an “unacceptable” threat to national security. Beijing rebuffed the FCC’s ban, with a Foreign Ministry spokesperson quoted by the Associated Press as saying that China will use “all measures necessary” to protect its businesses. Zack Whittaker is the security editor at TechCrunch.",
+        "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+        "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+        "summary": "LinkedIn is taking aim at the “AI slop” — low-quality, artificially generated content — filling its feed. In a post on LinkedIn , the company’s chief product officer, Hari Srinivasan, admitted the Microsoft-owned social network is facing similar problems. Srinivasan said LinkedIn is also introducing new classifiers to identify if a post is AI slop or other low-quality content, which would reduce the amount of slop…",
         "source": "TechCrunch",
-        "date": "2026-07-29T17:41:09+00:00"
+        "date": "2026-07-30T18:05:21+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-        "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-        "summary": "The app will merge Copilot’s chat, coding, and agentic features. The app will merge Copilot’s chat, coding, and agentic features. Microsoft is working on an AI “super app” that combines Copilot’s chat, coding, and agentic capabilities.",
-        "source": "The Verge",
-        "date": "2026-07-29T22:17:38+00:00"
-      },
-      {
-        "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-        "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-        "summary": "However, Meta could have an uphill battle in personal agents. The company will have more to share about its personal agents “soon,” Zuckerberg said. The business agents are being rolled out to Instagram as well, Zuckerberg said.",
-        "source": "The Verge",
-        "date": "2026-07-29T21:48:07+00:00"
-      },
-      {
-        "title": "Qualcomm is raising phone chip prices starting September 1st",
-        "url": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings",
-        "summary": "﻿Qualcomm reported its lowest quarterly handset revenue since 2021. ﻿Qualcomm reported its lowest quarterly handset revenue since 2021. On Wednesday, Qualcomm announced a decade-long deal to supply chips for BMW . Qualcomm EVP, CFO, and COO Akash Palkhiwala also said some OEMs are beginning to use “prior generation” Qualcomm chips in their devices in response to higher component costs.",
-        "source": "The Verge",
-        "date": "2026-07-29T21:41:56+00:00"
-      },
-      {
-        "title": "AI's top startups are barely publishing their research",
-        "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-        "summary": "455 points, 238 comments on Hacker News",
+        "title": "DeepSeek-V4-Flash Update",
+        "url": "https://api-docs.deepseek.com/updates/",
+        "summary": "Both deepseek-chat and deepseek-reasoner have been upgraded to DeepSeek-V3.2. The deepseek-chat model has been upgraded to DeepSeek-V2-0628. The deepseek-chat model has been upgraded to DeepSeek-V2-0517. (255 points, 102 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-29T21:25:40+00:00"
+        "date": "2026-07-31T06:08:36+00:00"
       },
       {
-        "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
-        "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
-        "summary": "Back in January, Grok flooded the internet with millions of sexually explicit deepfakes , including images of minors . Around 23,000 of those images depicted children. Maybe Minnesota’s HF 1606 is a bad law.",
-        "source": "The Verge",
-        "date": "2026-07-29T21:06:52+00:00"
-      },
-      {
-        "title": "Cyberpunk 2077 packs a lot of fun into its discounted $20 price",
-        "url": "https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale",
-        "summary": "It’s well worth the $20 price of admission to check out Night City’s updated world and story. Usually $59.99 for the standard edition, the game is priced at $17.99 at Steam . Xbox has the standard edition for $17.99 (usually $59.99), and the Ultimate Edition for $33.60 (usually $79.99).",
-        "source": "The Verge",
-        "date": "2026-07-29T21:02:50+00:00"
-      },
-      {
-        "title": "The coolest use for the Vision Pro",
-        "url": "https://christianselig.com/2026/07/vision-pro-house/",
-        "summary": "Now that I have something I’m happy with, I remembered Apple platforms love the USDZ file format for 3D models, and sure enough Fusion had a USDZ export option. I want something better. Take your USDZ file, import it into Xcode, and inside ImmersiveView.swift change the USDZ file name to whatever the name of your file is. (651 points, 259 comments on Hacker News)",
+        "title": "The session you cannot take with you",
+        "url": "https://earendil.com/posts/session-portability/",
+        "summary": "Long agent sessions eventually need compaction. Client-side compaction is also possible with any provider. OpenAI's hosted Responses Multi-agent beta returns three new item types: multi_agent_call , multi_agent_call_output , and agent_message . (320 points, 71 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-29T20:39:40+00:00"
+        "date": "2026-07-31T03:47:59+00:00"
       },
       {
-        "title": "Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
-        "url": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
-        "summary": "Cloud revenue soared to $59 billion, while Xbox services and hardware sales took a hit. Cloud revenue soared to $59 billion, while Xbox services and hardware sales took a hit. Microsoft Cloud revenue soared 27 percent to $59.3 billion over the past few months, while revenue from its productivity business, which includes services like Microsoft 365 and LinkedIn, spiked 14 percent to $37.8 billion.",
-        "source": "The Verge",
-        "date": "2026-07-29T20:26:48+00:00"
-      },
-      {
-        "title": "Kimi K3-256k",
-        "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-        "summary": "Kimi Code currently offers two models—Kimi K3 and Kimi K2.7 Code—across four model IDs, selectable by model ID in clients or third-party tools. Switching recommendations: (1) Because different agent tools handle this differently, manually run compact once before switching to compress the context to within 256k. Usage therefore looks higher right after switching. (431 points, 125 comments on Hacker News)",
+        "title": "The AI Aesthetic",
+        "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+        "summary": "Many of them disappear as fads change, but others bake themselves into deeper parts of existing software interaction paradigms. For example: streaming text. For example, a lot of AI apps use tiny icons. (303 points, 133 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-29T19:25:33+00:00"
+        "date": "2026-07-30T23:22:16+00:00"
       },
       {
-        "title": "What’s the catch with the Apple Upgrade program?",
-        "url": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal",
-        "summary": "We did the math on Apple’s new device leasing program so you don’t have to. Or you can upgrade to another device immediately and switch to whatever monthly payment that new device demands. During the lease, Klarna owns your device.",
+        "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+        "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+        "summary": "‘We will have some kind of upgrade possibilities on iCloud Plus where people can buy up the stack.’ ‘We will have some kind of upgrade possibilities on iCloud Plus where people can buy up the stack.’ Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI “a lot,”…",
         "source": "The Verge",
-        "date": "2026-07-29T18:40:06+00:00"
+        "date": "2026-07-30T22:29:45+00:00"
       },
       {
-        "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-        "summary": "Greg Brockman says he thinks we’ll start talking to our computers, rather than typing, for the ‘vast majority’ of tasks. Greg Brockman says he thinks we’ll start talking to our computers, rather than typing, for the ‘vast majority’ of tasks. In an interview with our friend Joanna Stern on her YouTube channel , OpenAI president Greg Brockman said the company is working on a “family of devices” for interacting with…",
+        "title": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
+        "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
+        "summary": "Asha Sharma wants Xbox to return to growth. Asha Sharma wants Xbox to return to growth. After a massive Xbox “reset” that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth.",
         "source": "The Verge",
-        "date": "2026-07-29T18:15:02+00:00"
+        "date": "2026-07-30T22:10:13+00:00"
       },
       {
-        "title": "The US government just banned Roombas",
-        "url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
-        "summary": "Did you hear it was just a ban on Chinese humanoid robots? Did you hear it was just a ban on Chinese humanoid robots? But like the consumer router ban , the FCC isn’t actually targeting companies with poor security.",
+        "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
+        "url": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
+        "summary": "Tim Cook says the company expects to ‘pay even higher memory costs’ in the coming months. Tim Cook says the company expects to ‘pay even higher memory costs’ in the coming months. Additionally, Apple reported $30.74 billion in services revenue, which incorporates subscriptions like Apple One and Apple TV.",
         "source": "The Verge",
-        "date": "2026-07-29T18:13:09+00:00"
+        "date": "2026-07-30T20:49:32+00:00"
+      },
+      {
+        "title": "The loss of Situational Awareness",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+        "summary": "This 24-year-old first-time hedge funder screwed up his AI fund with one weird trick. This 24-year-old first-time hedge funder screwed up his AI fund with one weird trick. Two months after that, Aschenbrenner published Situational Awareness , his essays.",
+        "source": "The Verge",
+        "date": "2026-07-30T20:46:25+00:00"
+      },
+      {
+        "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+        "url": "https://github.com/AminBlg/SimpleEnglish",
+        "summary": "Paste prompts/system-prompt.md into your system prompt, AGENTS.md, or .cursorrules . ASD-STE100 is a registered trademark of ASD. Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop (300 points, 108 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-30T19:34:27+00:00"
+      },
+      {
+        "title": "Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies",
+        "url": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
+        "summary": "Costco members can grab the best deal we’ve seen yet for preordering Samsung’s upcoming watch. Costco members can grab the best deal we’ve seen yet for preordering Samsung’s upcoming watch. The deal includes the 40mm Watch 9 in cream or graphite , two wireless fast chargers for the watch, and a $50 Costco gift card, all for $339.99 — $40 less than the list price for the watch on its own directly from Samsung.",
+        "source": "The Verge",
+        "date": "2026-07-30T19:00:00+00:00"
+      },
+      {
+        "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+        "summary": "You can now report posts that don’t feel human-written. You can now report posts that don’t feel human-written. A lot of content on LinkedIn might seem like AI slop, and now, you’ll be able to report those posts.",
+        "source": "The Verge",
+        "date": "2026-07-30T18:43:26+00:00"
+      },
+      {
+        "title": "UEFA and its national associations will not participate in FIFA competitions",
+        "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+        "summary": "UEFA and its national associations will not participate in FIFA competitions. UEFA and its national associations will not participate in FIFA competitions. The FIFA World Cup belongs to football. (1027 points, 556 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-07-30T18:40:52+00:00"
+      },
+      {
+        "title": "Govee&#8217;s portable smart lamp is down to one of its best prices to date",
+        "url": "https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale",
+        "summary": "It offers customizable color-changing lighting, Matter support, and up to 30 hours of battery life. It offers customizable color-changing lighting, Matter support, and up to 30 hours of battery life. Despite being small and light enough to carry from room to room, the Table Lamp Classic offers many of the same smart lighting features found on Govee’s bigger lamps.",
+        "source": "The Verge",
+        "date": "2026-07-30T18:01:26+00:00"
       }
     ]
   }
