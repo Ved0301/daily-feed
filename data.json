@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T09:06:38.823440+00:00",
+  "generated_at": "2026-08-02T09:09:32.804237+00:00",
   "sections": {
     "research": [
       {
@@ -175,6 +175,69 @@
     ],
     "startups": [
       {
+        "title": "Inside the London hacker house taking a stand against founder burnout",
+        "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+        "summary": "Six twentysomethings in East London have built what they say is the anti-San Francisco hacker house. Like all hacker houses, Lift House is part startup workspace, part co-living space. Aldean also feels the London ecosystem is less cutthroat than the Valley.",
+        "source": "TechCrunch",
+        "date": "2026-08-01T21:14:48+00:00"
+      },
+      {
+        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+        "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+        "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward, according to NBC News . District Judge Donovan Frank’s ruling focused as much on the timing of xAI’s lawsuit as on the substance of the law itself. This isn’t the end of xAI’s lawsuit against the ban; it only means that the law can take effect while the lawsuit proceeds.",
+        "source": "TechCrunch",
+        "date": "2026-08-01T20:26:04+00:00"
+      },
+      {
+        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+        "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+        "summary": "Hank Green, a novelist, comedian, and YouTuber with 3.2 million subscribers , recently apologized to his audience for his growing reliance on AI chatbots. Anthony Ha is TechCrunch’s weekend editor. Gain practical expertise.",
+        "source": "TechCrunch",
+        "date": "2026-08-01T19:45:45+00:00"
+      },
+      {
+        "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+        "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+        "summary": "As premium devices become more expensive, Apple, Samsung, and others are betting that leasing, subscriptions, and guaranteed buyback programs can make upgrading more attractive. Samsung, meanwhile, has been offering its Galaxy Forever program in India, combining financing with a guaranteed buyback to let consumers upgrade flagship Galaxy smartphones more predictably. That has prompted smartphone makers to experiment…",
+        "source": "TechCrunch",
+        "date": "2026-08-01T18:47:27+00:00"
+      },
+      {
+        "title": "Sam Altman is still making the case for parenting via ChatGPT",
+        "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+        "summary": "OpenAI CEO Sam Altman seemed excited to share what he called a “cool use case” on Friday, posting that parents could “connect your family calendars and explain your kids’ interests” to the company’s new product ChatGPT Work , then “every morning for the drive to school, have it make a podcast that talks about one kid’s soccer game that afternoon, one kid’s upcoming birthday, some news, etc.” Altman’s post prompted…",
+        "source": "TechCrunch",
+        "date": "2026-08-01T17:07:34+00:00"
+      },
+      {
+        "title": "This $9 key physically locks your most addictive apps",
+        "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+        "summary": "Autonomous Key takes a different approach to this issue simply by being a physical device. It’s an NFC key that pairs with a companion app to let you lock away distracting apps. Lauren covers media, streaming, apps and platforms at TechCrunch.",
+        "source": "TechCrunch",
+        "date": "2026-08-01T15:58:17+00:00"
+      },
+      {
+        "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
+        "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+        "summary": "Uber announced in September 2025 a partnership with drone delivery company Flytrex. Uber has also invested in Nuro. The Amazon-owned company is an Uber latecomer.",
+        "source": "TechCrunch",
+        "date": "2026-08-01T15:05:00+00:00"
+      },
+      {
+        "title": "Apps that help you break free from doomscrolling and get active",
+        "url": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
+        "summary": "The app is currently available for free for iOS devices. This iOS app integrates with Apple Health to limit access to designated apps until you meet your daily step goal. Lauren covers media, streaming, apps and platforms at TechCrunch.",
+        "source": "TechCrunch",
+        "date": "2026-08-01T14:00:00+00:00"
+      },
+      {
+        "title": "What’s the best handheld mini fan?",
+        "url": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
+        "summary": "The HushJet is more powerful than any other mini fan I tried, but that power comes with some noise. Does Dyson randomly put little bear ears on its fans? I love this little thing.",
+        "source": "TechCrunch",
+        "date": "2026-08-01T13:36:54+00:00"
+      },
+      {
         "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
         "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
         "summary": "OpenAI has since launched an investigation into how the incident occurred, which is still ongoing. TechCrunch reached out to OpenAI for more information. Gain practical expertise.",
@@ -194,155 +257,92 @@
         "summary": "“I either win or lose, and a lot of young founders have the same mindset,” he told TechCrunch. That pressure has always existed in startup culture, but founders say it’s grown more extreme. Dominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch.",
         "source": "TechCrunch",
         "date": "2026-07-31T22:00:00+00:00"
-      },
-      {
-        "title": "India is starting to pay for apps, not just download them",
-        "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-        "summary": "India’s app revenue saw its fastest growth in Q2 among major app markets, generating more than $200 million in quarterly consumer spending, per Sensor Tower’s data shared with TechCrunch. India still trails more mature app markets by a wide margin. Much of India’s app revenue growth is also being driven by non-gaming apps.",
-        "source": "TechCrunch",
-        "date": "2026-07-31T21:07:45+00:00"
-      },
-      {
-        "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-        "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-        "summary": "Google rolled out a new feature on Thursday that allowed users to deploy Nano Banana 2, its AI image generator, to create fabricated images inside its satellite imagery mapping app Google Earth. The whole point of this feature, Google said, was to get creative with geography. “We’re rolling back this feature in Google Earth while we work on implementing stronger guardrails,” Google added.",
-        "source": "TechCrunch",
-        "date": "2026-07-31T19:47:28+00:00"
-      },
-      {
-        "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
-        "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
-        "summary": "Index Ventures has raised $2 billion in fresh capital across three funds, the firm announced on Friday. Index also added $700 million to a $1.5 billion growth fund raised in 2024, bringing its total available capital to $3.5 billion. The fresh capital haul comes two years after Index raised $2.3 billion across two funds , including $800 million toward a predecessor venture fund.",
-        "source": "TechCrunch",
-        "date": "2026-07-31T19:39:51+00:00"
-      },
-      {
-        "title": "VC-backed startups commit more fraud, and researchers think they know why",
-        "url": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
-        "summary": "It found that fraud is rare overall but that companies with venture funding were more likely to face fraud charges compared to companies that didn’t take venture funding. In fact, the UT report found little evidence that alleged fraud prevents founders from raising funding for new startups, even when those fraud cases received major media attention. Weiss’ paper also suggests that investors should take more…",
-        "source": "TechCrunch",
-        "date": "2026-07-31T19:00:00+00:00"
-      },
-      {
-        "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-        "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-        "summary": "You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com .",
-        "source": "TechCrunch",
-        "date": "2026-07-31T17:26:32+00:00"
-      },
-      {
-        "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-        "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-        "summary": "In April, the company indicated that users would see less AI-generated content. Additionally, YouTube has intensified its crackdown on low-quality AI content by clarifying monetization policies, so “inauthentic content” cannot be monetized, including generic, repetitive, or template-based content, and any content featuring AI personas discussing sensitive topics such as health and finance. In separate news, last…",
-        "source": "TechCrunch",
-        "date": "2026-07-31T16:49:08+00:00"
-      },
-      {
-        "title": "Siri AI could come with a paywall for power users",
-        "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-        "summary": "In his final earnings call as CEO of Apple, Tim Cook said that the company’s long-awaited Siri AI upgrade could come with some paywalled limits. While Cook conceded that these plans are not set in stone, he envisions users being able to buy more compute for Siri AI via its existing iCloud+ subscriptions, which offer extended cloud storage. You can contact or verify outreach from Amanda by emailing…",
-        "source": "TechCrunch",
-        "date": "2026-07-31T16:08:18+00:00"
-      },
-      {
-        "title": "GM and Ford are talking less and less about EVs",
-        "url": "https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/",
-        "summary": "Now the two biggest American automakers are hardly talking about EVs with their investors. GM bet on mass-market EVs before most other major automakers. Ford began talking less about EVs before the 2024 election, though.",
-        "source": "TechCrunch",
-        "date": "2026-07-31T15:47:46+00:00"
-      },
-      {
-        "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
-        "url": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
-        "summary": "The high demand enables Samsung to prioritize customers willing to sign long-term contracts. With memory manufacturers shifting production capacity toward AI data centers and away from consumer electronics, consumers are facing a new reality: higher device prices. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
-        "source": "TechCrunch",
-        "date": "2026-07-31T15:37:58+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
-        "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
-        "summary": "One portable magnetic USB-C-to-HDMI dock to rule them all? I couldn’t recommend the Sharge Disk, Disk Plus, or even the Disk Pro, but I’d be happy to own the new Disk Pro 2 Ultra . The Disk Pro 2 fixes all that.",
-        "source": "The Verge",
-        "date": "2026-07-31T22:09:11+00:00"
-      },
-      {
-        "title": "Apple’s new AirTags are back down to their best price",
-        "url": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
-        "summary": "The latest AirTags offer more precise tracking, a louder speaker, and longer range than before. The latest AirTags offer more precise tracking, a louder speaker, and longer range than before. AirTag sharing lets up to five people keep track of the same item, while Apple’s Share Item Location feature allows you to temporarily share an AirTag’s location with participating airlines, including United, Delta, and…",
-        "source": "The Verge",
-        "date": "2026-07-31T19:35:45+00:00"
-      },
-      {
-        "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-        "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-        "summary": "Letting people easily alter images with an AI prompt was a bad idea. Letting people easily alter images with an AI prompt was a bad idea. Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI.",
-        "source": "The Verge",
-        "date": "2026-07-31T19:13:29+00:00"
-      },
-      {
-        "title": "Tailscale didn't stop the Hugging Face intrusion",
-        "url": "https://tailscale.com/blog/hugging-face-intrusion",
-        "summary": "But Tailscale is a zero trust network! Tailscale turns up everywhere in AI infrastructure: virtually every AI company uses Tailscale. A bonus third option: Tailscale itself. (548 points, 204 comments on Hacker News)",
+        "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+        "summary": "People are increasingly turning to artificial intelligence for financial advice, but will following it improve their financial standing? AI encourages smart financial behavior. The LLMs’ advice fell short on more subtle aspects of good financial planning. (294 points, 267 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-31T19:03:45+00:00"
+        "date": "2026-08-01T22:25:12+00:00"
       },
       {
-        "title": "The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports",
-        "url": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension",
-        "summary": "A potential suspension issue could cause ‘a loss of vehicle directional control.’ A potential suspension issue could cause ‘a loss of vehicle directional control.’ The National Highway Traffic Safety Administration (NHTSA) is probing nearly 1.2 million Tesla vehicles after receiving complaints about a suspension failure that could cause “a loss of vehicle directional control,” as reported earlier by Reuters . The…",
+        "title": "Pixel 11 specs and price leak with no surprises",
+        "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+        "summary": "More confirmation that price hikes and RAM cuts are coming our way. More confirmation that price hikes and RAM cuts are coming our way. Android Headlines claims to have the specs and price for the entire Pixel 11 lineup.",
         "source": "The Verge",
-        "date": "2026-07-31T18:33:39+00:00"
+        "date": "2026-08-01T21:31:24+00:00"
       },
       {
-        "title": "Google might launch a ‘Pixel Tag’",
-        "url": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
-        "summary": "9to5Google obtained an image of something called a “Google Pixel Tag” that has a small oval shape. Earlier this month, 9to5Google noted that early Pixel 11 listings mentioned a Google Pixel Tag but pointed out that “no such tracker exists right now.” Here’s a machine translation of the Pixel Tag’s description from the Slovenian listing: The Google Pixel Tag smart tracker helps you quickly and reliably locate your…",
-        "source": "The Verge",
-        "date": "2026-07-31T18:27:24+00:00"
-      },
-      {
-        "title": "qm – Multiplayer agent harness for work",
-        "url": "https://github.com/yc-software/qm",
-        "summary": "See deployment.md for the details. The deployment repository above carries config and a sandbox layer, and never needs a source checkout. For that, keep a private fork : a standalone private repository whose history begins as a clone of qm and whose core stays identical to upstream. (564 points, 113 comments on Hacker News)",
+        "title": "Seedance 2.5",
+        "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+        "summary": "Scene reference: @Image 4. Seedance 2.5 further strengthens its multimodal reference generation capabilities. Additionally, Seedance 2.5 improves lighting control. (325 points, 175 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-31T18:04:58+00:00"
+        "date": "2026-08-01T20:45:12+00:00"
       },
       {
-        "title": "The ban on robot vacuums won’t make them safer, only worse",
-        "url": "https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices",
-        "summary": "This ban means Americans will see fewer new models, slower innovation, and more expensive robot vacuums. Instead, this ban means Americans will see fewer new models, slower innovation, and more expensive robot vacuums. There are real security advantages to domestic robot production.",
-        "source": "The Verge",
-        "date": "2026-07-31T17:30:49+00:00"
-      },
-      {
-        "title": "Severance",
-        "url": "https://lcamtuf.substack.com/p/severance",
-        "summary": "243 points, 80 comments on Hacker News",
+        "title": "Diátaxis",
+        "url": "https://diataxis.fr/",
+        "summary": "A systematic approach to technical documentation authoring. Diátaxis is a way of thinking about and doing documentation. As well as serving the users of documentation, Diátaxis has value for documentation creators and maintainers. (336 points, 40 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-07-31T17:15:09+00:00"
+        "date": "2026-08-01T20:33:27+00:00"
       },
       {
-        "title": "Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount",
-        "url": "https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale",
-        "summary": "Plus, score a deal on Apple woven USB-C charging cables, a Marshall Bluetooth speaker, or Tile Slim trackers. Plus, score a deal on Apple woven USB-C charging cables, a Marshall Bluetooth speaker, or Tile Slim trackers. See our ethics statement.",
+        "title": "Angela Nissel faces down grief with a laugh",
+        "url": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
+        "summary": "The author’s latest book, Good Grief, Pass the Bread, Mom Is Dead, finds humor in difficult times. The author’s latest book, Good Grief, Pass the Bread, Mom Is Dead, finds humor in difficult times. Angela Nissel’s latest book, Good Grief, Pass the Bread, Mom Is Dead , is my kind of memoir.",
         "source": "The Verge",
-        "date": "2026-07-31T17:09:13+00:00"
+        "date": "2026-08-01T20:15:00+00:00"
       },
       {
-        "title": "Here’s the problem with putting an AI image generator in Google Earth",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
-        "summary": "Even with Google’s watermarks and restrictions, a tool that created believable flyover images was ripe for misuse, as Henk van Ess demonstrated. Even with Google’s watermarks and restrictions, a tool that created believable flyover images was ripe for misuse, as Henk van Ess demonstrated. Update, July 31st: After publication, Google announced it’s rolling back the feature .",
-        "source": "The Verge",
-        "date": "2026-07-31T17:05:46+00:00"
+        "title": "Google has abandoned Google News?",
+        "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+        "summary": "Yeah, that's Google News now. Google News has a Tools menu, where you can specify the range. Google has abandoned Google News and let it crash into the dock. (269 points, 194 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-01T19:39:43+00:00"
       },
       {
-        "title": "The major labels propose rules to keep AI slop off the charts",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-        "summary": "To be eligible for the charts, songs would have to be ‘substantially human made,’ whatever that means. To be eligible for the charts, songs would have to be ‘substantially human made,’ whatever that means. Several record labels, including the big three — Universal Music Group, Sony Music, and Warner Music Group — have proposed rules regarding chart eligibility for AI songs .",
+        "title": "Is this Billboard Hot 100 hit AI slop?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+        "summary": "Fenix has primarily trafficked in trap-influenced West Coast rap . The vocal melody is clearly influenced by Morrissey, with Fenix even adopting a fake British accent. Things only get worse when Fenix actually does sing.",
         "source": "The Verge",
-        "date": "2026-07-31T16:36:48+00:00"
+        "date": "2026-08-01T18:20:00+00:00"
+      },
+      {
+        "title": "How Google helped destroy adoption of RSS feeds (2023)",
+        "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+        "summary": "Back in 2005, Google created Google Reader, a web-based RSS Reader application. Eventually, after receiving backlash, Google reinstated the RSS feeds for Google Alerts . Then, after many RSS users were locked in and relying on the Google News app for their RSS feeds, Google deprecated RSS support , causing users' RSS feeds to stop working . (516 points, 177 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-01T18:07:07+00:00"
+      },
+      {
+        "title": "NetBSD 11.0",
+        "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+        "summary": "See the release announcement for details. As a consequence, we can't publish a release without open issues. Posted by Jay on August 01, 2026 at 06:10 PM UTC # Posted by Hossein on August 01, 2026 at 06:36 PM UTC # Posted by Artos on August 01, 2026 at 07:02 PM UTC # Posted by jeorge on August 01, 2026 at 07:14 PM UTC # Posted by Mario on August 01, 2026 at 07:28 PM UTC # Posted by Connor on August 01, 2026 at 10:25… (276 points, 127 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-01T17:56:41+00:00"
+      },
+      {
+        "title": "Spider-Man: Brand New Day leak racks up millions of views",
+        "url": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
+        "summary": "But that didn’t stop it from breaking box office records. But that didn’t stop it from breaking box office records. Between previews and opening day, it’s already grossed $168 million , which puts it ahead of Endgame’s $157.4 million.",
+        "source": "The Verge",
+        "date": "2026-08-01T17:00:12+00:00"
+      },
+      {
+        "title": "Cursor removed cost information from the usage page and CSV export",
+        "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+        "summary": "I just noticed Cursor Usage window switched from $$ to Token amount. Ultra runs on usage-based (token) pricing. Please restore per-request cost fields in the API (and the dashboard cost column). (324 points, 147 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-01T15:25:21+00:00"
+      },
+      {
+        "title": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
+        "url": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
+        "summary": "As usual, the president offered no evidence of his off-the-cuff accusations. As usual, the president offered no evidence of his off-the-cuff accusations. The FBI, the EPA, and the Cybersecurity and Infrastructure Security Agency ( CISA ) have stopped short of officially blaming Iran for a spate of cyberattacks on Minnesota’s water systems, but consensus is that Iran is likely behind them.",
+        "source": "The Verge",
+        "date": "2026-08-01T15:23:35+00:00"
       }
     ]
   }
