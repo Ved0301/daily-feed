@@ -1,93 +1,114 @@
 {
-  "generated_at": "2026-08-03T10:42:59.152581+00:00",
+  "generated_at": "2026-08-04T09:38:58.485051+00:00",
   "sections": {
     "research": [
       {
-        "title": "TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
-        "url": "https://arxiv.org/abs/2607.29678v1",
-        "summary": "Zhenyu Zhang, Zhichao Cao — LLM serving systems cache prompt KV state, yet most front ends still re-tokenize the full request text on every call. The cost lands on coding agents, which resubmit a long transcript after each small tool result, and…",
+        "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
+        "url": "https://arxiv.org/abs/2608.02602v1",
+        "summary": "Jiajun Liang, Yucheng Liao, Yukang Cao et al. — Language remains an outlier in generative modeling: while images, video, and audio are increasingly modeled in continuous latent spaces, text generation still relies predominantly on discrete tokens.",
         "source": "arXiv",
-        "date": "2026-07-31T17:56:30Z"
+        "date": "2026-08-03T17:59:50Z"
       },
       {
-        "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
-        "url": "https://arxiv.org/abs/2607.29677v1",
-        "summary": "Boyang Zhang, Adrian Lyjak, Eli Stewart et al. — Enterprise workflows increasingly rely on agents for \\emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with source…",
+        "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
+        "url": "https://arxiv.org/abs/2608.02599v1",
+        "summary": "Junjie Yin, Buxin She, Xinyu Feng et al. — Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little…",
         "source": "arXiv",
-        "date": "2026-07-31T17:55:58Z"
+        "date": "2026-08-03T17:59:09Z"
       },
       {
-        "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
-        "url": "https://arxiv.org/abs/2607.29675v1",
-        "summary": "Arkajyoti Bhattacharjee, Arnab Auddy — Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. We study differentially private…",
+        "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks",
+        "url": "https://arxiv.org/abs/2608.02595v1",
+        "summary": "Brandon Wang, Andrei S. Tyrin, Daniil A. Boiko — Language models are playing an increasingly important role in laboratory science, performing tasks such as experiment planning, execution, and post-hoc analysis. However, precisely measuring their abilities is…",
         "source": "arXiv",
-        "date": "2026-07-31T17:55:02Z"
+        "date": "2026-08-03T17:58:27Z"
       },
       {
-        "title": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback",
-        "url": "https://arxiv.org/abs/2607.29674v1",
-        "summary": "Maria Smirnova, Alexey Kravatskiy — SignMuon compresses the Muon update to one bit per parameter by taking its elementwise sign, providing the most direct way to run a matrix-aware optimizer under an extremely low communication budget.",
+        "title": "The Condition-Number Barrier in Sparse Least Squares",
+        "url": "https://arxiv.org/abs/2608.02588v1",
+        "summary": "Honghao Lin, Vahab Mirrokni, David P. Woodruff — In [AS21], Axiotis and Sviridenko conjectured that the linear dependence on the restricted condition number in sparse convex optimization cannot be improved by a polynomial-time algorithm. We establish their conjectured…",
         "source": "arXiv",
-        "date": "2026-07-31T17:54:46Z"
+        "date": "2026-08-03T17:57:01Z"
       },
       {
-        "title": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations",
-        "url": "https://arxiv.org/abs/2607.29665v1",
-        "summary": "Juncheng Zhong, Chenghuang Shen, Jianfeng Liu et al. — PDE discovery from sparse observations requires reconstructing a continuous field and selecting the correct differential terms. Our analysis of optimization paths in coupled neural PDE discovery reveals three behaviors:…",
+        "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning",
+        "url": "https://arxiv.org/abs/2608.02585v1",
+        "summary": "Zhaoxin Yu, Qi Shen, Hengli Li et al. — Optimization-based latent reasoning improves large language model outputs by optimizing instance-specific continuous states at test time while keeping model parameters frozen. Existing methods, however, typically…",
         "source": "arXiv",
-        "date": "2026-07-31T17:49:32Z"
+        "date": "2026-08-03T17:55:24Z"
       },
       {
-        "title": "GQ-FSL: Green Quantized Federated Split Learning",
-        "url": "https://arxiv.org/abs/2607.29659v1",
-        "summary": "Idan Roth, Lutz Lampe — Deploying state-of-the-art deep neural networks (DNNs) at the wireless edge is severely bottlenecked by the strict energy and resource constraints of mobile devices. While federated split learning (FSL) mitigates…",
+        "title": "UEmbed: Unified Sparse and Dense Multimodal Embeddings",
+        "url": "https://arxiv.org/abs/2608.02583v1",
+        "summary": "Tingyu Song, Mingxin Li, Yanzhao Zhang et al. — Sparse retrieval underpins modern search systems, from web search to retrieval-augmented generation. Existing work has introduced Learned Sparse Retrieval (LSR) to push beyond exact lexical matching toward richer…",
         "source": "arXiv",
-        "date": "2026-07-31T17:40:27Z"
+        "date": "2026-08-03T17:54:11Z"
       },
       {
-        "title": "Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics",
-        "url": "https://arxiv.org/abs/2607.29657v1",
-        "summary": "Yimin Chen, Brian Fricke, Bo Shen et al. — Fault detection and diagnosis (FDD) technology is essential for improving HVAC system reliability, energy efficiency, and maintenance effectiveness. However, effective deployment of FDD solutions in buildings requires…",
+        "title": "CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs",
+        "url": "https://arxiv.org/abs/2608.02578v1",
+        "summary": "Shuaijun Liu, Qifu Wen, Shuyang Hao et al. — World Action Models (WAMs) augment robot policies with action-conditioned predicted futures, but a plausible future alone does not justify changing the action that a bimanual policy would execute.",
         "source": "arXiv",
-        "date": "2026-07-31T17:37:34Z"
+        "date": "2026-08-03T17:51:58Z"
       },
       {
-        "title": "Evolving language compositionality in a frequency-structured meaning space",
-        "url": "https://arxiv.org/abs/2607.29642v1",
-        "summary": "Fabio De Ponte, Eloise Gaines-White, Conor Houghton et al. — The iterated learning model was introduced to investigate language evolution: the way in which the characteristic properties of human languages have been shaped, at least partly, by repeated transmission from one…",
+        "title": "Smooth Reparameterizations of Functions on Simplicial Product Spaces: Applications to Probabilistic Tensor Decomposition and Functional Data Registration",
+        "url": "https://arxiv.org/abs/2608.02576v1",
+        "summary": "Shashwat Kumar, Arafat Rahman, Anuj Srivastava et al. — We consider optimization problems defined on product spaces of simplices. Examples of this class of problems include learning low-rank discrete multivariate probability distributions via simplex constrained tensor…",
         "source": "arXiv",
-        "date": "2026-07-31T17:18:57Z"
+        "date": "2026-08-03T17:51:40Z"
       },
       {
-        "title": "AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers",
-        "url": "https://arxiv.org/abs/2607.29626v1",
-        "summary": "Tianyu Huai, Tingshuo Fan, Xinchi Chen et al. — As LLMs evolve from code completion systems into autonomous scientific agents, evaluating their ability to conduct experiments has become increasingly important. Existing benchmarks typically focus on static code…",
+        "title": "Pseudorandom Streams within Diffusion Models Act as Learnable Inputs That Affect Generation Quality",
+        "url": "https://arxiv.org/abs/2608.02575v1",
+        "summary": "Shengzhi Deng, Chenqi Ye, Yanze Guo — Diffusion models rely on stochastic inputs, yet on finite-precision hardware, the \"randomness\" they consume is realized as deterministic numerical orbits generated by pseudorandom rules. Accessible orbit structure can…",
         "source": "arXiv",
-        "date": "2026-07-31T16:58:00Z"
+        "date": "2026-08-03T17:50:54Z"
       },
       {
-        "title": "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations",
-        "url": "https://arxiv.org/abs/2607.29624v1",
-        "summary": "Ilya Mikhelson — Traditional static assessments rely on a subtractive, deficit-based grading model that often penalizes ambition and obscures diagnostic feedback. Conversely, traditional face-to-face oral examinations introduce severe…",
+        "title": "AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies",
+        "url": "https://arxiv.org/abs/2608.02569v1",
+        "summary": "Qiushi Lin, Chaojie Zhang, Íñigo Goiri et al. — The efficiency of a datacenter rests on its control plane policies. Designing these policies is increasingly hard: the hardware-software stack grows fast, the design space is vast and interdependent, and prototyping a…",
         "source": "arXiv",
-        "date": "2026-07-31T16:57:49Z"
+        "date": "2026-08-03T17:45:58Z"
       },
       {
-        "title": "CENDRe: Concept Extraction with Natural Domain Representations",
-        "url": "https://arxiv.org/abs/2607.29621v1",
-        "summary": "Antonia Holzapfel, Andres Felipe Posada Moreno, Sebastian Trimpe — Convolutional neural networks (CNNs) are widely used for time-series classification, but their deployment in critical domains requires understanding the temporal and spectral patterns that drive their predictions.…",
+        "title": "Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection",
+        "url": "https://arxiv.org/abs/2608.02560v1",
+        "summary": "Anusha Madan Gopal, Aras Pirbadian, Kristofor D. Carlson et al. — Retrieval-augmented generation (RAG) imposes a prefill cost proportional to retrieved context length, and -- with Transformer backbones -- a KV-cache that grows with each generated token. State-Space Models (SSMs) avoid…",
         "source": "arXiv",
-        "date": "2026-07-31T16:56:27Z"
+        "date": "2026-08-03T17:43:36Z"
       },
       {
-        "title": "When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning",
-        "url": "https://arxiv.org/abs/2607.29617v1",
-        "summary": "Luca Viano, Antoine Moulin, Audrey Huang et al. — Imitation learning (IL)---training an agent to replicate expert behavior from demonstrations---underpins applications from robotics to language model training. Standard approaches such as Behavior Cloning (BC) are known…",
+        "title": "Benchmarking Sheaf Neural Networks for Inductive Tasks",
+        "url": "https://arxiv.org/abs/2608.02558v1",
+        "summary": "Stefano Fiorini, Edoardo Coppola, Pietro Liò — Sheaf Neural Networks (SNNs) generalize message passing by replacing scalar edge weights of standard Graph Neural Networks (GNNs) with learnable, edge-dependent restriction maps between node stalks. Despite their strong…",
         "source": "arXiv",
-        "date": "2026-07-31T16:52:47Z"
+        "date": "2026-08-03T17:41:20Z"
       }
     ],
     "labs": [
+      {
+        "title": "Apple is getting this wrong",
+        "url": "https://openai.com/index/apple-is-getting-this-wrong",
+        "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+        "source": "OpenAI",
+        "date": "2026-08-03T22:00:00+00:00"
+      },
+      {
+        "title": "How we built a realtime system for responsive voice AI in six months",
+        "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+        "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+        "source": "OpenAI",
+        "date": "2026-08-03T07:00:00+00:00"
+      },
+      {
+        "title": "Circles powers telco personalization with OpenAI technology",
+        "url": "https://openai.com/index/circles",
+        "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+        "source": "OpenAI",
+        "date": "2026-08-03T00:00:00+00:00"
+      },
       {
         "title": "Ten advances in mathematics and theoretical computer science",
         "url": "https://openai.com/index/ten-advances-in-mathematics",
@@ -150,199 +171,178 @@
         "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
         "source": "OpenAI",
         "date": "2026-07-30T00:00:00+00:00"
-      },
-      {
-        "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-        "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-        "summary": "",
-        "source": "Google DeepMind",
-        "date": "2026-07-29T16:02:10+00:00"
-      },
-      {
-        "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-        "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-        "source": "OpenAI",
-        "date": "2026-07-29T15:00:00+00:00"
-      },
-      {
-        "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-        "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-        "source": "OpenAI",
-        "date": "2026-07-29T10:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-        "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-        "summary": "“AI, paradoxically, increases the demand for professional services,” says Efrat Rapoport, a former Salesforce executive whose new company, June, emerged from stealth Monday morning. The company declined to share its valuation. “You have fragmented data across these platforms.",
+        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+        "summary": "Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises. The skyrocketing use of AI helped Palantir achieve record-breaking results. Gain practical expertise.",
         "source": "TechCrunch",
-        "date": "2026-08-03T10:00:00+00:00"
+        "date": "2026-08-03T23:19:50+00:00"
       },
       {
-        "title": "The global memory shortage hits the MacBook Air",
-        "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
-        "summary": "The global memory chip shortage is affecting the availability of Apple’s most popular Mac, according to Bloomberg’s Mark Gurman . Gurman said the shortage — caused by the demands of chip-hungry AI companies — had already affected Apple’s more niche computers, the Mac mini and Mac Studio. It even warns , “MacBook Air subject to availability.” Scale faster.",
+        "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+        "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+        "summary": "Snap CEO Evan Spiegel sidestepped investors’ questions about preorder demand for the company’s long-awaited Specs smart glasses during Monday’s earnings call, just weeks before the device’s September launch event. “What we’re hearing from folks is really that they want to try Specs,” Spiegel told investors. Aisha is a consumer news reporter at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-08-02T21:33:59+00:00"
+        "date": "2026-08-03T22:10:58+00:00"
       },
       {
-        "title": "Sam Altman and AI’s decel debate",
-        "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-        "summary": "Sean: I think that’s right. Lorenzo, one of our colleagues, also wrote a really good piece walking through how serious security researchers who pay attention to this stuff think that the hack really was . Anthony Ha is TechCrunch’s weekend editor.",
+        "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+        "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+        "summary": "Vibe-coding startup Superblocks announced a multiyear joint marketing agreement with Amazon Web Services (AWS) that enables its tool to be embedded within the private clouds of AWS customers. That means an enterprise on AWS that subscribes to Superblocks will be able to offer vibe coding to the company’s business users, and those apps will not send data or information externally to model providers or databases.…",
         "source": "TechCrunch",
-        "date": "2026-08-02T20:54:22+00:00"
+        "date": "2026-08-03T20:00:00+00:00"
       },
       {
-        "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
-        "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
-        "summary": "The Malaysian government has ordered the shutdown of a startup-centric community called the Network School, according to The Wall Street Journal . Billing itself as “a frontier community for techno-optimists,” the Network School reportedly grew out of entrepreneur and investor Balaji Srinivasan’s conviction that the United States is in irreversible decline; Srinivasan has said his goal is “to start a new country.”…",
+        "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+        "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+        "summary": "The surprise admissions by OpenAI and Anthropic that their unreleased AI models autonomously hacked into several companies have upended our understanding of America’s computer hacking laws, prompting discussions over whether the companies could face legal reprisals. Anthropic recently conducted an internal review and discovered its own model also hacked three separate companies. TechCrunch spoke to attorneys who…",
         "source": "TechCrunch",
-        "date": "2026-08-02T17:05:07+00:00"
+        "date": "2026-08-03T19:45:35+00:00"
       },
       {
-        "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
-        "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
-        "summary": "Kevin Mullin (D-Calif.) proposed a bill that would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators. Florida was awarded $200 million under the federal National Electric Vehicle Infrastructure program, but the money never made it to charging infrastructure for electric cars. In April, Waymo began testing its autonomous vehicles with human safety operators in…",
+        "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+        "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+        "summary": "The result became Design Arena , an AI tool now used by 5.3 million people around the world. For non-enterprise users, using Design Arena is a lot like using a sophisticated model router. It too nabbed some frontier models as customers and had, it said, over 1.3 million users, but still couldn’t build a sustainable long-term business.",
         "source": "TechCrunch",
-        "date": "2026-08-02T16:05:00+00:00"
+        "date": "2026-08-03T19:28:57+00:00"
       },
       {
-        "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-        "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-        "summary": "According to one report, new app launches have soared in 2026, with worldwide new app releases up 60% year-over-year as of the first quarter across both the Apple App Store and Google Play. The app is free to use with advanced features available via subscription. While not a brand-new app, Sofa Time is one of several that is picking up where the recently shuttered TV Time app left off.",
+        "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+        "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+        "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue. TechCrunch spoke to a person who left a negative comment on a video posted by an influencer attending the OpenAI Summer Camp. This piece was updated to show comments from OpenAI.",
         "source": "TechCrunch",
-        "date": "2026-08-02T15:23:19+00:00"
+        "date": "2026-08-03T19:09:56+00:00"
       },
       {
-        "title": "Inside the London hacker house taking a stand against founder burnout",
-        "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-        "summary": "Six twentysomethings in East London have built what they say is the anti-San Francisco hacker house. Like all hacker houses, Lift House is part startup workspace, part co-living space. Aldean also feels the London ecosystem is less cutthroat than the Valley.",
+        "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
+        "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
+        "summary": "Apple is challenging another legal demand by the U.K. government to access the encrypted data of its users in the country, according to Financial Times . The company reportedly filed a complaint with the U.K.’s Investigatory Powers Tribunal, a court that hears cases related to government surveillance, after the government last year issued a “technical capability notice.” The notice is a secret government legal order…",
         "source": "TechCrunch",
-        "date": "2026-08-01T21:14:48+00:00"
+        "date": "2026-08-03T18:54:09+00:00"
       },
       {
-        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-        "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-        "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward, according to NBC News . District Judge Donovan Frank’s ruling focused as much on the timing of xAI’s lawsuit as on the substance of the law itself. This isn’t the end of xAI’s lawsuit against the ban; it only means that the law can take effect while the lawsuit proceeds.",
+        "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+        "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+        "summary": "That is not to say Apple’s Siri AI isn’t valuable or useful. With Siri AI’s launch, Apple delivered on its promises and then some. Siri can brainstorm with you, too.",
         "source": "TechCrunch",
-        "date": "2026-08-01T20:26:04+00:00"
+        "date": "2026-08-03T18:43:43+00:00"
       },
       {
-        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-        "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-        "summary": "Hank Green, a novelist, comedian, and YouTuber with 3.2 million subscribers , recently apologized to his audience for his growing reliance on AI chatbots. Anthony Ha is TechCrunch’s weekend editor. Gain practical expertise.",
+        "title": "Outernet turns your saved posts into real-world adventures",
+        "url": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
+        "summary": "Now, they want to bring that same spirit into their app. Outernet taps into an already common consumer behavior. Outernet solves this problem by keeping track of the things you want to do or places you want to visit, all in one place.",
         "source": "TechCrunch",
-        "date": "2026-08-01T19:45:45+00:00"
+        "date": "2026-08-03T18:00:24+00:00"
       },
       {
-        "title": "Should you still buy your next smartphone — or subscribe to it instead?",
-        "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
-        "summary": "As premium devices become more expensive, Apple, Samsung, and others are betting that leasing, subscriptions, and guaranteed buyback programs can make upgrading more attractive. Samsung, meanwhile, has been offering its Galaxy Forever program in India, combining financing with a guaranteed buyback to let consumers upgrade flagship Galaxy smartphones more predictably. That has prompted smartphone makers to experiment…",
+        "title": "WhatsApp says it is fixing an issue that disabled several accounts",
+        "url": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
+        "summary": "For the last few hours, several people across social media have reported that their WhatsApp accounts have been blocked and put “under review” by Meta. Hi @Meta @WhatsApp My WhatsApp account got locked is under review. We’ve taken action to restore affected accounts,” a company spokesperson said.",
         "source": "TechCrunch",
-        "date": "2026-08-01T18:47:27+00:00"
+        "date": "2026-08-03T17:46:01+00:00"
       },
       {
-        "title": "Sam Altman is still making the case for parenting via ChatGPT",
-        "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-        "summary": "OpenAI CEO Sam Altman seemed excited to share what he called a “cool use case” on Friday, posting that parents could “connect your family calendars and explain your kids’ interests” to the company’s new product ChatGPT Work , then “every morning for the drive to school, have it make a podcast that talks about one kid’s soccer game that afternoon, one kid’s upcoming birthday, some news, etc.” Altman’s post prompted…",
+        "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
+        "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
+        "summary": "Valar is building small modular nuclear reactors (SMRs) — essentially miniaturized, factory-built power plants intended to be cheaper and faster to build than traditional reactors. Valar says its reactors generate the engineering, manufacturing, and operational data needed to improve next-generation reactors, speeding its development cycles. As for Valar’s new round, other investors include Apandion Capital,…",
         "source": "TechCrunch",
-        "date": "2026-08-01T17:07:34+00:00"
+        "date": "2026-08-03T17:16:43+00:00"
       },
       {
-        "title": "This $9 key physically locks your most addictive apps",
-        "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-        "summary": "Autonomous Key takes a different approach to this issue simply by being a physical device. It’s an NFC key that pairs with a companion app to let you lock away distracting apps. Lauren covers media, streaming, apps and platforms at TechCrunch.",
+        "title": "Base Power raises another $1B to save the grid using backyard batteries",
+        "url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+        "summary": "Base Power also rolled out a new version of its home battery today, called Base Core. Base Power operates in Texas and Illinois. Base Power was co-founded by Zach Dell, who serves as CEO.",
         "source": "TechCrunch",
-        "date": "2026-08-01T15:58:17+00:00"
+        "date": "2026-08-03T16:46:57+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Don't be a meat proxy",
-        "url": "https://gruhn.me/blog/2026-08-03/",
-        "summary": "Take code review in particular. Shipping some code can be done with close to zero effort now: Copy/paste the ticket description into Claude Code. Don't look at the code or read what Claude has written. (636 points, 280 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-03T06:28:01+00:00"
-      },
-      {
-        "title": "More German than many Germans",
-        "url": "https://mertbulan.com/more-german-than-many-germans/",
-        "summary": "I didn't feel any discrimination, even though people say Germans prefer Germans when it comes to promotions. Many Germans have told me I'm more German than many Germans. People who care about someone they will never meet. (282 points, 216 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-03T06:00:14+00:00"
-      },
-      {
-        "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-        "url": "https://qwen.ai/blog?id=qwen3.8",
-        "summary": "599 points, 304 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-08-03T02:16:09+00:00"
-      },
-      {
-        "title": "Show HN: Isopolis – Isometric pixel map of SF",
-        "url": "https://sf.isopolis.city/",
-        "summary": "226 points, 50 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-08-03T00:46:38+00:00"
-      },
-      {
-        "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
-        "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
-        "summary": "Two minutes and thirty seconds into the title track of Rachika Nayar’s Heaven Come Crashing , an absolutely massive drum and bass beat drops. Heaven Come Crashing is almost entirely drum-free, too. Rachika Nayar’s Heaven Come Crashing is available on Bandcamp and most major streaming services, including Apple Music , Spotify , YouTube Music , Qobuz , and Deezer .",
+        "title": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
+        "url": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox",
+        "summary": "Game Freak’s new action game is full of ideas you’ve seen and played before. The standout feature of the game is its action. The game’s skill tree is even a literal tree.",
         "source": "The Verge",
-        "date": "2026-08-02T21:53:15+00:00"
+        "date": "2026-08-04T00:00:00+00:00"
       },
       {
-        "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
-        "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
-        "summary": "The European Union’s open-source age-verification project has drawn criticism after a maintainer confirmed that hardware-bound attestation is a mandatory architectural requirement, raising concerns about Linux, custom Android ROMs, and independently compiled applications. The project’s technical specification requires age verification apps to use native cryptographic hardware when available. For now, however, the… (208 points, 138 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-02T20:44:24+00:00"
-      },
-      {
-        "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-        "summary": "Bud Cole also compared learning cover songs to AI training data in a controversial interview. “I actually believe cover music has been sort of analog AI for a long time,” says Cole. Cole is trying to draw a comparison between a human “training” on a handful of cover songs and an AI ingesting enormous datasets of copyrighted music.",
+        "title": "Your Fitbit data can now connect directly to Apple Health",
+        "url": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
+        "summary": "Google Health can sync your workouts, steps, and vitals to Apple Health. Google Health can sync your workouts, steps, and vitals to Apple Health. Google Health replaced the Fitbit app in May.",
         "source": "The Verge",
-        "date": "2026-08-02T19:36:08+00:00"
+        "date": "2026-08-03T21:24:23+00:00"
       },
       {
-        "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
-        "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
-        "summary": "237 points, 120 comments on Hacker News",
+        "title": "LLMs reward expertise",
+        "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+        "summary": "The most important skill in prompting is expertise in the domain you’re prompting for. There’s a lot to learn about good prompting from Tao’s conversation. The usefulness of domain knowledge suggests that human expertise will continue to be useful even as models get stronger. (935 points, 394 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-02T19:19:24+00:00"
+        "date": "2026-08-03T21:13:53+00:00"
       },
       {
-        "title": "SwiftUI After 7 Years",
-        "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
-        "summary": "Instead, SwiftUI feels like a perpetual beta, even in 2026. Let’s talk about SwiftUI’s layout system. Well, SwiftUI received this “breakthrough” feature only a few years ago. (200 points, 180 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-02T18:59:05+00:00"
-      },
-      {
-        "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-        "url": "https://github.com/wie-project/kakehashi",
-        "summary": "Userspace macOS ARM64 → Linux aarch64 translation layer (CLI-first, no JIT). Bottle bridges the Linux FS as /Volumes/linux/… : Apache License 2.0. Userspace macOS translation layer for Linux ARM64 (222 points, 55 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-02T16:26:40+00:00"
-      },
-      {
-        "title": "Xbox prices are increasing by up to €200 or £170",
-        "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-        "summary": "Microsoft’s struggling console continues to see unprecedented price bumps. Microsoft’s struggling console continues to see unprecedented price bumps. When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing.",
+        "title": "Samsung’s discounted smart monitor is $349.99, its lowest price yet",
+        "url": "https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale",
+        "summary": "This 4K smart monitor is loaded with features like streaming apps, cloud gaming apps, and a webcam. This 4K smart monitor is loaded with features like streaming apps, cloud gaming apps, and a webcam. See our ethics statement.",
         "source": "The Verge",
-        "date": "2026-08-02T16:14:20+00:00"
+        "date": "2026-08-03T21:13:38+00:00"
       },
       {
-        "title": "How the words we teach English language learners changed",
-        "url": "https://pudding.cool/2026/07/essential-words/",
-        "summary": "The 2023 list contains more words overall (2,809 vs. I compared two prominent vocabulary lists for English learners: the General Service List (GSL, 1953; 2,284 words) and the New General Service List (NGSL 1.2, 2023; 2,809 words). I labeled words appearing on both lists as “remained” (1,656), words only on the 1953 list as “removed” (628), and words only on the 2023 list as “added” (1,153). (221 points, 170 comments on Hacker News)",
+        "title": "Europe’s AI labeling and transparency rules are now in effect",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+        "summary": "Tech companies could face fines if they don’t meet new requirements for AI transparency. Tech companies could face fines if they don’t meet new requirements for AI transparency. The transparency rules differ between providers (companies that develop and market AI systems) and deployers (platforms and services that use those AI systems), though some companies like Meta and SpaceXAI are classified as both.",
+        "source": "The Verge",
+        "date": "2026-08-03T17:38:45+00:00"
+      },
+      {
+        "title": "The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished",
+        "url": "https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale",
+        "summary": "The included stylus is great for writing or annotating notes when you aren’t reading ebooks. The included stylus is great for writing or annotating notes when you aren’t reading ebooks. The Kindle Scribe is worth considering if you’re heading back to school, as its large 10.2-inch screen can display textbooks and ebooks, or let you jot down handwritten notes during class.",
+        "source": "The Verge",
+        "date": "2026-08-03T17:17:54+00:00"
+      },
+      {
+        "title": "Microsoft is bringing Xbox 360 games to PC",
+        "url": "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program",
+        "summary": "﻿The disc to digital program seems like it’s close to launching, too. ﻿The disc to digital program seems like it’s close to launching, too. Xbox 360 games will be able to run on the next-gen Project Helix console, “Xbox PCs,” and handheld devices, the document says. We understand Microsoft had originally planned to test its disc-to-digital program with Xbox Insiders in July, but the beta was delayed.",
+        "source": "The Verge",
+        "date": "2026-08-03T16:31:35+00:00"
+      },
+      {
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "url": "https://openai.com/index/ten-advances-in-mathematics/",
+        "summary": "536 points, 822 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-08-02T15:41:08+00:00"
+        "date": "2026-08-03T16:27:12+00:00"
+      },
+      {
+        "title": "Taylor Farms has rewritten its cyclospora statement four times in sixteen days",
+        "url": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
+        "summary": "FDA reported a positive test on July 18. FDA retracted that result as a false positive on July 19. On product, the company says more. (290 points, 236 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-03T15:31:32+00:00"
+      },
+      {
+        "title": "Twenty Years of Pandoc",
+        "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+        "summary": "Typst support was added in pandoc 3.1.3. The four core packages ( pandoc , pandoc-lua-engine , pandoc-server , pandoc-cli ) consist of 85,684 lines of Haskell code, not including tests. Happy 20th birthday, pandoc! (255 points, 30 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-03T15:04:53+00:00"
+      },
+      {
+        "title": "Bluesky’s new CEO wants a big tent, not a bubble",
+        "url": "https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere",
+        "summary": "Okay: Bluesky CEO Toni Schneider. Bluesky today is really two things. People use both Tangled and Bluesky.",
+        "source": "The Verge",
+        "date": "2026-08-03T15:00:00+00:00"
+      },
+      {
+        "title": "Palworld’s expanding to mobile with a new MMORPG",
+        "url": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
+        "summary": "Palworld Online will expand on the original game with a new setting and new story elements. Palworld Online will expand on the original game with a new setting and new story elements. Garena, the developer behind the new game, says in its announcement that Palworld Online “reimagines the depth, freedom, and scale of the original PC survival creature-collecting title for mobile.” The core features of the new mobile…",
+        "source": "The Verge",
+        "date": "2026-08-03T14:50:29+00:00"
       }
     ]
   }
