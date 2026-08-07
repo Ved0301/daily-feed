@@ -1,93 +1,121 @@
 {
-  "generated_at": "2026-08-06T09:40:13.901290+00:00",
+  "generated_at": "2026-08-07T08:14:29.443036+00:00",
   "sections": {
     "research": [
       {
-        "title": "Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training",
-        "url": "https://arxiv.org/abs/2608.05148v1",
-        "summary": "Damien Sileo, Valentin Lacombe, Dimitri Kachler — Procedural generators produce useful verifiable reasoning problems at scale, but have received less attention as data for completion-supervised fine-tuning. We introduce Reasoning Core, a collection of 50 generators…",
+        "title": "Learning When to Trust via Selective Context Preference Optimization",
+        "url": "https://arxiv.org/abs/2608.06377v1",
+        "summary": "Xian Sun, Wei Chow, Yingshuo Wang et al. — Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a…",
         "source": "arXiv",
-        "date": "2026-08-05T17:59:44Z"
+        "date": "2026-08-06T17:59:58Z"
       },
       {
-        "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
-        "url": "https://arxiv.org/abs/2608.05144v1",
-        "summary": "Boxiu Li, Zimo Wen, Yijia Fan et al. — Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified objective.",
+        "title": "The Bitter Lesson of Tool Calling",
+        "url": "https://arxiv.org/abs/2608.06370v1",
+        "summary": "Ishan Patel, Sahil Sen, Elias Lumer et al. — Tool use transforms LLMs into agents that act beyond their training data, and for code-capable models, programmatic tool calling extends this further by replacing rigid JSON calls with scripts that chain and parallelize…",
         "source": "arXiv",
-        "date": "2026-08-05T17:58:58Z"
+        "date": "2026-08-06T17:58:32Z"
       },
       {
-        "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
-        "url": "https://arxiv.org/abs/2608.05141v1",
-        "summary": "Indraneil Paul, Falko Helm, Goran Glavaš et al. — Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. Existing long-context corpora, however, are…",
+        "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
+        "url": "https://arxiv.org/abs/2608.06366v1",
+        "summary": "Soorya Ram Shimgekar, Michelle Hu, Dorisa Shehi et al. — Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure, which affects an…",
         "source": "arXiv",
-        "date": "2026-08-05T17:58:15Z"
+        "date": "2026-08-06T17:57:37Z"
       },
       {
-        "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
-        "url": "https://arxiv.org/abs/2608.05139v1",
-        "summary": "Yinghui He, Ling Yang, Jiarui Liu et al. — Long-horizon reasoning in recent LLMs demands that the model switch between distinct skills inside a reasoning chain, such as first doing a math derivation, then using the result to plan a schedule.",
+        "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
+        "url": "https://arxiv.org/abs/2608.06364v1",
+        "summary": "George Grispos, Sajda Qureshi — The use of e-commerce mobile applications is expanding in Nigeria, creating both opportunities and risks, including fraud and reduced user control over digital technologies, raising concerns about digital sovereignty.…",
         "source": "arXiv",
-        "date": "2026-08-05T17:57:16Z"
+        "date": "2026-08-06T17:57:28Z"
       },
       {
-        "title": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains",
-        "url": "https://arxiv.org/abs/2608.05138v1",
-        "summary": "Ayoub Kirouane, Christos Petrocheilos — Modern Greek is absent from NVIDIA's Nemotron retrieval models and from major multilingual retrieval benchmarks, despite being important for retrieval-augmented generation (RAG) in legal, energy, financial, and medical…",
+        "title": "An Optimal Agnostic PAC Algorithm",
+        "url": "https://arxiv.org/abs/2608.06363v1",
+        "summary": "Markus Engelund Mathiasen, Jian Qian, Nikita Zhivotovskiy — Let $H\\subseteq\\{-1,+1\\}^X$ be a class of finite VC dimension $d\\ge1$. Writing $L$ for the binary risk and $L^*=\\min_{h\\in H}L(h)$, we construct a learner achieving the statistically optimal risk bound: from an i.i.d.\\…",
         "source": "arXiv",
-        "date": "2026-08-05T17:56:40Z"
+        "date": "2026-08-06T17:57:25Z"
       },
       {
-        "title": "The Loss Does Not See the Basis, but Adam Does",
-        "url": "https://arxiv.org/abs/2608.05136v1",
-        "summary": "Devender Singh — Gradient descent on a factored model $W = UV^\\top$ is implicitly biased toward low-rank solutions, while Adam, starting from the same small initialization, is not. We trace the difference to the gauge symmetry of the…",
+        "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
+        "url": "https://arxiv.org/abs/2608.06362v1",
+        "summary": "Boning Li, Yu Chen, Longbo Huang — Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed-budget evaluations…",
         "source": "arXiv",
-        "date": "2026-08-05T17:56:26Z"
+        "date": "2026-08-06T17:57:11Z"
       },
       {
-        "title": "Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings",
-        "url": "https://arxiv.org/abs/2608.05132v1",
-        "summary": "Hao Ding, Daniel Semchin, Paul M. Thompson et al. — Predicting how a subcortical structure's shape will evolve from a few prior scans could support prognosis and clinical-trial enrichment. Existing longitudinal mesh predictors either extrapolate shape trajectories via…",
+        "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
+        "url": "https://arxiv.org/abs/2608.06361v1",
+        "summary": "Sarvesh Baskar, Zikui Cai, Shayan Shabihi et al. — Real-world video benchmarks provide broad coverage, but their fixed clips entangle event count, rate, duration, and visual complexity, making failure modes hard to isolate. While existing programmatic benchmarks offer…",
         "source": "arXiv",
-        "date": "2026-08-05T17:53:33Z"
+        "date": "2026-08-06T17:57:06Z"
       },
       {
-        "title": "OPD-V: Visual On-Policy Self-Distillation with Modality Balance",
-        "url": "https://arxiv.org/abs/2608.05131v1",
-        "summary": " Aniri, Jinhe Bi, Peng Liao et al. — On-Policy Self-Distillation (OPSD) has become a standard post-training approach for improving visual reasoning in multimodal large language models (MLLMs). Existing methods draw privileged information from diverse input…",
+        "title": "Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents",
+        "url": "https://arxiv.org/abs/2608.06353v1",
+        "summary": "Praphul Chandra, Sujit Gujar, Ganesh Ghalme — We give a formal mechanism design model for the continuous participatory governance of a deployed AI agent. The mechanism is built on the principle that governance should control an AI agent through resource allocation…",
         "source": "arXiv",
-        "date": "2026-08-05T17:53:06Z"
+        "date": "2026-08-06T17:53:24Z"
       },
       {
-        "title": "SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant",
-        "url": "https://arxiv.org/abs/2608.05127v1",
-        "summary": "Adel Javanmard, David P. Woodruff, Vahab Mirrokni — Achieving local differential privacy in distributed optimization while maintaining low communication cost remains challenging. Existing vector quantization methods, such as vqSGD, use high-dimensional geometric…",
+        "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
+        "url": "https://arxiv.org/abs/2608.06352v1",
+        "summary": "Fanzhe Meng, Guoxin Chen, Jiale Zhao et al. — Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not reveal how a task…",
         "source": "arXiv",
-        "date": "2026-08-05T17:51:25Z"
+        "date": "2026-08-06T17:53:18Z"
       },
       {
-        "title": "Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models",
-        "url": "https://arxiv.org/abs/2608.05126v1",
-        "summary": "Yuezhang Peng, Yuxin Liu, Changfeng Gao et al. — Spoken Language Understanding (SLU) is the core component of task-oriented dialogue systems and a pivotal link in achieving seamless human-agent interaction. While traditional SLU can effectively extract user semantics…",
+        "title": "Challenges in Evaluating Explanation Methods for Static and Evolving Data",
+        "url": "https://arxiv.org/abs/2608.06351v1",
+        "summary": "Jerzy Stefanowski — This paper addresses the limitations of Explainable Artificial Intelligence (XAI) with respect to insufficient evaluation. They are illustrated through the DetoxAI image recognition system for bias detection and concept…",
         "source": "arXiv",
-        "date": "2026-08-05T17:50:31Z"
+        "date": "2026-08-06T17:53:10Z"
       },
       {
-        "title": "Chained Recursive Language Models for Multi-Iteration Reasoning",
-        "url": "https://arxiv.org/abs/2608.05124v1",
-        "summary": "Purbesh Mitra, Sennur Ulukus — Long context reasoning in large language models (LLMs) is usually constrained by the fact that a single inference trajectory has to simultaneously explore the context, store intermediate state, verify evidence, and…",
+        "title": "RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer",
+        "url": "https://arxiv.org/abs/2608.06347v1",
+        "summary": "Xinye Wang, Junxiao Liu, Shujian Huang — Multilingual reasoning transfer is crucial for extending reasoning capabilities of large language models (LLMs) beyond high-resource languages. On-policy self-distillation (OPSD) and its variants have emerged as a…",
         "source": "arXiv",
-        "date": "2026-08-05T17:50:08Z"
+        "date": "2026-08-06T17:52:06Z"
       },
       {
-        "title": "DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery",
-        "url": "https://arxiv.org/abs/2608.05120v1",
-        "summary": "Roberto Aliaga Medina, Paulina Quintanilla, Antonio del Rio Chanona — Kinetic model discovery is a central challenge in chemical engineering, as accurate rate expressions are essential for understanding and controlling chemical and biological processes. Symbolic regression (SR) has…",
+        "title": "TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories",
+        "url": "https://arxiv.org/abs/2608.06346v1",
+        "summary": "Yunjia Qi, Zehua Yin, Xintong Shi et al. — LLM-based agentic systems have shown remarkable capabilities in complex domains, while suffering from cascading errors and difficulty in debugging. Critical error detection aims to locate the earliest error step in a…",
         "source": "arXiv",
-        "date": "2026-08-05T17:48:45Z"
+        "date": "2026-08-06T17:51:20Z"
       }
     ],
     "labs": [
+      {
+        "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+        "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+        "summary": "Weather affects everyone. Our WeatherNext model bridges this gap by improving forecasting for global weather overall as well as cyclones. Both Weather Lab and WeatherNext models are a part of Google Earth AI .",
+        "source": "Google DeepMind",
+        "date": "2026-08-06T15:06:15+00:00"
+      },
+      {
+        "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+        "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+        "source": "OpenAI",
+        "date": "2026-08-06T10:00:00+00:00"
+      },
+      {
+        "title": "Working with the American Psychological Association on youth mental health and AI",
+        "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+        "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+        "source": "OpenAI",
+        "date": "2026-08-06T06:00:00+00:00"
+      },
+      {
+        "title": "From asking to doing: How the world is putting ChatGPT to work",
+        "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+        "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+        "source": "OpenAI",
+        "date": "2026-08-06T00:00:00+00:00"
+      },
       {
         "title": "Third-party cyber evaluations involving OpenAI models",
         "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
@@ -143,206 +171,178 @@
         "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
         "source": "OpenAI",
         "date": "2026-07-31T15:00:00+00:00"
-      },
-      {
-        "title": "Univé builds an AI-ready workforce",
-        "url": "https://openai.com/index/unive",
-        "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-        "source": "OpenAI",
-        "date": "2026-07-31T07:00:00+00:00"
-      },
-      {
-        "title": "Disrupting a Criminal Scam Operation",
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-        "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-        "source": "OpenAI",
-        "date": "2026-07-31T00:00:00+00:00"
-      },
-      {
-        "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
-        "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
-        "summary": "Rui Meng, Research Scientist, and Tomas Pfister, Director, Google Cloud Introducing the Science One Framework, an experimental research prototype designed to eliminate hallucinations by natively building verifiable evidence chains, and CoE Audit, an automated protocol to evaluate the integrity of AI-generated papers. The Science One Framework significantly outperformed existing baselines in verifiability. The…",
-        "source": "Google Research",
-        "date": "2026-07-30T20:36:36+00:00"
-      },
-      {
-        "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-        "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-        "summary": "Think of Gemini Robotics ER 2 as a high-level brain for robots. Gemini Robotics ER 2 represents a significant upgrade over Gemini Robotics ER 1.6 . Gemini Robotics ER 2 improves this tool orchestration workflow.",
-        "source": "Google DeepMind",
-        "date": "2026-07-30T15:00:59+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
-        "url": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+        "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+        "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+        "summary": "More details continue to trickle out about OpenAI’s mysterious new hardware device — described previously as an AI-fueled smart speaker that will be the “ physical manifestation ” of ChatGPT. OpenAI releasing a smart home device has a certain logic to it, in that it would further integrate ChatGPT into users’ lives. OpenAI has denied wrongdoing.",
+        "source": "TechCrunch",
+        "date": "2026-08-06T22:43:53+00:00"
+      },
+      {
+        "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+        "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Get $400 off your Disrupt 2026 ticket: REGISTER NOW. Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026 . PT, whichever comes first.",
+        "source": "TechCrunch",
+        "date": "2026-08-06T22:00:00+00:00"
+      },
+      {
+        "title": "Vogue just gave another nod of approval to the tech world",
+        "url": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
+        "summary": "Vogue World is coming to San Francisco next year — perhaps another indication that tech billionaires have become leaders in the fashion zeitgeist. “Vogue World will support San Francisco’s creative minds and strengthen the entire ecosystem — and it will offer another opportunity to show San Francisco is on the rise.” There were rumors that Vogue World would head to San Francisco after Winter was seen having meetings…",
+        "source": "TechCrunch",
+        "date": "2026-08-06T21:24:47+00:00"
+      },
+      {
+        "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
+        "url": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
         "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Get $400 off your Disrupt 2026 ticket: REGISTER NOW. The Disrupt Stage is our flagship programming, and we just revealed the initial lineup . Regular discounted pricing ends on August 21.",
         "source": "TechCrunch",
-        "date": "2026-08-05T22:55:43+00:00"
+        "date": "2026-08-06T21:20:00+00:00"
       },
       {
-        "title": "Nikita Bier steps down as X’s head of product",
-        "url": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Get $400 off your Disrupt 2026 ticket: REGISTER NOW. Nikita Bier has stepped down as head of product at X, Elon Musk’s social media platform, after a little more than a year in the role. The serial entrepreneur and Lightspeed venture partner took over the product lead role in July 2025 .",
+        "title": "Google says hackers are calling financial firm employees to hack and extort victims",
+        "url": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
+        "summary": "Groups of unknown hackers are targeting and breaking into large financial and investment firms in the United States with the goal of stealing sensitive data to extort the victims with the threat of publishing it, Google’s security researchers wrote in a report on Thursday. The company did not name the victims, but Reuters reported that among them there are leading private equity firms such as Apollo Global…",
         "source": "TechCrunch",
-        "date": "2026-08-05T21:30:50+00:00"
+        "date": "2026-08-06T19:40:46+00:00"
       },
       {
-        "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
-        "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
-        "summary": "Another former Uber executive is joining Travis Kalanick’s robotics and industrial AI startup Atoms, just a few weeks after it raised $1.7 billion. Gautam Gupta, the former finance chief under Kalanick, said in social media posts on Wednesday that he has joined Atoms as chief financial officer. Earlier this year, Atoms acquired mining autonomy startup Pronto , which is run by former Uber (and former Google)…",
+        "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
+        "url": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/",
+        "summary": "Security researchers say they have evidence that a Chinese-linked spyware has expanded from mainland China to now target victims in over a dozen countries, including across Europe and the United States. The previously identified spyware also has new functionality capable of stealing troves of data and remotely bricking devices. The researchers at cybersecurity firm Arctic Wolf said that the LightSpy spyware, first…",
         "source": "TechCrunch",
-        "date": "2026-08-05T21:26:40+00:00"
+        "date": "2026-08-06T19:22:30+00:00"
       },
       {
-        "title": "Meta launches Muse Code, an AI agent for large code bases",
-        "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-        "summary": "This week, the company released a new terminal coding agent aimed at programmers looking for assistance with complex tasks across large software code bases. Muse Code, which is currently available in beta, can accomplish “complete software engineering tasks across large repos,” Meta CEO Mark Zuckerberg said in a social media post on Wednesday. Code, which can be installed with a single command, is powered by Meta’s…",
+        "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
+        "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
+        "summary": "Defense tech Hadrian announced on Thursday that it had raised a fresh $1.37 billion round at a valuation of $7.87 billion from a mile-long list of well-known investors. The lead investors in the round include WCM Investment Management, Washington Harbour Partners, Valor Equity Partners, 137 Ventures, and Baillie Gifford. Participating investors include 1789 Capital, Morgan Stanley Wealth Management, funds managed by…",
         "source": "TechCrunch",
-        "date": "2026-08-05T21:21:28+00:00"
+        "date": "2026-08-06T19:02:57+00:00"
       },
       {
-        "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
-        "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
-        "summary": "The DOJ alleged that OpenAI and Statsig broke provisions of the Immigration and Nationality Act (INA) by not truly looking for qualified U.S. citizens for these jobs before pursuing permanent residence applications (PERM) as the INA requires. The DOJ, however, says it began investigating both companies separately before the acquisition, in August 2025, including five cases at OpenAI between 2023 and 2025, and one at…",
+        "title": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it",
+        "url": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/",
+        "summary": "Now, Fathom could be a minor success. On Thursday, Ford said the Fathom would start at $29,945 , including the destination fee. The Fathom may not be Ford’s swing for the fences.",
         "source": "TechCrunch",
-        "date": "2026-08-05T21:05:37+00:00"
+        "date": "2026-08-06T17:41:56+00:00"
       },
       {
-        "title": "Moove raises $250M to become the backbone of the robotaxi industry",
-        "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
-        "summary": "It owns and operates a 42,000-vehicle ride-hailing fleet across 14 countries. Who operates the vehicle? Who orchestrates the vehicle?",
+        "title": "Bumble teases a swipe-free future as it doubles down on IRL meetups",
+        "url": "https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/",
+        "summary": "Tinder isn’t the only major dating app turning away from the swipe and toward real-world events to attract Gen Z users who’ve grown tired of traditional online dating. On Wednesday, Bumble touted the early success of its newest app, Plans, designed to connect people “IRL” in low-pressure group settings, and spoke of what comes next for Bumble’s flagship app after the “swipe” is dead. “What will replace the swipe?",
         "source": "TechCrunch",
-        "date": "2026-08-05T20:50:45+00:00"
+        "date": "2026-08-06T17:39:47+00:00"
       },
       {
-        "title": "How Lightspeed found its newest hire … via Instagram DM",
-        "url": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/",
-        "summary": "Earlier this year, Lightspeed made headlines when it announced that Claire Zau, an investor and popular tech content creator, would join the venture firm. Lightspeed partners Josh Machiz and Zau stopped by the Equity studio to talk about the strategy behind their growing social media presence; their podcast, Lightwork; and how it all started with a direct message on Instagram. Dominic-Madori Davis is a senior…",
+        "title": "ChatGPT brings unlimited text chats to free users",
+        "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+        "summary": "The new GPT-5.6 Luna model will power this experience and will be the default model for Free and Go users, replacing GPT-5.5. OpenAI said an internal evaluation found that, compared to GPT-5.5-Instant, factual errors were 62% less common for GPT-5.6 Luna and 68% less common for GPT-5.6 Sol. The updated version of GPT-5.6 Sol is available to Plus and Pro users today, while the other changes for Free and Go users are…",
         "source": "TechCrunch",
-        "date": "2026-08-05T20:48:56+00:00"
+        "date": "2026-08-06T17:34:42+00:00"
       },
       {
-        "title": "Why Lightspeed is going all-in on creator-led venture capital",
-        "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
-        "summary": "You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com .",
+        "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+        "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+        "summary": "Developers detest drudgery. It packages the process of assembling payments, email accounts, phone numbers, cloud infrastructure, storage, and company incorporation behind a single API. “Part of running an autonomous company and running agents, like that’s your biggest cost line now, and so the highest growing demand right now, I would say is [for] inference and serverless agents,” he said.",
         "source": "TechCrunch",
-        "date": "2026-08-05T20:48:54+00:00"
+        "date": "2026-08-06T17:00:37+00:00"
       },
       {
-        "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-        "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-        "summary": "Publicly traded e-commerce marketing automation platform Klaviyo has agreed to acquire Agency, a three-year-old AI-powered customer success startup founded by serial entrepreneur Elias Torres. Torres mentored Bialecki on early-stage startup dynamics. Bialecki co-founded Klaviyo, which he initially bootstrapped, shortly after leaving Performable.",
+        "title": "Hacker pleads guilty to stealing data from more than 165 Snowflake customers",
+        "url": "https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/",
+        "summary": "Connor Moucka, a 26-year-old Canadian citizen, has pled guilty to hacking more than 165 companies, stealing billions of records, and extorting several companies and individuals. Over the years, Moucka and his accomplices received more than $2.5 million in ransom payments. Victims of Moucka and his accomplices’ hacks suffered $9.5 million in losses, according to the DOJ.",
         "source": "TechCrunch",
-        "date": "2026-08-05T20:05:00+00:00"
-      },
-      {
-        "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-        "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-        "summary": "Coming with him as co-founders are several other top researchers at the company, including Sanjay Ghemawat, a top engineer and senior fellow at Google; Quoc Le, a key AI researcher and founding member of Google Brain; and Oriol Vinyals, a senior research scientist at Google DeepMind. Dean reportedly plans to serve as CEO. The company has received financial support from a number of different sources, including…",
-        "source": "TechCrunch",
-        "date": "2026-08-05T19:30:19+00:00"
-      },
-      {
-        "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
-        "url": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
-        "summary": "Initially used by 700-plus communities, Reddit says that all new communities can now test the tool. “Today, new users can encounter invisible barriers like account age and karma thresholds, unclear removals, and poor community discovery,” Reddit explained. On Reddit’s second-quarter earnings call with investors last week, company executives stressed that one of Reddit’s near-term goals was to convert its…",
-        "source": "TechCrunch",
-        "date": "2026-08-05T18:00:40+00:00"
-      },
-      {
-        "title": "Lucid Motors just delayed its affordable EV. Now what?",
-        "url": "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/",
-        "summary": "Napoli also cut 18% of Lucid’s overall workforce in June, following a 12% layoff earlier this year before he came on board. Things got so bad at one point that Napoli’s predecessor, interim CEO Marc Winterhoff, apologized to Lucid owners. Napoli called it a “top priority and, indeed, a must-win project for Lucid” on Tuesday’s call.",
-        "source": "TechCrunch",
-        "date": "2026-08-05T17:57:45+00:00"
+        "date": "2026-08-06T16:42:40+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-        "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-        "summary": "﻿The ChatGPT maker is seeking to dismiss the case, calling Apple’s allegations ‘meritless.’ ﻿The ChatGPT maker is seeking to dismiss the case, calling Apple’s allegations ‘meritless.’ OpenAI has asked a federal judge to toss out Apple’s landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as “meritless.” In a motion filed yesterday to dismiss the complaint, OpenAI says…",
+        "title": "Trevor Noah is hosting Google’s Pixel 11 launch event",
+        "url": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
+        "summary": "Google’s next hardware show will feature new gadgets and a lot of celebrities. Google’s next hardware show will feature new gadgets and a lot of celebrities. Google is set to host its next live Made by Google hardware launch event on August 12th, and the company says in a new video that comedian Trevor Noah will be hosting the show.",
         "source": "The Verge",
-        "date": "2026-08-06T09:33:11+00:00"
+        "date": "2026-08-06T21:15:47+00:00"
       },
       {
-        "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-        "summary": "Suggested Grokipedia edits haven’t been addressed since April, according to a report. Suggested Grokipedia edits haven’t been addressed since April, according to a report. xAI’s Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a “massive improvement” over Wikipedia, apparently hasn’t been updated since April 24th, according to a report from Lawfare . Users on Reddit…",
+        "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+        "summary": "The “doughnut-shaped” device could cost more than $300 when it launches next year, according to Bloomberg. The “doughnut-shaped” device could cost more than $300 when it launches next year, according to Bloomberg. The AI device OpenAI is developing with former Apple designer Jony Ive is “essentially a smart speaker without a display” that’s battery-powered, doughnut-shaped and roughly the size of a hockey puck,…",
         "source": "The Verge",
-        "date": "2026-08-06T00:25:10+00:00"
+        "date": "2026-08-06T20:55:39+00:00"
       },
       {
-        "title": "X product chief Nikita Bier is leaving after one year",
-        "url": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
-        "summary": "﻿Nikita Bier says he’s stepping down to become “a poster,” 13 months after taking over the service formerly known as Twitter. ﻿Nikita Bier says he’s stepping down to become “a poster,” 13 months after taking over the service formerly known as Twitter. X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that “it’s time to pass the torch and demote myself to my…",
+        "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+        "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+        "summary": "In a sense, Taalas’ chips are really model-specific integrated circuits or MSICs. Perhaps more importantly, Taalas’ tech isn’t just conceptual. The tech also has implications for model development. (622 points, 467 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-06T20:23:11+00:00"
+      },
+      {
+        "title": "Quake – 30th Anniversary Update",
+        "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+        "summary": "To celebrate the 30th Anniversary of Quake, we have collaborated with MachineGames to create a new episode, Dawn of the Machine , now available as a free update to Quake. Which platforms is Dawn of the Machine available in Quake? Is Dawn of the Machine available on the Epic Games Store or GOG versions of Quake? (288 points, 147 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-06T20:21:19+00:00"
+      },
+      {
+        "title": "The AirPods Pro are $60 off, their best price since late June",
+        "url": "https://www.theverge.com/gadgets/976276/apple-airpods-pro-3-best-buy-apple-deal-sale",
+        "summary": "Our favorite wireless earbuds for iPhone owners are just $20 shy of the all-time low price set during Prime Day. Our favorite wireless earbuds for iPhone owners are just $20 shy of the all-time low price set during Prime Day. The AirPods Pro are our favorite wireless earbuds to recommend for iPhone owners because they offer better sound quality than Apple’s entry-level AirPods.",
         "source": "The Verge",
-        "date": "2026-08-05T22:19:55+00:00"
+        "date": "2026-08-06T20:00:00+00:00"
       },
       {
-        "title": "The title cards in Blade Runner are amazing",
-        "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-        "summary": "The goal with typography is functional, right? For a typeface designed for coding, you first want fixed-width. Except it’s typography. (266 points, 127 comments on Hacker News)",
+        "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+        "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+        "summary": "Weighted average cost per Intelligence Index task. Weighted average cost per Intelligence Index task. The weighted average time (seconds) per Artificial Analysis Intelligence Index task. (492 points, 310 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-05T21:29:23+00:00"
+        "date": "2026-08-06T18:44:49+00:00"
       },
       {
-        "title": "I'm switching my phone from Android to Linux",
-        "url": "https://runarcn.no/android-to-linux/",
-        "summary": "I'm installing linux on my phone. It's also cool how it's very linux . It's not without it's issues though. (332 points, 332 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-05T19:50:13+00:00"
-      },
-      {
-        "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-        "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-        "summary": "After WIRED reached out to Meta, the company removed the ads from its advertising library. Initially, the TTP researchers found around two dozen ads displaying the abusive content. Other ads linked to different apps or websites. (297 points, 228 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-05T19:47:26+00:00"
-      },
-      {
-        "title": "Muse Code and Muse Spark 1.2",
-        "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-        "summary": "We're excited to release Muse Code (beta), a terminal coding agent powered by Muse Spark 1.2, our newest model. Muse Spark 1.2 is a coding-focused update to Muse Spark 1.1, with improvements in code generation, complex debugging, codebase understanding, and end-to-end developer workflows. Muse Spark 1.2 is available today in Muse Code and in Meta Model API with expanded global access. (260 points, 159 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-05T19:15:52+00:00"
-      },
-      {
-        "title": "Zed DeltaDB",
-        "url": "https://zed.dev/deltadb",
-        "summary": "Be among the first to try DeltaDB, a version control system that records the work as it unfolds and keeps every change connected to the conversation that shaped it. Every change is linked to the agent conversation that produced it. Any point in history is a valid branch point, including mid-run. (422 points, 219 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-05T18:52:54+00:00"
-      },
-      {
-        "title": "Born Against, or why hobby programming communities are against LLM usage",
-        "url": "https://blog.fogus.me/llm/born-against.html",
-        "summary": "I came across a GH thread related to chess engine development that made me think of why hobby programming communities are increasingly hostile toward LLM development. I’ve seen similar sentiments expressed in other niche hobby programming communities like OSDev, LangDev, TxtDev, EmuDev, RLDev, the demoscene, and code golfers. 1 But in these niche communities, the entire exercise is in the learning. (264 points, 243 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-05T18:37:49+00:00"
-      },
-      {
-        "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-        "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-        "summary": "RL post-training helps bridge this gap. During training, the agent repeatedly calls Lakebase Search until it has enough context to answer. Post-train your first model today at castform.com . (316 points, 78 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-05T18:18:56+00:00"
-      },
-      {
-        "title": "Two of Ring&#8217;s latest video doorbells are a lot cheaper than usual",
-        "url": "https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale",
-        "summary": "They let you monitor your front door with head-to-toe video, two-way talk, and motion alerts. They let you monitor your front door with head-to-toe video, two-way talk, and motion alerts. The Battery Doorbell Plus has fewer features and can capture video in slightly less sharp 2K resolution.",
+        "title": "The Zelda movie’s Ganondorf casting hints at more movies",
+        "url": "https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal",
+        "summary": "Deadline reports that Ganondorf’s actor has made a ‘multi-picture deal.’ Deadline reports that Ganondorf’s actor has made a ‘multi-picture deal.’ Deadline reported Thursday that the upcoming The Legend of Zelda movie will feature Australian actor Uli Latukefu as the villain Ganondorf, and the publication notes that “We hear Latukefu inked a multi-picture deal.” Nintendo or Sony haven’t formally confirmed that…",
         "source": "The Verge",
-        "date": "2026-08-05T17:53:43+00:00"
+        "date": "2026-08-06T18:31:57+00:00"
       },
       {
-        "title": "Uber CEO brushes off reports of a Waymo break-up",
-        "url": "https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership",
-        "summary": "Uber CEO Dara Khosrowshahi said the relationship with Waymo remains “strong,” despite signs that the two companies may be drifting apart. Uber CEO Dara Khosrowshahi said the relationship with Waymo remains “strong,” despite signs that the two companies may be drifting apart. Not so, Uber CEO Dara Khosrowshahi said today.",
+        "title": "Suno shares plans to combat spammy AI music",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+        "summary": "The company is changing its download policy and rolling out new watermarking technology. The company is changing its download policy and rolling out new watermarking technology. The company is rolling out new transparency tools, along with new watermarking and fingerprinting tech.",
         "source": "The Verge",
-        "date": "2026-08-05T17:34:48+00:00"
+        "date": "2026-08-06T17:39:43+00:00"
+      },
+      {
+        "title": "Brendan Carr officially unleashes broadcast consolidation",
+        "url": "https://www.theverge.com/policy/976287/fcc-broadcast-ownership-rule-ends",
+        "summary": "The FCC voted to end a cap on broadcast ownership in favor of case-by-case review. The FCC voted to end a cap on broadcast ownership in favor of case-by-case review. The era of set broadcast ownership limits is officially over, after the Federal Communications Commission (FCC) voted Thursday to end the national ownership cap rule .",
+        "source": "The Verge",
+        "date": "2026-08-06T17:35:38+00:00"
+      },
+      {
+        "title": "Taste Is All That's Left",
+        "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+        "summary": "Good enough is a solvent . Suppose you have taste. It cannot see the difference. (390 points, 283 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-06T17:01:33+00:00"
+      },
+      {
+        "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+        "summary": "ChatGPT’s GPT-5.6 Sol model will also be ‘more reliable with facts’ for Plus and Pro users. ChatGPT’s GPT-5.6 Sol model will also be ‘more reliable with facts’ for Plus and Pro users. For Plus and Pro subscribers, GPT-5.6 Sol in ChatGPT is being updated to be “more reliable with facts,” OpenAI says.",
+        "source": "The Verge",
+        "date": "2026-08-06T17:00:00+00:00"
+      },
+      {
+        "title": "TikTok blames &#8216;moderator error&#8217; on slow response to Perez Hilton livestream",
+        "url": "https://www.theverge.com/tech/976228/tiktok-perez-hilton-livestream-moderator-error",
+        "summary": "TikTok says its automated review system flagged the stream, but it still stayed up for around 15 minutes. TikTok says its automated review system flagged the stream, but it still stayed up for around 15 minutes. 988 Suicide & Crisis Lifeline : Call or text 988 (formerly known as the National Suicide Prevention Lifeline).",
+        "source": "The Verge",
+        "date": "2026-08-06T16:41:25+00:00"
       }
     ]
   }
