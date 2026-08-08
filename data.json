@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T08:14:29.443036+00:00",
+  "generated_at": "2026-08-08T07:50:22.783293+00:00",
   "sections": {
     "research": [
       {
@@ -89,6 +89,20 @@
     ],
     "labs": [
       {
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+        "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+        "source": "OpenAI",
+        "date": "2026-08-07T15:20:00+00:00"
+      },
+      {
+        "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+        "url": "https://openai.com/index/hsp-gruppe",
+        "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+        "source": "OpenAI",
+        "date": "2026-08-07T09:00:00+00:00"
+      },
+      {
         "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
         "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
         "summary": "Weather affects everyone. Our WeatherNext model bridges this gap by improving forecasting for global weather overall as well as cyclones. Both Weather Lab and WeatherNext models are a part of Google Earth AI .",
@@ -157,192 +171,178 @@
         "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
         "source": "OpenAI",
         "date": "2026-08-01T00:00:00+00:00"
-      },
-      {
-        "title": "Advancing responsible AI across Europe",
-        "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-        "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-        "source": "OpenAI",
-        "date": "2026-07-31T15:00:00+00:00"
-      },
-      {
-        "title": "Building abundant intelligence",
-        "url": "https://openai.com/index/building-abundant-intelligence",
-        "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-        "source": "OpenAI",
-        "date": "2026-07-31T15:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-        "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-        "summary": "More details continue to trickle out about OpenAI’s mysterious new hardware device — described previously as an AI-fueled smart speaker that will be the “ physical manifestation ” of ChatGPT. OpenAI releasing a smart home device has a certain logic to it, in that it would further integrate ChatGPT into users’ lives. OpenAI has denied wrongdoing.",
+        "title": "OpenAI says it slowed Astra model development over security concerns",
+        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "summary": "OpenAI said Friday it has suspended work on some aspects of its upcoming model Astra after an internal review found it had made significant advancements in agentic coding and cybersecurity — enough to warrant concern over its capabilities. OpenAI said in a blog post Friday that this model, which is still in development, reached its “critical cybersecurity threshold,” meaning it could independently identify and carry…",
         "source": "TechCrunch",
-        "date": "2026-08-06T22:43:53+00:00"
+        "date": "2026-08-07T22:48:24+00:00"
       },
       {
-        "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-        "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Get $400 off your Disrupt 2026 ticket: REGISTER NOW. Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026 . PT, whichever comes first.",
+        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+        "summary": "HR software provider Rippling this week unveiled AI Spend Console , an anti-tokenmaxxing product that helps a company track and contain its AI spending. Rippling came to that conclusion too. The company spent a peak of 605 billion tokens the month the CFO issued his warning, MacInnis shared.",
         "source": "TechCrunch",
-        "date": "2026-08-06T22:00:00+00:00"
+        "date": "2026-08-07T21:30:11+00:00"
       },
       {
-        "title": "Vogue just gave another nod of approval to the tech world",
-        "url": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
-        "summary": "Vogue World is coming to San Francisco next year — perhaps another indication that tech billionaires have become leaders in the fashion zeitgeist. “Vogue World will support San Francisco’s creative minds and strengthen the entire ecosystem — and it will offer another opportunity to show San Francisco is on the rise.” There were rumors that Vogue World would head to San Francisco after Winter was seen having meetings…",
+        "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+        "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+        "summary": "Wacom lent TechCrunch a MovinkPad 11, the first tablet in the series. The MovinkPad 11 is not Wacom’s latest release. MovinkPad also comes with its own free digital art software, Wacom Canvas .",
         "source": "TechCrunch",
-        "date": "2026-08-06T21:24:47+00:00"
+        "date": "2026-08-07T21:20:00+00:00"
       },
       {
-        "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
-        "url": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Get $400 off your Disrupt 2026 ticket: REGISTER NOW. The Disrupt Stage is our flagship programming, and we just revealed the initial lineup . Regular discounted pricing ends on August 21.",
+        "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+        "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+        "summary": "Before long, the duo discovered more than 10,000 affected public entities with 250,000 websites with security flaws, including airports, hospitals, and government offices. Zack Whittaker is the security editor at TechCrunch. Gain practical expertise.",
         "source": "TechCrunch",
-        "date": "2026-08-06T21:20:00+00:00"
+        "date": "2026-08-07T21:00:08+00:00"
       },
       {
-        "title": "Google says hackers are calling financial firm employees to hack and extort victims",
-        "url": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
-        "summary": "Groups of unknown hackers are targeting and breaking into large financial and investment firms in the United States with the goal of stealing sensitive data to extort the victims with the threat of publishing it, Google’s security researchers wrote in a report on Thursday. The company did not name the victims, but Reuters reported that among them there are leading private equity firms such as Apollo Global…",
+        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+        "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+        "summary": "Cloudflare is the latest company to join the race to build a new web browser. Unlike traditional web browsers built for humans, a browser built for AI agents doesn’t care about visual elements, like themes, tabs, or browser extensions, Cloudflare explained in its announcement . Everything else runs inside Cloudflare Workers.",
         "source": "TechCrunch",
-        "date": "2026-08-06T19:40:46+00:00"
+        "date": "2026-08-07T16:16:09+00:00"
       },
       {
-        "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
-        "url": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/",
-        "summary": "Security researchers say they have evidence that a Chinese-linked spyware has expanded from mainland China to now target victims in over a dozen countries, including across Europe and the United States. The previously identified spyware also has new functionality capable of stealing troves of data and remotely bricking devices. The researchers at cybersecurity firm Arctic Wolf said that the LightSpy spyware, first…",
+        "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
+        "url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+        "summary": "Framework , a company that makes modular repairable computers, said it has notified all of its customers that hackers stole their names, email addresses, phone numbers, and physical addresses, due to an incident at a company that provides business intelligence. On Thursday, several Framework customers said on social media that they had received an email from the company notifying them of the data breach. In its…",
         "source": "TechCrunch",
-        "date": "2026-08-06T19:22:30+00:00"
+        "date": "2026-08-07T16:09:04+00:00"
       },
       {
-        "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
-        "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
-        "summary": "Defense tech Hadrian announced on Thursday that it had raised a fresh $1.37 billion round at a valuation of $7.87 billion from a mile-long list of well-known investors. The lead investors in the round include WCM Investment Management, Washington Harbour Partners, Valor Equity Partners, 137 Ventures, and Baillie Gifford. Participating investors include 1789 Capital, Morgan Stanley Wealth Management, funds managed by…",
+        "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
+        "url": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
+        "summary": "The Disrupt Stage is our flagship programming, and we just revealed the initial lineup . Builders Stage , the long-standing favorite stage where founders and investors get tactical about raising, hiring, and scaling. Regular discounted pricing ends on August 21.",
         "source": "TechCrunch",
-        "date": "2026-08-06T19:02:57+00:00"
+        "date": "2026-08-07T15:52:33+00:00"
       },
       {
-        "title": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it",
-        "url": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/",
-        "summary": "Now, Fathom could be a minor success. On Thursday, Ford said the Fathom would start at $29,945 , including the destination fee. The Fathom may not be Ford’s swing for the fences.",
+        "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+        "url": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
+        "summary": "The Trump administration is paying another $1.2 billion to cancel an offshore wind lease, this time to German utility RWE. The remaining $300 million will go toward buying natural gas turbines to power 15 peaking power plants around the country. Peaking power plants are among the most expensive and most polluting natural gas power plants to operate.",
         "source": "TechCrunch",
-        "date": "2026-08-06T17:41:56+00:00"
+        "date": "2026-08-07T15:11:03+00:00"
       },
       {
-        "title": "Bumble teases a swipe-free future as it doubles down on IRL meetups",
-        "url": "https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/",
-        "summary": "Tinder isn’t the only major dating app turning away from the swipe and toward real-world events to attract Gen Z users who’ve grown tired of traditional online dating. On Wednesday, Bumble touted the early success of its newest app, Plans, designed to connect people “IRL” in low-pressure group settings, and spoke of what comes next for Bumble’s flagship app after the “swipe” is dead. “What will replace the swipe?",
+        "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
+        "summary": "Many of those events come through the official Disrupt Side Events. And if you have any additional questions, contact side.events@techcrunch.com . No matter your goal, Disrupt can empower you.",
         "source": "TechCrunch",
-        "date": "2026-08-06T17:39:47+00:00"
+        "date": "2026-08-07T14:30:00+00:00"
       },
       {
-        "title": "ChatGPT brings unlimited text chats to free users",
-        "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-        "summary": "The new GPT-5.6 Luna model will power this experience and will be the default model for Free and Go users, replacing GPT-5.5. OpenAI said an internal evaluation found that, compared to GPT-5.5-Instant, factual errors were 62% less common for GPT-5.6 Luna and 68% less common for GPT-5.6 Sol. The updated version of GPT-5.6 Sol is available to Plus and Pro users today, while the other changes for Free and Go users are…",
+        "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+        "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+        "summary": "Kimi K3, the latest AI model made by Chinese company Moonshot, escaped an environment set up to test its cyber capabilities, researchers said in a blog post published on Friday. While the sandbox disallowed the AI model from accessing certain web traffic, the model instead bypassed the sandbox by relying on command line tools, according to the researchers at AI-focused cybersecurity firm Frontier Security. Gain…",
         "source": "TechCrunch",
-        "date": "2026-08-06T17:34:42+00:00"
+        "date": "2026-08-07T14:28:31+00:00"
       },
       {
-        "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-        "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-        "summary": "Developers detest drudgery. It packages the process of assembling payments, email accounts, phone numbers, cloud infrastructure, storage, and company incorporation behind a single API. “Part of running an autonomous company and running agents, like that’s your biggest cost line now, and so the highest growing demand right now, I would say is [for] inference and serverless agents,” he said.",
+        "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+        "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+        "summary": "Earlier this year, the company said AI is writing 60% of its code . Chesky said during the earnings call that the company will finally start testing AI search. Because of this, the company’s support cost per booking is down 16% year-over-year.",
         "source": "TechCrunch",
-        "date": "2026-08-06T17:00:37+00:00"
+        "date": "2026-08-07T14:22:49+00:00"
       },
       {
-        "title": "Hacker pleads guilty to stealing data from more than 165 Snowflake customers",
-        "url": "https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/",
-        "summary": "Connor Moucka, a 26-year-old Canadian citizen, has pled guilty to hacking more than 165 companies, stealing billions of records, and extorting several companies and individuals. Over the years, Moucka and his accomplices received more than $2.5 million in ransom payments. Victims of Moucka and his accomplices’ hacks suffered $9.5 million in losses, according to the DOJ.",
+        "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
+        "url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
+        "summary": "Despite his investments in solar power, SpaceX and Tesla’s CEO Elon Musk has bet heavily on natural gas lately. Musk also recently bought a company that specializes in natural gas power plants, and SpaceX has said it plans to buy $2.8 billion worth of gas turbines over the next three years. The AI data center boom has driven a surge in proposals for new natural gas power plants across the industry, which has in turn…",
         "source": "TechCrunch",
-        "date": "2026-08-06T16:42:40+00:00"
+        "date": "2026-08-07T14:07:31+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Trevor Noah is hosting Google’s Pixel 11 launch event",
-        "url": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
-        "summary": "Google’s next hardware show will feature new gadgets and a lot of celebrities. Google’s next hardware show will feature new gadgets and a lot of celebrities. Google is set to host its next live Made by Google hardware launch event on August 12th, and the company says in a new video that comedian Trevor Noah will be hosting the show.",
+        "title": "Nitecore’s latest power bank is the lightest and most compact yet",
+        "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+        "summary": "Have I found power bank perfection? The Nitecore NB10000 Gen 4 is the ideal power bank for endurance athletes, backpackers, or anyone looking for an ultralight and ultracompact power bank that mostly avoids feature creep. That makes the Gen 4 power bank two to three times more expensive than the typical 10,000mAh power bank, but it can save you 50 grams or more.",
         "source": "The Verge",
-        "date": "2026-08-06T21:15:47+00:00"
+        "date": "2026-08-08T07:00:00+00:00"
       },
       {
-        "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-        "summary": "The “doughnut-shaped” device could cost more than $300 when it launches next year, according to Bloomberg. The “doughnut-shaped” device could cost more than $300 when it launches next year, according to Bloomberg. The AI device OpenAI is developing with former Apple designer Jony Ive is “essentially a smart speaker without a display” that’s battery-powered, doughnut-shaped and roughly the size of a hockey puck,…",
-        "source": "The Verge",
-        "date": "2026-08-06T20:55:39+00:00"
-      },
-      {
-        "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-        "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-        "summary": "In a sense, Taalas’ chips are really model-specific integrated circuits or MSICs. Perhaps more importantly, Taalas’ tech isn’t just conceptual. The tech also has implications for model development. (622 points, 467 comments on Hacker News)",
+        "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+        "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+        "summary": "Each spacecraft initially launched with 10 instruments, and Voyager 2 is now down to only three instruments . Voyager 2's last planetary flyby was in 1989. The two spacecraft continue to send scientific data from interstellar space; Voyager 1 passed into that region in 2012, while Voyager 2 did so in 2018. (207 points, 35 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-06T20:23:11+00:00"
+        "date": "2026-08-08T01:49:11+00:00"
       },
       {
-        "title": "Quake – 30th Anniversary Update",
-        "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
-        "summary": "To celebrate the 30th Anniversary of Quake, we have collaborated with MachineGames to create a new episode, Dawn of the Machine , now available as a free update to Quake. Which platforms is Dawn of the Machine available in Quake? Is Dawn of the Machine available on the Epic Games Store or GOG versions of Quake? (288 points, 147 comments on Hacker News)",
+        "title": "The Nixpkgs core team has disbanded",
+        "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+        "summary": "The Nixpkgs core team has unfortunately decided to disband . We still believe in the principles the team was founded on – that clear, lightweight processes for decision‐making and dispute resolution are critical to strengthening Nixpkgs and addressing the problems we’ve seen as contributors – and hope that a genuine delegation of engaged, technically‐focused, collaborative Nixpkgs leadership by top‐level governance… (272 points, 126 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-06T20:21:19+00:00"
+        "date": "2026-08-08T01:12:45+00:00"
       },
       {
-        "title": "The AirPods Pro are $60 off, their best price since late June",
-        "url": "https://www.theverge.com/gadgets/976276/apple-airpods-pro-3-best-buy-apple-deal-sale",
-        "summary": "Our favorite wireless earbuds for iPhone owners are just $20 shy of the all-time low price set during Prime Day. Our favorite wireless earbuds for iPhone owners are just $20 shy of the all-time low price set during Prime Day. The AirPods Pro are our favorite wireless earbuds to recommend for iPhone owners because they offer better sound quality than Apple’s entry-level AirPods.",
-        "source": "The Verge",
-        "date": "2026-08-06T20:00:00+00:00"
-      },
-      {
-        "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-        "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-        "summary": "Weighted average cost per Intelligence Index task. Weighted average cost per Intelligence Index task. The weighted average time (seconds) per Artificial Analysis Intelligence Index task. (492 points, 310 comments on Hacker News)",
+        "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+        "url": "https://genesisopenmodels.anl.gov/",
+        "summary": "209 points, 69 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-08-06T18:44:49+00:00"
+        "date": "2026-08-07T22:24:27+00:00"
       },
       {
-        "title": "The Zelda movie’s Ganondorf casting hints at more movies",
-        "url": "https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal",
-        "summary": "Deadline reports that Ganondorf’s actor has made a ‘multi-picture deal.’ Deadline reports that Ganondorf’s actor has made a ‘multi-picture deal.’ Deadline reported Thursday that the upcoming The Legend of Zelda movie will feature Australian actor Uli Latukefu as the villain Ganondorf, and the publication notes that “We hear Latukefu inked a multi-picture deal.” Nintendo or Sony haven’t formally confirmed that…",
+        "title": "The gaming site sponsored by Walmart lays off its editorial staff",
+        "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+        "summary": "Restart’s former editor-in-chief says the ‘entire editorial team’ has been cut. Restart’s former editor-in-chief says the ‘entire editorial team’ has been cut. Restart is operated by Moonrock, a content marketing agency, though its editorial mission page says it’s “powered” by Walmart.",
         "source": "The Verge",
-        "date": "2026-08-06T18:31:57+00:00"
+        "date": "2026-08-07T22:05:08+00:00"
       },
       {
-        "title": "Suno shares plans to combat spammy AI music",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-        "summary": "The company is changing its download policy and rolling out new watermarking technology. The company is changing its download policy and rolling out new watermarking technology. The company is rolling out new transparency tools, along with new watermarking and fingerprinting tech.",
+        "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+        "summary": "Fenix now claims he’s ‘never said I didn’t use AI,‘ to make his hit song. Fenix now claims he’s ‘never said I didn’t use AI,‘ to make his hit song. It took long enough , but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song “Rubberz.” His comments follow the producer Medasin’s videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and…",
         "source": "The Verge",
-        "date": "2026-08-06T17:39:43+00:00"
+        "date": "2026-08-07T20:01:51+00:00"
       },
       {
-        "title": "Brendan Carr officially unleashes broadcast consolidation",
-        "url": "https://www.theverge.com/policy/976287/fcc-broadcast-ownership-rule-ends",
-        "summary": "The FCC voted to end a cap on broadcast ownership in favor of case-by-case review. The FCC voted to end a cap on broadcast ownership in favor of case-by-case review. The era of set broadcast ownership limits is officially over, after the Federal Communications Commission (FCC) voted Thursday to end the national ownership cap rule .",
+        "title": "Watching Roku’s AI channel is like eating from a trough",
+        "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+        "summary": "﻿Startup Fairground wants to win people over with a never-ending stream of slop. ﻿Startup Fairground wants to win people over with a never-ending stream of slop. This week, Roku added four new channels to its library of streamable programming. And the overall shoddiness of Fairground’s programming becomes especially apparent whenever the stream cuts to an ad — this is a FAST channel — for one of the traditionally…",
         "source": "The Verge",
-        "date": "2026-08-06T17:35:38+00:00"
+        "date": "2026-08-07T18:59:46+00:00"
       },
       {
-        "title": "Taste Is All That's Left",
-        "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-        "summary": "Good enough is a solvent . Suppose you have taste. It cannot see the difference. (390 points, 283 comments on Hacker News)",
+        "title": "App Store Rejection of the Week: Dark Hours",
+        "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+        "summary": "App Review: Oh, sorry! It’s exactly the sort of app that the App Store ought to celebrate and highlight. The App Store is not a functioning system. (320 points, 181 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-06T17:01:33+00:00"
+        "date": "2026-08-07T18:59:08+00:00"
       },
       {
-        "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-        "summary": "ChatGPT’s GPT-5.6 Sol model will also be ‘more reliable with facts’ for Plus and Pro users. ChatGPT’s GPT-5.6 Sol model will also be ‘more reliable with facts’ for Plus and Pro users. For Plus and Pro subscribers, GPT-5.6 Sol in ChatGPT is being updated to be “more reliable with facts,” OpenAI says.",
+        "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+        "summary": "OpenAI says its in-development Astra model may have ‘critical’ cybersecurity capabilities. OpenAI says its in-development Astra model may have ‘critical’ cybersecurity capabilities. Astra was “not involved” in the Hugging Face breach, OpenAI says.",
         "source": "The Verge",
-        "date": "2026-08-06T17:00:00+00:00"
+        "date": "2026-08-07T18:40:34+00:00"
       },
       {
-        "title": "TikTok blames &#8216;moderator error&#8217; on slow response to Perez Hilton livestream",
-        "url": "https://www.theverge.com/tech/976228/tiktok-perez-hilton-livestream-moderator-error",
-        "summary": "TikTok says its automated review system flagged the stream, but it still stayed up for around 15 minutes. TikTok says its automated review system flagged the stream, but it still stayed up for around 15 minutes. 988 Suicide & Crisis Lifeline : Call or text 988 (formerly known as the National Suicide Prevention Lifeline).",
+        "title": "Managing AI Coding Costs at Scale",
+        "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+        "summary": "This \"efficiency frontier” is advancing far faster than the intelligence frontier, with new models being released almost weekly that present better intelligence-per-unit-price than prior models. Proprietary frontier models are increasingly co-designed to work well with specific harnesses, meaning certain harnesses “work better” with certain models. This approach allows both model/harness independence while also… (221 points, 196 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-07T18:25:17+00:00"
+      },
+      {
+        "title": "The only instant cameras worth your money",
+        "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+        "summary": "Produces relatively true-to-life photos Terrific ease of use Very affordable Instax film can get pricey Minimal creative control Flash can be overpowering Film type: Fujifilm Instax Mini film / Film size: 2 x 3 inches / Weight: 327 grams / Charging method: AA batteries / Companion app: None / Other features: Built-in selfie mirror, self-timer, film counter Fujifilm’s Instax Mini 13 is a more budget-friendly option…",
         "source": "The Verge",
-        "date": "2026-08-06T16:41:25+00:00"
+        "date": "2026-08-07T18:04:08+00:00"
+      },
+      {
+        "title": "Assembly Hall of Shame",
+        "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+        "summary": "Strategy : nop does nothing. Contender : Intel(R) Core(TM) i7-8559U CPU @ 2.70GHz Strategy : Use project:nightshyft to identify high latency MSRs. Contender : AMD Ryzen 7 5800H with Radeon Graphics (Trigkey S5) Strategy : Use mmiotic to identify high-latency deadspace in PCIe fabric, hit unkown GPU register. (323 points, 81 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-07T18:01:30+00:00"
       }
     ]
   }
