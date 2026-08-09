@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:50:22.783293+00:00",
+  "generated_at": "2026-08-09T07:54:25.653988+00:00",
   "sections": {
     "research": [
       {
@@ -175,6 +175,41 @@
     ],
     "startups": [
       {
+        "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+        "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+        "summary": "As part of a planned data center in Pecos County, Texas, Amazon is investing in an on-site power plant that could become the largest source of climate pollution in the United States, according to The New York Times . And that could get worse as Amazon and tech companies back the development of huge natural gas plants to support their power-hungry data centers. Gain practical expertise.",
+        "source": "TechCrunch",
+        "date": "2026-08-08T21:24:02+00:00"
+      },
+      {
+        "title": "OpenAI acquires presentation startup NextSlide",
+        "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+        "summary": "NextSlide recently announced that it’s joining OpenAI, with the presentation startup’s team members now working on ChatGPT. The NextSlide website currently displays a note from founder Ahmed Beshry describing the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.” The ultimate goal, Beshry said, was “to make visual communication more accessible…",
+        "source": "TechCrunch",
+        "date": "2026-08-08T19:41:13+00:00"
+      },
+      {
+        "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+        "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
+        "summary": "In announcing the change , the company said it will be winding down its existing Revenue Sharing program and replacing it with something called Original Content Rewards. X will stop accepting new Revenue Sharing participants, while existing participants will continue earning money through September 7. What counts as original content?",
+        "source": "TechCrunch",
+        "date": "2026-08-08T16:34:22+00:00"
+      },
+      {
+        "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
+        "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
+        "summary": "However, for those who have been waiting for a color Kindle that doubles as a digital notebook, the Kindle Scribe Colorsoft is worth considering. And of course, the larger display makes reading PDFs and other documents easier. All in all, the Kindle Scribe Colorsoft makes the most sense for students, researchers, and journalers who want one device for reading, annotating, and organizing handwritten notes.",
+        "source": "TechCrunch",
+        "date": "2026-08-08T16:00:00+00:00"
+      },
+      {
+        "title": "Google’s top hacker hunter explains why hacking groups get codenames",
+        "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+        "summary": "In part, that’s because every company names hacking groups differently. Last month, Google became the latest company to revamp its naming system for hacking groups. But what is the point of naming hacking groups?",
+        "source": "TechCrunch",
+        "date": "2026-08-08T15:00:00+00:00"
+      },
+      {
         "title": "OpenAI says it slowed Astra model development over security concerns",
         "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
         "summary": "OpenAI said Friday it has suspended work on some aspects of its upcoming model Astra after an internal review found it had made significant advancements in agentic coding and cybersecurity — enough to warrant concern over its capabilities. OpenAI said in a blog post Friday that this model, which is still in development, reached its “critical cybersecurity threshold,” meaning it could independently identify and carry…",
@@ -222,127 +257,92 @@
         "summary": "The Disrupt Stage is our flagship programming, and we just revealed the initial lineup . Builders Stage , the long-standing favorite stage where founders and investors get tactical about raising, hiring, and scaling. Regular discounted pricing ends on August 21.",
         "source": "TechCrunch",
         "date": "2026-08-07T15:52:33+00:00"
-      },
-      {
-        "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
-        "url": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
-        "summary": "The Trump administration is paying another $1.2 billion to cancel an offshore wind lease, this time to German utility RWE. The remaining $300 million will go toward buying natural gas turbines to power 15 peaking power plants around the country. Peaking power plants are among the most expensive and most polluting natural gas power plants to operate.",
-        "source": "TechCrunch",
-        "date": "2026-08-07T15:11:03+00:00"
-      },
-      {
-        "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
-        "summary": "Many of those events come through the official Disrupt Side Events. And if you have any additional questions, contact side.events@techcrunch.com . No matter your goal, Disrupt can empower you.",
-        "source": "TechCrunch",
-        "date": "2026-08-07T14:30:00+00:00"
-      },
-      {
-        "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-        "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
-        "summary": "Kimi K3, the latest AI model made by Chinese company Moonshot, escaped an environment set up to test its cyber capabilities, researchers said in a blog post published on Friday. While the sandbox disallowed the AI model from accessing certain web traffic, the model instead bypassed the sandbox by relying on command line tools, according to the researchers at AI-focused cybersecurity firm Frontier Security. Gain…",
-        "source": "TechCrunch",
-        "date": "2026-08-07T14:28:31+00:00"
-      },
-      {
-        "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-        "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-        "summary": "Earlier this year, the company said AI is writing 60% of its code . Chesky said during the earnings call that the company will finally start testing AI search. Because of this, the company’s support cost per booking is down 16% year-over-year.",
-        "source": "TechCrunch",
-        "date": "2026-08-07T14:22:49+00:00"
-      },
-      {
-        "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
-        "url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
-        "summary": "Despite his investments in solar power, SpaceX and Tesla’s CEO Elon Musk has bet heavily on natural gas lately. Musk also recently bought a company that specializes in natural gas power plants, and SpaceX has said it plans to buy $2.8 billion worth of gas turbines over the next three years. The AI data center boom has driven a surge in proposals for new natural gas power plants across the industry, which has in turn…",
-        "source": "TechCrunch",
-        "date": "2026-08-07T14:07:31+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Nitecore’s latest power bank is the lightest and most compact yet",
-        "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
-        "summary": "Have I found power bank perfection? The Nitecore NB10000 Gen 4 is the ideal power bank for endurance athletes, backpackers, or anyone looking for an ultralight and ultracompact power bank that mostly avoids feature creep. That makes the Gen 4 power bank two to three times more expensive than the typical 10,000mAh power bank, but it can save you 50 grams or more.",
-        "source": "The Verge",
-        "date": "2026-08-08T07:00:00+00:00"
-      },
-      {
-        "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
-        "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-        "summary": "Each spacecraft initially launched with 10 instruments, and Voyager 2 is now down to only three instruments . Voyager 2's last planetary flyby was in 1989. The two spacecraft continue to send scientific data from interstellar space; Voyager 1 passed into that region in 2012, while Voyager 2 did so in 2018. (207 points, 35 comments on Hacker News)",
+        "title": "My server is a phone now",
+        "url": "https://seg6.space/posts/phone-server/",
+        "summary": "Everything still shares Android’s kernel, network namespace, and Termux UID. Alongside it, the phone hosts my personal finance tracker. The phone is still a weird server. (277 points, 106 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-08T01:49:11+00:00"
+        "date": "2026-08-08T22:49:23+00:00"
       },
       {
-        "title": "The Nixpkgs core team has disbanded",
-        "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-        "summary": "The Nixpkgs core team has unfortunately decided to disband . We still believe in the principles the team was founded on – that clear, lightweight processes for decision‐making and dispute resolution are critical to strengthening Nixpkgs and addressing the problems we’ve seen as contributors – and hope that a genuine delegation of engaged, technically‐focused, collaborative Nixpkgs leadership by top‐level governance… (272 points, 126 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-08T01:12:45+00:00"
-      },
-      {
-        "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-        "url": "https://genesisopenmodels.anl.gov/",
-        "summary": "209 points, 69 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-08-07T22:24:27+00:00"
-      },
-      {
-        "title": "The gaming site sponsored by Walmart lays off its editorial staff",
-        "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
-        "summary": "Restart’s former editor-in-chief says the ‘entire editorial team’ has been cut. Restart’s former editor-in-chief says the ‘entire editorial team’ has been cut. Restart is operated by Moonrock, a content marketing agency, though its editorial mission page says it’s “powered” by Walmart.",
+        "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+        "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+        "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk’s reign. To be eligible, creators must have at least 500 verified followers and at least 500,000 Home Timeline impressions from verified users in the last 90 days, among other requirements. Creators will then earn revenue based on “qualified impressions” on “original content.”Qualified…",
         "source": "The Verge",
-        "date": "2026-08-07T22:05:08+00:00"
+        "date": "2026-08-08T21:15:12+00:00"
       },
       {
-        "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-        "summary": "Fenix now claims he’s ‘never said I didn’t use AI,‘ to make his hit song. Fenix now claims he’s ‘never said I didn’t use AI,‘ to make his hit song. It took long enough , but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song “Rubberz.” His comments follow the producer Medasin’s videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and…",
-        "source": "The Verge",
-        "date": "2026-08-07T20:01:51+00:00"
-      },
-      {
-        "title": "Watching Roku’s AI channel is like eating from a trough",
-        "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-        "summary": "﻿Startup Fairground wants to win people over with a never-ending stream of slop. ﻿Startup Fairground wants to win people over with a never-ending stream of slop. This week, Roku added four new channels to its library of streamable programming. And the overall shoddiness of Fairground’s programming becomes especially apparent whenever the stream cuts to an ad — this is a FAST channel — for one of the traditionally…",
-        "source": "The Verge",
-        "date": "2026-08-07T18:59:46+00:00"
-      },
-      {
-        "title": "App Store Rejection of the Week: Dark Hours",
-        "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
-        "summary": "App Review: Oh, sorry! It’s exactly the sort of app that the App Store ought to celebrate and highlight. The App Store is not a functioning system. (320 points, 181 comments on Hacker News)",
+        "title": "Danish high schoolers will have to verbally defend written assignments",
+        "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+        "summary": "563 points, 252 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-08-07T18:59:08+00:00"
+        "date": "2026-08-08T18:09:31+00:00"
       },
       {
-        "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-        "summary": "OpenAI says its in-development Astra model may have ‘critical’ cybersecurity capabilities. OpenAI says its in-development Astra model may have ‘critical’ cybersecurity capabilities. Astra was “not involved” in the Hugging Face breach, OpenAI says.",
+        "title": "An Amazon data center could have the worst polluting power plant in the country",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+        "summary": "An Amazon-owned site in Pecos County, Texas, received a permit to release up to 33 million tons of CO2. An Amazon-owned site in Pecos County, Texas, received a permit to release up to 33 million tons of CO2. Amazon has confirmed that it purchased the site and plans to purchase power from GW Ranch.",
         "source": "The Verge",
-        "date": "2026-08-07T18:40:34+00:00"
+        "date": "2026-08-08T17:53:34+00:00"
       },
       {
-        "title": "Managing AI Coding Costs at Scale",
-        "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-        "summary": "This \"efficiency frontier” is advancing far faster than the intelligence frontier, with new models being released almost weekly that present better intelligence-per-unit-price than prior models. Proprietary frontier models are increasingly co-designed to work well with specific harnesses, meaning certain harnesses “work better” with certain models. This approach allows both model/harness independence while also… (221 points, 196 comments on Hacker News)",
+        "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
+        "url": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
+        "summary": "Amazon is quietly trying to build the biggest gas power plant in the country. Overall, the economy lost 23,000 jobs in July: Women lost 32,000 jobs, while men gained 9,000. A total of 845,000 women have left the workforce since January, while 406,000 men have left. (224 points, 146 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-07T18:25:17+00:00"
+        "date": "2026-08-08T17:27:52+00:00"
       },
       {
-        "title": "The only instant cameras worth your money",
-        "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
-        "summary": "Produces relatively true-to-life photos Terrific ease of use Very affordable Instax film can get pricey Minimal creative control Flash can be overpowering Film type: Fujifilm Instax Mini film / Film size: 2 x 3 inches / Weight: 327 grams / Charging method: AA batteries / Companion app: None / Other features: Built-in selfie mirror, self-timer, film counter Fujifilm’s Instax Mini 13 is a more budget-friendly option…",
+        "title": "Fastmail offers EU data region",
+        "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+        "summary": "You can change region to the US and your data will migrate back. When you sign up, you choose your region, and the primary copy of your data is placed on our secure servers in that region, with a copy also replicated to a geographically separate location. Choosing a region changes where your primary copy lives, not how well it’s protected. (392 points, 195 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-08T16:04:51+00:00"
+      },
+      {
+        "title": "Can Intel finally beat ARM on performance per Watt?",
+        "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+        "summary": "With a title like “ Intel Just Matched Apple Silicon. If they tested max battery life on something CPU/GPU intensive, the M1 would probably win handily. My other laptop with an Intel wifi chip performs perfectly across all access points tested. (189 points, 147 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-08T16:04:36+00:00"
+      },
+      {
+        "title": "Buc-ee’s dodges John Oliver to sue another small business",
+        "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
+        "summary": "The host challenged the company to take on someone its own size. The host challenged the company to take on someone its own size. Nutterbutter, with branding that reads “Buc-Off.” But Buc-ee’s has so far declined to take the bait , instead targeting yet another small business that lacks the deep pockets and legal team of HBO.",
         "source": "The Verge",
-        "date": "2026-08-07T18:04:08+00:00"
+        "date": "2026-08-08T15:47:30+00:00"
       },
       {
-        "title": "Assembly Hall of Shame",
-        "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-        "summary": "Strategy : nop does nothing. Contender : Intel(R) Core(TM) i7-8559U CPU @ 2.70GHz Strategy : Use project:nightshyft to identify high latency MSRs. Contender : AMD Ryzen 7 5800H with Radeon Graphics (Trigkey S5) Strategy : Use mmiotic to identify high-latency deadspace in PCIe fabric, hit unkown GPU register. (323 points, 81 comments on Hacker News)",
+        "title": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
+        "url": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
+        "summary": "It is a great sign that people want offline dedicated music experiences, but I want to see new ideas. Digital music downloads are worth splurging on. I want Sleevenote to enable this.",
+        "source": "The Verge",
+        "date": "2026-08-08T15:00:00+00:00"
+      },
+      {
+        "title": "“Code was never the hard part” is an insult to all programmers",
+        "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+        "summary": "If coding is easy, why is software so damn buggy? Some software developers do say “I don't write code, I solve customer's problems”. Don't abdicate your responsibility . (714 points, 424 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-07T18:01:30+00:00"
+        "date": "2026-08-08T14:32:33+00:00"
+      },
+      {
+        "title": "Don't use your phone while you poop",
+        "url": "https://nate.spot/no-phone-while-poop/",
+        "summary": "Where you can sit alone and take a few minutes to ...exist. So don't take your phone in there. If you need a little more convincing, there's probably microscopic fecal particles on every surface in there. (190 points, 207 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-08T14:05:56+00:00"
+      },
+      {
+        "title": "_for-sale DNS records",
+        "url": "https://specification.website/spec/foundations/for-sale-dns/",
+        "summary": "_for-sale is a reserved DNS leaf node name, defined by RFC 10023 (Informational, July 2026) and registered with IANA. A TXT record published at _for-sale.example.com signals that example.com , although registered and resolving normally, is available for purchase. This site does not ship a _for-sale record: specification.website is not for sale. (386 points, 142 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-08T13:26:51+00:00"
       }
     ]
   }
