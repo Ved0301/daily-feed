@@ -1,90 +1,90 @@
 {
-  "generated_at": "2026-08-09T07:54:25.653988+00:00",
+  "generated_at": "2026-08-10T08:27:01.674540+00:00",
   "sections": {
     "research": [
       {
-        "title": "Learning When to Trust via Selective Context Preference Optimization",
-        "url": "https://arxiv.org/abs/2608.06377v1",
-        "summary": "Xian Sun, Wei Chow, Yingshuo Wang et al. — Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a…",
+        "title": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation",
+        "url": "https://arxiv.org/abs/2608.07463v1",
+        "summary": "Youjun Zhao, Alex Warren, Gary K. L. Tam et al. — Recent advances in video diffusion models (VDMs) have enabled high-fidelity video synthesis. However, generating mirror reflections remains challenging because the content within a mirror must remain consistent with the…",
         "source": "arXiv",
-        "date": "2026-08-06T17:59:58Z"
+        "date": "2026-08-07T17:58:10Z"
       },
       {
-        "title": "The Bitter Lesson of Tool Calling",
-        "url": "https://arxiv.org/abs/2608.06370v1",
-        "summary": "Ishan Patel, Sahil Sen, Elias Lumer et al. — Tool use transforms LLMs into agents that act beyond their training data, and for code-capable models, programmatic tool calling extends this further by replacing rigid JSON calls with scripts that chain and parallelize…",
+        "title": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity",
+        "url": "https://arxiv.org/abs/2608.07460v1",
+        "summary": "Ananya Sahu, Mohit Bansal, Elias Stengel-Eskin — While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity (e.g., story…",
         "source": "arXiv",
-        "date": "2026-08-06T17:58:32Z"
+        "date": "2026-08-07T17:55:48Z"
       },
       {
-        "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
-        "url": "https://arxiv.org/abs/2608.06366v1",
-        "summary": "Soorya Ram Shimgekar, Michelle Hu, Dorisa Shehi et al. — Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure, which affects an…",
+        "title": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG",
+        "url": "https://arxiv.org/abs/2608.07458v1",
+        "summary": "Gyuwan Kim, Cheoneum Park, Tao Yang — Recent optimization studies on Retrieval-Augmented Generation (RAG) have exploited chunk-level KV cache reuse to avoid processing long retrieved contexts for higher efficiency, while significant information redundancy…",
         "source": "arXiv",
-        "date": "2026-08-06T17:57:37Z"
+        "date": "2026-08-07T17:51:49Z"
       },
       {
-        "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
-        "url": "https://arxiv.org/abs/2608.06364v1",
-        "summary": "George Grispos, Sajda Qureshi — The use of e-commerce mobile applications is expanding in Nigeria, creating both opportunities and risks, including fraud and reduced user control over digital technologies, raising concerns about digital sovereignty.…",
+        "title": "Interaction Creates Dynamical AI Behavior Absent in Isolation",
+        "url": "https://arxiv.org/abs/2608.07457v1",
+        "summary": "Bella Xinrui Li, Frank Yingjie Huo, Neil F Johnson — What will happen when AI agents interact in daily life, e.g. when one AI starts bossing another around? We find a counterintuitive answer that opens new avenues for out-of-equilibrium Physics.",
         "source": "arXiv",
-        "date": "2026-08-06T17:57:28Z"
+        "date": "2026-08-07T17:49:55Z"
       },
       {
-        "title": "An Optimal Agnostic PAC Algorithm",
-        "url": "https://arxiv.org/abs/2608.06363v1",
-        "summary": "Markus Engelund Mathiasen, Jian Qian, Nikita Zhivotovskiy — Let $H\\subseteq\\{-1,+1\\}^X$ be a class of finite VC dimension $d\\ge1$. Writing $L$ for the binary risk and $L^*=\\min_{h\\in H}L(h)$, we construct a learner achieving the statistically optimal risk bound: from an i.i.d.\\…",
+        "title": "Strategy-first synthesis planning for complex natural products",
+        "url": "https://arxiv.org/abs/2608.07454v1",
+        "summary": "Daniel Armstrong, Xuan-Vu Nguyen, Octavian Susanu et al. — The total synthesis of a complex molecule is among the most demanding intellectual and experimental feats in chemistry: a chemist must plan many steps ahead for how to assemble simple building blocks into an intricate…",
         "source": "arXiv",
-        "date": "2026-08-06T17:57:25Z"
+        "date": "2026-08-07T17:47:39Z"
       },
       {
-        "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
-        "url": "https://arxiv.org/abs/2608.06362v1",
-        "summary": "Boning Li, Yu Chen, Longbo Huang — Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed-budget evaluations…",
+        "title": "SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent",
+        "url": "https://arxiv.org/abs/2608.07449v1",
+        "summary": "Mingxuan Zheng, Yujin Zhou, Chuxue Cao et al. — LLM agents increasingly adapt to recurring tasks by accumulating procedural knowledge in skills. These skills are lightweight, reusable textual artifacts that are loaded into the agent's context without weight updates.…",
         "source": "arXiv",
-        "date": "2026-08-06T17:57:11Z"
+        "date": "2026-08-07T17:40:33Z"
       },
       {
-        "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
-        "url": "https://arxiv.org/abs/2608.06361v1",
-        "summary": "Sarvesh Baskar, Zikui Cai, Shayan Shabihi et al. — Real-world video benchmarks provide broad coverage, but their fixed clips entangle event count, rate, duration, and visual complexity, making failure modes hard to isolate. While existing programmatic benchmarks offer…",
+        "title": "Taxonomy-Driven Analysis of Open-Source AI Risk Mitigation Tools",
+        "url": "https://arxiv.org/abs/2608.07446v1",
+        "summary": "Afreen Alam, Evgenija Popchanovska, Ana Gjorgjevikj et al. — Rapid adoption of large language models (LLMs) in enterprise settings has introduced operational, security, and governance risks. As generative AI applications move from pilot to production, manual harm identification…",
         "source": "arXiv",
-        "date": "2026-08-06T17:57:06Z"
+        "date": "2026-08-07T17:33:09Z"
       },
       {
-        "title": "Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents",
-        "url": "https://arxiv.org/abs/2608.06353v1",
-        "summary": "Praphul Chandra, Sujit Gujar, Ganesh Ghalme — We give a formal mechanism design model for the continuous participatory governance of a deployed AI agent. The mechanism is built on the principle that governance should control an AI agent through resource allocation…",
+        "title": "RIS-Aided mmWave Localization Under Cross-Link Interference via Beam-Domain ML Fingerprinting",
+        "url": "https://arxiv.org/abs/2608.07444v1",
+        "summary": "Md Tarek Hassan, Dmitry Zelenchuk, Muhammad Ali Babar Abbasi — Accurate user equipment (UE) localization is critical for beam management in reconfigurable intelligent surface (RIS)-assisted millimeter-wave (mmWave) based sixth-generation (6G) networks, especially if the direct…",
         "source": "arXiv",
-        "date": "2026-08-06T17:53:24Z"
+        "date": "2026-08-07T17:28:33Z"
       },
       {
-        "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
-        "url": "https://arxiv.org/abs/2608.06352v1",
-        "summary": "Fanzhe Meng, Guoxin Chen, Jiale Zhao et al. — Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not reveal how a task…",
+        "title": "Blast Radius",
+        "url": "https://arxiv.org/abs/2608.07440v1",
+        "summary": "MY Pitsane, Hope Mogale — Agentic coding faces growing problems of affordability and wasted tokens. We introduce Blast Radius, a predictive memory management layer that estimates an incoming prompt's reach through coupled context and code…",
         "source": "arXiv",
-        "date": "2026-08-06T17:53:18Z"
+        "date": "2026-08-07T17:23:53Z"
       },
       {
-        "title": "Challenges in Evaluating Explanation Methods for Static and Evolving Data",
-        "url": "https://arxiv.org/abs/2608.06351v1",
-        "summary": "Jerzy Stefanowski — This paper addresses the limitations of Explainable Artificial Intelligence (XAI) with respect to insufficient evaluation. They are illustrated through the DetoxAI image recognition system for bias detection and concept…",
+        "title": "An Exploratory Evaluation of LLM-Assisted Rewriting of Moderate-Complexity Financial Sentences for DisCoCat-Based Sentiment Analysis",
+        "url": "https://arxiv.org/abs/2608.07439v1",
+        "summary": "Brian Llinas, Nikos Chrisochoides — Quantum natural language processing (QNLP) provides a grammar-aware framework for text modeling, and Distributional Compositional Categorical (DisCoCat) is one of its theoretically grounded formulations.",
         "source": "arXiv",
-        "date": "2026-08-06T17:53:10Z"
+        "date": "2026-08-07T17:23:01Z"
       },
       {
-        "title": "RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer",
-        "url": "https://arxiv.org/abs/2608.06347v1",
-        "summary": "Xinye Wang, Junxiao Liu, Shujian Huang — Multilingual reasoning transfer is crucial for extending reasoning capabilities of large language models (LLMs) beyond high-resource languages. On-policy self-distillation (OPSD) and its variants have emerged as a…",
+        "title": "PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents",
+        "url": "https://arxiv.org/abs/2608.07438v1",
+        "summary": "Mohammad Amanlou, Parham Abed Azad, Farbod Davoodi et al. — Human-like cognition does not select past experience by topical similarity alone: affective significance and unresolved conflict also shape what becomes accessible. We present PsychoAgent, a cognitive architecture for…",
         "source": "arXiv",
-        "date": "2026-08-06T17:52:06Z"
+        "date": "2026-08-07T17:22:29Z"
       },
       {
-        "title": "TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories",
-        "url": "https://arxiv.org/abs/2608.06346v1",
-        "summary": "Yunjia Qi, Zehua Yin, Xintong Shi et al. — LLM-based agentic systems have shown remarkable capabilities in complex domains, while suffering from cascading errors and difficulty in debugging. Critical error detection aims to locate the earliest error step in a…",
+        "title": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+        "url": "https://arxiv.org/abs/2608.07437v1",
+        "summary": "Jiacheng Miao, Jin Mu, Guanhua Chen et al. — Reliable hypothesis testing is the foundation of many empirical scientific claims. Large language model (LLM) agents are increasingly used to automate this process, as they can inspect datasets, generate code, and…",
         "source": "arXiv",
-        "date": "2026-08-06T17:51:20Z"
+        "date": "2026-08-07T17:22:00Z"
       }
     ],
     "labs": [
@@ -175,6 +175,55 @@
     ],
     "startups": [
       {
+        "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+        "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+        "summary": "Situational Awareness may have had to sell off the majority of its public portfolio last month, but the AI-focused hedge fund is still making some big bets. This week, the fund invested $400 million into Source Foundry, a startup founded by Stanford researchers aiming to make chip manufacturing faster and cheaper, according to The Wall Street Journal . Gain practical expertise.",
+        "source": "TechCrunch",
+        "date": "2026-08-09T20:35:17+00:00"
+      },
+      {
+        "title": "Anthropic is turning Claude Code’s auto mode on by default",
+        "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+        "summary": "Programming with Claude Code will soon require even less human oversight, as Anthropic says it’s making auto mode the default for Pro, Max, and Team accounts, starting on August 14. The company first unveiled a test version of auto mode in March , pitching it as a way to balance speed and control. As Anthropic explained in its announcement on Friday , when Claude Code is in auto mode, instead of presenting prompts…",
+        "source": "TechCrunch",
+        "date": "2026-08-09T19:20:32+00:00"
+      },
+      {
+        "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+        "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+        "summary": "Chargepoly , a French company specializing in the electrification of heavy-duty and commercial vehicle fleets, raised €23 million ($26 million) in a round led by Meridiam. Hadrian , a defense tech company building automated manufacturing facilities, raised a $1.37 billion round at a valuation of $7.87 billion. Joby Aviation , the electric vertical takeoff and landing company, reported earnings this week.",
+        "source": "TechCrunch",
+        "date": "2026-08-09T16:05:00+00:00"
+      },
+      {
+        "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+        "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+        "summary": "By the artificial state, I mean a kind of state that is replacing the liberal democratic nation-state in the United States and around the world. It’s between the artificial state and the natural world. People really want to think [about], “What is this?",
+        "source": "TechCrunch",
+        "date": "2026-08-09T15:00:00+00:00"
+      },
+      {
+        "title": "The AI safety test is becoming a safety risk",
+        "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+        "summary": "The incidents have involved models from OpenAI, Anthropic, Meta, and most recently, Chinese AI lab Moonshot AI, with testing conducted by several different organizations including a cyber evaluation startup called Irregular. In separate evaluations conducted by Irregular, Anthropic and Meta models reached systems outside their test environments after misconfigurations inadvertently gave them paths to the internet.…",
+        "source": "TechCrunch",
+        "date": "2026-08-09T14:30:00+00:00"
+      },
+      {
+        "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
+        "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+        "summary": "Swearingen’s computer-generated patterns do not block surveillance cameras from recording video footage. Swearingen got to work. On Friday at the Def Con cybersecurity conference in Las Vegas, Swearingen ran his first real-world test.",
+        "source": "TechCrunch",
+        "date": "2026-08-09T14:00:00+00:00"
+      },
+      {
+        "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+        "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+        "summary": "AI startup wants to know these days is, how can I get office space in King’s Cross? “Lots going on in London right now,” Nik Sharma, co-founder of BioCorteX, told me. “Ten years ago, building a frontier AI company from London felt like an unusual choice,” Kendall told me.",
+        "source": "TechCrunch",
+        "date": "2026-08-09T13:00:00+00:00"
+      },
+      {
         "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
         "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
         "summary": "As part of a planned data center in Pecos County, Texas, Amazon is investing in an on-site power plant that could become the largest source of climate pollution in the United States, according to The New York Times . And that could get worse as Amazon and tech companies back the development of huge natural gas plants to support their power-hungry data centers. Gain practical expertise.",
@@ -208,141 +257,92 @@
         "summary": "In part, that’s because every company names hacking groups differently. Last month, Google became the latest company to revamp its naming system for hacking groups. But what is the point of naming hacking groups?",
         "source": "TechCrunch",
         "date": "2026-08-08T15:00:00+00:00"
-      },
-      {
-        "title": "OpenAI says it slowed Astra model development over security concerns",
-        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-        "summary": "OpenAI said Friday it has suspended work on some aspects of its upcoming model Astra after an internal review found it had made significant advancements in agentic coding and cybersecurity — enough to warrant concern over its capabilities. OpenAI said in a blog post Friday that this model, which is still in development, reached its “critical cybersecurity threshold,” meaning it could independently identify and carry…",
-        "source": "TechCrunch",
-        "date": "2026-08-07T22:48:24+00:00"
-      },
-      {
-        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-        "summary": "HR software provider Rippling this week unveiled AI Spend Console , an anti-tokenmaxxing product that helps a company track and contain its AI spending. Rippling came to that conclusion too. The company spent a peak of 605 billion tokens the month the CFO issued his warning, MacInnis shared.",
-        "source": "TechCrunch",
-        "date": "2026-08-07T21:30:11+00:00"
-      },
-      {
-        "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
-        "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
-        "summary": "Wacom lent TechCrunch a MovinkPad 11, the first tablet in the series. The MovinkPad 11 is not Wacom’s latest release. MovinkPad also comes with its own free digital art software, Wacom Canvas .",
-        "source": "TechCrunch",
-        "date": "2026-08-07T21:20:00+00:00"
-      },
-      {
-        "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
-        "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
-        "summary": "Before long, the duo discovered more than 10,000 affected public entities with 250,000 websites with security flaws, including airports, hospitals, and government offices. Zack Whittaker is the security editor at TechCrunch. Gain practical expertise.",
-        "source": "TechCrunch",
-        "date": "2026-08-07T21:00:08+00:00"
-      },
-      {
-        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-        "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-        "summary": "Cloudflare is the latest company to join the race to build a new web browser. Unlike traditional web browsers built for humans, a browser built for AI agents doesn’t care about visual elements, like themes, tabs, or browser extensions, Cloudflare explained in its announcement . Everything else runs inside Cloudflare Workers.",
-        "source": "TechCrunch",
-        "date": "2026-08-07T16:16:09+00:00"
-      },
-      {
-        "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
-        "url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
-        "summary": "Framework , a company that makes modular repairable computers, said it has notified all of its customers that hackers stole their names, email addresses, phone numbers, and physical addresses, due to an incident at a company that provides business intelligence. On Thursday, several Framework customers said on social media that they had received an email from the company notifying them of the data breach. In its…",
-        "source": "TechCrunch",
-        "date": "2026-08-07T16:09:04+00:00"
-      },
-      {
-        "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
-        "url": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
-        "summary": "The Disrupt Stage is our flagship programming, and we just revealed the initial lineup . Builders Stage , the long-standing favorite stage where founders and investors get tactical about raising, hiring, and scaling. Regular discounted pricing ends on August 21.",
-        "source": "TechCrunch",
-        "date": "2026-08-07T15:52:33+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "My server is a phone now",
-        "url": "https://seg6.space/posts/phone-server/",
-        "summary": "Everything still shares Android’s kernel, network namespace, and Termux UID. Alongside it, the phone hosts my personal finance tracker. The phone is still a weird server. (277 points, 106 comments on Hacker News)",
+        "title": "How I use LLMs to learn complex topics",
+        "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+        "summary": "For sure learning this way will stick, since you can map concepts with objects within the game. I've done this specifically for learning chip building and launch it under this website: ChipTycoon . Trying to answer questions about a previous step in the chip manufacturing process will help you retain the knowledge tremendously. (612 points, 366 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-08T22:49:23+00:00"
+        "date": "2026-08-09T19:16:49+00:00"
       },
       {
-        "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
-        "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
-        "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk’s reign. To be eligible, creators must have at least 500 verified followers and at least 500,000 Home Timeline impressions from verified users in the last 90 days, among other requirements. Creators will then earn revenue based on “qualified impressions” on “original content.”Qualified…",
+        "title": "Ask HN: What are you working on? (August 2026)",
+        "url": "https://news.ycombinator.com/item?id=49233423",
+        "summary": "Code: https://github.com/0x5CE/farsidaan P.S. Love from Australia: https://apps.apple.com/au/app/wrote-myself-a-letter/id647826... https://play.google.com/store/apps/details?id=com.zeropluson... https://apps.apple.com/au/app/wrote-myself-a-letter/id647826... https://play.google.com/store/apps/details?id=com.zeropluson... https://play.google.com/store/apps/details?id=com.zeropluson... See… (235 points, 816 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-09T17:23:22+00:00"
+      },
+      {
+        "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
+        "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+        "summary": "The small cruise ship Wilderness Legacy rescued the skiff that ran out of fuel. The small cruise ship Wilderness Legacy rescued the skiff that ran out of fuel. Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel.",
         "source": "The Verge",
-        "date": "2026-08-08T21:15:12+00:00"
+        "date": "2026-08-09T17:20:30+00:00"
       },
       {
-        "title": "Danish high schoolers will have to verbally defend written assignments",
-        "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-        "summary": "563 points, 252 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-08-08T18:09:31+00:00"
-      },
-      {
-        "title": "An Amazon data center could have the worst polluting power plant in the country",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-        "summary": "An Amazon-owned site in Pecos County, Texas, received a permit to release up to 33 million tons of CO2. An Amazon-owned site in Pecos County, Texas, received a permit to release up to 33 million tons of CO2. Amazon has confirmed that it purchased the site and plans to purchase power from GW Ranch.",
+        "title": "49ers coach says his Tesla was on Autopilot when he crashed",
+        "url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+        "summary": "He still takes responsibility, saying ‘you don’t just turn it [driving] over to a computer.‘ He still takes responsibility, saying ‘you don’t just turn it [driving] over to a computer.‘ Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. Shanahan was not passing the buck, however, saying it was his fault regardless of whether or not Autopilot was engaged.…",
         "source": "The Verge",
-        "date": "2026-08-08T17:53:34+00:00"
+        "date": "2026-08-09T15:56:49+00:00"
       },
       {
-        "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
-        "url": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
-        "summary": "Amazon is quietly trying to build the biggest gas power plant in the country. Overall, the economy lost 23,000 jobs in July: Women lost 32,000 jobs, while men gained 9,000. A total of 845,000 women have left the workforce since January, while 406,000 men have left. (224 points, 146 comments on Hacker News)",
+        "title": "Taxi drivers rarely die of Alzheimer's",
+        "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+        "summary": "I always assumed that spatial reasoning across map layers was purely professional. Researchers believe the association between navigation-heavy work and lower Alzheimer’s risk centers on the hippocampus, a part of the brain that governs memory and spatial navigation. The implications of whether sustained spatial reasoning protects the brain reach beyond mapmakers and cab drivers. (276 points, 190 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-08T17:27:52+00:00"
+        "date": "2026-08-09T15:21:46+00:00"
       },
       {
-        "title": "Fastmail offers EU data region",
-        "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-        "summary": "You can change region to the US and your data will migrate back. When you sign up, you choose your region, and the primary copy of your data is placed on our secure servers in that region, with a copy also replicated to a geographically separate location. Choosing a region changes where your primary copy lives, not how well it’s protected. (392 points, 195 comments on Hacker News)",
+        "title": "Silicon Valley misreads science fiction and undermines democracy",
+        "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+        "summary": "By the artificial state, I mean a kind of state that is replacing the liberal democratic nation-state in the United States and around the world. It’s between the artificial state and the natural world. People really want to think [about], “What is this? (264 points, 219 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-08T16:04:51+00:00"
+        "date": "2026-08-09T15:18:25+00:00"
       },
       {
-        "title": "Can Intel finally beat ARM on performance per Watt?",
-        "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
-        "summary": "With a title like “ Intel Just Matched Apple Silicon. If they tested max battery life on something CPU/GPU intensive, the M1 would probably win handily. My other laptop with an Intel wifi chip performs perfectly across all access points tested. (189 points, 147 comments on Hacker News)",
+        "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+        "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+        "summary": "According to tests published by Windows Latest, the operating system's Weather app can consume more than 1 GB of memory despite performing a relatively simple task. According to Windows Latest, the high memory consumption is due to the fact that Weather is not a fully native Windows application. Instead, it is essentially an MSN Weather web app built on Microsoft's WebView2 framework. (512 points, 416 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-08T16:04:36+00:00"
+        "date": "2026-08-09T15:11:20+00:00"
       },
       {
-        "title": "Buc-ee’s dodges John Oliver to sue another small business",
-        "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
-        "summary": "The host challenged the company to take on someone its own size. The host challenged the company to take on someone its own size. Nutterbutter, with branding that reads “Buc-Off.” But Buc-ee’s has so far declined to take the bait , instead targeting yet another small business that lacks the deep pockets and legal team of HBO.",
+        "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
+        "url": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
+        "summary": "A weight in free fall accelerates at a maximum of 9.81 meters per second squared; drop one from 2 meters and it smacks into the ground at around 6 meters per second. Tip speed reached a staggering 274 mph. Crunching those statistics yields 346.4 meters per second, or a more than respectable 776 mph. (247 points, 84 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-09T15:08:51+00:00"
+      },
+      {
+        "title": "Cool URIs Don't Change (1998)",
+        "url": "https://www.w3.org/Provider/Style/URI",
+        "summary": "In theory, the domain name space owner owns the domain name space and therefore all URIs in it. Think of the URI space as an abstract space, perfectly organized. This looks very like an HTTP URI. (232 points, 56 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-09T14:32:53+00:00"
+      },
+      {
+        "title": "Mea Culpa – Dark Hours",
+        "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+        "summary": "A developer who created another web app called DarkHours.app replied to my comment on Bluesky yesterday to show me how similar the project was to his, including the name. About an hour later, once it became clear to me that the web app I had launched using Claude was strikingly similar to his open source project, even reproducing a bug he had later fixed, it was clear that there wasn’t anything to do except to… (580 points, 267 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-09T13:20:43+00:00"
+      },
+      {
+        "title": "Dropbox is a PC builder’s best friend",
+        "url": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+        "summary": "When catastrophe strikes, having your whole computer in the cloud makes recovery a breeze. When catastrophe strikes, having your whole computer in the cloud makes recovery a breeze. Yearly Dropbox subscription, two hundred and three dollars.",
         "source": "The Verge",
-        "date": "2026-08-08T15:47:30+00:00"
+        "date": "2026-08-09T13:00:00+00:00"
       },
       {
-        "title": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
-        "url": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
-        "summary": "It is a great sign that people want offline dedicated music experiences, but I want to see new ideas. Digital music downloads are worth splurging on. I want Sleevenote to enable this.",
+        "title": "AI detectors are creating a new era of distrust",
+        "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+        "summary": "Tools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway. A 2023 Stanford study found that AI detectors falsely flagged essays written by non-native English speakers as AI more often than native speakers. ( Many services still argue that their tools are accurate when dealing with text written by non-native speakers.) These tools may also be biased against…",
         "source": "The Verge",
-        "date": "2026-08-08T15:00:00+00:00"
-      },
-      {
-        "title": "“Code was never the hard part” is an insult to all programmers",
-        "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-        "summary": "If coding is easy, why is software so damn buggy? Some software developers do say “I don't write code, I solve customer's problems”. Don't abdicate your responsibility . (714 points, 424 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-08T14:32:33+00:00"
-      },
-      {
-        "title": "Don't use your phone while you poop",
-        "url": "https://nate.spot/no-phone-while-poop/",
-        "summary": "Where you can sit alone and take a few minutes to ...exist. So don't take your phone in there. If you need a little more convincing, there's probably microscopic fecal particles on every surface in there. (190 points, 207 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-08T14:05:56+00:00"
-      },
-      {
-        "title": "_for-sale DNS records",
-        "url": "https://specification.website/spec/foundations/for-sale-dns/",
-        "summary": "_for-sale is a reserved DNS leaf node name, defined by RFC 10023 (Informational, July 2026) and registered with IANA. A TXT record published at _for-sale.example.com signals that example.com , although registered and resolving normally, is available for purchase. This site does not ship a _for-sale record: specification.website is not for sale. (386 points, 142 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-08T13:26:51+00:00"
+        "date": "2026-08-09T12:00:00+00:00"
       }
     ]
   }
