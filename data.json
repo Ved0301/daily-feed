@@ -1,93 +1,149 @@
 {
-  "generated_at": "2026-08-10T08:27:01.674540+00:00",
+  "generated_at": "2026-08-11T08:10:16.548959+00:00",
   "sections": {
     "research": [
       {
-        "title": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation",
-        "url": "https://arxiv.org/abs/2608.07463v1",
-        "summary": "Youjun Zhao, Alex Warren, Gary K. L. Tam et al. — Recent advances in video diffusion models (VDMs) have enabled high-fidelity video synthesis. However, generating mirror reflections remains challenging because the content within a mirror must remain consistent with the…",
+        "title": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions",
+        "url": "https://arxiv.org/abs/2608.09930v1",
+        "summary": "Oluwanifemi Bamgbose, Simon Rosen, Jash Shah et al. — Automated Text-to-Speech (TTS) evaluation methods (Mean Opinion Score (MOS) predictors and Audio Large Language Models (Audio-LLM) judges) are expected to reflect human perception, yet it is unclear how well they…",
         "source": "arXiv",
-        "date": "2026-08-07T17:58:10Z"
+        "date": "2026-08-10T17:59:51Z"
       },
       {
-        "title": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity",
-        "url": "https://arxiv.org/abs/2608.07460v1",
-        "summary": "Ananya Sahu, Mohit Bansal, Elias Stengel-Eskin — While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity (e.g., story…",
+        "title": "Multimodal Model Diffing for Feature Discovery and Control",
+        "url": "https://arxiv.org/abs/2608.09928v1",
+        "summary": "Hunar Batra, Lachin Naghashyar, Ashkan Khakzar et al. — Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these behaviors remain difficult to identify, audit, or control. While applicable to post-hoc…",
         "source": "arXiv",
-        "date": "2026-08-07T17:55:48Z"
+        "date": "2026-08-10T17:59:30Z"
       },
       {
-        "title": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG",
-        "url": "https://arxiv.org/abs/2608.07458v1",
-        "summary": "Gyuwan Kim, Cheoneum Park, Tao Yang — Recent optimization studies on Retrieval-Augmented Generation (RAG) have exploited chunk-level KV cache reuse to avoid processing long retrieved contexts for higher efficiency, while significant information redundancy…",
+        "title": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch",
+        "url": "https://arxiv.org/abs/2608.09925v1",
+        "summary": "Laurens Samson, Iva Gornishka, Gossa Lô et al. — Large language models are increasingly being deployed in governmental settings, yet few existing evaluation frameworks jointly reflect the values of public administration and the linguistic requirements of non-English…",
         "source": "arXiv",
-        "date": "2026-08-07T17:51:49Z"
+        "date": "2026-08-10T17:59:05Z"
       },
       {
-        "title": "Interaction Creates Dynamical AI Behavior Absent in Isolation",
-        "url": "https://arxiv.org/abs/2608.07457v1",
-        "summary": "Bella Xinrui Li, Frank Yingjie Huo, Neil F Johnson — What will happen when AI agents interact in daily life, e.g. when one AI starts bossing another around? We find a counterintuitive answer that opens new avenues for out-of-equilibrium Physics.",
+        "title": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis",
+        "url": "https://arxiv.org/abs/2608.09921v1",
+        "summary": "Alban Puech, Matteo Mazzonelli, Tamara R. Govindasamy et al. — Foundation models are transforming business workflows and boosting productivity, yet they remain largely absent from engineering domains such as power system analysis, where strict physical consistency must be enforced.…",
         "source": "arXiv",
-        "date": "2026-08-07T17:49:55Z"
+        "date": "2026-08-10T17:57:49Z"
       },
       {
-        "title": "Strategy-first synthesis planning for complex natural products",
-        "url": "https://arxiv.org/abs/2608.07454v1",
-        "summary": "Daniel Armstrong, Xuan-Vu Nguyen, Octavian Susanu et al. — The total synthesis of a complex molecule is among the most demanding intellectual and experimental feats in chemistry: a chemist must plan many steps ahead for how to assemble simple building blocks into an intricate…",
+        "title": "DSLE: A Learning Environment for Dark Souls Boss Encounters",
+        "url": "https://arxiv.org/abs/2608.09902v1",
+        "summary": "Derin Gezgin, Jim O'Connor, Tanner Goodwin et al. — We introduce the Dark Souls Learning Environment (DSLE), a containerized platform that presents all 22 boss encounters of Dark Souls: Remastered as game-playing agent benchmarks through a Gymnasium-style interface.",
         "source": "arXiv",
-        "date": "2026-08-07T17:47:39Z"
+        "date": "2026-08-10T17:48:45Z"
       },
       {
-        "title": "SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent",
-        "url": "https://arxiv.org/abs/2608.07449v1",
-        "summary": "Mingxuan Zheng, Yujin Zhou, Chuxue Cao et al. — LLM agents increasingly adapt to recurring tasks by accumulating procedural knowledge in skills. These skills are lightweight, reusable textual artifacts that are loaded into the agent's context without weight updates.…",
+        "title": "Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness",
+        "url": "https://arxiv.org/abs/2608.09900v1",
+        "summary": "Tadanobu Chuyo Kamijo, Ori Rottenstreich, Javier Conde et al. — Large language model evaluations typically focus on performance under nominal conditions, creating an illusion of capability where models comfortably walk a narrow, highly optimized generation corridor.",
         "source": "arXiv",
-        "date": "2026-08-07T17:40:33Z"
+        "date": "2026-08-10T17:47:24Z"
       },
       {
-        "title": "Taxonomy-Driven Analysis of Open-Source AI Risk Mitigation Tools",
-        "url": "https://arxiv.org/abs/2608.07446v1",
-        "summary": "Afreen Alam, Evgenija Popchanovska, Ana Gjorgjevikj et al. — Rapid adoption of large language models (LLMs) in enterprise settings has introduced operational, security, and governance risks. As generative AI applications move from pilot to production, manual harm identification…",
+        "title": "Fairness in Link Prediction Beyond Demographic Parity: A Reproducibility Study",
+        "url": "https://arxiv.org/abs/2608.09899v1",
+        "summary": "Valentijn Oldenburg, Floris de Kam, Stef de Wildt et al. — In fair ranked link prediction, demographic parity ($Δ_\\mathrm{DP}$) is a common fairness metric. Yet, Mattos et al. (2025) argue that it fails to detect exposure bias because it ignores where links appear in the…",
         "source": "arXiv",
-        "date": "2026-08-07T17:33:09Z"
+        "date": "2026-08-10T17:47:19Z"
       },
       {
-        "title": "RIS-Aided mmWave Localization Under Cross-Link Interference via Beam-Domain ML Fingerprinting",
-        "url": "https://arxiv.org/abs/2608.07444v1",
-        "summary": "Md Tarek Hassan, Dmitry Zelenchuk, Muhammad Ali Babar Abbasi — Accurate user equipment (UE) localization is critical for beam management in reconfigurable intelligent surface (RIS)-assisted millimeter-wave (mmWave) based sixth-generation (6G) networks, especially if the direct…",
+        "title": "Consilience for Verifier-Free Test-Time Scaling",
+        "url": "https://arxiv.org/abs/2608.09898v1",
+        "summary": "Lecheng Kong, Like Hui, Haitao Mao et al. — Test-time scaling often uses an external verifier, such as compilers and test cases in coding or trained value functions in robotics applications, to obtain high-quality rollouts. Verifier-free test-time scaling (or…",
         "source": "arXiv",
-        "date": "2026-08-07T17:28:33Z"
+        "date": "2026-08-10T17:45:44Z"
       },
       {
-        "title": "Blast Radius",
-        "url": "https://arxiv.org/abs/2608.07440v1",
-        "summary": "MY Pitsane, Hope Mogale — Agentic coding faces growing problems of affordability and wasted tokens. We introduce Blast Radius, a predictive memory management layer that estimates an incoming prompt's reach through coupled context and code…",
+        "title": "Fusion Training for Mathematical Generalization in Large Language Models",
+        "url": "https://arxiv.org/abs/2608.09893v1",
+        "summary": "Congfeng Cao, Pengyu Zhang, Jelke Bloem — Thinking Mode Fusion (TMF) enables large language models to support both concise responses and long-form reasoning by unifying a non-thinking mode and a thinking mode within a single model. However, its training…",
         "source": "arXiv",
-        "date": "2026-08-07T17:23:53Z"
+        "date": "2026-08-10T17:41:19Z"
       },
       {
-        "title": "An Exploratory Evaluation of LLM-Assisted Rewriting of Moderate-Complexity Financial Sentences for DisCoCat-Based Sentiment Analysis",
-        "url": "https://arxiv.org/abs/2608.07439v1",
-        "summary": "Brian Llinas, Nikos Chrisochoides — Quantum natural language processing (QNLP) provides a grammar-aware framework for text modeling, and Distributional Compositional Categorical (DisCoCat) is one of its theoretically grounded formulations.",
+        "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
+        "url": "https://arxiv.org/abs/2608.09888v1",
+        "summary": "Björn Engdahl, Adrian Kosowski, Jan Chorowski et al. — We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model then solves a…",
         "source": "arXiv",
-        "date": "2026-08-07T17:23:01Z"
+        "date": "2026-08-10T17:39:16Z"
       },
       {
-        "title": "PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents",
-        "url": "https://arxiv.org/abs/2608.07438v1",
-        "summary": "Mohammad Amanlou, Parham Abed Azad, Farbod Davoodi et al. — Human-like cognition does not select past experience by topical similarity alone: affective significance and unresolved conflict also shape what becomes accessible. We present PsychoAgent, a cognitive architecture for…",
+        "title": "Space-Creating versus Dead Possession: An Off-Ball Possession-Quality Index for Broadcast Football",
+        "url": "https://arxiv.org/abs/2608.09887v1",
+        "summary": "Seongjin Choi — Ball possession is the most-cited and most-misleading number in football: 60% recycled in one's own half is not 60% spent pinning the opponent back. Existing event-based possession-value frameworks (expected threat,…",
         "source": "arXiv",
-        "date": "2026-08-07T17:22:29Z"
+        "date": "2026-08-10T17:39:05Z"
       },
       {
-        "title": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
-        "url": "https://arxiv.org/abs/2608.07437v1",
-        "summary": "Jiacheng Miao, Jin Mu, Guanhua Chen et al. — Reliable hypothesis testing is the foundation of many empirical scientific claims. Large language model (LLM) agents are increasingly used to automate this process, as they can inspect datasets, generate code, and…",
+        "title": "SHE: Trajectory-driven Safety Harness Evolution for LLM Agents",
+        "url": "https://arxiv.org/abs/2608.09885v1",
+        "summary": "Wanying Qu, Qinghua Mao, Yu Li et al. — The safety of large language model (LLM) agents depends not only on model weights but also on the agent harness that manages context, memory, tools, permissions, and runtime control. Existing safety mechanisms often…",
         "source": "arXiv",
-        "date": "2026-08-07T17:22:00Z"
+        "date": "2026-08-10T17:35:08Z"
       }
     ],
     "labs": [
+      {
+        "title": "What building an AI-native finance function taught me",
+        "url": "https://openai.com/index/building-an-ai-native-finance-function",
+        "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+        "source": "OpenAI",
+        "date": "2026-08-10T17:00:00+00:00"
+      },
+      {
+        "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+        "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+        "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+        "source": "OpenAI",
+        "date": "2026-08-10T14:00:00+00:00"
+      },
+      {
+        "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "url": "https://openai.com/index/model-ml",
+        "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+        "source": "OpenAI",
+        "date": "2026-08-10T12:00:00+00:00"
+      },
+      {
+        "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+        "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+        "source": "OpenAI",
+        "date": "2026-08-10T10:00:00+00:00"
+      },
+      {
+        "title": "Putting frontier cyber models in more trusted hands",
+        "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+        "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+        "source": "OpenAI",
+        "date": "2026-08-10T10:00:00+00:00"
+      },
+      {
+        "title": "Premium seats are coming to ChatGPT Business",
+        "url": "https://openai.com/index/premium-seats-chatgpt-business",
+        "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+        "source": "OpenAI",
+        "date": "2026-08-10T00:00:00+00:00"
+      },
+      {
+        "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+        "url": "https://openai.com/index/zapier",
+        "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+        "source": "OpenAI",
+        "date": "2026-08-10T00:00:00+00:00"
+      },
+      {
+        "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+        "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+        "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+        "source": "OpenAI",
+        "date": "2026-08-10T00:00:00+00:00"
+      },
       {
         "title": "Responding to the next frontier of critical cyber capabilities",
         "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
@@ -115,234 +171,178 @@
         "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
         "source": "OpenAI",
         "date": "2026-08-06T10:00:00+00:00"
-      },
-      {
-        "title": "Working with the American Psychological Association on youth mental health and AI",
-        "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-        "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-        "source": "OpenAI",
-        "date": "2026-08-06T06:00:00+00:00"
-      },
-      {
-        "title": "From asking to doing: How the world is putting ChatGPT to work",
-        "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-        "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-        "source": "OpenAI",
-        "date": "2026-08-06T00:00:00+00:00"
-      },
-      {
-        "title": "Third-party cyber evaluations involving OpenAI models",
-        "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-        "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-        "source": "OpenAI",
-        "date": "2026-08-04T19:00:00+00:00"
-      },
-      {
-        "title": "New ways to learn and teach with ChatGPT Work and Codex",
-        "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-        "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-        "source": "OpenAI",
-        "date": "2026-08-04T00:00:00+00:00"
-      },
-      {
-        "title": "Apple is getting this wrong",
-        "url": "https://openai.com/index/apple-is-getting-this-wrong",
-        "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-        "source": "OpenAI",
-        "date": "2026-08-03T22:00:00+00:00"
-      },
-      {
-        "title": "How we built a realtime system for responsive voice AI in six months",
-        "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-        "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-        "source": "OpenAI",
-        "date": "2026-08-03T07:00:00+00:00"
-      },
-      {
-        "title": "Circles powers telco personalization with OpenAI technology",
-        "url": "https://openai.com/index/circles",
-        "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-        "source": "OpenAI",
-        "date": "2026-08-03T00:00:00+00:00"
-      },
-      {
-        "title": "Ten advances in mathematics and theoretical computer science",
-        "url": "https://openai.com/index/ten-advances-in-mathematics",
-        "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-        "source": "OpenAI",
-        "date": "2026-08-01T00:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-        "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-        "summary": "Situational Awareness may have had to sell off the majority of its public portfolio last month, but the AI-focused hedge fund is still making some big bets. This week, the fund invested $400 million into Source Foundry, a startup founded by Stanford researchers aiming to make chip manufacturing faster and cheaper, according to The Wall Street Journal . Gain practical expertise.",
+        "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+        "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+        "summary": "OpenAI has bought back $7 billion worth of shares from employees at the privately held frontier AI lab as part of an effort to provide liquidity to its workforce. The deal, reported by Bloomberg, valued OpenAI at $852 billion, the same as its most recent fundraising round in March, which added $122 billion to the company’s war chest. Gain practical expertise.",
         "source": "TechCrunch",
-        "date": "2026-08-09T20:35:17+00:00"
+        "date": "2026-08-11T00:03:18+00:00"
       },
       {
-        "title": "Anthropic is turning Claude Code’s auto mode on by default",
-        "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-        "summary": "Programming with Claude Code will soon require even less human oversight, as Anthropic says it’s making auto mode the default for Pro, Max, and Team accounts, starting on August 14. The company first unveiled a test version of auto mode in March , pitching it as a way to balance speed and control. As Anthropic explained in its announcement on Friday , when Claude Code is in auto mode, instead of presenting prompts…",
+        "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+        "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+        "summary": "So, the AI labs that make the models doing the hacking are expanding their cyber protection offerings. The expansion includes access to a brand new cyber-focused model designed for defensive work. Both of these tiers will allow approved customers access to OpenAI’s limited-access frontier cyber models .",
         "source": "TechCrunch",
-        "date": "2026-08-09T19:20:32+00:00"
+        "date": "2026-08-10T23:56:15+00:00"
       },
       {
-        "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
-        "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
-        "summary": "Chargepoly , a French company specializing in the electrification of heavy-duty and commercial vehicle fleets, raised €23 million ($26 million) in a round led by Meridiam. Hadrian , a defense tech company building automated manufacturing facilities, raised a $1.37 billion round at a valuation of $7.87 billion. Joby Aviation , the electric vertical takeoff and landing company, reported earnings this week.",
+        "title": "Jeff Bezos might finally get his hands on a sports team",
+        "url": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
+        "summary": "Bezos, alongside others including Facebook co-founder Eduardo Saverin, is looking to buy at least a 30% stake in the English soccer team Liverpool at a £1.35 billion valuation (around $1.8 billion), The Guardian reports . Jordan buying Bournemouth. For that matter, owning a stake in a U.K. sports team has also become a celebrity cultural phenom.",
         "source": "TechCrunch",
-        "date": "2026-08-09T16:05:00+00:00"
+        "date": "2026-08-10T23:16:44+00:00"
       },
       {
-        "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-        "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-        "summary": "By the artificial state, I mean a kind of state that is replacing the liberal democratic nation-state in the United States and around the world. It’s between the artificial state and the natural world. People really want to think [about], “What is this?",
+        "title": "Now Rippling is counter-suing tiny startup Runlayer",
+        "url": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
+        "summary": "HR startup Rippling filed a lawsuit Monday accusing MCP gateway startup Runlayer of infringing on three of its patents, according to the lawsuit seen by TechCrunch. Rippling became one of Runlayer’s earliest potential customers trialing its software. Rippling’s lawsuit calls out Runlayer’s hypocrisy.",
         "source": "TechCrunch",
-        "date": "2026-08-09T15:00:00+00:00"
+        "date": "2026-08-10T22:26:54+00:00"
       },
       {
-        "title": "The AI safety test is becoming a safety risk",
-        "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-        "summary": "The incidents have involved models from OpenAI, Anthropic, Meta, and most recently, Chinese AI lab Moonshot AI, with testing conducted by several different organizations including a cyber evaluation startup called Irregular. In separate evaluations conducted by Irregular, Anthropic and Meta models reached systems outside their test environments after misconfigurations inadvertently gave them paths to the internet.…",
+        "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+        "url": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
+        "summary": "Google co-founder Sergey Brin has donated another $20 million to Build a Better California, an organization advocating against California’s proposed billionaire tax, according to a new filing . California’s Prop 40 , known as the billionaire tax, would impose a one-time 5% tax on the net worth of around 200 billionaires that live in the state. The windfall from this proposed tax would mostly go toward funding…",
         "source": "TechCrunch",
-        "date": "2026-08-09T14:30:00+00:00"
+        "date": "2026-08-10T21:20:04+00:00"
       },
       {
-        "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
-        "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
-        "summary": "Swearingen’s computer-generated patterns do not block surveillance cameras from recording video footage. Swearingen got to work. On Friday at the Def Con cybersecurity conference in Las Vegas, Swearingen ran his first real-world test.",
+        "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+        "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+        "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the “personal superintelligence” systems Meta AI is building. Of course, the product Zuckerberg is describing already exists: This is a consumer chatbot like ChatGPT, Claude, and Gemini. Zuckerberg is right that access is an issue, and he’s right that a freemium model allows for more access than…",
         "source": "TechCrunch",
-        "date": "2026-08-09T14:00:00+00:00"
+        "date": "2026-08-10T20:53:02+00:00"
       },
       {
-        "title": "This former notorious red-light district is now one of the world’s top AI hubs",
-        "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
-        "summary": "AI startup wants to know these days is, how can I get office space in King’s Cross? “Lots going on in London right now,” Nik Sharma, co-founder of BioCorteX, told me. “Ten years ago, building a frontier AI company from London felt like an unusual choice,” Kendall told me.",
+        "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+        "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+        "summary": "4 on the wait list, he told ABC. 1 reservation on the wait list. But Bird’s OpenClaw had used 4.6, he disclosed.",
         "source": "TechCrunch",
-        "date": "2026-08-09T13:00:00+00:00"
+        "date": "2026-08-10T20:04:24+00:00"
       },
       {
-        "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-        "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-        "summary": "As part of a planned data center in Pecos County, Texas, Amazon is investing in an on-site power plant that could become the largest source of climate pollution in the United States, according to The New York Times . And that could get worse as Amazon and tech companies back the development of huge natural gas plants to support their power-hungry data centers. Gain practical expertise.",
+        "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
+        "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
+        "summary": "Aptoide’s independent app store is one of the larger Android app marketplaces outside of Google Play, offering more than 40,000 Android applications to its roughly 25 million monthly active users. As of June 22, 2026, Google began allowing third-party app stores to access Google Play’s app catalog through the Play Catalog Access Program . Epic Games first sued Google in 2020, alleging anticompetitive abuses in the…",
         "source": "TechCrunch",
-        "date": "2026-08-08T21:24:02+00:00"
+        "date": "2026-08-10T18:31:54+00:00"
       },
       {
-        "title": "OpenAI acquires presentation startup NextSlide",
-        "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-        "summary": "NextSlide recently announced that it’s joining OpenAI, with the presentation startup’s team members now working on ChatGPT. The NextSlide website currently displays a note from founder Ahmed Beshry describing the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.” The ultimate goal, Beshry said, was “to make visual communication more accessible…",
+        "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+        "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+        "summary": "Circuit Court of Appeals denied these platforms’ attempt to defend themselves from thousands of lawsuits through an argument based on Section 230, which protects publishers and platforms from being held liable for users’ posts. It’s too early to say how these addictive design lawsuits will pan out, but so far, Meta lost two lawsuits over similar issues, marking the first time that the platform was held liable over…",
         "source": "TechCrunch",
-        "date": "2026-08-08T19:41:13+00:00"
+        "date": "2026-08-10T18:30:33+00:00"
       },
       {
-        "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
-        "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
-        "summary": "In announcing the change , the company said it will be winding down its existing Revenue Sharing program and replacing it with something called Original Content Rewards. X will stop accepting new Revenue Sharing participants, while existing participants will continue earning money through September 7. What counts as original content?",
+        "title": "YouTube now requires creators to have twice as many watch hours to start earning money",
+        "url": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
+        "summary": "Additionally, YouTube announced that creators will need to maintain 10 million Shorts views over a 90-day period to earn money through the Shorts Creators Pool. The changes make it harder for creators to enter and remain in YouTube’s monetization program, especially for Shorts creators. Creators receive a share of subscription revenue based on member watch time and views, with 55% going to long-form video creators…",
         "source": "TechCrunch",
-        "date": "2026-08-08T16:34:22+00:00"
+        "date": "2026-08-10T18:27:44+00:00"
       },
       {
-        "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
-        "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
-        "summary": "However, for those who have been waiting for a color Kindle that doubles as a digital notebook, the Kindle Scribe Colorsoft is worth considering. And of course, the larger display makes reading PDFs and other documents easier. All in all, the Kindle Scribe Colorsoft makes the most sense for students, researchers, and journalers who want one device for reading, annotating, and organizing handwritten notes.",
+        "title": "Clicks’ Power Keyboard brings BlackBerry-style typing to any phone — with some compromises",
+        "url": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/",
+        "summary": "However, in its current implementation, the Power Keyboard suffers from the same fate as the company’s earlier Clicks keyboard — a smartphone case that included a physical keyboard. To pair the device with your phone over Bluetooth, press and hold the power button and slide out the keyboard. In addition, while Clicks’ older keyboard case pulled power from the phone by way of its USB-C connection, the Power Keyboard…",
         "source": "TechCrunch",
-        "date": "2026-08-08T16:00:00+00:00"
+        "date": "2026-08-10T18:00:39+00:00"
       },
       {
-        "title": "Google’s top hacker hunter explains why hacking groups get codenames",
-        "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-        "summary": "In part, that’s because every company names hacking groups differently. Last month, Google became the latest company to revamp its naming system for hacking groups. But what is the point of naming hacking groups?",
+        "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+        "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+        "summary": "Meta on Monday released Muse Glimmer , an open-weight model designed to power AI agents locally on consumer hardware, providing the clearest picture yet of what CEO Mark Zuckerberg’s vision of “personal superintelligence” could look like in practice. The 30-billion parameter model is essentially an open version of Meta’s most powerful closed model, Muse Spark, which the company debuted in April . Meta imagines…",
         "source": "TechCrunch",
-        "date": "2026-08-08T15:00:00+00:00"
+        "date": "2026-08-10T16:20:13+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "How I use LLMs to learn complex topics",
-        "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-        "summary": "For sure learning this way will stick, since you can map concepts with objects within the game. I've done this specifically for learning chip building and launch it under this website: ChipTycoon . Trying to answer questions about a previous step in the chip manufacturing process will help you retain the knowledge tremendously. (612 points, 366 comments on Hacker News)",
+        "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+        "url": "https://github.com/antirez/h3.c",
+        "summary": "Prompt-to-video/audio, first/last-frame conditioning, and ordered Ref2VA image/video/audio references work end to end. Standalone audio must accompany an image or video reference. Final video/audio latent relative L2 was 5.56%/15.14%. (221 points, 32 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-09T19:16:49+00:00"
+        "date": "2026-08-11T01:22:09+00:00"
       },
       {
-        "title": "Ask HN: What are you working on? (August 2026)",
-        "url": "https://news.ycombinator.com/item?id=49233423",
-        "summary": "Code: https://github.com/0x5CE/farsidaan P.S. Love from Australia: https://apps.apple.com/au/app/wrote-myself-a-letter/id647826... https://play.google.com/store/apps/details?id=com.zeropluson... https://apps.apple.com/au/app/wrote-myself-a-letter/id647826... https://play.google.com/store/apps/details?id=com.zeropluson... https://play.google.com/store/apps/details?id=com.zeropluson... See… (235 points, 816 comments on Hacker News)",
+        "title": "The UK's war on anonymity has come to America",
+        "url": "https://www.effort.news/uk-lobby",
+        "summary": "CCDH supported bills with the explicit intent of importing British laws. Effort found significant overlap between Reset Tech and 5Rights: 4 of 6 bills it lobbied for are bills 5Rights engaged with, including AB 2273, the bill 5Rights also lobbied for. Reset Tech homepage global collective references: “Reset Tech”: 1, “we”: 6, and “our”: 5 (only in the context of Reset Tech). (463 points, 346 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-09T17:23:22+00:00"
+        "date": "2026-08-10T23:45:50+00:00"
       },
       {
-        "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
-        "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
-        "summary": "The small cruise ship Wilderness Legacy rescued the skiff that ran out of fuel. The small cruise ship Wilderness Legacy rescued the skiff that ran out of fuel. Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel.",
+        "title": "As AI eats the web, the internet’s collective memory is disappearing",
+        "url": "https://thewalrus.ca/google-search-is-dying/",
+        "summary": "199 points, 184 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-08-10T22:36:30+00:00"
+      },
+      {
+        "title": "Mark Zuckerberg doesn’t understand how to live",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+        "summary": "It requires a person’s time and attention. And Zuckerberg’s vision of maximizing productivity comes at the cost of my experience. I am coming to believe we need a better quality of AI booster It is the question that Zuckerberg’s vision of the future doesn’t ask.",
         "source": "The Verge",
-        "date": "2026-08-09T17:20:30+00:00"
+        "date": "2026-08-10T22:00:00+00:00"
       },
       {
-        "title": "49ers coach says his Tesla was on Autopilot when he crashed",
-        "url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
-        "summary": "He still takes responsibility, saying ‘you don’t just turn it [driving] over to a computer.‘ He still takes responsibility, saying ‘you don’t just turn it [driving] over to a computer.‘ Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. Shanahan was not passing the buck, however, saying it was his fault regardless of whether or not Autopilot was engaged.…",
+        "title": "Anker&#8217;s travel charger works in almost any country and is down to $20",
+        "url": "https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale",
+        "summary": "The adapter can power up to five devices at once and is at its best price to date. The adapter can power up to five devices at once and is at its best price to date. That’s not enough power to charge most laptops, making the USB ports better suited for smaller gadgets like phones, tablets, earbuds, and power banks.",
         "source": "The Verge",
-        "date": "2026-08-09T15:56:49+00:00"
+        "date": "2026-08-10T21:18:15+00:00"
       },
       {
-        "title": "Taxi drivers rarely die of Alzheimer's",
-        "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-        "summary": "I always assumed that spatial reasoning across map layers was purely professional. Researchers believe the association between navigation-heavy work and lower Alzheimer’s risk centers on the hippocampus, a part of the brain that governs memory and spatial navigation. The implications of whether sustained spatial reasoning protects the brain reach beyond mapmakers and cab drivers. (276 points, 190 comments on Hacker News)",
+        "title": "Stop Killing Games: It's time to sue Sony, join us",
+        "url": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
+        "summary": "Daarnaast vind ik het gek dat het digitaal duurder is om een game te kopen dan dat het is dit fysiek te doen. En dat moet een keer stoppen. \" \" Het is schandalig dat een disc versie goedkoper is dan online terwijl er minder kosten zijn voor Sony. (230 points, 126 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-09T15:21:46+00:00"
+        "date": "2026-08-10T20:47:13+00:00"
       },
       {
-        "title": "Silicon Valley misreads science fiction and undermines democracy",
-        "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-        "summary": "By the artificial state, I mean a kind of state that is replacing the liberal democratic nation-state in the United States and around the world. It’s between the artificial state and the natural world. People really want to think [about], “What is this? (264 points, 219 comments on Hacker News)",
+        "title": "Illinois just passed a law that puts Linux on the hook for age verification",
+        "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+        "summary": "Here’s what actually set off the Reddit thread: a post claiming Illinois now requires operating system providers, open source projects included, to build age verification by 2028. Illinois skipped that step entirely. Illinois lawmakers passed it unanimously anyway. (315 points, 450 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-09T15:18:25+00:00"
+        "date": "2026-08-10T20:20:06+00:00"
       },
       {
-        "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-        "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
-        "summary": "According to tests published by Windows Latest, the operating system's Weather app can consume more than 1 GB of memory despite performing a relatively simple task. According to Windows Latest, the high memory consumption is due to the fact that Weather is not a fully native Windows application. Instead, it is essentially an MSN Weather web app built on Microsoft's WebView2 framework. (512 points, 416 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-09T15:11:20+00:00"
-      },
-      {
-        "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
-        "url": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
-        "summary": "A weight in free fall accelerates at a maximum of 9.81 meters per second squared; drop one from 2 meters and it smacks into the ground at around 6 meters per second. Tip speed reached a staggering 274 mph. Crunching those statistics yields 346.4 meters per second, or a more than respectable 776 mph. (247 points, 84 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-09T15:08:51+00:00"
-      },
-      {
-        "title": "Cool URIs Don't Change (1998)",
-        "url": "https://www.w3.org/Provider/Style/URI",
-        "summary": "In theory, the domain name space owner owns the domain name space and therefore all URIs in it. Think of the URI space as an abstract space, perfectly organized. This looks very like an HTTP URI. (232 points, 56 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-09T14:32:53+00:00"
-      },
-      {
-        "title": "Mea Culpa – Dark Hours",
-        "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-        "summary": "A developer who created another web app called DarkHours.app replied to my comment on Bluesky yesterday to show me how similar the project was to his, including the name. About an hour later, once it became clear to me that the web app I had launched using Claude was strikingly similar to his open source project, even reproducing a bug he had later fixed, it was clear that there wasn’t anything to do except to… (580 points, 267 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-09T13:20:43+00:00"
-      },
-      {
-        "title": "Dropbox is a PC builder’s best friend",
-        "url": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
-        "summary": "When catastrophe strikes, having your whole computer in the cloud makes recovery a breeze. When catastrophe strikes, having your whole computer in the cloud makes recovery a breeze. Yearly Dropbox subscription, two hundred and three dollars.",
+        "title": "Bluesky now lets you hide reposts from that annoying person you follow",
+        "url": "https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads",
+        "summary": "Bluesky is giving you another way to control your feeds. Bluesky is giving you another way to control your feeds. Bluesky has added a new feature that lets you hide reposts from a specific person in your feeds.",
         "source": "The Verge",
-        "date": "2026-08-09T13:00:00+00:00"
+        "date": "2026-08-10T19:26:50+00:00"
       },
       {
-        "title": "AI detectors are creating a new era of distrust",
-        "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-        "summary": "Tools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway. A 2023 Stanford study found that AI detectors falsely flagged essays written by non-native English speakers as AI more often than native speakers. ( Many services still argue that their tools are accurate when dealing with text written by non-native speakers.) These tools may also be biased against…",
+        "title": "Costco&#8217;s great Switch 2 console bundle includes over $100 in free stuff",
+        "url": "https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale",
+        "summary": "Costco’s deal on the Switch 2 includes a year of Nintendo Switch Online and a 256GB MicroSD Express card. Costco’s deal on the Switch 2 includes a year of Nintendo Switch Online and a 256GB MicroSD Express card. The Switch Online subscription includes a variety of features like cloud saving, online play, plus classic NES, SNES, and Game Boy titles.",
         "source": "The Verge",
-        "date": "2026-08-09T12:00:00+00:00"
+        "date": "2026-08-10T19:14:27+00:00"
+      },
+      {
+        "title": "Rust SIMD on the GPU",
+        "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+        "summary": "In both cases, core::simd drives those lanes. SIMD cross-lane shuffles , such as simd_swizzle! and rotates, move elements between lanes. Portable SIMD is still unstable in Rust. (176 points, 87 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-10T18:12:49+00:00"
+      },
+      {
+        "title": "Learning more about Claude's mathematical capabilities",
+        "url": "https://www.anthropic.com/research/riemann-zeta",
+        "summary": "Recently, a member of staff at Anthropic gave Claude an unreasonable challenge. Two mathematicians at Anthropic studied and validated Claude’s paper , and produced an informal note for experts stating Claude’s proof concisely. Claude also produced a formally verifiable proof of its result. (186 points, 129 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-10T17:41:13+00:00"
+      },
+      {
+        "title": "What to expect from Google’s 2026 Pixel hardware launch event",
+        "url": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
+        "summary": "Google is expected to announce four new smartphones: the Pixel 11, the Pixel 11 Pro, the Pixel 11 Pro XL, and the Pixel 11 Pro Fold. Google is rumored to raise the starting storage of the base Pixel 11 and the base Pixel 11 Pro to 256GB, up from the 128GB floor with the Pixel 10 and Pixel 10 Pro. However, early Pixel 11 Pro listings have stated that the Pixel 11 Pro will have 12GB of RAM.",
+        "source": "The Verge",
+        "date": "2026-08-10T17:30:00+00:00"
       }
     ]
   }
