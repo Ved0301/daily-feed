@@ -1,93 +1,121 @@
 {
-  "generated_at": "2026-08-13T08:21:29.173210+00:00",
+  "generated_at": "2026-08-14T08:15:46.795512+00:00",
   "sections": {
     "research": [
       {
-        "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
-        "url": "https://arxiv.org/abs/2608.12313v1",
-        "summary": "Chuyue Li, Jinpeng Yu, Haozhe Wang et al. — Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video representation that is…",
+        "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+        "url": "https://arxiv.org/abs/2608.13560v1",
+        "summary": "Yaxin Luo, Haobin Jiang, Jialv Zou et al. — Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should…",
         "source": "arXiv",
-        "date": "2026-08-12T17:58:02Z"
+        "date": "2026-08-13T17:59:57Z"
       },
       {
-        "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
-        "url": "https://arxiv.org/abs/2608.12308v1",
-        "summary": "Yan Deng, Fei Xu — Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observability.",
+        "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+        "url": "https://arxiv.org/abs/2608.13558v1",
+        "summary": "Bobo Li, Hao Fei, Tianjie Ju et al. — Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workflow coverage alone…",
         "source": "arXiv",
-        "date": "2026-08-12T17:54:33Z"
+        "date": "2026-08-13T17:59:52Z"
       },
       {
-        "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
-        "url": "https://arxiv.org/abs/2608.12307v1",
-        "summary": "Cheng Qian, Wenting Zhao, Liangwei Yang et al. — Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-time methods.",
+        "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+        "url": "https://arxiv.org/abs/2608.13555v1",
+        "summary": "Dairu Liu, Zekun Qi, Jiayu Zeng et al. — Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences but miss the…",
         "source": "arXiv",
-        "date": "2026-08-12T17:53:18Z"
+        "date": "2026-08-13T17:59:40Z"
       },
       {
-        "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
-        "url": "https://arxiv.org/abs/2608.12306v1",
-        "summary": "Ebenezer Gelo, Geraud Nangue Tasse, Steven James et al. — Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, with no per-step…",
+        "title": "Defensive Boosting for Online Probabilistic Forecasting",
+        "url": "https://arxiv.org/abs/2608.13554v1",
+        "summary": "Georgy Noarov, Aaron Roth — We study online probabilistic forecasting of binary outcomes chosen by an adaptive adversary. Given an online learning algorithm for a weak hypothesis class $H$, we would like to efficiently obtain two incomparable…",
         "source": "arXiv",
-        "date": "2026-08-12T17:53:15Z"
+        "date": "2026-08-13T17:59:35Z"
       },
       {
-        "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
-        "url": "https://arxiv.org/abs/2608.12304v1",
-        "summary": "Saman Marandi, Yu-Shu Hu, Mohammad Modarres — Dynamic Master Logic (DML) provides a hierarchical framework for representing system behavior by linking functional objectives to underlying structural elements. However, DML construction typically relies on expert…",
+        "title": "Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure",
+        "url": "https://arxiv.org/abs/2608.13549v1",
+        "summary": "Mingyuan Zhang — The per-instance Jaccard score, or intersection over union (IoU), is standard in multi-label classification and binary segmentation. With $s$ labels, its loss matrix has $2^s$ outcomes and reports.",
         "source": "arXiv",
-        "date": "2026-08-12T17:50:39Z"
+        "date": "2026-08-13T17:59:17Z"
       },
       {
-        "title": "A Framework for Designing Reward Functions: From Objectives to Features to Human-Aligned Reward Functions",
-        "url": "https://arxiv.org/abs/2608.12302v1",
-        "summary": "Di Yang Shi, W. Bradley Knox — We present a formal process to enable non-experts to instantiate and iterate on human-aligned reward functions, i.e. reward functions that adhere to a given preference ordering over trajectories. Given a task described…",
+        "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+        "url": "https://arxiv.org/abs/2608.13547v1",
+        "summary": "Shangao Li, Yao Zhang, Volker Tresp et al. — LLM coding agents issue Bash commands through interfaces that may serialize, wrap, and reparse model output. Matched execution scores alone cannot distinguish command-generation errors from failures introduced after…",
         "source": "arXiv",
-        "date": "2026-08-12T17:46:00Z"
+        "date": "2026-08-13T17:57:20Z"
       },
       {
-        "title": "Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations",
-        "url": "https://arxiv.org/abs/2608.12299v1",
-        "summary": "AmirHossein Eshghi, Hamid Saadatfar, Seyyed Ali Hoseini et al. — Class activation mapping (CAM) is one of the most widely used visual explanation families in explainable artificial intelligence. Its purpose is intuitive: it converts internal model evidence into a heatmap that…",
+        "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
+        "url": "https://arxiv.org/abs/2608.13545v1",
+        "summary": "Fanfei Li, Jana Zeller, Manuel Prada-Corral et al. — Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to characterize.",
         "source": "arXiv",
-        "date": "2026-08-12T17:45:03Z"
+        "date": "2026-08-13T17:56:12Z"
       },
       {
-        "title": "Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence",
-        "url": "https://arxiv.org/abs/2608.12290v1",
-        "summary": "Aman Tyagi, Hemanth Boinpally, Jonathan Chen et al. — Modern black-box Image-to-Video (I2V) models offer powerful capabilities in automated content creation, yet their lack of fine-grained control and reliability presents significant challenges in professional workflows.…",
+        "title": "SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization",
+        "url": "https://arxiv.org/abs/2608.13538v1",
+        "summary": "Weihan Meng, Hongzhu Guo, Yi Jing et al. — Sparse autoencoders (SAEs) are proposed to extract numerous features from large language model (LLM) representations, yet explaining these features still relies primarily on external observation. This reliance leads to…",
         "source": "arXiv",
-        "date": "2026-08-12T17:35:16Z"
+        "date": "2026-08-13T17:54:11Z"
       },
       {
-        "title": "Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Sentiment, Macroeconomic Indicators, and Technical Signals",
-        "url": "https://arxiv.org/abs/2608.12283v1",
-        "summary": "Alireza Kargarzadeh, Nariman Khaledian, Navid Parvini et al. — Large language models can extract richer signals from financial news than fixed sentiment lexicons, and recent work has explored feeding such signals into portfolio construction. We study an uncertainty-aware…",
+        "title": "DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees",
+        "url": "https://arxiv.org/abs/2608.13524v1",
+        "summary": "Tianyi Li, Yaxin Luo, Xinyi Shang et al. — Speculative decoding losslessly accelerates autoregressive language models by verifying multiple draft tokens in parallel. Diffusion-based drafters further reduce proposal latency by predicting an entire token block in…",
         "source": "arXiv",
-        "date": "2026-08-12T17:28:03Z"
+        "date": "2026-08-13T17:43:44Z"
       },
       {
-        "title": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies",
-        "url": "https://arxiv.org/abs/2608.12282v1",
-        "summary": "Ankita Rajaram Naik, Anupama Murthi, Benjamin Elder et al. — Agents deployed in enterprise settings must reason across structured APIs and document collections, yet existing benchmarks evaluate these capabilities in isolation. We introduce VAKRA (e\\textbf{V}aluating \\textbf{A}PI…",
+        "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+        "url": "https://arxiv.org/abs/2608.13522v1",
+        "summary": "Zhe Ye, Hantao Lou, Yuechun Sun et al. — AI agents are increasingly used for programming, but do not provide any guarantee on the correctness of generated code. Verified code generation, in which an agent produces both an implementation and a machine-checked…",
         "source": "arXiv",
-        "date": "2026-08-12T17:27:27Z"
+        "date": "2026-08-13T17:41:27Z"
       },
       {
-        "title": "Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages",
-        "url": "https://arxiv.org/abs/2608.12278v1",
-        "summary": "Avijit Roy, Proma Roy — Artificial intelligence tools for education and language support are increasingly framed as scalable responses to access gaps in under-resourced communities. Yet the infrastructure underlying these tools, including…",
+        "title": "Exponential quantum advantage for learning signals with a single qubit",
+        "url": "https://arxiv.org/abs/2608.13521v1",
+        "summary": "Ishaan Kannan, Sridhar Prabhu, Saeed A. Khan et al. — Quantum technology has the potential to transform scientific discovery, but quantum advantages often require processing capabilities well beyond the reach of experimental platforms. We show that coupling a single…",
         "source": "arXiv",
-        "date": "2026-08-12T17:17:25Z"
+        "date": "2026-08-13T17:40:39Z"
       },
       {
-        "title": "A Neighborhood Attention Transformer Network for Enhanced 3D Segmentation of the Left Anterior Descending Artery",
-        "url": "https://arxiv.org/abs/2608.12274v1",
-        "summary": "Rafi Ibn Sultan, Chengyin Li, Yiannos Demetriou et al. — Background: Accurate segmentation of the Left Anterior Descending (LAD) artery in 3D free-breathing, non-contrast CT is critical for cardiac dose sparing in thoracic radiotherapy. The LAD is extremely small, has poor…",
+        "title": "The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity",
+        "url": "https://arxiv.org/abs/2608.13520v1",
+        "summary": "Martin J. Wainwright — We study masking diffusion for discrete sampling and introduce a path-resolved measure of data geometry called the \\emph{unmasking growth complexity} ({\\textsf{UGC}\\xspace}). Its local increments directly control…",
         "source": "arXiv",
-        "date": "2026-08-12T17:13:59Z"
+        "date": "2026-08-13T17:40:17Z"
       }
     ],
     "labs": [
+      {
+        "title": "Introducing Gemini 3.7 Flash",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+        "summary": "3.7 Flash shows strong gains over 3.6 Flash in coding tasks like debugging and issue resolution. Gemini 3.7 Flash delivers a noticeably improved developer experience over 3.6 Flash. For more information, see the 3.7 Flash model card .",
+        "source": "Google DeepMind",
+        "date": "2026-08-13T17:04:18+00:00"
+      },
+      {
+        "title": "The builder’s guide to GPT‑5.6",
+        "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+        "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+        "source": "OpenAI",
+        "date": "2026-08-13T11:00:00+00:00"
+      },
+      {
+        "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "url": "https://openai.com/index/previewing-ultrafast",
+        "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+        "source": "OpenAI",
+        "date": "2026-08-13T10:00:00+00:00"
+      },
+      {
+        "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+        "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+        "source": "OpenAI",
+        "date": "2026-08-13T09:00:00+00:00"
+      },
       {
         "title": "Putting sign language AI into users’ hands",
         "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
@@ -143,206 +171,178 @@
         "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
         "source": "OpenAI",
         "date": "2026-08-10T17:00:00+00:00"
-      },
-      {
-        "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-        "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-        "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-        "source": "OpenAI",
-        "date": "2026-08-10T14:00:00+00:00"
-      },
-      {
-        "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-        "url": "https://openai.com/index/model-ml",
-        "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-        "source": "OpenAI",
-        "date": "2026-08-10T12:00:00+00:00"
-      },
-      {
-        "title": "Putting frontier cyber models in more trusted hands",
-        "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-        "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-        "source": "OpenAI",
-        "date": "2026-08-10T10:00:00+00:00"
-      },
-      {
-        "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-        "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-        "source": "OpenAI",
-        "date": "2026-08-10T10:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-        "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-        "summary": "Anthropic recently made the decision to watermark Claude’s outputs — inserting invisible code into the chatbot’s editorial text that marks it as AI-generated. The student who used Claude to reorganize a paragraph. If Claude starts watermarking the code or anything else it generates, what exactly is it claiming credit for?” the poster asked .",
+        "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+        "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+        "summary": "Singer and actress Selena Gomez and her mother are being sued over their mental health startup, Wondermind . The plaintiffs in the lawsuit say they invested nearly $1.2 million in the startup, and are accusing Gomez of securities fraud and breach of contract. They allege that the startup failed to deliver on its commitments without informing investors, and Gomez failed to market the startup after promising to do so.",
         "source": "TechCrunch",
-        "date": "2026-08-12T22:26:37+00:00"
+        "date": "2026-08-13T22:12:40+00:00"
       },
       {
-        "title": "AI nuclear power firm Fermi finally has a new CEO",
-        "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
-        "summary": "Fermi, the AI nuclear power firm, has named a new CEO more than three months after firing co-founder Toby Neugebauer from the top executive post. Fermi said Wednesday it has hired Lee McIntire, an independent member of the company’s board who has held chief executive positions at CH2M Hill and TerraPower , the nuclear power startup founded by Bill Gates. “Fermi’s next chapter is a construction and power delivery…",
+        "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+        "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+        "summary": "Flock launched the tool in April. According to Flock, the tool has already helped customers spot and stop abuse. Privacy experts and Flock critics are not impressed by Audit Assistance.",
         "source": "TechCrunch",
-        "date": "2026-08-12T22:24:00+00:00"
+        "date": "2026-08-13T22:02:04+00:00"
       },
       {
-        "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
-        "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
-        "summary": "This week, a spacecraft built and operated by Northrop Grumman called a Mission Extension Vehicle (MEV) unplugged from a communications satellite operated by the Australian firm Optus. Now, the satellite life-extension spacecraft is leaving to make room for its replacement. In July, four new Northrop spacecraft launched into orbit on a SpaceX Falcon 9 rocket.",
+        "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+        "url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+        "summary": "Apple has sent out a new batch of notifications to customers who it suspects have been targeted with spyware capable of hacking into their devices. Apple told TechCrunch that it sent out the notifications on Thursday to users targeted in 110 countries. When received, a threat notification will read: “Apple detected a mercenary spyware attack targeted at your iPhone.",
         "source": "TechCrunch",
-        "date": "2026-08-12T20:53:41+00:00"
+        "date": "2026-08-13T21:50:11+00:00"
       },
       {
-        "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-        "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-        "summary": "The streaming platform Twitch will now use creators’ content to help train generative AI models for its parent company, Amazon. But Twitch users worry that since creators have to manually opt out, they might be surrendering their content to train Amazon’s AI content models without even knowing it. Instead of telling the community that Amazon would begin training on Twitch users’ content, Twitch framed this change as…",
+        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+        "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+        "summary": "But while open source models offer significantly lower per-token costs, it can be difficult to find the right model for a given job. A recent paper from Writer researchers lends credence to this approach, testing small changes in harness efficiency across multiple different models. For Writer’s clients, the experience is still model-agnostic: Palmyra X6 will sit alongside other Writer models or outside models…",
         "source": "TechCrunch",
-        "date": "2026-08-12T20:10:40+00:00"
+        "date": "2026-08-13T21:13:24+00:00"
       },
       {
-        "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
-        "url": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
-        "summary": "Well over half a million Grubhub drivers and customers are set to receive a share of $23.8 million following allegations that the food delivery company misled workers about their potential earnings and engaged in other deceptive practices. Another allegation involved Grubhub’s restaurant listings. Grubhub also isn’t the only delivery company to face scrutiny.",
+        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+        "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+        "summary": "This scenario recently played out with AI big-data company Databricks and its latest $5 billion raise announced Thursday, co-founder and CEO Ali Ghodsi (pictured above) told TechCrunch. The company had already raised $20 billion over the past 20 months. Plus, Databricks is shopping.",
         "source": "TechCrunch",
-        "date": "2026-08-12T18:34:21+00:00"
+        "date": "2026-08-13T20:14:39+00:00"
       },
       {
-        "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-        "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-        "summary": "Cognition, maker of the AI coding agent Devin, is reportedly already talking to investors about raising another funding round with a big leap in valuation, after it raised $1 billion at a $26 billon valuation in May. This new round could deliver at least a $40 billion valuation based on achieving a $1 billion annualized revenue run rate, according to sources cited by Bloomberg . Gain practical expertise.",
+        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+        "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+        "summary": "“Ultrafast points to progress in a new direction: more useful work per second.” OpenAI’s competitors, like Anthropic, have similarly launched accelerated versions of their models. Claude has fast mode , although it doesn’t deliver the kind of speed that OpenAI is offering here. Ultrafast, which is currently being released in preview, is being powered by OpenAI’s partnership with chipmaker Cerebras.",
         "source": "TechCrunch",
-        "date": "2026-08-12T18:19:12+00:00"
+        "date": "2026-08-13T19:22:40+00:00"
       },
       {
-        "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-        "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-        "summary": "Hinton, in particular, drew a distinction between open source software, which makes the underlying code available for inspection and modification, and open-weight models, which release the parameters of a trained AI model to the public. “Open source is great. We now have open-weight models, so the barrier to lots of people getting these big models, which was the cost of training foundation models, that barrier has…",
+        "title": "IBM partners with OpenAI to bolster enterprise AI push",
+        "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+        "summary": "IBM on Thursday announced its partnership with OpenAI to bring the AI company’s models and tools to more enterprise customers, opening another avenue for OpenAI to connect with some of the world’s largest companies through IBM’s global consulting business as competition for corporate AI spending intensifies. OpenAI and IBM will jointly market AI offerings and develop industry-specific solutions for sectors including…",
         "source": "TechCrunch",
-        "date": "2026-08-12T17:51:00+00:00"
+        "date": "2026-08-13T19:19:49+00:00"
       },
       {
-        "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-        "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-        "summary": "Thrive Holdings is akin to a private equity firm for AI, buying traditional businesses like accounting firms and implementing AI into their workflows. In December 2025, OpenAI took an ownership stake in Thrive Holdings. The raise comes off the back of proven success for Thrive’s companies, which has surpassed 70 businesses on Thrive Holdings’ platforms.",
+        "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+        "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+        "summary": "In other cases, agents in coordination tended toward conformity. Agents are just like us. Working together creates a new trust boundary; agents will have to judge information received from other agents.",
         "source": "TechCrunch",
-        "date": "2026-08-12T17:41:29+00:00"
+        "date": "2026-08-13T18:28:14+00:00"
       },
       {
-        "title": "Uber Freight reportedly investigating after hacking group claims data breach",
-        "url": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
-        "summary": "A hacking and extortion gang has taken credit for a cyberattack and data breach at Uber Freight, the ridesharing giant’s logistics subsidiary. Some of the files seen by TechCrunch appear to show email correspondence between Uber Freight and several of its customers. Zack Whittaker is the security editor at TechCrunch.",
+        "title": "OpenAI hires new CRO as executive shake-up continues",
+        "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+        "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab’s top sales job. 2 executive, CEO of AGI deployment Fidji Simo . OpenAI co-founder and president Greg Brockman has taken a larger role in management following Simo’s departure, and announced Rajic’s arrival today in a blog post .",
         "source": "TechCrunch",
-        "date": "2026-08-12T17:15:41+00:00"
+        "date": "2026-08-13T17:07:13+00:00"
       },
       {
-        "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-        "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-        "summary": "Mesh , the relationship manager and personal CRM acquired by WordPress.com’s parent company, Automattic , last year, is now available to users on Android devices. On Android , the company customized Mesh’s app to work with key platform features, like split-screen and pop-up views. Already, Mesh and Beeper interoperate to some extent, as Mesh users can draft a text to someone in Beeper or click deep links in the app…",
+        "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+        "url": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
+        "summary": "The stakes for Ford are high. To catch up, Ford ditched the moving assembly line system that its founder Henry Ford launched and turned to a system developed by its skunkworks team led by former Tesla executive Alan Clarke. This “universal production system,” as Ford calls it, uses a three-branched assembly tree.",
         "source": "TechCrunch",
-        "date": "2026-08-12T16:57:58+00:00"
+        "date": "2026-08-13T16:37:53+00:00"
       },
       {
-        "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-        "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-        "summary": "You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com .",
+        "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
+        "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+        "summary": "X is significantly expanding its open source codebase, which includes the app’s “For You” algorithm and its core ranking engine, and adding a feature that will let users see if their account or posts have been impacted by any of its ranking systems, the social network said on Thursday. The company is making the source code for the “For You” timeline, the default feed you see when you open the app, available on…",
         "source": "TechCrunch",
-        "date": "2026-08-12T16:46:02+00:00"
+        "date": "2026-08-13T16:00:00+00:00"
       },
       {
-        "title": "Tesla wants to build a $10B solar factory in Texas",
-        "url": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
-        "summary": "Tesla intends to build a massive solar panel factory 45 minutes southwest of Houston, according to documents filed with the state of Texas. The new factory, called Project Crystal Sun, could cost as much as $10.1 billion. However, Tesla CEO Elon Musk, who also runs SpaceX, is famously bullish on orbital data centers.",
+        "title": "Instagram introduces a redesigned wordmark",
+        "url": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
+        "summary": "Instagram on Thursday introduced a new wordmark, which is the text-only logo that spells out the company’s name. The change was announced by Instagram head Adam Mosseri on both Instagram and Threads, where he described the new logo as “sharper and more modern” while still referencing the original and maintaining simplicity. Gain practical expertise.",
         "source": "TechCrunch",
-        "date": "2026-08-12T16:18:31+00:00"
+        "date": "2026-08-13T15:46:02+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
-        "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
-        "summary": "We’re ready for some bad jokes during Google’s celebrity-packed live show. We’re ready for some bad jokes during Google’s celebrity-packed live show. Like last year, it’ll be a celebrity-packed live show , though Trevor Noah is hosting instead of Jimmy Fallon.",
-        "source": "The Verge",
-        "date": "2026-08-12T21:30:00+00:00"
-      },
-      {
-        "title": "This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off",
-        "url": "https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale",
-        "summary": "With bonus discounts on a wireless charger, the slim Galaxy S25 Edge, and a Transformers Lego. With bonus discounts on a wireless charger, the slim Galaxy S25 Edge, and a Transformers Lego. This mechanical keyboard is designed to look like Nintendo’s original NES controller, with features like two red customizable buttons.",
-        "source": "The Verge",
-        "date": "2026-08-12T21:21:09+00:00"
-      },
-      {
-        "title": "Cats and dogs are missing meals after a popular smart feeder went down",
-        "url": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders",
-        "summary": "Petlibro says it’s working to resolve a ‘service issue’ that’s causing its smart feeders not to dispense food on schedule. Petlibro says it’s working to resolve a ‘service issue’ that’s causing its smart feeders not to dispense food on schedule. “We are currently experiencing a service issue affecting some Petlibro app functions,” Petlibro said on Tuesday .",
-        "source": "The Verge",
-        "date": "2026-08-12T21:07:17+00:00"
-      },
-      {
-        "title": "The next big indie game publisher is taking some exciting swings",
-        "url": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition",
-        "summary": "The lineup from Kinetic Publishing, an indie label by the developers of Phasmophobia, includes Sam Barlow’s next game. The lineup from Kinetic Publishing, an indie label by the developers of Phasmophobia, includes Sam Barlow’s next game. Kinetic announced its publishing arm back in January .",
-        "source": "The Verge",
-        "date": "2026-08-12T19:30:00+00:00"
-      },
-      {
-        "title": "It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year",
-        "url": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
-        "summary": "﻿A supplier’s earnings call supports rumors that Apple will stick to launching high-end phones like the Pro series this fall. ﻿A supplier’s earnings call supports rumors that Apple will stick to launching high-end phones like the Pro series this fall. According to an Economic Daily News report spotted by MacRumors , executives for Apple supplier Pegatron confirmed during an earnings call that the iPhone 18 Pro…",
-        "source": "The Verge",
-        "date": "2026-08-12T19:27:47+00:00"
-      },
-      {
-        "title": "Delta",
-        "url": "https://zed.dev/blog/introducing-delta",
-        "summary": "Delta keeps code and conversations connected, so developers and agents can work together with the full context of how the code came to be. Review stays connected to the conversation and code as both evolve. Delta also connects to third-party agent harnesses, starting with Claude Code. (530 points, 186 comments on Hacker News)",
+        "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+        "url": "https://z.ai/blog/glm-5.3",
+        "summary": "340 points, 124 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-08-12T18:19:59+00:00"
+        "date": "2026-08-14T05:19:59+00:00"
       },
       {
-        "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
-        "url": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
-        "summary": "Google’s latest Pixel 11 series phones have arrived, and you can preorder them now. Google’s latest Pixel 11 series phones have arrived, and you can preorder them now. The Pixel 11 includes a $100 gift card, the Pixel 11 Pro and Pro XL include a $200 gift card, and the Pixel 11 Pro Fold includes a $350 gift card.",
+        "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+        "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
+        "summary": "Trump isn’t satisfied with the foreign drone ban, so the US will pay more for already-approved aircraft too. Trump isn’t satisfied with the foreign drone ban, so the US will pay more for already-approved aircraft too. For all other drones, including tiny sub-250-gram “Mini” consumer drones, he’s declared a 25 percent tariff.",
         "source": "The Verge",
-        "date": "2026-08-12T17:47:54+00:00"
+        "date": "2026-08-14T01:06:15+00:00"
       },
       {
-        "title": "Twitch streamers can now opt out from training Amazon’s AI",
-        "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-        "summary": "Flip the new Twitch toggle if you don’t want your content to be used to train Amazon’s generative AI content models. Flip the new Twitch toggle if you don’t want your content to be used to train Amazon’s generative AI content models. Here’s the full text of Amazon’s description for the toggle: Allow your channel content to train generative AI content models at Amazon.",
+        "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+        "url": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+        "summary": "Apple says it should be allowed to recoup ‘at least some compensation’ for the platform it provides.﻿ Apple says it should be allowed to recoup ‘at least some compensation’ for the platform it provides.﻿ In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don’t use the company’s in-app…",
         "source": "The Verge",
-        "date": "2026-08-12T17:29:10+00:00"
+        "date": "2026-08-13T23:13:24+00:00"
       },
       {
-        "title": "How Google’s new Pixel 11 phones compare to last year’s models",
-        "url": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
-        "summary": "From new AI and camera features to a faster chip, here’s what separates the Pixel 11 and 11 Pro from their predecessors. Google just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. Meanwhile, Google’s larger 6.8-inch Pixel 11 Pro XL starts at $1,299 and offers the same storage and RAM configurations as the Pro.",
+        "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+        "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+        "summary": "Judge Donato was not having Google’s ‘anticompetitive friction.‘ Judge Donato was not having Google’s ‘anticompetitive friction.‘ One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today — where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. Donato ordered Google to…",
         "source": "The Verge",
-        "date": "2026-08-12T17:00:00+00:00"
+        "date": "2026-08-13T21:53:04+00:00"
       },
       {
-        "title": "ICE wants to give agents electrified gloves that shock people into compliance",
-        "url": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
-        "summary": "﻿The agency is looking to spend up to $20 million on the devices. ﻿The agency is looking to spend up to $20 million on the devices. Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. The agency’s new shocking gloves will just be a new way to hurt people.",
+        "title": "The fight over Flock and other ALPRs",
+        "url": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+        "summary": "Earlier this year, Amazon-owned Ring canceled a partnership with Flock after online backlash. After 404 Media contacted Flock for comment, the dataset disappeared. Amazon’s smart doorbell company Ring is now working with the AI-powered surveillance camera company Flock.",
         "source": "The Verge",
-        "date": "2026-08-12T16:58:29+00:00"
+        "date": "2026-08-13T21:46:21+00:00"
       },
       {
-        "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-        "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-        "summary": "Grok 4.6 gains 5 points over Grok 4.5 on the Intelligence Index just over one month after its release, or +23 points compared to Grok 4.3. Key takeaways: ➤ Grok 4.6 joins the frontier of the Artificial Analysis Intelligence Index: It scores 61, in line with GPT-5.6 Sol (max), behind Claude Opus 5 (max, 63) and Claude Fable 5 (max with fallback, 62), and just ahead of Kimi K3 ➤ Strong agentic performance: Grok 4.6… (328 points, 360 comments on Hacker News)",
+        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+        "summary": "Mico launched in Copilot’s voice mode less than a year ago. Mico launched in Copilot’s voice mode less than a year ago. “Those learnings are shaping Copilot going forward.” Microsoft is removing Mico from Copilot “in waves.” The change is part of Microsoft’s plans to merge its Copilot and Microsoft 365 Copilot apps .",
+        "source": "The Verge",
+        "date": "2026-08-13T21:42:38+00:00"
+      },
+      {
+        "title": "Netflix is closing two game studios",
+        "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
+        "summary": "Night School Studio and Moonloot Games are being shut down as Netflix focuses more on TV-based party games. Night School Studio and Moonloot Games are being shut down as Netflix focuses more on TV-based party games. In 2024, Netflix closed down a AAA studio that never released a game .",
+        "source": "The Verge",
+        "date": "2026-08-13T20:52:58+00:00"
+      },
+      {
+        "title": "This school-friendly laptop from HP is $300 off",
+        "url": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale",
+        "summary": "We also spotted the Pixel Buds Pro 2 at a discounted price, and save $40 on the DJI Osmo Pocket 3. We also spotted the Pixel Buds Pro 2 at a discounted price, and save $40 on the DJI Osmo Pocket 3. See our ethics statement.",
+        "source": "The Verge",
+        "date": "2026-08-13T20:07:53+00:00"
+      },
+      {
+        "title": "OpenAI is losing its second executive this week",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+        "summary": "﻿Chief revenue officer Denise Dresser announced she is leaving OpenAI. Two days ago, Brad Lightcap also said he’d be leaving. ﻿Chief revenue officer Denise Dresser announced she is leaving OpenAI. Another OpenAI executive is departing.",
+        "source": "The Verge",
+        "date": "2026-08-13T19:28:39+00:00"
+      },
+      {
+        "title": "The Trump admin will start letting private firms launch international cyberattacks",
+        "url": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+        "summary": "Cybersecurity companies will operate ‘under the control and oversight’ of the federal government. Cybersecurity companies will operate ‘under the control and oversight’ of the federal government. President Donald Trump began making plans to get private cybersecurity companies involved last year, Bloomberg reported .",
+        "source": "The Verge",
+        "date": "2026-08-13T18:56:13+00:00"
+      },
+      {
+        "title": "Understanding is the new bottleneck",
+        "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+        "summary": "Hot take: I think it's still important to understand the code that our agents write! The point here is that agents can write bits of code that help us humans understand other code. It's still important for humans to understand how things work in general ! (300 points, 160 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-12T16:54:25+00:00"
+        "date": "2026-08-13T18:47:19+00:00"
       },
       {
-        "title": "Amazon gets out of the MMO game",
-        "url": "https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations",
-        "summary": "Soon, Amazon won’t be involved with Throne and Liberty and Lost Ark. Soon, Amazon won’t be involved with Throne and Liberty and Lost Ark. Amazon is fully stepping back from MMOs.",
-        "source": "The Verge",
-        "date": "2026-08-12T16:46:05+00:00"
+        "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+        "url": "https://github.com/systemd/systemd/issues/40262",
+        "summary": "Please reload this page . Please reload this page . Please reload this page . (203 points, 129 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-13T18:41:01+00:00"
       }
     ]
   }
