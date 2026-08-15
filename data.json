@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T08:15:46.795512+00:00",
+  "generated_at": "2026-08-15T07:31:06.403740+00:00",
   "sections": {
     "research": [
       {
@@ -175,174 +175,174 @@
     ],
     "startups": [
       {
-        "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-        "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
-        "summary": "Singer and actress Selena Gomez and her mother are being sued over their mental health startup, Wondermind . The plaintiffs in the lawsuit say they invested nearly $1.2 million in the startup, and are accusing Gomez of securities fraud and breach of contract. They allege that the startup failed to deliver on its commitments without informing investors, and Gomez failed to market the startup after promising to do so.",
+        "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+        "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+        "summary": "PayPal CEO Enrique Lores’ turnaround plan for the fintech company could include a sale — of itself. PayPal declined to comment on the report. Lores joined PayPal in March, after spending years at HP.",
         "source": "TechCrunch",
-        "date": "2026-08-13T22:12:40+00:00"
+        "date": "2026-08-14T22:43:24+00:00"
       },
       {
-        "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
-        "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
-        "summary": "Flock launched the tool in April. According to Flock, the tool has already helped customers spot and stop abuse. Privacy experts and Flock critics are not impressed by Audit Assistance.",
+        "title": "Self-driving trucks are officially testing on California highways",
+        "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+        "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles to test their autonomous vehicle technology on public roads. And Kodiak has already started. Both companies applied for testing permits this spring under updated rules approved by the California DMV, the agency that regulates autonomous vehicles in the state.",
         "source": "TechCrunch",
-        "date": "2026-08-13T22:02:04+00:00"
+        "date": "2026-08-14T20:37:49+00:00"
       },
       {
-        "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
-        "url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
-        "summary": "Apple has sent out a new batch of notifications to customers who it suspects have been targeted with spyware capable of hacking into their devices. Apple told TechCrunch that it sent out the notifications on Thursday to users targeted in 110 countries. When received, a threat notification will read: “Apple detected a mercenary spyware attack targeted at your iPhone.",
+        "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+        "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+        "summary": "Thrive tends to go big on the companies it backs. Thrive has largely stuck to this thesis. Part of the deal involved OpenAI dedicating employees to work with Thrive’s companies.",
         "source": "TechCrunch",
-        "date": "2026-08-13T21:50:11+00:00"
+        "date": "2026-08-14T19:33:00+00:00"
       },
       {
-        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-        "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-        "summary": "But while open source models offer significantly lower per-token costs, it can be difficult to find the right model for a given job. A recent paper from Writer researchers lends credence to this approach, testing small changes in harness efficiency across multiple different models. For Writer’s clients, the experience is still model-agnostic: Palmyra X6 will sit alongside other Writer models or outside models…",
+        "title": "What we know about the alleged Iranian hacks on US water utilities",
+        "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+        "summary": "For years, water utilities and other critical infrastructure facilities in the power sector , for example, have been targeted by hackers, whether government-backed or individuals. 1 suspect is the Iranian government. Earlier this month, cybersecurity firm Forescout reported finding more than 2,800 controllers in U.S. water systems exposed online.",
         "source": "TechCrunch",
-        "date": "2026-08-13T21:13:24+00:00"
+        "date": "2026-08-14T19:04:32+00:00"
       },
       {
-        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-        "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-        "summary": "This scenario recently played out with AI big-data company Databricks and its latest $5 billion raise announced Thursday, co-founder and CEO Ali Ghodsi (pictured above) told TechCrunch. The company had already raised $20 billion over the past 20 months. Plus, Databricks is shopping.",
+        "title": "Read-it-later app Pocket shut down — here are the best alternatives",
+        "url": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+        "summary": "The app lets you listen to articles and transcribes your favorite podcasts . DoubleMemory is free with in-app purchases. The app is currently available on the web and iOS.",
         "source": "TechCrunch",
-        "date": "2026-08-13T20:14:39+00:00"
+        "date": "2026-08-14T18:58:15+00:00"
       },
       {
-        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-        "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-        "summary": "“Ultrafast points to progress in a new direction: more useful work per second.” OpenAI’s competitors, like Anthropic, have similarly launched accelerated versions of their models. Claude has fast mode , although it doesn’t deliver the kind of speed that OpenAI is offering here. Ultrafast, which is currently being released in preview, is being powered by OpenAI’s partnership with chipmaker Cerebras.",
+        "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+        "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+        "summary": "The new iOS and Mac app works with your current Reminders database, but it’s designed for people who find Apple’s system doesn’t work for them. Because the app works with your existing Apple Reminders, you can continue using reminders as you always have — you just turn off the Apple Reminders notifications and replace them with Unforgetful notifications instead. While there are other well-designed, third-party…",
         "source": "TechCrunch",
-        "date": "2026-08-13T19:22:40+00:00"
+        "date": "2026-08-14T16:21:04+00:00"
       },
       {
-        "title": "IBM partners with OpenAI to bolster enterprise AI push",
-        "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-        "summary": "IBM on Thursday announced its partnership with OpenAI to bring the AI company’s models and tools to more enterprise customers, opening another avenue for OpenAI to connect with some of the world’s largest companies through IBM’s global consulting business as competition for corporate AI spending intensifies. OpenAI and IBM will jointly market AI offerings and develop industry-specific solutions for sectors including…",
+        "title": "Google will now allow users to remove visible watermark from its AI generations",
+        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+        "summary": "Google announced on Friday that it will now allow users to remove a visible watermark from its AI generations, including images, videos, and songs. The company specified that this won’t affect the invisible SynthID watermark and C2PA standard-related metadata. He specified that the setting to turn the visible watermark off will be available in Gemini and Google’s video editor, Flow , with support for Search coming…",
         "source": "TechCrunch",
-        "date": "2026-08-13T19:19:49+00:00"
+        "date": "2026-08-14T16:13:40+00:00"
       },
       {
-        "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-        "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-        "summary": "In other cases, agents in coordination tended toward conformity. Agents are just like us. Working together creates a new trust boundary; agents will have to judge information received from other agents.",
+        "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+        "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+        "summary": "You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com .",
         "source": "TechCrunch",
-        "date": "2026-08-13T18:28:14+00:00"
+        "date": "2026-08-14T15:43:28+00:00"
       },
       {
-        "title": "OpenAI hires new CRO as executive shake-up continues",
-        "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-        "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab’s top sales job. 2 executive, CEO of AGI deployment Fidji Simo . OpenAI co-founder and president Greg Brockman has taken a larger role in management following Simo’s departure, and announced Rajic’s arrival today in a blog post .",
+        "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+        "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+        "summary": "District Court of Northern California, Apple proposed new commissions of 15% for standard apps, with further discounts for developers who are enrolled in special Apple programs. Under the proposed structure, small business developers would pay a 5% commission on payments, while those in the Video Partner Program, News Partner Program, and Mini Apps Partner Program would pay 10%. The Supreme Court on Thursday…",
         "source": "TechCrunch",
-        "date": "2026-08-13T17:07:13+00:00"
+        "date": "2026-08-14T14:54:48+00:00"
       },
       {
-        "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
-        "url": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
-        "summary": "The stakes for Ford are high. To catch up, Ford ditched the moving assembly line system that its founder Henry Ford launched and turned to a system developed by its skunkworks team led by former Tesla executive Alan Clarke. This “universal production system,” as Ford calls it, uses a three-branched assembly tree.",
+        "title": "Kog is going deeper to squeeze more inference out of GPUs",
+        "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+        "summary": "But French startup Kog is betting that there’s a lot more power to be squeezed out of conventional GPUs. While observing demand, Kog learned that its prospective customers aren’t prepared to fine-tune small models. But Delalleau said Kog is more akin to Stanford University lab Hazy Research , with an even deeper-level focus on GPU acceleration.",
         "source": "TechCrunch",
-        "date": "2026-08-13T16:37:53+00:00"
+        "date": "2026-08-14T14:50:11+00:00"
       },
       {
-        "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
-        "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
-        "summary": "X is significantly expanding its open source codebase, which includes the app’s “For You” algorithm and its core ranking engine, and adding a feature that will let users see if their account or posts have been impacted by any of its ranking systems, the social network said on Thursday. The company is making the source code for the “For You” timeline, the default feed you see when you open the app, available on…",
+        "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+        "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+        "summary": "In March, Meta said it would build a massive 7.5-gigawatt natural gas power plant in Louisiana to power its Hyperion data center . For the foreseeable future, natural gas prices appear stable — futures contracts aren’t anticipating big changes. That angst could spill over to natural gas bills.",
         "source": "TechCrunch",
-        "date": "2026-08-13T16:00:00+00:00"
+        "date": "2026-08-14T14:05:00+00:00"
       },
       {
-        "title": "Instagram introduces a redesigned wordmark",
-        "url": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
-        "summary": "Instagram on Thursday introduced a new wordmark, which is the text-only logo that spells out the company’s name. The change was announced by Instagram head Adam Mosseri on both Instagram and Threads, where he described the new logo as “sharper and more modern” while still referencing the original and maintaining simplicity. Gain practical expertise.",
+        "title": "US courts will start publishing how often the government uses spyware",
+        "url": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
+        "summary": "Courts, which coordinates operations across the judiciary, has issued annual Wiretap Reports . Wiretaps allow police to gain real-time access to people’s calls, messages, and other communications. Courts told Democratic senator Ron Wyden this week that it will begin tracking the new “spyware/hacking” surveillance category starting in the 2028 Wiretap Report, which will be published the following year.",
         "source": "TechCrunch",
-        "date": "2026-08-13T15:46:02+00:00"
+        "date": "2026-08-14T13:29:04+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-        "url": "https://z.ai/blog/glm-5.3",
-        "summary": "340 points, 124 comments on Hacker News",
+        "title": "Going Dark, and the era of law enforcement hacking",
+        "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+        "summary": "For the next decade, law enforcement and intelligence agencies continued to ask for “exceptional access” backdoors. But for law enforcement and offensive intelligence agencies, it’s going to be a nightmare. The destruction of the low-hanging vulnerability fruit will make law enforcement (and intelligence) agencies’ need much more acute. (307 points, 141 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-14T05:19:59+00:00"
+        "date": "2026-08-14T20:52:44+00:00"
       },
       {
-        "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
-        "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
-        "summary": "Trump isn’t satisfied with the foreign drone ban, so the US will pay more for already-approved aircraft too. Trump isn’t satisfied with the foreign drone ban, so the US will pay more for already-approved aircraft too. For all other drones, including tiny sub-250-gram “Mini” consumer drones, he’s declared a 25 percent tariff.",
+        "title": "Samsung has new Galaxy headphones in the works",
+        "url": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+        "summary": "The first new Samsung headphones in a decade could go up against Apple’s AirPods Max next year.﻿ The first new Samsung headphones in a decade could go up against Apple’s AirPods Max next year.﻿ Strings of code in Samsung’s Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung’s reportedly referring to the headphones as the “Galaxy H1,”…",
         "source": "The Verge",
-        "date": "2026-08-14T01:06:15+00:00"
+        "date": "2026-08-14T19:18:45+00:00"
       },
       {
-        "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
-        "url": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
-        "summary": "Apple says it should be allowed to recoup ‘at least some compensation’ for the platform it provides.﻿ Apple says it should be allowed to recoup ‘at least some compensation’ for the platform it provides.﻿ In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don’t use the company’s in-app…",
-        "source": "The Verge",
-        "date": "2026-08-13T23:13:24+00:00"
-      },
-      {
-        "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
-        "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
-        "summary": "Judge Donato was not having Google’s ‘anticompetitive friction.‘ Judge Donato was not having Google’s ‘anticompetitive friction.‘ One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today — where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. Donato ordered Google to…",
-        "source": "The Verge",
-        "date": "2026-08-13T21:53:04+00:00"
-      },
-      {
-        "title": "The fight over Flock and other ALPRs",
-        "url": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
-        "summary": "Earlier this year, Amazon-owned Ring canceled a partnership with Flock after online backlash. After 404 Media contacted Flock for comment, the dataset disappeared. Amazon’s smart doorbell company Ring is now working with the AI-powered surveillance camera company Flock.",
-        "source": "The Verge",
-        "date": "2026-08-13T21:46:21+00:00"
-      },
-      {
-        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-        "summary": "Mico launched in Copilot’s voice mode less than a year ago. Mico launched in Copilot’s voice mode less than a year ago. “Those learnings are shaping Copilot going forward.” Microsoft is removing Mico from Copilot “in waves.” The change is part of Microsoft’s plans to merge its Copilot and Microsoft 365 Copilot apps .",
-        "source": "The Verge",
-        "date": "2026-08-13T21:42:38+00:00"
-      },
-      {
-        "title": "Netflix is closing two game studios",
-        "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
-        "summary": "Night School Studio and Moonloot Games are being shut down as Netflix focuses more on TV-based party games. Night School Studio and Moonloot Games are being shut down as Netflix focuses more on TV-based party games. In 2024, Netflix closed down a AAA studio that never released a game .",
-        "source": "The Verge",
-        "date": "2026-08-13T20:52:58+00:00"
-      },
-      {
-        "title": "This school-friendly laptop from HP is $300 off",
-        "url": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale",
-        "summary": "We also spotted the Pixel Buds Pro 2 at a discounted price, and save $40 on the DJI Osmo Pocket 3. We also spotted the Pixel Buds Pro 2 at a discounted price, and save $40 on the DJI Osmo Pocket 3. See our ethics statement.",
-        "source": "The Verge",
-        "date": "2026-08-13T20:07:53+00:00"
-      },
-      {
-        "title": "OpenAI is losing its second executive this week",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-        "summary": "﻿Chief revenue officer Denise Dresser announced she is leaving OpenAI. Two days ago, Brad Lightcap also said he’d be leaving. ﻿Chief revenue officer Denise Dresser announced she is leaving OpenAI. Another OpenAI executive is departing.",
-        "source": "The Verge",
-        "date": "2026-08-13T19:28:39+00:00"
-      },
-      {
-        "title": "The Trump admin will start letting private firms launch international cyberattacks",
-        "url": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
-        "summary": "Cybersecurity companies will operate ‘under the control and oversight’ of the federal government. Cybersecurity companies will operate ‘under the control and oversight’ of the federal government. President Donald Trump began making plans to get private cybersecurity companies involved last year, Bloomberg reported .",
-        "source": "The Verge",
-        "date": "2026-08-13T18:56:13+00:00"
-      },
-      {
-        "title": "Understanding is the new bottleneck",
-        "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-        "summary": "Hot take: I think it's still important to understand the code that our agents write! The point here is that agents can write bits of code that help us humans understand other code. It's still important for humans to understand how things work in general ! (300 points, 160 comments on Hacker News)",
+        "title": "Firefox is now the last major browser that still supports uBlock Origin",
+        "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+        "summary": "Our support for uBlock Origin isn't going anywhere. Neither Safari nor DuckDuckGo—the two other major non-Chromium browsers out there—support uBlock Origin. For die-hard uBlock Origin fans, Firefox appears to be the only browser left without compromises. (837 points, 310 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-13T18:47:19+00:00"
+        "date": "2026-08-14T19:03:20+00:00"
       },
       {
-        "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
-        "url": "https://github.com/systemd/systemd/issues/40262",
-        "summary": "Please reload this page . Please reload this page . Please reload this page . (203 points, 129 comments on Hacker News)",
+        "title": "A RAMageddon guide to back-to-school laptop shopping",
+        "url": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
+        "summary": "Still one of the best laptops around Faster processor and twice as much RAM as the Neo Starts with more (and much faster) storage Great battery life and speakers Starting price is higher than M4 generation (though you get more storage for it) The MacBook Neo now exists and costs much less The Neo is the best cheap laptop, but the MacBook Air is still the best laptop for most people, and the standard recommendation…",
+        "source": "The Verge",
+        "date": "2026-08-14T18:32:47+00:00"
+      },
+      {
+        "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
+        "url": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
+        "summary": "This helps explain the storied super car maker’s tagline for the new Revuelto SV: the quantum of driving. Sure, I’ll be this car. “Because emotion is driving the car, it’s being so fast… enjoying the car, going beyond even your limits because the car also helps you to manage the performance,” he said.",
+        "source": "The Verge",
+        "date": "2026-08-14T18:00:00+00:00"
+      },
+      {
+        "title": "The X-Files creator Chris Carter wanted to make a more horrific movie",
+        "url": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu",
+        "summary": "﻿Hulu’s new R-rated cut of The X-Files: I Want to Believe is closer to the director’s original vision. ﻿Hulu’s new R-rated cut of The X-Files: I Want to Believe is closer to the director’s original vision. The version of The X-Files: I Want to Believe that premiered in 2008 was not exactly the movie co-writer / director Chris Carter intended to make. “Ryan is a filmmaker I completely respect,” Carter said.",
+        "source": "The Verge",
+        "date": "2026-08-14T18:00:00+00:00"
+      },
+      {
+        "title": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
+        "url": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
+        "summary": "If you want to use the Camera Looks photo styles, you’ll have to upgrade to one of Google’s new phones. If you want to use the Camera Looks photo styles, you’ll have to upgrade to one of Google’s new phones. But to use Camera Looks, at least initially, you’ll need to have one of Google’s Pixel 11 phones.",
+        "source": "The Verge",
+        "date": "2026-08-14T17:34:14+00:00"
+      },
+      {
+        "title": "Mark Zuckerberg has an Instagzam",
+        "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+        "summary": "On The Vergecast: Instagram’s new logo, Zuck’s AI manifesto, and lots of other bad ideas. On The Vergecast: Instagram’s new logo, Zuck’s AI manifesto, and lots of other bad ideas. Instagram’s wordmark is iconic.",
+        "source": "The Verge",
+        "date": "2026-08-14T16:54:16+00:00"
+      },
+      {
+        "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+        "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+        "summary": "Count Binface, the self-styled intergalactic space warrior, has received nearly 10,000 votes in the Clacton by-election, his best performance yet. Binface received 26.9% of the vote while Farage won 63.3%. Binface bagged just 95 votes to Burnham's 24,927. (439 points, 354 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-13T18:41:01+00:00"
+        "date": "2026-08-14T16:45:49+00:00"
+      },
+      {
+        "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+        "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+        "summary": "Google will still embed invisible SynthID and C2PA watermarks into AI-generated images, videos, and music. Google will still embed invisible SynthID and C2PA watermarks into AI-generated images, videos, and music. Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools.",
+        "source": "The Verge",
+        "date": "2026-08-14T16:39:32+00:00"
+      },
+      {
+        "title": "RustDesk now supports true unattended remote access on Wayland",
+        "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+        "summary": "Wayland support has been one of the harder parts of Linux remote desktop. RustDesk can now provide true unattended access on Wayland , without requiring someone at the remote machine to approve every session. V2 offers better codecs, international keyboard support, clipboard support, file transfer etc. (272 points, 114 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-14T16:12:52+00:00"
+      },
+      {
+        "title": "France's top court blocks social media ban for under-15s",
+        "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+        "summary": "218 points, 157 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-08-14T16:06:49+00:00"
       }
     ]
   }
