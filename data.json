@@ -1,93 +1,107 @@
 {
-  "generated_at": "2026-08-19T07:38:23.419872+00:00",
+  "generated_at": "2026-08-20T07:40:36.567270+00:00",
   "sections": {
     "research": [
       {
-        "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
-        "url": "https://arxiv.org/abs/2608.18076v1",
-        "summary": "Xingjian Wang, Zhao Wang, Taihang Hu et al. — Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A central challenge is…",
+        "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
+        "url": "https://arxiv.org/abs/2608.19197v1",
+        "summary": "Bo Liu, Simon Yu, Yiding Jiang et al. — Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, or frozen-verifier)…",
         "source": "arXiv",
-        "date": "2026-08-18T17:59:01Z"
+        "date": "2026-08-19T17:58:56Z"
       },
       {
-        "title": "Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation",
-        "url": "https://arxiv.org/abs/2608.18072v1",
-        "summary": "Iryna Hartsock, Cesar Lam, Christopher Otteni et al. — Purpose: To develop and evaluate a locally deployed multi-agent AI system for radiology report structuring and quality assurance. Materials and Methods: This retrospective study included 638 radiology reports from CT…",
+        "title": "ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2608.19182v1",
+        "summary": "Jayjun Lee, Jessica Yin, Asif Rana et al. — We introduce Accelerating Dexterity via Pre-Training (ADEPT), a large-scale reinforcement learning (RL) framework for learning sim-to-real transferable dexterity across high degree-of-freedom (DoF) robot embodiments…",
         "source": "arXiv",
-        "date": "2026-08-18T17:57:08Z"
+        "date": "2026-08-19T17:55:06Z"
       },
       {
-        "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
-        "url": "https://arxiv.org/abs/2608.18066v1",
-        "summary": "Qinyuan Ye, Yu Li, Yada Pruksachatkun et al. — Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, the reliability…",
+        "title": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning",
+        "url": "https://arxiv.org/abs/2608.19181v1",
+        "summary": "Zhu Zhang, Jixun Wang, Xiaoang Xu et al. — On-policy distillation (OPD) trains a student on its own responses using dense token-level guidance from a stronger teacher. In long-context tasks, however, token-level teacher support can favor locally plausible…",
         "source": "arXiv",
-        "date": "2026-08-18T17:55:07Z"
+        "date": "2026-08-19T17:54:58Z"
       },
       {
-        "title": "TokEval: A Tokenizer Evaluation Suite",
-        "url": "https://arxiv.org/abs/2608.18062v1",
-        "summary": "Clara Meister — Language model tokenizers are typically selected with minimal evaluation, despite the fact that their design choices directly impact model capabilities. This can be partly attributed to a limited understanding of which…",
+        "title": "Finetuning Strategies for Querying Sounds by Vocal Imitation",
+        "url": "https://arxiv.org/abs/2608.19174v1",
+        "summary": "Aditya Bhattacharjee, Christos Plachouras, Sungkyun Chang et al. — This technical report describes our winning submission to the AES AIMLA 2025 Challenge on querying sound effects by vocal imitation. We investigate two complementary fine-tuning strategies: contrastive learning with a…",
         "source": "arXiv",
-        "date": "2026-08-18T17:52:52Z"
+        "date": "2026-08-19T17:51:50Z"
       },
       {
-        "title": "The concentration game: Bayesian updating, regret, and information",
-        "url": "https://arxiv.org/abs/2608.18061v1",
-        "summary": "Akshay Balsubramani — We give a two-player zero-sum repeated game between a learner and nature whose value identity generates Bayesian updating and an exact accounting of exponential-weights regret at once, and supplies the comparator-class…",
+        "title": "Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention",
+        "url": "https://arxiv.org/abs/2608.19171v1",
+        "summary": "Sotirios P. Chatzis, Loukas Papadoulas — Deep models for irregularly-sampled time series answer queries at arbitrary continuous timestamps, yet report nothing about how far each answer should be trusted. We show the attention layer itself can close that gap:…",
         "source": "arXiv",
-        "date": "2026-08-18T17:52:26Z"
+        "date": "2026-08-19T17:50:16Z"
       },
       {
-        "title": "Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating",
-        "url": "https://arxiv.org/abs/2608.18058v1",
-        "summary": "Daria Leshchikova, Valentina V. Kuskova, Dmitry Zaytsev et al. — Autonomous LLM agents that converse on a user's behalf are an emerging design pattern in matching platforms, yet their viability depends on a condition rarely examined: users must accept not only delegating conversation…",
+        "title": "Learned, Then Lost: A Measured Single-Example Counterfactual in Pre-training",
+        "url": "https://arxiv.org/abs/2608.19168v1",
+        "summary": "Zachary Speck, Asa Shepard — A single training example's contribution to a finished model is normally estimated rather than measured, because measuring it takes two expensive full pre-training runs that differ in one row of one batch.",
         "source": "arXiv",
-        "date": "2026-08-18T17:51:16Z"
+        "date": "2026-08-19T17:46:08Z"
       },
       {
-        "title": "HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance",
-        "url": "https://arxiv.org/abs/2608.18056v1",
-        "summary": "Xiao Wang, Shun Ren Yang, Hui Nien Hung — Urban traffic congestion reduces productivity and increases travel cost and emissions. Network-wide live travel-time shortest-path rerouting can be highly effective in simulation, but assumes that essentially every…",
+        "title": "ChildSafeAds Shared Task 2026: Commercial Content in Child-Facing YouTube Videos",
+        "url": "https://arxiv.org/abs/2608.19165v1",
+        "summary": "Thales Bertaglia, Catalina Goanta, Gerasimos Spanakis et al. — ChildSafeAds is a shared task on commercial content in YouTube videos likely to reach children and teenagers. It contains 3,360 videos from 939 channels.",
         "source": "arXiv",
-        "date": "2026-08-18T17:49:27Z"
+        "date": "2026-08-19T17:44:58Z"
       },
       {
-        "title": "Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction",
-        "url": "https://arxiv.org/abs/2608.18055v1",
-        "summary": "Veronika Spieker, Wenqi Huang, Cemre Ariyurek et al. — Reliable quantitative analysis of dynamic contrast-enhanced MRI requires high-quality spatiotemporal reconstructions at high undersampling rates. Scan-specific reconstructions using Gaussian and Gabor primitives have…",
+        "title": "Interpretable AI predicts a 2026 summer dry anomaly in central China",
+        "url": "https://arxiv.org/abs/2608.19163v1",
+        "summary": "Anran Wang, Wen Shi, Yong Luo et al. — Seasonal precipitation anomalies are largely regulated by atmospheric circulation, which dynamical models predict with greater reliability than precipitation itself. Here, we employ a deep learning model that translates…",
         "source": "arXiv",
-        "date": "2026-08-18T17:48:22Z"
+        "date": "2026-08-19T17:43:49Z"
       },
       {
-        "title": "StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents",
-        "url": "https://arxiv.org/abs/2608.18050v1",
-        "summary": "Yining Hua, Hongbin Na, Yifan Zhou et al. — AI agents increasingly perform knowledge work (i.e., produce and modify persistent digital artifacts such as code repositories, documents, spreadsheets, slides, reports), yet the parsed views they search, the native…",
+        "title": "Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication",
+        "url": "https://arxiv.org/abs/2608.19161v1",
+        "summary": "Ramneet Kaur, Pradyumna Chari, Ramesh Raskar et al. — Language-model agents can communicate through continuous hidden states that are invisible in public transcripts, creating opportunities for covert harmful coordination. We introduce Verifiable Latent Alignments (VLA),…",
         "source": "arXiv",
-        "date": "2026-08-18T17:44:18Z"
+        "date": "2026-08-19T17:43:22Z"
       },
       {
-        "title": "Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation",
-        "url": "https://arxiv.org/abs/2608.18041v1",
-        "summary": "Hollis Robbins — Count how often words occur together and you estimate amplitude, the strength of association. Word embeddings and attention weights refine that count, which sums every writer in the corpus…",
+        "title": "Continuous-Time Reinforcement Learning for Controlled Hawkes Jump-Diffusions",
+        "url": "https://arxiv.org/abs/2608.19151v1",
+        "summary": "Tomasz R. Bielecki, Thibaut Mastrolia, Haoze Yan — We study stochastic control of multivariate Hawkes-driven stochastic differential equations with machine learning algorithms in a non-Markovian setting. Due to the path dependence of the memory of the Hawkes intensity,…",
         "source": "arXiv",
-        "date": "2026-08-18T17:34:25Z"
+        "date": "2026-08-19T17:40:23Z"
       },
       {
-        "title": "Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization",
-        "url": "https://arxiv.org/abs/2608.18040v1",
-        "summary": "Travis Zhang, Christian Belardi, Justin Lovelace et al. — Sampling from a diffusion model typically requires many forward passes through a large neural network, making generation computationally expensive. While much work has focused on efficient solvers and samplers,…",
+        "title": "Pre-Compiled Pipeline Shards for Distributed LLM Inference on Intel AI PC Fleets",
+        "url": "https://arxiv.org/abs/2608.19147v1",
+        "summary": "Tate Berenbaum, Muthaiah Venkatachalam — Modern Intel AI PCs ship capable integrated GPUs and NPUs with 16+ GB of unified memory, and they spend considerable time idle. That is not enough memory to fit a large model such as a 70B-parameter LLM.",
         "source": "arXiv",
-        "date": "2026-08-18T17:33:00Z"
+        "date": "2026-08-19T17:33:28Z"
       },
       {
-        "title": "Harnessing Magnitude-Only and Complex Measurements for Improved Dynamic MRI Reconstruction with Learned Priors",
-        "url": "https://arxiv.org/abs/2608.18036v1",
-        "summary": "Mahdi Saberi, Yaşar Utku Alçalar, Merve Gülle et al. — MRI reconstruction methods for undersampled k-space data naturally utilize complex-valued measurements. Parallel developments in sparse phase retrieval have shown that magnitude-only measurements may provide…",
+        "title": "Geometric Iterative Retrieval for Neural Audio Codec Resynthesis",
+        "url": "https://arxiv.org/abs/2608.19141v1",
+        "summary": "Leo Schmidt-Traub, Frédéric Berdoz, Luca A. Lanzendörfer et al. — Neural audio codecs based on Residual Vector Quantization (RVQ) have become the dominant discrete representation for token-based general audio generation, yet resynthesizing high-quality audio from coarse codec tokens…",
         "source": "arXiv",
-        "date": "2026-08-18T17:31:07Z"
+        "date": "2026-08-19T17:29:56Z"
       }
     ],
     "labs": [
+      {
+        "title": "Offering Zero Data Retention for frontier models",
+        "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+        "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+        "source": "OpenAI",
+        "date": "2026-08-19T19:00:00+00:00"
+      },
+      {
+        "title": "Replit expands access to software creation with GPT-5.6 Luna",
+        "url": "https://openai.com/index/replit",
+        "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+        "source": "OpenAI",
+        "date": "2026-08-19T07:00:00+00:00"
+      },
       {
         "title": "ChatGPT Ads expands across Europe",
         "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
@@ -157,192 +171,178 @@
         "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
         "source": "OpenAI",
         "date": "2026-08-17T05:00:00+00:00"
-      },
-      {
-        "title": "New policy ideas for the Intelligence Age",
-        "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-        "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-        "source": "OpenAI",
-        "date": "2026-08-17T03:15:00+00:00"
-      },
-      {
-        "title": "Introducing Gemini 3.7 Flash",
-        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-        "summary": "3.7 Flash shows strong gains over 3.6 Flash in coding tasks like debugging and issue resolution. Gemini 3.7 Flash delivers a noticeably improved developer experience over 3.6 Flash. For more information, see the 3.7 Flash model card .",
-        "source": "Google DeepMind",
-        "date": "2026-08-13T17:04:18+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-        "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-        "summary": "Interestingly enough, using Origin doesn’t require a user to stop using GitHub. “Your GitHub repos can sit alongside the ones Cursor hosts,” Cursor says in its blog . Indeed, on the same day that Cursor launched its new platform, GitHub suffered a quite lengthy worldwide outage .",
+        "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+        "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+        "summary": "Stripe confirmed on Wednesday that it was buying OpenRouter. Stripe reportedly had to outbid others interested in the fast-growing startup, including Databricks. Stripe’s founders acknowledged that their customer bases overlap.",
         "source": "TechCrunch",
-        "date": "2026-08-18T22:14:25+00:00"
+        "date": "2026-08-19T23:32:00+00:00"
       },
       {
-        "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
-        "url": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
-        "summary": "The firm’s co-founder, Ben Horowitz, serves on the board of Databricks, while partner Martin Casado serves on the board of Fivetran. Databricks and DOJ declined comment. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
+        "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+        "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+        "summary": "Waymo has about 300 Ojai robotaxis in its commercial fleet today, according to a company spokesperson. The Waymo Ojai robotaxi is meant to deliver on that ambition. In July alone, 725 Ojai vehicles entered the country, underscoring the scale and pace of Waymo’s expansion efforts.",
         "source": "TechCrunch",
-        "date": "2026-08-18T20:36:20+00:00"
+        "date": "2026-08-19T22:25:01+00:00"
       },
       {
-        "title": "TikTok explores peer-to-peer payments via DMs, report says",
-        "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
-        "summary": "TikTok is developing a feature that would allow users to send each other money via direct messages, according to a new report from Bloomberg . If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases. By introducing peer-to-peer payments, TikTok would be competing with services like Venmo and Zelle.",
+        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+        "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+        "summary": "Sensing an opportunity to one-up its rival Anthropic, OpenAI just announced a privacy-centric safety approach to monitoring for misuse. This system clearly runs counter to Anthropic’s recently announced data-retention policy. Private Safety Processing can analyze those multiple conversations for signs of abuse without human review of a user’s conversations.",
         "source": "TechCrunch",
-        "date": "2026-08-18T20:03:56+00:00"
+        "date": "2026-08-19T22:10:46+00:00"
       },
       {
-        "title": "OpenAI institutes new safeguards after Hugging Face breach",
-        "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-        "summary": "On Tuesday, OpenAI announced a new batch of security policies focused on containing security incidents while models are being tested. The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process. The company promised further details on the system in a forthcoming blog post.",
+        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+        "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+        "summary": "The report comes a few days after SpaceX’s $60 billion acquisition of Cursor, another AI coding startup, whose deal closed last week. SpaceX acquired Musk’s AI company, xAI, earlier this year. SpaceX and Cognition did not respond to requests for comment.",
         "source": "TechCrunch",
-        "date": "2026-08-18T18:00:00+00:00"
+        "date": "2026-08-19T21:51:23+00:00"
       },
       {
-        "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-        "url": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. Each year, TechCrunch Disrupt brings together more than 10,000 founders, investors, and startup community members, driving innovation forward. No matter your goal, Disrupt can empower you.",
+        "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
+        "url": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
+        "summary": "Travis Kalanick certainly has had a love-hate relationship with VCs over his career. Now, he’s back raising mega funds for his robotics company Atoms, which just nabbed $1.7 billion , led by Andreessen Horowitz, with Ben Horowitz joining the company’s board. Still, Kalanick isn’t telling founders to avoid VC money.",
         "source": "TechCrunch",
-        "date": "2026-08-18T17:31:01+00:00"
+        "date": "2026-08-19T21:48:24+00:00"
       },
       {
-        "title": "Etched’s valuation doubles to $21B in a month",
-        "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-        "summary": "Etched was valued at $5 billion in December. The result, Etched promises, is higher speeds and lower costs. Etched’s systems can run any frontier model.",
+        "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+        "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+        "summary": "AI accounting startup Rillet announced a $100 million Series C at a $1 billion valuation on Tuesday, led by Iconiq . “That vision is now reality.” Rillet raised a $70 million Series B last year in a round led by Iconiq and Andreessen Horowitz. Shortly before that round, it announced a $25 million Series A led by Sequoia.",
         "source": "TechCrunch",
-        "date": "2026-08-18T17:21:58+00:00"
+        "date": "2026-08-19T20:12:33+00:00"
       },
       {
-        "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-        "url": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
-        "summary": "Apple also adjusted its rates for alternative payments and for its own in-app purchases, and made it easier for developers to open alternative app stores. Now Apple is presenting its latest revision, highlighted by a flat commission of 5% on transactions in apps distributed outside the App Store, either through alternative app marketplaces or the web. Meanwhile, the new terms set Apple’s in-app purchase fees at 26%,…",
+        "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
+        "url": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
+        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. Earlier this year, OpenAI hired Charles Porch, whom Vanity Fair called the “celebrity whisperer .” Scale faster. Gain practical expertise.",
         "source": "TechCrunch",
-        "date": "2026-08-18T17:12:13+00:00"
+        "date": "2026-08-19T20:04:12+00:00"
       },
       {
-        "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
-        "url": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. The free feature, called Wi-Fi Motion , turns newer Xfinity gateways into motion sensors by detecting interruptions to the Wi-Fi signal of the wireless network and sends a notification through the Xfinity app. As first reported by The Verge , the new Wi-Fi Motion feature works for advanced Xfinity gateways XB7…",
+        "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
+        "url": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
+        "summary": "We need a complete cultural reset, because there are actually sports betting providers that let people gamble on Little League World Series (LLWS) outcomes. State-regulated sportsbooks and federally regulated prediction markets like Kalshi and Polymarket do not allow bettors to gamble on the LLWS (though Polymarket did offer LLWS bets in 2024). Gain practical expertise.",
         "source": "TechCrunch",
-        "date": "2026-08-18T16:39:05+00:00"
+        "date": "2026-08-19T20:01:02+00:00"
       },
       {
-        "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-        "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-        "summary": "But Apple’s now-leaked camera-equipped AirPods may not be as creepy as they first sound. Apple appears to have thought this through, based on prior reporting. He questioned the light’s visibility, given the AirPods’ small size, but either way, its inclusion could work against Apple.",
+        "title": "AI was supposed to win people over by now — it hasn’t",
+        "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. Yet there are still those surprised by consumers’ reaction. Some in Silicon Valley may think this stems from a messaging problem: that perhaps execs need to explain AI better to consumers, so people can fully understand its benefits.",
         "source": "TechCrunch",
-        "date": "2026-08-18T16:19:10+00:00"
+        "date": "2026-08-19T19:11:40+00:00"
       },
       {
-        "title": "Bluesky says its recent outage was caused by another DDoS attack",
-        "url": "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. Social networking site Bluesky says its recent day-long disruption was caused by a distributed denial-of-service (DDoS) attack that flooded the site with junk traffic. This is the latest large-scale DDoS attack to affect the social networking site in recent months.",
+        "title": "Google packs Search and Gemini with new AI study tools",
+        "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+        "summary": "Google on Wednesday announced a slew of new study tools across Search and Gemini, including AI-generated interactive visuals, 3D simulations, a dedicated student hub, customized practice quizzes, and more. On Search, students can now generate custom tools and simulations to help them understand complex topics. Additionally, students can now ask Search to create study documents based on their uploaded files,…",
         "source": "TechCrunch",
-        "date": "2026-08-18T15:59:48+00:00"
+        "date": "2026-08-19T19:00:00+00:00"
       },
       {
-        "title": "Peacock is raising prices across all of its streaming plans",
-        "url": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
-        "summary": "Peacock is the latest streaming service to raise prices, with its cheapest ad-supported “Select” plan increasing from $7.99 to $8.99 per month. The ad-supported “Premium” tier now costs $12.99 per month, up from $10.99, while the ad-free “Premium Plus” plan is increasing from $16.99 to $19.99 per month. Last month, NBCUniversal announced a partnership to bring Peacock’s Premium plan to YouTube Premium subscribers in…",
+        "title": "Researchers say OpenAI revoked their access to limited cyber program",
+        "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+        "summary": "Several security researchers say OpenAI suddenly revoked their access to a limited-access program that removes some restrictions on using its AI tools for cybersecurity research. On Wednesday, multiple researchers on OpenAI’s official support forums and on X reported having their access to the Trusted Access for Cyber (TAC) program revoked. To get access to TAC, cybersecurity researchers have to submit an ID and be…",
         "source": "TechCrunch",
-        "date": "2026-08-18T15:26:31+00:00"
+        "date": "2026-08-19T18:46:14+00:00"
       },
       {
-        "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
-        "url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
-        "summary": "Anthro’s factory could give solid-state batteries a much needed boost in the U.S. Chinese companies are reportedly looking to start trial production of solid-state batteries in 2027. Solid-state batteries promise to solve a range of challenges presented by the lithium-ion batteries commonly used today.",
+        "title": "Meet the startup helping Wall Street put a price on AI compute",
+        "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+        "summary": "You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com .",
         "source": "TechCrunch",
-        "date": "2026-08-18T14:00:00+00:00"
+        "date": "2026-08-19T17:26:48+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "OpenLogi",
-        "url": "https://openlogi.org/en",
-        "summary": "OpenLogi drives your mouse over HID++ directly: buttons, DPI, SmartShift and per-app profiles, from a native app that never phones home. Layer per-application overlays that auto-switch the moment your focused app changes. Signed builds for macOS, Linux and Windows — pick your platform below. (422 points, 102 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-19T01:58:28+00:00"
-      },
-      {
-        "title": "Sticky wage norms and the real wage cost of unexpected inflation",
-        "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
-        "summary": "352 points, 205 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-08-19T00:53:51+00:00"
-      },
-      {
-        "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
-        "url": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
-        "summary": "At just 260 grams, the Nova 3P are light enough for hours of gaming without strain, and almost half off at Woot. At just 260 grams, the Nova 3P are light enough for hours of gaming without strain, and almost half off at Woot. See our ethics statement.",
+        "title": "Does giving a camera wings dodge the FCC’s drone ban?",
+        "url": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+        "summary": "The HoverAir Versa found a loophole in the FCC’s drone ban. The HoverAir Versa found a loophole in the FCC’s drone ban. HoverAir drones always have intriguing gimmicks.",
         "source": "The Verge",
-        "date": "2026-08-18T20:01:01+00:00"
+        "date": "2026-08-19T22:35:20+00:00"
       },
       {
-        "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-        "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-        "summary": "Zelda, Zak, and Cody Williams say their father’s Instagram account will be a ‘trusted place’ to share photos, videos, and memories. Zelda, Zak, and Cody Williams say their father’s Instagram account will be a ‘trusted place’ to share photos, videos, and memories. Robin Williams’ Instagram account remained inactive following his death in 2014.",
+        "title": "Nielsen is leaning more on wearables to hear what people are watching",
+        "url": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+        "summary": "The streaming era has made it harder to capture reliable viewership data. The streaming era has made it harder to capture reliable viewership data. Nielsen is also updating the machine learning tool it uses to process information from data providers to assess the demographic makeup of individual households, which means.",
         "source": "The Verge",
-        "date": "2026-08-18T19:48:26+00:00"
+        "date": "2026-08-19T19:53:09+00:00"
       },
       {
-        "title": "Beware Management Consultants",
-        "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-        "summary": "The Red team was crushed in their defeat, but they were determined to win the race next year. After several weeks of detailed intelligence gathering, the auditors could find only one difference; the Green team had 7 rowers and 1 captain… … and the Red team had 7 captains and 1 rower! The next year, the Green team won by 2 miles… The Red team upper management immediately fired the rower based on his unsatisfactory… (524 points, 135 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-18T19:29:51+00:00"
-      },
-      {
-        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-        "summary": "OpenAI is updating its research environments, monitoring, and alignment techniques to avoid another security fiasco. OpenAI is updating its research environments, monitoring, and alignment techniques to avoid another security fiasco. OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face , including improvements to its…",
+        "title": "Google Gemini is getting a dedicated student hub",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+        "summary": "It’s also rolling out the ability to check your work and get help with complicated topics using Google Lens. Google is also adding Deep Research to Gemini Live. Eligible students in the US can score one year of Google AI Pro for free, which includes 5TB of storage, Google Health Premium , higher usage limits on Gemini, and access to Gemini across Google apps.",
         "source": "The Verge",
-        "date": "2026-08-18T19:28:30+00:00"
+        "date": "2026-08-19T19:00:00+00:00"
       },
       {
-        "title": "How does IKEA come up with names for its products?",
-        "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-        "summary": "IKEA Home Smart is a collective name for our range of smart lighting, Wi-Fi speakers, electric blinds and a range of other products. All living flowers and plants are named after their Latin name at IKEA. The smart lighting products from IKEA are based on Zigbee light link and Matter, two established standards for wireless control of lighting in the home. (322 points, 192 comments on Hacker News)",
+        "title": "Go 1.27",
+        "url": "https://go.dev/blog/go1.27",
+        "summary": "Generic functions can now be used without explicit type arguments in composite literals, type conversions, and channel sends: Please read the Go 1.27 release notes for the complete list of changes and details. Check back later to read those posts. Thanks to everyone who contributed to this release by writing code, filing bugs, trying out experimental additions, and testing release candidates. (600 points, 159 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-18T18:11:53+00:00"
+        "date": "2026-08-19T18:33:49+00:00"
       },
       {
-        "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
-        "url": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
-        "summary": "We also found discounts on the gimbal-mounted DJI Pocket, Philips Hue smart plugs, and a SteelSeries gaming headset. We also found discounts on the gimbal-mounted DJI Pocket, Philips Hue smart plugs, and a SteelSeries gaming headset. The Galaxy Buds 3 Pro are Samsung’s best-sounding wireless earbuds yet.",
+        "title": "Watch Valve set up the Steam Frame in its own leaked videos",
+        "url": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
+        "summary": "Leaked demonstrations show how to use the Steam Frame with its wireless dongle and accessories. Leaked demonstrations show how to use the Steam Frame with its wireless dongle and accessories. Valve just leaked several new videos showing the Steam Frame’s unboxing, setup process, and various accessories.",
         "source": "The Verge",
-        "date": "2026-08-18T17:47:04+00:00"
+        "date": "2026-08-19T18:16:27+00:00"
       },
       {
-        "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
-        "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-        "summary": "296 points, 452 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-08-18T17:24:53+00:00"
-      },
-      {
-        "title": "PlayStation&#8217;s wireless gaming speakers launch in November",
-        "url": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
-        "summary": "Sony’s Pulse Elevate speakers, which have ‘studio-inspired planar magnetic drivers,’ will be available soon for $219.99. Sony’s Pulse Elevate speakers, which have ‘studio-inspired planar magnetic drivers,’ will be available soon for $219.99. Sony’s Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday .",
+        "title": "The wearable future is stuck in weird, experimental, existential limbo",
+        "url": "https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai",
+        "summary": "Since that chat, I’ve already seen several signs supporting Google’s multi-wearable ecosystem thesis. Google certainly has a hypothesis of what wearable tech ought to be. Even so, Google is committed to experimenting.",
         "source": "The Verge",
-        "date": "2026-08-18T17:18:57+00:00"
+        "date": "2026-08-19T18:00:00+00:00"
       },
       {
-        "title": "And then the men with guns tell you to do it anyway",
-        "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-        "summary": "Why did Vodafone send these messages? In August 2026, the UK government instructed network operators to send this message: Did the networks have to send that message? Could the networks have refused to send the message about wildfires - or indeed any other message? (287 points, 185 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-18T17:11:28+00:00"
+        "title": "Grab an iPad Air M4 for its lowest price since the June increase",
+        "url": "https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale",
+        "summary": "We also found deals on Garmin’s satellite-connected InReach, an Anker charger, and Marshall’s Stanmore III speaker. We also found deals on Garmin’s satellite-connected InReach, an Anker charger, and Marshall’s Stanmore III speaker. See our ethics statement.",
+        "source": "The Verge",
+        "date": "2026-08-19T17:56:15+00:00"
       },
       {
-        "title": "Claude Code May–August 2026 weekly limits promotion",
-        "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-        "summary": "We're offering a limited-time promotion that increases weekly usage limits in Claude Code by 50%. This promotion increases weekly usage limits only. Legacy seat-based users on Enterprise plans are included. (269 points, 246 comments on Hacker News)",
+        "title": "Google has stopped pushing Git tags for some Android source code",
+        "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+        "summary": "480 points, 198 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-08-18T17:02:15+00:00"
+        "date": "2026-08-19T17:47:29+00:00"
+      },
+      {
+        "title": "OpenRouter is joining Stripe",
+        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+        "summary": "OpenRouter is the first and largest model marketplace and gateway. Stripe is that company. OpenRouter’s product, mission, and current commitments remain unchanged. (807 points, 413 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-19T17:32:38+00:00"
+      },
+      {
+        "title": "OpenAI hit the brakes. Now what?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+        "summary": "﻿AI safety still depends largely on the industry policing itself. ﻿AI safety still depends largely on the industry policing itself. There are good reasons to take OpenAI’s slowdown seriously. It’s possible OpenAI’s slowdown will set a precedent for the industry.",
+        "source": "The Verge",
+        "date": "2026-08-19T17:10:09+00:00"
+      },
+      {
+        "title": "GTA VI keeps leaking ahead of its gameplay premiere",
+        "url": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
+        "summary": "Some of the clips seemingly showing Grand Theft Auto VI footage have been pulled. Some of the clips seemingly showing Grand Theft Auto VI footage have been pulled. In 2022, 90 videos leaked online long before the game’s official reveal more than a year later (a reveal that also leaked, leading Rockstar to publish the game’s first trailer a day early).",
+        "source": "The Verge",
+        "date": "2026-08-19T17:03:11+00:00"
+      },
+      {
+        "title": "Meta AI is getting a Mac app",
+        "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+        "summary": "You can share your window with the new Meta AI app, as well as connect it to Google Workspace. You can share your window with the new Meta AI app, as well as connect it to Google Workspace. Meta is launching a new Mac app dedicated to its AI chatbot.",
+        "source": "The Verge",
+        "date": "2026-08-19T17:00:00+00:00"
       }
     ]
   }
