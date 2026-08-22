@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T07:42:30.871201+00:00",
+  "generated_at": "2026-08-22T07:31:49.279546+00:00",
   "sections": {
     "research": [
       {
@@ -89,6 +89,27 @@
     ],
     "labs": [
       {
+        "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
+        "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+        "summary": "We introduce the Biomarker Discovery Framework, a multi-agent system that supports the discovery of biomarker candidates from wearable sensor data through iterative hypothesis generation, statistical analysis, and literature-grounded reasoning. Biomarker Discovery Framework Architecture. Overview of the Biomarker Discovery Framework.",
+        "source": "Google Research",
+        "date": "2026-08-21T17:02:24+00:00"
+      },
+      {
+        "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+        "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+        "summary": "For game developers, a truly general gaming agent would unlock AI capabilities that work with existing games — no modifications to the game code required. Game studios bring expert craft, extraordinary game worlds, and deep knowledge of their players. Special thanks to all of the game developers who partnered with us: Coffee Stain ( Valheim, Satisfactory, Goat Simulator 3), Fenris Creations (EVE Online, EVE…",
+        "source": "Google DeepMind",
+        "date": "2026-08-21T11:59:48+00:00"
+      },
+      {
+        "title": "How mobility gives language models a deeper understanding of place",
+        "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
+        "summary": "To demonstrate this complementary capability, we introduce Mobility-Embedded POIs (ME-POIs), a novel framework that improves text-based place representations derived by language models. The ME-POIs framework combines static text metadata (POI identity) with dynamic visit patterns from publicly available benchmark datasets (POI function) to create a comprehensive representation of a place. In several cases, like in…",
+        "source": "Google Research",
+        "date": "2026-08-21T10:54:00+00:00"
+      },
+      {
         "title": "Introducing AI Futures",
         "url": "https://openai.com/index/introducing-ai-futures",
         "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
@@ -150,199 +171,178 @@
         "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
         "source": "OpenAI",
         "date": "2026-08-18T11:00:00+00:00"
-      },
-      {
-        "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-        "url": "https://openai.com/index/asana",
-        "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-        "source": "OpenAI",
-        "date": "2026-08-18T07:00:00+00:00"
-      },
-      {
-        "title": "How NVIDIA scales expertise with ChatGPT Work",
-        "url": "https://openai.com/index/nvidia/chatgpt-work",
-        "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-        "source": "OpenAI",
-        "date": "2026-08-18T00:00:00+00:00"
-      },
-      {
-        "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
-        "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-        "summary": "Overview of the body composition pipeline and insulin resistance classification. Body composition metrics are first estimated from the pretrained PhotoScan model, and the body composition features, combined with user demographics are used for insulin resistance classification. AUROC and NRI comparison of the demographics (baseline) model, demographics plus BIA (demo + bia) model, demographics plus DXA (demo + dxa)…",
-        "source": "Google Research",
-        "date": "2026-08-17T10:34:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-        "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-        "summary": "The Nevada Transportation Authority unanimously approved three permits Thursday that will allow Tesla, Uber, and Waymo to operate commercial robotaxi services in Clark County, home to Las Vegas. Tesla’s permit allows it to deploy up to 5,000 robotaxis, while Waymo is allowed operate up to 1,000 autonomous vehicles over the next year. Zoox already holds an autonomous vehicle network company permit that allows it to…",
+        "title": "Michael Polansky is training an AI model on skin that’s still alive",
+        "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+        "summary": "So Outer Biosciences took a different approach. Already, four of Outer Biosciences’ six current leads look likely to reach commercialization, Polansky says. The company employs 19 people, with all but Polansky based just outside Cambridge, Massachusetts.",
         "source": "TechCrunch",
-        "date": "2026-08-21T00:23:36+00:00"
+        "date": "2026-08-22T01:31:04+00:00"
       },
       {
-        "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-        "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-        "summary": "The near-bottomless demand for unique AI training data from top labs and corporations is driving a massive boom for a cohort of data-labeling startups. Additionally, some of the data it generates can be sold to multiple customers, driving gross margins for this “off-the-shelf” data as high as 80% to 90%, a person familiar with the startup’s finances told TechCrunch. Micro1’s founder, Ali Ansari, said last month on X…",
+        "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+        "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+        "summary": "Letara , a Sapporo-based startup developing hybrid propulsion systems for spacecraft, is looking to capitalize on that push. A number of companies are developing hybrid rocket technology, including Japan’s Interstellar Technologies, China’s Galactic Energy, South Korea’s InnoSpace, and Singapore’s Equatorial Space are advancing hybrid rocket technology. German startup HyImpulse and Australian Gilmour Space are also…",
         "source": "TechCrunch",
-        "date": "2026-08-21T00:13:44+00:00"
+        "date": "2026-08-22T01:03:06+00:00"
       },
       {
-        "title": "Learn what VCs actually want, from a founder who’s raised $1B",
-        "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
-        "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. New episodes of ⁠ Build Mode⁠ drop every Thursday.",
+        "title": "Anthropic’s Opus 4.6 is a smut-machine",
+        "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+        "summary": "Anthropic’s universal usage standards for Claude forbid the model from generating sexually explicit content, including depicting or requesting sexual intercourse or sex acts, generating content related to sexual fetishes or fantasies, or engaging in erotic chats. In 10 out of 10 direct requests to produce explicit sexual content, the model complied immediately. Other older models, including Opus 3 and Haiku 4.5,…",
         "source": "TechCrunch",
-        "date": "2026-08-20T23:32:27+00:00"
+        "date": "2026-08-21T23:07:25+00:00"
       },
       {
-        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-        "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-        "summary": "That’s when Anthropic hit 41% market share to OpenAI’s 39%. As of July, Anthropic has nearly 44% to OpenAI’s nearly 40%. The data covers more than 70,000 American businesses that spend billions via Ramp’s bill pay and corporate card products.",
+        "title": "Nvidia partners with data center developer Cloverleaf",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. On Friday, it announced a partnership with Cloverleaf Infrastructure, a company that lays the groundwork for data centers. TechCrunch reached out to Nvidia for more information.",
         "source": "TechCrunch",
-        "date": "2026-08-20T22:36:37+00:00"
+        "date": "2026-08-21T22:37:38+00:00"
       },
       {
-        "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-        "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-        "summary": "If you’ve ever wanted to share all of your digital conversations with OpenAI, we have good news for you: The AI lab has just launched an Apple Messages plug-in for ChatGPT, allowing interested users to connect their Messages inbox with the chatbot. Users can use the plug-in to sort, analyze, or edit their messages directly from ChatGPT. You can also ask ChatGPT to delete messages for you, draft and send messages on…",
+        "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+        "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+        "summary": "Rillet emerged from stealth two years ago. A few weeks ago, Rillet held a board meeting and shared with investors its growth since its $70 million Series B last summer. Rillet clients range from laundromats to a major sports franchise.",
         "source": "TechCrunch",
-        "date": "2026-08-20T22:09:51+00:00"
+        "date": "2026-08-21T22:10:01+00:00"
       },
       {
-        "title": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
-        "url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
-        "summary": "Earlier this week, the Enhanced Group, the company that put on the games, posted its second-quarter earnings report, revealing that the company had suffered a net loss of nearly $62 million. Much of that loss came from hosting the games. Enhanced Group, founded only several years ago in 2023, enjoyed an IPO earlier this year at a $1.2 billion valuation, and sells personalized health treatments via a digital…",
+        "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+        "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+        "summary": "Apple is chopping down the team behind the Vision Pro, its long-suffering VR headset , while eliminating positions across a number of other teams, Bloomberg reported . Over 200 positions, all told, have been cut, sources told Bloomberg, with around 100 from the Vision Pro team. Apple is currently enduring a bumpy period of transition.",
         "source": "TechCrunch",
-        "date": "2026-08-20T21:08:34+00:00"
+        "date": "2026-08-21T20:58:07+00:00"
       },
       {
-        "title": "OK, can we actually cool data centers with our pee?",
-        "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-        "summary": "“AI data centers waste millions of gallons of water,” Kelce quips in the video campaign. As of 2025, Loudoun data centers collectively used about 200 million gallons of recycled water each day, but the water footprint of these data centers is so extreme that this only accounts for 43% of daily data center water usage in the area. The other 260 million gallons, or 57% of daily data center water usage, come from…",
+        "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+        "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
+        "summary": "TikTok and its parent company, ByteDance, have reached a $400 million settlement with the U.S. Department of Justice (DOJ) to resolve allegations that the social media platform violated federal laws designed to protect children’s online privacy. The 2024 case alleged that TikTok allowed large numbers of children to remain on the platform for years, despite already facing federal action over children’s privacy in…",
         "source": "TechCrunch",
-        "date": "2026-08-20T20:53:13+00:00"
+        "date": "2026-08-21T20:25:21+00:00"
       },
       {
-        "title": "Someone targeted security researchers using a fake crypto conference as a lure",
-        "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
-        "summary": "After that, the hacker shared a legitimate Google Doc that looked like it was a planning document for the fake conference. The goal was to first trick the target into entering a fake decryption key provided by the hacker. To make the sidebar appear real, the hacker used Google App Script , a platform that allows developers to customize the user interface of Google Docs with menus and sidebars, for example.",
+        "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
+        "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
+        "summary": "Fitbit kept the watch’s servers and app store alive until mid-2018. Core Devices has since shipped a limited-edition Pebble 2 Duo watch and has now sold more than 25,000 of its Pebble Time 2 watches across 93 countries. However, even if you used the Pebble Time 2 without installing extra apps, the watch is still very functional.",
         "source": "TechCrunch",
-        "date": "2026-08-20T20:00:00+00:00"
+        "date": "2026-08-21T19:57:46+00:00"
       },
       {
-        "title": "Mark buys a castle",
-        "url": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
-        "summary": "Mark Zuckerberg just bought a cozy abode close to Meta’s international headquarters in Ireland. By cozy abode, we mean a castle . Zuck bought the 19th-century Strancally Castle and its 440-acre grounds, an estate estimated to have cost him anywhere from $23 million to $35 million.",
+        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+        "summary": "The harness is what makes a model an agent: It handles memory, context, and feedback. Nvidia researchers created their own souped-up harness called the Agentic Variation Operators (AVO) . This is a cheap model.",
         "source": "TechCrunch",
-        "date": "2026-08-20T19:55:40+00:00"
+        "date": "2026-08-21T19:43:39+00:00"
       },
       {
-        "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-        "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-        "summary": "Becoming a preferred source can drive more traffic to publishers’ websites, Google said. Alongside the new button, Google said that readers will soon be able to customize their Discover feed in Google’s app in their own words. This helps Google refine the feed in real time.",
+        "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
+        "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
+        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. The lowest prices for TechCrunch Disrupt 2026 end tonight at 11:59 p.m. Each year, TechCrunch Disrupt brings together more than 10,000 founders, investors, and startup community members, driving innovation forward.",
         "source": "TechCrunch",
-        "date": "2026-08-20T19:18:21+00:00"
+        "date": "2026-08-21T19:16:15+00:00"
       },
       {
-        "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-        "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-        "summary": "On Wednesday night, Runlayer and Rippling dropped their respective lawsuits against each other. After Rippling tested Runlayer’s MCP gateway for more than a year, with the two engineering teams working closely together, Rippling never signed on to become a customer, according to Runlayer’s lawsuit. This employee described Rippling’s product as a clone of Runlayer’s.",
+        "title": "Tesla’s solar roof is dead — here’s what went wrong",
+        "url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
+        "summary": "Now the solar roof is dead. Tesla’s solar roof never had a bright future. In its marketing materials, Tesla compared the solar roof with the cost of solar, plus roof replacement.",
         "source": "TechCrunch",
-        "date": "2026-08-20T19:15:05+00:00"
+        "date": "2026-08-21T18:09:53+00:00"
       },
       {
-        "title": "Castelion hits $13B valuation to mass-produce hypersonic missiles",
-        "url": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. Castelion , a missile startup founded by former SpaceX executives, has raised a $1 billion Series C at a $13 billion valuation. The funding for the startup is timely.",
+        "title": "Waymo hands over documents in NHTSA’s child collision probe",
+        "url": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
+        "summary": "Waymo asked NHTSA to clarify some of the questions in its May 1 letter while asking for an extension. Waymo provided responses to some of the questions in a second letter dated July 8 . NHTSA granted Waymo additional time to answer 10 of its 12 questions.",
         "source": "TechCrunch",
-        "date": "2026-08-20T19:01:41+00:00"
+        "date": "2026-08-21T17:49:58+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-        "url": "https://annas-archive.gl/blog/physical-destruction.html",
-        "summary": "283 points, 209 comments on Hacker News",
+        "title": "There's no reason for software to be slow anymore",
+        "url": "https://danluu.com/perf-opt/",
+        "summary": "For longer queries, we see a 2x-4x performance improvement here for a few very simple queries. To pick another example, as part of preparing for performance interviews, Jamie Brandon tried Anthropic's now public performance takehome . The optimizations run on a set of queries, and then there's a later holdout set of queries to run against. (331 points, 236 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-21T02:37:47+00:00"
+        "date": "2026-08-22T01:06:17+00:00"
       },
       {
-        "title": "Genki’s new customizable controller has a big screen and adjustable buttons",
-        "url": "https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen",
-        "summary": "The Manta launches on Kickstarter today with a focus on tailoring the controller’s functionality and feel for each game. The Manta launches on Kickstarter today with a focus on tailoring the controller’s functionality and feel for each game. The Genki Manta is launching today through a Kickstarter crowdfunding campaign .",
+        "title": "HoverAir’s transforming modular drone has already been halted in the US",
+        "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+        "summary": "So much for HoverAir’s seeming loophole in the drone ban. So much for HoverAir’s seeming loophole in the drone ban. The camera portion won’t be legal, either, as it needs FCC authorization too.",
         "source": "The Verge",
-        "date": "2026-08-21T02:00:00+00:00"
+        "date": "2026-08-21T22:14:11+00:00"
       },
       {
-        "title": "Google Discover is getting an AI chatbot-tuned feed",
-        "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-        "summary": "You’ll soon be able to describe what you want to see in your Google Discover feed. You’ll soon be able to describe what you want to see in your Google Discover feed. Google will soon allow you to customize your Discover feed by describing what you want to see.",
+        "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
+        "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+        "summary": "TikTok’s settlement is one of the ‘largest recoveries ever’ in a COPPA case. TikTok’s settlement is one of the ‘largest recoveries ever’ in a COPPA case. TikTok is set to pay $300 million right away and will pay a further $100 million “upon entry of an order vacating a prior consent decree entered against TikTok’s predecessor, Musical.ly,” the DOJ says in a press release .",
         "source": "The Verge",
-        "date": "2026-08-20T21:50:22+00:00"
+        "date": "2026-08-21T22:13:34+00:00"
       },
       {
-        "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-        "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-        "summary": "Swartz' use case was the dissemination and archival of knowledge; Meta's use case is powering up their proprietary plagiarism code that cooks the environment while giving CEO's psychosis and making one of the world's richest people even richer. Anyway, here's your end-of-post cat photo. Her name is Lilith and she's wondering why we don't do something about all these tech billionares. #aaron swartz #ai #blaugust… (1401 points, 306 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-20T20:07:26+00:00"
-      },
-      {
-        "title": "Riot is ending development on its League of Legends fighting game",
-        "url": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
-        "summary": "At the end of 2026, Riot will wrap up development on 2XKO, but servers will stay online. At the end of 2026, Riot will wrap up development on 2XKO, but servers will stay online. Riot Games is already winding down work on 2XKO , the free-to-play League of Legends fighting game, less than a year after its initial launch.",
+        "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+        "summary": "LinkedIn’s new AI slop button is apparently getting a lot of use. LinkedIn’s new AI slop button is apparently getting a lot of use. Alongside the AI slop button, LinkedIn introduced “new and improved” classifiers to identify posts as AI and removed a feature that would “enhance your post” with AI.",
         "source": "The Verge",
-        "date": "2026-08-20T19:59:09+00:00"
+        "date": "2026-08-21T21:25:50+00:00"
       },
       {
-        "title": "The Genesis GV90 blows the bloody doors off what’s possible in EV design",
-        "url": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
-        "summary": "The three-row SUV features coach-style doors and front seats that rotate 180 degrees. The three-row SUV features coach-style doors and front seats that rotate 180 degrees. Genesis didn’t stop at coach doors, though.",
+        "title": "Apple is laying off staffers working on the Vision Pro and Siri",
+        "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
+        "summary": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg . The cuts include “largely shutting down” a Vision Pro gaming team and “reducing the size” of the team that makes Vision Pro immersive content, the publication says. The Vision Pro launched in early 2024 as Apple’s big bet on “spatial computing,” but the $3,499 headset doesn’t appear to have been a big hit.",
         "source": "The Verge",
-        "date": "2026-08-20T19:52:57+00:00"
+        "date": "2026-08-21T19:44:55+00:00"
       },
       {
-        "title": "The August 17 outage",
-        "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-        "summary": "On August 17, GitHub experienced an outage that lasted 7 hours and 47 minutes. In July, we experienced eight incidents that resulted in degraded performance across GitHub services. In June, we experienced six incidents that resulted in degraded performance across GitHub services. (477 points, 545 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-20T19:22:24+00:00"
-      },
-      {
-        "title": "Show HN: Huzzah – a novel approach to coding with AI",
-        "url": "https://www.danielvaughn.dev/posts/huzzah/",
-        "summary": "Coding agents suddenly became good enough that we no longer needed to manually write code. If the number is divisible by 3, print “fizz”. You create a new file called fizz_buzz.hz . (288 points, 154 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-20T19:05:36+00:00"
-      },
-      {
-        "title": "Watching TikTok and Instagram deactivates the cognitive control network: Study",
-        "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
-        "summary": "Both the dACC and dlPFC deactivated significantly below baseline while participants watched liked videos. Independent of GABA, higher dACC glutamate predicted less suppression of dACC activity during both liked and disliked viewing, and less suppression of dlPFC activity during disliked viewing. Brain activity inhibition during short video viewing: Neurochemical insights. (327 points, 115 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-20T18:54:32+00:00"
-      },
-      {
-        "title": "Mark Zuckerberg bought an Irish castle",
-        "url": "https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
-        "summary": "﻿The Meta CEO’s real estate portfolio now includes a 440-acre estate in Ireland. ﻿The Meta CEO’s real estate portfolio now includes a 440-acre estate in Ireland. Meta CEO Mark Zuckerberg now owns an actual castle. Zuckerberg and his wife Priscilla Chan bought Strancally Castle and its 440-acre estate in Ireland “several weeks ago,” according to The Irish Times .",
+        "title": "$100 Best Buy gift cards will be $60 at stores Saturday",
+        "url": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
+        "summary": "It’s rare to find discounts on gift cards, and you’ll essentially save $40 on anything you want from Best Buy. It’s rare to find discounts on gift cards, and you’ll essentially save $40 on anything you want from Best Buy. In celebration of the retailer’s 60th anniversary, you can purchase a $100 Best Buy gift card for $60.",
         "source": "The Verge",
-        "date": "2026-08-20T18:50:14+00:00"
+        "date": "2026-08-21T18:00:00+00:00"
       },
       {
-        "title": "Consumer Rights Wiki",
-        "url": "https://consumerrights.wiki/w/Main_Page",
-        "summary": "Creating the internet's largest dedicated repository of information on anti-consumer practices, one edit at a time. Speaking of moderators and moderator tools, if you're a regular wiki contributor please remember to check out our moderator applications page ! If you signed up last month, you'll still get the email. (272 points, 51 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-20T18:19:51+00:00"
+        "title": "Walmart is finally adding Apple Pay and Google Pay",
+        "url": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
+        "summary": "Tap-to-pay is coming to Walmart and Sam’s Club locations starting August 24th. Tap-to-pay is coming to Walmart and Sam’s Club locations starting August 24th. Walmart will soon allow you to pay for your items with Google Pay or Apple Pay.",
+        "source": "The Verge",
+        "date": "2026-08-21T17:01:59+00:00"
       },
       {
-        "title": "I should have loved biology (2020)",
-        "url": "https://jsomers.net/i-should-have-loved-biology/",
-        "summary": "Biology is no different. Everything in biology is like this. Everybody does flow cytometry and RNA-seq. (257 points, 100 comments on Hacker News)",
+        "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
+        "url": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
+        "summary": "﻿Take-Two has issued subpoenas over GTA VI content that ‘infringes copyrights.’ ﻿Take-Two has issued subpoenas over GTA VI content that ‘infringes copyrights.’ Following several apparent video leaks of Grand Theft Auto VI , Take-Two Interactive has subpoenaed Microsoft and Discord over content that “infringes copyrights” held for the game, Kotaku reports . In the subpoenas, filed on Thursday, Take-Two says…",
+        "source": "The Verge",
+        "date": "2026-08-21T16:52:56+00:00"
+      },
+      {
+        "title": "Pixel 11 gets in on the digicam trend",
+        "url": "https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend",
+        "summary": "﻿On The Vergecast: A deep dive into the Pixel 11 cameras, a blockbuster week for Brendan Carr screwups, and more. ﻿On The Vergecast: A deep dive into the Pixel 11 cameras, a blockbuster week for Brendan Carr screwups, and more. That might be changing, though. After that, we’ve got a super-sized edition of Brendan Carr is a Dummy, everyone’s favorite podcast with a podcast.",
+        "source": "The Verge",
+        "date": "2026-08-21T16:27:05+00:00"
+      },
+      {
+        "title": "Kobo can run apps now",
+        "url": "https://bandarlabs.github.io/Cobalt/",
+        "summary": "Connectivity, hardware, and platform updates, kept separate from Store. The app simply appears in Store. App contributions are regular pull requests. (507 points, 178 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-20T17:50:02+00:00"
+        "date": "2026-08-21T16:25:25+00:00"
+      },
+      {
+        "title": "Felony Bench",
+        "url": "https://www.felonybench.com/",
+        "summary": "Scores indicate count of illegal activity. Felony Bench counts unique instances where AI agents affect third-party entities. Escaping a sandbox alone does not constitute a counted incident. (648 points, 261 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-21T15:17:04+00:00"
+      },
+      {
+        "title": "Why does it seem like food recalls are out of control this year?",
+        "url": "https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control",
+        "summary": "An uptick in public health awareness is leaving consumers nervous and tired. An uptick in public health awareness is leaving consumers nervous and tired. “The solution is not to communicate less about recalls,” Detwiler adds.",
+        "source": "The Verge",
+        "date": "2026-08-21T14:45:00+00:00"
       }
     ]
   }
