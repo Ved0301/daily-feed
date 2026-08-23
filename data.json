@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:31:49.279546+00:00",
+  "generated_at": "2026-08-23T07:33:24.766616+00:00",
   "sections": {
     "research": [
       {
@@ -175,6 +175,62 @@
     ],
     "startups": [
       {
+        "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+        "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+        "summary": "The three have since established themselves as India’s top quick-commerce players . Similar to Flipkart, Amazon is striving to gain its share in the Indian quick-commerce market. The quick commerce expansion is increasingly defensive as well as offensive for both Flipkart and Amazon, Meena told TechCrunch.",
+        "source": "TechCrunch",
+        "date": "2026-08-23T03:00:00+00:00"
+      },
+      {
+        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. As Harvard Business School seeks to expand its reach, it’s leaning on AI avatars to provide individual feedback. And while some college students haven’t been shy about expressing their negative feelings towards AI , Foundry participants told Kessler they like the avatars.",
+        "source": "TechCrunch",
+        "date": "2026-08-22T21:46:56+00:00"
+      },
+      {
+        "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+        "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+        "summary": "Following a Bloomberg report that the Department of Justice is investigating venture firm Andreessen Horowitz for holding board seats with rival AI companies, VCs told TechCrunch that they were baffled . Kirsten: In this case, Ben Horowitz sits on the Databricks board. Sean: I think that’s a good question.",
+        "source": "TechCrunch",
+        "date": "2026-08-22T20:24:20+00:00"
+      },
+      {
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "summary": "Inherent , a London AI lab founded by Google DeepMind alumni , says its AI agent just outperformed much larger models from Anthropic and OpenAI using a fraction of the size. Of all the startups launched by Google DeepMind alumni, Inherent has gotten relatively little attention. Hughes eventually got around that constraint and started Inherent alongside two other DeepMind alumni and a fourth cofounder.",
+        "source": "TechCrunch",
+        "date": "2026-08-22T19:00:00+00:00"
+      },
+      {
+        "title": "OpenAI says California should strengthen its AI safety bill",
+        "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. OpenAI is calling for California to add more safeguards to a landmark AI safety bill that was passed last year. In a LinkedIn post from the company’s global affairs team, OpenAI said California’s SB 53 “should be amended to expand safeguards,” for example by “requiring monitoring of frontier models under…",
+        "source": "TechCrunch",
+        "date": "2026-08-22T16:30:34+00:00"
+      },
+      {
+        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+        "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+        "summary": "Guidelight’s report says the best public evidence shows that companies have “few containment protocols ready for an emergency.” There could, of course, be containment plans that companies have in place but haven’t shared publicly. The company did not respond to TechCrunch’s question of whether Google has an internal containment response plan that has not been publicly disclosed. An OpenAI spokesperson mirrored…",
+        "source": "TechCrunch",
+        "date": "2026-08-22T16:00:00+00:00"
+      },
+      {
+        "title": "US battery startups have found a lifeline in defense",
+        "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
+        "summary": "Defense applications of lithium-ion batteries are “absolutely playing out in discussions,” a spokesperson for Coreshell , a battery materials startup, told TechCrunch. Lithium carbonate is a key precursor used in battery production. Defense Logistics Agency was buying $200 million worth of batteries annually.",
+        "source": "TechCrunch",
+        "date": "2026-08-22T15:20:00+00:00"
+      },
+      {
+        "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
+        "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
+        "summary": "Otherwise, the Pixel 11 Pro XL feels like the previous-gen phone had a big Pixel Drop update. Rambler is one of my favorite new features on the Pixel 11 Pro XL. The Pixel 11 Pro XL also got a $100 bump from last year’s price.",
+        "source": "TechCrunch",
+        "date": "2026-08-22T14:00:00+00:00"
+      },
+      {
         "title": "Michael Polansky is training an AI model on skin that’s still alive",
         "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
         "summary": "So Outer Biosciences took a different approach. Already, four of Outer Biosciences’ six current leads look likely to reach commercialization, Polansky says. The company employs 19 people, with all but Polansky based just outside Cambridge, Massachusetts.",
@@ -201,148 +257,92 @@
         "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. On Friday, it announced a partnership with Cloverleaf Infrastructure, a company that lays the groundwork for data centers. TechCrunch reached out to Nvidia for more information.",
         "source": "TechCrunch",
         "date": "2026-08-21T22:37:38+00:00"
-      },
-      {
-        "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-        "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-        "summary": "Rillet emerged from stealth two years ago. A few weeks ago, Rillet held a board meeting and shared with investors its growth since its $70 million Series B last summer. Rillet clients range from laundromats to a major sports franchise.",
-        "source": "TechCrunch",
-        "date": "2026-08-21T22:10:01+00:00"
-      },
-      {
-        "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-        "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-        "summary": "Apple is chopping down the team behind the Vision Pro, its long-suffering VR headset , while eliminating positions across a number of other teams, Bloomberg reported . Over 200 positions, all told, have been cut, sources told Bloomberg, with around 100 from the Vision Pro team. Apple is currently enduring a bumpy period of transition.",
-        "source": "TechCrunch",
-        "date": "2026-08-21T20:58:07+00:00"
-      },
-      {
-        "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
-        "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
-        "summary": "TikTok and its parent company, ByteDance, have reached a $400 million settlement with the U.S. Department of Justice (DOJ) to resolve allegations that the social media platform violated federal laws designed to protect children’s online privacy. The 2024 case alleged that TikTok allowed large numbers of children to remain on the platform for years, despite already facing federal action over children’s privacy in…",
-        "source": "TechCrunch",
-        "date": "2026-08-21T20:25:21+00:00"
-      },
-      {
-        "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
-        "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
-        "summary": "Fitbit kept the watch’s servers and app store alive until mid-2018. Core Devices has since shipped a limited-edition Pebble 2 Duo watch and has now sold more than 25,000 of its Pebble Time 2 watches across 93 countries. However, even if you used the Pebble Time 2 without installing extra apps, the watch is still very functional.",
-        "source": "TechCrunch",
-        "date": "2026-08-21T19:57:46+00:00"
-      },
-      {
-        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-        "summary": "The harness is what makes a model an agent: It handles memory, context, and feedback. Nvidia researchers created their own souped-up harness called the Agentic Variation Operators (AVO) . This is a cheap model.",
-        "source": "TechCrunch",
-        "date": "2026-08-21T19:43:39+00:00"
-      },
-      {
-        "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
-        "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. The lowest prices for TechCrunch Disrupt 2026 end tonight at 11:59 p.m. Each year, TechCrunch Disrupt brings together more than 10,000 founders, investors, and startup community members, driving innovation forward.",
-        "source": "TechCrunch",
-        "date": "2026-08-21T19:16:15+00:00"
-      },
-      {
-        "title": "Tesla’s solar roof is dead — here’s what went wrong",
-        "url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
-        "summary": "Now the solar roof is dead. Tesla’s solar roof never had a bright future. In its marketing materials, Tesla compared the solar roof with the cost of solar, plus roof replacement.",
-        "source": "TechCrunch",
-        "date": "2026-08-21T18:09:53+00:00"
-      },
-      {
-        "title": "Waymo hands over documents in NHTSA’s child collision probe",
-        "url": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
-        "summary": "Waymo asked NHTSA to clarify some of the questions in its May 1 letter while asking for an extension. Waymo provided responses to some of the questions in a second letter dated July 8 . NHTSA granted Waymo additional time to answer 10 of its 12 questions.",
-        "source": "TechCrunch",
-        "date": "2026-08-21T17:49:58+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "There's no reason for software to be slow anymore",
-        "url": "https://danluu.com/perf-opt/",
-        "summary": "For longer queries, we see a 2x-4x performance improvement here for a few very simple queries. To pick another example, as part of preparing for performance interviews, Jamie Brandon tried Anthropic's now public performance takehome . The optimizations run on a set of queries, and then there's a later holdout set of queries to run against. (331 points, 236 comments on Hacker News)",
+        "title": "Why your local LLM feels dumber than it is",
+        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+        "summary": "Low level cuda kernel and NCCL path differences, driver differences, vllm container runtimes, different GPUs, different combinations of multiple GPUs, attention runtimes, different caching, different model quantizations, and in fact… even different models. 4bit x 4bit dot products fit within int16. Top-1 and KL describe different things. (292 points, 103 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-22T01:06:17+00:00"
+        "date": "2026-08-22T18:14:16+00:00"
       },
       {
-        "title": "HoverAir’s transforming modular drone has already been halted in the US",
-        "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-        "summary": "So much for HoverAir’s seeming loophole in the drone ban. So much for HoverAir’s seeming loophole in the drone ban. The camera portion won’t be legal, either, as it needs FCC authorization too.",
-        "source": "The Verge",
-        "date": "2026-08-21T22:14:11+00:00"
-      },
-      {
-        "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-        "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-        "summary": "TikTok’s settlement is one of the ‘largest recoveries ever’ in a COPPA case. TikTok’s settlement is one of the ‘largest recoveries ever’ in a COPPA case. TikTok is set to pay $300 million right away and will pay a further $100 million “upon entry of an order vacating a prior consent decree entered against TikTok’s predecessor, Musical.ly,” the DOJ says in a press release .",
-        "source": "The Verge",
-        "date": "2026-08-21T22:13:34+00:00"
-      },
-      {
-        "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-        "summary": "LinkedIn’s new AI slop button is apparently getting a lot of use. LinkedIn’s new AI slop button is apparently getting a lot of use. Alongside the AI slop button, LinkedIn introduced “new and improved” classifiers to identify posts as AI and removed a feature that would “enhance your post” with AI.",
-        "source": "The Verge",
-        "date": "2026-08-21T21:25:50+00:00"
-      },
-      {
-        "title": "Apple is laying off staffers working on the Vision Pro and Siri",
-        "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
-        "summary": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg . The cuts include “largely shutting down” a Vision Pro gaming team and “reducing the size” of the team that makes Vision Pro immersive content, the publication says. The Vision Pro launched in early 2024 as Apple’s big bet on “spatial computing,” but the $3,499 headset doesn’t appear to have been a big hit.",
-        "source": "The Verge",
-        "date": "2026-08-21T19:44:55+00:00"
-      },
-      {
-        "title": "$100 Best Buy gift cards will be $60 at stores Saturday",
-        "url": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
-        "summary": "It’s rare to find discounts on gift cards, and you’ll essentially save $40 on anything you want from Best Buy. It’s rare to find discounts on gift cards, and you’ll essentially save $40 on anything you want from Best Buy. In celebration of the retailer’s 60th anniversary, you can purchase a $100 Best Buy gift card for $60.",
-        "source": "The Verge",
-        "date": "2026-08-21T18:00:00+00:00"
-      },
-      {
-        "title": "Walmart is finally adding Apple Pay and Google Pay",
-        "url": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
-        "summary": "Tap-to-pay is coming to Walmart and Sam’s Club locations starting August 24th. Tap-to-pay is coming to Walmart and Sam’s Club locations starting August 24th. Walmart will soon allow you to pay for your items with Google Pay or Apple Pay.",
-        "source": "The Verge",
-        "date": "2026-08-21T17:01:59+00:00"
-      },
-      {
-        "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
-        "url": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
-        "summary": "﻿Take-Two has issued subpoenas over GTA VI content that ‘infringes copyrights.’ ﻿Take-Two has issued subpoenas over GTA VI content that ‘infringes copyrights.’ Following several apparent video leaks of Grand Theft Auto VI , Take-Two Interactive has subpoenaed Microsoft and Discord over content that “infringes copyrights” held for the game, Kotaku reports . In the subpoenas, filed on Thursday, Take-Two says…",
-        "source": "The Verge",
-        "date": "2026-08-21T16:52:56+00:00"
-      },
-      {
-        "title": "Pixel 11 gets in on the digicam trend",
-        "url": "https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend",
-        "summary": "﻿On The Vergecast: A deep dive into the Pixel 11 cameras, a blockbuster week for Brendan Carr screwups, and more. ﻿On The Vergecast: A deep dive into the Pixel 11 cameras, a blockbuster week for Brendan Carr screwups, and more. That might be changing, though. After that, we’ve got a super-sized edition of Brendan Carr is a Dummy, everyone’s favorite podcast with a podcast.",
-        "source": "The Verge",
-        "date": "2026-08-21T16:27:05+00:00"
-      },
-      {
-        "title": "Kobo can run apps now",
-        "url": "https://bandarlabs.github.io/Cobalt/",
-        "summary": "Connectivity, hardware, and platform updates, kept separate from Store. The app simply appears in Store. App contributions are regular pull requests. (507 points, 178 comments on Hacker News)",
+        "title": "Scrap (2006)",
+        "url": "https://twitter.com/moxie/status/2091218652133732491",
+        "summary": "365 points, 194 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-08-21T16:25:25+00:00"
+        "date": "2026-08-22T18:08:56+00:00"
       },
       {
-        "title": "Felony Bench",
-        "url": "https://www.felonybench.com/",
-        "summary": "Scores indicate count of illegal activity. Felony Bench counts unique instances where AI agents affect third-party entities. Escaping a sandbox alone does not constitute a counted incident. (648 points, 261 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-21T15:17:04+00:00"
-      },
-      {
-        "title": "Why does it seem like food recalls are out of control this year?",
-        "url": "https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control",
-        "summary": "An uptick in public health awareness is leaving consumers nervous and tired. An uptick in public health awareness is leaving consumers nervous and tired. “The solution is not to communicate less about recalls,” Detwiler adds.",
+        "title": "Doodle generative compositions in your browser with Musical Spirograph",
+        "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+        "summary": "It’s soothing, hypnotic, and fun to play with. It’s soothing, hypnotic, and fun to play with. Then there are six different scale options, or you can completely customize the notes, and there are six different synth presets.",
         "source": "The Verge",
-        "date": "2026-08-21T14:45:00+00:00"
+        "date": "2026-08-22T17:00:00+00:00"
+      },
+      {
+        "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
+        "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
+        "summary": "The comedian, activist, podcast host, author, and dad won’t leave his phone behind. The comedian, activist, podcast host, author, and dad won’t leave his phone behind. I need somebody constantly telling me something about something.",
+        "source": "The Verge",
+        "date": "2026-08-22T15:00:00+00:00"
+      },
+      {
+        "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+        "url": "https://quantumi.sh/public/labs.html",
+        "summary": "Why call your AI startup \"68labs\"? Why call your AI startup \"68labs\"? Why call your AI startup \"68labs\"? (374 points, 114 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-22T14:54:07+00:00"
+      },
+      {
+        "title": "A Friendly Introduction to Racket",
+        "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+        "summary": "The file is literally named Caine-core.lisp . It tells Racket: don't evaluate this, it's data . Let's invent one: You just extended the language ! in Lisp, the syntax is yours. (223 points, 116 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-22T14:08:19+00:00"
+      },
+      {
+        "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+        "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+        "summary": "Amazon blamed the price increases on memory and storage component costs. Amazon blamed the price increases on memory and storage component costs. Citing “significant increases in memory and storage component costs,” Amazon has raised prices on Echos, Kindles, Fire TVs , and Eeros by up to 60 percent, as first reported by Fortune .",
+        "source": "The Verge",
+        "date": "2026-08-22T13:41:01+00:00"
+      },
+      {
+        "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+        "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+        "summary": "The central moral question posed in the 2015 song “Sorry” by Justin Bieber, i.e., “Is it too late to say sorry?” is actually not a moral question at all when viewed through a Kantian lens. Thus, the song’s central question ironically reveals the very moral failure it seems to try to repair . However, even though the question has a clear objective moral answer, we cannot attribute any moral judgment to Bieber as a… (211 points, 90 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-22T13:24:06+00:00"
+      },
+      {
+        "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
+        "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
+        "summary": "﻿The HP OmniBook 3 16 hits different in an era of expensive laptops. And the OmniBook 3 is fairly portable for a larger laptop with lots of ports. This big laptop doesn’t feel big.",
+        "source": "The Verge",
+        "date": "2026-08-22T13:00:00+00:00"
+      },
+      {
+        "title": "Two great new repairable gadgets",
+        "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+        "summary": "Plus, in this week’s Installer: a clever daily puzzle game, the next Jason Statham action movie, Pokémon cameras, and more. Plus, in this week’s Installer: a clever daily puzzle game, the next Jason Statham action movie, Pokémon cameras, and more. Welcome to Installer No.",
+        "source": "The Verge",
+        "date": "2026-08-22T12:00:00+00:00"
+      },
+      {
+        "title": "Munder Difflin – Agent harness to run an office of your clones",
+        "url": "https://munderdiffl.in/",
+        "summary": "While your clone works locally, yes. Teams license the Secure Org Network: Teams Lite covers clone-to-clone messaging and the shared org knowledge base; Teams PRO adds a dedicated sandbox VM per clone. Your clone does the rest — 24/7. (276 points, 118 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-22T09:49:14+00:00"
+      },
+      {
+        "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+        "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+        "summary": "A fresh wave of US tariffs on a wide array of Canadian goods came into effect on Saturday after a last-minute breakdown in trade talks. Announcing the suspension of negotiations shortly before the Friday night deadline, Canadian Prime Minister Mark Carney said he would impose reciprocal tariffs on US goods \"dollar for dollar\". Negotiators were reportedly discussing a deal that would reduce US tariffs on Canadian… (608 points, 1406 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-22T06:16:57+00:00"
       }
     ]
   }
