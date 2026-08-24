@@ -1,90 +1,90 @@
 {
-  "generated_at": "2026-08-23T07:33:24.766616+00:00",
+  "generated_at": "2026-08-24T07:58:09.509798+00:00",
   "sections": {
     "research": [
       {
-        "title": "Information on trajectories: martingales and random times",
-        "url": "https://arxiv.org/abs/2608.20337v1",
-        "summary": "Akshay Balsubramani — Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used classical…",
+        "title": "Primal Acceleration of Newton's Method",
+        "url": "https://arxiv.org/abs/2608.21359v1",
+        "summary": "Nikita Doikov — We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration.",
         "source": "arXiv",
-        "date": "2026-08-20T17:59:57Z"
+        "date": "2026-08-21T17:59:37Z"
       },
       {
-        "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
-        "url": "https://arxiv.org/abs/2608.20338v1",
-        "summary": "Sahil Kale, Ian Harris — Large Language Models (LLMs) increasingly require selective removal of harmful or sensitive knowledge, called unlearning, yet existing methods and benchmarks fail to evaluate this capability completely.",
+        "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+        "url": "https://arxiv.org/abs/2608.21357v1",
+        "summary": "Elaine Lau, Thanuka Udumulla, Lee Izhaki-Tavor et al. — In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions.",
         "source": "arXiv",
-        "date": "2026-08-20T17:59:57Z"
+        "date": "2026-08-21T17:59:26Z"
       },
       {
-        "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
-        "url": "https://arxiv.org/abs/2608.20331v1",
-        "summary": "Shiao Xie, Siyu Chen, Jianwei Lv et al. — Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-dependent patient…",
+        "title": "AI with Authority, from Application to Silicon",
+        "url": "https://arxiv.org/abs/2608.21356v1",
+        "summary": "Jason Hickey — For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verification is not only…",
         "source": "arXiv",
-        "date": "2026-08-20T17:59:46Z"
+        "date": "2026-08-21T17:59:16Z"
       },
       {
-        "title": "$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval",
-        "url": "https://arxiv.org/abs/2608.20326v1",
-        "summary": "Parampreet Singh, Anushka Singh, Sumit Kumar et al. — Deep neural networks are often overconfident, assigning high confidence even to incorrect predictions. Consequently, users lack a reliable signal for deciding when a prediction can be trusted.",
+        "title": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
+        "url": "https://arxiv.org/abs/2608.21349v1",
+        "summary": "Yoshitaka Inoue, Minoh Jeong, Alfred Hero et al. — Scarce data and tumor heterogeneity limit patient-level cancer treatment-response prediction. Existing approaches predict response from pretreatment molecular profiles and drug representations, without explicitly…",
         "source": "arXiv",
-        "date": "2026-08-20T17:58:50Z"
+        "date": "2026-08-21T17:54:48Z"
       },
       {
-        "title": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection",
-        "url": "https://arxiv.org/abs/2608.20322v1",
-        "summary": "Anton Lambrecht, Reda El Hail, Xianjun Jiao et al. — Despite their growing importance for contact-free radio frequency (RF) based healthcare monitoring, different radio technologies such as frequency-modulated continuous wave (FMCW) radar, impulse radio ultra-wideband…",
+        "title": "Truthful Calibration Measures for Sequential Prediction",
+        "url": "https://arxiv.org/abs/2608.21348v1",
+        "summary": "Anagha Gokul, Jason Hartline, Lunjia Hu et al. — Calibration requires probabilistic reports to be conditionally unbiased and reliably interpretable as probabilities. A calibration measure assigns numerical error to miscalibrated reports.",
         "source": "arXiv",
-        "date": "2026-08-20T17:58:22Z"
+        "date": "2026-08-21T17:54:05Z"
       },
       {
-        "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
-        "url": "https://arxiv.org/abs/2608.20320v1",
-        "summary": "Narges Ahmadi, Yubo Jiao, Jônatas Augusto Manzolli et al. — Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workflow integrating…",
+        "title": "Asymmetric Capacity Allocation in Self-Refinement Pipelines",
+        "url": "https://arxiv.org/abs/2608.21345v1",
+        "summary": "Zhuoyi Yang, Ian G. Harris, Salar Hashemitaheri et al. — Self-refinement, typically structured as generation, critique, and revision, is a widely adopted paradigm for improving LLM generation and serves as a core mechanism in many LLM agents. While the three stages involve…",
         "source": "arXiv",
-        "date": "2026-08-20T17:57:42Z"
+        "date": "2026-08-21T17:52:17Z"
       },
       {
-        "title": "Inducing Task Models from Computer-Use Traces",
-        "url": "https://arxiv.org/abs/2608.20319v1",
-        "summary": "Yucheng Jiang, Zora Zhiruo Wang, Ruishi Chen et al. — Naturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditable, and reusable models of how everyday work is done.",
+        "title": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
+        "url": "https://arxiv.org/abs/2608.21343v1",
+        "summary": "Vladimir Bataev, Lilit Grigoryan, Andrei Andrusenko et al. — Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many context-biasing methods…",
         "source": "arXiv",
-        "date": "2026-08-20T17:57:00Z"
+        "date": "2026-08-21T17:50:00Z"
       },
       {
-        "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
-        "url": "https://arxiv.org/abs/2608.20318v1",
-        "summary": "Yizhe Chi, Wenyi Li, Deyao Hong et al. — Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a better objective…",
+        "title": "Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price Trajectories",
+        "url": "https://arxiv.org/abs/2608.21334v1",
+        "summary": "Pedro Cadahia Delgado — Short observational pricing panels can contain many observations while offering only a small number of distinct price movements. This paper studies the inferential consequences of that distinction in a synthetic…",
         "source": "arXiv",
-        "date": "2026-08-20T17:56:59Z"
+        "date": "2026-08-21T17:40:31Z"
       },
       {
-        "title": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation",
-        "url": "https://arxiv.org/abs/2608.20316v1",
-        "summary": "Adam Fisch, Shubhendu Trivedi, Fantine Huot et al. — Heterogeneous AI systems composed of multiple models, architectures, harnesses, or inference-time settings can improve quality and efficiency by routing queries to the specialist who can answer most effectively at the…",
+        "title": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation",
+        "url": "https://arxiv.org/abs/2608.21332v1",
+        "summary": "David P. Stonko — Deep-learning models of anatomy can be numerically plausible yet anatomically impossible, and they generalize poorly when data are scarce. We introduce Anatomy-Informed Neural Networks (AINN), in which soft anatomic…",
         "source": "arXiv",
-        "date": "2026-08-20T17:54:37Z"
+        "date": "2026-08-21T17:38:42Z"
       },
       {
-        "title": "Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records",
-        "url": "https://arxiv.org/abs/2608.20315v1",
-        "summary": "Jun Ni Du, Lukas Adamek, Maxim Kryukov et al. — Predictive models over structured electronic health records (EHRs) remain central to machine learning for healthcare, but few have jointly emphasized quantitative laboratory information and interpretability with respect…",
+        "title": "Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy",
+        "url": "https://arxiv.org/abs/2608.21325v1",
+        "summary": "Afonso Baldo, Hugo Pitorro, Areti Vassilopoulos et al. — Users increasingly turn to large language models for emotional support, yet little is known about how these models actually conduct a psychotherapy interaction. We introduce an ontology of ten therapeutic moves:…",
         "source": "arXiv",
-        "date": "2026-08-20T17:54:17Z"
+        "date": "2026-08-21T17:32:38Z"
       },
       {
-        "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
-        "url": "https://arxiv.org/abs/2608.20314v1",
-        "summary": "Fengqing Jiang, Yite Wang, Boyi Liu et al. — Mid-training is increasingly recognized as a critical stage for shaping the capabilities of large language models. Recent work has shown that targeted mid-training can strengthen reasoning-intensive abilities such as…",
+        "title": "Time-Aware Tranformer-Based Prediction Model for AECOPD",
+        "url": "https://arxiv.org/abs/2608.21324v1",
+        "summary": "Weihao Qu, Ling Zheng, Dongyang Wang et al. — The rapid symptom change of Acute exacerbation of chronic obstructive pulmonary disease (AECOPD) makes it critical to have time-sensitive prediction models. However, most current machine learning models studying AECOPD…",
         "source": "arXiv",
-        "date": "2026-08-20T17:53:59Z"
+        "date": "2026-08-21T17:31:23Z"
       },
       {
-        "title": "Physical-Support Confidence Sets for Highly Coherent Dictionaries",
-        "url": "https://arxiv.org/abs/2608.20295v1",
-        "summary": "Guan-Ju Peng — Sparse pursuit after dictionary learning can yield a precise atom support even when its physical interpretation is not justified by the calibration data, especially for highly coherent dictionaries where alternative…",
+        "title": "Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets",
+        "url": "https://arxiv.org/abs/2608.21319v1",
+        "summary": "Jingtao Tang, Hang Ma — We formalize the Steiner Traveling Salesman Problem (Steiner-TSP) on Graphs of Convex Sets (GCS), which seeks a minimum-cost closed trajectory through required convex sets while allowing optional transit vertices and…",
         "source": "arXiv",
-        "date": "2026-08-20T17:35:26Z"
+        "date": "2026-08-21T17:28:03Z"
       }
     ],
     "labs": [
@@ -175,6 +175,48 @@
     ],
     "startups": [
       {
+        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+        "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation about who actually built it. The free model was released on OpenRouter on Thursday, where it was described as “a reasoning model designed for coding, sustained agentic work, and production workload.”…",
+        "source": "TechCrunch",
+        "date": "2026-08-23T20:01:36+00:00"
+      },
+      {
+        "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+        "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+        "summary": "The Dutch Data Protection Authority is fining Uber €825 million (around $966 million) — the second largest penalty issued so far under Europe’s General Data Protection Regulation, according to Reuters . Uber, however, argued that most driver suspensions are brief, that no permanent deactivations take place without human review, and that drivers have the ability to appeal. (Dutch regulators said some drivers were…",
+        "source": "TechCrunch",
+        "date": "2026-08-23T19:30:00+00:00"
+      },
+      {
+        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+        "summary": "One of Linkdaze’s biggest strengths is its calendar compatibility. Instead of asking everyone to switch to a single calendar app, Linkdaze brings multiple schedules together and uses color coding to make individual family members easy to identify. Skylight, a competing smart-calendar brand, offers additional features through its $79 per year subscription.",
+        "source": "TechCrunch",
+        "date": "2026-08-23T19:14:08+00:00"
+      },
+      {
+        "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+        "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+        "summary": "Sidewalk delivery robot company Serve Robotics also had a notable and very timely deal this week. Uber said it is investing in, and partnering with, drone delivery company Zipline . Vessev , a New Zealand startup developing electric hydrofoil boats, raised $19 million in a Series A round led by Blackbird Ventures.",
+        "source": "TechCrunch",
+        "date": "2026-08-23T16:03:00+00:00"
+      },
+      {
+        "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+        "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+        "summary": "The country needs to find a “compromise” between privacy and safety, according to Flock Safety CEO Garrett Langley. STOP FLOCK.” On the right, three House Republicans recently introduced a bill that would prohibit the federal government from purchasing automated surveillance systems that use facial recognition, biometric IDs, or license plate recognition, “including a Flock Safety camera.” Flock has already made…",
+        "source": "TechCrunch",
+        "date": "2026-08-23T15:30:00+00:00"
+      },
+      {
+        "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+        "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+        "summary": "“I think it is generally good news for AI training that he looked at what was going on and really sort of thought it analogous to reading a copyrighted work as opposed to copying a copyrighted work,” Gellis said. “Copyright law hinges on copying, but it doesn’t hinge on using the work or experiencing the work, consuming the work, reading the work.” Copyright law hasn’t been updated since 1976, which means that…",
+        "source": "TechCrunch",
+        "date": "2026-08-23T15:00:00+00:00"
+      },
+      {
         "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
         "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
         "summary": "The three have since established themselves as India’s top quick-commerce players . Similar to Flipkart, Amazon is striving to gain its share in the Indian quick-commerce market. The quick commerce expansion is increasingly defensive as well as offensive for both Flipkart and Amazon, Meena told TechCrunch.",
@@ -212,65 +254,65 @@
       {
         "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
         "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-        "summary": "Guidelight’s report says the best public evidence shows that companies have “few containment protocols ready for an emergency.” There could, of course, be containment plans that companies have in place but haven’t shared publicly. The company did not respond to TechCrunch’s question of whether Google has an internal containment response plan that has not been publicly disclosed. An OpenAI spokesperson mirrored…",
+        "summary": "OpenAI came out on top; Anthropic and Meta scored lowest. The company did not respond to TechCrunch’s question of whether Google has an internal containment response plan that has not been publicly disclosed. An OpenAI spokesperson mirrored similar sentiments, saying Guidelight’s assessment doesn’t capture all of the company’s internal practices.",
         "source": "TechCrunch",
         "date": "2026-08-22T16:00:00+00:00"
-      },
-      {
-        "title": "US battery startups have found a lifeline in defense",
-        "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
-        "summary": "Defense applications of lithium-ion batteries are “absolutely playing out in discussions,” a spokesperson for Coreshell , a battery materials startup, told TechCrunch. Lithium carbonate is a key precursor used in battery production. Defense Logistics Agency was buying $200 million worth of batteries annually.",
-        "source": "TechCrunch",
-        "date": "2026-08-22T15:20:00+00:00"
-      },
-      {
-        "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
-        "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
-        "summary": "Otherwise, the Pixel 11 Pro XL feels like the previous-gen phone had a big Pixel Drop update. Rambler is one of my favorite new features on the Pixel 11 Pro XL. The Pixel 11 Pro XL also got a $100 bump from last year’s price.",
-        "source": "TechCrunch",
-        "date": "2026-08-22T14:00:00+00:00"
-      },
-      {
-        "title": "Michael Polansky is training an AI model on skin that’s still alive",
-        "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-        "summary": "So Outer Biosciences took a different approach. Already, four of Outer Biosciences’ six current leads look likely to reach commercialization, Polansky says. The company employs 19 people, with all but Polansky based just outside Cambridge, Massachusetts.",
-        "source": "TechCrunch",
-        "date": "2026-08-22T01:31:04+00:00"
-      },
-      {
-        "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-        "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-        "summary": "Letara , a Sapporo-based startup developing hybrid propulsion systems for spacecraft, is looking to capitalize on that push. A number of companies are developing hybrid rocket technology, including Japan’s Interstellar Technologies, China’s Galactic Energy, South Korea’s InnoSpace, and Singapore’s Equatorial Space are advancing hybrid rocket technology. German startup HyImpulse and Australian Gilmour Space are also…",
-        "source": "TechCrunch",
-        "date": "2026-08-22T01:03:06+00:00"
-      },
-      {
-        "title": "Anthropic’s Opus 4.6 is a smut-machine",
-        "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-        "summary": "Anthropic’s universal usage standards for Claude forbid the model from generating sexually explicit content, including depicting or requesting sexual intercourse or sex acts, generating content related to sexual fetishes or fantasies, or engaging in erotic chats. In 10 out of 10 direct requests to produce explicit sexual content, the model complied immediately. Other older models, including Opus 3 and Haiku 4.5,…",
-        "source": "TechCrunch",
-        "date": "2026-08-21T23:07:25+00:00"
-      },
-      {
-        "title": "Nvidia partners with data center developer Cloverleaf",
-        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. On Friday, it announced a partnership with Cloverleaf Infrastructure, a company that lays the groundwork for data centers. TechCrunch reached out to Nvidia for more information.",
-        "source": "TechCrunch",
-        "date": "2026-08-21T22:37:38+00:00"
       }
     ],
     "wider_tech": [
       {
+        "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+        "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+        "summary": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release . Rockstar Games has finally given Grand Theft Auto VI a price ahead of the game’s November 19th launch. Rockstar Games is delaying the highly anticipated release of Grand Theft Auto VI to May 26th, 2026.",
+        "source": "The Verge",
+        "date": "2026-08-23T19:14:37+00:00"
+      },
+      {
+        "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+        "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+        "summary": "With Teenage Sex and Death at Camp Miasma out in theaters, now is the perfect time to revisit Jane Schoenbrun’s first film. Jane Schoenbrun ’s latest film, Teenage Sex and Death at Camp Miasma , is making a splash in theaters right now. Ultimately, World’s Fair is a coming-of-age story about a lonely young girl.",
+        "source": "The Verge",
+        "date": "2026-08-23T15:00:00+00:00"
+      },
+      {
+        "title": "Grand Theft Auto VI exists in its own universe",
+        "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+        "summary": "For more on GTA VI and the state of the video game industry, follow Andrew Webster . Four years ago, fans got a long-awaited look at Grand Theft Auto VI with a huge cache of videos that showed off Rockstar’s latest open-world epic. That game, Red Dead Redemption 2 , went on to sell nearly 90 million copies, giving Rockstar another blockbuster to fill the gap between GTA s.",
+        "source": "The Verge",
+        "date": "2026-08-23T12:00:00+00:00"
+      },
+      {
+        "title": "To become a better writer, read as much as you can",
+        "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+        "summary": "Read widely and well . Then shut up and read . I read 52 books a year. (316 points, 208 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-23T03:32:25+00:00"
+      },
+      {
+        "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+        "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+        "summary": "The macOS command-line tool hdiutil is used to manipulate disk images. From the WHAT'S NEW section of man hdiutil on the latest macOS 27 Golden Gate beta: There’s also a DEPRECATION NOTICE at the top of the man page that lists the diskutil replacements for hdiutil subcommands. Unlike hdiutil , diskutil does not trigger an authentication prompt. (185 points, 83 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-22T19:04:41+00:00"
+      },
+      {
         "title": "Why your local LLM feels dumber than it is",
         "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-        "summary": "Low level cuda kernel and NCCL path differences, driver differences, vllm container runtimes, different GPUs, different combinations of multiple GPUs, attention runtimes, different caching, different model quantizations, and in fact… even different models. 4bit x 4bit dot products fit within int16. Top-1 and KL describe different things. (292 points, 103 comments on Hacker News)",
+        "summary": "Low level cuda kernel and NCCL path differences, driver differences, vllm container runtimes, different GPUs, different combinations of multiple GPUs, attention runtimes, different caching, different model quantizations, and in fact… even different models. 4bit x 4bit dot products fit within int16. Top-1 and KL describe different things. (417 points, 171 comments on Hacker News)",
         "source": "Hacker News",
         "date": "2026-08-22T18:14:16+00:00"
       },
       {
+        "title": "Thinking in Python",
+        "url": "https://thinkinginpython.com/",
+        "summary": "251 points, 50 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-08-22T18:10:49+00:00"
+      },
+      {
         "title": "Scrap (2006)",
         "url": "https://twitter.com/moxie/status/2091218652133732491",
-        "summary": "365 points, 194 comments on Hacker News",
+        "summary": "386 points, 212 comments on Hacker News",
         "source": "Hacker News",
         "date": "2026-08-22T18:08:56+00:00"
       },
@@ -282,6 +324,13 @@
         "date": "2026-08-22T17:00:00+00:00"
       },
       {
+        "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+        "url": "https://twitter.com/argofowl/status/2091150597374537729",
+        "summary": "196 points, 175 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-08-22T16:58:49+00:00"
+      },
+      {
         "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
         "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
         "summary": "The comedian, activist, podcast host, author, and dad won’t leave his phone behind. The comedian, activist, podcast host, author, and dad won’t leave his phone behind. I need somebody constantly telling me something about something.",
@@ -291,58 +340,9 @@
       {
         "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
         "url": "https://quantumi.sh/public/labs.html",
-        "summary": "Why call your AI startup \"68labs\"? Why call your AI startup \"68labs\"? Why call your AI startup \"68labs\"? (374 points, 114 comments on Hacker News)",
+        "summary": "Why call your AI startup \"68labs\"? Why call your AI startup \"68labs\"? Why call your AI startup \"68labs\"? (438 points, 132 comments on Hacker News)",
         "source": "Hacker News",
         "date": "2026-08-22T14:54:07+00:00"
-      },
-      {
-        "title": "A Friendly Introduction to Racket",
-        "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-        "summary": "The file is literally named Caine-core.lisp . It tells Racket: don't evaluate this, it's data . Let's invent one: You just extended the language ! in Lisp, the syntax is yours. (223 points, 116 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-22T14:08:19+00:00"
-      },
-      {
-        "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-        "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-        "summary": "Amazon blamed the price increases on memory and storage component costs. Amazon blamed the price increases on memory and storage component costs. Citing “significant increases in memory and storage component costs,” Amazon has raised prices on Echos, Kindles, Fire TVs , and Eeros by up to 60 percent, as first reported by Fortune .",
-        "source": "The Verge",
-        "date": "2026-08-22T13:41:01+00:00"
-      },
-      {
-        "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-        "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-        "summary": "The central moral question posed in the 2015 song “Sorry” by Justin Bieber, i.e., “Is it too late to say sorry?” is actually not a moral question at all when viewed through a Kantian lens. Thus, the song’s central question ironically reveals the very moral failure it seems to try to repair . However, even though the question has a clear objective moral answer, we cannot attribute any moral judgment to Bieber as a… (211 points, 90 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-22T13:24:06+00:00"
-      },
-      {
-        "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
-        "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
-        "summary": "﻿The HP OmniBook 3 16 hits different in an era of expensive laptops. And the OmniBook 3 is fairly portable for a larger laptop with lots of ports. This big laptop doesn’t feel big.",
-        "source": "The Verge",
-        "date": "2026-08-22T13:00:00+00:00"
-      },
-      {
-        "title": "Two great new repairable gadgets",
-        "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
-        "summary": "Plus, in this week’s Installer: a clever daily puzzle game, the next Jason Statham action movie, Pokémon cameras, and more. Plus, in this week’s Installer: a clever daily puzzle game, the next Jason Statham action movie, Pokémon cameras, and more. Welcome to Installer No.",
-        "source": "The Verge",
-        "date": "2026-08-22T12:00:00+00:00"
-      },
-      {
-        "title": "Munder Difflin – Agent harness to run an office of your clones",
-        "url": "https://munderdiffl.in/",
-        "summary": "While your clone works locally, yes. Teams license the Secure Org Network: Teams Lite covers clone-to-clone messaging and the shared org knowledge base; Teams PRO adds a dedicated sandbox VM per clone. Your clone does the rest — 24/7. (276 points, 118 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-22T09:49:14+00:00"
-      },
-      {
-        "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-        "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-        "summary": "A fresh wave of US tariffs on a wide array of Canadian goods came into effect on Saturday after a last-minute breakdown in trade talks. Announcing the suspension of negotiations shortly before the Friday night deadline, Canadian Prime Minister Mark Carney said he would impose reciprocal tariffs on US goods \"dollar for dollar\". Negotiators were reportedly discussing a deal that would reduce US tariffs on Canadian… (608 points, 1406 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-22T06:16:57+00:00"
       }
     ]
   }
