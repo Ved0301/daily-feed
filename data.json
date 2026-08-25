@@ -1,93 +1,100 @@
 {
-  "generated_at": "2026-08-24T07:58:09.509798+00:00",
+  "generated_at": "2026-08-25T07:43:15.015634+00:00",
   "sections": {
     "research": [
       {
-        "title": "Primal Acceleration of Newton's Method",
-        "url": "https://arxiv.org/abs/2608.21359v1",
-        "summary": "Nikita Doikov — We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration.",
+        "title": "How to Train a Critic Stably and Efficiently",
+        "url": "https://arxiv.org/abs/2608.23566v1",
+        "summary": "Penghui Qi, Xiangxin Zhou, Wee Sun Lee — Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages…",
         "source": "arXiv",
-        "date": "2026-08-21T17:59:37Z"
+        "date": "2026-08-24T17:59:39Z"
       },
       {
-        "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
-        "url": "https://arxiv.org/abs/2608.21357v1",
-        "summary": "Elaine Lau, Thanuka Udumulla, Lee Izhaki-Tavor et al. — In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions.",
+        "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+        "url": "https://arxiv.org/abs/2608.23565v1",
+        "summary": "Zhifei Chen, Luozhou Wang, Guibao Shen et al. — An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounded one.",
         "source": "arXiv",
-        "date": "2026-08-21T17:59:26Z"
+        "date": "2026-08-24T17:59:05Z"
       },
       {
-        "title": "AI with Authority, from Application to Silicon",
-        "url": "https://arxiv.org/abs/2608.21356v1",
-        "summary": "Jason Hickey — For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verification is not only…",
+        "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+        "url": "https://arxiv.org/abs/2608.23564v1",
+        "summary": "Deyao Hong, Yizhe Chi, Wenyi Li et al. — Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they autonomously…",
         "source": "arXiv",
-        "date": "2026-08-21T17:59:16Z"
+        "date": "2026-08-24T17:59:04Z"
       },
       {
-        "title": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
-        "url": "https://arxiv.org/abs/2608.21349v1",
-        "summary": "Yoshitaka Inoue, Minoh Jeong, Alfred Hero et al. — Scarce data and tumor heterogeneity limit patient-level cancer treatment-response prediction. Existing approaches predict response from pretreatment molecular profiles and drug representations, without explicitly…",
+        "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
+        "url": "https://arxiv.org/abs/2608.23563v1",
+        "summary": "Md Thamed Bin Zaman Chowdhury, Moazzem Hossain — Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and the high cost of…",
         "source": "arXiv",
-        "date": "2026-08-21T17:54:48Z"
+        "date": "2026-08-24T17:58:41Z"
       },
       {
-        "title": "Truthful Calibration Measures for Sequential Prediction",
-        "url": "https://arxiv.org/abs/2608.21348v1",
-        "summary": "Anagha Gokul, Jason Hartline, Lunjia Hu et al. — Calibration requires probabilistic reports to be conditionally unbiased and reliably interpretable as probabilities. A calibration measure assigns numerical error to miscalibrated reports.",
+        "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
+        "url": "https://arxiv.org/abs/2608.23562v1",
+        "summary": "Yuanyuan Zhang, Yida Zhang, Jiahui Li et al. — Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed interaction with shifted…",
         "source": "arXiv",
-        "date": "2026-08-21T17:54:05Z"
+        "date": "2026-08-24T17:58:35Z"
       },
       {
-        "title": "Asymmetric Capacity Allocation in Self-Refinement Pipelines",
-        "url": "https://arxiv.org/abs/2608.21345v1",
-        "summary": "Zhuoyi Yang, Ian G. Harris, Salar Hashemitaheri et al. — Self-refinement, typically structured as generation, critique, and revision, is a widely adopted paradigm for improving LLM generation and serves as a core mechanism in many LLM agents. While the three stages involve…",
+        "title": "Provably adaptive sampling with uniform and remasking discrete diffusion models",
+        "url": "https://arxiv.org/abs/2608.23554v1",
+        "summary": "Daniil Dmitriev, Zhihan Huang, Yuting Wei — Discrete diffusion models offer a promising alternative to autoregressive generation by enabling parallel updates, but their sampling efficiency can depend strongly on the choice of the forward process and the sampler.…",
         "source": "arXiv",
-        "date": "2026-08-21T17:52:17Z"
+        "date": "2026-08-24T17:54:51Z"
       },
       {
-        "title": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
-        "url": "https://arxiv.org/abs/2608.21343v1",
-        "summary": "Vladimir Bataev, Lilit Grigoryan, Andrei Andrusenko et al. — Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many context-biasing methods…",
+        "title": "Prime Agent: A Self-Improving RLM Harness",
+        "url": "https://arxiv.org/abs/2608.23552v1",
+        "summary": "Seth Karten, Alex L. Zhang, Kevin Thomas et al. — Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long-horizon evaluation…",
         "source": "arXiv",
-        "date": "2026-08-21T17:50:00Z"
+        "date": "2026-08-24T17:54:19Z"
       },
       {
-        "title": "Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price Trajectories",
-        "url": "https://arxiv.org/abs/2608.21334v1",
-        "summary": "Pedro Cadahia Delgado — Short observational pricing panels can contain many observations while offering only a small number of distinct price movements. This paper studies the inferential consequences of that distinction in a synthetic…",
+        "title": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
+        "url": "https://arxiv.org/abs/2608.23551v1",
+        "summary": "Na Li, Yuchen Jiao, Changxiao Cai et al. — Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders supervised with cross…",
         "source": "arXiv",
-        "date": "2026-08-21T17:40:31Z"
+        "date": "2026-08-24T17:54:14Z"
       },
       {
-        "title": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation",
-        "url": "https://arxiv.org/abs/2608.21332v1",
-        "summary": "David P. Stonko — Deep-learning models of anatomy can be numerically plausible yet anatomically impossible, and they generalize poorly when data are scarce. We introduce Anatomy-Informed Neural Networks (AINN), in which soft anatomic…",
+        "title": "Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination",
+        "url": "https://arxiv.org/abs/2608.23547v1",
+        "summary": "Mustafa Umut Ozbek, Taiwo Ojo, Pooria Madani et al. — Machine-learning-based anomaly detection is increasingly used in industrial control systems (ICS), yet most studies assume that detector training data is trustworthy. In practice, training data may be corrupted through…",
         "source": "arXiv",
-        "date": "2026-08-21T17:38:42Z"
+        "date": "2026-08-24T17:49:36Z"
       },
       {
-        "title": "Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy",
-        "url": "https://arxiv.org/abs/2608.21325v1",
-        "summary": "Afonso Baldo, Hugo Pitorro, Areti Vassilopoulos et al. — Users increasingly turn to large language models for emotional support, yet little is known about how these models actually conduct a psychotherapy interaction. We introduce an ontology of ten therapeutic moves:…",
+        "title": "Inertial Manifold Neural Operator for Dissipative Time-Dependent Partial Differential Equations",
+        "url": "https://arxiv.org/abs/2608.23546v1",
+        "summary": "Xiaoyang Xie, Clarence W. Rowley — In this paper, we introduce the Inertial Manifold Neural Operator (IMNO) for solving dissipative time-dependent partial differential equations (PDEs). The long-time dynamics of such systems often exhibit an effective…",
         "source": "arXiv",
-        "date": "2026-08-21T17:32:38Z"
+        "date": "2026-08-24T17:49:30Z"
       },
       {
-        "title": "Time-Aware Tranformer-Based Prediction Model for AECOPD",
-        "url": "https://arxiv.org/abs/2608.21324v1",
-        "summary": "Weihao Qu, Ling Zheng, Dongyang Wang et al. — The rapid symptom change of Acute exacerbation of chronic obstructive pulmonary disease (AECOPD) makes it critical to have time-sensitive prediction models. However, most current machine learning models studying AECOPD…",
+        "title": "How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles",
+        "url": "https://arxiv.org/abs/2608.23543v1",
+        "summary": "Shang Wu, Catarina G Belem, Shuyuan Fu et al. — While AI assistance can improve human task performance in the short term, it may also undermine the development of skills in the longer term. We examine this tension in a controlled logic-puzzle experiment involving…",
         "source": "arXiv",
-        "date": "2026-08-21T17:31:23Z"
+        "date": "2026-08-24T17:46:11Z"
       },
       {
-        "title": "Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets",
-        "url": "https://arxiv.org/abs/2608.21319v1",
-        "summary": "Jingtao Tang, Hang Ma — We formalize the Steiner Traveling Salesman Problem (Steiner-TSP) on Graphs of Convex Sets (GCS), which seeks a minimum-cost closed trajectory through required convex sets while allowing optional transit vertices and…",
+        "title": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams",
+        "url": "https://arxiv.org/abs/2608.23541v1",
+        "summary": "Summer Eunhyung Ann, Haokun Liu, Chenhao Tan — Does multi-agent LLM interaction help or hurt? Some work reports gains from debate (Du et al., 2024), critique loops (Chen et al., 2025), and mixture-of-agents synthesis (Wang et al., 2025), while other work finds that…",
         "source": "arXiv",
-        "date": "2026-08-21T17:28:03Z"
+        "date": "2026-08-24T17:45:15Z"
       }
     ],
     "labs": [
+      {
+        "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+        "url": "https://openai.com/index/gpt-5-6-in-kiro",
+        "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+        "source": "OpenAI",
+        "date": "2026-08-24T12:00:00+00:00"
+      },
       {
         "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
         "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
@@ -164,185 +171,178 @@
         "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
         "source": "OpenAI",
         "date": "2026-08-18T11:00:00+00:00"
-      },
-      {
-        "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-        "url": "https://openai.com/index/chatgpt-for-teens",
-        "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-        "source": "OpenAI",
-        "date": "2026-08-18T11:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-        "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation about who actually built it. The free model was released on OpenRouter on Thursday, where it was described as “a reasoning model designed for coding, sustained agentic work, and production workload.”…",
+        "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+        "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+        "summary": "Airbound’s current drone, called TRT, weighs about 3.3 pounds and can carry around 2.2 pounds of payload. Pushp said Airbound intends to retain vertical takeoff and landing even as it develops larger aircraft to avoid dependence on runways. Founded in 2023, Airbound has completed more than 13,000 autonomous flights across the southern Indian cities of Bengaluru and Guntur, Pushp said.",
         "source": "TechCrunch",
-        "date": "2026-08-23T20:01:36+00:00"
+        "date": "2026-08-25T03:30:00+00:00"
       },
       {
-        "title": "Uber faces fine of nearly $1B over automated driver suspensions",
-        "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
-        "summary": "The Dutch Data Protection Authority is fining Uber €825 million (around $966 million) — the second largest penalty issued so far under Europe’s General Data Protection Regulation, according to Reuters . Uber, however, argued that most driver suspensions are brief, that no permanent deactivations take place without human review, and that drivers have the ability to appeal. (Dutch regulators said some drivers were…",
+        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+        "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Back by popular demand: Save up to $300 on Disrupt Situational Awareness, the AI focused hedge fund that was Wall Street’s fleeting obsession, is having a very bad month. Now, federal regulators are reportedly probing the company as well. The government reportedly warned the banks to “preserve any information” about the hedge fund, though it noted that Situational…",
         "source": "TechCrunch",
-        "date": "2026-08-23T19:30:00+00:00"
+        "date": "2026-08-25T00:23:12+00:00"
       },
       {
-        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-        "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-        "summary": "One of Linkdaze’s biggest strengths is its calendar compatibility. Instead of asking everyone to switch to a single calendar app, Linkdaze brings multiple schedules together and uses color coding to make individual family members easy to identify. Skylight, a competing smart-calendar brand, offers additional features through its $79 per year subscription.",
+        "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+        "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+        "summary": "Oura announced in May that it had filed confidentially for an IPO. Not all of Oura’s recent attention has been positive. A proposed class action lawsuit filed last week in San Francisco is accusing Oura of misleading consumers about the accuracy of its sleep tracking features.",
         "source": "TechCrunch",
-        "date": "2026-08-23T19:14:08+00:00"
+        "date": "2026-08-24T23:05:44+00:00"
       },
       {
-        "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
-        "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
-        "summary": "Sidewalk delivery robot company Serve Robotics also had a notable and very timely deal this week. Uber said it is investing in, and partnering with, drone delivery company Zipline . Vessev , a New Zealand startup developing electric hydrofoil boats, raised $19 million in a Series A round led by Blackbird Ventures.",
+        "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+        "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Back by popular demand: Save up to $300 on Disrupt President Donald Trump bought as much as $50,000 worth of SpaceX shares on June 23, according to a financial disclosure first reported by Reuters , two weeks after the record-setting IPO of Elon Musk’s company. SpaceX shares were trading in the mid-$150 range on June 23. At the end of trading on Monday, shares…",
         "source": "TechCrunch",
-        "date": "2026-08-23T16:03:00+00:00"
+        "date": "2026-08-24T21:24:17+00:00"
       },
       {
-        "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-        "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-        "summary": "The country needs to find a “compromise” between privacy and safety, according to Flock Safety CEO Garrett Langley. STOP FLOCK.” On the right, three House Republicans recently introduced a bill that would prohibit the federal government from purchasing automated surveillance systems that use facial recognition, biometric IDs, or license plate recognition, “including a Flock Safety camera.” Flock has already made…",
+        "title": "Zillow and Redfin settle FTC antitrust case",
+        "url": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
+        "summary": "The case stems from a deal announced last year in which Redfin agreed to display Zillow’s rental listings on its websites rather than compete directly with Zillow for rental advertisers. Redfin owns Rent.com and ApartmentGuide.com, two major rental-listing platforms. Under the proposed settlement, Redfin will be required to reenter the rental advertising business.",
         "source": "TechCrunch",
-        "date": "2026-08-23T15:30:00+00:00"
+        "date": "2026-08-24T20:45:33+00:00"
       },
       {
-        "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-        "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-        "summary": "“I think it is generally good news for AI training that he looked at what was going on and really sort of thought it analogous to reading a copyrighted work as opposed to copying a copyrighted work,” Gellis said. “Copyright law hinges on copying, but it doesn’t hinge on using the work or experiencing the work, consuming the work, reading the work.” Copyright law hasn’t been updated since 1976, which means that…",
+        "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
+        "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
+        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Back by popular demand: Save up to $300 on Disrupt You don’t need a keynote session to make noise at TechCrunch Disrupt 2026 . That’s exactly what our Exhibit Program offers . Book your exhibit table now .",
         "source": "TechCrunch",
-        "date": "2026-08-23T15:00:00+00:00"
+        "date": "2026-08-24T20:16:34+00:00"
       },
       {
-        "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
-        "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
-        "summary": "The three have since established themselves as India’s top quick-commerce players . Similar to Flipkart, Amazon is striving to gain its share in the Indian quick-commerce market. The quick commerce expansion is increasingly defensive as well as offensive for both Flipkart and Amazon, Meena told TechCrunch.",
+        "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+        "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Back by popular demand: Save up to $300 on Disrupt Alabama’s attorney general announced Monday that it sent a subpoena to OpenAI as part of an investigation into the company’s alleged “complete lack of oversight and adequate safeguards” in the Hugging Face incident. The investigation comes weeks after OpenAI admitted that one of its unreleased and guardrail-free…",
         "source": "TechCrunch",
-        "date": "2026-08-23T03:00:00+00:00"
+        "date": "2026-08-24T19:58:17+00:00"
       },
       {
-        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-        "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. As Harvard Business School seeks to expand its reach, it’s leaning on AI avatars to provide individual feedback. And while some college students haven’t been shy about expressing their negative feelings towards AI , Foundry participants told Kessler they like the avatars.",
+        "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
+        "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
+        "summary": "The price explosion impacted Fire TVs, Echos, Kindles, and Eeros. When reached for comment by TechCrunch, Amazon shared the following: “The consumer electronics industry is facing significant increases in memory and storage component costs. Amazon’s price hikes reinforce the reality that it’s a terrible time to buy hardware.",
         "source": "TechCrunch",
-        "date": "2026-08-22T21:46:56+00:00"
+        "date": "2026-08-24T19:54:50+00:00"
       },
       {
-        "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-        "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
-        "summary": "Following a Bloomberg report that the Department of Justice is investigating venture firm Andreessen Horowitz for holding board seats with rival AI companies, VCs told TechCrunch that they were baffled . Kirsten: In this case, Ben Horowitz sits on the Databricks board. Sean: I think that’s a good question.",
+        "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Back by popular demand: Save up to $300 on Disrupt The AI boom has made it possible for a significantly wider range of people to dip into development, create code, and launch software for the first time. They assigned the company a $9 billion valuation earlier this year, a mere six months after the company was assigned a $3 billion valuation. Everything founders…",
         "source": "TechCrunch",
-        "date": "2026-08-22T20:24:20+00:00"
+        "date": "2026-08-24T19:54:19+00:00"
       },
       {
-        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-        "summary": "Inherent , a London AI lab founded by Google DeepMind alumni , says its AI agent just outperformed much larger models from Anthropic and OpenAI using a fraction of the size. Of all the startups launched by Google DeepMind alumni, Inherent has gotten relatively little attention. Hughes eventually got around that constraint and started Inherent alongside two other DeepMind alumni and a fourth cofounder.",
+        "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
+        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Back by popular demand: Save up to $300 on Disrupt We’re getting close to TechCrunch Disrupt 2026 ! With our Disrupt Side Events program, you can bring people together anytime from October 10-16 for a custom event that gets promoted to Disrupt’s attendees. Everything from industry roundtables and VC office hours to deep-dive workshops to intimate dinners and…",
         "source": "TechCrunch",
-        "date": "2026-08-22T19:00:00+00:00"
+        "date": "2026-08-24T19:44:13+00:00"
       },
       {
-        "title": "OpenAI says California should strengthen its AI safety bill",
-        "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. OpenAI is calling for California to add more safeguards to a landmark AI safety bill that was passed last year. In a LinkedIn post from the company’s global affairs team, OpenAI said California’s SB 53 “should be amended to expand safeguards,” for example by “requiring monitoring of frontier models under…",
+        "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+        "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+        "summary": "Thanks @clairevo for spotting this. pic.twitter.com/J2qhYVqwxN Another person, Claire Vo, found that Instinct was still summarizing their inbox after disconnecting its access . Instinct is an amazing product. I've been using Instinct every day for the last week now.",
         "source": "TechCrunch",
-        "date": "2026-08-22T16:30:34+00:00"
+        "date": "2026-08-24T18:03:55+00:00"
       },
       {
-        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-        "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-        "summary": "OpenAI came out on top; Anthropic and Meta scored lowest. The company did not respond to TechCrunch’s question of whether Google has an internal containment response plan that has not been publicly disclosed. An OpenAI spokesperson mirrored similar sentiments, saying Guidelight’s assessment doesn’t capture all of the company’s internal practices.",
+        "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+        "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+        "summary": "Existing investors including Khosla Ventures and General Catalyst are also participating in the round. The fresh funds would come just weeks after General Intuition raised $320 million at a $2.3 billion valuation . Valor Equity Partners is known for backing SpaceX.",
         "source": "TechCrunch",
-        "date": "2026-08-22T16:00:00+00:00"
+        "date": "2026-08-24T15:24:18+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
-        "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
-        "summary": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release . Rockstar Games has finally given Grand Theft Auto VI a price ahead of the game’s November 19th launch. Rockstar Games is delaying the highly anticipated release of Grand Theft Auto VI to May 26th, 2026.",
+        "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+        "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+        "summary": "﻿I installed Lenovo’s forbidden BIOS and my Legion Go lived. You might be less lucky. ﻿I installed Lenovo’s forbidden BIOS and my Legion Go lived. Lenovo continues to evaluate and validate future BIOS updates for Legion Go.",
         "source": "The Verge",
-        "date": "2026-08-23T19:14:37+00:00"
+        "date": "2026-08-24T23:38:10+00:00"
       },
       {
-        "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
-        "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
-        "summary": "With Teenage Sex and Death at Camp Miasma out in theaters, now is the perfect time to revisit Jane Schoenbrun’s first film. Jane Schoenbrun ’s latest film, Teenage Sex and Death at Camp Miasma , is making a splash in theaters right now. Ultimately, World’s Fair is a coming-of-age story about a lonely young girl.",
+        "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+        "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+        "summary": "Starting later this year, new Sign in with Apple addresses, previously issued on privaterelay.appleid.com , will be issued on private.icloud.com . Existing addresses on privaterelay.appleid.com will continue to work and forward mail to users without interruption. After further consideration and reviewing community feedback, iCloud+ Hide My Email addresses will remain on icloud.com . (409 points, 107 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-24T22:13:40+00:00"
+      },
+      {
+        "title": "The cat-and-mouse game over 3D-printed guns has begun",
+        "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+        "summary": "The ‘Hochulization’ tool purports to subvert proposed gun-blocking 3D printer software. The ‘Hochulization’ tool purports to subvert proposed gun-blocking 3D printer software. But 3D-printed gun technology has also come a long way since Wilson first printed his single-shot “Liberator” in 2013 .",
         "source": "The Verge",
-        "date": "2026-08-23T15:00:00+00:00"
+        "date": "2026-08-24T19:50:00+00:00"
       },
       {
-        "title": "Grand Theft Auto VI exists in its own universe",
-        "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
-        "summary": "For more on GTA VI and the state of the video game industry, follow Andrew Webster . Four years ago, fans got a long-awaited look at Grand Theft Auto VI with a huge cache of videos that showed off Rockstar’s latest open-world epic. That game, Red Dead Redemption 2 , went on to sell nearly 90 million copies, giving Rockstar another blockbuster to fill the gap between GTA s.",
+        "title": "Oceans hit highest temperature on record",
+        "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+        "summary": "Warmer oceans can have wide-reaching consequences, including supercharging extreme weather, raising sea levels and harming marine life. This could see ocean temperatures climb yet further. \"The latest Copernicus data reinforce the troubling upward trend in ocean temperatures,” said Smyth. (512 points, 415 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-24T19:19:08+00:00"
+      },
+      {
+        "title": "Where did all the public bathrooms go?",
+        "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+        "summary": "Nineteenth-century Paris tackled public urination with ornate pissoirs . But, in 1850, public urination was actually banned. Baldwin documents in “ Public Privacy: Restrooms in American Cities, 1869–1932, ” temperance advocates made fighting for public bathrooms one of their priorities. (222 points, 507 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-24T17:07:01+00:00"
+      },
+      {
+        "title": "The entire city of San Francisco as a video game",
+        "url": "https://sf.thijs.gg/",
+        "summary": "438 points, 139 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-08-24T17:05:38+00:00"
+      },
+      {
+        "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
+        "url": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
+        "summary": "﻿They had allegedly conspired to reduce competition in rental listings, leaving fewer options and higher prices. ﻿They had allegedly conspired to reduce competition in rental listings, leaving fewer options and higher prices. The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 “partnership” between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay…",
         "source": "The Verge",
-        "date": "2026-08-23T12:00:00+00:00"
+        "date": "2026-08-24T17:01:05+00:00"
       },
       {
-        "title": "To become a better writer, read as much as you can",
-        "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-        "summary": "Read widely and well . Then shut up and read . I read 52 books a year. (316 points, 208 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-23T03:32:25+00:00"
-      },
-      {
-        "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-        "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-        "summary": "The macOS command-line tool hdiutil is used to manipulate disk images. From the WHAT'S NEW section of man hdiutil on the latest macOS 27 Golden Gate beta: There’s also a DEPRECATION NOTICE at the top of the man page that lists the diskutil replacements for hdiutil subcommands. Unlike hdiutil , diskutil does not trigger an authentication prompt. (185 points, 83 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-22T19:04:41+00:00"
-      },
-      {
-        "title": "Why your local LLM feels dumber than it is",
-        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-        "summary": "Low level cuda kernel and NCCL path differences, driver differences, vllm container runtimes, different GPUs, different combinations of multiple GPUs, attention runtimes, different caching, different model quantizations, and in fact… even different models. 4bit x 4bit dot products fit within int16. Top-1 and KL describe different things. (417 points, 171 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-22T18:14:16+00:00"
-      },
-      {
-        "title": "Thinking in Python",
-        "url": "https://thinkinginpython.com/",
-        "summary": "251 points, 50 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-08-22T18:10:49+00:00"
-      },
-      {
-        "title": "Scrap (2006)",
-        "url": "https://twitter.com/moxie/status/2091218652133732491",
-        "summary": "386 points, 212 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-08-22T18:08:56+00:00"
-      },
-      {
-        "title": "Doodle generative compositions in your browser with Musical Spirograph",
-        "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
-        "summary": "It’s soothing, hypnotic, and fun to play with. It’s soothing, hypnotic, and fun to play with. Then there are six different scale options, or you can completely customize the notes, and there are six different synth presets.",
+        "title": "Robotaxis are real now — so is the pushback",
+        "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+        "summary": "Robotaxis are expanding. Even in states that have broadly welcomed autonomous vehicles, governments are grappling with how to oversee them Taxi drivers, labor unions, and safety advocates have fought autonomous vehicles for years. Kintz acknowledged that autonomous vehicles could eventually displace drivers and said Waymo was “eyes open” about that possibility.",
         "source": "The Verge",
-        "date": "2026-08-22T17:00:00+00:00"
+        "date": "2026-08-24T16:42:37+00:00"
       },
       {
-        "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-        "url": "https://twitter.com/argofowl/status/2091150597374537729",
-        "summary": "196 points, 175 comments on Hacker News",
+        "title": "Coding expertise is going to collapse from AI reliance",
+        "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+        "summary": "Coding/programming/software is a unique intersection of logic, math, problem-solving, critical thinking, planning, communication, and creativity. I don't think that's true. LLMs are a static database of skills. (509 points, 499 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-22T16:58:49+00:00"
+        "date": "2026-08-24T15:52:33+00:00"
       },
       {
-        "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
-        "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
-        "summary": "The comedian, activist, podcast host, author, and dad won’t leave his phone behind. The comedian, activist, podcast host, author, and dad won’t leave his phone behind. I need somebody constantly telling me something about something.",
+        "title": "The Witcher 4 developers target a 2028 release",
+        "url": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
+        "summary": "CD Projekt Red’s big Witcher sequel is still a couple years away. CD Projekt Red’s big Witcher sequel is still a couple years away. There’s more new Witcher to come before The Witcher 4 , though.",
         "source": "The Verge",
-        "date": "2026-08-22T15:00:00+00:00"
+        "date": "2026-08-24T15:48:53+00:00"
       },
       {
-        "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-        "url": "https://quantumi.sh/public/labs.html",
-        "summary": "Why call your AI startup \"68labs\"? Why call your AI startup \"68labs\"? Why call your AI startup \"68labs\"? (438 points, 132 comments on Hacker News)",
+        "title": "IPFS Maintainers Winding Down",
+        "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+        "summary": "As a direct result, Shipyard will be winding down its IPFS-related engineering, maintenance, and infrastructure operations. Our final day of our IPFS related work will be September 30, 2026. Update from Shipyard on our efforts to make IPFS work on the Web. (342 points, 172 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-22T14:54:07+00:00"
+        "date": "2026-08-24T15:48:45+00:00"
+      },
+      {
+        "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+        "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+        "summary": "I then saved a real image directly from Paint’s Image Creator and inspected its PNG chunks. Paint actually has two rather different generation paths. The .paint format is controlled by Microsoft and can preserve whatever provenance state Paint requires. (677 points, 272 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-24T15:28:04+00:00"
       }
     ]
   }
