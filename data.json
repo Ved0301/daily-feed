@@ -1,93 +1,128 @@
 {
-  "generated_at": "2026-08-25T07:43:15.015634+00:00",
+  "generated_at": "2026-08-26T07:45:56.869886+00:00",
   "sections": {
     "research": [
       {
-        "title": "How to Train a Critic Stably and Efficiently",
-        "url": "https://arxiv.org/abs/2608.23566v1",
-        "summary": "Penghui Qi, Xiangxin Zhou, Wee Sun Lee — Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages…",
+        "title": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation",
+        "url": "https://arxiv.org/abs/2608.24881v1",
+        "summary": "Hao Chen — Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported scalar gap alone is…",
         "source": "arXiv",
-        "date": "2026-08-24T17:59:39Z"
+        "date": "2026-08-25T17:58:46Z"
       },
       {
-        "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
-        "url": "https://arxiv.org/abs/2608.23565v1",
-        "summary": "Zhifei Chen, Luozhou Wang, Guibao Shen et al. — An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounded one.",
+        "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+        "url": "https://arxiv.org/abs/2608.24876v1",
+        "summary": "Zhaochen Yu, Yingcheng Wu, Zhenfei Yin et al. — Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Working Memory…",
         "source": "arXiv",
-        "date": "2026-08-24T17:59:05Z"
+        "date": "2026-08-25T17:56:35Z"
       },
       {
-        "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
-        "url": "https://arxiv.org/abs/2608.23564v1",
-        "summary": "Deyao Hong, Yizhe Chi, Wenyi Li et al. — Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they autonomously…",
+        "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
+        "url": "https://arxiv.org/abs/2608.24870v1",
+        "summary": "Kai Ruan, Jinghao Lin, Qianshan Wei et al. — Group-relative reinforcement learning waits for sibling rollouts of the same prompt, which is costly for long and variable tool-use trajectories. Single-stream Policy Optimization (SPO) removes this dependency with a…",
         "source": "arXiv",
-        "date": "2026-08-24T17:59:04Z"
+        "date": "2026-08-25T17:52:19Z"
       },
       {
-        "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
-        "url": "https://arxiv.org/abs/2608.23563v1",
-        "summary": "Md Thamed Bin Zaman Chowdhury, Moazzem Hossain — Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and the high cost of…",
+        "title": "Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes",
+        "url": "https://arxiv.org/abs/2608.24865v1",
+        "summary": "Aritra Das, Vincent Froese, Moritz Grillo et al. — Lipschitz constants are a standard way to quantify the sensitivity of neural networks to small input perturbations, but computing them is difficult even for shallow ReLU networks. We study this problem for two-layer…",
         "source": "arXiv",
-        "date": "2026-08-24T17:58:41Z"
+        "date": "2026-08-25T17:47:37Z"
       },
       {
-        "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
-        "url": "https://arxiv.org/abs/2608.23562v1",
-        "summary": "Yuanyuan Zhang, Yida Zhang, Jiahui Li et al. — Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed interaction with shifted…",
+        "title": "Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement",
+        "url": "https://arxiv.org/abs/2608.24859v1",
+        "summary": "Arthur Corrêa, Paulo Nascimento, Samuel Moniz — Multi-task vehicle routing problem (VRP) solvers seek to handle multiple VRP variants within a single unified model, avoiding the need to train a separate model for every variant. In spite of recent progress, current…",
         "source": "arXiv",
-        "date": "2026-08-24T17:58:35Z"
+        "date": "2026-08-25T17:44:23Z"
       },
       {
-        "title": "Provably adaptive sampling with uniform and remasking discrete diffusion models",
-        "url": "https://arxiv.org/abs/2608.23554v1",
-        "summary": "Daniil Dmitriev, Zhihan Huang, Yuting Wei — Discrete diffusion models offer a promising alternative to autoregressive generation by enabling parallel updates, but their sampling efficiency can depend strongly on the choice of the forward process and the sampler.…",
+        "title": "Bellman Calibration for Marginalized Importance Weighting in Offline Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2608.24858v1",
+        "summary": "Lars van der Laan, Nathan Kallus — Marginalized importance weighting evaluates a target policy by reweighting offline state-action samples with its discounted occupancy ratio, characterized by an adjoint Bellman equation. Existing minimax, primal-dual,…",
         "source": "arXiv",
-        "date": "2026-08-24T17:54:51Z"
+        "date": "2026-08-25T17:44:02Z"
       },
       {
-        "title": "Prime Agent: A Self-Improving RLM Harness",
-        "url": "https://arxiv.org/abs/2608.23552v1",
-        "summary": "Seth Karten, Alex L. Zhang, Kevin Thomas et al. — Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long-horizon evaluation…",
+        "title": "BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes",
+        "url": "https://arxiv.org/abs/2608.24848v1",
+        "summary": "Fei Tang, Huawen Shen, Zhiqiong Lu et al. — Web agents that act from rendered pixels avoid the fragility and heavy token cost of reading a page's HTML or accessibility tree, but training them depends on large amounts of high-quality interaction trajectories, and…",
         "source": "arXiv",
-        "date": "2026-08-24T17:54:19Z"
+        "date": "2026-08-25T17:35:42Z"
       },
       {
-        "title": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
-        "url": "https://arxiv.org/abs/2608.23551v1",
-        "summary": "Na Li, Yuchen Jiao, Changxiao Cai et al. — Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders supervised with cross…",
+        "title": "FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs",
+        "url": "https://arxiv.org/abs/2608.24846v1",
+        "summary": "Md Saikat Islam Khan Bappy, Oshani Seneviratne — Real-world data for knowledge graph question answering is often distributed across different organizations due to governance and data sovereignty constraints. While centralized systems exist, they cannot answer…",
         "source": "arXiv",
-        "date": "2026-08-24T17:54:14Z"
+        "date": "2026-08-25T17:34:27Z"
       },
       {
-        "title": "Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination",
-        "url": "https://arxiv.org/abs/2608.23547v1",
-        "summary": "Mustafa Umut Ozbek, Taiwo Ojo, Pooria Madani et al. — Machine-learning-based anomaly detection is increasingly used in industrial control systems (ICS), yet most studies assume that detector training data is trustworthy. In practice, training data may be corrupted through…",
+        "title": "LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training",
+        "url": "https://arxiv.org/abs/2608.24845v1",
+        "summary": "Andreas Hochlehnert, Marianna Nezhurina, Mehdi Cherti et al. — We present LAION-BVD, a large-scale open video dataset for multimodal learning, which contains 1.3B platform-specific video URLs collected from CommonCrawl. From these, we download 80M videos with a total duration of 10…",
         "source": "arXiv",
-        "date": "2026-08-24T17:49:36Z"
+        "date": "2026-08-25T17:34:19Z"
       },
       {
-        "title": "Inertial Manifold Neural Operator for Dissipative Time-Dependent Partial Differential Equations",
-        "url": "https://arxiv.org/abs/2608.23546v1",
-        "summary": "Xiaoyang Xie, Clarence W. Rowley — In this paper, we introduce the Inertial Manifold Neural Operator (IMNO) for solving dissipative time-dependent partial differential equations (PDEs). The long-time dynamics of such systems often exhibit an effective…",
+        "title": "Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows",
+        "url": "https://arxiv.org/abs/2608.24842v1",
+        "summary": "Miao Liu, Zhizhe Liu — Large language models (LLMs) are increasingly deployed as AI analysts to process financial disclosures and support AI-assisted investment decisions. Yet such systems are usually evaluated by what they can retrieve, not…",
         "source": "arXiv",
-        "date": "2026-08-24T17:49:30Z"
+        "date": "2026-08-25T17:31:25Z"
       },
       {
-        "title": "How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles",
-        "url": "https://arxiv.org/abs/2608.23543v1",
-        "summary": "Shang Wu, Catarina G Belem, Shuyuan Fu et al. — While AI assistance can improve human task performance in the short term, it may also undermine the development of skills in the longer term. We examine this tension in a controlled logic-puzzle experiment involving…",
+        "title": "A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments",
+        "url": "https://arxiv.org/abs/2608.24825v1",
+        "summary": "Jing Huang, Jihong Zhang, Hua-Hua Chang — The rapid expansion of large-scale assessments and the growing adoption of automatic item generation have intensified concerns about incidental content redundancy, where construct-irrelevant elements such as wording or…",
         "source": "arXiv",
-        "date": "2026-08-24T17:46:11Z"
+        "date": "2026-08-25T17:07:16Z"
       },
       {
-        "title": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams",
-        "url": "https://arxiv.org/abs/2608.23541v1",
-        "summary": "Summer Eunhyung Ann, Haokun Liu, Chenhao Tan — Does multi-agent LLM interaction help or hurt? Some work reports gains from debate (Du et al., 2024), critique loops (Chen et al., 2025), and mixture-of-agents synthesis (Wang et al., 2025), while other work finds that…",
+        "title": "Constrained Entity Selection under Partial Knowledge for LLM-Based Knowledge Graph QA",
+        "url": "https://arxiv.org/abs/2608.24824v1",
+        "summary": "Emanuel Kitzelmann — Large language models are increasingly used for knowledge graph question answering (KGQA), but can fail to correctly ground answers in the underlying graph. Current approaches to LLM-based KGQA either rely on full…",
         "source": "arXiv",
-        "date": "2026-08-24T17:45:15Z"
+        "date": "2026-08-25T17:04:32Z"
       }
     ],
     "labs": [
+      {
+        "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
+        "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
+        "summary": "AgentHands demo: Empowering AI agents with expressive, synchronized hand gestures for spatially grounded conversations in XR. AgentHands uses spatial gestures to point out aerial roots in an orchid-care task. AgentHands enacts subtle interactive gestures to support healthy daily habits.",
+        "source": "Google Research",
+        "date": "2026-08-25T19:10:59+00:00"
+      },
+      {
+        "title": "The full stack behind abundant intelligence",
+        "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+        "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+        "source": "OpenAI",
+        "date": "2026-08-25T07:05:00+00:00"
+      },
+      {
+        "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+        "url": "https://openai.com/index/jalapeno-first-results",
+        "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+        "source": "OpenAI",
+        "date": "2026-08-25T07:00:00+00:00"
+      },
+      {
+        "title": "Disrupting a new covert influence campaign from Russia",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+        "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+        "source": "OpenAI",
+        "date": "2026-08-25T00:00:00+00:00"
+      },
+      {
+        "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+        "url": "https://openai.com/index/introducing-admin-plugin",
+        "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+        "source": "OpenAI",
+        "date": "2026-08-25T00:00:00+00:00"
+      },
       {
         "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
         "url": "https://openai.com/index/gpt-5-6-in-kiro",
@@ -136,213 +171,178 @@
         "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
         "source": "OpenAI",
         "date": "2026-08-19T19:00:00+00:00"
-      },
-      {
-        "title": "Replit expands access to software creation with GPT-5.6 Luna",
-        "url": "https://openai.com/index/replit",
-        "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-        "source": "OpenAI",
-        "date": "2026-08-19T07:00:00+00:00"
-      },
-      {
-        "title": "ChatGPT Ads expands across Europe",
-        "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-        "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-        "source": "OpenAI",
-        "date": "2026-08-18T22:00:00+00:00"
-      },
-      {
-        "title": "Strengthening democratic oversight in national security",
-        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-        "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-        "source": "OpenAI",
-        "date": "2026-08-18T19:00:00+00:00"
-      },
-      {
-        "title": "Partnering with CodeAI to prepare the first AI generation",
-        "url": "https://openai.com/index/partnering-with-codeai",
-        "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-        "source": "OpenAI",
-        "date": "2026-08-18T11:00:00+00:00"
-      },
-      {
-        "title": "Pacing model development in an era of cyber-critical capabilities",
-        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-        "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-        "source": "OpenAI",
-        "date": "2026-08-18T11:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
-        "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
-        "summary": "Airbound’s current drone, called TRT, weighs about 3.3 pounds and can carry around 2.2 pounds of payload. Pushp said Airbound intends to retain vertical takeoff and landing even as it develops larger aircraft to avoid dependence on runways. Founded in 2023, Airbound has completed more than 13,000 autonomous flights across the southern Indian cities of Bengaluru and Guntur, Pushp said.",
+        "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
+        "url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
+        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Back by popular demand: Save up to $300 on Disrupt Ventures Platform has raised an oversubscribed $83 million second fund as the Pan-African venture firm expands beyond its home market of Nigeria with a strategy shaped by a tougher, more selective venture market. Now, Ventures Platform is back with a larger fund and wider geographic mandate. Dominic-Madori Davis…",
         "source": "TechCrunch",
-        "date": "2026-08-25T03:30:00+00:00"
+        "date": "2026-08-26T07:00:00+00:00"
       },
       {
-        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-        "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Back by popular demand: Save up to $300 on Disrupt Situational Awareness, the AI focused hedge fund that was Wall Street’s fleeting obsession, is having a very bad month. Now, federal regulators are reportedly probing the company as well. The government reportedly warned the banks to “preserve any information” about the hedge fund, though it noted that Situational…",
+        "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+        "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+        "summary": "Since voice is still consumers’ preferred way to communicate, that leaves a big opportunity to automate support and outreach calls using voice AI in the country. Voice calls still make up over 70% of Ringg’s business, but the startup has started branching into other channels, including chat and WhatsApp. Voice AI in India is a crowded field.",
         "source": "TechCrunch",
-        "date": "2026-08-25T00:23:12+00:00"
+        "date": "2026-08-26T03:30:00+00:00"
       },
       {
-        "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-        "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-        "summary": "Oura announced in May that it had filed confidentially for an IPO. Not all of Oura’s recent attention has been positive. A proposed class action lawsuit filed last week in San Francisco is accusing Oura of misleading consumers about the accuracy of its sleep tracking features.",
+        "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+        "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+        "summary": "The fresh capital totals nearly $200 million according to a regulatory filing. Generalist is developing an AI foundation model that can work with various robots. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-08-24T23:05:44+00:00"
+        "date": "2026-08-26T00:40:59+00:00"
       },
       {
-        "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-        "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Back by popular demand: Save up to $300 on Disrupt President Donald Trump bought as much as $50,000 worth of SpaceX shares on June 23, according to a financial disclosure first reported by Reuters , two weeks after the record-setting IPO of Elon Musk’s company. SpaceX shares were trading in the mid-$150 range on June 23. At the end of trading on Monday, shares…",
+        "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+        "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+        "summary": "Chris Malone, OpenAI’s former head of data centers, left the company last week, the Wall Street Journal has reported . Several other executives are said to be currently overseeing OpenAI’s data center strategy, including Uday Ruddarraju, who leads the company’s data center team; Brent Mayo, who leads the data center build and delivery program; and Spas Lazarov, a veteran of the data center and energy industries, who…",
         "source": "TechCrunch",
-        "date": "2026-08-24T21:24:17+00:00"
+        "date": "2026-08-26T00:06:20+00:00"
       },
       {
-        "title": "Zillow and Redfin settle FTC antitrust case",
-        "url": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
-        "summary": "The case stems from a deal announced last year in which Redfin agreed to display Zillow’s rental listings on its websites rather than compete directly with Zillow for rental advertisers. Redfin owns Rent.com and ApartmentGuide.com, two major rental-listing platforms. Under the proposed settlement, Redfin will be required to reenter the rental advertising business.",
+        "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+        "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+        "summary": "In 2024, Nitter’s flagship instance, Nitter.net, went dark temporarily after X rolled out new API restrictions. Despite the restrictions, development picked back up and Nitter instances came back online. Nitter’s website states that the Nitter.net project is offline while its creator seeks legal advice after receiving a cease-and-desist letter.",
         "source": "TechCrunch",
-        "date": "2026-08-24T20:45:33+00:00"
+        "date": "2026-08-25T20:44:12+00:00"
       },
       {
-        "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
-        "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Back by popular demand: Save up to $300 on Disrupt You don’t need a keynote session to make noise at TechCrunch Disrupt 2026 . That’s exactly what our Exhibit Program offers . Book your exhibit table now .",
+        "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
+        "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+        "summary": "The company announced Tuesday in a Threads post that it’s rolling out “First Draft,” a new editing feature that automatically trims selected video clips and removes pauses, pulling together the best moments into an initial cut. Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who…",
         "source": "TechCrunch",
-        "date": "2026-08-24T20:16:34+00:00"
+        "date": "2026-08-25T19:22:52+00:00"
       },
       {
-        "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-        "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Back by popular demand: Save up to $300 on Disrupt Alabama’s attorney general announced Monday that it sent a subpoena to OpenAI as part of an investigation into the company’s alleged “complete lack of oversight and adequate safeguards” in the Hugging Face incident. The investigation comes weeks after OpenAI admitted that one of its unreleased and guardrail-free…",
+        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+        "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Back by popular demand: Save up to $300 on Disrupt Stability AI, the startup behind AI image generation model Stable Diffusion, has raised $76 million in Series B funding. The new haul brings the company’s fundraising total to $232 million. The company announced the round Tuesday, saying the new capital comes partly from a number of prominent entertainment…",
         "source": "TechCrunch",
-        "date": "2026-08-24T19:58:17+00:00"
+        "date": "2026-08-25T19:03:47+00:00"
       },
       {
-        "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
-        "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
-        "summary": "The price explosion impacted Fire TVs, Echos, Kindles, and Eeros. When reached for comment by TechCrunch, Amazon shared the following: “The consumer electronics industry is facing significant increases in memory and storage component costs. Amazon’s price hikes reinforce the reality that it’s a terrible time to buy hardware.",
+        "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
+        "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+        "summary": "SpaceX claims the first Starship launch will take place in 2029. That isn’t stopping SpaceX from betting almost everything on Starship. It is run by a local government filled with SpaceX employees (or family members of SpaceX employees).",
         "source": "TechCrunch",
-        "date": "2026-08-24T19:54:50+00:00"
+        "date": "2026-08-25T18:26:55+00:00"
       },
       {
-        "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Back by popular demand: Save up to $300 on Disrupt The AI boom has made it possible for a significantly wider range of people to dip into development, create code, and launch software for the first time. They assigned the company a $9 billion valuation earlier this year, a mere six months after the company was assigned a $3 billion valuation. Everything founders…",
+        "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
+        "url": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
+        "summary": "Learn to build a production-ready GraphRAG pipeline that turns chaotic data into actionable insights. Merve Kitapci: Managing Partner and CGO, ADIN.AI Most founders chase product-market fit before landing enterprise clients. Attendees will leave with practical strategies for scaling sustainably.",
         "source": "TechCrunch",
-        "date": "2026-08-24T19:54:19+00:00"
+        "date": "2026-08-25T18:22:50+00:00"
       },
       {
-        "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
-        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Back by popular demand: Save up to $300 on Disrupt We’re getting close to TechCrunch Disrupt 2026 ! With our Disrupt Side Events program, you can bring people together anytime from October 10-16 for a custom event that gets promoted to Disrupt’s attendees. Everything from industry roundtables and VC office hours to deep-dive workshops to intimate dinners and…",
+        "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
+        "url": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
+        "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Back by popular demand: Save up to $300 on Disrupt We heard the feedback, and we’ve extended the window for the lowest prices for TechCrunch Disrupt 2026 a bit further, with the current prices now ending at 11:59 pm PT Tuesday, August 25. Each year, TechCrunch Disrupt brings together more than 10,000 founders, investors, and startup community members, driving…",
         "source": "TechCrunch",
-        "date": "2026-08-24T19:44:13+00:00"
+        "date": "2026-08-25T18:01:30+00:00"
       },
       {
-        "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-        "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-        "summary": "Thanks @clairevo for spotting this. pic.twitter.com/J2qhYVqwxN Another person, Claire Vo, found that Instinct was still summarizing their inbox after disconnecting its access . Instinct is an amazing product. I've been using Instinct every day for the last week now.",
+        "title": "Claude Cowork finally remembers what you told the app in chat",
+        "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+        "summary": "On Tuesday, Anthropic announced it’s merging the memory system used by chat and Claude Cowork, which means that Claude will always remember what it learned in one area, even when you’re engaging with it in another. Anthropic is also exposing what Claude has retained in its memory, allowing users to read, edit, or delete information on any topic. The app will also notify users whenever a sensitive topic is saved in…",
         "source": "TechCrunch",
-        "date": "2026-08-24T18:03:55+00:00"
+        "date": "2026-08-25T17:50:33+00:00"
       },
       {
-        "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-        "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-        "summary": "Existing investors including Khosla Ventures and General Catalyst are also participating in the round. The fresh funds would come just weeks after General Intuition raised $320 million at a $2.3 billion valuation . Valor Equity Partners is known for backing SpaceX.",
+        "title": "Waymo robotaxis are headed to Munich",
+        "url": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
+        "summary": "This legal framework has made Germany a hotspot for autonomous vehicle testing. Waymo does not currently have any permits. However, the vast majority, including U.K. self-driving startup Wayve, and Israel-based Autobrains, hold Level 3 permits.",
         "source": "TechCrunch",
-        "date": "2026-08-24T15:24:18+00:00"
+        "date": "2026-08-25T17:32:03+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
-        "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
-        "summary": "﻿I installed Lenovo’s forbidden BIOS and my Legion Go lived. You might be less lucky. ﻿I installed Lenovo’s forbidden BIOS and my Legion Go lived. Lenovo continues to evaluate and validate future BIOS updates for Legion Go.",
+        "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
+        "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
+        "summary": "The Fenix 9 and 9 Pro come equipped with an OLED display with up to 3,000 nits of brightness. The Fenix 9 and 9 Pro come equipped with an OLED display with up to 3,000 nits of brightness. The largest Fenix 9 Pro variation also offers a 1.5-inch OLED display for the first time.",
         "source": "The Verge",
-        "date": "2026-08-24T23:38:10+00:00"
+        "date": "2026-08-25T22:20:17+00:00"
       },
       {
-        "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-        "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-        "summary": "Starting later this year, new Sign in with Apple addresses, previously issued on privaterelay.appleid.com , will be issued on private.icloud.com . Existing addresses on privaterelay.appleid.com will continue to work and forward mail to users without interruption. After further consideration and reviewing community feedback, iCloud+ Hide My Email addresses will remain on icloud.com . (409 points, 107 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-24T22:13:40+00:00"
-      },
-      {
-        "title": "The cat-and-mouse game over 3D-printed guns has begun",
-        "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
-        "summary": "The ‘Hochulization’ tool purports to subvert proposed gun-blocking 3D printer software. The ‘Hochulization’ tool purports to subvert proposed gun-blocking 3D printer software. But 3D-printed gun technology has also come a long way since Wilson first printed his single-shot “Liberator” in 2013 .",
+        "title": "Trump is upping the price of Big Tech’s favorite visa",
+        "url": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
+        "summary": "Give Trump a $130,000 check. Give Trump a $130,000 check. Foreign workers aren’t the only legal immigrants Trump is targeting.",
         "source": "The Verge",
-        "date": "2026-08-24T19:50:00+00:00"
+        "date": "2026-08-25T21:45:00+00:00"
       },
       {
-        "title": "Oceans hit highest temperature on record",
-        "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-        "summary": "Warmer oceans can have wide-reaching consequences, including supercharging extreme weather, raising sea levels and harming marine life. This could see ocean temperatures climb yet further. \"The latest Copernicus data reinforce the troubling upward trend in ocean temperatures,” said Smyth. (512 points, 415 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-24T19:19:08+00:00"
-      },
-      {
-        "title": "Where did all the public bathrooms go?",
-        "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-        "summary": "Nineteenth-century Paris tackled public urination with ornate pissoirs . But, in 1850, public urination was actually banned. Baldwin documents in “ Public Privacy: Restrooms in American Cities, 1869–1932, ” temperance advocates made fighting for public bathrooms one of their priorities. (222 points, 507 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-24T17:07:01+00:00"
-      },
-      {
-        "title": "The entire city of San Francisco as a video game",
-        "url": "https://sf.thijs.gg/",
-        "summary": "438 points, 139 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-08-24T17:05:38+00:00"
-      },
-      {
-        "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
-        "url": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
-        "summary": "﻿They had allegedly conspired to reduce competition in rental listings, leaving fewer options and higher prices. ﻿They had allegedly conspired to reduce competition in rental listings, leaving fewer options and higher prices. The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 “partnership” between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay…",
+        "title": "At just $8, you owe it to yourself to grab Inscryption",
+        "url": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
+        "summary": "If the Pony Island 2 trailer sparked your curiosity, one of Mullins’ earlier mind-bending games is discounted. If the Pony Island 2 trailer sparked your curiosity, one of Mullins’ earlier mind-bending games is discounted. If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus , a game from Daniel Mullins.",
         "source": "The Verge",
-        "date": "2026-08-24T17:01:05+00:00"
+        "date": "2026-08-25T20:38:37+00:00"
       },
       {
-        "title": "Robotaxis are real now — so is the pushback",
-        "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
-        "summary": "Robotaxis are expanding. Even in states that have broadly welcomed autonomous vehicles, governments are grappling with how to oversee them Taxi drivers, labor unions, and safety advocates have fought autonomous vehicles for years. Kintz acknowledged that autonomous vehicles could eventually displace drivers and said Waymo was “eyes open” about that possibility.",
+        "title": "The Witcher 3 is getting a remaster",
+        "url": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
+        "summary": "The Witcher 3: Wild Hunt — Remastered launches in September. The Witcher 3: Wild Hunt — Remastered launches in September. CDPR is set to launch a brand new Witcher 3 expansion, titled Songs of the Past , in 2027 , and it’s aiming to release its next mainline Witcher game, The Witcher 4 , in 2028 .",
         "source": "The Verge",
-        "date": "2026-08-24T16:42:37+00:00"
+        "date": "2026-08-25T20:24:24+00:00"
       },
       {
-        "title": "Coding expertise is going to collapse from AI reliance",
-        "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-        "summary": "Coding/programming/software is a unique intersection of logic, math, problem-solving, critical thinking, planning, communication, and creativity. I don't think that's true. LLMs are a static database of skills. (509 points, 499 comments on Hacker News)",
+        "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+        "summary": "Food and Drug Administration today authorized the Libre Duo 10 Day Continuous Dual Glucose Ketone Monitoring System for people aged 2 years and older living with diabetes. Early detection of rising ketone levels is critical. Prior to authorization, the FDA granted Breakthrough Device designation for the Libre Duo 10 Day Continuous Dual Glucose Ketone Monitoring System. (365 points, 183 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-24T15:52:33+00:00"
+        "date": "2026-08-25T19:07:01+00:00"
       },
       {
-        "title": "The Witcher 4 developers target a 2028 release",
-        "url": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
-        "summary": "CD Projekt Red’s big Witcher sequel is still a couple years away. CD Projekt Red’s big Witcher sequel is still a couple years away. There’s more new Witcher to come before The Witcher 4 , though.",
+        "title": "Dreame’s dream of a rocket-powered car is dead",
+        "url": "https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down",
+        "summary": "The vaporware car was obviously vaporware. The vaporware car was obviously vaporware. Apparently Dreame didn’t have any answers to these questions, as the car itself was fully vaporware.",
         "source": "The Verge",
-        "date": "2026-08-24T15:48:53+00:00"
+        "date": "2026-08-25T18:52:53+00:00"
       },
       {
-        "title": "IPFS Maintainers Winding Down",
-        "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-        "summary": "As a direct result, Shipyard will be winding down its IPFS-related engineering, maintenance, and infrastructure operations. Our final day of our IPFS related work will be September 30, 2026. Update from Shipyard on our efforts to make IPFS work on the Web. (342 points, 172 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-24T15:48:45+00:00"
+        "title": "Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories",
+        "url": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories",
+        "summary": "﻿Many of the devices feature the original green of Xbox’s special edition Halo console. ﻿Many of the devices feature the original green of Xbox’s special edition Halo console. There’s also a translucent green 8BitDo Ultimate charging dock for Xbox Series X/S and Xbox One controllers, along with a translucent green GameSir X5 Lite for Xbox mobile controller. Following a translucent green version released last year,…",
+        "source": "The Verge",
+        "date": "2026-08-25T18:16:29+00:00"
       },
       {
-        "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-        "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-        "summary": "I then saved a real image directly from Paint’s Image Creator and inspected its PNG chunks. Paint actually has two rather different generation paths. The .paint format is controlled by Microsoft and can preserve whatever provenance state Paint requires. (677 points, 272 comments on Hacker News)",
+        "title": "Dolly Parton has died",
+        "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+        "summary": "Songwriter of I Will Always Love You, Jolene and 9 to 5 invested millions in child literacy, Covid-19 vaccine development and other causes Alexis Petridis on Dolly Parton’s peerless career that turned country music cliches inside out Country music legend Dolly Parton dies aged 80 – latest updates Share your tributes and memories of Dolly Parton Dolly Parton, one of the greatest singer-songwriters in country music,… (1422 points, 216 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-24T15:28:04+00:00"
+        "date": "2026-08-25T18:02:22+00:00"
+      },
+      {
+        "title": "Firefox 157 will include JPEG XL by default on all platforms",
+        "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+        "summary": "The decoder is jxl-rs, in Rust. Chrome has it behind #enable-jxl-image-format using the same Rust library, no intent to ship yet. Safari has neither progressive rendering nor animation. (358 points, 91 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-25T17:55:23+00:00"
+      },
+      {
+        "title": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off",
+        "url": "https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale",
+        "summary": "We also found some limited time deals on storage for your Xbox, a smart front door lock, and refurbished Apple Watches. We also found some limited time deals on storage for your Xbox, a smart front door lock, and refurbished Apple Watches. The compact Bose SoundLink Micro — its most compact Bluetooth speaker — is currently discounted to $79.99 at Amazon , a pretty great discount from its usual $129 price tag.",
+        "source": "The Verge",
+        "date": "2026-08-25T17:39:20+00:00"
+      },
+      {
+        "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
+        "url": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
+        "summary": "The game is set to launch in 2027. The game releases on September 24th. An art-themed game, anyway.",
+        "source": "The Verge",
+        "date": "2026-08-25T17:20:00+00:00"
+      },
+      {
+        "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
+        "url": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
+        "summary": "The Reels-editing feature automatically cuts out pauses across your clips. The Reels-editing feature automatically cuts out pauses across your clips. But unlike Adobe’s feature, Instagram’s First Draft tool doesn’t use AI, according to Instagram spokesperson Nicole Rechtszaid.",
+        "source": "The Verge",
+        "date": "2026-08-25T17:12:31+00:00"
       }
     ]
   }
