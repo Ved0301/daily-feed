@@ -1,93 +1,100 @@
 {
-  "generated_at": "2026-08-27T18:07:09.202277+00:00",
+  "generated_at": "2026-08-28T19:17:17.502668+00:00",
   "sections": {
     "research": [
       {
-        "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
-        "url": "https://arxiv.org/abs/2608.26105v1",
-        "summary": "Junxiang Xu, Ruisi Wang, Fanyi Pu et al. — Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates for…",
+        "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
+        "url": "https://arxiv.org/abs/2608.27455v1",
+        "summary": "Yufan Wu, Yinghui He, Zhengyi Hu et al. — Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or external verification.",
         "source": "arXiv",
-        "date": "2026-08-26T17:59:51Z"
+        "date": "2026-08-27T17:59:30Z"
       },
       {
-        "title": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
-        "url": "https://arxiv.org/abs/2608.26095v1",
-        "summary": "Kaichen Li, Zhilin Zhu, Jianhao Huang et al. — In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised post-training…",
+        "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+        "url": "https://arxiv.org/abs/2608.27454v1",
+        "summary": "Liyan Tang, Cyrus Rashtchian, Chun-Sung Ferng et al. — Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to…",
         "source": "arXiv",
-        "date": "2026-08-26T17:57:04Z"
+        "date": "2026-08-27T17:59:11Z"
       },
       {
-        "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
-        "url": "https://arxiv.org/abs/2608.26094v1",
-        "summary": "Hao Yin, Paritosh Parmar, Lijun Gu et al. — Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic…",
+        "title": "SWE-Prime: Fewer Trajectories, Better Performance",
+        "url": "https://arxiv.org/abs/2608.27449v1",
+        "summary": "Dewu Zheng, Ruizhe Ye, Yanlin Wang et al. — To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful…",
         "source": "arXiv",
-        "date": "2026-08-26T17:56:33Z"
+        "date": "2026-08-27T17:58:10Z"
       },
       {
-        "title": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
-        "url": "https://arxiv.org/abs/2608.26093v1",
-        "summary": "Ahmad Khan, Akram Bin Sediq, Sara Azadegi Naeini et al. — Designing machine learning algorithms for wireless resource management is labour-intensive: the architecture, the loss function and the training recipe are all specified by hand. We demonstrate that this design layer…",
+        "title": "TTPO: Test-Time Policy Optimization",
+        "url": "https://arxiv.org/abs/2608.27448v1",
+        "summary": "Aozhe Wang, Zhengxi Lu, Jianze Wang et al. — Recent prominent post-training methods, such as Reinforcement Learning (RL) and On-Policy Self-Distillation (OPSD), have driven rapid progress in mathematical reasoning for large language models, yet their reliance on…",
         "source": "arXiv",
-        "date": "2026-08-26T17:56:00Z"
+        "date": "2026-08-27T17:58:10Z"
       },
       {
-        "title": "PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans",
-        "url": "https://arxiv.org/abs/2608.26091v1",
-        "summary": "Nabaraj Subedi, Shuvo Dip Datta, Ahmed Abdelaty et al. — Civil infrastructure compliance checking has long relied on engineers manually reading legacy 2D plans; however, OCR-based automation strips away the geometry and layout essential for interpreting these plans.",
+        "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
+        "url": "https://arxiv.org/abs/2608.27442v1",
+        "summary": "Dewu Zheng, Yanlin Wang, Xiwen Wang et al. — In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Although recent work…",
         "source": "arXiv",
-        "date": "2026-08-26T17:54:24Z"
+        "date": "2026-08-27T17:56:24Z"
       },
       {
-        "title": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
-        "url": "https://arxiv.org/abs/2608.26090v1",
-        "summary": "Raphaël Bonnet-Guerrini, Johann Ioannou-Nikolaides, Inar Timiryasov et al. — We present a first application of sparse-autoencoder-based mechanistic interpretability to particle physics. Studying a neutrino foundation model pretrained on IceCube data and fine-tuned for direction reconstruction,…",
+        "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
+        "url": "https://arxiv.org/abs/2608.27439v1",
+        "summary": "Junjie Zhang, Hui Liu, Kecheng Chen et al. — LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text generation alone.…",
         "source": "arXiv",
-        "date": "2026-08-26T17:53:00Z"
+        "date": "2026-08-27T17:55:33Z"
       },
       {
-        "title": "Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings",
-        "url": "https://arxiv.org/abs/2608.26088v1",
-        "summary": "Evelyn Ma, Rama Kumar Pasumarthi, Kishwar Shafin et al. — Addressing critical global challenges, from food security and disaster risk to disease outbreaks and socio-economic vulnerability, demands high-fidelity geospatial modeling. However, building predictive planetary models…",
+        "title": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
+        "url": "https://arxiv.org/abs/2608.27429v1",
+        "summary": "Nguyen Xuan-Vu, Octavian Susanu, Daniel Armstrong et al. — Chemical reactions are fundamentally transformations in electron space, yet most machine learning approaches model them either through \\textit{de novo} generation of product molecules or through heuristic graph edits…",
         "source": "arXiv",
-        "date": "2026-08-26T17:50:52Z"
+        "date": "2026-08-27T17:50:44Z"
       },
       {
-        "title": "TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development",
-        "url": "https://arxiv.org/abs/2608.26086v1",
-        "summary": "Jiarui Yan, Weiwei Sun, Sijie Li et al. — Large language models write correct code for isolated problems but remain far weaker at autonomous machine-learning development, where an agent must revise data pipelines, models, and validation over hours of feedback,…",
+        "title": "Stochastic Estimation of Transduced Language Models",
+        "url": "https://arxiv.org/abs/2608.27428v1",
+        "summary": "Vésteinn Snæbjarnarson, Samuel Kiegeland, Manuel de Prada Corral et al. — Transduced language models (TLMs) compose a pretrained \\emph{source} language model with a functional finite-state transducer to induce a language model over \\emph{target} strings. Computing the probability of a target…",
         "source": "arXiv",
-        "date": "2026-08-26T17:50:13Z"
+        "date": "2026-08-27T17:50:21Z"
       },
       {
-        "title": "ICON Decomposition: Multivariate Concept-Level Explanations of Deep Representations for Model Auditing",
-        "url": "https://arxiv.org/abs/2608.26083v1",
-        "summary": "Roshan Prakash Rane, Marco Simnacher, Manuel Pfeuffer et al. — Deep neural networks often exploit spurious associations in their training data, a failure known as shortcut learning. Concept-based explainability methods screen for shortcuts by testing whether concepts such as a…",
+        "title": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit",
+        "url": "https://arxiv.org/abs/2608.27427v1",
+        "summary": "Yisen Xi — Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A single trust domain…",
         "source": "arXiv",
-        "date": "2026-08-26T17:47:49Z"
+        "date": "2026-08-27T17:50:07Z"
       },
       {
-        "title": "SwarmWorld: Stigmergic technological evolution in societies of language-model agents",
-        "url": "https://arxiv.org/abs/2608.26081v1",
-        "summary": "Subhadeep Pal, Fiona Y. Wang, Markus J. Buehler — Collective intelligence can emerge when individuals coordinate through a shared environment, allowing local actions to accumulate into durable social organization. Language-model agents offer a new substrate for this…",
+        "title": "Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners",
+        "url": "https://arxiv.org/abs/2608.27424v1",
+        "summary": "Qianlong Lan, Vinothini Pandurangan, Anuj Kaul et al. — Static scanners are increasingly used to identify executable or otherwise unsafe content in machine- learning artifacts, yet conventional evaluation metrics characterize only cases where a scanner yields a usable…",
         "source": "arXiv",
-        "date": "2026-08-26T17:45:34Z"
+        "date": "2026-08-27T17:49:28Z"
       },
       {
-        "title": "Gating Before Commitment: Anticipating Intent Divergence to Prevent Post-Interaction Decision Failures in Autonomous Driving",
-        "url": "https://arxiv.org/abs/2608.26074v1",
-        "summary": "Cong Xu, Ravi Sankar — Intent misinterpretation during vehicle interactions causes recurring planning failures. We study a decision layer in which a language-guided intent module reads structured descriptors, computes a smoothed…",
+        "title": "Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study",
+        "url": "https://arxiv.org/abs/2608.27421v1",
+        "summary": "Kevin Zhu, Ryan Zhang, Baraa Abed et al. — Currently used sepsis severity indices rely on fixed variables and weights established decades ago, which are coarsely discretized and calibrated to a cohort that no longer reflects contemporary critical care.",
         "source": "arXiv",
-        "date": "2026-08-26T17:42:03Z"
+        "date": "2026-08-27T17:46:21Z"
       },
       {
-        "title": "Prefix Sliding for efficient test-time scaling",
-        "url": "https://arxiv.org/abs/2608.26070v1",
-        "summary": "Niklas Muennighoff, Zhengyang Wang, Zeyi Chen et al. — Test-time scaling uses extra test-time compute to improve performance, such as letting language models reason longer when solving a problem. As models keep the entire reasoning trace in memory via full attention, hard…",
+        "title": "Boosting LLM Exploration via Weak-Model Guidance in RLVR",
+        "url": "https://arxiv.org/abs/2608.27420v1",
+        "summary": "Xingyu Shen, Huishuai Zhang, Peng Li et al. — Reinforcement Learning with Verifiable Rewards (RLVR) significantly improves LLM reasoning but often causes a drop in policy entropy, leading to narrowed reasoning coverage and degraded pass@$k$ for large $k$.",
         "source": "arXiv",
-        "date": "2026-08-26T17:37:15Z"
+        "date": "2026-08-27T17:45:50Z"
       }
     ],
     "labs": [
+      {
+        "title": "Supporting Thailand’s next generation of AI startups",
+        "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+        "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+        "source": "OpenAI",
+        "date": "2026-08-28T02:00:00+00:00"
+      },
       {
         "title": "Planetary prediction engine: Automating global models via Earth AI",
         "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
@@ -164,185 +171,178 @@
         "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
         "source": "OpenAI",
         "date": "2026-08-26T00:00:00+00:00"
-      },
-      {
-        "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
-        "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
-        "summary": "AgentHands demo: Empowering AI agents with expressive, synchronized hand gestures for spatially grounded conversations in XR. AgentHands uses spatial gestures to point out aerial roots in an orchid-care task. AgentHands enacts subtle interactive gestures to support healthy daily habits.",
-        "source": "Google Research",
-        "date": "2026-08-25T19:10:59+00:00"
       }
     ],
     "startups": [
       {
-        "title": "ATF declares ‘major incident’ as ransomware gang claims hack",
-        "url": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
-        "summary": "Bureau of Alcohol, Tobacco, Firearms and Explosives, or ATF, says a cyberattack on one of its systems has been declared a “major incident,” a formal, legally defined classification that prompts a formal notification to lawmakers in Congress. Agencies are required to disclose major incidents to Congress within a week of their discovery. The ATF joins several government agencies in recent years that have declared…",
+        "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
+        "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+        "summary": "Chrome alternative Brave just added a good reason to make the switch to its browser: email aliases. After the email is forwarded, Brave deletes it from its servers. For the time being, Brave users are being offered five free email aliases.",
         "source": "TechCrunch",
-        "date": "2026-08-27T17:54:23+00:00"
+        "date": "2026-08-28T18:50:00+00:00"
       },
       {
-        "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-        "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-        "summary": "Over a hundred tech companies — including OpenAI, Anthropic, Google, and Microsoft — have signed an open letter urging both the private and public sectors to work together to defend themselves from AI-related cyber threats. The letter — which was also signed by prominent cyber firms like Crowdstrike, Okta, and Fortinet, as well as prominent financial institutions and internet infrastructure firms — calls for the…",
+        "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+        "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+        "summary": "Everyone’s waiting for Nvidia to confirm this week’s most interesting tech deal: A reported $13 billion acquisition of Hugging Face, a platform for sharing open-weight AI models and benchmarks. If model builders are making chips, Nvidia wants a chunk of the model-making business. Nvidia already builds its own Nemotron family of open-weight models, but their uptake hasn’t been huge.",
         "source": "TechCrunch",
-        "date": "2026-08-27T17:43:24+00:00"
+        "date": "2026-08-28T18:19:40+00:00"
       },
       {
-        "title": "Google’s new Fitbit Air brings Pokémon Sleep to your wrist",
-        "url": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/",
-        "summary": "Google is giving Pokémon fans a new reason to wear a Fitbit. The company announced Thursday a special-edition Fitbit Air that works with Pokémon Sleep, combining Fitbit’s health and fitness tracking and the sleep-focused Pokémon game. Pokémon Sleep launched in 2023, turning something as ordinary as going to bed into a Pokémon game.",
+        "title": "How Sweden built one of Europe’s hottest startup ecosystems",
+        "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
+        "summary": "Last year, the ecosystem raised $3.2 billion. Other big emerging names from the ecosystem include Neko Health and autonomous freight company Einride. Dominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-08-27T17:05:45+00:00"
+        "date": "2026-08-28T17:09:05+00:00"
       },
       {
-        "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
-        "url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
-        "summary": "Fashion startup Atorie announced Thursday a $9.5 million seed round with investors, including a16z speedrun, Night Capital, and Lightspeed Ventures’ Jeremy Liew. “It’s coming from the same factories.” He doesn’t consider Atorie fast fashion either. Before Atorie, Ramdani built the creator platform Snipfeed, which was acquired in 2024.",
+        "title": "More Americans oppose police license plate cameras than support them: survey",
+        "url": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
+        "summary": "The growing backlash against surveillance companies like Flock may have reached a tipping point. A new survey has found that more Americans oppose these surveillance cameras than support them. Amid the intensifying backlash, Flock CEO Garrett Langley last week called for a “compromise” between surveillance and privacy, following a rise in vandalism targeting Flock cameras.",
         "source": "TechCrunch",
-        "date": "2026-08-27T17:00:00+00:00"
+        "date": "2026-08-28T15:57:58+00:00"
       },
       {
-        "title": "Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick",
-        "url": "https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/",
-        "summary": "The company’s AI platform analyzes that data to establish a baseline and then builds a health record. Along with those studies, Hoomanely plans to build more devices to gather data. Sharath said the long-term plan for Hoomanely is to eventually become an animal health data company by using the data gathered from its devices to support research and serve nutrition and insurance companies.",
+        "title": "Friend-focused photo-sharing app Retro snags $21M",
+        "url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
+        "summary": "Retro , the friend-focused photo-sharing app built by former Instagram product engineers Nathan Sharp and Ryan Olson, has raised north of $21 million in Series A funding, according to an SEC filing . Instead, the company offers in-app subscriptions that offer features like support for video, GIF and sticker comments, more styles, unlimited history, and special app icons. According to data from app intelligence…",
         "source": "TechCrunch",
-        "date": "2026-08-27T16:53:50+00:00"
+        "date": "2026-08-28T15:35:03+00:00"
       },
       {
-        "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-        "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-        "summary": "Users will now be able to ask AI Mode to track flight prices, book hotels, and see the cost of flights and hotels in points or miles. As for hotel booking, users will be able to discover and book their next hotel through a conversation with AI Mode. Hotel booking in AI Mode has started rolling out in the U.S. in English and will be available over the coming weeks with offerings from Booking.com, Choice Hotels…",
+        "title": "Apple TV is raising its subscription prices again",
+        "url": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
+        "summary": "For the fourth time in four years, Apple TV is hiking its subscription prices. Now, Apple TV subscriptions will cost $14.99 per month, up from the previous $12.99 per month. Apple isn’t alone in hiking prices for its subscriptions.",
         "source": "TechCrunch",
-        "date": "2026-08-27T16:00:00+00:00"
+        "date": "2026-08-28T14:36:48+00:00"
       },
       {
-        "title": "This former PG&E engineer is building a ‘Google Maps for the underground’",
-        "url": "https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/",
-        "summary": "This leads to around 200,000 so-called “utility strikes” every year. So in 2020, Mackanic founded a startup called CivilGrid designed to solve this problem. Now, Mackanic has raised a $26 million Series A to grow CivilGrid into something bigger.",
+        "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+        "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+        "summary": "“We need faster, more efficient systems. We need cheaper and higher-bandwidth memory across the memory hierarchy. We need faster and more scalable interconnects between nodes and systems.",
         "source": "TechCrunch",
-        "date": "2026-08-27T15:00:00+00:00"
+        "date": "2026-08-28T13:24:43+00:00"
       },
       {
-        "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-        "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-        "summary": "Hugging Face is best known as a platform and community where developers go for open model weights. However, the company acquired French startup Pollen Robotics in April 2025 to build affordable, open source AI hardware. TechCrunch has reached out to Hugging Face and Pollen Robotics for more information.",
+        "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+        "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+        "summary": "A federal judge in California ruled on Thursday evening that the Trump administration’s designation of Anthropic as a supply-chain risk was illegal. District Judge Rita Lin said in her ruling that Defense Secretary Pete Hegseth’s labeling of Anthropic as a risk to national security signified “unlawful retaliation” in violation of the First Amendment, and said the decision was “arbitrary and capricious.” Lin also…",
         "source": "TechCrunch",
-        "date": "2026-08-27T14:56:52+00:00"
+        "date": "2026-08-28T12:46:12+00:00"
       },
       {
-        "title": "Hold up, there’s a new Twitter in town",
-        "url": "https://techcrunch.com/2026/08/27/hold-up-theres-a-new-twitter-in-the-town/",
-        "summary": "There is a new social network called “Twitter.now” on the block, and it’s being operated by a startup called Operation Bluebird, whose founding team includes former Twitter trademark counsel Stephen Coates. As ArsTechnica reported, X sued the company last year and asked a Delaware judge to issue an injunction to stop Operation Bluebird from launching a social media platform called Twitter. Users will be able to set…",
+        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+        "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+        "summary": "Meta’s India and Southeast Asia vice president, Sandhya Devanathan, is leaving the social media giant to join OpenAI, the ChatGPT maker told TechCrunch. Devanathan will be based in Singapore and report to OpenAI’s Asia-Pacific managing director, Kiran Mani. Devanathan joined Meta in 2016 and held several leadership roles at the company, including leading its Asia Pacific gaming business, before being appointed vice…",
         "source": "TechCrunch",
-        "date": "2026-08-27T14:40:22+00:00"
+        "date": "2026-08-28T12:21:06+00:00"
       },
       {
-        "title": "Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale",
-        "url": "https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/",
-        "summary": "Zoox reported as many as eight worker injuries linked to hard braking. Waymo also declined to answer questions about the injuries reported to OSHA. Transdev reported five Waymo test driver injuries in 2024 across San Francisco, Los Angeles, and Phoenix.",
+        "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+        "url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
+        "summary": "Like de Winter’s former startup, Dutch e-cargo bike-sharing service Cargoroo , Any has also raised venture capital. The startup raised €1.5 million in November, followed by a €1.25 million top-up in May, for a total of €2.75 million ($3.2 million). LUV1 is meant to appeal to a customer base that goes beyond motorcycle riders, de Winter told TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-08-27T14:36:37+00:00"
+        "date": "2026-08-28T09:33:00+00:00"
       },
       {
-        "title": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others",
-        "url": "https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/",
-        "summary": "Australian police have arrested two people in Perth accused of being members of TeamPCP , a prolific hacking group blamed for high-profile hacks against big tech giants in recent months. TeamPCP is a prolific cybercriminal gang known for several widespread hacking campaigns targeting the software supply chain, in which the hackers would break in and maliciously modify a popular open source software tool used by…",
+        "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+        "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+        "summary": "Tristan Walker, who sold his last company, Walker & Company Brands (maker of Bevel), to Procter & Gamble in 2018, is back with Heirloom Craft, a startup focused on reshoring American fine craftsmanship — training a new generation of artisans and rebuilding the supply chains behind them. Walker will be joined by Brynn Putnam, who sold her last company, connected-fitness startup Mirror, to Lululemon for $500 million,…",
         "source": "TechCrunch",
-        "date": "2026-08-27T14:27:52+00:00"
+        "date": "2026-08-28T02:02:44+00:00"
       },
       {
-        "title": "AI’s memory crunch is coming for Android apps",
-        "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-        "summary": "Google is making changes to its requirements for Android apps as developers face industrywide memory chip shortages driven by the AI data center boom. This week, the tech giant announced two new app quality requirements, one of which is focused on reducing apps’ memory usage and optimizing its code. To address this, Google is now establishing new performance thresholds across several areas, like dynamic memory usage…",
+        "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+        "summary": "This session brings together founders and platform leaders who are grappling with that question in real time – and coming away with real answers. With Kareem Amin, Co-founder and CEO, Clay AI is running inside the most sensitive enterprise systems in the world, making autonomous decisions at a speed and scale that traditional security frameworks were never designed to handle. This session delivers the…",
         "source": "TechCrunch",
-        "date": "2026-08-27T14:27:04+00:00"
+        "date": "2026-08-27T23:16:45+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Speedo’s new smart goggles module can track all four swim strokes",
-        "url": "https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module",
-        "summary": "A removable Speedo iQ module tracks swim strokes, head movement, breaths, distance, and more. A removable Speedo iQ module tracks swim strokes, head movement, breaths, distance, and more. The Vanquisher goggles with the iQ module included cost $189 .",
+        "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
+        "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
+        "summary": "Or spend your weekend watching Captain Picard’s entire Star Trek run. Or spend your weekend watching Captain Picard’s entire Star Trek run. See our ethics statement.",
         "source": "The Verge",
-        "date": "2026-08-27T16:18:51+00:00"
+        "date": "2026-08-28T17:03:07+00:00"
       },
       {
-        "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-        "summary": "In March, during an appearance on the Lex Fridman podcast, he plainly stated, “I think we’ve achieved AGI.” Huang didn’t say exactly what he meant by AGI. So expect the industry — Huang included — to keep the AGI talk coming. Maybe an AGI will eventually show up and tell us what AGI actually means.",
+        "title": "Trump’s EPA wants to let data centers hide their air pollution",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+        "summary": "The Trump administration wants to scrap another federal air pollution rule. Advocates say it’ll help data center developers avoid public scrutiny. Advocates say it’ll help data center developers avoid public scrutiny.",
         "source": "The Verge",
-        "date": "2026-08-27T16:15:52+00:00"
+        "date": "2026-08-28T16:28:40+00:00"
       },
       {
-        "title": "Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs",
-        "url": "https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv",
-        "summary": "The Bravia 6 is Sony’s first OLED TV with four HDMI 2.1 ports. The Bravia 6 is Sony’s first OLED TV with four HDMI 2.1 ports. The TV sits below its other OLED TVs — the Bravia 8 and Bravia 8 II — as well as its Bravia 9 II and Bravia 7 II RGB LED TVs.",
+        "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+        "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+        "summary": "Modders are applying an unofficial version of DLSS 5’s AI rendering to games like Control, Skyrim, GTA, and more. Modders are applying an unofficial version of DLSS 5’s AI rendering to games like Control, Skyrim, GTA, and more. Much like the reveal of DLSS 5, reactions to the unofficial version of the tech are mixed.",
         "source": "The Verge",
-        "date": "2026-08-27T16:00:00+00:00"
+        "date": "2026-08-28T16:22:16+00:00"
       },
       {
-        "title": "Americans are cheering for vigilantes who take down Flock cameras",
-        "url": "https://www.theverge.com/tech/985155/flock-camera-destruction-vigilantes",
-        "summary": "The surveillance cameras have become another flashpoint of growing bipartisan anger against tech industry excess. The surveillance cameras have become another flashpoint of growing bipartisan anger against tech industry excess. Americans have declared war on Flock cameras.",
+        "title": "The iPhone Fold could make concerts even worse",
+        "url": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
+        "summary": "On The Vergecast: new Macs, the Meta settlement, GTA VI, and more. On The Vergecast: new Macs, the Meta settlement, GTA VI, and more. This week on The Vergecast , we dive right into the big week of Apple news.",
         "source": "The Verge",
-        "date": "2026-08-27T15:49:47+00:00"
+        "date": "2026-08-28T15:26:19+00:00"
       },
       {
-        "title": "Google launches Pokémon Sleep special-edition Fitbit Air",
-        "url": "https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep",
-        "summary": "The latest special-edition of Google’s Fitbit Air is inspired by the Pokémon Sleep game, with a “Sleepy Blue” band emblazoned with a snoozing Pikachu. The game lets you collect pokémon around a virtual campsite while also tracking your sleep stats. The Pokémon Sleep Fitbit Air is the first special-edition of Google’s screenless wearable since a Stephen Curry version that launched earlier this year.",
-        "source": "The Verge",
-        "date": "2026-08-27T14:58:33+00:00"
-      },
-      {
-        "title": "In a swipe at Tesla, Waymo says ‘cameras… aren’t enough’",
-        "url": "https://www.theverge.com/transportation/985503/waymo-tesla-lidar-camera-robotaxi-cybercab-musk",
-        "summary": "Waymo’s top software executive didn’t directly name Tesla or Elon Musk in a new blog post — but his intentions were clear. Thirumalai goes on to outline other differences between Waymo and Tesla. Waymo operates its fully autonomous vehicles in 11 cities, conducting 500,000 paid trips a week.",
-        "source": "The Verge",
-        "date": "2026-08-27T14:55:20+00:00"
-      },
-      {
-        "title": "If Meta&#8217;s going down, it’s taking TikTok and YouTube with it",
-        "url": "https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap",
-        "summary": "﻿Under its splashy agreement with state AGs, Meta gets to flaunt the high road, while dragging its competitors. ﻿Under its splashy agreement with state AGs, Meta gets to flaunt the high road, while dragging its competitors. Meta might be on the hook for $17.1 billion and a host of app changes under a new kids safety settlement, but it’s already spinning the deal to its advantage. Meta’s settlement will likely serve…",
-        "source": "The Verge",
-        "date": "2026-08-27T14:24:29+00:00"
-      },
-      {
-        "title": "507 Mechanical Movements",
-        "url": "https://507movements.com/",
-        "summary": "Look for the color thumbnails. They identify the completed animations. Meanwhile, we hope you enjoy the animations we have completed, along with Henry T. (303 points, 40 comments on Hacker News)",
+        "title": "GLM-5.3 is now open-weight",
+        "url": "https://huggingface.co/zai-org/GLM-5.3",
+        "summary": "GLM-5.3 uses the same base model as GLM-5.2 — every gain comes from post-training. Compared with GLM-5.2, it is much better at complex coding and long-horizon tasks: GLM-5.3 supports deployment with the following frameworks. Feel free to try them out: If you find GLM-5.3 useful in your research, please cite our technical report: (357 points, 132 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-27T14:08:18+00:00"
+        "date": "2026-08-28T15:20:13+00:00"
       },
       {
-        "title": "OpenAI&#8217;s executive exodus has one big winner",
-        "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-        "summary": "There’s a lot going on there. OpenAI has taken a lot of shots. There’s no way the company is going to look the same.",
+        "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
+        "url": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
+        "summary": "The Apple TV subscription now costs $2 more each month. The Apple TV subscription now costs $2 more each month. Apple also increased the cost of its individual Apple One subscription, which includes Apple TV and Apple’s other subscription services, from $19.95 per month to $21.95.",
         "source": "The Verge",
-        "date": "2026-08-27T14:00:00+00:00"
+        "date": "2026-08-28T13:47:36+00:00"
       },
       {
-        "title": "Trade (and Tariffs)",
-        "url": "https://xkcd.com/3290/",
-        "summary": "308 points, 114 comments on Hacker News",
+        "title": "Get your Windows license refund",
+        "url": "https://en.refund4freedom.org/",
+        "summary": "Complete documentation After a couple of Italian legal emails (PEC emails), the 51 euro refund for the Windows 10 Home Edition license was granted. Complete documentation After a long series of emails and phone calls, the 42 euro refund for the Windows 10 Home Edition license was granted. Complete documentation After a particularly prolonged email exchange, a refund of 47 euros for the Windows 10 Home Edition… (537 points, 211 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-27T13:49:29+00:00"
+        "date": "2026-08-28T13:42:40+00:00"
       },
       {
-        "title": "Hugging Face’s new robot is an adorable rollerskating duck",
-        "url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
-        "summary": "Each Microduck can also sing with its own unique generated voice.﻿ Each Microduck can also sing with its own unique generated voice.﻿ Hugging Face’s Pollen Robotics has launched its second cute AI robot, the Microduck , a one-eyed biped standing just under 10 inches tall. It’s available to preorder now for $399 in cream, graphite, lavender, and sky blue, and Pollen Robotics says it plans to start shipping the little…",
-        "source": "The Verge",
-        "date": "2026-08-27T13:44:00+00:00"
+        "title": "Htmx 4.0",
+        "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+        "summary": "The htmx team is very happy to announce the release of htmx 4.0.0! As mentioned above, htmx 4, from a users viewpoint, is almost identical to htmx 2. In htmx 2 many attributes where “inherited” by default. (268 points, 59 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-28T13:28:56+00:00"
       },
       {
-        "title": "Plaud is launching AI earbuds",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
-        "summary": "﻿Preorders are now available for the $249.99 Plaud One, with shipping to start in September. ﻿Preorders are now available for the $249.99 Plaud One, with shipping to start in September. Plaud On’s AI transcription and summarization capabilities use Plaud Intelligence, which the company says is designed to “understand and execute on human intent.” An AI button on the Plaud One charging case can be used to activate…",
+        "title": "U.S. sanctions against the A/I Collective",
+        "url": "https://www.inventati.org/",
+        "summary": "Our financial strategy relies exclusively on voluntary donations. We provide our services strictly for non-commercial use, in order to provide support exclusively to individuals or groups we feel we have an affinity with. Don’t send a request without having read these documents! (309 points, 280 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-28T12:58:53+00:00"
+      },
+      {
+        "title": "“It works better in the app”",
+        "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+        "summary": "So they build an app. If you want an app, fine. Reply | Reply to original comment on union.place 2026-08-28 14:16 \"IT WoRKs BeTter in the App \" | Hacker News Reply | Reply to original comment 2026-08-28 13:40 There is some irony though that your homepage is styled as a mobile device screen. (588 points, 392 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-28T12:32:16+00:00"
+      },
+      {
+        "title": "Inception-style curved map for turn-by-turn directions",
+        "url": "https://www.orbify.eu/demo/",
+        "summary": "302 points, 106 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-08-28T12:29:05+00:00"
+      },
+      {
+        "title": "Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2",
+        "url": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
+        "summary": "Things aren’t getting easier for Jason and his family — or viewers, for that matter. Things aren’t getting easier for Jason and his family — or viewers, for that matter. Spoilers follow for the first season of Dark Matter.",
         "source": "The Verge",
-        "date": "2026-08-27T13:11:23+00:00"
+        "date": "2026-08-28T12:00:00+00:00"
       }
     ]
   }
