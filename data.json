@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T19:17:17.502668+00:00",
+  "generated_at": "2026-08-29T12:59:00.345768+00:00",
   "sections": {
     "research": [
       {
@@ -89,6 +89,13 @@
     ],
     "labs": [
       {
+        "title": "Our decision on Cursor following its acquisition by SpaceX",
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+        "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+        "source": "OpenAI",
+        "date": "2026-08-28T06:00:00+00:00"
+      },
+      {
         "title": "Supporting Thailand’s next generation of AI startups",
         "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
         "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
@@ -145,16 +152,16 @@
         "date": "2026-08-26T17:01:00+00:00"
       },
       {
-        "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-        "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-        "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+        "title": "Learning never stops: How AI makes learning continuous",
+        "url": "https://openai.com/index/learning-never-stops",
+        "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
         "source": "OpenAI",
         "date": "2026-08-26T10:00:00+00:00"
       },
       {
-        "title": "Learning never stops: How AI makes learning continuous",
-        "url": "https://openai.com/index/learning-never-stops",
-        "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+        "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+        "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+        "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
         "source": "OpenAI",
         "date": "2026-08-26T10:00:00+00:00"
       },
@@ -164,16 +171,37 @@
         "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
         "source": "OpenAI",
         "date": "2026-08-26T00:00:00+00:00"
-      },
-      {
-        "title": "How loveholidays is making everyone a builder with Codex",
-        "url": "https://openai.com/index/loveholidays",
-        "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-        "source": "OpenAI",
-        "date": "2026-08-26T00:00:00+00:00"
       }
     ],
     "startups": [
+      {
+        "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+        "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+        "summary": "The hype around humanoid robots isn’t particularly new. Other Chinese automakers, including Changan, GAC, Li Auto, SAIC, and Seres, are also developing humanoid robots. Other automotive companies are also jumping, including supplier Mobileye, which acquired humanoid robot startup Mentee Robotics earlier this year for $900 million.",
+        "source": "TechCrunch",
+        "date": "2026-08-28T23:24:27+00:00"
+      },
+      {
+        "title": "Is the best way to watch a movie on a pair of sunglasses?",
+        "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+        "summary": "The a01 isn’t a particularly sophisticated smart glasses model. For one thing, the glasses still only function as a screen-mirroring device — meaning that the screen of your phone needs to remain active while you’re using the glasses. However, this device will cost you another $200.",
+        "source": "TechCrunch",
+        "date": "2026-08-28T22:42:48+00:00"
+      },
+      {
+        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+        "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+        "summary": "Lambda, an AI cloud company that buys computing chips and rents them out to businesses, has raised $1 billion in private, short-dated debt to buy Nvidia’s AI chips that it will lease to Microsoft, Bloomberg reports . The $1 billion private debt deal comes as Lambda is reportedly in talks for a $3 billion pre-IPO round . The company last November raised $1.5 billion in venture capital at a $5.43 billion post-money…",
+        "source": "TechCrunch",
+        "date": "2026-08-28T20:24:11+00:00"
+      },
+      {
+        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+        "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+        "summary": "On Friday, Anthropic published a new paper titled “ Automated Researchers Can Reliably Mitigate Alignment Failures ,” detailing how AI systems could reliably improve a model’s performance on a set of alignment benchmarks. “Overall, these results provide early evidence that automated alignment post-training could become practical in the near term,” the paper reads. The paper isn’t shy about addressing this idea,…",
+        "source": "TechCrunch",
+        "date": "2026-08-28T19:30:38+00:00"
+      },
       {
         "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
         "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
@@ -229,37 +257,37 @@
         "summary": "A federal judge in California ruled on Thursday evening that the Trump administration’s designation of Anthropic as a supply-chain risk was illegal. District Judge Rita Lin said in her ruling that Defense Secretary Pete Hegseth’s labeling of Anthropic as a risk to national security signified “unlawful retaliation” in violation of the First Amendment, and said the decision was “arbitrary and capricious.” Lin also…",
         "source": "TechCrunch",
         "date": "2026-08-28T12:46:12+00:00"
-      },
-      {
-        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-        "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-        "summary": "Meta’s India and Southeast Asia vice president, Sandhya Devanathan, is leaving the social media giant to join OpenAI, the ChatGPT maker told TechCrunch. Devanathan will be based in Singapore and report to OpenAI’s Asia-Pacific managing director, Kiran Mani. Devanathan joined Meta in 2016 and held several leadership roles at the company, including leading its Asia Pacific gaming business, before being appointed vice…",
-        "source": "TechCrunch",
-        "date": "2026-08-28T12:21:06+00:00"
-      },
-      {
-        "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
-        "url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
-        "summary": "Like de Winter’s former startup, Dutch e-cargo bike-sharing service Cargoroo , Any has also raised venture capital. The startup raised €1.5 million in November, followed by a €1.25 million top-up in May, for a total of €2.75 million ($3.2 million). LUV1 is meant to appeal to a customer base that goes beyond motorcycle riders, de Winter told TechCrunch.",
-        "source": "TechCrunch",
-        "date": "2026-08-28T09:33:00+00:00"
-      },
-      {
-        "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
-        "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
-        "summary": "Tristan Walker, who sold his last company, Walker & Company Brands (maker of Bevel), to Procter & Gamble in 2018, is back with Heirloom Craft, a startup focused on reshoring American fine craftsmanship — training a new generation of artisans and rebuilding the supply chains behind them. Walker will be joined by Brynn Putnam, who sold her last company, connected-fitness startup Mirror, to Lululemon for $500 million,…",
-        "source": "TechCrunch",
-        "date": "2026-08-28T02:02:44+00:00"
-      },
-      {
-        "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-        "summary": "This session brings together founders and platform leaders who are grappling with that question in real time – and coming away with real answers. With Kareem Amin, Co-founder and CEO, Clay AI is running inside the most sensitive enterprise systems in the world, making autonomous decisions at a speed and scale that traditional security frameworks were never designed to handle. This session delivers the…",
-        "source": "TechCrunch",
-        "date": "2026-08-27T23:16:45+00:00"
       }
     ],
     "wider_tech": [
+      {
+        "title": "Our decision on Cursor following its acquisition by SpaceX",
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+        "summary": "608 points, 343 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-08-29T01:47:53+00:00"
+      },
+      {
+        "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+        "url": "https://github.com/Lakr233/vphone-cli",
+        "summary": "Redirect the whole tree with $VPHONE_ROOT : Precedence: the per-item overrides ( $VPHONE_LIBRARY_ROOT , $VPHONE_VENV_DIR ) win over $VPHONE_ROOT , which wins over the ~/.vphone default. App crashes on launch with EXC_GUARD / GUARD_TYPE_MACH_PORT — re-patch with vphone-cli fw patch --variant --force-exc-guard , then re-restore/install ( #291 ). See vphone-mcp for an MCP server wrapping it. (306 points, 83 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-28T23:02:21+00:00"
+      },
+      {
+        "title": "Google further buries search results under AI mode",
+        "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+        "summary": "Google now automatically expands its AI search summaries for some queries. Google now automatically expands its AI search summaries for some queries. Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable .",
+        "source": "The Verge",
+        "date": "2026-08-28T22:48:11+00:00"
+      },
+      {
+        "title": "Xbox CEO calls Project Helix a ‘family of devices’",
+        "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+        "summary": "Microsoft’s next Xbox console may not be just one piece of hardware. Microsoft’s next Xbox console may not be just one piece of hardware. According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft’s “next generation console” — phrasing that seemingly implied a singular device — will actually be a “family” of devices.” “We’ve been hard at work on a great next generation…",
+        "source": "The Verge",
+        "date": "2026-08-28T22:03:13+00:00"
+      },
       {
         "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
         "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
@@ -282,6 +310,13 @@
         "date": "2026-08-28T16:22:16+00:00"
       },
       {
+        "title": "Just the rumour of a bug is enough to find an exploit these days",
+        "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+        "summary": "I released a security fix for OCaml's cohttp 6.3.0 today, fixing a path traversal issue . The patch itself was straightforward and in normal times, the security procedure would have been to fix it privately, inform affected users, and then issue a public advisory. Two years on, the mean time to exploit is -7 days. (342 points, 115 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-28T15:58:46+00:00"
+      },
+      {
         "title": "The iPhone Fold could make concerts even worse",
         "url": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
         "summary": "On The Vergecast: new Macs, the Meta settlement, GTA VI, and more. On The Vergecast: new Macs, the Meta settlement, GTA VI, and more. This week on The Vergecast , we dive right into the big week of Apple news.",
@@ -291,9 +326,16 @@
       {
         "title": "GLM-5.3 is now open-weight",
         "url": "https://huggingface.co/zai-org/GLM-5.3",
-        "summary": "GLM-5.3 uses the same base model as GLM-5.2 — every gain comes from post-training. Compared with GLM-5.2, it is much better at complex coding and long-horizon tasks: GLM-5.3 supports deployment with the following frameworks. Feel free to try them out: If you find GLM-5.3 useful in your research, please cite our technical report: (357 points, 132 comments on Hacker News)",
+        "summary": "GLM-5.3 uses the same base model as GLM-5.2 — every gain comes from post-training. Compared with GLM-5.2, it is much better at complex coding and long-horizon tasks: GLM-5.3 supports deployment with the following frameworks. Feel free to try them out: If you find GLM-5.3 useful in your research, please cite our technical report: (724 points, 241 comments on Hacker News)",
         "source": "Hacker News",
         "date": "2026-08-28T15:20:13+00:00"
+      },
+      {
+        "title": "GUIs should be fully keyboard-driven",
+        "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+        "summary": "Last week I came across a post on Hacker News that encouraged application developers to stop making terminal user interfaces 1 (a.k.a. To paraphrase various commenters: TUIs should be preferred because they are keyboard-driven. In fact, many GUI framework application guidelines explicitly encourage GUI application developers to provide support for keyboard-driven navigation that covers the whole functionality of the… (873 points, 435 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-28T15:17:09+00:00"
       },
       {
         "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
@@ -301,48 +343,6 @@
         "summary": "The Apple TV subscription now costs $2 more each month. The Apple TV subscription now costs $2 more each month. Apple also increased the cost of its individual Apple One subscription, which includes Apple TV and Apple’s other subscription services, from $19.95 per month to $21.95.",
         "source": "The Verge",
         "date": "2026-08-28T13:47:36+00:00"
-      },
-      {
-        "title": "Get your Windows license refund",
-        "url": "https://en.refund4freedom.org/",
-        "summary": "Complete documentation After a couple of Italian legal emails (PEC emails), the 51 euro refund for the Windows 10 Home Edition license was granted. Complete documentation After a long series of emails and phone calls, the 42 euro refund for the Windows 10 Home Edition license was granted. Complete documentation After a particularly prolonged email exchange, a refund of 47 euros for the Windows 10 Home Edition… (537 points, 211 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-28T13:42:40+00:00"
-      },
-      {
-        "title": "Htmx 4.0",
-        "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-        "summary": "The htmx team is very happy to announce the release of htmx 4.0.0! As mentioned above, htmx 4, from a users viewpoint, is almost identical to htmx 2. In htmx 2 many attributes where “inherited” by default. (268 points, 59 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-28T13:28:56+00:00"
-      },
-      {
-        "title": "U.S. sanctions against the A/I Collective",
-        "url": "https://www.inventati.org/",
-        "summary": "Our financial strategy relies exclusively on voluntary donations. We provide our services strictly for non-commercial use, in order to provide support exclusively to individuals or groups we feel we have an affinity with. Don’t send a request without having read these documents! (309 points, 280 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-28T12:58:53+00:00"
-      },
-      {
-        "title": "“It works better in the app”",
-        "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
-        "summary": "So they build an app. If you want an app, fine. Reply | Reply to original comment on union.place 2026-08-28 14:16 \"IT WoRKs BeTter in the App \" | Hacker News Reply | Reply to original comment 2026-08-28 13:40 There is some irony though that your homepage is styled as a mobile device screen. (588 points, 392 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-28T12:32:16+00:00"
-      },
-      {
-        "title": "Inception-style curved map for turn-by-turn directions",
-        "url": "https://www.orbify.eu/demo/",
-        "summary": "302 points, 106 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-08-28T12:29:05+00:00"
-      },
-      {
-        "title": "Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2",
-        "url": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
-        "summary": "Things aren’t getting easier for Jason and his family — or viewers, for that matter. Things aren’t getting easier for Jason and his family — or viewers, for that matter. Spoilers follow for the first season of Dark Matter.",
-        "source": "The Verge",
-        "date": "2026-08-28T12:00:00+00:00"
       }
     ]
   }
