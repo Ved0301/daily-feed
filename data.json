@@ -1,93 +1,15 @@
 {
-  "generated_at": "2026-08-30T12:37:55.429874+00:00",
+  "generated_at": "2026-08-31T14:53:04.387200+00:00",
   "sections": {
-    "research": [
-      {
-        "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
-        "url": "https://arxiv.org/abs/2608.27455v1",
-        "summary": "Yufan Wu, Yinghui He, Zhengyi Hu et al. — Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or external verification.",
-        "source": "arXiv",
-        "date": "2026-08-27T17:59:30Z"
-      },
-      {
-        "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
-        "url": "https://arxiv.org/abs/2608.27454v1",
-        "summary": "Liyan Tang, Cyrus Rashtchian, Chun-Sung Ferng et al. — Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to…",
-        "source": "arXiv",
-        "date": "2026-08-27T17:59:11Z"
-      },
-      {
-        "title": "SWE-Prime: Fewer Trajectories, Better Performance",
-        "url": "https://arxiv.org/abs/2608.27449v1",
-        "summary": "Dewu Zheng, Ruizhe Ye, Yanlin Wang et al. — To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful…",
-        "source": "arXiv",
-        "date": "2026-08-27T17:58:10Z"
-      },
-      {
-        "title": "TTPO: Test-Time Policy Optimization",
-        "url": "https://arxiv.org/abs/2608.27448v1",
-        "summary": "Aozhe Wang, Zhengxi Lu, Jianze Wang et al. — Recent prominent post-training methods, such as Reinforcement Learning (RL) and On-Policy Self-Distillation (OPSD), have driven rapid progress in mathematical reasoning for large language models, yet their reliance on…",
-        "source": "arXiv",
-        "date": "2026-08-27T17:58:10Z"
-      },
-      {
-        "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
-        "url": "https://arxiv.org/abs/2608.27442v1",
-        "summary": "Dewu Zheng, Yanlin Wang, Xiwen Wang et al. — In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Although recent work…",
-        "source": "arXiv",
-        "date": "2026-08-27T17:56:24Z"
-      },
-      {
-        "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
-        "url": "https://arxiv.org/abs/2608.27439v1",
-        "summary": "Junjie Zhang, Hui Liu, Kecheng Chen et al. — LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text generation alone.…",
-        "source": "arXiv",
-        "date": "2026-08-27T17:55:33Z"
-      },
-      {
-        "title": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
-        "url": "https://arxiv.org/abs/2608.27429v1",
-        "summary": "Nguyen Xuan-Vu, Octavian Susanu, Daniel Armstrong et al. — Chemical reactions are fundamentally transformations in electron space, yet most machine learning approaches model them either through \\textit{de novo} generation of product molecules or through heuristic graph edits…",
-        "source": "arXiv",
-        "date": "2026-08-27T17:50:44Z"
-      },
-      {
-        "title": "Stochastic Estimation of Transduced Language Models",
-        "url": "https://arxiv.org/abs/2608.27428v1",
-        "summary": "Vésteinn Snæbjarnarson, Samuel Kiegeland, Manuel de Prada Corral et al. — Transduced language models (TLMs) compose a pretrained \\emph{source} language model with a functional finite-state transducer to induce a language model over \\emph{target} strings. Computing the probability of a target…",
-        "source": "arXiv",
-        "date": "2026-08-27T17:50:21Z"
-      },
-      {
-        "title": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit",
-        "url": "https://arxiv.org/abs/2608.27427v1",
-        "summary": "Yisen Xi — Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A single trust domain…",
-        "source": "arXiv",
-        "date": "2026-08-27T17:50:07Z"
-      },
-      {
-        "title": "Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners",
-        "url": "https://arxiv.org/abs/2608.27424v1",
-        "summary": "Qianlong Lan, Vinothini Pandurangan, Anuj Kaul et al. — Static scanners are increasingly used to identify executable or otherwise unsafe content in machine- learning artifacts, yet conventional evaluation metrics characterize only cases where a scanner yields a usable…",
-        "source": "arXiv",
-        "date": "2026-08-27T17:49:28Z"
-      },
-      {
-        "title": "Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study",
-        "url": "https://arxiv.org/abs/2608.27421v1",
-        "summary": "Kevin Zhu, Ryan Zhang, Baraa Abed et al. — Currently used sepsis severity indices rely on fixed variables and weights established decades ago, which are coarsely discretized and calibrated to a cohort that no longer reflects contemporary critical care.",
-        "source": "arXiv",
-        "date": "2026-08-27T17:46:21Z"
-      },
-      {
-        "title": "Boosting LLM Exploration via Weak-Model Guidance in RLVR",
-        "url": "https://arxiv.org/abs/2608.27420v1",
-        "summary": "Xingyu Shen, Huishuai Zhang, Peng Li et al. — Reinforcement Learning with Verifiable Rewards (RLVR) significantly improves LLM reasoning but often causes a drop in policy entropy, leading to narrowed reasoning coverage and degraded pass@$k$ for large $k$.",
-        "source": "arXiv",
-        "date": "2026-08-27T17:45:50Z"
-      }
-    ],
+    "research": [],
     "labs": [
+      {
+        "title": "A milestone in expanding access to AI",
+        "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+        "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+        "source": "OpenAI",
+        "date": "2026-08-31T04:00:00+00:00"
+      },
       {
         "title": "Our decision on Cursor following its acquisition by SpaceX",
         "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
@@ -164,16 +86,65 @@
         "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
         "source": "OpenAI",
         "date": "2026-08-26T10:00:00+00:00"
-      },
-      {
-        "title": "The Hugging Face incident and the road ahead",
-        "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-        "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-        "source": "OpenAI",
-        "date": "2026-08-26T00:00:00+00:00"
       }
     ],
     "startups": [
+      {
+        "title": "MapQuest’s app surges to No. 1 in Navigation after refusing to rename Lake Ontario",
+        "url": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/",
+        "summary": "As a result, MapQuest’s mobile app downloads soared, sending the iOS app to the No. 1 Navigation app in the United States. In Canada’s App Store, the app reached No.",
+        "source": "TechCrunch",
+        "date": "2026-08-31T14:51:33+00:00"
+      },
+      {
+        "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+        "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+        "summary": "The meeting note-taker market is a crowded space. Prior to this change, Circleback didn’t have any free tier, and its plans started at $20.83 per month. Founded in 2023 by Ali Haghani and Kevin Jacyna, Circleback raised $2.5 million in 2024.",
+        "source": "TechCrunch",
+        "date": "2026-08-31T12:56:46+00:00"
+      },
+      {
+        "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+        "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+        "summary": "“China leads in manufacturing scale, supply-chain depth and cost.” That manufacturing edge has let Chinese companies cut humanoid prices faster than most U.S. competitors can match. Chinese robotics companies are already targeting price-sensitive markets with severe labor shortages across Europe, Southeast Asia, Latin America and the Middle East, said Mandal. But none can simply replace China, Saxena said, given how…",
+        "source": "TechCrunch",
+        "date": "2026-08-31T02:34:00+00:00"
+      },
+      {
+        "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+        "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+        "summary": "First, company building. About 94 or 95 people across all technical roles. What I want is a company that, 10 years from now, has a strong subscription business, a strong advertising business, a real healthcare business, and a real travel business alongside it.",
+        "source": "TechCrunch",
+        "date": "2026-08-31T02:18:57+00:00"
+      },
+      {
+        "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+        "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+        "summary": "Spanish startup Liux thinks it can compete in a crowded market with a tiny electric car built around sustainability. “The idea of ​​a European car does not exist,” Liux co-founder Antonio Espinosa de los Monteros told TechCrunch. It is true that Liux opened Spain’s first new car plant in more than 30 years .",
+        "source": "TechCrunch",
+        "date": "2026-08-30T18:33:44+00:00"
+      },
+      {
+        "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+        "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+        "summary": "The limiting factor for nat gas turbine production is casting the blades & vanes. In Memphis, where SpaceXAI has run gas turbines to power its Colossus data centers since 2024, the NAACP has repeatedly accused the company of operating turbines without the permits or pollution controls required by federal law. The same fight is playing out anywhere gas turbines have become the default fix for data center power…",
+        "source": "TechCrunch",
+        "date": "2026-08-30T16:54:25+00:00"
+      },
+      {
+        "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+        "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+        "summary": "Airbound , an Indian startup building autonomous drones, raised $37 million in a Series A round led by Greenoaks with participation from DoorDash, Lachy Groom, Lightspeed, and Humba Ventures. Waymo shared 10 lessons it has learned after its vehicles had driven more than 200 million autonomous miles. Meanwhile, Waymo is making more inroads overseas.",
+        "source": "TechCrunch",
+        "date": "2026-08-30T16:03:00+00:00"
+      },
+      {
+        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+        "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+        "summary": "Mineart said Caterpillar has about 1.6 million connected assets globally and more than 16 petabytes of structured data. And like nearly every other company, Caterpillar is using AI across its enterprise operations, as well as for software development. Mineart said the company leans on experienced operators to help train AI systems, leveraging institutional knowledge built over decades.",
+        "source": "TechCrunch",
+        "date": "2026-08-30T15:00:00+00:00"
+      },
       {
         "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
         "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
@@ -201,148 +172,92 @@
         "summary": "Microdramas are short, scripted series designed to be watched on phones. The series quickly became a breakout hit, gathering nearly 75 million views in its first week and becoming the top-performing vertical series on TikTok and PineDrama at the time. Zombies ,” an upcoming musical comedy for vertical storytelling platform aTwist.",
         "source": "TechCrunch",
         "date": "2026-08-29T16:10:00+00:00"
-      },
-      {
-        "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-        "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-        "summary": "The Theragun Sense, which retails for $299, is a wellness-focused massage gun that’s designed for everyday aches, muscle tension, relaxation, and soreness. It’s more of a gentle massaging and relaxation tool rather than a hardcore recovery massage gun. My favorite thing about the massage gun is that it features built-in visually guided routines.",
-        "source": "TechCrunch",
-        "date": "2026-08-29T14:00:00+00:00"
-      },
-      {
-        "title": "Nvidia’s AI advantage is moving beyond the GPU",
-        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-        "summary": "Before this week, the dominant story about Nvidia went something like this: For the first few years of the AI boom, Nvidia was the only source for state-of-the-art GPUs, which became immensely profitable as the industry scaled out. The Vera CPU in particular is focused on the problem of orchestrating data. This new focus on data orchestration isn’t automatically a win for Nvidia.",
-        "source": "TechCrunch",
-        "date": "2026-08-29T13:00:00+00:00"
-      },
-      {
-        "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-        "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
-        "summary": "The hype around humanoid robots isn’t particularly new. Other Chinese automakers, including Changan, GAC, Li Auto, SAIC, and Seres, are also developing humanoid robots. Other automotive companies are also jumping, including supplier Mobileye, which acquired humanoid robot startup Mentee Robotics earlier this year for $900 million.",
-        "source": "TechCrunch",
-        "date": "2026-08-28T23:24:27+00:00"
-      },
-      {
-        "title": "Is the best way to watch a movie on a pair of sunglasses?",
-        "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-        "summary": "The a01 isn’t a particularly sophisticated smart glasses model. For one thing, the glasses still only function as a screen-mirroring device — meaning that the screen of your phone needs to remain active while you’re using the glasses. However, this device will cost you another $200.",
-        "source": "TechCrunch",
-        "date": "2026-08-28T22:42:48+00:00"
-      },
-      {
-        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-        "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-        "summary": "Lambda, an AI cloud company that buys computing chips and rents them out to businesses, has raised $1 billion in private, short-dated debt to buy Nvidia’s AI chips that it will lease to Microsoft, Bloomberg reports . The $1 billion private debt deal comes as Lambda is reportedly in talks for a $3 billion pre-IPO round . The company last November raised $1.5 billion in venture capital at a $5.43 billion post-money…",
-        "source": "TechCrunch",
-        "date": "2026-08-28T20:24:11+00:00"
-      },
-      {
-        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-        "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-        "summary": "On Friday, Anthropic published a new paper titled “ Automated Researchers Can Reliably Mitigate Alignment Failures ,” detailing how AI systems could reliably improve a model’s performance on a set of alignment benchmarks. “Overall, these results provide early evidence that automated alignment post-training could become practical in the near term,” the paper reads. The paper isn’t shy about addressing this idea,…",
-        "source": "TechCrunch",
-        "date": "2026-08-28T19:30:38+00:00"
-      },
-      {
-        "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
-        "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
-        "summary": "Chrome alternative Brave just added a good reason to make the switch to its browser: email aliases. After the email is forwarded, Brave deletes it from its servers. For the time being, Brave users are being offered five free email aliases.",
-        "source": "TechCrunch",
-        "date": "2026-08-28T18:50:00+00:00"
-      },
-      {
-        "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-        "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-        "summary": "Everyone’s waiting for Nvidia to confirm this week’s most interesting tech deal: A reported $13 billion acquisition of Hugging Face, a platform for sharing open-weight AI models and benchmarks. If model builders are making chips, Nvidia wants a chunk of the model-making business. Nvidia already builds its own Nemotron family of open-weight models, but their uptake hasn’t been huge.",
-        "source": "TechCrunch",
-        "date": "2026-08-28T18:19:40+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "China’s robots race ahead",
-        "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
-        "summary": "Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games. Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games. At the Humanoid Robot Games, it was par for the course.",
+        "title": "New York governor to 3D-printed gun leader: &#8216;tell Cody I will get ahead of him&#8217;",
+        "url": "https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response",
+        "summary": "But Hochul isn’t having it. Lowest gun homicide deaths in America. Hochul acknowledged the “anxiety” around surveillance.",
         "source": "The Verge",
-        "date": "2026-08-30T12:00:00+00:00"
+        "date": "2026-08-31T14:20:00+00:00"
       },
       {
-        "title": "Two new small, powerful Macs",
-        "url": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
-        "summary": "Plus, in this week’s Installer: a new Star Wars game, a Nokia phone that can charge your phone, a Wyze cam with a great privacy feature, and more. Welcome to Installer No. Programming note: Installer is off next week .",
+        "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+        "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+        "summary": "People think it’s intractable. People know the benefits. What other jobs should people be going to?",
         "source": "The Verge",
-        "date": "2026-08-30T12:00:00+00:00"
+        "date": "2026-08-31T14:00:00+00:00"
       },
       {
-        "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-        "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-        "summary": "Dive into our proprietary testing data and compare hardware with detailed benchmarks. Dive into our proprietary testing data and compare hardware with detailed benchmarks. Windows, macOS, iOS, and Android remain fully in scope, with age collection required at account setup from January 1, 2027. (379 points, 172 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-30T03:15:36+00:00"
-      },
-      {
-        "title": "Bug Blindness",
-        "url": "https://danluu.com/bug-blind/",
-        "summary": "In some cases, people sent me their actual search results. I sometimes think about all of the mitigations I've developed to work around bugs. But from my interactions with \"normal\" people as well as the data I'm familiar with from my time at Google, many or perhaps most people don't even realize that a lot of ads are ads. (296 points, 181 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-30T00:21:40+00:00"
-      },
-      {
-        "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-        "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-        "summary": "Greg Abbott , has turned the $1 fee hike into at least 3,200 Flock cameras. The exact number of Flock cameras in Texas is unclear. DPS, for example, has a $28.5 million contract for Flock cameras. (329 points, 194 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-29T23:17:17+00:00"
-      },
-      {
-        "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
-        "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
-        "summary": "It’s an interactive trail journal inspired by Sierra point-and-click adventures and Oregon Trail. It’s an interactive trail journal inspired by Sierra point-and-click adventures and Oregon Trail. It’s an interactive trail journal created by Andy Moliski with help from his brothers Adam and Alex.",
+        "title": "ChatGPT to face tougher regulation in the EU",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+        "summary": "The EU designated ChatGPT, Reddit, and Roblox as ‘Very Large’ under the Digital Services Act. The EU designated ChatGPT, Reddit, and Roblox as ‘Very Large’ under the Digital Services Act. Along with ChatGPT, the European Commission also announced that Reddit and Roblox are considered Very Large Online Platforms, subjecting them to the same rules.",
         "source": "The Verge",
-        "date": "2026-08-29T20:59:26+00:00"
+        "date": "2026-08-31T13:27:36+00:00"
       },
       {
-        "title": "Alt-right troll Milo Yiannopoulos has been deported",
-        "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
-        "summary": "The controversial Gamergate figure has been sent back to the UK after overstaying his visa. The controversial Gamergate figure has been sent back to the UK after overstaying his visa. Yiannopoulos came to the US legally in 2019, but overstayed his visa.",
+        "title": "Instagram cracks down on AI accounts pretending to be human",
+        "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+        "summary": "Fake humans that fail to self-label will have their reach limited. Fake humans that fail to self-label will have their reach limited. “They want to know when a profile features an AI-generated person.” To that end, Instagram will be hunting down accounts that don’t self-label their AI-generated profiles, and penalize them by limiting reach.",
         "source": "The Verge",
-        "date": "2026-08-29T19:49:59+00:00"
+        "date": "2026-08-31T13:00:00+00:00"
       },
       {
-        "title": "Hy4 preview",
-        "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-        "summary": "Ranked among the top tier of open-source models, Hy4 preview is built for real-world productivity tasks, delivering outstanding performance across coding, office work, and scientific research Tencent has released and open-sourced Tencent Hy4 preview, a next-generation large language model with 770B total parameters and 49B active parameters, and a context window exceeding 1M tokens. It demonstrates outstanding… (333 points, 200 comments on Hacker News)",
+        "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+        "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+        "summary": "OpenShot 4.0 adds ten effects to the underlying video engine. OpenShot 4.0 also reduces processing costs in video scopes, Color Grade, Film Grain, and audio visualization modes. OpenShot 4.0 includes improvements throughout the rest of the editing process. (330 points, 85 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-29T19:33:23+00:00"
+        "date": "2026-08-31T09:59:05+00:00"
       },
       {
-        "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
-        "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
-        "summary": "Less than a month later, the DHS served Google with a different request for the YouTube information. The department ultimately withdrew the summons. Lawyers for the DHS defended the summons, saying it fell within the scope of laws the DHS enforced. (415 points, 93 comments on Hacker News)",
+        "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
+        "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+        "summary": "Here at Ars, we’re intimately familiar with data leaks surrounding Valve’s games , hardware , and the workings of Steam itself . The reason this weekend’s leaked content cuts off abruptly in 2013 is because that’s when Valve updated its content distribution system from “Steam2” to the current SteamPipe system . Aside from Valve’s own published games, the teraleak also includes myriad early versions of titles from… (273 points, 45 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-29T18:44:37+00:00"
+        "date": "2026-08-31T06:10:44+00:00"
       },
       {
-        "title": "The internet is kind of a predatory cesspit now",
-        "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
-        "summary": "The grift offers agency where ordinary life offers delay. Every relationship becomes an audience. Every conviction becomes a content strategy. (428 points, 296 comments on Hacker News)",
+        "title": "Understanding ChatGPT Work",
+        "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+        "summary": "Another killer feature of ChatGPT Work is the browser tool . ChatGPT Chat can’t run sub-agents. Update : Actually this seems to work in ChatGPT Chat as well. (265 points, 140 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-29T18:40:56+00:00"
+        "date": "2026-08-31T01:28:22+00:00"
       },
       {
-        "title": "Sony Music and Warner Chappell are suing Anthropic",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-        "summary": "The companies call it “one of the largest and most blatant ongoing thefts of intellectual property in history.” The companies call it “one of the largest and most blatant ongoing thefts of intellectual property in history.” Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for “tens of thousands” copyrighted works. In…",
+        "title": "“I just chose words carefully”",
+        "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+        "summary": "I don’t think anyone particularly enjoys typesetting in monospace. Regular text is okay – at least as okay as it can be: Right aligning is also fine, as long as you don’t mind counting spaces, but centering already gets tricky, as you don’t have a half space to make things truly even: And full justification is where things get particularly weird. You can rewrite the text to choose only words that precisely add up to… (1053 points, 286 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-08-30T22:49:48+00:00"
+      },
+      {
+        "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
+        "url": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
+        "summary": "It’s basically mid-aughts Brooklyn in audio form. It’s basically mid-aughts Brooklyn in audio form. Few embodied that as much as New York dance punk band Professor Murder.",
         "source": "The Verge",
-        "date": "2026-08-29T18:19:53+00:00"
+        "date": "2026-08-30T21:18:59+00:00"
       },
       {
-        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-        "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-        "summary": "But if the culture is good, then often the end product will be good as well. So, both AI and good culture go hand in hand really well together. Great culture is the biggest productivity hack. (410 points, 101 comments on Hacker News)",
+        "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
+        "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+        "summary": "﻿The archive includes basically every title uploaded between 2003 and 2013. ﻿The archive includes basically every title uploaded between 2003 and 2013. Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked . The leak also includes titles from third-party developers.",
+        "source": "The Verge",
+        "date": "2026-08-30T19:14:08+00:00"
+      },
+      {
+        "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
+        "url": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
+        "summary": "The telescope will survey our universe 1,000 times faster than Hubble. The telescope will survey our universe 1,000 times faster than Hubble. From this vantage point, Roman will conduct an unprecedented survey of the universe .",
+        "source": "The Verge",
+        "date": "2026-08-30T16:36:39+00:00"
+      },
+      {
+        "title": "Haiku R1/beta6 has been released",
+        "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+        "summary": "After about two years since the last beta, and only about a week after Haiku’s 25th birthday, Haiku R1/beta6 has been released! See “ Release Notes ” for the release notes, “ Press contact ”, for press inquiries … and “ Get Haiku! ” to skip all that and just download the release (or upgrade to it from an existing install.) After about two years since the last beta, and only about a week after Haiku’s 25th birthday,… (347 points, 95 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-29T17:19:47+00:00"
+        "date": "2026-08-30T16:01:10+00:00"
       }
     ]
   }
