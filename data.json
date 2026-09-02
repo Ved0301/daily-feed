@@ -1,93 +1,135 @@
 {
-  "generated_at": "2026-09-01T12:23:20.932441+00:00",
+  "generated_at": "2026-09-02T11:58:39.847075+00:00",
   "sections": {
     "research": [
       {
-        "title": "Context-Aware Interleaved Batching for WhisperX",
-        "url": "https://arxiv.org/abs/2608.31170v1",
-        "summary": "Carlos Bain, Max Bain — While WhisperX accelerates speech transcription via intra-audio batching, it isolates audio segments, losing the historical context needed for coherent punctuation and terminology transcription. Conversely, standard…",
+        "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
+        "url": "https://arxiv.org/abs/2609.01604v1",
+        "summary": "Himil Vasava, Ming Jiang — LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remains poorly…",
         "source": "arXiv",
-        "date": "2026-08-31T17:59:46Z"
+        "date": "2026-09-01T17:59:49Z"
       },
       {
-        "title": "Constant Individual Regret in General Games",
-        "url": "https://arxiv.org/abs/2608.31166v1",
-        "summary": "Mingyang Liu, Gabriele Farina, Asuman Ozdaglar — Uncoupled no-regret dynamics provide a decentralized route to equilibrium, but prior guarantees for individual regret retain a polylogarithmic dependence on the horizon. We remove this dependence for every finite…",
+        "title": "Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation",
+        "url": "https://arxiv.org/abs/2609.01603v1",
+        "summary": "Kefeng Duan, Dewu Zheng, Yanlin Wang et al. — Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation methods select…",
         "source": "arXiv",
-        "date": "2026-08-31T17:59:16Z"
+        "date": "2026-09-01T17:59:46Z"
       },
       {
-        "title": "SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies",
-        "url": "https://arxiv.org/abs/2608.31167v1",
-        "summary": "Weiqi Wang, Zhi Li, Yudong Lei et al. — Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a reactive policy, yet…",
+        "title": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation",
+        "url": "https://arxiv.org/abs/2609.01601v1",
+        "summary": "Kefeng Duan, Dewu Zheng, Yanlin Wang et al. — The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories often exceed the input…",
         "source": "arXiv",
-        "date": "2026-08-31T17:59:16Z"
+        "date": "2026-09-01T17:59:39Z"
       },
       {
-        "title": "Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations",
-        "url": "https://arxiv.org/abs/2608.31157v1",
-        "summary": "Shijun Zhang — Many parameter-efficient methods generate the parameters of a large neural network from a low-dimensional latent representation. Given an architecture $Φ$ with $P_Φ$ parameter slots, we write…",
+        "title": "CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?",
+        "url": "https://arxiv.org/abs/2609.01600v1",
+        "summary": "Damien Sileo, Dimitri Kachler — Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependencies and cleanup.",
         "source": "arXiv",
-        "date": "2026-08-31T17:55:51Z"
+        "date": "2026-09-01T17:59:13Z"
       },
       {
-        "title": "Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification",
-        "url": "https://arxiv.org/abs/2608.31142v1",
-        "summary": "Yisen Xi — The 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms, supply-chain risk, and…",
+        "title": "The Rise of Verbal Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2609.01597v1",
+        "summary": "Kshitij Tayal, Arun Sharma, Genta Indra Winata et al. — Natural language is emerging as a primary feedback channel for improving language agents, capable of conveying intent, preferences, and causal structure in forms interpretable by both humans and modern language models.…",
         "source": "arXiv",
-        "date": "2026-08-31T17:48:24Z"
+        "date": "2026-09-01T17:58:18Z"
       },
       {
-        "title": "Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation",
-        "url": "https://arxiv.org/abs/2608.31139v1",
-        "summary": "Riya Ahuja, Tim Kacprowski, Roya Shiasi Sardoabi — BioMedRAG introduced retrieval-augmented generation with a learned chunk scorer for biomedical information extraction. However, it relies on fixed-size chunking which can fragment semantic evidence.",
+        "title": "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation",
+        "url": "https://arxiv.org/abs/2609.01596v1",
+        "summary": "Haoyuan Deng, Haichao Liu, Wenkai Guo et al. — Real-world robotic assembly at sub-millimeter tolerances demands spatial precision, compliant interaction, and robustness to contact failures. We present Facet-0, a robotic foundation model that predicts and values the…",
         "source": "arXiv",
-        "date": "2026-08-31T17:44:54Z"
+        "date": "2026-09-01T17:58:07Z"
       },
       {
-        "title": "OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques",
-        "url": "https://arxiv.org/abs/2608.31137v1",
-        "summary": "Hamed Babaei Giglou, Sören Auer, Peio Popov et al. — Ontology alignment (OA) has evolved through several methodological paradigms, ranging from lexical and structural aligners to knowledge graph embedding (KGE) models and, more recently, Large Language Model (LLM)-based…",
+        "title": "Mechanism Design for Alignment and Control",
+        "url": "https://arxiv.org/abs/2609.01595v1",
+        "summary": "Dirk Bergemann, Andrew Koh, Stephen Morris — We develop a framework for mechanism design with AI agents whose alignment (preferences) and capabilities (feasible actions and information) are unknown. We want such agents to act on our behalf so mechanisms must…",
         "source": "arXiv",
-        "date": "2026-08-31T17:44:25Z"
+        "date": "2026-09-01T17:57:50Z"
       },
       {
-        "title": "Implementing neural network mixed-effects models in Template Model Builder (TMB)",
-        "url": "https://arxiv.org/abs/2608.31133v1",
-        "summary": "Nan Zheng, Hoi Yiu Cheung, Vibhu Sharma et al. — Neural network mixed-effects models (NMMs) have gained traction by combining the strong representation and predictive power of artificial neural networks with the capacity of mixed-effects modeling to capture complex…",
+        "title": "StudentSim: Training LLM-based Student Simulators",
+        "url": "https://arxiv.org/abs/2609.01591v1",
+        "summary": "Ke Yang, Chenglong Wang, Michel Galley et al. — AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to collect from real…",
         "source": "arXiv",
-        "date": "2026-08-31T17:43:02Z"
+        "date": "2026-09-01T17:55:10Z"
       },
       {
-        "title": "DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening",
-        "url": "https://arxiv.org/abs/2608.31128v1",
-        "summary": "Yung Wei Shueh, Zhi-Jie Chen, Chia-Hsuan Hsu et al. — Large language models (LLMs) offer promising clinical decision support but remain vulnerable to hallucinated facts, unsupported recommendations, and citation errors. We present DIASENTINEL, a fully on-premise…",
+        "title": "Designing Proactive Thought Partners for Writing",
+        "url": "https://arxiv.org/abs/2609.01588v1",
+        "summary": "Chao Zhang, Abe Davis, Chih-Wei Chen et al. — Writing involves diverse cognitive activities, from ideation to revision, and writers' needs vary across individuals and moments. Proactive AI promises to provide the right support at the right time, yet existing…",
         "source": "arXiv",
-        "date": "2026-08-31T17:40:43Z"
+        "date": "2026-09-01T17:54:32Z"
       },
       {
-        "title": "On the Complexity of the Compatibility Problem for Succinctly Encoded Conditional Distributions",
-        "url": "https://arxiv.org/abs/2608.31120v1",
-        "summary": "Guy Emerson — The motivation for this paper is the investigation of the trade-offs implicit in probabilistic models used in machine learning. Models are often used to make predictions in the form of conditional probabilities.…",
+        "title": "The Structure of Quantization Damage in LLMs: Why the Next Bit Should Be Spent Globally",
+        "url": "https://arxiv.org/abs/2609.01587v1",
+        "summary": "Jundong Hu, Shekar Ramachandran — Post-training quantization (PTQ) is widely used to reduce the cost of serving large language models (LLMs), but its accuracy cost is uneven and is often tuned per model. We study where quantization damage occurs and how…",
         "source": "arXiv",
-        "date": "2026-08-31T17:32:21Z"
+        "date": "2026-09-01T17:53:41Z"
       },
       {
-        "title": "PaperGym: Rubric-Centered Evolution for Research-Plan Generation",
-        "url": "https://arxiv.org/abs/2608.31119v1",
-        "summary": "Yuhan Wang, Zhengxi Lu, Yuchen Yan et al. — Research planning is the decisive capability of AI scientists. Yet a research plan admits no verifiable answer, so reinforcement learning lacks the environment it requires: tasks paired with a critic.",
+        "title": "Closing Cost-Quality Gap in Document VLMs: Difficulty-Aware Data Curation and Quality-Adjusted Deployment Economics",
+        "url": "https://arxiv.org/abs/2609.01575v1",
+        "summary": "Maksim Evdokimov, Matvey Ivanov, Dmitrii Tsiupin et al. — Extracting structured fields from hundreds of millions of documents annually remains costly in regulated industries: bespoke OCR cascades cover only a fraction of workflows, privacy rules preclude external models, and…",
         "source": "arXiv",
-        "date": "2026-08-31T17:31:18Z"
+        "date": "2026-09-01T17:40:29Z"
       },
       {
-        "title": "When Does Bigger Help? A Controlled Study of LLM Scale for Ontology Learning",
-        "url": "https://arxiv.org/abs/2608.31118v1",
-        "summary": "Hamed Babaei Giglou, Sören Auer, Jennifer D'Souza — The effect of Large Language Model (LLM) scale on ontology learning (OL) performance remains insufficiently characterized. We present a controlled evaluation of 13 models spanning dense and Mixture-of-Experts variants…",
+        "title": "Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs",
+        "url": "https://arxiv.org/abs/2609.01573v1",
+        "summary": "Jingtan Wang, Arun Verma, Xiaoqiang Lin et al. — How to divide a fixed annotation budget between supervised fine-tuning (SFT) and reinforcement learning (RL) during LLM post-training remains an open problem. Existing work characterizes only broad trends (e.g., SFT…",
         "source": "arXiv",
-        "date": "2026-08-31T17:30:05Z"
+        "date": "2026-09-01T17:39:55Z"
       }
     ],
     "labs": [
+      {
+        "title": "Mapping global methane emissions from space with deep learning",
+        "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+        "summary": "A global view of methane detections from space. We created 3.6 million synthetic methane plumes and injected them directly into real EMIT scenes. Deployed on real-world satellite data, MAPL-EMIT demonstrates strong potential for scalable emissions mapping.",
+        "source": "Google Research",
+        "date": "2026-09-01T18:40:06+00:00"
+      },
+      {
+        "title": "Introducing agentic video understanding with Gemini",
+        "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+        "summary": "Google just launched agentic video understanding for Gemini 3.7 Flash, 3.6 Flash, and 3.5 Flash-Lite. Today, we’re launching agentic video understanding across our latest models: Gemini 3.7 Flash, 3.6 Flash and 3.5 Flash-Lite. Using agentic video understanding places Gemini 3.7 Flash at the accuracy-to-cost pareto frontier for video analysis.",
+        "source": "Google DeepMind",
+        "date": "2026-09-01T17:08:51+00:00"
+      },
+      {
+        "title": "How AI-native companies turn workflows into operating capability",
+        "url": "https://openai.com/index/ai-native-company-workflows",
+        "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+        "source": "OpenAI",
+        "date": "2026-09-01T17:00:00+00:00"
+      },
+      {
+        "title": "Path to Astra: critical capabilities and frontier safeguards",
+        "url": "https://openai.com/index/path-to-astra",
+        "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+        "source": "OpenAI",
+        "date": "2026-09-01T13:00:00+00:00"
+      },
+      {
+        "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+        "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+        "source": "OpenAI",
+        "date": "2026-09-01T12:00:00+00:00"
+      },
+      {
+        "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+        "url": "https://openai.com/index/gilbert-tobin",
+        "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+        "source": "OpenAI",
+        "date": "2026-09-01T01:00:00+00:00"
+      },
       {
         "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
         "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
@@ -129,135 +171,178 @@
         "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
         "source": "OpenAI",
         "date": "2026-08-28T02:00:00+00:00"
-      },
-      {
-        "title": "Planetary prediction engine: Automating global models via Earth AI",
-        "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
-        "summary": "Rama Pasumarthi, Staff Software Engineer, and Shravya Shetty, Distinguished Engineer, Google Research As part of Google Earth AI , we introduce the planetary prediction engine (PPE), an experimental research capability that autonomously executes the full geospatial modeling workflow — from data discovery to model training — achieving improvements across diverse prediction tasks in public health, food security,…",
-        "source": "Google Research",
-        "date": "2026-08-27T17:37:20+00:00"
-      },
-      {
-        "title": "Gemini Omni 1.1 Flash lets you build with more control",
-        "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-        "summary": "Prompt 1: Continue the video. Prompt 2: Continue the video. Prompt 3: Continue the video.",
-        "source": "Google DeepMind",
-        "date": "2026-08-27T16:11:32+00:00"
-      },
-      {
-        "title": "Piloting the world's first double-blind AI evaluations",
-        "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-        "summary": "Either evaluators handed over their testing prompts (risking the model provider seeing the test questions in advance), or the model provider handed over their model weights (risking their intellectual property). Double-blind evaluations eliminate this compromise. The evaluator cannot see the Gemini model weights, and Google cannot see the evaluator’s test prompts.",
-        "source": "Google DeepMind",
-        "date": "2026-08-27T12:59:16+00:00"
-      },
-      {
-        "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-        "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-        "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-        "source": "OpenAI",
-        "date": "2026-08-27T09:00:00+00:00"
-      },
-      {
-        "title": "Expanding OpenAI’s presence in Brazil",
-        "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-        "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-        "source": "OpenAI",
-        "date": "2026-08-27T03:00:00+00:00"
-      },
-      {
-        "title": "GlucoFM: Foundation model for continuous glucose monitoring",
-        "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
-        "summary": "Overview of GlucoFM, a lightweight dual-stream foundation model for continuous glucose monitoring. The model framework and pre-training objectives of GlucoFM. Effect of 𝐾-day CGM observation.",
-        "source": "Google Research",
-        "date": "2026-08-26T18:42:43+00:00"
       }
     ],
-    "startups": [],
+    "startups": [
+      {
+        "title": "Larry Page’s flying car company Pivotal loses its CEO",
+        "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+        "summary": "Ken Karklin, who was Pivotal’s CEO for more than four years, left the role this week, according to a press release . Karklin’s departure comes two years after Pivotal started sales of Helix , its first lightweight electric personal aircraft. BlackFly has flown more than 10,000 times, according to Pivotal.",
+        "source": "TechCrunch",
+        "date": "2026-09-01T23:59:59+00:00"
+      },
+      {
+        "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+        "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+        "summary": "The streaming service will launch with more than 160,000 hours of entertainment content but without the live sports that have helped drive its massive audience in India, including the Indian Premier League (IPL), Women’s Premier League (WPL), and Indian national cricket matches. As part of the deal, streaming services Hotstar and JioCinema merged to create JioHotstar for Indian consumers. Ivan covers global consumer…",
+        "source": "TechCrunch",
+        "date": "2026-09-01T23:00:00+00:00"
+      },
+      {
+        "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+        "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+        "summary": "Apple has followed Google’s lead and officially changed the name of Lake Ontario to “Lake America” on its Apple Maps service less than a week after President Trump ordered the change. Apple Maps users in the United States will begin to see Lake America, not Lake Ontario — one of the five Great Lakes in North America — when using the website or mobile app. Apple Maps users in Canada will continue to see Lake Ontario,…",
+        "source": "TechCrunch",
+        "date": "2026-09-01T22:13:34+00:00"
+      },
+      {
+        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+        "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+        "summary": "AI training-data startup AfterQuery has reportedly raised a round that valued it at $3.2 billion. AfterQuery’s founders, today 22 and 23 years old, attended Y Combinator’s Winter 2025 cohort, just 18 months ago. AfterQuery could not be immediately reached for comment.",
+        "source": "TechCrunch",
+        "date": "2026-09-01T22:08:24+00:00"
+      },
+      {
+        "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+        "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+        "summary": "OpenAI shared new details on its forthcoming Astra model, which the company said is the first large language model to meet its “critical cybersecurity threshold,” in preparation for its imminent release. For Astra, however, the company invested in unspecified new techniques designed to make the model safer. For Astra, OpenAI said it designed a test to tempt the new model to replicate the actions of the rogue agents…",
+        "source": "TechCrunch",
+        "date": "2026-09-01T21:06:24+00:00"
+      },
+      {
+        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+        "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+        "summary": "Announced in a blog post , the features include those aimed at reducing motion sickness, helping blind and low-vision users navigate their surroundings, remembering where users leave important items, and another that adds new ways to personalize Google Messages. Google says this feature is available to Android 17 users. Google is also introducing “Guided Vision,” a feature designed with blind and low-vision users in…",
+        "source": "TechCrunch",
+        "date": "2026-09-01T20:53:05+00:00"
+      },
+      {
+        "title": "X says attackers are targeting user accounts after the launch of X Money",
+        "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+        "summary": "After numerous X users reported receiving unsolicited password reset emails, a representative said the social media company was actively investigating the issue but had not yet found evidence that the hacks were successful. Attackers are mass-triggering the form using public usernames. No confirmed system breach or mass takeovers.",
+        "source": "TechCrunch",
+        "date": "2026-09-01T20:48:32+00:00"
+      },
+      {
+        "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
+        "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+        "summary": "John Ternus has officially taken the reins as Apple CEO, succeeding Tim Cook, who held the role for 15 years. The company’s former senior vice president of Hardware Engineering, Ternus enters the CEO role at a critical time for Apple. On September 9, the company will host its annual iPhone event, which is rumored to include the launch of Apple’s first foldable iPhone .",
+        "source": "TechCrunch",
+        "date": "2026-09-01T19:45:28+00:00"
+      },
+      {
+        "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+        "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+        "summary": "On Tuesday, Anthropic released Fable and Mythos 5.1, twinned versions of the company’s most advanced AI model. One of the most significant changes is Anthropic’s previously reported embrace of zero data retention, allowing clients to run Anthropic models on their own infrastructure without data outflows. “Anthropic has never trained on enterprise data without explicit permission, and never will,” the announcement…",
+        "source": "TechCrunch",
+        "date": "2026-09-01T19:39:22+00:00"
+      },
+      {
+        "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
+        "url": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
+        "summary": "New York’s prestigious-yet-secretive venture firm Thrive Capital has been hauled into the center of a messy drama that could result in criminal charges against Gianni Infantino, the controversial president of global soccer organization FIFA. FIFA engaged JPMorgan to drum up potential investors for the proposed company. An association that includes North American teams also objected.",
+        "source": "TechCrunch",
+        "date": "2026-09-01T19:30:24+00:00"
+      },
+      {
+        "title": "Who is John Ternus, the new Apple CEO?",
+        "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
+        "summary": "After 15 years, Tim Cook has handed off the Apple CEO role to John Ternus, the company’s senior vice president of hardware engineering. Ternus is assuming the CEO role at a crucial time for Apple. Ternus’ earliest project at Apple involved scrutinizing parts for the Apple Cinema Display, an early desktop monitor.",
+        "source": "TechCrunch",
+        "date": "2026-09-01T18:02:00+00:00"
+      },
+      {
+        "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+        "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+        "summary": "Google is entering the creative design market with a new image-creation and editing tool called Google Pics, which will become a part of its Google Workspace suite for business customers and premium Google AI subscribers. The company says the product, which is powered by Google’s Nano Banana image-generation model, will roll out over the coming weeks to most Workspace customers and those who pay for Google AI Pro or…",
+        "source": "TechCrunch",
+        "date": "2026-09-01T17:35:37+00:00"
+      }
+    ],
     "wider_tech": [
       {
-        "title": "John Ternus is now the CEO of Apple",
-        "url": "https://www.theverge.com/tech/987150/apple-ceo-john-ternus",
-        "summary": "For the first time since 2011, one of the world’s most valuable companies has a new leader, as today marks John Ternus’ first day as Apple’s CEO. He’s replacing Tim Cook, who will continue on as the executive chairman on Apple’s board and departed with a letter to employees that remarked, “This place is proof that culture triumphs over everything. Here’s a look at Apple’s senior leadership team as it stands today:…",
+        "title": "The robot butler dream doesn’t have legs",
+        "url": "https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa",
+        "summary": "A fully humanoid robot housekeeper just isn’t practical First, despite my tech-reviewer fascination with humanoid robots , a fully humanoid robot housekeeper isn’t practical. A robot brain could run your home autonomously and use reasoning to adapt when the home’s unpredictabilities arise. It’s clear home robots are coming.",
         "source": "The Verge",
-        "date": "2026-09-01T10:04:02+00:00"
+        "date": "2026-09-02T11:00:00+00:00"
       },
       {
-        "title": "Dyson made a camera-equipped toothbrush that flosses for you",
-        "url": "https://www.theverge.com/tech/986737/dyson-camerajet-smart-toothbrush-live-camera-flosser-pricing-availability",
-        "summary": "A tiny camera triggers a blast of mouthwash that flosses between your teeth when a gap is detected. A tiny camera triggers a blast of mouthwash that flosses between your teeth when a gap is detected. Within 100 milliseconds of a gap between your teeth being detected, the CameraJet emits a cone-shaped blast of mouthwash to clean out the space.",
+        "title": "Is this the future of America?",
+        "url": "https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash",
+        "summary": "“And so we came up with this plan to attract data centers.” Today, Loudoun County has another moniker: Data Center Alley. From 2002 to 2005, no new data centers had been permitted. These data centers are here.",
         "source": "The Verge",
-        "date": "2026-09-01T09:30:00+00:00"
+        "date": "2026-09-02T10:00:01+00:00"
       },
       {
-        "title": "GPU World",
-        "url": "https://www.gpuworld.org/",
-        "summary": "AI Use LLM use is permitted, but discouraged; we remind participants that LLM use tends to reduce originality and writing quality, and the flaws are especially obvious when LLM outputs are read as a group---unskillful use of LLMs will reduce the odds of being the best entry. AI Use LLM use is permitted, but discouraged; we remind participants that LLM use tends to reduce originality and writing quality, and the… (282 points, 160 comments on Hacker News)",
+        "title": "Acer’s new MacBook Air rival is nearly a pound lighter than Apple’s laptop",
+        "url": "https://www.theverge.com/gadgets/987802/acer-swift-blade-14-air-16-laptop-ifa-price-specs",
+        "summary": "﻿The half-inch thin laptop is joined by a new, much larger Swift Air 16 — both with Intel Wildcat Lake. ﻿The half-inch thin laptop is joined by a new, much larger Swift Air 16 — both with Intel Wildcat Lake. It’s the same story for the other Swift laptop Acer is announcing today: the Swift Air 16. This is a larger version of the Swift Air 14 announced at Computex.",
+        "source": "The Verge",
+        "date": "2026-09-02T09:30:00+00:00"
+      },
+      {
+        "title": "Acer’s new concept hardware is a gaming handheld with a keyboard",
+        "url": "https://www.theverge.com/games/988029/acer-project-dualplay-mini-concept-gaming-handheld-keyboard-ifa",
+        "summary": "Project DualPlay Mini has a swiveling screen and a flip-out keyboard. Project DualPlay Mini has a swiveling screen and a flip-out keyboard. Acer’s latest concept device, Project DualPlay Mini, is an attempt to upend that dichotomy by sticking a keyboard in a handheld.",
+        "source": "The Verge",
+        "date": "2026-09-02T09:30:00+00:00"
+      },
+      {
+        "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance",
+        "url": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
+        "summary": "Memory integrity could get enabled on your device next month, unless you’ve already disabled it. Memory integrity could get enabled on your device next month, unless you’ve already disabled it. Microsoft is getting ready to roll out its memory integrity security feature of Windows 11 to more devices next month.",
+        "source": "The Verge",
+        "date": "2026-09-02T08:57:40+00:00"
+      },
+      {
+        "title": "Dell’s newest laptop sounds a lot like a MacBook Neo",
+        "url": "https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs",
+        "summary": "﻿The Dell 14S promises an aluminum build, Intel Wildcat Lake chips, and lots of battery life — for a price we don’t know exactly yet. ﻿The Dell 14S promises an aluminum build, Intel Wildcat Lake chips, and lots of battery life — for a price we don’t know exactly yet. For chip offerings, it’ll be either the Intel Core 5 320 or Core 7 350 — the 14S won’t scale up to Intel Panther Lake options like the XPS 13 is soon…",
+        "source": "The Verge",
+        "date": "2026-09-02T07:00:00+00:00"
+      },
+      {
+        "title": "This new Roomba seals itself to your carpet",
+        "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
+        "summary": "iRobot’s Roomba Max 875 claims its new SealForce tech will drive out more dirt than suction alone. iRobot’s Roomba Max 875 claims its new SealForce tech will drive out more dirt than suction alone. The $1,199 Roomba Max 875 Combo is the company’s newest top-of-the-line robot vacuum and mop, and it debuts alongside the $899 Roomba Plus 678 Combo. The company is releasing a midrange version of the 875, the Roomba Plus…",
+        "source": "The Verge",
+        "date": "2026-09-02T06:00:00+00:00"
+      },
+      {
+        "title": "True Rate of Unemployment",
+        "url": "https://www.lisep.org/tru",
+        "summary": "256 points, 226 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-01T03:16:36+00:00"
+        "date": "2026-09-02T02:21:10+00:00"
       },
       {
-        "title": "Fastpotify",
-        "url": "https://fastpotify.rocks/",
-        "summary": "A lightweight Spotify client with local playback, library access, and Spotify Connect controls for Linux, macOS, and Windows. Load a classic .wsz skin from the Winamp Skin Museum . The mini player includes an analyser, equalizer, playlist, shade modes, and integer pixel scaling. (496 points, 284 comments on Hacker News)",
+        "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+        "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+        "summary": "A record available at this identity theft service that includes the drivers license for U.S. Curiously, the identity records include not only drivers licenses but also marijuana dispensary cards. The record totals listed by the Nexus identity theft service. (263 points, 125 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-01T02:52:14+00:00"
+        "date": "2026-09-01T23:17:43+00:00"
       },
       {
-        "title": "Evidence of Fraud in an Influential Study About Procrastination",
-        "url": "https://datacolada.org/138",
-        "summary": "Do We Have The Original Data? The replication data are sane. The original data are not. (273 points, 185 comments on Hacker News)",
+        "title": "Google needs Hollywood more than the studios need AI",
+        "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+        "summary": "Striking deals with studios like Disney could help the tech giant shift the narrative about artificial intelligence. Striking deals with studios like Disney could help the tech giant shift the narrative about artificial intelligence. Though Google has not yet been able to get Disney, Warner Bros.",
+        "source": "The Verge",
+        "date": "2026-09-01T22:50:29+00:00"
+      },
+      {
+        "title": "My local model setup on an M4 Pro Mac Mini",
+        "url": "https://lws.io/blog/my-local-model-setup/",
+        "summary": "The Mac mini is always on. Hermes runs on the Mac mini as well, using a local model on the same machine. Find a model, click download. (230 points, 139 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-08-31T23:45:56+00:00"
+        "date": "2026-09-01T22:30:52+00:00"
       },
       {
-        "title": "Run macOS Software on Linux",
-        "url": "https://www.darlinghq.org/",
-        "summary": "Darling is a translation layer that lets you run macOS software on Linux Darling runs macOS software directly without using a hardware emulator. Like Linux, Darling is free and open-source software. Darling implements a complete Darwin environment. (244 points, 74 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-31T22:53:45+00:00"
-      },
-      {
-        "title": "The Google TV Streamer now costs $50 more",
-        "url": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
-        "summary": "Google’s streaming device is the latest to get a price hike, after similar increases from Apple and Amazon. Google’s streaming device is the latest to get a price hike, after similar increases from Apple and Amazon. Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price.",
+        "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+        "summary": "﻿Mythos 5.1 is also launching in Project Glasswing. ﻿Mythos 5.1 is also launching in Project Glasswing. Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1 , address criticisms from customers about price, data retention, and overzealous safeguards. Fable 5.1 also has “more precise safeguards” that Anthropic says are less likely to block basic biology questions than Fable 5, but Mythos 5.1 has the same…",
         "source": "The Verge",
-        "date": "2026-08-31T22:32:51+00:00"
-      },
-      {
-        "title": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
-        "url": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
-        "summary": "The Iris Ultra Max brings 4K, 120Hz, VRR, ALLM, 6500 ISO lumens, and dual-iris contrast control. The Iris Ultra Max brings 4K, 120Hz, VRR, ALLM, 6500 ISO lumens, and dual-iris contrast control. JMGO’s 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China.",
-        "source": "The Verge",
-        "date": "2026-08-31T22:00:00+00:00"
-      },
-      {
-        "title": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
-        "url": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
-        "summary": "Amazon responded saying the FTC’s claim ‘fundamentally misunderstands how advertisers behave.’ Amazon responded saying the FTC’s claim ‘fundamentally misunderstands how advertisers behave.’ The FTC and 22 state attorneys general are suing Amazon for allegedly using a “secret ad surcharge” to drive up prices for ads on its website and app. FTC chairman Andrew Ferguson claims in a blog post on the lawsuit that the…",
-        "source": "The Verge",
-        "date": "2026-08-31T21:41:42+00:00"
-      },
-      {
-        "title": "I went to the loneliest baseball game on Apple Vision Pro",
-        "url": "https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game",
-        "summary": "﻿Watching the Red Sox-Yankees game on a headset is for someone — just not for me. ﻿Watching the Red Sox-Yankees game on a headset is for someone — just not for me. This weekend, I strapped on an Apple Vision Pro to watch a baseball game in immersive virtual reality for the first time. It all made me wonder who or what watching a game on Vision Pro is for.",
-        "source": "The Verge",
-        "date": "2026-08-31T21:18:27+00:00"
-      },
-      {
-        "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-        "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-        "summary": "Google today reached the final milestone in a browser-extension transition that has been years in the making, all remaining Manifest V2 extensions were removed from the Chrome Web Store. Moreover, Chrome Web Store (CWS) team has informed the affected extension developers regarding this removal action. Users can no longer find or install these Manifest V2 extensions through the Chrome Web Store, even if the… (692 points, 527 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-08-31T21:10:58+00:00"
-      },
-      {
-        "title": "Alienware’s budget-friendly QD-OLED is discounted for the first time",
-        "url": "https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale",
-        "summary": "It isn’t the biggest discount, but this QD-OLED panel is already well-priced. It isn’t the biggest discount, but this QD-OLED panel is already well-priced. The 27-inch gaming monitor features an QD-OLED panel for deep, immersive black levels, and quantum dots for full and vivid colors.",
-        "source": "The Verge",
-        "date": "2026-08-31T19:31:59+00:00"
+        "date": "2026-09-01T22:01:36+00:00"
       }
     ]
   }
