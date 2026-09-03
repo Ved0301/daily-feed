@@ -1,99 +1,120 @@
 {
-  "generated_at": "2026-09-02T11:58:39.847075+00:00",
+  "generated_at": "2026-09-03T11:58:36.999701+00:00",
   "sections": {
     "research": [
       {
-        "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
-        "url": "https://arxiv.org/abs/2609.01604v1",
-        "summary": "Himil Vasava, Ming Jiang — LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remains poorly…",
+        "title": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
+        "url": "https://arxiv.org/abs/2609.02887v1",
+        "summary": "Dulhan Jayalath, Benjamin Ballyk, Oiwi Parker Jones — Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natural human-computer…",
         "source": "arXiv",
-        "date": "2026-09-01T17:59:49Z"
+        "date": "2026-09-02T17:59:46Z"
       },
       {
-        "title": "Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation",
-        "url": "https://arxiv.org/abs/2609.01603v1",
-        "summary": "Kefeng Duan, Dewu Zheng, Yanlin Wang et al. — Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation methods select…",
+        "title": "Discriminative World Models for Web Agents",
+        "url": "https://arxiv.org/abs/2609.02885v1",
+        "summary": "Kelvin Li, Dhruv Pendharkar, Anish Pahilajani et al. — Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PRM).",
         "source": "arXiv",
-        "date": "2026-09-01T17:59:46Z"
+        "date": "2026-09-02T17:59:40Z"
       },
       {
-        "title": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation",
-        "url": "https://arxiv.org/abs/2609.01601v1",
-        "summary": "Kefeng Duan, Dewu Zheng, Yanlin Wang et al. — The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories often exceed the input…",
+        "title": "Graph Machine: Towards Better Pretraining via Edges",
+        "url": "https://arxiv.org/abs/2609.02881v1",
+        "summary": "Lintai Hou — We introduce the Graph Machine (GM), an architecture that maintains an $O(n)$-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static routing, GM preserves…",
         "source": "arXiv",
-        "date": "2026-09-01T17:59:39Z"
+        "date": "2026-09-02T17:56:41Z"
       },
       {
-        "title": "CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?",
-        "url": "https://arxiv.org/abs/2609.01600v1",
-        "summary": "Damien Sileo, Dimitri Kachler — Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependencies and cleanup.",
+        "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
+        "url": "https://arxiv.org/abs/2609.02876v1",
+        "summary": "Alessio Spurio Mancini — Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajectories suit…",
         "source": "arXiv",
-        "date": "2026-09-01T17:59:13Z"
+        "date": "2026-09-02T17:56:10Z"
       },
       {
-        "title": "The Rise of Verbal Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2609.01597v1",
-        "summary": "Kshitij Tayal, Arun Sharma, Genta Indra Winata et al. — Natural language is emerging as a primary feedback channel for improving language agents, capable of conveying intent, preferences, and causal structure in forms interpretable by both humans and modern language models.…",
+        "title": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework",
+        "url": "https://arxiv.org/abs/2609.02861v1",
+        "summary": "Cagri Temel — Autonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper presents TRACE (Transparent…",
         "source": "arXiv",
-        "date": "2026-09-01T17:58:18Z"
+        "date": "2026-09-02T17:44:25Z"
       },
       {
-        "title": "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation",
-        "url": "https://arxiv.org/abs/2609.01596v1",
-        "summary": "Haoyuan Deng, Haichao Liu, Wenkai Guo et al. — Real-world robotic assembly at sub-millimeter tolerances demands spatial precision, compliant interaction, and robustness to contact failures. We present Facet-0, a robotic foundation model that predicts and values the…",
+        "title": "User Feedback Provides a Unique Signal that LLMs Can not Detect",
+        "url": "https://arxiv.org/abs/2609.02859v1",
+        "summary": "Shachar Don-Yehiya, Leshem Choshen, Omri Abend — Harnessing naturally occurring feedback from user interactions offers a promising learning signal for Large Language Models (LLMs). However, recent studies suggest this feedback is inherently noisy and difficult to…",
         "source": "arXiv",
-        "date": "2026-09-01T17:58:07Z"
+        "date": "2026-09-02T17:42:44Z"
       },
       {
-        "title": "Mechanism Design for Alignment and Control",
-        "url": "https://arxiv.org/abs/2609.01595v1",
-        "summary": "Dirk Bergemann, Andrew Koh, Stephen Morris — We develop a framework for mechanism design with AI agents whose alignment (preferences) and capabilities (feasible actions and information) are unknown. We want such agents to act on our behalf so mechanisms must…",
+        "title": "Improved Gradient Descent Lower Bounds Beyond Nesterov",
+        "url": "https://arxiv.org/abs/2609.02855v1",
+        "summary": "Yuhan Ye, Kaizhao Liu — We study how far gradient descent (GD) can be accelerated by predetermined stepsizes in smooth convex optimization. Going beyond the classical $Ω(n^{-2})$ first-order oracle lower bound of Nemirovsky and Yudin, we prove…",
         "source": "arXiv",
-        "date": "2026-09-01T17:57:50Z"
+        "date": "2026-09-02T17:39:52Z"
       },
       {
-        "title": "StudentSim: Training LLM-based Student Simulators",
-        "url": "https://arxiv.org/abs/2609.01591v1",
-        "summary": "Ke Yang, Chenglong Wang, Michel Galley et al. — AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to collect from real…",
+        "title": "The Implications of Linguistic Illegibility for LLM Security",
+        "url": "https://arxiv.org/abs/2609.02852v1",
+        "summary": "James Mickens — LLMs are trained to generate natural language. However, various strands of evidence indicate that an LLM's externalized linguistic outputs and mechanistically-extracted linguistic features can be an unreliable lens for…",
         "source": "arXiv",
-        "date": "2026-09-01T17:55:10Z"
+        "date": "2026-09-02T17:37:22Z"
       },
       {
-        "title": "Designing Proactive Thought Partners for Writing",
-        "url": "https://arxiv.org/abs/2609.01588v1",
-        "summary": "Chao Zhang, Abe Davis, Chih-Wei Chen et al. — Writing involves diverse cognitive activities, from ideation to revision, and writers' needs vary across individuals and moments. Proactive AI promises to provide the right support at the right time, yet existing…",
+        "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
+        "url": "https://arxiv.org/abs/2609.02849v1",
+        "summary": "Aleksander Ficek, Sean Narenthiran, Mehrzad Samadi et al. — Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-end specialization…",
         "source": "arXiv",
-        "date": "2026-09-01T17:54:32Z"
+        "date": "2026-09-02T17:33:37Z"
       },
       {
-        "title": "The Structure of Quantization Damage in LLMs: Why the Next Bit Should Be Spent Globally",
-        "url": "https://arxiv.org/abs/2609.01587v1",
-        "summary": "Jundong Hu, Shekar Ramachandran — Post-training quantization (PTQ) is widely used to reduce the cost of serving large language models (LLMs), but its accuracy cost is uneven and is often tuned per model. We study where quantization damage occurs and how…",
+        "title": "UE5M3 FP4 Block Scaling for Stable Language Model Pretraining",
+        "url": "https://arxiv.org/abs/2609.02846v1",
+        "summary": "Robert Hu, Carlo Luschi, Paul Balanca — Stable 4-bit floating-point (FP4) pretraining is difficult because the E2M1 payload represents only a narrow range of magnitudes. NVIDIA's Transformer Engine \\nv{} recipe addresses this with current-tensor scaling, a…",
         "source": "arXiv",
-        "date": "2026-09-01T17:53:41Z"
+        "date": "2026-09-02T17:32:07Z"
       },
       {
-        "title": "Closing Cost-Quality Gap in Document VLMs: Difficulty-Aware Data Curation and Quality-Adjusted Deployment Economics",
-        "url": "https://arxiv.org/abs/2609.01575v1",
-        "summary": "Maksim Evdokimov, Matvey Ivanov, Dmitrii Tsiupin et al. — Extracting structured fields from hundreds of millions of documents annually remains costly in regulated industries: bespoke OCR cascades cover only a fraction of workflows, privacy rules preclude external models, and…",
+        "title": "Learning Spectral-Like Mesh-Free Discretisations",
+        "url": "https://arxiv.org/abs/2609.02833v1",
+        "summary": "Lucas Gerken Starepravo, Henry Broadley, Steven Lind et al. — Meshfree methods such as smoothed particle hydrodynamics (SPH) with kernel corrections, radial basis function-generated finite differences (RBF-FD), and the local anisotropic basis function method (LABFM) construct…",
         "source": "arXiv",
-        "date": "2026-09-01T17:40:29Z"
+        "date": "2026-09-02T17:16:16Z"
       },
       {
-        "title": "Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs",
-        "url": "https://arxiv.org/abs/2609.01573v1",
-        "summary": "Jingtan Wang, Arun Verma, Xiaoqiang Lin et al. — How to divide a fixed annotation budget between supervised fine-tuning (SFT) and reinforcement learning (RL) during LLM post-training remains an open problem. Existing work characterizes only broad trends (e.g., SFT…",
+        "title": "AI Contextual Measurement for Recovering Individual and Group-Level Effects: Validation Against Survey Measures and an Occupational Application",
+        "url": "https://arxiv.org/abs/2609.02821v1",
+        "summary": "Wenxin Jiang, Xuyang Wang, Yuxiao Wu — Researchers increasingly use artificial intelligence to construct measures of social, organizational, and occupational characteristics that are absent from conventional surveys. We propose AICOME, AI COntextual…",
         "source": "arXiv",
-        "date": "2026-09-01T17:39:55Z"
+        "date": "2026-09-02T17:09:30Z"
       }
     ],
     "labs": [
+      {
+        "title": "Proactive cyber defense for governments and enterprises",
+        "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+        "summary": "Today, we’re launching our Fairwind Program, a limited access program for governments and trusted partners to use our most advanced cyber defense capabilities. Today, we’re launching our Fairwind Program to bring the best of Google’s AI and cyber defense capabilities to a trusted group of Google Cloud customers, government agencies, and cybersecurity partners, to help them proactively solve cyber risks at scale. The…",
+        "source": "Google DeepMind",
+        "date": "2026-09-02T16:24:24+00:00"
+      },
+      {
+        "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+        "summary": "Gemini 3.8 Flash delivers substantial gains from 3.7 Flash, often approaching the performance of higher-cost frontier models. It surpasses both 3.5 Flash Cyber as well as significantly larger frontier models. We’re already using Gemini 3.8 Flash Cyber to secure code across Google.",
+        "source": "Google DeepMind",
+        "date": "2026-09-02T16:18:31+00:00"
+      },
+      {
+        "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+        "url": "https://openai.com/index/atv-big-air-tour",
+        "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+        "source": "OpenAI",
+        "date": "2026-09-02T12:00:00+00:00"
+      },
       {
         "title": "Mapping global methane emissions from space with deep learning",
         "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
         "summary": "A global view of methane detections from space. We created 3.6 million synthetic methane plumes and injected them directly into real EMIT scenes. Deployed on real-world satellite data, MAPL-EMIT demonstrates strong potential for scalable emissions mapping.",
         "source": "Google Research",
-        "date": "2026-09-01T18:40:06+00:00"
+        "date": "2026-09-01T18:40:00+00:00"
       },
       {
         "title": "Introducing agentic video understanding with Gemini",
@@ -150,199 +171,178 @@
         "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
         "source": "OpenAI",
         "date": "2026-08-31T07:00:00+00:00"
-      },
-      {
-        "title": "A milestone in expanding access to AI",
-        "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-        "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-        "source": "OpenAI",
-        "date": "2026-08-31T04:00:00+00:00"
-      },
-      {
-        "title": "Our decision on Cursor following its acquisition by SpaceX",
-        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-        "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-        "source": "OpenAI",
-        "date": "2026-08-28T06:00:00+00:00"
-      },
-      {
-        "title": "Supporting Thailand’s next generation of AI startups",
-        "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-        "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-        "source": "OpenAI",
-        "date": "2026-08-28T02:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Larry Page’s flying car company Pivotal loses its CEO",
-        "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
-        "summary": "Ken Karklin, who was Pivotal’s CEO for more than four years, left the role this week, according to a press release . Karklin’s departure comes two years after Pivotal started sales of Helix , its first lightweight electric personal aircraft. BlackFly has flown more than 10,000 times, according to Pivotal.",
+        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+        "summary": "With Puneet Agarwal , Managing Partner, True Ventures; Austin Clements , Managing Partner, Slauson and Co; and Sandhya Venkatachalam , Founder and Managing Partner, Axiom Partners Founders are increasingly expected to compete for capital before they even have a product. With Nell Daly , Co-founder and Managing Partner, Revenge Capital; David H. With Stacy Brown-Philpot , Founder & Managing Partner at Cherryrock…",
         "source": "TechCrunch",
-        "date": "2026-09-01T23:59:59+00:00"
+        "date": "2026-09-02T23:01:00+00:00"
       },
       {
-        "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
-        "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
-        "summary": "The streaming service will launch with more than 160,000 hours of entertainment content but without the live sports that have helped drive its massive audience in India, including the Indian Premier League (IPL), Women’s Premier League (WPL), and Indian national cricket matches. As part of the deal, streaming services Hotstar and JioCinema merged to create JioHotstar for Indian consumers. Ivan covers global consumer…",
+        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+        "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+        "summary": "Since its founding in 2024, Console has raised $29 million across two rounds: a $6.2 million seed led by Thrive Capital and a $23 million Series A co-led by DST Global and Thrive. Palo Alto Networks declined to comment. Console is Palo Alto Networks’ seventh acquisition in 2026, according to PitchBook.",
         "source": "TechCrunch",
-        "date": "2026-09-01T23:00:00+00:00"
+        "date": "2026-09-02T22:44:56+00:00"
       },
       {
-        "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
-        "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
-        "summary": "Apple has followed Google’s lead and officially changed the name of Lake Ontario to “Lake America” on its Apple Maps service less than a week after President Trump ordered the change. Apple Maps users in the United States will begin to see Lake America, not Lake Ontario — one of the five Great Lakes in North America — when using the website or mobile app. Apple Maps users in Canada will continue to see Lake Ontario,…",
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+        "summary": "At our past TechCrunch Disrupt events, AI has taken center stage, both throughout our programming and in a stage of its own. But the Real World AI Stage is brand-new for TechCrunch Disrupt 2026 . This session brings together founders who have crossed that gap in space hardware, humanoid robotics, and autonomous systems.",
         "source": "TechCrunch",
-        "date": "2026-09-01T22:13:34+00:00"
+        "date": "2026-09-02T22:24:09+00:00"
       },
       {
-        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-        "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-        "summary": "AI training-data startup AfterQuery has reportedly raised a round that valued it at $3.2 billion. AfterQuery’s founders, today 22 and 23 years old, attended Y Combinator’s Winter 2025 cohort, just 18 months ago. AfterQuery could not be immediately reached for comment.",
+        "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+        "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+        "summary": "The Justice Department has spent years attempting to break up Google’s gargantuan advertising business across two separate antitrust lawsuits: one filed in 2020 focused on Google’s dominance in search, and a second filed in 2023 that specifically targeted Google’s ad-technology business. In 2024, a court determined that Google’s search business, including its exceedingly lucrative search-ad operation, was an illegal…",
         "source": "TechCrunch",
-        "date": "2026-09-01T22:08:24+00:00"
+        "date": "2026-09-02T21:38:34+00:00"
       },
       {
-        "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-        "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-        "summary": "OpenAI shared new details on its forthcoming Astra model, which the company said is the first large language model to meet its “critical cybersecurity threshold,” in preparation for its imminent release. For Astra, however, the company invested in unspecified new techniques designed to make the model safer. For Astra, OpenAI said it designed a test to tempt the new model to replicate the actions of the rogue agents…",
+        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+        "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+        "summary": "This technique, also called “opaque recurrence,” will likely make the model’s chain of thought more difficult to monitor — and that has AI safety experts rattled. “OpenAI has worked to preserve and utilize chain-of-thought monitoring since our very first reasoning models,” Pachocki wrote. All AI models do some quantity of opaque reasoning, and few researchers take chain-of-thought logs as a direct representation of…",
         "source": "TechCrunch",
-        "date": "2026-09-01T21:06:24+00:00"
+        "date": "2026-09-02T20:19:14+00:00"
       },
       {
-        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-        "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-        "summary": "Announced in a blog post , the features include those aimed at reducing motion sickness, helping blind and low-vision users navigate their surroundings, remembering where users leave important items, and another that adds new ways to personalize Google Messages. Google says this feature is available to Android 17 users. Google is also introducing “Guided Vision,” a feature designed with blind and low-vision users in…",
+        "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
+        "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+        "summary": "MapQuest’s unlikely comeback just got even bigger. App Store, up from No. App Store ranking steadily climbed, as consumers downloaded the app to show their support for the company’s stance.",
         "source": "TechCrunch",
-        "date": "2026-09-01T20:53:05+00:00"
+        "date": "2026-09-02T20:12:41+00:00"
       },
       {
-        "title": "X says attackers are targeting user accounts after the launch of X Money",
-        "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
-        "summary": "After numerous X users reported receiving unsolicited password reset emails, a representative said the social media company was actively investigating the issue but had not yet found evidence that the hacks were successful. Attackers are mass-triggering the form using public usernames. No confirmed system breach or mass takeovers.",
+        "title": "It sure looks like hackers breached a major ID card verification service",
+        "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+        "summary": "That’s according to a jaw-dropping report by independent security journalist Brian Krebs, who says a company used to verify government-issued identity documents in the real world was likely hacked and its vast stores of people’s ID cards were exfiltrated. A post advertising the site on a known Russian cybercrime forum said Nexus added about half a million new documents daily, sourced from a “major identity…",
         "source": "TechCrunch",
-        "date": "2026-09-01T20:48:32+00:00"
+        "date": "2026-09-02T19:35:09+00:00"
       },
       {
-        "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
-        "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
-        "summary": "John Ternus has officially taken the reins as Apple CEO, succeeding Tim Cook, who held the role for 15 years. The company’s former senior vice president of Hardware Engineering, Ternus enters the CEO role at a critical time for Apple. On September 9, the company will host its annual iPhone event, which is rumored to include the launch of Apple’s first foldable iPhone .",
+        "title": "Delivery Hero board backs Uber’s $15B takeover bid",
+        "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+        "summary": "Delivery Hero’s board has signed off on Uber’s $15 billion takeover offer and recommended shareholders approve the deal, which would create one of the largest on-demand food delivery platforms in the world. Uber, which was already the largest shareholder in Delivery Hero, set a minimum acceptance threshold of 50%, plus one share of Delivery Hero’s outstanding share capital. Delivery Hero previously agreed to sell…",
         "source": "TechCrunch",
-        "date": "2026-09-01T19:45:28+00:00"
+        "date": "2026-09-02T19:25:35+00:00"
       },
       {
-        "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-        "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-        "summary": "On Tuesday, Anthropic released Fable and Mythos 5.1, twinned versions of the company’s most advanced AI model. One of the most significant changes is Anthropic’s previously reported embrace of zero data retention, allowing clients to run Anthropic models on their own infrastructure without data outflows. “Anthropic has never trained on enterprise data without explicit permission, and never will,” the announcement…",
+        "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+        "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+        "summary": "You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com .",
         "source": "TechCrunch",
-        "date": "2026-09-01T19:39:22+00:00"
+        "date": "2026-09-02T17:18:13+00:00"
       },
       {
-        "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
-        "url": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
-        "summary": "New York’s prestigious-yet-secretive venture firm Thrive Capital has been hauled into the center of a messy drama that could result in criminal charges against Gianni Infantino, the controversial president of global soccer organization FIFA. FIFA engaged JPMorgan to drum up potential investors for the proposed company. An association that includes North American teams also objected.",
+        "title": "X shifts US creator payouts from Stripe to X Money",
+        "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+        "summary": "Elon Musk’s social network X on Wednesday said that starting today, all of its U.S. creator payouts will be handled through X Money, the app’s payments service. This includes payouts from both X’s Original Content Rewards Program and creators’ subscriptions, the company said in an update shared on X. The company’s new payments service, X Money , began supporting creator payouts earlier this month.",
         "source": "TechCrunch",
-        "date": "2026-09-01T19:30:24+00:00"
+        "date": "2026-09-02T17:12:27+00:00"
       },
       {
-        "title": "Who is John Ternus, the new Apple CEO?",
-        "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
-        "summary": "After 15 years, Tim Cook has handed off the Apple CEO role to John Ternus, the company’s senior vice president of hardware engineering. Ternus is assuming the CEO role at a crucial time for Apple. Ternus’ earliest project at Apple involved scrutinizing parts for the Apple Cinema Display, an early desktop monitor.",
+        "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+        "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+        "summary": "In a lawsuit that The New York Times filed against OpenAI, the Trump administration has contributed a 20-page brief in defense of the ChatGPT maker’s unlicensed use of copyrighted material to train its LLMs. The LLMs powering chatbots like ChatGPT, Claude, and Gemini are trained on incomprehensibly massive databases of published works, including copyrighted books, articles, and other media that AI companies feed…",
         "source": "TechCrunch",
-        "date": "2026-09-01T18:02:00+00:00"
+        "date": "2026-09-02T17:09:06+00:00"
       },
       {
-        "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-        "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-        "summary": "Google is entering the creative design market with a new image-creation and editing tool called Google Pics, which will become a part of its Google Workspace suite for business customers and premium Google AI subscribers. The company says the product, which is powered by Google’s Nano Banana image-generation model, will roll out over the coming weeks to most Workspace customers and those who pay for Google AI Pro or…",
+        "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+        "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+        "summary": "Geothermal energy company Fervo notched another win as Google agreed to buy nearly half a gigawatt of electricity to power a planned new data center in Utah. Fervo and Google’s new deal adds to the pair’s long-standing relationship. Recently, Google invested in Fervo’s last funding round before the geothermal startup went public .",
         "source": "TechCrunch",
-        "date": "2026-09-01T17:35:37+00:00"
+        "date": "2026-09-02T16:54:23+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "The robot butler dream doesn’t have legs",
-        "url": "https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa",
-        "summary": "A fully humanoid robot housekeeper just isn’t practical First, despite my tech-reviewer fascination with humanoid robots , a fully humanoid robot housekeeper isn’t practical. A robot brain could run your home autonomously and use reasoning to adapt when the home’s unpredictabilities arise. It’s clear home robots are coming.",
+        "title": "These new robot lawnmowers trim your edges",
+        "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
+        "summary": "Anker and Mammotion’s latest robot lawnmowers come with built-in edgers. Anker and Mammotion’s latest robot lawnmowers come with built-in edgers. The robot mower is AWD and will launch in May 2027 for €3,999.",
         "source": "The Verge",
-        "date": "2026-09-02T11:00:00+00:00"
+        "date": "2026-09-03T11:55:00+00:00"
       },
       {
-        "title": "Is this the future of America?",
-        "url": "https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash",
-        "summary": "“And so we came up with this plan to attract data centers.” Today, Loudoun County has another moniker: Data Center Alley. From 2002 to 2005, no new data centers had been permitted. These data centers are here.",
+        "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
+        "url": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
+        "summary": "Agents and Infra is essentially the rest of Microsoft, including Azure, Microsoft 365 Cloud, Microsoft 365 commercial and consumer, server products, industry solutions, and the enterprise and partner services that Microsoft now calls frontier and support services. Microsoft has been providing year-over-year growth rates for its Azure business, reporting its Azure revenue for the first time last year . Azure revenue…",
         "source": "The Verge",
-        "date": "2026-09-02T10:00:01+00:00"
+        "date": "2026-09-03T08:59:09+00:00"
       },
       {
-        "title": "Acer’s new MacBook Air rival is nearly a pound lighter than Apple’s laptop",
-        "url": "https://www.theverge.com/gadgets/987802/acer-swift-blade-14-air-16-laptop-ifa-price-specs",
-        "summary": "﻿The half-inch thin laptop is joined by a new, much larger Swift Air 16 — both with Intel Wildcat Lake. ﻿The half-inch thin laptop is joined by a new, much larger Swift Air 16 — both with Intel Wildcat Lake. It’s the same story for the other Swift laptop Acer is announcing today: the Swift Air 16. This is a larger version of the Swift Air 14 announced at Computex.",
+        "title": "Here’s the first 4K 120Hz UST projector with optical lens shift",
+        "url": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
+        "summary": "﻿No digital trickery to degrade image quality. ﻿No digital trickery to degrade image quality. Most UST projectors use digital trickery to manipulate the image onto the wall or screen behind it. Starting September 5th, Awol Vision is offering discounts for anyone willing to preorder the LuxVision ahead of the reviews.",
         "source": "The Verge",
-        "date": "2026-09-02T09:30:00+00:00"
+        "date": "2026-09-03T08:30:00+00:00"
       },
       {
-        "title": "Acer’s new concept hardware is a gaming handheld with a keyboard",
-        "url": "https://www.theverge.com/games/988029/acer-project-dualplay-mini-concept-gaming-handheld-keyboard-ifa",
-        "summary": "Project DualPlay Mini has a swiveling screen and a flip-out keyboard. Project DualPlay Mini has a swiveling screen and a flip-out keyboard. Acer’s latest concept device, Project DualPlay Mini, is an attempt to upend that dichotomy by sticking a keyboard in a handheld.",
+        "title": "Belkin’s first trackers come ready to attach to your gear.",
+        "url": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
+        "summary": "The four new trackers work with either Apple’s Find My or Google’s Find Hub tracking networks. The four new trackers work with either Apple’s Find My or Google’s Find Hub tracking networks. After selling accessories for attaching Apple’s AirTags to everything from keys to backpacks , Belkin is introducing its own trackers that work with either Apple’s Find My or Google’s Find Hub tracking networks.",
         "source": "The Verge",
-        "date": "2026-09-02T09:30:00+00:00"
+        "date": "2026-09-03T08:00:00+00:00"
       },
       {
-        "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance",
-        "url": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
-        "summary": "Memory integrity could get enabled on your device next month, unless you’ve already disabled it. Memory integrity could get enabled on your device next month, unless you’ve already disabled it. Microsoft is getting ready to roll out its memory integrity security feature of Windows 11 to more devices next month.",
+        "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
+        "url": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
+        "summary": "The company says its new power banks will last up to three times longer before they need to be replaced. The company says its new power banks will last up to three times longer before they need to be replaced. The UltraCharge Pro Slim Magnetic Power Bank 5K Qi2 15W with BoostSolid Cell is the smaller and cheaper option of Belkin’s two new power banks at $69.99.",
         "source": "The Verge",
-        "date": "2026-09-02T08:57:40+00:00"
+        "date": "2026-09-03T08:00:00+00:00"
       },
       {
-        "title": "Dell’s newest laptop sounds a lot like a MacBook Neo",
-        "url": "https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs",
-        "summary": "﻿The Dell 14S promises an aluminum build, Intel Wildcat Lake chips, and lots of battery life — for a price we don’t know exactly yet. ﻿The Dell 14S promises an aluminum build, Intel Wildcat Lake chips, and lots of battery life — for a price we don’t know exactly yet. For chip offerings, it’ll be either the Intel Core 5 320 or Core 7 350 — the 14S won’t scale up to Intel Panther Lake options like the XPS 13 is soon…",
+        "title": "Anker’s sleep speaker uses radar and flower power to help you relax",
+        "url": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
+        "summary": "The SleepLab speaker uses millimeter-wave radar synced to binaural beats and lighting to deepen relaxation. The SleepLab speaker uses millimeter-wave radar synced to binaural beats and lighting to deepen relaxation. Anker’s SleepLab speaker promises to track and enhance sleep without a wearable.",
         "source": "The Verge",
-        "date": "2026-09-02T07:00:00+00:00"
+        "date": "2026-09-03T07:30:00+00:00"
       },
       {
-        "title": "This new Roomba seals itself to your carpet",
-        "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
-        "summary": "iRobot’s Roomba Max 875 claims its new SealForce tech will drive out more dirt than suction alone. iRobot’s Roomba Max 875 claims its new SealForce tech will drive out more dirt than suction alone. The $1,199 Roomba Max 875 Combo is the company’s newest top-of-the-line robot vacuum and mop, and it debuts alongside the $899 Roomba Plus 678 Combo. The company is releasing a midrange version of the 875, the Roomba Plus…",
+        "title": "Anker’s Soundcore is bringing its incredible call quality to more headphones",
+        "url": "https://www.theverge.com/tech/986330/soundcore-headphones-earbuds-announcement-ifa-2026",
+        "summary": "All the new headphones and earbuds use Anker’s Thus chip. All the new headphones and earbuds use Anker’s Thus chip. At IFA 2026 in Berlin, Soundcore announced the Space 2 Pro headphones, AeroClip 2 and AeroClip 2 Pro open clip earbuds, and Liberty Buds 2.",
         "source": "The Verge",
-        "date": "2026-09-02T06:00:00+00:00"
+        "date": "2026-09-03T07:30:00+00:00"
       },
       {
-        "title": "True Rate of Unemployment",
-        "url": "https://www.lisep.org/tru",
-        "summary": "256 points, 226 comments on Hacker News",
+        "title": "Anker announces its first over-the-counter hearing aids",
+        "url": "https://www.theverge.com/tech/986377/ankers-first-otc-hearing-aids-ifa-2026",
+        "summary": "Details are slim, but we know they’ll use the Thus chip, which provides excellent vocal quality. Details are slim, but we know they’ll use the Thus chip, which provides excellent vocal quality. In what could be fortuitous timing for hearing aid users, Anker announced its first over-the-counter (OTC) hearing aids at IFA 2026.",
+        "source": "The Verge",
+        "date": "2026-09-03T07:30:00+00:00"
+      },
+      {
+        "title": "Anker’s new printer works directly on fabrics",
+        "url": "https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa",
+        "summary": "Customize T-shirts and tote bags with logos, photos, or colorful designs. Customize T-shirts and tote bags with logos, photos, or colorful designs. After introducing a consumer-friendly UV printer last year capable of printing designs directly on materials like wood, metal, glass, and acrylic, Anker’s eufyMake brand is introducing a new machine that can print directly on fabrics.",
+        "source": "The Verge",
+        "date": "2026-09-03T07:30:00+00:00"
+      },
+      {
+        "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
+        "url": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+        "summary": "The company also announced a new Eufy video doorbell with VR features and a window camera. The company also announced a new Eufy video doorbell with VR features and a window camera. Anker’s new wired Eufy S4 video doorbell, launching this week, will be compatible with Mindbase.",
+        "source": "The Verge",
+        "date": "2026-09-03T07:30:00+00:00"
+      },
+      {
+        "title": "I wanna live an NPC life",
+        "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+        "summary": "the general consensus around being an npc is that you’re giving up your autonomy—essentially becoming a side character in someone else's story or watching life pass you by while doomscrolling on your phone. but here’s my take: the npc lifestyle is actually a very viable way to live. as an npc, you aren't actually watching other people’s lives. even in a game, if you're an npc, you are doing your own thing regardless… (265 points, 228 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-02T02:21:10+00:00"
+        "date": "2026-09-02T19:52:53+00:00"
       },
       {
-        "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-        "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-        "summary": "A record available at this identity theft service that includes the drivers license for U.S. Curiously, the identity records include not only drivers licenses but also marijuana dispensary cards. The record totals listed by the Nexus identity theft service. (263 points, 125 comments on Hacker News)",
+        "title": "Fable 5.1 World Modeling",
+        "url": "https://github.com/PhiloLabs/fable51-worlds",
+        "summary": "Please reload this page . Please reload this page . Every building, storefront, sign, tree and traffic light is generated from open data and public reference imagery by code that lives in this repo. ▶ Watch the full 59-second walkthrough · 1920×1080 · aerial, plaza, Nintendo, lower level, Apple The square and its surrounding blocks — Powell, Geary, Post and Stockton — on real terrain and a real street grid, with 129… (279 points, 80 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-01T23:17:43+00:00"
-      },
-      {
-        "title": "Google needs Hollywood more than the studios need AI",
-        "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-        "summary": "Striking deals with studios like Disney could help the tech giant shift the narrative about artificial intelligence. Striking deals with studios like Disney could help the tech giant shift the narrative about artificial intelligence. Though Google has not yet been able to get Disney, Warner Bros.",
-        "source": "The Verge",
-        "date": "2026-09-01T22:50:29+00:00"
-      },
-      {
-        "title": "My local model setup on an M4 Pro Mac Mini",
-        "url": "https://lws.io/blog/my-local-model-setup/",
-        "summary": "The Mac mini is always on. Hermes runs on the Mac mini as well, using a local model on the same machine. Find a model, click download. (230 points, 139 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-01T22:30:52+00:00"
-      },
-      {
-        "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-        "summary": "﻿Mythos 5.1 is also launching in Project Glasswing. ﻿Mythos 5.1 is also launching in Project Glasswing. Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1 , address criticisms from customers about price, data retention, and overzealous safeguards. Fable 5.1 also has “more precise safeguards” that Anthropic says are less likely to block basic biology questions than Fable 5, but Mythos 5.1 has the same…",
-        "source": "The Verge",
-        "date": "2026-09-01T22:01:36+00:00"
+        "date": "2026-09-02T19:49:01+00:00"
       }
     ]
   }
