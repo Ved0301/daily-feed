@@ -1,93 +1,142 @@
 {
-  "generated_at": "2026-09-03T11:58:36.999701+00:00",
+  "generated_at": "2026-09-04T12:00:14.226270+00:00",
   "sections": {
     "research": [
       {
-        "title": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
-        "url": "https://arxiv.org/abs/2609.02887v1",
-        "summary": "Dulhan Jayalath, Benjamin Ballyk, Oiwi Parker Jones — Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natural human-computer…",
+        "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+        "url": "https://arxiv.org/abs/2609.04199v1",
+        "summary": "Yuntian Deng, Pengyu Nie, Stuart Shieber — Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider.",
         "source": "arXiv",
-        "date": "2026-09-02T17:59:46Z"
+        "date": "2026-09-03T17:59:49Z"
       },
       {
-        "title": "Discriminative World Models for Web Agents",
-        "url": "https://arxiv.org/abs/2609.02885v1",
-        "summary": "Kelvin Li, Dhruv Pendharkar, Anish Pahilajani et al. — Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PRM).",
+        "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+        "url": "https://arxiv.org/abs/2609.04198v1",
+        "summary": "Haoyaun Zhu, Jie Zhang — Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to the same model…",
         "source": "arXiv",
-        "date": "2026-09-02T17:59:40Z"
+        "date": "2026-09-03T17:59:43Z"
       },
       {
-        "title": "Graph Machine: Towards Better Pretraining via Edges",
-        "url": "https://arxiv.org/abs/2609.02881v1",
-        "summary": "Lintai Hou — We introduce the Graph Machine (GM), an architecture that maintains an $O(n)$-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static routing, GM preserves…",
+        "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+        "url": "https://arxiv.org/abs/2609.04197v1",
+        "summary": "Lihao Liu, Peng Tang, Kunwar Yashraj Singh et al. — Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies -…",
         "source": "arXiv",
-        "date": "2026-09-02T17:56:41Z"
+        "date": "2026-09-03T17:59:37Z"
       },
       {
-        "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
-        "url": "https://arxiv.org/abs/2609.02876v1",
-        "summary": "Alessio Spurio Mancini — Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajectories suit…",
+        "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+        "url": "https://arxiv.org/abs/2609.04194v1",
+        "summary": "Kevin Du, Alexander Hoyle, Laura Ruis et al. — Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, evaluate…",
         "source": "arXiv",
-        "date": "2026-09-02T17:56:10Z"
+        "date": "2026-09-03T17:59:08Z"
       },
       {
-        "title": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework",
-        "url": "https://arxiv.org/abs/2609.02861v1",
-        "summary": "Cagri Temel — Autonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper presents TRACE (Transparent…",
+        "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
+        "url": "https://arxiv.org/abs/2609.04190v1",
+        "summary": "Adheesh Sunil Juvekar, Onkar Kishor Susladkar, Kiet A. Nguyen et al. — Video editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a training-free…",
         "source": "arXiv",
-        "date": "2026-09-02T17:44:25Z"
+        "date": "2026-09-03T17:59:01Z"
       },
       {
-        "title": "User Feedback Provides a Unique Signal that LLMs Can not Detect",
-        "url": "https://arxiv.org/abs/2609.02859v1",
-        "summary": "Shachar Don-Yehiya, Leshem Choshen, Omri Abend — Harnessing naturally occurring feedback from user interactions offers a promising learning signal for Large Language Models (LLMs). However, recent studies suggest this feedback is inherently noisy and difficult to…",
+        "title": "Robust PAC Learning of Concurrent Stochastic Games",
+        "url": "https://arxiv.org/abs/2609.04189v1",
+        "summary": "Angel Y. He, David Parker — We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash equilibrium (NE)…",
         "source": "arXiv",
-        "date": "2026-09-02T17:42:44Z"
+        "date": "2026-09-03T17:58:57Z"
       },
       {
-        "title": "Improved Gradient Descent Lower Bounds Beyond Nesterov",
-        "url": "https://arxiv.org/abs/2609.02855v1",
-        "summary": "Yuhan Ye, Kaizhao Liu — We study how far gradient descent (GD) can be accelerated by predetermined stepsizes in smooth convex optimization. Going beyond the classical $Ω(n^{-2})$ first-order oracle lower bound of Nemirovsky and Yudin, we prove…",
+        "title": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
+        "url": "https://arxiv.org/abs/2609.04183v1",
+        "summary": "Ye-Chan Kim, Seunghee Choi, SeungJu Cha et al. — Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxiliary transition…",
         "source": "arXiv",
-        "date": "2026-09-02T17:39:52Z"
+        "date": "2026-09-03T17:58:02Z"
       },
       {
-        "title": "The Implications of Linguistic Illegibility for LLM Security",
-        "url": "https://arxiv.org/abs/2609.02852v1",
-        "summary": "James Mickens — LLMs are trained to generate natural language. However, various strands of evidence indicate that an LLM's externalized linguistic outputs and mechanistically-extracted linguistic features can be an unreliable lens for…",
+        "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
+        "url": "https://arxiv.org/abs/2609.04180v1",
+        "summary": "Joseph Lee, Yidi Huang, Dokyoon Kim et al. — Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learning.",
         "source": "arXiv",
-        "date": "2026-09-02T17:37:22Z"
+        "date": "2026-09-03T17:57:02Z"
       },
       {
-        "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
-        "url": "https://arxiv.org/abs/2609.02849v1",
-        "summary": "Aleksander Ficek, Sean Narenthiran, Mehrzad Samadi et al. — Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-end specialization…",
+        "title": "A Computationally Feasible Framework for Causal Probabilistic Explanation",
+        "url": "https://arxiv.org/abs/2609.04177v1",
+        "summary": "Rafal Urbaniak, Sam Witty, Daniel Waxman et al. — Explaining why a specific outcome occurred, and which inputs deserve the blame or credit, is central to philosophical, scientific, and policy analysis. Existing tools split into two camps.",
         "source": "arXiv",
-        "date": "2026-09-02T17:33:37Z"
+        "date": "2026-09-03T17:55:43Z"
       },
       {
-        "title": "UE5M3 FP4 Block Scaling for Stable Language Model Pretraining",
-        "url": "https://arxiv.org/abs/2609.02846v1",
-        "summary": "Robert Hu, Carlo Luschi, Paul Balanca — Stable 4-bit floating-point (FP4) pretraining is difficult because the E2M1 payload represents only a narrow range of magnitudes. NVIDIA's Transformer Engine \\nv{} recipe addresses this with current-tensor scaling, a…",
+        "title": "Last Translation Benchmark",
+        "url": "https://arxiv.org/abs/2609.04173v1",
+        "summary": "Vilém Zouhar, Niyati Bafna, Mukund Choudhary et al. — For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation…",
         "source": "arXiv",
-        "date": "2026-09-02T17:32:07Z"
+        "date": "2026-09-03T17:54:45Z"
       },
       {
-        "title": "Learning Spectral-Like Mesh-Free Discretisations",
-        "url": "https://arxiv.org/abs/2609.02833v1",
-        "summary": "Lucas Gerken Starepravo, Henry Broadley, Steven Lind et al. — Meshfree methods such as smoothed particle hydrodynamics (SPH) with kernel corrections, radial basis function-generated finite differences (RBF-FD), and the local anisotropic basis function method (LABFM) construct…",
+        "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+        "url": "https://arxiv.org/abs/2609.04172v1",
+        "summary": "Zixuan Fu, Bingxiang He, Yuxin Zuo et al. — On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear.…",
         "source": "arXiv",
-        "date": "2026-09-02T17:16:16Z"
+        "date": "2026-09-03T17:54:38Z"
       },
       {
-        "title": "AI Contextual Measurement for Recovering Individual and Group-Level Effects: Validation Against Survey Measures and an Occupational Application",
-        "url": "https://arxiv.org/abs/2609.02821v1",
-        "summary": "Wenxin Jiang, Xuyang Wang, Yuxiao Wu — Researchers increasingly use artificial intelligence to construct measures of social, organizational, and occupational characteristics that are absent from conventional surveys. We propose AICOME, AI COntextual…",
+        "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
+        "url": "https://arxiv.org/abs/2609.04170v1",
+        "summary": "Davide Paglieri, Logan Cross, Tim Genewein et al. — Multi-agent AI science ecosystems rely on agents possessing tools that allow them to communicate, coordinate, and build on each other's work. Yet this shared infrastructure can also introduce vulnerabilities by creating…",
         "source": "arXiv",
-        "date": "2026-09-02T17:09:30Z"
+        "date": "2026-09-03T17:54:09Z"
       }
     ],
     "labs": [
+      {
+        "title": "Transfer learning for genomic prediction in underrepresented populations",
+        "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+        "summary": "PRS performance in BBJ samples as a function of BBJ and UKB sample sizes for traits with shared genetic architectures across populations: As the BBJ sample size grows past 40k, the optimal UKB sample size decreases from maximum. PRS performance in BBJ samples as a function of BBJ and UKB sample sizes for traits with unique genetic architectures across populations: Unlike conserved traits, these more…",
+        "source": "Google Research",
+        "date": "2026-09-03T18:20:31+00:00"
+      },
+      {
+        "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
+        "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+        "summary": "Michał Januszewski and Viren Jain, Research Scientists, Google Research We partnered with HHMI Janelia and collaborators to publish a complete map of the male fruit fly’s brain and central nervous system, creating the largest brain map to date. This new brain map complements the female fruit fly brain map and recently released complete female fruit fly brain and nerve cord map. In 2019, our Connectomics team…",
+        "source": "Google Research",
+        "date": "2026-09-03T16:00:03+00:00"
+      },
+      {
+        "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+        "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+        "summary": "Our flagship AI weather forecasting model now includes real-time satellite data, hourly refreshes, higher resolution, precise precipitation forecasting, and clean energy variables. WeatherNext 2 (left) at 25-kilometer (0.25°) resolution vs. Global weather models notoriously struggle to accurately predict precipitation.",
+        "source": "Google DeepMind",
+        "date": "2026-09-03T15:02:08+00:00"
+      },
+      {
+        "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+        "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+        "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+        "source": "OpenAI",
+        "date": "2026-09-03T13:15:00+00:00"
+      },
+      {
+        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+        "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+        "source": "OpenAI",
+        "date": "2026-09-03T12:00:00+00:00"
+      },
+      {
+        "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+        "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+        "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+        "source": "OpenAI",
+        "date": "2026-09-03T12:00:00+00:00"
+      },
+      {
+        "title": "Safety overview: GPT-6 Astra",
+        "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+        "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+        "source": "OpenAI",
+        "date": "2026-09-03T00:00:00+00:00"
+      },
       {
         "title": "Proactive cyber defense for governments and enterprises",
         "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
@@ -122,227 +171,178 @@
         "summary": "Google just launched agentic video understanding for Gemini 3.7 Flash, 3.6 Flash, and 3.5 Flash-Lite. Today, we’re launching agentic video understanding across our latest models: Gemini 3.7 Flash, 3.6 Flash and 3.5 Flash-Lite. Using agentic video understanding places Gemini 3.7 Flash at the accuracy-to-cost pareto frontier for video analysis.",
         "source": "Google DeepMind",
         "date": "2026-09-01T17:08:51+00:00"
-      },
-      {
-        "title": "How AI-native companies turn workflows into operating capability",
-        "url": "https://openai.com/index/ai-native-company-workflows",
-        "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-        "source": "OpenAI",
-        "date": "2026-09-01T17:00:00+00:00"
-      },
-      {
-        "title": "Path to Astra: critical capabilities and frontier safeguards",
-        "url": "https://openai.com/index/path-to-astra",
-        "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-        "source": "OpenAI",
-        "date": "2026-09-01T13:00:00+00:00"
-      },
-      {
-        "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-        "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-        "source": "OpenAI",
-        "date": "2026-09-01T12:00:00+00:00"
-      },
-      {
-        "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-        "url": "https://openai.com/index/gilbert-tobin",
-        "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-        "source": "OpenAI",
-        "date": "2026-09-01T01:00:00+00:00"
-      },
-      {
-        "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
-        "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
-        "summary": "Ayush Jain and Rajat Sen, Research Scientists, Google Research We introduce TimesFM-3, a state-of-the-art time series foundation model that enables highly accurate multivariate time series forecasting in a single forward pass, significantly outperforming other forecasting models across major benchmarks. Yet, most real-world forecasting problems are inherently multivariate: where multiple time series and auxiliary…",
-        "source": "Google Research",
-        "date": "2026-08-31T17:19:40+00:00"
-      },
-      {
-        "title": "OpenAI supports California’s bill to advance youth AI safety",
-        "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-        "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-        "source": "OpenAI",
-        "date": "2026-08-31T07:00:00+00:00"
-      },
-      {
-        "title": "Polimill builds Japan's next-generation public AI infrastructure",
-        "url": "https://openai.com/index/polimill",
-        "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-        "source": "OpenAI",
-        "date": "2026-08-31T07:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-        "summary": "With Puneet Agarwal , Managing Partner, True Ventures; Austin Clements , Managing Partner, Slauson and Co; and Sandhya Venkatachalam , Founder and Managing Partner, Axiom Partners Founders are increasingly expected to compete for capital before they even have a product. With Nell Daly , Co-founder and Managing Partner, Revenge Capital; David H. With Stacy Brown-Philpot , Founder & Managing Partner at Cherryrock…",
+        "title": "The sameness problem behind those unappetizing AI-generated menus",
+        "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+        "summary": "But when AI models train on too much of their own AI-generated content, they risk model collapse . If someone asks an AI model to generate a menu for a fast food restaurant, the model will likely reference menus from Wendy’s, Burger King, McDonald’s, or another popular chain. Researchers at the University of Duisburg-Essen in Germany found that AI-generated food images exhibited an “uncanny valley” effect , where…",
         "source": "TechCrunch",
-        "date": "2026-09-02T23:01:00+00:00"
+        "date": "2026-09-04T04:21:03+00:00"
       },
       {
-        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-        "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-        "summary": "Since its founding in 2024, Console has raised $29 million across two rounds: a $6.2 million seed led by Thrive Capital and a $23 million Series A co-led by DST Global and Thrive. Palo Alto Networks declined to comment. Console is Palo Alto Networks’ seventh acquisition in 2026, according to PitchBook.",
+        "title": "Crusoe reportedly raises $3B at a $30B valuation",
+        "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+        "summary": "Data center developer Crusoe, which counts Meta, Microsoft, and OpenAI as its customers, has raised a new $3 billion round at a $30 billion valuation, Bloomberg reported . The company recently signed a massive $13 billion , five-year cloud contract to supply quantitative trading firm Jane Street with GPUs and AI infrastructure, Bloomberg reported. The fresh fundraise comes 10 months after Crusoe raised a $1.38…",
         "source": "TechCrunch",
-        "date": "2026-09-02T22:44:56+00:00"
+        "date": "2026-09-04T00:48:42+00:00"
       },
       {
-        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-        "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-        "summary": "At our past TechCrunch Disrupt events, AI has taken center stage, both throughout our programming and in a stage of its own. But the Real World AI Stage is brand-new for TechCrunch Disrupt 2026 . This session brings together founders who have crossed that gap in space hardware, humanoid robotics, and autonomous systems.",
+        "title": "Oura files to go public",
+        "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+        "summary": "Oura, the smart ring maker, has filed to go public. The company went from $697 million in revenue during the nine-month period that ended June 30 last year to $1.2 billion during the corresponding period this year. Bloomberg previously reported that the company is expected to seek a $16 billion valuation.",
         "source": "TechCrunch",
-        "date": "2026-09-02T22:24:09+00:00"
+        "date": "2026-09-03T22:35:41+00:00"
       },
       {
-        "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
-        "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
-        "summary": "The Justice Department has spent years attempting to break up Google’s gargantuan advertising business across two separate antitrust lawsuits: one filed in 2020 focused on Google’s dominance in search, and a second filed in 2023 that specifically targeted Google’s ad-technology business. In 2024, a court determined that Google’s search business, including its exceedingly lucrative search-ad operation, was an illegal…",
+        "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+        "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+        "summary": "The robotaxi interest form , which was released ahead of the company’s Cybercab event in Austin, is not definitive proof that Tesla will sell its autonomous vehicles to third-party operators. Until now, Tesla seemed committed to keeping its robotaxi business in-house. Tesla’s welcome mat to fleet operators could encourage more small players to open up shop — helping the company saturate markets faster.",
         "source": "TechCrunch",
-        "date": "2026-09-02T21:38:34+00:00"
+        "date": "2026-09-03T22:18:30+00:00"
       },
       {
-        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-        "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-        "summary": "This technique, also called “opaque recurrence,” will likely make the model’s chain of thought more difficult to monitor — and that has AI safety experts rattled. “OpenAI has worked to preserve and utilize chain-of-thought monitoring since our very first reasoning models,” Pachocki wrote. All AI models do some quantity of opaque reasoning, and few researchers take chain-of-thought logs as a direct representation of…",
+        "title": "Startup ARR is less secure than ever, new research shows",
+        "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+        "summary": "Enterprise trial budgets are what fueled the initial AI boom of 2025. Enterprise contracts are what allow so many AI startups to claim astronomically fast revenue growth — think the phenomenon of startups going from $0-$10 million in three months . That opens doors to startups — enterprises are more willing to try their tech — but it also means an enterprise contract no longer secures long-term revenue.",
         "source": "TechCrunch",
-        "date": "2026-09-02T20:19:14+00:00"
+        "date": "2026-09-03T20:59:23+00:00"
       },
       {
-        "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
-        "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
-        "summary": "MapQuest’s unlikely comeback just got even bigger. App Store, up from No. App Store ranking steadily climbed, as consumers downloaded the app to show their support for the company’s stance.",
+        "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
+        "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+        "summary": "The Cybercab is Tesla’s fork in the road. Still, Tesla kept developing driving automation software. Tesla designed the Cybercab around cost.",
         "source": "TechCrunch",
-        "date": "2026-09-02T20:12:41+00:00"
+        "date": "2026-09-03T19:42:48+00:00"
       },
       {
-        "title": "It sure looks like hackers breached a major ID card verification service",
-        "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
-        "summary": "That’s according to a jaw-dropping report by independent security journalist Brian Krebs, who says a company used to verify government-issued identity documents in the real world was likely hacked and its vast stores of people’s ID cards were exfiltrated. A post advertising the site on a known Russian cybercrime forum said Nexus added about half a million new documents daily, sourced from a “major identity…",
+        "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+        "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+        "summary": "Thinking Machines, the AI lab founded early last year by former OpenAI CTO Mira Murati, is in discussions to raise $1 billion at a valuation of at least $40 billion, The Information reported Thursday. At that revenue figure, a $40 billion valuation reflects an extraordinarily high revenue multiple. The startup’s prior fundraise — a $2 billion round that stands among the largest seed financings in history — valued…",
         "source": "TechCrunch",
-        "date": "2026-09-02T19:35:09+00:00"
+        "date": "2026-09-03T19:36:29+00:00"
       },
       {
-        "title": "Delivery Hero board backs Uber’s $15B takeover bid",
-        "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
-        "summary": "Delivery Hero’s board has signed off on Uber’s $15 billion takeover offer and recommended shareholders approve the deal, which would create one of the largest on-demand food delivery platforms in the world. Uber, which was already the largest shareholder in Delivery Hero, set a minimum acceptance threshold of 50%, plus one share of Delivery Hero’s outstanding share capital. Delivery Hero previously agreed to sell…",
+        "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
+        "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+        "summary": "Fusion startup Realta Fusion this week announced a deal with Madison Gas and Electric that will place one of the first grid-connected fusion power plants in the country in Wisconsin. CFS has agreed to lease land from Dominion for Arc, its first commercial-scale power plant. Meanwhile, in Europe, Proxima Fusion is looking to rehab an old power plant site in southern Germany.",
         "source": "TechCrunch",
-        "date": "2026-09-02T19:25:35+00:00"
+        "date": "2026-09-03T19:29:16+00:00"
       },
       {
-        "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-        "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-        "summary": "You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com .",
+        "title": "Abliteration.ai is making a business out of removing AI guardrails",
+        "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+        "summary": "Abliteration is a long-standing technique among open source models. Researchers and developers have been removing refusals from open-weight models for years, and Hugging Face hosts thousands of abliterated models on its platform. “The big picture of abliterated models is they’re able to model bad actors,” Devon said.",
         "source": "TechCrunch",
-        "date": "2026-09-02T17:18:13+00:00"
+        "date": "2026-09-03T18:37:57+00:00"
       },
       {
-        "title": "X shifts US creator payouts from Stripe to X Money",
-        "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
-        "summary": "Elon Musk’s social network X on Wednesday said that starting today, all of its U.S. creator payouts will be handled through X Money, the app’s payments service. This includes payouts from both X’s Original Content Rewards Program and creators’ subscriptions, the company said in an update shared on X. The company’s new payments service, X Money , began supporting creator payouts earlier this month.",
+        "title": "Meta is paying to peek at how you use their latest AI model",
+        "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+        "summary": "While 1 million input tokens under a standard agreement costs $1.25, under the contributor pricing model they cost just 10 cents. For output tokens, the standard price is $4.25 per million, but that same million costs just 20 cents under the contributor model. This kind of user data is vital for making agentic tools work better.",
         "source": "TechCrunch",
-        "date": "2026-09-02T17:12:27+00:00"
+        "date": "2026-09-03T18:19:56+00:00"
       },
       {
-        "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-        "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-        "summary": "In a lawsuit that The New York Times filed against OpenAI, the Trump administration has contributed a 20-page brief in defense of the ChatGPT maker’s unlicensed use of copyrighted material to train its LLMs. The LLMs powering chatbots like ChatGPT, Claude, and Gemini are trained on incomprehensibly massive databases of published works, including copyrighted books, articles, and other media that AI companies feed…",
+        "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+        "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+        "summary": "OpenAI released Astra on Thursday, its latest AI model and — according to the company — its most powerful and capable one yet. OpenAI claims that Astra represents “a new frontier on computer and browser use,” and that it handles tasks with unmatched “speed, accuracy, and safety.” The model is being made available Thursday to OpenAI customers that use Daybreak, its cybersecurity program. Astra is also possibly…",
         "source": "TechCrunch",
-        "date": "2026-09-02T17:09:06+00:00"
+        "date": "2026-09-03T18:01:45+00:00"
       },
       {
-        "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
-        "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
-        "summary": "Geothermal energy company Fervo notched another win as Google agreed to buy nearly half a gigawatt of electricity to power a planned new data center in Utah. Fervo and Google’s new deal adds to the pair’s long-standing relationship. Recently, Google invested in Fervo’s last funding round before the geothermal startup went public .",
+        "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
+        "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+        "summary": "Ultrahuman is also working with Qualcomm on a new ring that will use the U.S. chipmaker’s silicon, Kumar told TechCrunch. “All ring devices today are like trackers,” Kumar said. Ultrahuman returned to the market with its redesigned Ring Pro this year.",
         "source": "TechCrunch",
-        "date": "2026-09-02T16:54:23+00:00"
+        "date": "2026-09-03T17:00:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "These new robot lawnmowers trim your edges",
-        "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
-        "summary": "Anker and Mammotion’s latest robot lawnmowers come with built-in edgers. Anker and Mammotion’s latest robot lawnmowers come with built-in edgers. The robot mower is AWD and will launch in May 2027 for €3,999.",
+        "title": "Why AI food looks like that",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+        "summary": "AI models have no understanding of why food should not look like other non-food images in that way. Sometimes the “food” being photographed isn’t even food . It might resemble food, but our brains know better.",
         "source": "The Verge",
-        "date": "2026-09-03T11:55:00+00:00"
+        "date": "2026-09-04T11:00:00+00:00"
       },
       {
-        "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
-        "url": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
-        "summary": "Agents and Infra is essentially the rest of Microsoft, including Azure, Microsoft 365 Cloud, Microsoft 365 commercial and consumer, server products, industry solutions, and the enterprise and partner services that Microsoft now calls frontier and support services. Microsoft has been providing year-over-year growth rates for its Azure business, reporting its Azure revenue for the first time last year . Azure revenue…",
+        "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+        "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+        "summary": "The first Project Zenith devices ship with AMD’s Ryzen AI Halo chips. The first Project Zenith devices ship with AMD’s Ryzen AI Halo chips. Microsoft is giving its developer-optimized Windows experience a name: Project Zenith.",
         "source": "The Verge",
-        "date": "2026-09-03T08:59:09+00:00"
+        "date": "2026-09-04T10:44:15+00:00"
       },
       {
-        "title": "Here’s the first 4K 120Hz UST projector with optical lens shift",
-        "url": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
-        "summary": "﻿No digital trickery to degrade image quality. ﻿No digital trickery to degrade image quality. Most UST projectors use digital trickery to manipulate the image onto the wall or screen behind it. Starting September 5th, Awol Vision is offering discounts for anyone willing to preorder the LuxVision ahead of the reviews.",
+        "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+        "summary": "OpenAI hasn’t provided a clear timeline for when subscribers will get access to the long-hyped Astra. OpenAI hasn’t provided a clear timeline for when subscribers will get access to the long-hyped Astra. Social media posts from OpenAI staff announcing the launch on X are filled with comments complaining about access.",
         "source": "The Verge",
-        "date": "2026-09-03T08:30:00+00:00"
+        "date": "2026-09-04T10:41:48+00:00"
       },
       {
-        "title": "Belkin’s first trackers come ready to attach to your gear.",
-        "url": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
-        "summary": "The four new trackers work with either Apple’s Find My or Google’s Find Hub tracking networks. The four new trackers work with either Apple’s Find My or Google’s Find Hub tracking networks. After selling accessories for attaching Apple’s AirTags to everything from keys to backpacks , Belkin is introducing its own trackers that work with either Apple’s Find My or Google’s Find Hub tracking networks.",
+        "title": "This NAS company wants to run your local smart home",
+        "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+        "summary": "Ugreen’s HomeAgent combines a NAS, a security camera NVR, and an on-device AI assistant in one box, maxing out with a $9,999 Nvidia Jetson Thor version. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a voice assistant called Uliya, with the promise that everything runs…",
         "source": "The Verge",
-        "date": "2026-09-03T08:00:00+00:00"
+        "date": "2026-09-04T09:41:44+00:00"
       },
       {
-        "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
-        "url": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
-        "summary": "The company says its new power banks will last up to three times longer before they need to be replaced. The company says its new power banks will last up to three times longer before they need to be replaced. The UltraCharge Pro Slim Magnetic Power Bank 5K Qi2 15W with BoostSolid Cell is the smaller and cheaper option of Belkin’s two new power banks at $69.99.",
+        "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
+        "url": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
+        "summary": "You can slim down your portable storage if you don’t mind dealing with a proprietary USB-C cable. You can slim down your portable storage if you don’t mind dealing with a proprietary USB-C cable. The downside is that without a standard USB-C port, you’ll need to rely on — and make sure not to lose — Lexar’s proprietary SnapLink cable that magnetically attaches to a pogo-pin connector on the side of the drive.",
         "source": "The Verge",
-        "date": "2026-09-03T08:00:00+00:00"
+        "date": "2026-09-04T07:00:00+00:00"
       },
       {
-        "title": "Anker’s sleep speaker uses radar and flower power to help you relax",
-        "url": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
-        "summary": "The SleepLab speaker uses millimeter-wave radar synced to binaural beats and lighting to deepen relaxation. The SleepLab speaker uses millimeter-wave radar synced to binaural beats and lighting to deepen relaxation. Anker’s SleepLab speaker promises to track and enhance sleep without a wearable.",
+        "title": "Aqara goes all in on smart lighting",
+        "url": "https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026",
+        "summary": "A new floor lamp, outdoor smart lighting, and LED strip from Aqara support Zigbee and Thread. A new floor lamp, outdoor smart lighting, and LED strip from Aqara support Zigbee and Thread. Aqara is getting into smart lighting for the outside of your home as well.",
         "source": "The Verge",
-        "date": "2026-09-03T07:30:00+00:00"
+        "date": "2026-09-04T07:00:00+00:00"
       },
       {
-        "title": "Anker’s Soundcore is bringing its incredible call quality to more headphones",
-        "url": "https://www.theverge.com/tech/986330/soundcore-headphones-earbuds-announcement-ifa-2026",
-        "summary": "All the new headphones and earbuds use Anker’s Thus chip. All the new headphones and earbuds use Anker’s Thus chip. At IFA 2026 in Berlin, Soundcore announced the Space 2 Pro headphones, AeroClip 2 and AeroClip 2 Pro open clip earbuds, and Liberty Buds 2.",
+        "title": "This rugged phone’s removable camera can survive and capture your extreme adventures",
+        "url": "https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof",
+        "summary": "The Xsnap 7 Pro’s four cameras include a pop-out wearable action cam and a night vision camera that can see in the dark. The Xsnap 7 Pro’s four cameras include a pop-out wearable action cam and a night vision camera that can see in the dark. Alongside the detachable camera, the Xsnap 7 pro includes a 32MP selfie camera on the front plus a stabilized 50MP main camera on the back, alongside a 64MP night vision camera…",
         "source": "The Verge",
-        "date": "2026-09-03T07:30:00+00:00"
+        "date": "2026-09-04T07:00:00+00:00"
       },
       {
-        "title": "Anker announces its first over-the-counter hearing aids",
-        "url": "https://www.theverge.com/tech/986377/ankers-first-otc-hearing-aids-ifa-2026",
-        "summary": "Details are slim, but we know they’ll use the Thus chip, which provides excellent vocal quality. Details are slim, but we know they’ll use the Thus chip, which provides excellent vocal quality. In what could be fortuitous timing for hearing aid users, Anker announced its first over-the-counter (OTC) hearing aids at IFA 2026.",
+        "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+        "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+        "summary": "Nvidia won’t confirm that previously announced DLSS 5 games will still ship with the tech. Nvidia won’t confirm that previously announced DLSS 5 games will still ship with the tech. DLSS 5 is still launching first on RTX 50 GPUs, but it’s officially coming to older RTX 40-series GPUs as well, Nvidia spokesperson Rajal Maharaj confirms to The Verge .",
         "source": "The Verge",
-        "date": "2026-09-03T07:30:00+00:00"
+        "date": "2026-09-04T01:49:25+00:00"
       },
       {
-        "title": "Anker’s new printer works directly on fabrics",
-        "url": "https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa",
-        "summary": "Customize T-shirts and tote bags with logos, photos, or colorful designs. Customize T-shirts and tote bags with logos, photos, or colorful designs. After introducing a consumer-friendly UV printer last year capable of printing designs directly on materials like wood, metal, glass, and acrylic, Anker’s eufyMake brand is introducing a new machine that can print directly on fabrics.",
+        "title": "The unusually muted Tesla Cybercab launch",
+        "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+        "summary": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. Tesla influencers planning live shows with the event stream were left streaming the webpage that tracks the number of Tesla robotaxis in Texas instead. The Cybercab is also the lightest, most range-efficient vehicle Tesla has ever produced.",
         "source": "The Verge",
-        "date": "2026-09-03T07:30:00+00:00"
+        "date": "2026-09-04T00:25:06+00:00"
       },
       {
-        "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
-        "url": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
-        "summary": "The company also announced a new Eufy video doorbell with VR features and a window camera. The company also announced a new Eufy video doorbell with VR features and a window camera. Anker’s new wired Eufy S4 video doorbell, launching this week, will be compatible with Mindbase.",
+        "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+        "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
+        "summary": "In May 2020, the Clippers informed Daktronics that it was the team’s preferred provider for this project, but that the team wanted to agree on a “spend back” arrangement whereby Daktronics would provide some amount of business back to the Clippers—which Daktronics told investigators is not uncommon in its industry. Sanberg, he told the Aspiration executives that “the Clippers are asking us to do this with Kawhi…",
         "source": "The Verge",
-        "date": "2026-09-03T07:30:00+00:00"
+        "date": "2026-09-03T23:37:37+00:00"
       },
       {
-        "title": "I wanna live an NPC life",
-        "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
-        "summary": "the general consensus around being an npc is that you’re giving up your autonomy—essentially becoming a side character in someone else's story or watching life pass you by while doomscrolling on your phone. but here’s my take: the npc lifestyle is actually a very viable way to live. as an npc, you aren't actually watching other people’s lives. even in a game, if you're an npc, you are doing your own thing regardless… (265 points, 228 comments on Hacker News)",
+        "title": "GPT-6 Astra",
+        "url": "https://openai.com/index/gpt-6-astra/",
+        "summary": "1889 points, 1695 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-02T19:52:53+00:00"
+        "date": "2026-09-03T18:41:05+00:00"
       },
       {
-        "title": "Fable 5.1 World Modeling",
-        "url": "https://github.com/PhiloLabs/fable51-worlds",
-        "summary": "Please reload this page . Please reload this page . Every building, storefront, sign, tree and traffic light is generated from open data and public reference imagery by code that lives in this repo. ▶ Watch the full 59-second walkthrough · 1920×1080 · aerial, plaza, Nintendo, lower level, Apple The square and its surrounding blocks — Powell, Geary, Post and Stockton — on real terrain and a real street grid, with 129… (279 points, 80 comments on Hacker News)",
+        "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+        "url": "https://inference-docs.cerebras.ai/models/overview",
+        "summary": "584 points, 193 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-02T19:49:01+00:00"
+        "date": "2026-09-03T18:32:13+00:00"
       }
     ]
   }
