@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T12:00:14.226270+00:00",
+  "generated_at": "2026-09-05T11:09:23.588398+00:00",
   "sections": {
     "research": [
       {
@@ -117,6 +117,13 @@
         "date": "2026-09-03T13:15:00+00:00"
       },
       {
+        "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+        "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+        "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+        "source": "OpenAI",
+        "date": "2026-09-03T12:00:00+00:00"
+      },
+      {
         "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
         "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
         "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
@@ -124,11 +131,11 @@
         "date": "2026-09-03T12:00:00+00:00"
       },
       {
-        "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-        "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-        "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+        "title": "GPT-6 Astra: A new generation of intelligence",
+        "url": "https://openai.com/index/gpt-6-astra",
+        "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
         "source": "OpenAI",
-        "date": "2026-09-03T12:00:00+00:00"
+        "date": "2026-09-03T11:00:00+00:00"
       },
       {
         "title": "Safety overview: GPT-6 Astra",
@@ -164,185 +171,178 @@
         "summary": "A global view of methane detections from space. We created 3.6 million synthetic methane plumes and injected them directly into real EMIT scenes. Deployed on real-world satellite data, MAPL-EMIT demonstrates strong potential for scalable emissions mapping.",
         "source": "Google Research",
         "date": "2026-09-01T18:40:00+00:00"
-      },
-      {
-        "title": "Introducing agentic video understanding with Gemini",
-        "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-        "summary": "Google just launched agentic video understanding for Gemini 3.7 Flash, 3.6 Flash, and 3.5 Flash-Lite. Today, we’re launching agentic video understanding across our latest models: Gemini 3.7 Flash, 3.6 Flash and 3.5 Flash-Lite. Using agentic video understanding places Gemini 3.7 Flash at the accuracy-to-cost pareto frontier for video analysis.",
-        "source": "Google DeepMind",
-        "date": "2026-09-01T17:08:51+00:00"
       }
     ],
     "startups": [
       {
-        "title": "The sameness problem behind those unappetizing AI-generated menus",
-        "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-        "summary": "But when AI models train on too much of their own AI-generated content, they risk model collapse . If someone asks an AI model to generate a menu for a fast food restaurant, the model will likely reference menus from Wendy’s, Burger King, McDonald’s, or another popular chain. Researchers at the University of Duisburg-Essen in Germany found that AI-generated food images exhibited an “uncanny valley” effect , where…",
+        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+        "summary": "The startup plans to hire and train teams of data collectors worldwide, including teleoperators who steer robots remotely and egocentric operators who wear body sensors to capture movement data. Other startups attempting to collect real-world data for robot training include Mecka AI, as well as human-data platforms expanding beyond LLMs, such as Scale AI and Micro1 . Marina Temkin is a venture capital and startups…",
         "source": "TechCrunch",
-        "date": "2026-09-04T04:21:03+00:00"
+        "date": "2026-09-04T23:36:14+00:00"
       },
       {
-        "title": "Crusoe reportedly raises $3B at a $30B valuation",
-        "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-        "summary": "Data center developer Crusoe, which counts Meta, Microsoft, and OpenAI as its customers, has raised a new $3 billion round at a $30 billion valuation, Bloomberg reported . The company recently signed a massive $13 billion , five-year cloud contract to supply quantitative trading firm Jane Street with GPUs and AI infrastructure, Bloomberg reported. The fresh fundraise comes 10 months after Crusoe raised a $1.38…",
+        "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+        "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. OpenAI brought in METR and Redwood to investigate the Hugging Face portion of the incident, but the scope of their investigation stopped short of the compromise of OpenAI’s own infrastructure. Crucially, OpenAI’s infrastructure compromise continued beyond July 13 and was not examined.",
         "source": "TechCrunch",
-        "date": "2026-09-04T00:48:42+00:00"
+        "date": "2026-09-04T23:15:11+00:00"
       },
       {
-        "title": "Oura files to go public",
-        "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
-        "summary": "Oura, the smart ring maker, has filed to go public. The company went from $697 million in revenue during the nine-month period that ended June 30 last year to $1.2 billion during the corresponding period this year. Bloomberg previously reported that the company is expected to seek a $16 billion valuation.",
+        "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+        "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+        "summary": "Ahead of that expected IPO, the company is reportedly in talks to raise an additional $3.5 billion. Nscale hailed its round as “the largest Series B in European history.” The company’s Series A round, in December of 2024, raised $155 million . Nscale recently signed a large deal with Anthropic worth approximately $45 billion.",
         "source": "TechCrunch",
-        "date": "2026-09-03T22:35:41+00:00"
+        "date": "2026-09-04T21:12:11+00:00"
       },
       {
-        "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
-        "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
-        "summary": "The robotaxi interest form , which was released ahead of the company’s Cybercab event in Austin, is not definitive proof that Tesla will sell its autonomous vehicles to third-party operators. Until now, Tesla seemed committed to keeping its robotaxi business in-house. Tesla’s welcome mat to fleet operators could encourage more small players to open up shop — helping the company saturate markets faster.",
+        "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
+        "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+        "summary": "The startup, Operation Bluebird, originally launched under the name Twitter.now , but the court barred it from using that name, siding with X on the core “Twitter” trademark. Operation Bluebird has since rebranded its website as Tweet.app, using the freed-up “tweet” name, and launched to the public. District Court Judge Colm F.",
         "source": "TechCrunch",
-        "date": "2026-09-03T22:18:30+00:00"
+        "date": "2026-09-04T17:52:05+00:00"
       },
       {
-        "title": "Startup ARR is less secure than ever, new research shows",
-        "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-        "summary": "Enterprise trial budgets are what fueled the initial AI boom of 2025. Enterprise contracts are what allow so many AI startups to claim astronomically fast revenue growth — think the phenomenon of startups going from $0-$10 million in three months . That opens doors to startups — enterprises are more willing to try their tech — but it also means an enterprise contract no longer secures long-term revenue.",
+        "title": "What will Apple’s John Ternus era look like?",
+        "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+        "summary": "You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com .",
         "source": "TechCrunch",
-        "date": "2026-09-03T20:59:23+00:00"
+        "date": "2026-09-04T17:18:00+00:00"
       },
       {
-        "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
-        "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
-        "summary": "The Cybercab is Tesla’s fork in the road. Still, Tesla kept developing driving automation software. Tesla designed the Cybercab around cost.",
+        "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
+        "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+        "summary": "But Tesla scattered a lot of the details. But something is making Tesla hesitate on allowing young children in the Cybercab for now. Tesla is using a brake-by-wire system in the Cybercab, again largely (it seems) for the purposes of cutting costs.",
         "source": "TechCrunch",
-        "date": "2026-09-03T19:42:48+00:00"
+        "date": "2026-09-04T16:51:23+00:00"
       },
       {
-        "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-        "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-        "summary": "Thinking Machines, the AI lab founded early last year by former OpenAI CTO Mira Murati, is in discussions to raise $1 billion at a valuation of at least $40 billion, The Information reported Thursday. At that revenue figure, a $40 billion valuation reflects an extraordinarily high revenue multiple. The startup’s prior fundraise — a $2 billion round that stands among the largest seed financings in history — valued…",
+        "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+        "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Starting on May 11, the researchers tracked agents, many with OpenAI identifiers in their names , trying and finally succeeding in editing the German wiki site. Astra, released yesterday by OpenAI, appears to be its most capable model yet.",
         "source": "TechCrunch",
-        "date": "2026-09-03T19:36:29+00:00"
+        "date": "2026-09-04T16:21:11+00:00"
       },
       {
-        "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
-        "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
-        "summary": "Fusion startup Realta Fusion this week announced a deal with Madison Gas and Electric that will place one of the first grid-connected fusion power plants in the country in Wisconsin. CFS has agreed to lease land from Dominion for Arc, its first commercial-scale power plant. Meanwhile, in Europe, Proxima Fusion is looking to rehab an old power plant site in southern Germany.",
+        "title": "CD sales are making an unexpected comeback amid a retro tech boom",
+        "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
+        "summary": "According to the RIAA’s new report , CDs generated $171.1 million in revenue during the first half of 2026 — up 58.6% from roughly $107.9 million in the first half of 2025 — on 17.5 million units sold, up 45.7% from about 12 million units in the same period last year. Last year’s full-year report showed CD revenue had actually fallen 7.8% for the full year, from $338.9 million in 2024 to $312.4 million in 2025,…",
         "source": "TechCrunch",
-        "date": "2026-09-03T19:29:16+00:00"
+        "date": "2026-09-04T15:00:00+00:00"
       },
       {
-        "title": "Abliteration.ai is making a business out of removing AI guardrails",
-        "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-        "summary": "Abliteration is a long-standing technique among open source models. Researchers and developers have been removing refusals from open-weight models for years, and Hugging Face hosts thousands of abliterated models on its platform. “The big picture of abliterated models is they’re able to model bad actors,” Devon said.",
+        "title": "Krafton doubles down on India with another $250M bet beyond gaming",
+        "url": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Krafton, the South Korean gaming company behind titles including PUBG and Battlegrounds Mobile India (BGMI), plans to invest another $250 million in India over the next three to four years as it pushes beyond gaming into AI, robotics, and deep tech. Krafton initially built its India business around gaming, led by BGMI, a revamped and localized…",
         "source": "TechCrunch",
-        "date": "2026-09-03T18:37:57+00:00"
+        "date": "2026-09-04T14:47:20+00:00"
       },
       {
-        "title": "Meta is paying to peek at how you use their latest AI model",
-        "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-        "summary": "While 1 million input tokens under a standard agreement costs $1.25, under the contributor pricing model they cost just 10 cents. For output tokens, the standard price is $4.25 per million, but that same million costs just 20 cents under the contributor model. This kind of user data is vital for making agentic tools work better.",
+        "title": "Google’s Gemini Spark can now manage your Google Photos library",
+        "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Google is integrating more of its services with AI, as the company announced that its personal agent, Gemini Spark, can now manage your Google Photos library. That means you can ask Gemini Spark to execute tasks in Google Photos, like editing images, curating albums, automatically creating shared albums with your favorite shots, turning concert…",
         "source": "TechCrunch",
-        "date": "2026-09-03T18:19:56+00:00"
+        "date": "2026-09-04T14:47:11+00:00"
       },
       {
-        "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-        "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-        "summary": "OpenAI released Astra on Thursday, its latest AI model and — according to the company — its most powerful and capable one yet. OpenAI claims that Astra represents “a new frontier on computer and browser use,” and that it handles tasks with unmatched “speed, accuracy, and safety.” The model is being made available Thursday to OpenAI customers that use Daybreak, its cybersecurity program. Astra is also possibly…",
+        "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+        "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+        "summary": "You have less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026. Applying does not guarantee your event will be accepted or hosted as an official TechCrunch Disrupt Side Event. Apply now → Don’t want to host a Side Event but still want to be a part of the global tech scene?",
         "source": "TechCrunch",
-        "date": "2026-09-03T18:01:45+00:00"
+        "date": "2026-09-04T14:00:00+00:00"
       },
       {
-        "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
-        "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
-        "summary": "Ultrahuman is also working with Qualcomm on a new ring that will use the U.S. chipmaker’s silicon, Kumar told TechCrunch. “All ring devices today are like trackers,” Kumar said. Ultrahuman returned to the market with its redesigned Ring Pro this year.",
+        "title": "US military disabled ad tracking on troops’ devices following reports of targeted attacks",
+        "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
+        "summary": "Army, Air Force, Navy, and Marine Corps, and Special Operations Command have all disabled advertising tracking across their government-issued devices. Location data collected from phone apps is commonly shared with third-party companies and data brokers , which then sell the information on the commercial market. Disabling the advertising ID makes the person far more difficult to identify as the location data blends…",
         "source": "TechCrunch",
-        "date": "2026-09-03T17:00:00+00:00"
+        "date": "2026-09-04T13:21:37+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Why AI food looks like that",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
-        "summary": "AI models have no understanding of why food should not look like other non-food images in that way. Sometimes the “food” being photographed isn’t even food . It might resemble food, but our brains know better.",
+        "title": "Robotaxis enter their villain era",
+        "url": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
+        "summary": "Road Rage is a new short film in production that casts a murderous autonomous car as the bad guy — and taps into everything people already fear about AI on the road. Road Rage is a new short film in production that casts a murderous autonomous car as the bad guy — and taps into everything people already fear about AI on the road. The car is simply learning road rage from humans.",
         "source": "The Verge",
-        "date": "2026-09-04T11:00:00+00:00"
+        "date": "2026-09-05T11:00:00+00:00"
       },
       {
-        "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
-        "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
-        "summary": "The first Project Zenith devices ship with AMD’s Ryzen AI Halo chips. The first Project Zenith devices ship with AMD’s Ryzen AI Halo chips. Microsoft is giving its developer-optimized Windows experience a name: Project Zenith.",
-        "source": "The Verge",
-        "date": "2026-09-04T10:44:15+00:00"
-      },
-      {
-        "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-        "summary": "OpenAI hasn’t provided a clear timeline for when subscribers will get access to the long-hyped Astra. OpenAI hasn’t provided a clear timeline for when subscribers will get access to the long-hyped Astra. Social media posts from OpenAI staff announcing the launch on X are filled with comments complaining about access.",
-        "source": "The Verge",
-        "date": "2026-09-04T10:41:48+00:00"
-      },
-      {
-        "title": "This NAS company wants to run your local smart home",
-        "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
-        "summary": "Ugreen’s HomeAgent combines a NAS, a security camera NVR, and an on-device AI assistant in one box, maxing out with a $9,999 Nvidia Jetson Thor version. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a voice assistant called Uliya, with the promise that everything runs…",
-        "source": "The Verge",
-        "date": "2026-09-04T09:41:44+00:00"
-      },
-      {
-        "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
-        "url": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
-        "summary": "You can slim down your portable storage if you don’t mind dealing with a proprietary USB-C cable. You can slim down your portable storage if you don’t mind dealing with a proprietary USB-C cable. The downside is that without a standard USB-C port, you’ll need to rely on — and make sure not to lose — Lexar’s proprietary SnapLink cable that magnetically attaches to a pogo-pin connector on the side of the drive.",
-        "source": "The Verge",
-        "date": "2026-09-04T07:00:00+00:00"
-      },
-      {
-        "title": "Aqara goes all in on smart lighting",
-        "url": "https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026",
-        "summary": "A new floor lamp, outdoor smart lighting, and LED strip from Aqara support Zigbee and Thread. A new floor lamp, outdoor smart lighting, and LED strip from Aqara support Zigbee and Thread. Aqara is getting into smart lighting for the outside of your home as well.",
-        "source": "The Verge",
-        "date": "2026-09-04T07:00:00+00:00"
-      },
-      {
-        "title": "This rugged phone’s removable camera can survive and capture your extreme adventures",
-        "url": "https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof",
-        "summary": "The Xsnap 7 Pro’s four cameras include a pop-out wearable action cam and a night vision camera that can see in the dark. The Xsnap 7 Pro’s four cameras include a pop-out wearable action cam and a night vision camera that can see in the dark. Alongside the detachable camera, the Xsnap 7 pro includes a 32MP selfie camera on the front plus a stabilized 50MP main camera on the back, alongside a 64MP night vision camera…",
-        "source": "The Verge",
-        "date": "2026-09-04T07:00:00+00:00"
-      },
-      {
-        "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
-        "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
-        "summary": "Nvidia won’t confirm that previously announced DLSS 5 games will still ship with the tech. Nvidia won’t confirm that previously announced DLSS 5 games will still ship with the tech. DLSS 5 is still launching first on RTX 50 GPUs, but it’s officially coming to older RTX 40-series GPUs as well, Nvidia spokesperson Rajal Maharaj confirms to The Verge .",
-        "source": "The Verge",
-        "date": "2026-09-04T01:49:25+00:00"
-      },
-      {
-        "title": "The unusually muted Tesla Cybercab launch",
-        "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
-        "summary": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. Tesla influencers planning live shows with the event stream were left streaming the webpage that tracks the number of Tesla robotaxis in Texas instead. The Cybercab is also the lightest, most range-efficient vehicle Tesla has ever produced.",
-        "source": "The Verge",
-        "date": "2026-09-04T00:25:06+00:00"
-      },
-      {
-        "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
-        "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
-        "summary": "In May 2020, the Clippers informed Daktronics that it was the team’s preferred provider for this project, but that the team wanted to agree on a “spend back” arrangement whereby Daktronics would provide some amount of business back to the Clippers—which Daktronics told investigators is not uncommon in its industry. Sanberg, he told the Aspiration executives that “the Clippers are asking us to do this with Kawhi…",
-        "source": "The Verge",
-        "date": "2026-09-03T23:37:37+00:00"
-      },
-      {
-        "title": "GPT-6 Astra",
-        "url": "https://openai.com/index/gpt-6-astra/",
-        "summary": "1889 points, 1695 comments on Hacker News",
+        "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+        "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+        "summary": "Each year, Gallup asks the world about corruption in two contexts: government and business. By contrast, between 2006 and 2025, perceptions of government corruption averaged 11 points higher than business corruption. While perceptions of corruption in business are also elevated, government corruption is seen as significantly more widespread. (448 points, 343 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-03T18:41:05+00:00"
+        "date": "2026-09-04T22:03:16+00:00"
       },
       {
-        "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-        "url": "https://inference-docs.cerebras.ai/models/overview",
-        "summary": "584 points, 193 comments on Hacker News",
+        "title": "Actively exploited sandbox RCE in all Chromium versions",
+        "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+        "summary": "518 points, 280 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-03T18:32:13+00:00"
+        "date": "2026-09-04T21:52:01+00:00"
+      },
+      {
+        "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+        "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+        "summary": "Non-destructive editing, better clip management, and a new look bring the app into the modern age. Non-destructive editing, better clip management, and a new look bring the app into the modern age. This big refresh to Audacity 4 brings it much closer to a modern digital audio workstation (DAW).",
+        "source": "The Verge",
+        "date": "2026-09-04T21:23:50+00:00"
+      },
+      {
+        "title": "Statichost.eu – European static site hosting",
+        "url": "https://www.statichost.eu/",
+        "summary": "A European company, European infrastructure, and European values — from deploy to CDN. Every static site generator. European infrastructure, your domain, 2 minutes. (305 points, 125 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-04T20:34:49+00:00"
+      },
+      {
+        "title": "Can AI design circuit boards yet?",
+        "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+        "summary": "EEBench uses atopile instead. EEBench checks are fully deterministic. EEBench V1 covers analog and digital design through simulation. (267 points, 163 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-04T19:48:29+00:00"
+      },
+      {
+        "title": "The White House is making arcade games racist",
+        "url": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
+        "summary": "In the Trump administration’s game, the player has to stack interlocking shapes to stop a “zombie border siege” along the southern border. Previously, the Trump administration has gotten in trouble for infringing on others’ copyrights. The president is deporting people.) But the games also inadvertently highlight the administration’s policy failures, not to mention the hypocrisy of Trump’s agenda.",
+        "source": "The Verge",
+        "date": "2026-09-04T19:42:54+00:00"
+      },
+      {
+        "title": "Shutting down our public encrypted DNS",
+        "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+        "summary": "Mullvad has operated public encrypted DNS (DoH) servers since 2022. You can follow Quad9 guides . Any existing iOS and macOS Mullvad DoH profile will stop working, please make sure to replace them with Quad9 iOS profiles or macOS profiles . (359 points, 158 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-04T18:50:28+00:00"
+      },
+      {
+        "title": "Formalizing Fermat's Last Theorem",
+        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+        "summary": "Claude worked largely autonomously over 11 days to write the proof in the Lean programming language. Claude completed the proof in 11 days, producing computer-verifiable proofs of 30,300 theorems along the way (using 29,500 in the final proof). 3 Claude’s proof follows a simplified version of Wiles’s proof from Darmon, Diamond and Taylor . (625 points, 390 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-04T18:42:56+00:00"
+      },
+      {
+        "title": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
+        "url": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
+        "summary": "﻿CEO Nick Woodman addressed concerns GoPro might pull back from consumer camera tech after its Starman merger. ﻿CEO Nick Woodman addressed concerns GoPro might pull back from consumer camera tech after its Starman merger. To our GoPro community, fans and customers, We understand there’s some concern about GoPro’s post-merger commitment to continue developing market leading cameras for consumers and professionals. We…",
+        "source": "The Verge",
+        "date": "2026-09-04T18:00:45+00:00"
+      },
+      {
+        "title": "Roland is getting into generative AI music with Melody Flip",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+        "summary": "Rather than fully polished tracks, the plugin is supposed to act as a creative spark. Rather than fully polished tracks, the plugin is supposed to act as a creative spark. Unlike Suno or Udio, Melody Flip doesn’t spit out fully polished songs with vocals and full arrangements.",
+        "source": "The Verge",
+        "date": "2026-09-04T17:51:35+00:00"
+      },
+      {
+        "title": "Show HN: Open-Source eInk Bike Computer",
+        "url": "https://opentrailpaper.com",
+        "summary": "It shows ride data and offline maps, follows GPX routes, records FIT files and connects to Bluetooth sensors. OpenTrailPaper currently targets the LilyGO board below. The setup page flashes the board over USB and can build basic offline maps. (293 points, 102 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-04T17:18:08+00:00"
       }
     ]
   }
