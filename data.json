@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T11:09:23.588398+00:00",
+  "generated_at": "2026-09-06T11:32:38.043368+00:00",
   "sections": {
     "research": [
       {
@@ -175,6 +175,41 @@
     ],
     "startups": [
       {
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI. The Seattle Times’ lawsuit is particularly notable because Microsoft and OpenAI have funded some of the organization’s journalism projects and fellowships.",
+        "source": "TechCrunch",
+        "date": "2026-09-05T22:49:55+00:00"
+      },
+      {
+        "title": "Hikers rescued after using Google Gemini for planning",
+        "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Three hikers were rescued from California’s Mount Shasta this week after using Google’s AI chatbot Gemini to plan their expedition, according to the Chicago Tribune . While it’s not clear whether Gemini can take all the blame for these bad decisions, the sheriff’s…",
+        "source": "TechCrunch",
+        "date": "2026-09-05T19:35:24+00:00"
+      },
+      {
+        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt OpenAI has acknowledged its role in a recently reported incident where AI agents took over a German wiki forum . It also reported that OpenAI leadership became aware of the incident weeks ago but kept it hidden as the company dealt with the fallout from a separate…",
+        "source": "TechCrunch",
+        "date": "2026-09-05T18:05:27+00:00"
+      },
+      {
+        "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
+        "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+        "summary": "The culprit was a newly launched iPhone app I downloaded. These private alarm groups let people wake up at the same time and keep each other accountable. The app is currently available to download on the App Store .",
+        "source": "TechCrunch",
+        "date": "2026-09-05T17:00:00+00:00"
+      },
+      {
+        "title": "Oura is going public, but these smart ring companies are coming for its crown",
+        "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+        "summary": "The company’s move to go public follows the recent launch of the Oura Ring 5 , its slimmest and lightest ring yet. Samsung became the first major tech giant to launch a smart ring in 2024. Compared with other smart rings on the market, the Galaxy Ring is relatively basic when it comes to advanced health and sleep tracking.",
+        "source": "TechCrunch",
+        "date": "2026-09-05T15:00:00+00:00"
+      },
+      {
         "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
         "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
         "summary": "The startup plans to hire and train teams of data collectors worldwide, including teleoperators who steer robots remotely and egocentric operators who wear body sensors to capture movement data. Other startups attempting to collect real-world data for robot training include Mecka AI, as well as human-data platforms expanding beyond LLMs, such as Scale AI and Micro1 . Marina Temkin is a venture capital and startups…",
@@ -222,127 +257,92 @@
         "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Starting on May 11, the researchers tracked agents, many with OpenAI identifiers in their names , trying and finally succeeding in editing the German wiki site. Astra, released yesterday by OpenAI, appears to be its most capable model yet.",
         "source": "TechCrunch",
         "date": "2026-09-04T16:21:11+00:00"
-      },
-      {
-        "title": "CD sales are making an unexpected comeback amid a retro tech boom",
-        "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
-        "summary": "According to the RIAA’s new report , CDs generated $171.1 million in revenue during the first half of 2026 — up 58.6% from roughly $107.9 million in the first half of 2025 — on 17.5 million units sold, up 45.7% from about 12 million units in the same period last year. Last year’s full-year report showed CD revenue had actually fallen 7.8% for the full year, from $338.9 million in 2024 to $312.4 million in 2025,…",
-        "source": "TechCrunch",
-        "date": "2026-09-04T15:00:00+00:00"
-      },
-      {
-        "title": "Krafton doubles down on India with another $250M bet beyond gaming",
-        "url": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Krafton, the South Korean gaming company behind titles including PUBG and Battlegrounds Mobile India (BGMI), plans to invest another $250 million in India over the next three to four years as it pushes beyond gaming into AI, robotics, and deep tech. Krafton initially built its India business around gaming, led by BGMI, a revamped and localized…",
-        "source": "TechCrunch",
-        "date": "2026-09-04T14:47:20+00:00"
-      },
-      {
-        "title": "Google’s Gemini Spark can now manage your Google Photos library",
-        "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Google is integrating more of its services with AI, as the company announced that its personal agent, Gemini Spark, can now manage your Google Photos library. That means you can ask Gemini Spark to execute tasks in Google Photos, like editing images, curating albums, automatically creating shared albums with your favorite shots, turning concert…",
-        "source": "TechCrunch",
-        "date": "2026-09-04T14:47:11+00:00"
-      },
-      {
-        "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-        "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-        "summary": "You have less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026. Applying does not guarantee your event will be accepted or hosted as an official TechCrunch Disrupt Side Event. Apply now → Don’t want to host a Side Event but still want to be a part of the global tech scene?",
-        "source": "TechCrunch",
-        "date": "2026-09-04T14:00:00+00:00"
-      },
-      {
-        "title": "US military disabled ad tracking on troops’ devices following reports of targeted attacks",
-        "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
-        "summary": "Army, Air Force, Navy, and Marine Corps, and Special Operations Command have all disabled advertising tracking across their government-issued devices. Location data collected from phone apps is commonly shared with third-party companies and data brokers , which then sell the information on the commercial market. Disabling the advertising ID makes the person far more difficult to identify as the location data blends…",
-        "source": "TechCrunch",
-        "date": "2026-09-04T13:21:37+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Robotaxis enter their villain era",
-        "url": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
-        "summary": "Road Rage is a new short film in production that casts a murderous autonomous car as the bad guy — and taps into everything people already fear about AI on the road. Road Rage is a new short film in production that casts a murderous autonomous car as the bad guy — and taps into everything people already fear about AI on the road. The car is simply learning road rage from humans.",
+        "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+        "url": "https://cloudinabottle.org/blog/launch-post",
+        "summary": "TLDR: Cloud in a Bottle is your open-source personal cloud: containerized apps, unified auth, good UX. Nowadays, cloud software is centralized, with one instance of the software serving the world, and the costs borne by the creator. That said, there's a chicken and egg problem - without a broadly accessible way to self-host open source web software, the audience for such software is small, and the available software… (441 points, 214 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-06T00:03:29+00:00"
+      },
+      {
+        "title": "Chrome again exempts Google from user site data settings",
+        "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+        "summary": "The blog post was about a Google Chrome bug that mysteriously exempted Google-owned sites from the setting to automatically delete all site data. You can see on chrome://settings/content/all that no site data is saved. Returning to chrome://settings/content/all , I find some google.com site data! (434 points, 65 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-05T23:39:47+00:00"
+      },
+      {
+        "title": "The revolt of the reader",
+        "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+        "summary": "We readers are left with pointed questions for those promoting LLM-authored pieces: do you think readers can’t tell? The war on spam started to turn when we could identify it at scale; could something similar happen to LLM-authored writing? Late last year, Pangram Labs launched their Pangram 3 model . (391 points, 160 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-05T21:37:49+00:00"
+      },
+      {
+        "title": "Explore the globe in field recordings",
+        "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+        "summary": "Earth Garden takes you around the world using environmental audio from Freesound. Earth Garden takes you around the world using environmental audio from Freesound. I love field recordings.",
         "source": "The Verge",
-        "date": "2026-09-05T11:00:00+00:00"
+        "date": "2026-09-05T21:31:34+00:00"
       },
       {
-        "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
-        "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
-        "summary": "Each year, Gallup asks the world about corruption in two contexts: government and business. By contrast, between 2006 and 2025, perceptions of government corruption averaged 11 points higher than business corruption. While perceptions of corruption in business are also elevated, government corruption is seen as significantly more widespread. (448 points, 343 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-04T22:03:16+00:00"
-      },
-      {
-        "title": "Actively exploited sandbox RCE in all Chromium versions",
-        "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-        "summary": "518 points, 280 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-09-04T21:52:01+00:00"
-      },
-      {
-        "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
-        "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
-        "summary": "Non-destructive editing, better clip management, and a new look bring the app into the modern age. Non-destructive editing, better clip management, and a new look bring the app into the modern age. This big refresh to Audacity 4 brings it much closer to a modern digital audio workstation (DAW).",
+        "title": "iPhone Handoff will seamlessly share one number between two phones",
+        "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+        "summary": "The feature is expected to launch as part of iOS 27 later this month. The feature is expected to launch as part of iOS 27 later this month. The feature will require carrier support, however.",
         "source": "The Verge",
-        "date": "2026-09-04T21:23:50+00:00"
+        "date": "2026-09-05T20:53:58+00:00"
       },
       {
-        "title": "Statichost.eu – European static site hosting",
-        "url": "https://www.statichost.eu/",
-        "summary": "A European company, European infrastructure, and European values — from deploy to CDN. Every static site generator. European infrastructure, your domain, 2 minutes. (305 points, 125 comments on Hacker News)",
+        "title": "Private German rocket makes history, reaches orbit from European soil",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+        "summary": "The German company Isar Aerospace launched its Spectrum rocket from Andøya Space Center in northern Norway today (Sept. \"This is right now making history — making history for Spectrum, making history for Isar, making history for Europe,” Nikolaos Perakis, Spectrum chief engineer at Isar, said during today's launch webcast, which the company produced in collaboration with NASASpaceflight . So today was a very big day… (635 points, 342 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-04T20:34:49+00:00"
+        "date": "2026-09-05T20:31:38+00:00"
       },
       {
-        "title": "Can AI design circuit boards yet?",
-        "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-        "summary": "EEBench uses atopile instead. EEBench checks are fully deterministic. EEBench V1 covers analog and digital design through simulation. (267 points, 163 comments on Hacker News)",
+        "title": "The Real Luxuries In Life",
+        "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
+        "summary": "It’s the “back to school” moment of the year for me. When I was a kid growing up in Dallas, we didn’t go back to school until after Labor Day, so that was the weekend that summer ended and fall began. I wrote ten years ago that Memorial Day and Labor Day are the bookends of summer. (484 points, 227 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-04T19:48:29+00:00"
+        "date": "2026-09-05T17:46:16+00:00"
       },
       {
-        "title": "The White House is making arcade games racist",
-        "url": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
-        "summary": "In the Trump administration’s game, the player has to stack interlocking shapes to stop a “zombie border siege” along the southern border. Previously, the Trump administration has gotten in trouble for infringing on others’ copyrights. The president is deporting people.) But the games also inadvertently highlight the administration’s policy failures, not to mention the hypocrisy of Trump’s agenda.",
+        "title": "CD sales are booming as physical media continues its resurgence",
+        "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
+        "summary": "But don’t think that means people are abandoning streaming. But don’t think that means people are abandoning streaming. Streaming revenue grew by 4.7 percent to $4.9 billion — dwarfing all physical media combined.",
         "source": "The Verge",
-        "date": "2026-09-04T19:42:54+00:00"
+        "date": "2026-09-05T16:49:33+00:00"
       },
       {
-        "title": "Shutting down our public encrypted DNS",
-        "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-        "summary": "Mullvad has operated public encrypted DNS (DoH) servers since 2022. You can follow Quad9 guides . Any existing iOS and macOS Mullvad DoH profile will stop working, please make sure to replace them with Quad9 iOS profiles or macOS profiles . (359 points, 158 comments on Hacker News)",
+        "title": "Flock used >100 times to track veteran who recorded traffic stop",
+        "url": "https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/",
+        "summary": "\"It just didn't sit right with me,\" Jones told TMJ4 News, a local NBC News affiliate. After Shayhorn completed the traffic stop, Jones returned to his vehicle. Provided in the sheriff's office's response to Jones' complaint \"was a single photograph of [Jones'] white vehicle, a white BMW,\" Cade told TMJ4 News. (361 points, 189 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-04T18:50:28+00:00"
+        "date": "2026-09-05T16:48:13+00:00"
       },
       {
-        "title": "Formalizing Fermat's Last Theorem",
-        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-        "summary": "Claude worked largely autonomously over 11 days to write the proof in the Lean programming language. Claude completed the proof in 11 days, producing computer-verifiable proofs of 30,300 theorems along the way (using 29,500 in the final proof). 3 Claude’s proof follows a simplified version of Wiles’s proof from Darmon, Diamond and Taylor . (625 points, 390 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-04T18:42:56+00:00"
-      },
-      {
-        "title": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
-        "url": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
-        "summary": "﻿CEO Nick Woodman addressed concerns GoPro might pull back from consumer camera tech after its Starman merger. ﻿CEO Nick Woodman addressed concerns GoPro might pull back from consumer camera tech after its Starman merger. To our GoPro community, fans and customers, We understand there’s some concern about GoPro’s post-merger commitment to continue developing market leading cameras for consumers and professionals. We…",
+        "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
+        "url": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
+        "summary": "If you haven’t had your fantasy football draft yet, better get on it. Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. Certainly, building The Fantasy Footballers .",
         "source": "The Verge",
-        "date": "2026-09-04T18:00:45+00:00"
+        "date": "2026-09-05T15:00:00+00:00"
       },
       {
-        "title": "Roland is getting into generative AI music with Melody Flip",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-        "summary": "Rather than fully polished tracks, the plugin is supposed to act as a creative spark. Rather than fully polished tracks, the plugin is supposed to act as a creative spark. Unlike Suno or Udio, Melody Flip doesn’t spit out fully polished songs with vocals and full arrangements.",
-        "source": "The Verge",
-        "date": "2026-09-04T17:51:35+00:00"
-      },
-      {
-        "title": "Show HN: Open-Source eInk Bike Computer",
-        "url": "https://opentrailpaper.com",
-        "summary": "It shows ride data and offline maps, follows GPX routes, records FIT files and connects to Bluetooth sensors. OpenTrailPaper currently targets the LilyGO board below. The setup page flashes the board over USB and can build basic offline maps. (293 points, 102 comments on Hacker News)",
+        "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
+        "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
+        "summary": "IN-PERSON INTERVIEW, Hansen: Who knew? Lussenhop: Until 2021. IN-PERSON INTERVIEW, Hansen: Yeah. (313 points, 99 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-04T17:18:08+00:00"
+        "date": "2026-09-05T14:40:52+00:00"
+      },
+      {
+        "title": "Content creators drop the ball",
+        "url": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
+        "summary": "﻿Recent US Open shenanigans and YouTubers’ disastrous golf ad show a risky relationship between brands and influencers. ﻿Recent US Open shenanigans and YouTubers’ disastrous golf ad show a risky relationship between brands and influencers. Last month, United States Tennis Association (USTA) media operations director Jeanmarie Daly said that the US Open was “almost doubling” the number of content creators it was…",
+        "source": "The Verge",
+        "date": "2026-09-05T14:00:16+00:00"
       }
     ]
   }
