@@ -1,93 +1,114 @@
 {
-  "generated_at": "2026-09-06T11:32:38.043368+00:00",
+  "generated_at": "2026-09-07T13:19:11.298503+00:00",
   "sections": {
     "research": [
       {
-        "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
-        "url": "https://arxiv.org/abs/2609.04199v1",
-        "summary": "Yuntian Deng, Pengyu Nie, Stuart Shieber — Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider.",
+        "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+        "url": "https://arxiv.org/abs/2609.05415v1",
+        "summary": "Linzhan Mou, Jiahui Lei, Zhiyang Dou et al. — Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on…",
         "source": "arXiv",
-        "date": "2026-09-03T17:59:49Z"
+        "date": "2026-09-04T17:59:00Z"
       },
       {
-        "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
-        "url": "https://arxiv.org/abs/2609.04198v1",
-        "summary": "Haoyaun Zhu, Jie Zhang — Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to the same model…",
+        "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+        "url": "https://arxiv.org/abs/2609.05405v1",
+        "summary": "Ji Soo Lee, Xilun Chen, Pierce Chuang et al. — Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longitudinal wearable…",
         "source": "arXiv",
-        "date": "2026-09-03T17:59:43Z"
+        "date": "2026-09-04T17:52:37Z"
       },
       {
-        "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
-        "url": "https://arxiv.org/abs/2609.04197v1",
-        "summary": "Lihao Liu, Peng Tang, Kunwar Yashraj Singh et al. — Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies -…",
+        "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
+        "url": "https://arxiv.org/abs/2609.05404v1",
+        "summary": "Sihwa Park — Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences control the clarity…",
         "source": "arXiv",
-        "date": "2026-09-03T17:59:37Z"
+        "date": "2026-09-04T17:51:48Z"
       },
       {
-        "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
-        "url": "https://arxiv.org/abs/2609.04194v1",
-        "summary": "Kevin Du, Alexander Hoyle, Laura Ruis et al. — Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, evaluate…",
+        "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
+        "url": "https://arxiv.org/abs/2609.05403v1",
+        "summary": "Quoc H. Nguyen, Ali Lafzi, Abhijeet Phatak et al. — Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preserving training and…",
         "source": "arXiv",
-        "date": "2026-09-03T17:59:08Z"
+        "date": "2026-09-04T17:50:10Z"
       },
       {
-        "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
-        "url": "https://arxiv.org/abs/2609.04190v1",
-        "summary": "Adheesh Sunil Juvekar, Onkar Kishor Susladkar, Kiet A. Nguyen et al. — Video editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a training-free…",
+        "title": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
+        "url": "https://arxiv.org/abs/2609.05401v1",
+        "summary": "Wonje Jeung, Sangyeon Yoon, Hyesoo Hong et al. — Vision-language models are increasingly used as reward functions for robotic learning, but this role requires paraphrase invariance: the same trajectory should receive the same reward under semantically equivalent goal…",
         "source": "arXiv",
-        "date": "2026-09-03T17:59:01Z"
+        "date": "2026-09-04T17:47:58Z"
       },
       {
-        "title": "Robust PAC Learning of Concurrent Stochastic Games",
-        "url": "https://arxiv.org/abs/2609.04189v1",
-        "summary": "Angel Y. He, David Parker — We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash equilibrium (NE)…",
+        "title": "A Deep Generative Model for Synthesizing Labeled Wireless Signals",
+        "url": "https://arxiv.org/abs/2609.05396v1",
+        "summary": "Yuxiao Li, Keke Hu, Santiago Mazuelas et al. — Wireless signals with position-related labels are pivotal for both performance evaluation and model training in the realm of wireless sensing. However, acquiring real-world datasets is often challenged by significant…",
         "source": "arXiv",
-        "date": "2026-09-03T17:58:57Z"
+        "date": "2026-09-04T17:44:54Z"
       },
       {
-        "title": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
-        "url": "https://arxiv.org/abs/2609.04183v1",
-        "summary": "Ye-Chan Kim, Seunghee Choi, SeungJu Cha et al. — Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxiliary transition…",
+        "title": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe",
+        "url": "https://arxiv.org/abs/2609.05395v1",
+        "summary": "Dain Kim, Eungi Cho, Kyumin Kim et al. — Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source models consistently…",
         "source": "arXiv",
-        "date": "2026-09-03T17:58:02Z"
+        "date": "2026-09-04T17:44:52Z"
       },
       {
-        "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
-        "url": "https://arxiv.org/abs/2609.04180v1",
-        "summary": "Joseph Lee, Yidi Huang, Dokyoon Kim et al. — Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learning.",
+        "title": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence",
+        "url": "https://arxiv.org/abs/2609.05385v1",
+        "summary": "Urja Pawar, Rajitha Ramanayake, Nabeel Kemal et al. — LLM decision components that can operate within agent workflows often produce action-relevant recommendations or judgements together with explanations. Operators may use the named factors to monitor a system, diagnose…",
         "source": "arXiv",
-        "date": "2026-09-03T17:57:02Z"
+        "date": "2026-09-04T17:37:17Z"
       },
       {
-        "title": "A Computationally Feasible Framework for Causal Probabilistic Explanation",
-        "url": "https://arxiv.org/abs/2609.04177v1",
-        "summary": "Rafal Urbaniak, Sam Witty, Daniel Waxman et al. — Explaining why a specific outcome occurred, and which inputs deserve the blame or credit, is central to philosophical, scientific, and policy analysis. Existing tools split into two camps.",
+        "title": "Reflection-aware Generative Novel View Synthesis",
+        "url": "https://arxiv.org/abs/2609.05382v1",
+        "summary": "GeonU Kim, Shin Dong-Yeon, Tae-Hyun Oh — We propose Ref-GeNVS, a training-free, reflection-aware method for generative novel view synthesis (NVS) in mirror scenes. Existing multi-view diffusion models often fail to recognize the mirror in the scene and cannot…",
         "source": "arXiv",
-        "date": "2026-09-03T17:55:43Z"
+        "date": "2026-09-04T17:33:45Z"
       },
       {
-        "title": "Last Translation Benchmark",
-        "url": "https://arxiv.org/abs/2609.04173v1",
-        "summary": "Vilém Zouhar, Niyati Bafna, Mukund Choudhary et al. — For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation…",
+        "title": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models",
+        "url": "https://arxiv.org/abs/2609.05381v1",
+        "summary": "Matthias Busch, Marius Tacke, Sviatlana V. Lamaka et al. — Large language models (LLMs) are increasingly evaluated on molecular property benchmarks, but accuracy cannot distinguish a model that predicts a property from one that retrieves a published number. We audit 22 frontier…",
         "source": "arXiv",
-        "date": "2026-09-03T17:54:45Z"
+        "date": "2026-09-04T17:32:48Z"
       },
       {
-        "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
-        "url": "https://arxiv.org/abs/2609.04172v1",
-        "summary": "Zixuan Fu, Bingxiang He, Yuxin Zuo et al. — On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear.…",
+        "title": "What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies",
+        "url": "https://arxiv.org/abs/2609.05376v1",
+        "summary": "Vivek Chavan, Pengtao Xie, Yahuan Shi et al. — Visuomotor imitation policies can achieve high performance under in-distribution visual conditions yet fail when visually similar objects or receptacles are introduced. We study this behavior as a problem of conditional…",
         "source": "arXiv",
-        "date": "2026-09-03T17:54:38Z"
+        "date": "2026-09-04T17:27:35Z"
       },
       {
-        "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
-        "url": "https://arxiv.org/abs/2609.04170v1",
-        "summary": "Davide Paglieri, Logan Cross, Tim Genewein et al. — Multi-agent AI science ecosystems rely on agents possessing tools that allow them to communicate, coordinate, and build on each other's work. Yet this shared infrastructure can also introduce vulnerabilities by creating…",
+        "title": "CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents",
+        "url": "https://arxiv.org/abs/2609.05374v1",
+        "summary": "Haoting Shi, Wenhao Wang, Weicheng Fang et al. — Computer-use agents have advanced on benchmarks like OSWorld and AndroidWorld, but still act mostly through the GUI, often producing inefficient trajectories. Real-world computer work is hybrid, combining visual-state…",
         "source": "arXiv",
-        "date": "2026-09-03T17:54:09Z"
+        "date": "2026-09-04T17:26:18Z"
       }
     ],
     "labs": [
+      {
+        "title": "Supporting independent journalism in Ukraine",
+        "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+        "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+        "source": "OpenAI",
+        "date": "2026-09-07T00:00:00+00:00"
+      },
+      {
+        "title": "An Alien Mind",
+        "url": "https://openai.com/index/an-alien-mind",
+        "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+        "source": "OpenAI",
+        "date": "2026-09-06T09:00:00+00:00"
+      },
+      {
+        "title": "Research acceleration: The view inside OpenAI",
+        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+        "source": "OpenAI",
+        "date": "2026-09-06T08:00:00+00:00"
+      },
       {
         "title": "Transfer learning for genomic prediction in underrepresented populations",
         "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
@@ -117,16 +138,16 @@
         "date": "2026-09-03T13:15:00+00:00"
       },
       {
-        "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-        "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-        "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+        "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
         "source": "OpenAI",
         "date": "2026-09-03T12:00:00+00:00"
       },
       {
-        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-        "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+        "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+        "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+        "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
         "source": "OpenAI",
         "date": "2026-09-03T12:00:00+00:00"
       },
@@ -150,30 +171,37 @@
         "summary": "Today, we’re launching our Fairwind Program, a limited access program for governments and trusted partners to use our most advanced cyber defense capabilities. Today, we’re launching our Fairwind Program to bring the best of Google’s AI and cyber defense capabilities to a trusted group of Google Cloud customers, government agencies, and cybersecurity partners, to help them proactively solve cyber risks at scale. The…",
         "source": "Google DeepMind",
         "date": "2026-09-02T16:24:24+00:00"
-      },
-      {
-        "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-        "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-        "summary": "Gemini 3.8 Flash delivers substantial gains from 3.7 Flash, often approaching the performance of higher-cost frontier models. It surpasses both 3.5 Flash Cyber as well as significantly larger frontier models. We’re already using Gemini 3.8 Flash Cyber to secure code across Google.",
-        "source": "Google DeepMind",
-        "date": "2026-09-02T16:18:31+00:00"
-      },
-      {
-        "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-        "url": "https://openai.com/index/atv-big-air-tour",
-        "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-        "source": "OpenAI",
-        "date": "2026-09-02T12:00:00+00:00"
-      },
-      {
-        "title": "Mapping global methane emissions from space with deep learning",
-        "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
-        "summary": "A global view of methane detections from space. We created 3.6 million synthetic methane plumes and injected them directly into real EMIT scenes. Deployed on real-world satellite data, MAPL-EMIT demonstrates strong potential for scalable emissions mapping.",
-        "source": "Google Research",
-        "date": "2026-09-01T18:40:00+00:00"
       }
     ],
     "startups": [
+      {
+        "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+        "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Why is longtime Apple executive Phil Schiller stepping down from his role as the head of the App Store ? But apparently there was another factor in Schiller’s thinking: New CEO John Ternus and services chief Eddy Cue seek to improve App Store margins and bring in more…",
+        "source": "TechCrunch",
+        "date": "2026-09-06T21:41:06+00:00"
+      },
+      {
+        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+        "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Some authors hoping to receive their share of Anthropic’s $1.5 billion copyright settlement said they received surprising emails this week — emails informing them that someone else was making a claim on their payments. And publishers aren’t the only ones seeking a cut…",
+        "source": "TechCrunch",
+        "date": "2026-09-06T20:47:37+00:00"
+      },
+      {
+        "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+        "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Earlier this summer, Travis Kalanick’s Atoms announced a $1.7 billion funding round led by Andreessen Horowitz . In fact, the FT said Atoms has talked to Uber about how the ride-hailing company could use the startup’s robotaxi technology. (Uber has already partnered…",
+        "source": "TechCrunch",
+        "date": "2026-09-06T16:45:00+00:00"
+      },
+      {
+        "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+        "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+        "summary": "The real test is whether Tesla can launch a robotaxi service safely and at scale. Curious about the Cybercab? Here is a complete roundup of the Tesla Cybercab, as well as the company’s interest in selling the autonomous vehicles to fleet operators.",
+        "source": "TechCrunch",
+        "date": "2026-09-06T16:08:00+00:00"
+      },
       {
         "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
         "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -198,7 +226,7 @@
       {
         "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
         "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
-        "summary": "The culprit was a newly launched iPhone app I downloaded. These private alarm groups let people wake up at the same time and keep each other accountable. The app is currently available to download on the App Store .",
+        "summary": "Clucky joins a growing category of alarm apps, including Alarmy and Awake , that use challenges to keep people from simply turning off their alarms and going back to sleep. These private alarm groups let people wake up at the same time and keep each other accountable. The app is currently available to download on the App Store .",
         "source": "TechCrunch",
         "date": "2026-09-05T17:00:00+00:00"
       },
@@ -229,120 +257,92 @@
         "summary": "Ahead of that expected IPO, the company is reportedly in talks to raise an additional $3.5 billion. Nscale hailed its round as “the largest Series B in European history.” The company’s Series A round, in December of 2024, raised $155 million . Nscale recently signed a large deal with Anthropic worth approximately $45 billion.",
         "source": "TechCrunch",
         "date": "2026-09-04T21:12:11+00:00"
-      },
-      {
-        "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
-        "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
-        "summary": "The startup, Operation Bluebird, originally launched under the name Twitter.now , but the court barred it from using that name, siding with X on the core “Twitter” trademark. Operation Bluebird has since rebranded its website as Tweet.app, using the freed-up “tweet” name, and launched to the public. District Court Judge Colm F.",
-        "source": "TechCrunch",
-        "date": "2026-09-04T17:52:05+00:00"
-      },
-      {
-        "title": "What will Apple’s John Ternus era look like?",
-        "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-        "summary": "You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com .",
-        "source": "TechCrunch",
-        "date": "2026-09-04T17:18:00+00:00"
-      },
-      {
-        "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
-        "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
-        "summary": "But Tesla scattered a lot of the details. But something is making Tesla hesitate on allowing young children in the Cybercab for now. Tesla is using a brake-by-wire system in the Cybercab, again largely (it seems) for the purposes of cutting costs.",
-        "source": "TechCrunch",
-        "date": "2026-09-04T16:51:23+00:00"
-      },
-      {
-        "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-        "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Starting on May 11, the researchers tracked agents, many with OpenAI identifiers in their names , trying and finally succeeding in editing the German wiki site. Astra, released yesterday by OpenAI, appears to be its most capable model yet.",
-        "source": "TechCrunch",
-        "date": "2026-09-04T16:21:11+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-        "url": "https://cloudinabottle.org/blog/launch-post",
-        "summary": "TLDR: Cloud in a Bottle is your open-source personal cloud: containerized apps, unified auth, good UX. Nowadays, cloud software is centralized, with one instance of the software serving the world, and the costs borne by the creator. That said, there's a chicken and egg problem - without a broadly accessible way to self-host open source web software, the audience for such software is small, and the available software… (441 points, 214 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-06T00:03:29+00:00"
-      },
-      {
-        "title": "Chrome again exempts Google from user site data settings",
-        "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-        "summary": "The blog post was about a Google Chrome bug that mysteriously exempted Google-owned sites from the setting to automatically delete all site data. You can see on chrome://settings/content/all that no site data is saved. Returning to chrome://settings/content/all , I find some google.com site data! (434 points, 65 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-05T23:39:47+00:00"
-      },
-      {
-        "title": "The revolt of the reader",
-        "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-        "summary": "We readers are left with pointed questions for those promoting LLM-authored pieces: do you think readers can’t tell? The war on spam started to turn when we could identify it at scale; could something similar happen to LLM-authored writing? Late last year, Pangram Labs launched their Pangram 3 model . (391 points, 160 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-05T21:37:49+00:00"
-      },
-      {
-        "title": "Explore the globe in field recordings",
-        "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-        "summary": "Earth Garden takes you around the world using environmental audio from Freesound. Earth Garden takes you around the world using environmental audio from Freesound. I love field recordings.",
+        "title": "Why the iPhone is about to get more expensive",
+        "url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+        "summary": "The terms “memory prices” and “memory shortage” appeared in 473 company transcripts last quarter, according to data provided by AlphaSense . Then the memory business collapsed. The memory business is also extraordinarily concentrated.",
         "source": "The Verge",
-        "date": "2026-09-05T21:31:34+00:00"
+        "date": "2026-09-07T12:00:00+00:00"
       },
       {
-        "title": "iPhone Handoff will seamlessly share one number between two phones",
-        "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
-        "summary": "The feature is expected to launch as part of iOS 27 later this month. The feature is expected to launch as part of iOS 27 later this month. The feature will require carrier support, however.",
+        "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
+        "url": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
+        "summary": "The British automaker is on the hunt for a new demographic with its first electric vehicle. Whether up front or in back, the Torcal is amply spacious, even though it’s noticeably smaller in size and shape than Bentley’s current Bentayga. Page explained the great lengths that engineers reached to ensure it had an isolating and tremendously smooth ride.",
         "source": "The Verge",
-        "date": "2026-09-05T20:53:58+00:00"
+        "date": "2026-09-07T11:00:00+00:00"
       },
       {
-        "title": "Private German rocket makes history, reaches orbit from European soil",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-        "summary": "The German company Isar Aerospace launched its Spectrum rocket from Andøya Space Center in northern Norway today (Sept. \"This is right now making history — making history for Spectrum, making history for Isar, making history for Europe,” Nikolaos Perakis, Spectrum chief engineer at Isar, said during today's launch webcast, which the company produced in collaboration with NASASpaceflight . So today was a very big day… (635 points, 342 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-05T20:31:38+00:00"
-      },
-      {
-        "title": "The Real Luxuries In Life",
-        "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
-        "summary": "It’s the “back to school” moment of the year for me. When I was a kid growing up in Dallas, we didn’t go back to school until after Labor Day, so that was the weekend that summer ended and fall began. I wrote ten years ago that Memorial Day and Labor Day are the bookends of summer. (484 points, 227 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-05T17:46:16+00:00"
-      },
-      {
-        "title": "CD sales are booming as physical media continues its resurgence",
-        "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
-        "summary": "But don’t think that means people are abandoning streaming. But don’t think that means people are abandoning streaming. Streaming revenue grew by 4.7 percent to $4.9 billion — dwarfing all physical media combined.",
+        "title": "Huawei copies Samsung’s privacy display in its latest trifold",
+        "url": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+        "summary": "﻿The Mate XT 2 also borrows Samsung’s inward-folding design. ﻿The Mate XT 2 also borrows Samsung’s inward-folding design. Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Samsung’s own Galaxy Z TriFold was discontinued shortly after its release last year, though leaks suggest that Samsung is still working on a follow-up.",
         "source": "The Verge",
-        "date": "2026-09-05T16:49:33+00:00"
+        "date": "2026-09-07T10:09:42+00:00"
       },
       {
-        "title": "Flock used >100 times to track veteran who recorded traffic stop",
-        "url": "https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/",
-        "summary": "\"It just didn't sit right with me,\" Jones told TMJ4 News, a local NBC News affiliate. After Shayhorn completed the traffic stop, Jones returned to his vehicle. Provided in the sheriff's office's response to Jones' complaint \"was a single photograph of [Jones'] white vehicle, a white BMW,\" Cade told TMJ4 News. (361 points, 189 comments on Hacker News)",
+        "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+        "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+        "summary": "LG smart TVs continuously sweep home networks, map secondary devices, and log microphone audio while appearing to be turned off, according to a new 135-minute-long video published by Gamers Nexus (see below). Network packet captures taken through Wireshark showed the TVs actively scanning the local area network for unrelated hardware, including phones and smartwatches. The sets also run Automated Content Recognition… (449 points, 251 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-05T16:48:13+00:00"
+        "date": "2026-09-07T07:03:20+00:00"
       },
       {
-        "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
-        "url": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
-        "summary": "If you haven’t had your fantasy football draft yet, better get on it. Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. Certainly, building The Fantasy Footballers .",
-        "source": "The Verge",
-        "date": "2026-09-05T15:00:00+00:00"
-      },
-      {
-        "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
-        "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
-        "summary": "IN-PERSON INTERVIEW, Hansen: Who knew? Lussenhop: Until 2021. IN-PERSON INTERVIEW, Hansen: Yeah. (313 points, 99 comments on Hacker News)",
+        "title": "Keep Our Servers Running",
+        "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+        "summary": "“Universal access to all human knowledge is within our grasp. A $50 monthly gift becomes $150. A $100 monthly gift becomes $300. (652 points, 160 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-05T14:40:52+00:00"
+        "date": "2026-09-07T03:29:51+00:00"
       },
       {
-        "title": "Content creators drop the ball",
-        "url": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
-        "summary": "﻿Recent US Open shenanigans and YouTubers’ disastrous golf ad show a risky relationship between brands and influencers. ﻿Recent US Open shenanigans and YouTubers’ disastrous golf ad show a risky relationship between brands and influencers. Last month, United States Tennis Association (USTA) media operations director Jeanmarie Daly said that the US Open was “almost doubling” the number of content creators it was…",
+        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+        "summary": "They want the AI models built on their works destroyed. They want the AI models built on their works destroyed. The Seattle Times and Newsday also named Microsoft as a defendant in the suit, since Copilot is built on OpenAI’s technology.",
         "source": "The Verge",
-        "date": "2026-09-05T14:00:16+00:00"
+        "date": "2026-09-06T23:36:04+00:00"
+      },
+      {
+        "title": "An Amazon cargo plane crashed at Miami International Airport",
+        "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+        "summary": "The Boeing 767-300 overran the runway during landing. The Boeing 767-300 overran the runway during landing. A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries.",
+        "source": "The Verge",
+        "date": "2026-09-06T20:56:38+00:00"
+      },
+      {
+        "title": "It took a year to ship WebAssembly in Anubis",
+        "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+        "summary": "Anubis could not load its JavaScript. Anubis is a compromise. Anubis uses a Proof-of-Work scheme in the vein of Hashcash, a proposed proof-of-work scheme for reducing email spam. (303 points, 145 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-06T20:32:38+00:00"
+      },
+      {
+        "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+        "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+        "summary": "333 points, 220 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-09-06T20:24:00+00:00"
+      },
+      {
+        "title": "Europe has its first commercial orbital rocket",
+        "url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
+        "summary": "Isar Aerospace gives the continent more options to “buy European” for space launches. Isar Aerospace gives the continent more options to “buy European” for space launches. The European Space Agency has also made “ buy European ” a cornerstone of its policies.",
+        "source": "The Verge",
+        "date": "2026-09-06T19:04:22+00:00"
+      },
+      {
+        "title": "Nitter and XCancel resume service after legal advice",
+        "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+        "summary": "809 points, 347 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-09-06T17:49:47+00:00"
+      },
+      {
+        "title": "Boox’s tiny Picco e-reader should land in November",
+        "url": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
+        "summary": "There won’t be magnets and there’s still no word on price, though. There won’t be magnets and there’s still no word on price, though. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to a phone.",
+        "source": "The Verge",
+        "date": "2026-09-06T16:28:58+00:00"
       }
     ]
   }
