@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T13:19:11.298503+00:00",
+  "generated_at": "2026-09-08T12:00:00.925661+00:00",
   "sections": {
     "research": [
       {
@@ -175,6 +175,41 @@
     ],
     "startups": [
       {
+        "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
+        "url": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
+        "summary": "Stoke is one of a handful of startups attempting to compete with Elon Musk’s SpaceX in the low-cost rocket launch space. SpaceX was built around the Falcon 9, which has a reusable booster stage, and now Musk and company are trying to field a huge, fully-reusable rocket, Starship. Lapsa said that he expects Stoke’s first vehicle, the Nova Pathfinder, to take flight in early 2027.",
+        "source": "TechCrunch",
+        "date": "2026-09-08T09:00:00+00:00"
+      },
+      {
+        "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+        "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+        "summary": "The construction industry is short workers by a wide margin. Meta’s Hyperion campus in Richland Parish, Louisiana, for example, will reportedly require roughly 5,000 construction workers , and OpenAI’s Stargate site in Abilene, Texas has reported involved 6,400 workers . Wu says that NavigateAI can pull up building specs, manufacturer manuals, and company policy in real time.",
+        "source": "TechCrunch",
+        "date": "2026-09-08T02:16:39+00:00"
+      },
+      {
+        "title": "Opaque recurrence, and other AI terms that you should probably know",
+        "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "summary": "Reasoning models are developed from traditional large language models and optimized for chain-of-thought thinking thanks to reinforcement learning. Inference is the process of running an AI model. Transfer learning can drive efficiency savings by shortcutting model development.",
+        "source": "TechCrunch",
+        "date": "2026-09-07T19:24:00+00:00"
+      },
+      {
+        "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+        "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Her appeals to overturn the conviction and shorten her sentence were rejected in February of last year. She then went a different route last year, asking President Trump to commute her sentence.",
+        "source": "TechCrunch",
+        "date": "2026-09-07T18:02:29+00:00"
+      },
+      {
+        "title": "What we expect from the upcoming Apple launch",
+        "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt It’s finally happening — this week, we are (probably) about to see Apple’s first foldable iPhone, more than five years after Samsung launched its first foldable phone. While the foldable iPhone is most exciting, we’re also anticipating news about AirPods, HomePods, and the non-foldable iPhone 18 line. Apple is also expected to release some new…",
+        "source": "TechCrunch",
+        "date": "2026-09-07T15:58:00+00:00"
+      },
+      {
         "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
         "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
         "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Why is longtime Apple executive Phil Schiller stepping down from his role as the head of the App Store ? But apparently there was another factor in Schiller’s thinking: New CEO John Ternus and services chief Eddy Cue seek to improve App Store margins and bring in more…",
@@ -205,7 +240,7 @@
       {
         "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
         "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI. The Seattle Times’ lawsuit is particularly notable because Microsoft and OpenAI have funded some of the organization’s journalism projects and fellowships.",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Back in 2023, The New York Times sued OpenAI and its partner/investor Microsoft over alleged copyright infringement. The Seattle Times’ lawsuit is particularly notable because Microsoft and OpenAI have funded some of the organization’s journalism projects and fellowships.",
         "source": "TechCrunch",
         "date": "2026-09-05T22:49:55+00:00"
       },
@@ -222,127 +257,92 @@
         "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt OpenAI has acknowledged its role in a recently reported incident where AI agents took over a German wiki forum . It also reported that OpenAI leadership became aware of the incident weeks ago but kept it hidden as the company dealt with the fallout from a separate…",
         "source": "TechCrunch",
         "date": "2026-09-05T18:05:27+00:00"
-      },
-      {
-        "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
-        "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
-        "summary": "Clucky joins a growing category of alarm apps, including Alarmy and Awake , that use challenges to keep people from simply turning off their alarms and going back to sleep. These private alarm groups let people wake up at the same time and keep each other accountable. The app is currently available to download on the App Store .",
-        "source": "TechCrunch",
-        "date": "2026-09-05T17:00:00+00:00"
-      },
-      {
-        "title": "Oura is going public, but these smart ring companies are coming for its crown",
-        "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
-        "summary": "The company’s move to go public follows the recent launch of the Oura Ring 5 , its slimmest and lightest ring yet. Samsung became the first major tech giant to launch a smart ring in 2024. Compared with other smart rings on the market, the Galaxy Ring is relatively basic when it comes to advanced health and sleep tracking.",
-        "source": "TechCrunch",
-        "date": "2026-09-05T15:00:00+00:00"
-      },
-      {
-        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-        "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-        "summary": "The startup plans to hire and train teams of data collectors worldwide, including teleoperators who steer robots remotely and egocentric operators who wear body sensors to capture movement data. Other startups attempting to collect real-world data for robot training include Mecka AI, as well as human-data platforms expanding beyond LLMs, such as Scale AI and Micro1 . Marina Temkin is a venture capital and startups…",
-        "source": "TechCrunch",
-        "date": "2026-09-04T23:36:14+00:00"
-      },
-      {
-        "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-        "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. OpenAI brought in METR and Redwood to investigate the Hugging Face portion of the incident, but the scope of their investigation stopped short of the compromise of OpenAI’s own infrastructure. Crucially, OpenAI’s infrastructure compromise continued beyond July 13 and was not examined.",
-        "source": "TechCrunch",
-        "date": "2026-09-04T23:15:11+00:00"
-      },
-      {
-        "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-        "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-        "summary": "Ahead of that expected IPO, the company is reportedly in talks to raise an additional $3.5 billion. Nscale hailed its round as “the largest Series B in European history.” The company’s Series A round, in December of 2024, raised $155 million . Nscale recently signed a large deal with Anthropic worth approximately $45 billion.",
-        "source": "TechCrunch",
-        "date": "2026-09-04T21:12:11+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Why the iPhone is about to get more expensive",
-        "url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
-        "summary": "The terms “memory prices” and “memory shortage” appeared in 473 company transcripts last quarter, according to data provided by AlphaSense . Then the memory business collapsed. The memory business is also extraordinarily concentrated.",
+        "title": "LG TVs caught spying even when offline or on standby",
+        "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+        "summary": "Gamers Nexus gives you another reason to never connect your smart TV to the internet. Gamers Nexus gives you another reason to never connect your smart TV to the internet. This isn’t LG’s first brush with Gamers Nexus.",
         "source": "The Verge",
-        "date": "2026-09-07T12:00:00+00:00"
+        "date": "2026-09-08T11:30:05+00:00"
       },
       {
-        "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
-        "url": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
-        "summary": "The British automaker is on the hunt for a new demographic with its first electric vehicle. Whether up front or in back, the Torcal is amply spacious, even though it’s noticeably smaller in size and shape than Bentley’s current Bentayga. Page explained the great lengths that engineers reached to ensure it had an isolating and tremendously smooth ride.",
+        "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
+        "url": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+        "summary": "﻿A triple camera, big battery, and new Arm GPU make the 18 Fold a phone to be reckoned with. ﻿A triple camera, big battery, and new Arm GPU make the 18 Fold a phone to be reckoned with. The 18 Fold is Xiaomi’s first book-style foldable since 2024’s Mix Fold 4 , but the company has followed Huawei and Samsung in moving to a short, squat design. In practice, this still feels similar to the Z Fold 8 though.",
         "source": "The Verge",
-        "date": "2026-09-07T11:00:00+00:00"
+        "date": "2026-09-08T07:00:00+00:00"
       },
       {
-        "title": "Huawei copies Samsung’s privacy display in its latest trifold",
-        "url": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
-        "summary": "﻿The Mate XT 2 also borrows Samsung’s inward-folding design. ﻿The Mate XT 2 also borrows Samsung’s inward-folding design. Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Samsung’s own Galaxy Z TriFold was discontinued shortly after its release last year, though leaks suggest that Samsung is still working on a follow-up.",
-        "source": "The Verge",
-        "date": "2026-09-07T10:09:42+00:00"
-      },
-      {
-        "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
-        "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
-        "summary": "LG smart TVs continuously sweep home networks, map secondary devices, and log microphone audio while appearing to be turned off, according to a new 135-minute-long video published by Gamers Nexus (see below). Network packet captures taken through Wireshark showed the TVs actively scanning the local area network for unrelated hardware, including phones and smartwatches. The sets also run Automated Content Recognition… (449 points, 251 comments on Hacker News)",
+        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+        "summary": "315 points, 175 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-07T07:03:20+00:00"
+        "date": "2026-09-08T05:42:28+00:00"
       },
       {
-        "title": "Keep Our Servers Running",
-        "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-        "summary": "“Universal access to all human knowledge is within our grasp. A $50 monthly gift becomes $150. A $100 monthly gift becomes $300. (652 points, 160 comments on Hacker News)",
+        "title": "Mistral raises €3B",
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "summary": "Samsung Electronics led the round, joined by co-leads Scaleup Europe Fund, managed by EQT, and existing investor PSG Equity. While allowing Mistral to scale its compute capacity for training powerful models, it will help Mistral expand infrastructure and accelerate its commercial growth and international footprint. The round reflects a strategic endorsement from investors across Europe, Asia and North America. (552 points, 388 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-07T03:29:51+00:00"
+        "date": "2026-09-08T05:06:23+00:00"
       },
       {
-        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-        "summary": "They want the AI models built on their works destroyed. They want the AI models built on their works destroyed. The Seattle Times and Newsday also named Microsoft as a defendant in the suit, since Copilot is built on OpenAI’s technology.",
-        "source": "The Verge",
-        "date": "2026-09-06T23:36:04+00:00"
-      },
-      {
-        "title": "An Amazon cargo plane crashed at Miami International Airport",
-        "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
-        "summary": "The Boeing 767-300 overran the runway during landing. The Boeing 767-300 overran the runway during landing. A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries.",
-        "source": "The Verge",
-        "date": "2026-09-06T20:56:38+00:00"
-      },
-      {
-        "title": "It took a year to ship WebAssembly in Anubis",
-        "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-        "summary": "Anubis could not load its JavaScript. Anubis is a compromise. Anubis uses a Proof-of-Work scheme in the vein of Hashcash, a proposed proof-of-work scheme for reducing email spam. (303 points, 145 comments on Hacker News)",
+        "title": "We have a year to fix security everywhere",
+        "url": "https://jyn.dev/a-year-to-fix-security/",
+        "summary": "GLM 5.3-flash is possible to run locally on stock consumer hardware. Various people online have run benchmarks of GLM 5.3-flash locally. Invest in supply-chain security. (260 points, 249 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-06T20:32:38+00:00"
+        "date": "2026-09-08T04:48:10+00:00"
       },
       {
-        "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-        "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-        "summary": "333 points, 220 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-09-06T20:24:00+00:00"
-      },
-      {
-        "title": "Europe has its first commercial orbital rocket",
-        "url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
-        "summary": "Isar Aerospace gives the continent more options to “buy European” for space launches. Isar Aerospace gives the continent more options to “buy European” for space launches. The European Space Agency has also made “ buy European ” a cornerstone of its policies.",
+        "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+        "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+        "summary": "After five years of development, Arm now has an AI gaming graphics accelerator inside its GPU. There are two ways to look at Arm’s new Arm Mali G2-Ultra NX. The Switch 2 has an Arm-based mobile chip too, though it contains a custom Nvidia GPU.",
         "source": "The Verge",
-        "date": "2026-09-06T19:04:22+00:00"
+        "date": "2026-09-08T02:00:00+00:00"
       },
       {
-        "title": "Nitter and XCancel resume service after legal advice",
-        "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-        "summary": "809 points, 347 comments on Hacker News",
+        "title": "Jellyfin 12.0",
+        "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+        "summary": "We are pleased to bring you Jellyfin 12.0, our new stable release. You must be running Jellyfin 10.10.7 or any 10.11.x release before upgrading to 12.0. As usual, a new release of Jellyfin comes with multiple database migrations. (422 points, 180 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-06T17:49:47+00:00"
+        "date": "2026-09-08T01:56:35+00:00"
       },
       {
-        "title": "Boox’s tiny Picco e-reader should land in November",
-        "url": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
-        "summary": "There won’t be magnets and there’s still no word on price, though. There won’t be magnets and there’s still no word on price, though. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to a phone.",
+        "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+        "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+        "summary": "Just a few days ago, someone factored the 862-bit RSA-260 key from the RSA factoring challenge. Back in March 1999, Netscape 4.51 shipped a 512-bit RSA certificate authority trusted for SSL, and another for S/MIME. The E-Certify 512-bit roots were removed by Netscape in 2002. (367 points, 60 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-08T01:16:59+00:00"
+      },
+      {
+        "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+        "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+        "summary": "Unfortunately, it won’t be making it’s way to North America any time soon. Unfortunately, it won’t be making it’s way to North America any time soon. Want something affordable?",
         "source": "The Verge",
-        "date": "2026-09-06T16:28:58+00:00"
+        "date": "2026-09-07T20:03:41+00:00"
+      },
+      {
+        "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+        "url": "https://lax-skyline.parcelscope.net/",
+        "summary": "303 points, 151 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-09-07T18:52:06+00:00"
+      },
+      {
+        "title": "Six years later, Sony revisits its legendary XM4 headphones",
+        "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+        "summary": "In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. Both headphones are available now. Sony is also doing a partnership with Hello Kitty.",
+        "source": "The Verge",
+        "date": "2026-09-07T16:00:00+00:00"
+      },
+      {
+        "title": "Bill Gates tries to install MovieMaker (2003)",
+        "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+        "summary": "So I went to Windows update. Doesn't Windows update know some key to talk to Windows? Windows Update knows I am on Windows XP. (398 points, 273 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-07T15:27:03+00:00"
       }
     ]
   }
