@@ -1,93 +1,149 @@
 {
-  "generated_at": "2026-09-08T12:00:00.925661+00:00",
+  "generated_at": "2026-09-09T12:10:57.597339+00:00",
   "sections": {
     "research": [
       {
-        "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
-        "url": "https://arxiv.org/abs/2609.05415v1",
-        "summary": "Linzhan Mou, Jiahui Lei, Zhiyang Dou et al. — Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on…",
+        "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
+        "url": "https://arxiv.org/abs/2609.09158v1",
+        "summary": "Anqi Li, Yuxin Chen, Zhaobo Li et al. — We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments…",
         "source": "arXiv",
-        "date": "2026-09-04T17:59:00Z"
+        "date": "2026-09-08T17:59:55Z"
       },
       {
-        "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
-        "url": "https://arxiv.org/abs/2609.05405v1",
-        "summary": "Ji Soo Lee, Xilun Chen, Pierce Chuang et al. — Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longitudinal wearable…",
+        "title": "Learning Length-Extrapolatable Recurrent Models",
+        "url": "https://arxiv.org/abs/2609.09157v1",
+        "summary": "Hanwen Jiang — Recurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gradients that vanish…",
         "source": "arXiv",
-        "date": "2026-09-04T17:52:37Z"
+        "date": "2026-09-08T17:59:53Z"
       },
       {
-        "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
-        "url": "https://arxiv.org/abs/2609.05404v1",
-        "summary": "Sihwa Park — Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences control the clarity…",
+        "title": "ReCite: Agentic Reasoning for Faithful Citation",
+        "url": "https://arxiv.org/abs/2609.09156v1",
+        "summary": "Yuyang Huang, Bobo Li, Jiajia Song et al. — Accurate citations are the foundation of academic writing, tracing intellectual origins and substantiating core claims. However, manually navigating the growing volume of scientific literature is increasingly difficult,…",
         "source": "arXiv",
-        "date": "2026-09-04T17:51:48Z"
+        "date": "2026-09-08T17:59:50Z"
       },
       {
-        "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
-        "url": "https://arxiv.org/abs/2609.05403v1",
-        "summary": "Quoc H. Nguyen, Ali Lafzi, Abhijeet Phatak et al. — Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preserving training and…",
+        "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+        "url": "https://arxiv.org/abs/2609.09153v1",
+        "summary": "Yuxing Lu, Yicheng Chen, Shanchan Wu et al. — Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating history, leaving…",
         "source": "arXiv",
-        "date": "2026-09-04T17:50:10Z"
+        "date": "2026-09-08T17:59:41Z"
       },
       {
-        "title": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
-        "url": "https://arxiv.org/abs/2609.05401v1",
-        "summary": "Wonje Jeung, Sangyeon Yoon, Hyesoo Hong et al. — Vision-language models are increasingly used as reward functions for robotic learning, but this role requires paraphrase invariance: the same trajectory should receive the same reward under semantically equivalent goal…",
+        "title": "Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration",
+        "url": "https://arxiv.org/abs/2609.09152v1",
+        "summary": "Yuhan Ye, Kaizhao Liu — We study how far gradient descent (GD) can be accelerated by predetermined nonnegative stepsizes in smooth convex optimization. Writing $p_{\\mathrm{sil}}=\\log_2(1+\\sqrt{2})$, we prove an…",
         "source": "arXiv",
-        "date": "2026-09-04T17:47:58Z"
+        "date": "2026-09-08T17:59:38Z"
       },
       {
-        "title": "A Deep Generative Model for Synthesizing Labeled Wireless Signals",
-        "url": "https://arxiv.org/abs/2609.05396v1",
-        "summary": "Yuxiao Li, Keke Hu, Santiago Mazuelas et al. — Wireless signals with position-related labels are pivotal for both performance evaluation and model training in the realm of wireless sensing. However, acquiring real-world datasets is often challenged by significant…",
+        "title": "Copying explains the collective behavior of AI agents in the wild",
+        "url": "https://arxiv.org/abs/2609.09150v1",
+        "summary": "Giordano De Marzo, Nicola Albore, David Garcia — In June 2026, thousands of AI agents found that a small public wiki would accept edits from inside their sandboxes, and started using it to help one another pass a timed test. Each agent lived for about an hour and…",
         "source": "arXiv",
-        "date": "2026-09-04T17:44:54Z"
+        "date": "2026-09-08T17:59:20Z"
       },
       {
-        "title": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe",
-        "url": "https://arxiv.org/abs/2609.05395v1",
-        "summary": "Dain Kim, Eungi Cho, Kyumin Kim et al. — Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source models consistently…",
+        "title": "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models",
+        "url": "https://arxiv.org/abs/2609.09143v1",
+        "summary": "Siting Li, Zhengyang Wang, Simon Shaolei Du et al. — Image tokenizers define the ``visual language'' of unified multimodal models, yet are commonly studied through isolated metrics or generation-/understanding-only evaluations. These evaluations do not fully capture how…",
         "source": "arXiv",
-        "date": "2026-09-04T17:44:52Z"
+        "date": "2026-09-08T17:57:53Z"
       },
       {
-        "title": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence",
-        "url": "https://arxiv.org/abs/2609.05385v1",
-        "summary": "Urja Pawar, Rajitha Ramanayake, Nabeel Kemal et al. — LLM decision components that can operate within agent workflows often produce action-relevant recommendations or judgements together with explanations. Operators may use the named factors to monitor a system, diagnose…",
+        "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
+        "url": "https://arxiv.org/abs/2609.09140v1",
+        "summary": "Tobias Susetzky, Raphael Rehms, Dmitrii Seletkov et al. — The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories remains a critical…",
         "source": "arXiv",
-        "date": "2026-09-04T17:37:17Z"
+        "date": "2026-09-08T17:56:13Z"
       },
       {
-        "title": "Reflection-aware Generative Novel View Synthesis",
-        "url": "https://arxiv.org/abs/2609.05382v1",
-        "summary": "GeonU Kim, Shin Dong-Yeon, Tae-Hyun Oh — We propose Ref-GeNVS, a training-free, reflection-aware method for generative novel view synthesis (NVS) in mirror scenes. Existing multi-view diffusion models often fail to recognize the mirror in the scene and cannot…",
+        "title": "A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes",
+        "url": "https://arxiv.org/abs/2609.09137v1",
+        "summary": "Maria Alejandra Gomez, Juan Manuel Castillo — Robotic Process Automation (RPA) is widely used to reduce administrative burden in United States hospitals, yet an estimated 30-50% of RPA initiatives underperform because processes are selected informally, without a…",
         "source": "arXiv",
-        "date": "2026-09-04T17:33:45Z"
+        "date": "2026-09-08T17:55:28Z"
       },
       {
-        "title": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models",
-        "url": "https://arxiv.org/abs/2609.05381v1",
-        "summary": "Matthias Busch, Marius Tacke, Sviatlana V. Lamaka et al. — Large language models (LLMs) are increasingly evaluated on molecular property benchmarks, but accuracy cannot distinguish a model that predicts a property from one that retrieves a published number. We audit 22 frontier…",
+        "title": "Entropy-Regularized Rank-Masked Policy Optimization for Test-Time Reinforcement Learning in Code Generation",
+        "url": "https://arxiv.org/abs/2609.09135v1",
+        "summary": "Jiacheng Xu, Feng Chen, Xiuneng Xu et al. — Existing methods for test-time reinforcement learning (TTRL) derive rewards from answer-level self-voting on unlabeled test-time tasks with canonical answers, but this breaks down for code generation because programs…",
         "source": "arXiv",
-        "date": "2026-09-04T17:32:48Z"
+        "date": "2026-09-08T17:54:13Z"
       },
       {
-        "title": "What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies",
-        "url": "https://arxiv.org/abs/2609.05376v1",
-        "summary": "Vivek Chavan, Pengtao Xie, Yahuan Shi et al. — Visuomotor imitation policies can achieve high performance under in-distribution visual conditions yet fail when visually similar objects or receptacles are introduced. We study this behavior as a problem of conditional…",
+        "title": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
+        "url": "https://arxiv.org/abs/2609.09134v1",
+        "summary": "Zhou Yu, Bin Bi, Shiva Kumar Pentyala et al. — Agent harnesses (the system prompt, tool set, execution hooks, and context-management scaffolding around a model) are a critical determinant of agentic task success. Automated harness evolution can enable smaller models…",
         "source": "arXiv",
-        "date": "2026-09-04T17:27:35Z"
+        "date": "2026-09-08T17:53:49Z"
       },
       {
-        "title": "CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents",
-        "url": "https://arxiv.org/abs/2609.05374v1",
-        "summary": "Haoting Shi, Wenhao Wang, Weicheng Fang et al. — Computer-use agents have advanced on benchmarks like OSWorld and AndroidWorld, but still act mostly through the GUI, often producing inefficient trajectories. Real-world computer work is hybrid, combining visual-state…",
+        "title": "ExecCritic: Learn to Test, Test to Improve for Coding Agents",
+        "url": "https://arxiv.org/abs/2609.09133v1",
+        "summary": "Leitian Tao, Baolin Peng, Haorui Wang et al. — Execution feedback can guide coding agents toward correct repository repairs, but only when the tests capture the behavior requested by the issue. Agent-generated tests can encode incomplete or incorrect behavioral…",
         "source": "arXiv",
-        "date": "2026-09-04T17:26:18Z"
+        "date": "2026-09-08T17:53:37Z"
       }
     ],
     "labs": [
+      {
+        "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+        "url": "https://openai.com/index/codex-quantum-computing-experiments",
+        "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+        "source": "OpenAI",
+        "date": "2026-09-08T17:00:00+00:00"
+      },
+      {
+        "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+        "summary": "Extensive community collaboration guided the design of AlphaGenome Atlas. Overview of the AlphaGenome Atlas. (1) Precomputed effects are generated genome-wide for over 9 billion single-nucleotide variants. (2) From this, an allelic-resolution AlphaGenome Variant Impact (AVI) score is derived for each variant. AlphaGenome Atlas provides a high-resolution, global view of the genome.",
+        "source": "Google DeepMind",
+        "date": "2026-09-08T14:00:15+00:00"
+      },
+      {
+        "title": "The Work Now Within Reach",
+        "url": "https://openai.com/index/the-work-now-within-reach",
+        "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+        "source": "OpenAI",
+        "date": "2026-09-08T13:00:00+00:00"
+      },
+      {
+        "title": "Introducing ChatGPT Images 2.5",
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+        "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+        "source": "OpenAI",
+        "date": "2026-09-08T11:30:00+00:00"
+      },
+      {
+        "title": "On the Navier–Stokes Millennium Prize Problem",
+        "url": "https://openai.com/index/navier-stokes-solution",
+        "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+        "source": "OpenAI",
+        "date": "2026-09-08T10:00:00+00:00"
+      },
+      {
+        "title": "Funding grants for new research into AI and teen development",
+        "url": "https://openai.com/index/teen-development-research-grants",
+        "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+        "source": "OpenAI",
+        "date": "2026-09-08T09:00:00+00:00"
+      },
+      {
+        "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+        "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+        "source": "OpenAI",
+        "date": "2026-09-08T00:00:00+00:00"
+      },
+      {
+        "title": "1Password increases engineering productivity 21% with Codex",
+        "url": "https://openai.com/index/1password",
+        "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+        "source": "OpenAI",
+        "date": "2026-09-08T00:00:00+00:00"
+      },
       {
         "title": "Supporting independent journalism in Ukraine",
         "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
@@ -115,234 +171,178 @@
         "summary": "PRS performance in BBJ samples as a function of BBJ and UKB sample sizes for traits with shared genetic architectures across populations: As the BBJ sample size grows past 40k, the optimal UKB sample size decreases from maximum. PRS performance in BBJ samples as a function of BBJ and UKB sample sizes for traits with unique genetic architectures across populations: Unlike conserved traits, these more…",
         "source": "Google Research",
         "date": "2026-09-03T18:20:31+00:00"
-      },
-      {
-        "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
-        "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
-        "summary": "Michał Januszewski and Viren Jain, Research Scientists, Google Research We partnered with HHMI Janelia and collaborators to publish a complete map of the male fruit fly’s brain and central nervous system, creating the largest brain map to date. This new brain map complements the female fruit fly brain map and recently released complete female fruit fly brain and nerve cord map. In 2019, our Connectomics team…",
-        "source": "Google Research",
-        "date": "2026-09-03T16:00:03+00:00"
-      },
-      {
-        "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-        "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-        "summary": "Our flagship AI weather forecasting model now includes real-time satellite data, hourly refreshes, higher resolution, precise precipitation forecasting, and clean energy variables. WeatherNext 2 (left) at 25-kilometer (0.25°) resolution vs. Global weather models notoriously struggle to accurately predict precipitation.",
-        "source": "Google DeepMind",
-        "date": "2026-09-03T15:02:08+00:00"
-      },
-      {
-        "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-        "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-        "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-        "source": "OpenAI",
-        "date": "2026-09-03T13:15:00+00:00"
-      },
-      {
-        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-        "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-        "source": "OpenAI",
-        "date": "2026-09-03T12:00:00+00:00"
-      },
-      {
-        "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-        "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-        "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-        "source": "OpenAI",
-        "date": "2026-09-03T12:00:00+00:00"
-      },
-      {
-        "title": "GPT-6 Astra: A new generation of intelligence",
-        "url": "https://openai.com/index/gpt-6-astra",
-        "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-        "source": "OpenAI",
-        "date": "2026-09-03T11:00:00+00:00"
-      },
-      {
-        "title": "Safety overview: GPT-6 Astra",
-        "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-        "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-        "source": "OpenAI",
-        "date": "2026-09-03T00:00:00+00:00"
-      },
-      {
-        "title": "Proactive cyber defense for governments and enterprises",
-        "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-        "summary": "Today, we’re launching our Fairwind Program, a limited access program for governments and trusted partners to use our most advanced cyber defense capabilities. Today, we’re launching our Fairwind Program to bring the best of Google’s AI and cyber defense capabilities to a trusted group of Google Cloud customers, government agencies, and cybersecurity partners, to help them proactively solve cyber risks at scale. The…",
-        "source": "Google DeepMind",
-        "date": "2026-09-02T16:24:24+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
-        "url": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
-        "summary": "Stoke is one of a handful of startups attempting to compete with Elon Musk’s SpaceX in the low-cost rocket launch space. SpaceX was built around the Falcon 9, which has a reusable booster stage, and now Musk and company are trying to field a huge, fully-reusable rocket, Starship. Lapsa said that he expects Stoke’s first vehicle, the Nova Pathfinder, to take flight in early 2027.",
+        "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+        "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt AI music model maker Suno on Wednesday unveiled a new model family called Suno v6, which it says was developed using licensed data from music labels and distributors such as Warner Music Group, BMG and Believe. Suno settled with Warner Music Group last year, and struck a deal with BMG last month. Lastly, Suno v6 mini is a faster version available…",
         "source": "TechCrunch",
-        "date": "2026-09-08T09:00:00+00:00"
+        "date": "2026-09-09T12:05:34+00:00"
       },
       {
-        "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
-        "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
-        "summary": "The construction industry is short workers by a wide margin. Meta’s Hyperion campus in Richland Parish, Louisiana, for example, will reportedly require roughly 5,000 construction workers , and OpenAI’s Stargate site in Abilene, Texas has reported involved 6,400 workers . Wu says that NavigateAI can pull up building specs, manufacturer manuals, and company policy in real time.",
+        "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+        "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+        "summary": "For years, the two founders have worked to develop new ways to control experimental fusion devices. Felici and Buchli met while teaching AI to control an experimental tokamak — a donut-shaped device researchers use to study fusion power. Commonwealth Fusion Systems , Realta Fusion , Proxima Fusion , and Type One Energy are examples of startups developing magnetic confinement devices.",
         "source": "TechCrunch",
-        "date": "2026-09-08T02:16:39+00:00"
+        "date": "2026-09-09T06:00:00+00:00"
       },
       {
-        "title": "Opaque recurrence, and other AI terms that you should probably know",
-        "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-        "summary": "Reasoning models are developed from traditional large language models and optimized for chain-of-thought thinking thanks to reinforcement learning. Inference is the process of running an AI model. Transfer learning can drive efficiency savings by shortcutting model development.",
+        "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+        "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+        "summary": "Saville launched CloudNC in 2015 with Chris Emery, now the company’s chief science officer, and offers AI-powered CAM Assist software that automates parts of Computer Numerical Control (CNC) machining. “Traditional CAM systems are powerful, but in most workflows, they are still tools that allow programmers to manually specify how a part should be machined,” Saville said. This is where his CAM Assist comes in, a…",
         "source": "TechCrunch",
-        "date": "2026-09-07T19:24:00+00:00"
+        "date": "2026-09-09T04:01:00+00:00"
       },
       {
-        "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
-        "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Her appeals to overturn the conviction and shorten her sentence were rejected in February of last year. She then went a different route last year, asking President Trump to commute her sentence.",
+        "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+        "url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt A video game posted to the Trump administration’s website — one that closely resembled Tetris — has been taken down after the Tetris Company complained. One of the more controversial was a game called “Build the Wall,” which reportedly mirrored Tetris’ gameplay, tasking players with stacking blocks of various shapes and sizes. Kotaku first…",
         "source": "TechCrunch",
-        "date": "2026-09-07T18:02:29+00:00"
+        "date": "2026-09-08T23:23:23+00:00"
       },
       {
-        "title": "What we expect from the upcoming Apple launch",
-        "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt It’s finally happening — this week, we are (probably) about to see Apple’s first foldable iPhone, more than five years after Samsung launched its first foldable phone. While the foldable iPhone is most exciting, we’re also anticipating news about AirPods, HomePods, and the non-foldable iPhone 18 line. Apple is also expected to release some new…",
+        "title": "Hackers are stealing Claude tokens from subscribers",
+        "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. After investigating, Anthropic told De Swardt it found the culprit: A compromised Claude session key was used to mint unauthorized Claude Code OAuth tokens. De Swardt’s Claude account was reinstated after about two weeks.",
         "source": "TechCrunch",
-        "date": "2026-09-07T15:58:00+00:00"
+        "date": "2026-09-08T21:10:27+00:00"
       },
       {
-        "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-        "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Why is longtime Apple executive Phil Schiller stepping down from his role as the head of the App Store ? But apparently there was another factor in Schiller’s thinking: New CEO John Ternus and services chief Eddy Cue seek to improve App Store margins and bring in more…",
+        "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+        "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Cognition, the startup developing coding assistant Devin, announced it raised $2 billion at a $48 billion valuation. At the time of the funding talks, Cursor’s annualized revenue had surpassed $2 billion. Cognition is expected to reach $4 billion to $5 billion in annualized revenue by the end of 2026, according to The Information.",
         "source": "TechCrunch",
-        "date": "2026-09-06T21:41:06+00:00"
+        "date": "2026-09-08T21:04:06+00:00"
       },
       {
-        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-        "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Some authors hoping to receive their share of Anthropic’s $1.5 billion copyright settlement said they received surprising emails this week — emails informing them that someone else was making a claim on their payments. And publishers aren’t the only ones seeking a cut…",
+        "title": "The Exploration Company nabs $450 million to challenge SpaceX",
+        "url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
+        "summary": "These sovereignty-related concerns create extra tailwinds for an EU-headquartered company like TEC. TEC wouldn’t be the first European commercial space company to launch a rocket — German startup Isar Aerospace crossed that milestone out of Norway last weekend. It is the first time ever in Europe that a company develops such a rocket engine,” Huby said.",
         "source": "TechCrunch",
-        "date": "2026-09-06T20:47:37+00:00"
+        "date": "2026-09-08T20:47:34+00:00"
       },
       {
-        "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-        "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Earlier this summer, Travis Kalanick’s Atoms announced a $1.7 billion funding round led by Andreessen Horowitz . In fact, the FT said Atoms has talked to Uber about how the ride-hailing company could use the startup’s robotaxi technology. (Uber has already partnered…",
+        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+        "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+        "summary": "To use Muse, consumers will have to trust Meta with more of their personal information than ever before. The concept is not unique to Meta. Time will tell if this personal connection and the utility Muse provides are enough for consumers to once again trust Meta with their personal information.",
         "source": "TechCrunch",
-        "date": "2026-09-06T16:45:00+00:00"
+        "date": "2026-09-08T19:00:00+00:00"
       },
       {
-        "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-        "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-        "summary": "The real test is whether Tesla can launch a robotaxi service safely and at scale. Curious about the Cybercab? Here is a complete roundup of the Tesla Cybercab, as well as the company’s interest in selling the autonomous vehicles to fleet operators.",
+        "title": "How to watch Apple’s foldable iPhone announcement",
+        "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+        "summary": "Aside from the foldable iPhone Ultra, Apple is also expected to announce the iPhone 18 Pro and iPhone 18 Pro Max models, for people who want an upgrade but don’t see the appeal of the foldable, or who don’t want to pay the rumored $2,000 price for the iPhone Ultra. The standard iPhone 18 model isn’t expected to launch until next year . Apple may also release new hardware like an updated HomePod, camera-enabled…",
         "source": "TechCrunch",
-        "date": "2026-09-06T16:08:00+00:00"
+        "date": "2026-09-08T17:46:53+00:00"
       },
       {
-        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-        "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Back in 2023, The New York Times sued OpenAI and its partner/investor Microsoft over alleged copyright infringement. The Seattle Times’ lawsuit is particularly notable because Microsoft and OpenAI have funded some of the organization’s journalism projects and fellowships.",
+        "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+        "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Shortly after the Buckmaster’s statement, OpenAI published a full proof of the Navier–Stokes existence and smoothness problem , which Buckmaster’s findings had taken steps towards. While Buckmaster and Alpöge were finalizing their own results, they learned that “information about our progress had been passed to OpenAI.” When they…",
         "source": "TechCrunch",
-        "date": "2026-09-05T22:49:55+00:00"
+        "date": "2026-09-08T17:32:15+00:00"
       },
       {
-        "title": "Hikers rescued after using Google Gemini for planning",
-        "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Three hikers were rescued from California’s Mount Shasta this week after using Google’s AI chatbot Gemini to plan their expedition, according to the Chicago Tribune . While it’s not clear whether Gemini can take all the blame for these bad decisions, the sheriff’s…",
+        "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+        "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Google Cloud and Accenture are working together on a joint unit dedicated to sending engineers into enterprises to help them better adopt Google’s AI tools and services. The organization will live under Accenture, according to a Google spokesperson. Earlier this year, Google Cloud launched a $750 million partner ecosystem commitment that embedded…",
         "source": "TechCrunch",
-        "date": "2026-09-05T19:35:24+00:00"
+        "date": "2026-09-08T16:20:31+00:00"
       },
       {
-        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt OpenAI has acknowledged its role in a recently reported incident where AI agents took over a German wiki forum . It also reported that OpenAI leadership became aware of the incident weeks ago but kept it hidden as the company dealt with the fallout from a separate…",
+        "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+        "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+        "summary": "Department of Energy to finance the refurbishment. Last year, the Department of Energy extended a $1 billion loan to Constellation Energy to restart a reactor at Three Mile Island. Shuttered nuclear power plants are becoming one of the tech industry’s favorite choices to quickly provide clean, firm power.",
         "source": "TechCrunch",
-        "date": "2026-09-05T18:05:27+00:00"
+        "date": "2026-09-08T15:25:35+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "LG TVs caught spying even when offline or on standby",
-        "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
-        "summary": "Gamers Nexus gives you another reason to never connect your smart TV to the internet. Gamers Nexus gives you another reason to never connect your smart TV to the internet. This isn’t LG’s first brush with Gamers Nexus.",
+        "title": "Students who use AI generally score worse at school",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+        "summary": "It tests 15-year-old students in science, math and reading, and draws from over 760,000 students in 91 countries. The difference grows among students frequently asked to assess the quality of AI-generated information — with that additional training, all regular AI users for general help learning outperform non-users. “Where technology enables or enhances that cognitive struggle, students will advance.",
         "source": "The Verge",
-        "date": "2026-09-08T11:30:05+00:00"
+        "date": "2026-09-09T12:05:01+00:00"
       },
       {
-        "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
-        "url": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
-        "summary": "﻿A triple camera, big battery, and new Arm GPU make the 18 Fold a phone to be reckoned with. ﻿A triple camera, big battery, and new Arm GPU make the 18 Fold a phone to be reckoned with. The 18 Fold is Xiaomi’s first book-style foldable since 2024’s Mix Fold 4 , but the company has followed Huawei and Samsung in moving to a short, squat design. In practice, this still feels similar to the Z Fold 8 though.",
+        "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+        "summary": "A departing researcher says AI companies are ‘gambling with our lives’ by racing to develop self-improving AI. A departing researcher says AI companies are ‘gambling with our lives’ by racing to develop self-improving AI. Coxon says the companies are “locked in a race” to develop advanced systems first so are pushing ahead “despite the risk.” Coxon’s departure marks one of the most high-profile examples of an…",
         "source": "The Verge",
-        "date": "2026-09-08T07:00:00+00:00"
+        "date": "2026-09-09T09:56:28+00:00"
       },
       {
-        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-        "summary": "315 points, 175 comments on Hacker News",
+        "title": "Copyright does more harm than good and should be abolished",
+        "url": "https://grapheneos.social/@GrapheneOS/117231186011306184",
+        "summary": "263 points, 246 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-08T05:42:28+00:00"
+        "date": "2026-09-09T06:31:28+00:00"
       },
       {
-        "title": "Mistral raises €3B",
-        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-        "summary": "Samsung Electronics led the round, joined by co-leads Scaleup Europe Fund, managed by EQT, and existing investor PSG Equity. While allowing Mistral to scale its compute capacity for training powerful models, it will help Mistral expand infrastructure and accelerate its commercial growth and international footprint. The round reflects a strategic endorsement from investors across Europe, Asia and North America. (552 points, 388 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-08T05:06:23+00:00"
-      },
-      {
-        "title": "We have a year to fix security everywhere",
-        "url": "https://jyn.dev/a-year-to-fix-security/",
-        "summary": "GLM 5.3-flash is possible to run locally on stock consumer hardware. Various people online have run benchmarks of GLM 5.3-flash locally. Invest in supply-chain security. (260 points, 249 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-08T04:48:10+00:00"
-      },
-      {
-        "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
-        "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
-        "summary": "After five years of development, Arm now has an AI gaming graphics accelerator inside its GPU. There are two ways to look at Arm’s new Arm Mali G2-Ultra NX. The Switch 2 has an Arm-based mobile chip too, though it contains a custom Nvidia GPU.",
+        "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
+        "url": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
+        "summary": "Apple might recycle the name from Microsoft’s dual-screen device for its first folding iPhone. Apple might recycle the name from Microsoft’s dual-screen device for its first folding iPhone. With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company’s long-rumored folding phone is the iPhone Duo.",
         "source": "The Verge",
-        "date": "2026-09-08T02:00:00+00:00"
+        "date": "2026-09-09T05:26:53+00:00"
       },
       {
-        "title": "Jellyfin 12.0",
-        "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-        "summary": "We are pleased to bring you Jellyfin 12.0, our new stable release. You must be running Jellyfin 10.10.7 or any 10.11.x release before upgrading to 12.0. As usual, a new release of Jellyfin comes with multiple database migrations. (422 points, 180 comments on Hacker News)",
+        "title": "I resigned from Anthropic today",
+        "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+        "summary": "592 points, 795 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-08T01:56:35+00:00"
+        "date": "2026-09-09T00:40:40+00:00"
       },
       {
-        "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-        "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-        "summary": "Just a few days ago, someone factored the 862-bit RSA-260 key from the RSA factoring challenge. Back in March 1999, Netscape 4.51 shipped a 512-bit RSA certificate authority trusted for SSL, and another for S/MIME. The E-Certify 512-bit roots were removed by Netscape in 2002. (367 points, 60 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-08T01:16:59+00:00"
-      },
-      {
-        "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
-        "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
-        "summary": "Unfortunately, it won’t be making it’s way to North America any time soon. Unfortunately, it won’t be making it’s way to North America any time soon. Want something affordable?",
+        "title": "Sony isn’t phasing out discs quite as quickly as we thought",
+        "url": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
+        "summary": "Sony’s last discmaking plant is reportedly decreasing production by 10 percent, not 90. Sony’s last discmaking plant is reportedly decreasing production by 10 percent, not 90. Sony isn’t backing away from its decision to kill the video game disc in January 2028.",
         "source": "The Verge",
-        "date": "2026-09-07T20:03:41+00:00"
+        "date": "2026-09-08T21:52:13+00:00"
       },
       {
-        "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-        "url": "https://lax-skyline.parcelscope.net/",
-        "summary": "303 points, 151 comments on Hacker News",
+        "title": "How to build a printer",
+        "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+        "summary": "A Letter page at 300 dpi is 2,550 × 3,300 pixels. The display already had RAM reserved for its screen image. The manga page looked really good on the Xteink. (369 points, 81 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-07T18:52:06+00:00"
+        "date": "2026-09-08T21:22:11+00:00"
       },
       {
-        "title": "Six years later, Sony revisits its legendary XM4 headphones",
-        "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
-        "summary": "In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. Both headphones are available now. Sony is also doing a partnership with Hello Kitty.",
+        "title": "Tao: Open math problems being non-renewably mined by AI",
+        "url": "https://mathstodon.xyz/@tao/117237320796901560",
+        "summary": "391 points, 345 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-09-08T21:00:52+00:00"
+      },
+      {
+        "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+        "summary": "OpenAI’s breakthrough with a 90-year-old problem is challenged by researchers who solved a related problem the day before. OpenAI’s breakthrough with a 90-year-old problem is challenged by researchers who solved a related problem the day before. In his statement, Buckmaster raises concerns about whether OpenAI had accessed their Codex data to get closer to the Navier-Stokes solution.",
         "source": "The Verge",
-        "date": "2026-09-07T16:00:00+00:00"
+        "date": "2026-09-08T20:53:52+00:00"
       },
       {
-        "title": "Bill Gates tries to install MovieMaker (2003)",
-        "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-        "summary": "So I went to Windows update. Doesn't Windows update know some key to talk to Windows? Windows Update knows I am on Windows XP. (398 points, 273 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-07T15:27:03+00:00"
+        "title": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
+        "url": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
+        "summary": "The TM-B from Rivian’s micromobility spinoff Also was supposed to reach customers by spring 2026. Rivian’s futuristic e-bike is delayed, and customers are not happy. Last year, Rivian’s micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world ablaze.",
+        "source": "The Verge",
+        "date": "2026-09-08T20:46:56+00:00"
+      },
+      {
+        "title": "Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
+        "url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
+        "summary": "The BlackShark V3 Pro gaming headset features a clear microphone, ANC, and crisp spatial audio. The BlackShark V3 Pro gaming headset features a clear microphone, ANC, and crisp spatial audio. It’s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we’re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99.",
+        "source": "The Verge",
+        "date": "2026-09-08T20:39:49+00:00"
+      },
+      {
+        "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+        "summary": "﻿OpenAI’s updated image generation tools in ChatGPT let you use a doodle as part of your prompt. ﻿OpenAI’s updated image generation tools in ChatGPT let you use a doodle as part of your prompt. OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. As for ChatGPT Images 2.5, OpenAI says that it makes images with “more natural…",
+        "source": "The Verge",
+        "date": "2026-09-08T20:16:09+00:00"
       }
     ]
   }
