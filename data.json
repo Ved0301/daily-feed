@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T12:03:12.619139+00:00",
+  "generated_at": "2026-09-12T11:30:50.598781+00:00",
   "sections": {
     "research": [
       {
@@ -89,6 +89,27 @@
     ],
     "labs": [
       {
+        "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+        "source": "OpenAI",
+        "date": "2026-09-14T00:00:00+00:00"
+      },
+      {
+        "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+        "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+        "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+        "source": "OpenAI",
+        "date": "2026-09-11T16:00:00+00:00"
+      },
+      {
+        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+        "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+        "source": "OpenAI",
+        "date": "2026-09-11T10:00:00+00:00"
+      },
+      {
         "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
         "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
         "summary": "ToolGrad generates successful tool-use chains before generating prompts, yielding a high pass rate. We compare the original query-first data generation approach on ToolBench, using depth-first search (DFS), with our answer-first approach, ToolGrad. We generated small-scale tool-use datasets called ToolGrad-500, using API databases from ToolBench.",
@@ -150,199 +171,178 @@
         "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
         "source": "OpenAI",
         "date": "2026-09-09T13:00:00+00:00"
-      },
-      {
-        "title": "GPT-6 Astra: The next generation in intelligence for work",
-        "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-        "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-        "source": "OpenAI",
-        "date": "2026-09-09T11:00:00+00:00"
-      },
-      {
-        "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-        "url": "https://openai.com/index/codex-quantum-computing-experiments",
-        "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-        "source": "OpenAI",
-        "date": "2026-09-08T17:00:00+00:00"
-      },
-      {
-        "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-        "summary": "Extensive community collaboration guided the design of AlphaGenome Atlas. Overview of the AlphaGenome Atlas. (1) Precomputed effects are generated genome-wide for over 9 billion single-nucleotide variants. (2) From this, an allelic-resolution AlphaGenome Variant Impact (AVI) score is derived for each variant. AlphaGenome Atlas provides a high-resolution, global view of the genome.",
-        "source": "Google DeepMind",
-        "date": "2026-09-08T14:00:15+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-        "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
-        "summary": "United and its stadium, Audi Field. It’s the latest — and smallest — firm to try something that Thrive Capital opened the door to just months ago: turning venture money into pro sports ownership. Thrive built a stand-alone, permanent-capital vehicle specifically to hold trophy assets.",
+        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+        "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Mecka AI, a startup that collects and analyzes human motion data to train humanoid robots and other robotics, is nearing a new round led by Sequoia Capital at a valuation of about $500 million, according to two people with knowledge of the deal. Other startups collecting real-world data for robot training include XDOF, which TechCrunch reported…",
         "source": "TechCrunch",
-        "date": "2026-09-10T22:30:00+00:00"
+        "date": "2026-09-11T22:58:17+00:00"
       },
       {
-        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-        "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-        "summary": "“I think we could grow 70% year over year. So 70% growth would mean around $680 billion next year. “Nvidia runs every model.",
+        "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+        "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+        "summary": "Speaking Thursday night at TechCrunch’s StrictlyVC event in New York’s West Village, Rabois confirmed that Khosla Ventures is opening its first-ever office outside Sand Hill Road. At the junior end, Rabois was unequivocal. “We don’t hire senior people.",
         "source": "TechCrunch",
-        "date": "2026-09-10T21:51:59+00:00"
+        "date": "2026-09-11T21:19:05+00:00"
       },
       {
-        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-        "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Wahlberg will sit down with Bruce K. Ticket prices increase on September 25.",
+        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+        "summary": "AI labs should perhaps play the same game. To be clear, Tan isn’t advocating for American AI labs to use stolen credentials to distill. Tan, who is himself such an avid AI user that he once described himself as having cyber psychosis , wants to see a balance between open-weight AI labs and frontier labs.",
         "source": "TechCrunch",
-        "date": "2026-09-10T21:35:00+00:00"
+        "date": "2026-09-11T20:59:47+00:00"
       },
       {
-        "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-        "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Demand for OpenAI’s newest and most powerful model, Astra , has led the company to temporarily pause subscriptions for its $200-per-month Pro plan, citing strain on its infrastructure. At the time, Sottiaux wrote , “Demand for Astra is really unprecedented.",
+        "title": "OpenAI’s feud with mathematicians is only escalating",
+        "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work as they seek to one-up each other with solutions to famous math problems. This letter follows the Leiden Declaration , released by a working group of…",
         "source": "TechCrunch",
-        "date": "2026-09-10T20:59:51+00:00"
+        "date": "2026-09-11T20:57:36+00:00"
       },
       {
-        "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-        "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. All told, the company observed nearly 200 million exchanges linked to distillation attacks, attributed to five separate campaigns. Broadly, distillation attacks focus on extracting the chain of thought from a model’s response to various queries.",
+        "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Book your exhibit table at TechCrunch Disrupt 2026 by September 18 at 11:59 p.m. Secure your exhibit table now . Last day to book an exhibit table is September 18.",
         "source": "TechCrunch",
-        "date": "2026-09-10T20:57:30+00:00"
+        "date": "2026-09-11T20:33:18+00:00"
       },
       {
-        "title": "Furo’s founders left Silicon Valley — and it’s paying off",
-        "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
-        "summary": "The three 28-year-old founders behind Furo are convinced that their decision to leave Silicon Valley and move back to their home country of Germany has paid off in both VC dollars and business growth. Pictured from left to right: Furo co-founders Lena Sophia Voß, Simon Wittner, and Leonie Wagner. As of May 2025, her reporting for TechCrunch focuses on Europe’s most interesting startup stories.",
+        "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+        "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Don’t just attend Disrupt. Get your ticket to TechCrunch Disrupt 2026 .",
         "source": "TechCrunch",
-        "date": "2026-09-10T20:48:00+00:00"
+        "date": "2026-09-11T20:30:17+00:00"
       },
       {
-        "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-        "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-        "summary": "2 position on the App Store’s Top Charts, its launch pales when compared with other recent app debuts from Meta, like Threads and Meta AI, the data indicates. Muse is also further behind when compared with another notable consumer AI app’s launch: ChatGPT. Muse’s launch timing could be another factor impacting its debut numbers.",
+        "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+        "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Because Moonshot’s model weights are freely available, the company has far lower margins than its closed-weight competitors. Still, Moonshot’s model development practices remain controversial — if not downright illegal.",
         "source": "TechCrunch",
-        "date": "2026-09-10T19:50:04+00:00"
+        "date": "2026-09-11T19:35:54+00:00"
       },
       {
-        "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
-        "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Proxima Fusion is betting on a critical ingredient for its fusion reactors: superconducting tape. Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design. Proxima will use HTS…",
+        "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+        "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+        "summary": "The company is also launching a dedicated Roblox Card and Roblox Wallet for creators. In addition, Roblox is rolling out its generative AI game creation more broadly. First announced in July, the feature called “Build ” lets Roblox users create games using natural language prompts.",
         "source": "TechCrunch",
-        "date": "2026-09-10T18:38:00+00:00"
+        "date": "2026-09-11T19:00:00+00:00"
       },
       {
-        "title": "Amazon makes it easier to buy what you see on Prime Video",
-        "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
-        "summary": "The changes follow last year’s launch of “Shop the Show,” a second-screen shopping experience available through the Amazon mobile shopping app. Instead of interrupting your viewing experience or displaying product information on-screen, this feature would take you to products tied to a given movie, show, or live sports event when you typed “shop the show” into the Amazon Search app. The “Shop the Show” feature in…",
+        "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
+        "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in Startup Battlefield 200 at TechCrunch Disrupt 2026 in San Francisco on October 13-15, before 10,000+ tech leaders attending. “Road to Battlefield 2026 had record applications and…",
         "source": "TechCrunch",
-        "date": "2026-09-10T18:10:36+00:00"
+        "date": "2026-09-11T18:58:01+00:00"
       },
       {
-        "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-        "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-        "summary": "“Error processing form” — typical PyPI wording for CSRF/captcha issue. The two crocs: left faces LEFT with a longer/open snout showing nostril; right faces RIGHT slightly darker. Round 2: FOUR gorillas (3 vivid: center ~(540,470), bottom-center ~(470,790), bottomright ~(780,730); 1 ghost top-left ~(320,390)) + ONE GHOST CAT!!",
+        "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+        "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Nscale, the buzzy U.K.-based AI data center startup, has appointed former OpenAI, Meta, and Instacart executive Fidji Simo to its board. Simo joins high-profile tech executives Sheryl Sandberg, Susan Decker, and Nick Clegg on Nscale’s board ahead of the startup’s anticipated IPO this fall. Simo also sits on Shopify’s board.",
         "source": "TechCrunch",
-        "date": "2026-09-10T17:54:44+00:00"
+        "date": "2026-09-11T16:46:25+00:00"
       },
       {
-        "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-        "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-        "summary": "Pocket FM’s parent company, Pocket Entertainment, is now looking to take its AI-driven content model beyond audio. Its three-month-old microdrama app, Pocket Saga, has reached an annualized revenue run rate of about $15 million, Nayak told TechCrunch. Nayak told TechCrunch that Pocket Entertainment does not plan to go public in the next 24 months.",
+        "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
+        "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+        "summary": "The post arrives only days after Automattic’s board voted to oust Mullenweg as CEO for unknown reasons. At the time, a spokesperson from Automattic confirmed to TechCrunch that Mullenweg was on leave and Davies was interim CEO. Early Friday morning, Mullenweg shared the following new message on Automattic’s Slack: “(Don’t call it a comeback…) Howdy everybody!",
         "source": "TechCrunch",
-        "date": "2026-09-10T17:45:00+00:00"
+        "date": "2026-09-11T15:19:00+00:00"
       },
       {
-        "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
-        "url": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
-        "summary": "Starting today, you can add posts you’re tagged in directly to your main profile grid. You can add a tagged post to your grid from the DM notification you receive when you’re tagged, directly from the post itself, or through your Tagged tab. Back in June, Instagram introduced the “ Reorder your grid ” feature, allowing users to rearrange the content on their main profile grid.",
+        "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+        "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Hardware crypto wallet maker Trezor is warning customers for the second time in as many months that one of the companies it relies on was hacked, exposing the data of Trezor’s customers to hackers. In a blog post this week , the hardware wallet maker said a cyberattack on Brevo, a marketing tech company that Trezor uses to send newsletters,…",
         "source": "TechCrunch",
-        "date": "2026-09-10T16:31:25+00:00"
+        "date": "2026-09-11T13:32:54+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Arizona’s lifeline for chip manufacturing is drying up",
-        "url": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
-        "summary": "Water from the Colorado River is getting scarce — and more expensive for everyone. “So what do we have enough water for? “The cost of water will increase for TSMC,” Sorensen says.",
+        "title": "OpenAI just wants to win",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+        "summary": "Instead, many mathematicians have watched OpenAI’s relentless advance with growing unease. To Buckmaster, OpenAI could have easily collaborated with researchers rather than race them to results. OpenAI, meanwhile, has already moved on.",
         "source": "The Verge",
-        "date": "2026-09-11T12:00:00+00:00"
+        "date": "2026-09-12T11:00:00+00:00"
       },
       {
-        "title": "Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US",
-        "url": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
-        "summary": "﻿The Luna Pro has one lens, a detachable display, and 4K vertical recording. ﻿The Luna Pro has one lens, a detachable display, and 4K vertical recording. At its heart, the Luna Pro is mostly an Ultra with the telephoto lens stripped out. The Luna Pro is out now in the US for $599.99, compared to $769.99 for the Luna Ultra.",
-        "source": "The Verge",
-        "date": "2026-09-11T11:07:24+00:00"
-      },
-      {
-        "title": "Apple addresses iPhone Duo copycats",
-        "url": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
-        "summary": "‘Unfortunately they got the aspect ratio.’ ‘Unfortunately they got the aspect ratio.’ Apple was far from the first company to announce a passport-shaped folding phone this year, but that doesn’t mean it wasn’t copied. As my colleague Dom Preston already explained , it’s almost impossible to keep product development secret when Apple and its competitors all share the same global suppliers. “Unfortunately, they got…",
-        "source": "The Verge",
-        "date": "2026-09-11T10:02:58+00:00"
-      },
-      {
-        "title": "Astra for Coding: Why Are We Doing This Again?",
-        "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
-        "summary": "But Astra … really loves Python? Subscribe via atom / RSS . Subscribe via atom / RSS . (370 points, 271 comments on Hacker News)",
+        "title": "google.com/goto: Google's anti-scraping update",
+        "url": "https://www.autom.dev/blog/google-search-goto-links",
+        "summary": "Google Search is rewriting organic result links to google.com/goto?url=... instead of exposing the destination URL directly in the HTML. The url parameter uses a custom, Google-specific encoding. Google has used redirect wrappers before. (461 points, 362 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-11T06:23:06+00:00"
+        "date": "2026-09-12T03:14:20+00:00"
       },
       {
-        "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
-        "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
-        "summary": "Ángela Karime Venegas Hernández is 16 years old and has an idea no one else had. She studies at CETIS 78 in Altamira, Tamaulipas, and one day decided to put out a candle without blowing, without water, without anything but sound. She assembled a device with a 12-volt battery, a frequency generator, and a speaker that emits 30 pulses per second. (253 points, 85 comments on Hacker News)",
+        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+        "url": "https://www.rubyhack.ai/",
+        "summary": "This analysis is entirely based on the publicly available RubyGems packages uploaded by these agents. Did the agents successfully steal user API keys? Why did the agents try to steal user API keys? (741 points, 411 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-11T01:00:56+00:00"
+        "date": "2026-09-11T23:17:42+00:00"
       },
       {
-        "title": "Slack can now vibe-code interactive charts and reports inside chats",
-        "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-        "summary": "You can ask Slackbot to build a tool for you by just describing it. You can ask Slackbot to build a tool for you by just describing it. In one example shared by Slack, a user asks Slackbot for help creating an arcade-themed visualization of AI token usage.",
+        "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+        "summary": "A justice asked, ‘Counsel, do you watch the news?’ when a lawyer admitted to relying on ChatGPT without understanding the risks. A justice asked, ‘Counsel, do you watch the news?’ when a lawyer admitted to relying on ChatGPT without understanding the risks. “Counsel, do you watch the news?",
         "source": "The Verge",
-        "date": "2026-09-10T21:25:21+00:00"
+        "date": "2026-09-11T20:44:02+00:00"
       },
       {
-        "title": "Schools are catching on to Big Tech’s playbook",
-        "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-        "summary": "Educators were quick to adopt tech-backed coding curricula, but AI appears to face more scrutiny. Educators were quick to adopt tech-backed coding curricula, but AI appears to face more scrutiny. “Most parents want more than just getting kids to learn to use tech” “I’m not arguing against tech education or tech in schools,” Singer says.",
-        "source": "The Verge",
-        "date": "2026-09-10T19:44:20+00:00"
-      },
-      {
-        "title": "OpenAI Agents API",
-        "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-        "summary": "The Agents API gives your application access to the Codex harness through an OpenAI-managed API. OpenAI tools use their standard rates , and OpenAI-hosted sandboxes use standard container rates . Choosing a self-hosted sandbox does not make the Agents API ZDR-eligible. (277 points, 156 comments on Hacker News)",
+        "title": "GrapheneOS' rewritten Messages app is released",
+        "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+        "summary": "Please reload this page . Please reload this page . Please reload this page . (281 points, 209 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-10T19:43:22+00:00"
+        "date": "2026-09-11T18:50:36+00:00"
       },
       {
-        "title": "Amazon’s Fire TV Stick 4K is over half off at under $20",
-        "url": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
-        "summary": "With bonus deals on Resident Evil Requiem for PC, a two-pack of Ring alarm sensors, and a Lenovo Android tablet. With bonus deals on Resident Evil Requiem for PC, a two-pack of Ring alarm sensors, and a Lenovo Android tablet. See our ethics statement.",
-        "source": "The Verge",
-        "date": "2026-09-10T16:58:44+00:00"
-      },
-      {
-        "title": "I have a theory that software drives people insane",
-        "url": "https://graybeard.ing/software-drives-people-insane/",
-        "summary": "I have a little pet theory that software drives people insane. Sometimes you really do need the complicated thing. Spreadsheets are useful and (actually) useful software is enough. (446 points, 180 comments on Hacker News)",
+        "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+        "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+        "summary": "Google reported 21 installs in a day. I had a target cost per install of $1.50, and Google couldn’t find installs at that price. Google optimizes for whatever goal you give it, and my goal was installs. (567 points, 301 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-10T16:13:42+00:00"
+        "date": "2026-09-11T18:24:55+00:00"
       },
       {
-        "title": "Electric air taxis get the green light for test flights in Texas",
-        "url": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
-        "summary": "The flights will be conducted under the White House’s new pilot program to test out electric, hybrid, and autonomous aircraft. The flights will be conducted under the White House’s new pilot program to test out electric, hybrid, and autonomous aircraft. A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas — before the rules governing this new…",
-        "source": "The Verge",
-        "date": "2026-09-10T16:00:00+00:00"
+        "title": "The EPA is planning to scrap public review rules for data center pollution",
+        "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+        "summary": "The rural South, which is home to a disproportionate amount of Black communities, has seen the largest growth of these large data centers. The burden of data center growth is already falling heavily on Black communities. “The level of unequalness with these data centers cannot be understated,” Black said. (469 points, 341 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-11T18:05:21+00:00"
       },
       {
-        "title": "Universal Music is launching an AI music platform with ElevenLabs",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-        "summary": "UMG’s AI music platform will let users create remixes, mashups, and new takes on tracks. UMG’s AI music platform will let users create remixes, mashups, and new takes on tracks. The new AI music platform will remain separate from ElevenLabs’ Music API and ElevenMusic generator .",
+        "title": "A misalignment of AI in mathematics",
+        "url": "https://mathandai.org/",
+        "summary": "Over the last few months, the mathematical capabilities of LLMs have improved dramatically, to the point that they can solve major outstanding problems in many fields of mathematics. In recent months, the success of AI in solving major mathematical problems has made headlines even outside mathematical circles. Artur Avila (Fields Medal 2014) Manjul Bhargava (Fields Medal 2014) Caucher Birkar (Fields Medal 2018)… (967 points, 926 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-11T17:45:12+00:00"
+      },
+      {
+        "title": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
+        "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
+        "summary": "Automattic founder Mullenweg is apparently already back at the helm of Automattic — and is posting about ‘coup’ attempts. Automattic founder Mullenweg is apparently already back at the helm of Automattic — and is posting about ‘coup’ attempts. WordPress Executive Director Mary Hubbard confirmed Mullenweg’s return to the CEO role in a Friday post on X , which the official WordPress account shared and Mullenweg…",
         "source": "The Verge",
-        "date": "2026-09-10T15:38:19+00:00"
+        "date": "2026-09-11T17:16:59+00:00"
+      },
+      {
+        "title": "We unfolded the iPhone Duo",
+        "url": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
+        "summary": "On The Vergecast: a deep dive into the iPhone Duo, Apple Watches, and LLMs on the Mac On The Vergecast: a deep dive into the iPhone Duo, Apple Watches, and LLMs on the Mac You only get one chance at a first impression, and getting to introduce Apple’s first folding phone is certainly a strong way to start things off as Apple’s CEO. On The Vergecast today, we’re talking all about Apple’s launch event: how John Ternus…",
+        "source": "The Verge",
+        "date": "2026-09-11T16:22:24+00:00"
+      },
+      {
+        "title": "The White House says Truth Social is the ‘most powerful and popular social media platform in the world’",
+        "url": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
+        "summary": "YouTube and Facebook are the world’s most popular platforms with billions of active users, while Truth Social traffic has declined. YouTube and Facebook are the world’s most popular platforms with billions of active users, while Truth Social traffic has declined. Truth Social’s traffic appears to be declining.",
+        "source": "The Verge",
+        "date": "2026-09-11T16:21:19+00:00"
+      },
+      {
+        "title": "Anthropic spent this week in hot water over cybersecurity",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+        "summary": "A researcher’s resignation letter went viral, just before the company released details about four models going rogue. A researcher’s resignation letter went viral, just before the company released details about four models going rogue. The saga only ended when the model “exhausted its token budget,” per Anthropic.",
+        "source": "The Verge",
+        "date": "2026-09-11T16:09:14+00:00"
       }
     ]
   }
