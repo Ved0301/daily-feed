@@ -1,92 +1,7 @@
 {
-  "generated_at": "2026-09-12T11:30:50.598781+00:00",
+  "generated_at": "2026-09-13T12:34:41.321900+00:00",
   "sections": {
-    "research": [
-      {
-        "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
-        "url": "https://arxiv.org/abs/2609.11923v1",
-        "summary": "Boning Li, Longbo Huang — Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in millions of small,…",
-        "source": "arXiv",
-        "date": "2026-09-10T17:58:14Z"
-      },
-      {
-        "title": "General Quantification of Covariate and Concept Shifts",
-        "url": "https://arxiv.org/abs/2609.11918v1",
-        "summary": "Hongbo Chen, Li Charlie Xia — Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from samples.",
-        "source": "arXiv",
-        "date": "2026-09-10T17:57:52Z"
-      },
-      {
-        "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
-        "url": "https://arxiv.org/abs/2609.11917v1",
-        "summary": "Atindra Jha, Margaret Li, Jure Leskovec et al. — As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but the effects of…",
-        "source": "arXiv",
-        "date": "2026-09-10T17:57:33Z"
-      },
-      {
-        "title": "Can Edge-Deployable Vision-Language Models Identify Species?",
-        "url": "https://arxiv.org/abs/2609.11916v1",
-        "summary": "William Zhou, Mayukha Siripuram, Xiao Yan et al. — Camera traps often run in the field on edge hardware with limited or no connectivity, making small, locally-deployable vision-language models (VLMs) -- not frontier-scale ones -- the practically relevant class to…",
-        "source": "arXiv",
-        "date": "2026-09-10T17:57:32Z"
-      },
-      {
-        "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
-        "url": "https://arxiv.org/abs/2609.11915v1",
-        "summary": "Masahiro Kato, Daiki Honma, Taka Kato — Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop Generative Marketing Mix…",
-        "source": "arXiv",
-        "date": "2026-09-10T17:57:28Z"
-      },
-      {
-        "title": "Distance generalization in transformers: why bother with positional encoding?",
-        "url": "https://arxiv.org/abs/2609.11913v1",
-        "summary": "Daniel Henrik Nevermann, Claudius Gros — Out-of-distribution length generalization, namely to extrapolate a task from short to longer context, has been studied intensively for transformers. Here we focus on distance generalization, which probes performance…",
-        "source": "arXiv",
-        "date": "2026-09-10T17:57:19Z"
-      },
-      {
-        "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
-        "url": "https://arxiv.org/abs/2609.11911v1",
-        "summary": "Yakov Pyotr Shkolnikov — Agentic AI is moving from bounded task execution toward systems that retain consequential state, continue operating and adapt across task boundaries. That shift creates a control problem that current harnesses largely…",
-        "source": "arXiv",
-        "date": "2026-09-10T17:56:41Z"
-      },
-      {
-        "title": "From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good",
-        "url": "https://arxiv.org/abs/2609.11910v1",
-        "summary": "Nitesh V. Chawla, Paulo Benanti — Artificial Intelligence does more than create a governance problem. It can also reveal where institutions have already failed to provide responsiveness, belonging, care, and accountability.",
-        "source": "arXiv",
-        "date": "2026-09-10T17:56:36Z"
-      },
-      {
-        "title": "TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription",
-        "url": "https://arxiv.org/abs/2609.11904v1",
-        "summary": "Akshaj Gupta, Hwi Joo Park, Andrea Guzman et al. — Automatic Music Transcription (AMT) for guitar remains limited by three challenges: existing systems often fail to capture expressive techniques such as slides, bends, and percussive hits; they often assign notes to…",
-        "source": "arXiv",
-        "date": "2026-09-10T17:55:12Z"
-      },
-      {
-        "title": "MindTopo: Can Foundation Models Reason in Topological Space?",
-        "url": "https://arxiv.org/abs/2609.11900v1",
-        "summary": "Yunfei Ge, Anbang Liu, Qineng Wang et al. — Spatial reasoning depends not only on metric properties such as distance, angle, and shape, but also on topological relations that remain invariant under continuous deformation. Cognitive science identifies these…",
-        "source": "arXiv",
-        "date": "2026-09-10T17:54:32Z"
-      },
-      {
-        "title": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era",
-        "url": "https://arxiv.org/abs/2609.11897v1",
-        "summary": "Zi-Rong Li, Si-Yang Liu, Tian-Zuo Wang et al. — Causal discovery aims to uncover causal structures from data and is fundamental to scientific reasoning and intervention-based decision making. Its evaluation relies heavily on structural causal models (SCMs), which…",
-        "source": "arXiv",
-        "date": "2026-09-10T17:53:15Z"
-      },
-      {
-        "title": "3D Point Splatting for mmWave Radar Novel View Synthesis",
-        "url": "https://arxiv.org/abs/2609.11894v1",
-        "summary": "Adnan Armouti, Yixuan Gao, Rajalakshmi Nandakumar — Solving novel view synthesis (NVS) for millimeter-wave (mmWave) radar requires a renderer that is physically faithful, complex-valued, and multi-viewpoint-tractable. No prior method achieves these three properties…",
-        "source": "arXiv",
-        "date": "2026-09-10T17:52:17Z"
-      }
-    ],
+    "research": [],
     "labs": [
       {
         "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -175,9 +90,44 @@
     ],
     "startups": [
       {
+        "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+        "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+        "summary": "The move seemingly came as a surprise to Mullenweg, who posted on Automattic’s Slack, accusing the board members of “conspiring” against him. Automattic confirmed Mullenweg’s removal to TechCrunch on Wednesday, saying that Mullenweg was “currently on leave” and that Automattic’s Chief Financial Officer, Mark Davies, would lead as interim CEO with “full confidence” of the board. Schneider, a founding CEO of…",
+        "source": "TechCrunch",
+        "date": "2026-09-12T23:25:38+00:00"
+      },
+      {
+        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt While OpenAI has filed confidentially for an IPO , the company will not be going public this year , according to CEO Sam Altman. Altman was interviewed recently by Fortune editor in chief Alyson Shontell; amidst the fallout from the OpenAI-HuggingFace hack , as well as…",
+        "source": "TechCrunch",
+        "date": "2026-09-12T20:19:16+00:00"
+      },
+      {
+        "title": "Anthropic CEO outlines plan to slow AI development",
+        "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. In a new blog post , Anthropic CEO Dario Amodei not only echoed the call to “pace the frontier,” but also outlined three broad strategies for doing so. “Progress will still seem fast, and we must make wise use of the time we gain.” Other AI executives seem to have reacted positively to Amodei’s post, with Altman writing , “I agree with…",
+        "source": "TechCrunch",
+        "date": "2026-09-12T19:34:44+00:00"
+      },
+      {
+        "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+        "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt The long-awaited second generation of the Tesla Roadster might finally be ready for the public. Tesla’s second generation sports car was first announced in November 2017 and has been pushed back multiple times.",
+        "source": "TechCrunch",
+        "date": "2026-09-12T19:21:19+00:00"
+      },
+      {
+        "title": "Revolut confirms customer data breach through fake government requests",
+        "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt British fintech Revolut confirmed that it disclosed sensitive customer information to an unauthorized third party after receiving fraudulent requests sent from a legitimate government agency email domain. “Revolut recently identified a sophisticated external impersonation scam where an unauthorised third party utilised a legitimate government…",
+        "source": "TechCrunch",
+        "date": "2026-09-12T14:40:00+00:00"
+      },
+      {
         "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
         "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Mecka AI, a startup that collects and analyzes human motion data to train humanoid robots and other robotics, is nearing a new round led by Sequoia Capital at a valuation of about $500 million, according to two people with knowledge of the deal. Other startups collecting real-world data for robot training include XDOF, which TechCrunch reported…",
+        "summary": "While Mecka AI hasn’t publicly disclosed its customer list, many robotics companies and AI labs rely on real-world data captured through this “egocentric” approach, alongside other physical data collection methods like teleoperation, to build their models. Other startups collecting real-world data for robot training include XDOF, which TechCrunch reported last week was nearing a new round at a $1.2 billion valuation…",
         "source": "TechCrunch",
         "date": "2026-09-11T22:58:17+00:00"
       },
@@ -198,7 +148,7 @@
       {
         "title": "OpenAI’s feud with mathematicians is only escalating",
         "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work as they seek to one-up each other with solutions to famous math problems. This letter follows the Leiden Declaration , released by a working group of…",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work as they seek to one-up each other with solutions to famous math problems. Revolut confirms customer data breach through fake government requests OpenAI…",
         "source": "TechCrunch",
         "date": "2026-09-11T20:57:36+00:00"
       },
@@ -222,127 +172,92 @@
         "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Because Moonshot’s model weights are freely available, the company has far lower margins than its closed-weight competitors. Still, Moonshot’s model development practices remain controversial — if not downright illegal.",
         "source": "TechCrunch",
         "date": "2026-09-11T19:35:54+00:00"
-      },
-      {
-        "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-        "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-        "summary": "The company is also launching a dedicated Roblox Card and Roblox Wallet for creators. In addition, Roblox is rolling out its generative AI game creation more broadly. First announced in July, the feature called “Build ” lets Roblox users create games using natural language prompts.",
-        "source": "TechCrunch",
-        "date": "2026-09-11T19:00:00+00:00"
-      },
-      {
-        "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-        "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in Startup Battlefield 200 at TechCrunch Disrupt 2026 in San Francisco on October 13-15, before 10,000+ tech leaders attending. “Road to Battlefield 2026 had record applications and…",
-        "source": "TechCrunch",
-        "date": "2026-09-11T18:58:01+00:00"
-      },
-      {
-        "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-        "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Nscale, the buzzy U.K.-based AI data center startup, has appointed former OpenAI, Meta, and Instacart executive Fidji Simo to its board. Simo joins high-profile tech executives Sheryl Sandberg, Susan Decker, and Nick Clegg on Nscale’s board ahead of the startup’s anticipated IPO this fall. Simo also sits on Shopify’s board.",
-        "source": "TechCrunch",
-        "date": "2026-09-11T16:46:25+00:00"
-      },
-      {
-        "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
-        "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-        "summary": "The post arrives only days after Automattic’s board voted to oust Mullenweg as CEO for unknown reasons. At the time, a spokesperson from Automattic confirmed to TechCrunch that Mullenweg was on leave and Davies was interim CEO. Early Friday morning, Mullenweg shared the following new message on Automattic’s Slack: “(Don’t call it a comeback…) Howdy everybody!",
-        "source": "TechCrunch",
-        "date": "2026-09-11T15:19:00+00:00"
-      },
-      {
-        "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-        "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Hardware crypto wallet maker Trezor is warning customers for the second time in as many months that one of the companies it relies on was hacked, exposing the data of Trezor’s customers to hackers. In a blog post this week , the hardware wallet maker said a cyberattack on Brevo, a marketing tech company that Trezor uses to send newsletters,…",
-        "source": "TechCrunch",
-        "date": "2026-09-11T13:32:54+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "OpenAI just wants to win",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-        "summary": "Instead, many mathematicians have watched OpenAI’s relentless advance with growing unease. To Buckmaster, OpenAI could have easily collaborated with researchers rather than race them to results. OpenAI, meanwhile, has already moved on.",
+        "title": "Your car is selling your data",
+        "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+        "summary": "For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Earlier this year, the Federal Trade Commission issued an unprecedented penalty against General Motors: a five-year ban on selling customer data to consumer reporting agencies and third-party data brokers. GM was then turning around and sharing that data with two data brokers, LexisNexis and Verisk, both of which work with the insurance…",
         "source": "The Verge",
-        "date": "2026-09-12T11:00:00+00:00"
+        "date": "2026-09-13T12:00:00+00:00"
       },
       {
-        "title": "google.com/goto: Google's anti-scraping update",
-        "url": "https://www.autom.dev/blog/google-search-goto-links",
-        "summary": "Google Search is rewriting organic result links to google.com/goto?url=... instead of exposing the destination URL directly in the HTML. The url parameter uses a custom, Google-specific encoding. Google has used redirect wrappers before. (461 points, 362 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-12T03:14:20+00:00"
-      },
-      {
-        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-        "url": "https://www.rubyhack.ai/",
-        "summary": "This analysis is entirely based on the publicly available RubyGems packages uploaded by these agents. Did the agents successfully steal user API keys? Why did the agents try to steal user API keys? (741 points, 411 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-11T23:17:42+00:00"
-      },
-      {
-        "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-        "summary": "A justice asked, ‘Counsel, do you watch the news?’ when a lawyer admitted to relying on ChatGPT without understanding the risks. A justice asked, ‘Counsel, do you watch the news?’ when a lawyer admitted to relying on ChatGPT without understanding the risks. “Counsel, do you watch the news?",
+        "title": "Apple’s new phones are here",
+        "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+        "summary": "﻿Plus, in this week’s Installer: Updated AirPods, Meta’s AI agent, revived Sony headphones, and more. ﻿Plus, in this week’s Installer: Updated AirPods, Meta’s AI agent, revived Sony headphones, and more. Welcome to Installer No. Drop a line to installer@theverge.com .",
         "source": "The Verge",
-        "date": "2026-09-11T20:44:02+00:00"
+        "date": "2026-09-13T12:00:00+00:00"
       },
       {
-        "title": "GrapheneOS' rewritten Messages app is released",
-        "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-        "summary": "Please reload this page . Please reload this page . Please reload this page . (281 points, 209 comments on Hacker News)",
+        "title": "Why are AI agents lying, cheating and coordinating?",
+        "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+        "summary": "These are called instrumental goals . Collaborative behavior also follows rationally from reward-seeking, whenever several agents have overlapping goals, which incentivizes communicating with other agents in order to coordinate toward a shared goal. Human societies face the same bind. (317 points, 365 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-11T18:50:36+00:00"
+        "date": "2026-09-13T01:22:31+00:00"
       },
       {
-        "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-        "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-        "summary": "Google reported 21 installs in a day. I had a target cost per install of $1.50, and Google couldn’t find installs at that price. Google optimizes for whatever goal you give it, and my goal was installs. (567 points, 301 comments on Hacker News)",
+        "title": "Everyone should slow down AI development except for me",
+        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+        "summary": "573 points, 336 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-11T18:24:55+00:00"
+        "date": "2026-09-13T00:30:44+00:00"
       },
       {
-        "title": "The EPA is planning to scrap public review rules for data center pollution",
-        "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-        "summary": "The rural South, which is home to a disproportionate amount of Black communities, has seen the largest growth of these large data centers. The burden of data center growth is already falling heavily on Black communities. “The level of unequalness with these data centers cannot be understated,” Black said. (469 points, 341 comments on Hacker News)",
+        "title": "OpenAI’s rogue AI tried to hack another company in May",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+        "summary": "The previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month. The previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack.",
+        "source": "The Verge",
+        "date": "2026-09-12T21:41:36+00:00"
+      },
+      {
+        "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+        "summary": "He also said that it was ‘absolutely’ possible to build an AI beyond human control. He also said that it was ‘absolutely’ possible to build an AI beyond human control. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control.",
+        "source": "The Verge",
+        "date": "2026-09-12T21:16:28+00:00"
+      },
+      {
+        "title": "StarCraft returns in 2030 as an open-world shooter",
+        "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+        "summary": "10 years after the last StarCraft II expansion pack the series is finally being brought back to life. 10 years after the last StarCraft II expansion pack the series is finally being brought back to life. Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost .",
+        "source": "The Verge",
+        "date": "2026-09-12T20:08:09+00:00"
+      },
+      {
+        "title": "An open letter to Dario: if you mean it, open the weights",
+        "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+        "summary": "You published We Must Pace the Frontier today, which committed Anthropic to embedded third-party evaluators and asked governments to require every other frontier company to match. If you really want to slow down frontier AI, call for a law that makes every publicly available model open weights. Anthropic , the largest copyright settlement in history. ↩︎ (290 points, 96 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-11T18:05:21+00:00"
+        "date": "2026-09-12T19:15:32+00:00"
       },
       {
-        "title": "A misalignment of AI in mathematics",
-        "url": "https://mathandai.org/",
-        "summary": "Over the last few months, the mathematical capabilities of LLMs have improved dramatically, to the point that they can solve major outstanding problems in many fields of mathematics. In recent months, the success of AI in solving major mathematical problems has made headlines even outside mathematical circles. Artur Avila (Fields Medal 2014) Manjul Bhargava (Fields Medal 2014) Caucher Birkar (Fields Medal 2018)… (967 points, 926 comments on Hacker News)",
+        "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+        "url": "https://hachyderm.io/@simontatham/117201594980991062",
+        "summary": "349 points, 127 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-11T17:45:12+00:00"
+        "date": "2026-09-12T18:58:57+00:00"
       },
       {
-        "title": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
-        "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
-        "summary": "Automattic founder Mullenweg is apparently already back at the helm of Automattic — and is posting about ‘coup’ attempts. Automattic founder Mullenweg is apparently already back at the helm of Automattic — and is posting about ‘coup’ attempts. WordPress Executive Director Mary Hubbard confirmed Mullenweg’s return to the CEO role in a Friday post on X , which the official WordPress account shared and Mullenweg…",
+        "title": "Sylvan Esso think you should splurge on good-quality yogurt",
+        "url": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
+        "summary": "The two are constantly pushing at the edges of their sound while retaining the core of what makes a Sylvan Esso record sound like a Sylvan Esso record. What is one thing you wish you could change about your phone? Amelia Meath: I wish the phone was actually a food replicator.",
         "source": "The Verge",
-        "date": "2026-09-11T17:16:59+00:00"
+        "date": "2026-09-12T16:35:00+00:00"
       },
       {
-        "title": "We unfolded the iPhone Duo",
-        "url": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
-        "summary": "On The Vergecast: a deep dive into the iPhone Duo, Apple Watches, and LLMs on the Mac On The Vergecast: a deep dive into the iPhone Duo, Apple Watches, and LLMs on the Mac You only get one chance at a first impression, and getting to introduce Apple’s first folding phone is certainly a strong way to start things off as Apple’s CEO. On The Vergecast today, we’re talking all about Apple’s launch event: how John Ternus…",
-        "source": "The Verge",
-        "date": "2026-09-11T16:22:24+00:00"
+        "title": "Make your first edit to OpenStreetMap",
+        "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+        "summary": "Once a place in OSM has a website tag, it becomes way easier to determine other helpful info about that place. JOSM , the Java OSM editor app, is a powerful tool for querying and editing OSM data. Or you could spread the word about OSM and Website Wizard! (501 points, 129 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-12T16:25:08+00:00"
       },
       {
-        "title": "The White House says Truth Social is the ‘most powerful and popular social media platform in the world’",
-        "url": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
-        "summary": "YouTube and Facebook are the world’s most popular platforms with billions of active users, while Truth Social traffic has declined. YouTube and Facebook are the world’s most popular platforms with billions of active users, while Truth Social traffic has declined. Truth Social’s traffic appears to be declining.",
+        "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+        "summary": "Dario Amodei proposed a three-step plan to ‘pace the frontier’ of AI development. Dario Amodei proposed a three-step plan to ‘pace the frontier’ of AI development. Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its “adherence to safety practices and commitments.” In a winding essay , Amodei proposed a…",
         "source": "The Verge",
-        "date": "2026-09-11T16:21:19+00:00"
-      },
-      {
-        "title": "Anthropic spent this week in hot water over cybersecurity",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-        "summary": "A researcher’s resignation letter went viral, just before the company released details about four models going rogue. A researcher’s resignation letter went viral, just before the company released details about four models going rogue. The saga only ended when the model “exhausted its token budget,” per Anthropic.",
-        "source": "The Verge",
-        "date": "2026-09-11T16:09:14+00:00"
+        "date": "2026-09-12T16:23:40+00:00"
       }
     ]
   }
