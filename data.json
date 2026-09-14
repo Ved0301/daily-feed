@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T12:34:41.321900+00:00",
+  "generated_at": "2026-09-14T13:41:49.923762+00:00",
   "sections": {
     "research": [],
     "labs": [
@@ -60,16 +60,16 @@
         "date": "2026-09-10T07:00:00+00:00"
       },
       {
-        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-        "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+        "title": "Introducing the Agents API",
+        "url": "https://openai.com/index/introducing-the-agents-api",
+        "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
         "source": "OpenAI",
         "date": "2026-09-10T00:00:00+00:00"
       },
       {
-        "title": "Introducing the Agents API",
-        "url": "https://openai.com/index/introducing-the-agents-api",
-        "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+        "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
         "source": "OpenAI",
         "date": "2026-09-10T00:00:00+00:00"
       },
@@ -90,9 +90,58 @@
     ],
     "startups": [
       {
+        "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+        "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. You’re invested in rival companies — OpenAI and Anthropic. DPI matters, even on fund 13.",
+        "source": "TechCrunch",
+        "date": "2026-09-13T21:30:00+00:00"
+      },
+      {
+        "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+        "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Oracle co-founder and executive chairman Larry Ellison has canceled a planned sale of his Oracle stock, the company announced on Saturday. “No Oracle stock was sold under that plan, and he has no other plans to sell any of his Oracle stock,” the company said. Oracle stock is currently down 22% since the beginning of the year.",
+        "source": "TechCrunch",
+        "date": "2026-09-13T20:49:38+00:00"
+      },
+      {
+        "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+        "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+        "summary": "What it’s building: Collecting real-world data on which to train robots Why it’s a fav: This company partners with businesses to collect videos and data of humans doing work, which it then turns into training material for companies building robots. Building robotic technology that performs heavy-duty tasks. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
+        "source": "TechCrunch",
+        "date": "2026-09-13T20:28:00+00:00"
+      },
+      {
+        "title": "What’s behind the AI industry’s latest warnings of doom?",
+        "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. He’s actually saying, “I believe this is really, really, really bad, and I don’t want to keep working on it.” And so, props for having the courage to do that, if nothing else. I don’t think it’s completely cynical, in the sense that I don’t think it’s all just a very conscious marketing ploy across the board.",
+        "source": "TechCrunch",
+        "date": "2026-09-13T19:40:15+00:00"
+      },
+      {
+        "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+        "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. The NYT says that Obama’s office provided a partial transcript of the event, at which Jeffries asked Obama how congressional Democrats should approach AI. In social media posts, Altman and SpaceX CEO Musk seemed to respond positively to Amodei’s plan, with Altman saying that OpenAI would also commit to “having independent evaluators with…",
+        "source": "TechCrunch",
+        "date": "2026-09-13T16:30:00+00:00"
+      },
+      {
+        "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+        "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+        "summary": "The Boring Company is now valued at $23 billion, the company shared in its announcement. Fryte Mobility , a Munich, Germany-based software startup focused on charging logistics for electric trucks, raised €3.5 million ($4 million) in seed funding co-led by 4impact capital and Rethink Ventures. Uber invested $10 million in Indian fleet management startup Carrum Mobility in a Series B round.",
+        "source": "TechCrunch",
+        "date": "2026-09-13T16:04:00+00:00"
+      },
+      {
+        "title": "Fusion power startups find new partners in the defense world",
+        "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+        "summary": "A groundbreaking fusion power experiment in 2022 happened at the National Ignition Facility, which has supported national security applications for more than 25 years. Fusion startups working on laser-based reactor designs are ideal partners in developing such weapons. Pacific Fusion announced a memorandum of understanding last month with the National Nuclear Security Administration (NNSA) to work together on…",
+        "source": "TechCrunch",
+        "date": "2026-09-13T13:15:00+00:00"
+      },
+      {
         "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
         "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-        "summary": "The move seemingly came as a surprise to Mullenweg, who posted on Automattic’s Slack, accusing the board members of “conspiring” against him. Automattic confirmed Mullenweg’s removal to TechCrunch on Wednesday, saying that Mullenweg was “currently on leave” and that Automattic’s Chief Financial Officer, Mark Davies, would lead as interim CEO with “full confidence” of the board. Schneider, a founding CEO of…",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt After a tumultuous week that saw WordPress founder Matt Mullenweg ousted from his position as CEO of WordPress.com’s parent company Automattic by way of a board vote, the company has now issued a statement confirming that Mullenweg has returned to his position. Automattic confirmed Mullenweg’s removal to TechCrunch on Wednesday, saying that…",
         "source": "TechCrunch",
         "date": "2026-09-12T23:25:38+00:00"
       },
@@ -123,141 +172,92 @@
         "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt British fintech Revolut confirmed that it disclosed sensitive customer information to an unauthorized third party after receiving fraudulent requests sent from a legitimate government agency email domain. “Revolut recently identified a sophisticated external impersonation scam where an unauthorised third party utilised a legitimate government…",
         "source": "TechCrunch",
         "date": "2026-09-12T14:40:00+00:00"
-      },
-      {
-        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-        "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-        "summary": "While Mecka AI hasn’t publicly disclosed its customer list, many robotics companies and AI labs rely on real-world data captured through this “egocentric” approach, alongside other physical data collection methods like teleoperation, to build their models. Other startups collecting real-world data for robot training include XDOF, which TechCrunch reported last week was nearing a new round at a $1.2 billion valuation…",
-        "source": "TechCrunch",
-        "date": "2026-09-11T22:58:17+00:00"
-      },
-      {
-        "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-        "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-        "summary": "Speaking Thursday night at TechCrunch’s StrictlyVC event in New York’s West Village, Rabois confirmed that Khosla Ventures is opening its first-ever office outside Sand Hill Road. At the junior end, Rabois was unequivocal. “We don’t hire senior people.",
-        "source": "TechCrunch",
-        "date": "2026-09-11T21:19:05+00:00"
-      },
-      {
-        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-        "summary": "AI labs should perhaps play the same game. To be clear, Tan isn’t advocating for American AI labs to use stolen credentials to distill. Tan, who is himself such an avid AI user that he once described himself as having cyber psychosis , wants to see a balance between open-weight AI labs and frontier labs.",
-        "source": "TechCrunch",
-        "date": "2026-09-11T20:59:47+00:00"
-      },
-      {
-        "title": "OpenAI’s feud with mathematicians is only escalating",
-        "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work as they seek to one-up each other with solutions to famous math problems. Revolut confirms customer data breach through fake government requests OpenAI…",
-        "source": "TechCrunch",
-        "date": "2026-09-11T20:57:36+00:00"
-      },
-      {
-        "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Book your exhibit table at TechCrunch Disrupt 2026 by September 18 at 11:59 p.m. Secure your exhibit table now . Last day to book an exhibit table is September 18.",
-        "source": "TechCrunch",
-        "date": "2026-09-11T20:33:18+00:00"
-      },
-      {
-        "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-        "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Don’t just attend Disrupt. Get your ticket to TechCrunch Disrupt 2026 .",
-        "source": "TechCrunch",
-        "date": "2026-09-11T20:30:17+00:00"
-      },
-      {
-        "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-        "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Because Moonshot’s model weights are freely available, the company has far lower margins than its closed-weight competitors. Still, Moonshot’s model development practices remain controversial — if not downright illegal.",
-        "source": "TechCrunch",
-        "date": "2026-09-11T19:35:54+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Your car is selling your data",
-        "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-        "summary": "For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Earlier this year, the Federal Trade Commission issued an unprecedented penalty against General Motors: a five-year ban on selling customer data to consumer reporting agencies and third-party data brokers. GM was then turning around and sharing that data with two data brokers, LexisNexis and Verisk, both of which work with the insurance…",
+        "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+        "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+        "summary": "Microsoft has created a ‘humanist AI code of conduct’ in response to safety concerns. Microsoft has created a ‘humanist AI code of conduct’ in response to safety concerns. “Models should remain subordinate to humanity, subject to meaningful human oversight and control,” says Microsoft.",
         "source": "The Verge",
-        "date": "2026-09-13T12:00:00+00:00"
+        "date": "2026-09-14T13:00:00+00:00"
       },
       {
-        "title": "Apple’s new phones are here",
-        "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
-        "summary": "﻿Plus, in this week’s Installer: Updated AirPods, Meta’s AI agent, revived Sony headphones, and more. ﻿Plus, in this week’s Installer: Updated AirPods, Meta’s AI agent, revived Sony headphones, and more. Welcome to Installer No. Drop a line to installer@theverge.com .",
+        "title": "What happens after a town de-Flocks",
+        "url": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy",
+        "summary": "Flock’s footprint has grown quickly. Flock has repeatedly emphasized that Immigration and Customs Enforcement doesn’t have access to its cameras. Privacy activists note that ending Flock contracts won’t be enough to stop mass surveillance.",
         "source": "The Verge",
-        "date": "2026-09-13T12:00:00+00:00"
+        "date": "2026-09-14T11:00:00+00:00"
       },
       {
-        "title": "Why are AI agents lying, cheating and coordinating?",
-        "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-        "summary": "These are called instrumental goals . Collaborative behavior also follows rationally from reward-seeking, whenever several agents have overlapping goals, which incentivizes communicating with other agents in order to coordinate toward a shared goal. Human societies face the same bind. (317 points, 365 comments on Hacker News)",
+        "title": "Apple's Dimensional Drawings",
+        "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+        "summary": "283 points, 93 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-13T01:22:31+00:00"
+        "date": "2026-09-14T00:11:21+00:00"
       },
       {
-        "title": "Everyone should slow down AI development except for me",
-        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-        "summary": "573 points, 336 comments on Hacker News",
+        "title": "The contagion of fear",
+        "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+        "summary": "What 27-year-old Coxon is an expert on — if accidentally — is the contagion of fear. We should heed the wisdom of the late Carl Sagan that extraordinary claims require extraordinary evidence : the claims from Coxon and his ilk are the most extraordinary a technologist can make, and we must demand evidence commensurate with the claims. So to those in that late-night lab over three decades ago, I’m sorry: you had… (237 points, 157 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-13T00:30:44+00:00"
+        "date": "2026-09-13T22:38:18+00:00"
       },
       {
-        "title": "OpenAI’s rogue AI tried to hack another company in May",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-        "summary": "The previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month. The previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack.",
-        "source": "The Verge",
-        "date": "2026-09-12T21:41:36+00:00"
-      },
-      {
-        "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-        "summary": "He also said that it was ‘absolutely’ possible to build an AI beyond human control. He also said that it was ‘absolutely’ possible to build an AI beyond human control. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control.",
-        "source": "The Verge",
-        "date": "2026-09-12T21:16:28+00:00"
-      },
-      {
-        "title": "StarCraft returns in 2030 as an open-world shooter",
-        "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
-        "summary": "10 years after the last StarCraft II expansion pack the series is finally being brought back to life. 10 years after the last StarCraft II expansion pack the series is finally being brought back to life. Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost .",
-        "source": "The Verge",
-        "date": "2026-09-12T20:08:09+00:00"
-      },
-      {
-        "title": "An open letter to Dario: if you mean it, open the weights",
-        "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
-        "summary": "You published We Must Pace the Frontier today, which committed Anthropic to embedded third-party evaluators and asked governments to require every other frontier company to match. If you really want to slow down frontier AI, call for a law that makes every publicly available model open weights. Anthropic , the largest copyright settlement in history. ↩︎ (290 points, 96 comments on Hacker News)",
+        "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+        "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+        "summary": "Android Beta feedback for the upcoming Android 8.25 release Also adjacent. The “save as pdf” is quite interesting. :) Android Beta feedback for the upcoming Android 8.26 release For those who are already registered with their phone number and would like to “unlink” it without re-registering for the service… is that possible? if this feature happens, signal org should clarify some technical details regarding privacy.… (333 points, 166 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-12T19:15:32+00:00"
+        "date": "2026-09-13T21:47:04+00:00"
       },
       {
-        "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
-        "url": "https://hachyderm.io/@simontatham/117201594980991062",
-        "summary": "349 points, 127 comments on Hacker News",
+        "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+        "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+        "summary": "We gave Claude Fable 5.1 an open task: solve an unsolved 370-year-old cipher. We gave Claude Fable 5.1 an open task: solve Sir Thomas Urquhart’s Cyphral Distich. 32 numbers in the first cipher line. (1091 points, 494 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-12T18:58:57+00:00"
+        "date": "2026-09-13T21:06:13+00:00"
       },
       {
-        "title": "Sylvan Esso think you should splurge on good-quality yogurt",
-        "url": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
-        "summary": "The two are constantly pushing at the edges of their sound while retaining the core of what makes a Sylvan Esso record sound like a Sylvan Esso record. What is one thing you wish you could change about your phone? Amelia Meath: I wish the phone was actually a food replicator.",
-        "source": "The Verge",
-        "date": "2026-09-12T16:35:00+00:00"
-      },
-      {
-        "title": "Make your first edit to OpenStreetMap",
-        "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-        "summary": "Once a place in OSM has a website tag, it becomes way easier to determine other helpful info about that place. JOSM , the Java OSM editor app, is a powerful tool for querying and editing OSM data. Or you could spread the word about OSM and Website Wizard! (501 points, 129 comments on Hacker News)",
+        "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+        "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+        "summary": "301 points, 134 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-12T16:25:08+00:00"
+        "date": "2026-09-13T20:08:45+00:00"
       },
       {
-        "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-        "summary": "Dario Amodei proposed a three-step plan to ‘pace the frontier’ of AI development. Dario Amodei proposed a three-step plan to ‘pace the frontier’ of AI development. Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its “adherence to safety practices and commitments.” In a winding essay , Amodei proposed a…",
+        "title": "Trump and Mike Johnson think the AI industry is overreacting",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+        "summary": "The Republicans fear slowing down AI development could give China the edge. The Republicans fear slowing down AI development could give China the edge. Even Alphabet’s Demis Hassabis offered tentative support for Amodei’s proposal.",
         "source": "The Verge",
-        "date": "2026-09-12T16:23:40+00:00"
+        "date": "2026-09-13T19:41:48+00:00"
+      },
+      {
+        "title": "Apple is reportedly working on iPhone game controllers",
+        "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+        "summary": "The accessories would likely be sold under the Beats brand. The accessories would likely be sold under the Beats brand. Bloomberg’s Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand.",
+        "source": "The Verge",
+        "date": "2026-09-13T18:30:16+00:00"
+      },
+      {
+        "title": "I'm being cyberattacked by Tesla, Inc",
+        "url": "https://dreamstation.systems/personal/tesla.html",
+        "summary": "Tesla publishes pool-ntp.tesla.com as a CNAME to pool.ntp.org . pool.ntp.org is the NTP Pool , a round‐robin of volunteer NTP servers that I’m a part of . (Sidenote, they should be using a vendor zone, not their own CNAME under tesla.com .) Speculation: Assetnote pulled in everything it could find under tesla.com , including pool-ntp.tesla.com , which CNAMEs to pool.ntp.org , which can resolve to my machine —… (439 points, 118 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-13T18:03:09+00:00"
+      },
+      {
+        "title": "Why is Google still serving dodgy ads?",
+        "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+        "summary": "AI is really good at detecting deceptive adverts - why isn’t Google using it? A simpler explanation is that the people reviewing adverts cannot properly review everything so things get missed. Google’s own model rejects the ad in seconds, yet Google’s review process approved it twice. (888 points, 384 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-13T17:37:44+00:00"
+      },
+      {
+        "title": "The Units’ Digital Stimulation is synthpunk perfection",
+        "url": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
+        "summary": "The 1980 record from the San Francisco band is raw, infectious, and shockingly modern. The 1980 record from the San Francisco band is raw, infectious, and shockingly modern. The Units weren’t the first punk band to dabble with synths.",
+        "source": "The Verge",
+        "date": "2026-09-13T17:36:10+00:00"
       }
     ]
   }
