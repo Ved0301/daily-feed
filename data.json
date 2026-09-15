@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-09-14T13:41:49.923762+00:00",
+  "generated_at": "2026-09-15T12:29:45.098229+00:00",
   "sections": {
     "research": [],
     "labs": [
+      {
+        "title": "How Fyxer built an AI executive assistant people trust",
+        "url": "https://openai.com/index/fyxer",
+        "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+        "source": "OpenAI",
+        "date": "2026-09-14T12:00:00+00:00"
+      },
       {
         "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
         "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -60,13 +67,6 @@
         "date": "2026-09-10T07:00:00+00:00"
       },
       {
-        "title": "Introducing the Agents API",
-        "url": "https://openai.com/index/introducing-the-agents-api",
-        "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-        "source": "OpenAI",
-        "date": "2026-09-10T00:00:00+00:00"
-      },
-      {
         "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
         "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
         "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
@@ -74,11 +74,11 @@
         "date": "2026-09-10T00:00:00+00:00"
       },
       {
-        "title": "Paul Christiano joins OpenAI Foundation Board",
-        "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-        "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+        "title": "Introducing the Agents API",
+        "url": "https://openai.com/index/introducing-the-agents-api",
+        "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
         "source": "OpenAI",
-        "date": "2026-09-09T17:00:00+00:00"
+        "date": "2026-09-10T00:00:00+00:00"
       },
       {
         "title": "The AI policy window is open. We need to act.",
@@ -90,174 +90,174 @@
     ],
     "startups": [
       {
-        "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-        "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. You’re invested in rival companies — OpenAI and Anthropic. DPI matters, even on fund 13.",
+        "title": "New Italian unicorn Exein rides the physical AI wave",
+        "url": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Exein has already seen an increase in what Cuozzo calls “machine-speed attacks,” and intends to respond with a foundational model for Physical AI security. Cuozzo said being spread across three continents has been Exein’s main challenge so far.",
         "source": "TechCrunch",
-        "date": "2026-09-13T21:30:00+00:00"
+        "date": "2026-09-15T12:19:38+00:00"
       },
       {
-        "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-        "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Oracle co-founder and executive chairman Larry Ellison has canceled a planned sale of his Oracle stock, the company announced on Saturday. “No Oracle stock was sold under that plan, and he has no other plans to sell any of his Oracle stock,” the company said. Oracle stock is currently down 22% since the beginning of the year.",
+        "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+        "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+        "summary": "Koa is the company’s first reasoning model, built on Nvidia’s open-weight Nemotron model. But with the model, Salesforce is offering its enterprise customers: Koa will be provided as an alternative to the other models Salesforce offers in its Agentforce platform, where its customers build agents to handle rote tasks like answering customer service questions or scheduling appointments. Instead, they crafted synthetic…",
         "source": "TechCrunch",
-        "date": "2026-09-13T20:49:38+00:00"
+        "date": "2026-09-15T12:00:00+00:00"
       },
       {
-        "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-        "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-        "summary": "What it’s building: Collecting real-world data on which to train robots Why it’s a fav: This company partners with businesses to collect videos and data of humans doing work, which it then turns into training material for companies building robots. Building robotic technology that performs heavy-duty tasks. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
+        "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+        "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Correction: An earlier version of this piece identified the phone Jensen Huang used to take President Trump’s call as Apple’s iPhone Duo. Jensen Huang made headlines Monday at the All-In conference in L.A. when President Trump called him, live, on stage.",
         "source": "TechCrunch",
-        "date": "2026-09-13T20:28:00+00:00"
+        "date": "2026-09-15T01:50:48+00:00"
       },
       {
-        "title": "What’s behind the AI industry’s latest warnings of doom?",
-        "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. He’s actually saying, “I believe this is really, really, really bad, and I don’t want to keep working on it.” And so, props for having the courage to do that, if nothing else. I don’t think it’s completely cynical, in the sense that I don’t think it’s all just a very conscious marketing ploy across the board.",
+        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+        "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt While Nvidia CEO Jensen Huang was onstage at the All-In Summit on Monday morning in Los Angeles, he got a phone call that he couldn’t send to voicemail — it was from President Donald Trump. We’re not going to let that happen, sir,” Huang replied as the crowd broke into…",
         "source": "TechCrunch",
-        "date": "2026-09-13T19:40:15+00:00"
+        "date": "2026-09-14T21:51:02+00:00"
       },
       {
-        "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-        "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. The NYT says that Obama’s office provided a partial transcript of the event, at which Jeffries asked Obama how congressional Democrats should approach AI. In social media posts, Altman and SpaceX CEO Musk seemed to respond positively to Amodei’s plan, with Altman saying that OpenAI would also commit to “having independent evaluators with…",
+        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt OpenAI has bought smartphone camera maker Glass Imaging in a deal worth over $300 million, according to a report from The Wall Street Journal . Glass Imaging was founded by Ziv Attar and Tom Bishop, a pair of former Apple engineers who previously led the team that…",
         "source": "TechCrunch",
-        "date": "2026-09-13T16:30:00+00:00"
+        "date": "2026-09-14T20:44:14+00:00"
       },
       {
-        "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-        "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
-        "summary": "The Boring Company is now valued at $23 billion, the company shared in its announcement. Fryte Mobility , a Munich, Germany-based software startup focused on charging logistics for electric trucks, raised €3.5 million ($4 million) in seed funding co-led by 4impact capital and Rethink Ventures. Uber invested $10 million in Indian fleet management startup Carrum Mobility in a Series B round.",
+        "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+        "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Cornelis hopes to address this with a networking fabric that lets chips process and send information at the same time. Though Nvidia chips can technically run on other networking fabrics, they’re optimized to run on Nvidia’s own software, making it much easier — and more enticing — for customers to use Nvidia’s full GPU stack.",
         "source": "TechCrunch",
-        "date": "2026-09-13T16:04:00+00:00"
+        "date": "2026-09-14T20:07:37+00:00"
       },
       {
-        "title": "Fusion power startups find new partners in the defense world",
-        "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
-        "summary": "A groundbreaking fusion power experiment in 2022 happened at the National Ignition Facility, which has supported national security applications for more than 25 years. Fusion startups working on laser-based reactor designs are ideal partners in developing such weapons. Pacific Fusion announced a memorandum of understanding last month with the National Nuclear Security Administration (NNSA) to work together on…",
+        "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+        "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Amazon Prime Video is coming after TikTok with the addition of short-form news clips. The clips will be available in the News destination within the Prime Video app in its Trending Topics and the Local News carousels. Based on findings from Pew Research , these younger news consumers want short-form news content that “feels organic, not…",
         "source": "TechCrunch",
-        "date": "2026-09-13T13:15:00+00:00"
+        "date": "2026-09-14T18:14:29+00:00"
       },
       {
-        "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-        "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt After a tumultuous week that saw WordPress founder Matt Mullenweg ousted from his position as CEO of WordPress.com’s parent company Automattic by way of a board vote, the company has now issued a statement confirming that Mullenweg has returned to his position. Automattic confirmed Mullenweg’s removal to TechCrunch on Wednesday, saying that…",
+        "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+        "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+        "summary": "Security researchers now say that the latest ClickFix campaign they’ve seen involved hackers posting fake ads on Reddit, linking to a page that looks like HBO Max but contains a ClickFix lure that tricks people into hacking themselves. Reddit told TechCrunch it “recently learned that an HBO Max account authorized to run advertisements on Reddit was compromised and used to run ads containing malicious links,” and…",
         "source": "TechCrunch",
-        "date": "2026-09-12T23:25:38+00:00"
+        "date": "2026-09-14T18:08:43+00:00"
       },
       {
-        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt While OpenAI has filed confidentially for an IPO , the company will not be going public this year , according to CEO Sam Altman. Altman was interviewed recently by Fortune editor in chief Alyson Shontell; amidst the fallout from the OpenAI-HuggingFace hack , as well as…",
+        "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+        "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+        "summary": "Volkswagen had to make some compromises in the name of efficiency. One place Volkswagen didn’t compromise was the mirrors. While Volkswagen frequently calls the Mission Efficiency a “near production” vehicle, the company didn’t commit to actual production.",
         "source": "TechCrunch",
-        "date": "2026-09-12T20:19:16+00:00"
+        "date": "2026-09-14T17:41:20+00:00"
       },
       {
-        "title": "Anthropic CEO outlines plan to slow AI development",
-        "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. In a new blog post , Anthropic CEO Dario Amodei not only echoed the call to “pace the frontier,” but also outlined three broad strategies for doing so. “Progress will still seem fast, and we must make wise use of the time we gain.” Other AI executives seem to have reacted positively to Amodei’s post, with Altman writing , “I agree with…",
+        "title": "With iOS 27, I’m actually using Siri again",
+        "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+        "summary": "Over two years ago, Apple introduced Apple Intelligence and teased an advanced version of Siri . Siri can also take complex, multistep directions. In Settings, users can change Siri’s voice and expressiveness, as well.",
         "source": "TechCrunch",
-        "date": "2026-09-12T19:34:44+00:00"
+        "date": "2026-09-14T17:10:30+00:00"
       },
       {
-        "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-        "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt The long-awaited second generation of the Tesla Roadster might finally be ready for the public. Tesla’s second generation sports car was first announced in November 2017 and has been pushed back multiple times.",
+        "title": "macOS 27: new Siri takes on AI productivity apps",
+        "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+        "summary": "The new Siri is similar. The new operating system update also better highlights active windows. Starting today , macOS 27 Golden Gate is available for MacBook Air and MacBook Pro 2020 versions with Apple Silicon or later, iMac with Apple Silicon (2021 or later), Mac Mini (2020 or later), Mac Studio (2022 or later), Mac Pro (2023 or later), and MacBook Neo.",
         "source": "TechCrunch",
-        "date": "2026-09-12T19:21:19+00:00"
+        "date": "2026-09-14T17:10:09+00:00"
       },
       {
-        "title": "Revolut confirms customer data breach through fake government requests",
-        "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt British fintech Revolut confirmed that it disclosed sensitive customer information to an unauthorized third party after receiving fraudulent requests sent from a legitimate government agency email domain. “Revolut recently identified a sophisticated external impersonation scam where an unauthorised third party utilised a legitimate government…",
+        "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+        "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Daydream , an AI-powered fashion discovery app, launched two new features on Monday to let iPhone users turn saved outfit photos into shoppable results and search for clothing and accessories through Siri, without opening the app. Users can make requests by voice or text through Siri without having to open Daydream’s app. The launch fits into…",
         "source": "TechCrunch",
-        "date": "2026-09-12T14:40:00+00:00"
+        "date": "2026-09-14T17:00:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-        "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-        "summary": "Microsoft has created a ‘humanist AI code of conduct’ in response to safety concerns. Microsoft has created a ‘humanist AI code of conduct’ in response to safety concerns. “Models should remain subordinate to humanity, subject to meaningful human oversight and control,” says Microsoft.",
+        "title": "GM updates its trucks’ native software to coexist with CarPlay",
+        "url": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto",
+        "summary": "The automaker is introducing a new user interface for its Chevy Silverado and GMC Sierra trucks that includes, for the first time, picture-in-picture phone projection. The automaker is introducing a new user interface for its Chevy Silverado and GMC Sierra trucks that includes, for the first time, picture-in-picture phone projection. The solution: picture-in-picture phone mirroring, in which CarPlay and Android Auto…",
         "source": "The Verge",
-        "date": "2026-09-14T13:00:00+00:00"
+        "date": "2026-09-15T11:00:00+00:00"
       },
       {
-        "title": "What happens after a town de-Flocks",
-        "url": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy",
-        "summary": "Flock’s footprint has grown quickly. Flock has repeatedly emphasized that Immigration and Customs Enforcement doesn’t have access to its cameras. Privacy activists note that ending Flock contracts won’t be enough to stop mass surveillance.",
+        "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+        "url": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+        "summary": "The out-of-band update fixes Remote Desktop, USB audio, and Hyper-V issues. The out-of-band update fixes Remote Desktop, USB audio, and Hyper-V issues. Microsoft has also released updates for Windows Server 2025 and 2022, the LTSC versions of Windows 10, and Windows Server 2012 and Windows Server 2012 R2.",
         "source": "The Verge",
-        "date": "2026-09-14T11:00:00+00:00"
+        "date": "2026-09-15T08:54:48+00:00"
       },
       {
-        "title": "Apple's Dimensional Drawings",
-        "url": "https://developer.apple.com/accessories/dimensional-drawings/",
-        "summary": "283 points, 93 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-09-14T00:11:21+00:00"
-      },
-      {
-        "title": "The contagion of fear",
-        "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-        "summary": "What 27-year-old Coxon is an expert on — if accidentally — is the contagion of fear. We should heed the wisdom of the late Carl Sagan that extraordinary claims require extraordinary evidence : the claims from Coxon and his ilk are the most extraordinary a technologist can make, and we must demand evidence commensurate with the claims. So to those in that late-night lab over three decades ago, I’m sorry: you had… (237 points, 157 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-13T22:38:18+00:00"
-      },
-      {
-        "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-        "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-        "summary": "Android Beta feedback for the upcoming Android 8.25 release Also adjacent. The “save as pdf” is quite interesting. :) Android Beta feedback for the upcoming Android 8.26 release For those who are already registered with their phone number and would like to “unlink” it without re-registering for the service… is that possible? if this feature happens, signal org should clarify some technical details regarding privacy.… (333 points, 166 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-13T21:47:04+00:00"
-      },
-      {
-        "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-        "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-        "summary": "We gave Claude Fable 5.1 an open task: solve an unsolved 370-year-old cipher. We gave Claude Fable 5.1 an open task: solve Sir Thomas Urquhart’s Cyphral Distich. 32 numbers in the first cipher line. (1091 points, 494 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-13T21:06:13+00:00"
-      },
-      {
-        "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
-        "url": "https://twitter.com/TechEmails/status/2099214399840059428",
-        "summary": "301 points, 134 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-09-13T20:08:45+00:00"
-      },
-      {
-        "title": "Trump and Mike Johnson think the AI industry is overreacting",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-        "summary": "The Republicans fear slowing down AI development could give China the edge. The Republicans fear slowing down AI development could give China the edge. Even Alphabet’s Demis Hassabis offered tentative support for Amodei’s proposal.",
+        "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
+        "url": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
+        "summary": "The automaker’s updated PHEVs have bigger batteries, giving them the longest electric range of any plug-in hybrid on the market, Volvo says. The automaker’s updated PHEVs have bigger batteries, giving them the longest electric range of any plug-in hybrid on the market, Volvo says. Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30–50 miles of battery-only range: decent, but not…",
         "source": "The Verge",
-        "date": "2026-09-13T19:41:48+00:00"
+        "date": "2026-09-15T07:00:00+00:00"
       },
       {
-        "title": "Apple is reportedly working on iPhone game controllers",
-        "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
-        "summary": "The accessories would likely be sold under the Beats brand. The accessories would likely be sold under the Beats brand. Bloomberg’s Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand.",
-        "source": "The Verge",
-        "date": "2026-09-13T18:30:16+00:00"
-      },
-      {
-        "title": "I'm being cyberattacked by Tesla, Inc",
-        "url": "https://dreamstation.systems/personal/tesla.html",
-        "summary": "Tesla publishes pool-ntp.tesla.com as a CNAME to pool.ntp.org . pool.ntp.org is the NTP Pool , a round‐robin of volunteer NTP servers that I’m a part of . (Sidenote, they should be using a vendor zone, not their own CNAME under tesla.com .) Speculation: Assetnote pulled in everything it could find under tesla.com , including pool-ntp.tesla.com , which CNAMEs to pool.ntp.org , which can resolve to my machine —… (439 points, 118 comments on Hacker News)",
+        "title": "I can't stop thinking about Papua New Guinea",
+        "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+        "summary": "382 points, 143 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-13T18:03:09+00:00"
+        "date": "2026-09-15T06:16:24+00:00"
       },
       {
-        "title": "Why is Google still serving dodgy ads?",
-        "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-        "summary": "AI is really good at detecting deceptive adverts - why isn’t Google using it? A simpler explanation is that the people reviewing adverts cannot properly review everything so things get missed. Google’s own model rejects the ad in seconds, yet Google’s review process approved it twice. (888 points, 384 comments on Hacker News)",
+        "title": "Linux from Scratch",
+        "url": "https://www.linuxfromscratch.org/",
+        "summary": "Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code. Currently, the Linux From Scratch organization consists of the following subprojects: © 1998-2026 Gerard Beekmans. Website design by Jeremy Huntwork & Matthew Burgess. (238 points, 75 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-13T17:37:44+00:00"
+        "date": "2026-09-15T04:15:23+00:00"
       },
       {
-        "title": "The Units’ Digital Stimulation is synthpunk perfection",
-        "url": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
-        "summary": "The 1980 record from the San Francisco band is raw, infectious, and shockingly modern. The 1980 record from the San Francisco band is raw, infectious, and shockingly modern. The Units weren’t the first punk band to dabble with synths.",
+        "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+        "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+        "summary": "Now that Valve has finally launched its entire 2026 hardware lineup — the Steam Controller , the Steam Machine , and today’s Steam Frame — are we any closer to a next-gen Steam Deck handheld? Valve isn’t saying so yet. The real question is: Has Valve yet identified the future chip that will appear in the Steam Deck 2?",
         "source": "The Verge",
-        "date": "2026-09-13T17:36:10+00:00"
+        "date": "2026-09-15T00:13:47+00:00"
+      },
+      {
+        "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+        "summary": "Major AI companies want to ‘pace the frontier’ — but their proposed solutions need real teeth. Major AI companies want to ‘pace the frontier’ — but their proposed solutions need real teeth. Several sources believe that concerns of safety-washing are valid.",
+        "source": "The Verge",
+        "date": "2026-09-14T22:59:41+00:00"
+      },
+      {
+        "title": "Apple Home’s new security camera features cost as much as $60 a month",
+        "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+        "summary": "Apple Intelligence upgrades to HomeKit Secure Video come with a steep cost. Apple Intelligence upgrades to HomeKit Secure Video come with a steep cost. The change only applies if you want the new Apple Intelligence video features.",
+        "source": "The Verge",
+        "date": "2026-09-14T22:28:52+00:00"
+      },
+      {
+        "title": "Charts built for Chat",
+        "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+        "summary": "Transformation went to dbt. A complete dbt Charts board, rendered from one easy-to-read YAML file. Follow dbt-labs/dbt-charts#1 . (249 points, 78 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-14T21:22:54+00:00"
+      },
+      {
+        "title": "What execs and politicians are saying about slowing down AI development",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+        "summary": "Dario Amodei kicked off a flood of statements about AI safety after publishing a long essay, with Sam Altman, President Trump, and others speaking out. Dario Amodei kicked off a flood of statements about AI safety after publishing a long essay, with Sam Altman, President Trump, and others speaking out. “Dario is right,” Musk said , reposting Amodei’s essay.",
+        "source": "The Verge",
+        "date": "2026-09-14T21:21:42+00:00"
+      },
+      {
+        "title": "Trump throws out power plant climate pollution rules",
+        "url": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
+        "summary": "There couldn’t be a worse time for the US to stop regulating carbon pollution from power plants. There couldn’t be a worse time for the US to stop regulating carbon pollution from power plants. There is scientific consensus that greenhouse gas pollution from fossil fuels causes climate change .",
+        "source": "The Verge",
+        "date": "2026-09-14T20:45:00+00:00"
+      },
+      {
+        "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+        "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+        "summary": "Trump told attendees at the All-In Summit that ‘the robots will not be taking over’ from the Nvidia’s CEO phone. Trump told attendees at the All-In Summit that ‘the robots will not be taking over’ from the Nvidia’s CEO phone. Every industry, every company, every state, every people.” Huang also appealed to Trump by telling him he was speaking to “thousands” of people.",
+        "source": "The Verge",
+        "date": "2026-09-14T20:03:37+00:00"
       }
     ]
   }
