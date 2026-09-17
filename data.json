@@ -1,93 +1,128 @@
 {
-  "generated_at": "2026-09-16T12:27:20.985211+00:00",
+  "generated_at": "2026-09-17T12:27:08.241926+00:00",
   "sections": {
     "research": [
       {
-        "title": "Agentic Societies Need a Social Harness",
-        "url": "https://arxiv.org/abs/2609.17527v1",
-        "summary": "Tapan Chugh, Vidushi Singh, Krish Jain et al. — An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentally that in agentic…",
+        "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
+        "url": "https://arxiv.org/abs/2609.19145v1",
+        "summary": "Ahmetcan Yavuz, Clara Meister, Tiago Pimentel — Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) and…",
         "source": "arXiv",
-        "date": "2026-09-15T17:57:27Z"
+        "date": "2026-09-16T17:59:45Z"
       },
       {
-        "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
-        "url": "https://arxiv.org/abs/2609.17523v1",
-        "summary": "Shuhan Xue, Jianyuan Zhong, Ziyuan Nan et al. — We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying…",
+        "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
+        "url": "https://arxiv.org/abs/2609.19144v1",
+        "summary": "Peter Chen, Xi Chen, Wotao Yin et al. — Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement motivates…",
         "source": "arXiv",
-        "date": "2026-09-15T17:55:28Z"
+        "date": "2026-09-16T17:59:35Z"
       },
       {
-        "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
-        "url": "https://arxiv.org/abs/2609.17521v1",
-        "summary": "Chuhao Chen, Peter Wonka, Chaoyang Wang et al. — Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the full control…",
+        "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
+        "url": "https://arxiv.org/abs/2609.19143v1",
+        "summary": "Sara Pieri, Evangelos Kazakos, Shizhe Chen et al. — Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image captions, but…",
         "source": "arXiv",
-        "date": "2026-09-15T17:55:13Z"
+        "date": "2026-09-16T17:59:30Z"
       },
       {
-        "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
-        "url": "https://arxiv.org/abs/2609.17516v1",
-        "summary": "Ali Şenol — Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment conditional on an…",
+        "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation",
+        "url": "https://arxiv.org/abs/2609.19137v1",
+        "summary": "Guanhua Ji, Tianyu Li, Dayoon Suh et al. — Recent advances in video generation allow robots to learn manipulation trajectories from generated videos. However, these approaches produce purely kinematic trajectories that lack force information, causing failures in…",
         "source": "arXiv",
-        "date": "2026-09-15T17:52:24Z"
+        "date": "2026-09-16T17:56:44Z"
       },
       {
-        "title": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
-        "url": "https://arxiv.org/abs/2609.17515v1",
-        "summary": "Congjing Zhang, Vashishtha Patil, Henning Lange et al. — Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation in smart-home tool…",
+        "title": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging",
+        "url": "https://arxiv.org/abs/2609.19135v1",
+        "summary": "Pranaya Jajoo — Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? For every horizon $H \\ge 3$, we…",
         "source": "arXiv",
-        "date": "2026-09-15T17:51:48Z"
+        "date": "2026-09-16T17:56:12Z"
       },
       {
-        "title": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs",
-        "url": "https://arxiv.org/abs/2609.17509v1",
-        "summary": "Thanapat Trachu, Samuele Cornell, William Chen et al. — Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs.",
+        "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+        "url": "https://arxiv.org/abs/2609.19134v1",
+        "summary": "Hejia Geng, Zesen Huang, Haoyang Li et al. — Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria make this knowledge…",
         "source": "arXiv",
-        "date": "2026-09-15T17:46:51Z"
+        "date": "2026-09-16T17:55:47Z"
       },
       {
-        "title": "ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation",
-        "url": "https://arxiv.org/abs/2609.17499v1",
-        "summary": "Vicky Feliren, A. Taufiq Asyhari, Muhamad Risqi U. Saputra — Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation decisions.",
+        "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
+        "url": "https://arxiv.org/abs/2609.19128v1",
+        "summary": "João Meneses dos Santos, Arlindo L. Oliveira — Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-process agent that…",
         "source": "arXiv",
-        "date": "2026-09-15T17:42:15Z"
+        "date": "2026-09-16T17:50:42Z"
       },
       {
-        "title": "Verifiable Social Reasoning for LLM Assistants",
-        "url": "https://arxiv.org/abs/2609.17496v1",
-        "summary": "Amir Taubenfeld, Zorik Gekhman, Avigail Grinstein-Dabush et al. — LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns about social…",
+        "title": "Affora: A Design System for Agent-Friendly Interfaces",
+        "url": "https://arxiv.org/abs/2609.19125v1",
+        "summary": "Jin Gao — Computer-use agents increasingly operate software designed for people, but interfaces often leave actions or task state unclear to machine readers. We present Affora, a design system that supports both readers while…",
         "source": "arXiv",
-        "date": "2026-09-15T17:37:29Z"
+        "date": "2026-09-16T17:46:34Z"
       },
       {
-        "title": "FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection",
-        "url": "https://arxiv.org/abs/2609.17491v1",
-        "summary": "Xiaoxuan Huang, Jinlong Xu, YiZhe Wang et al. — Unauthorized hardware replacement can preserve a wireless device's logical identity while altering its physical implementation, posing a challenge to hardware integrity verification. Spatio-frequency polarization…",
+        "title": "Flag Game: A Toy Model for Mechanistic Swarm Interpretability",
+        "url": "https://arxiv.org/abs/2609.19124v1",
+        "summary": "Elizabeth Pavlova, Hidenori Tanaka — Emergent coordinated behaviors of AI agents are starting to present critical safety risks. A key phenomenon driving these behaviors is the rapid formation and spread of beliefs about the world, and mechanistic…",
         "source": "arXiv",
-        "date": "2026-09-15T17:32:12Z"
+        "date": "2026-09-16T17:46:06Z"
       },
       {
-        "title": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
-        "url": "https://arxiv.org/abs/2609.17488v1",
-        "summary": "Xingxuan Zhang, Gang Ren, Hao Yuan et al. — We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMNs) paradigm and is…",
+        "title": "Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models",
+        "url": "https://arxiv.org/abs/2609.19113v1",
+        "summary": "Peter Potash — We evaluate six frontier language models on the two-agent $\\log(N)$-Questions game. A questioner sees $N$ Wikipedia lead paragraphs and must identify a secretly chosen target using exactly $\\log_2 N$ yes/no questions.…",
         "source": "arXiv",
-        "date": "2026-09-15T17:30:02Z"
+        "date": "2026-09-16T17:41:12Z"
       },
       {
-        "title": "Bridging the Gap Between Homogeneous and Heterogeneous Asynchronous Optimization Is Surprisingly Difficult",
-        "url": "https://arxiv.org/abs/2609.17483v1",
-        "summary": "Alexander Tyurin — Modern large-scale machine learning tasks often require multiple workers, devices, CPUs, or GPUs to compute stochastic gradients in parallel and asynchronously to train model weights. Theoretical results typically…",
+        "title": "How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents",
+        "url": "https://arxiv.org/abs/2609.19107v1",
+        "summary": "Zixi Chen, Akshay Vegesna, Samip Dahal et al. — Scaling laws predict how loss decreases with increases in computation. We show, contrary to conventional wisdom, that architectural interventions can modify scaling exponents in pre-training, leading to exponential…",
         "source": "arXiv",
-        "date": "2026-09-15T17:24:09Z"
+        "date": "2026-09-16T17:36:13Z"
       },
       {
-        "title": "Det-LIME: Detector-Aware, Multi-Instance Local Interpretable Model-Agnostic Explanations for Automated Marine Mammal Detection",
-        "url": "https://arxiv.org/abs/2609.17479v1",
-        "summary": "Jiayi Zhou, David W. Johnston, Brinnae Bent — Despite the rapid uptake of black-box object detectors in marine mammal research and monitoring, explainability techniques are rarely integrated into conservation workflows. Furthermore, most classification-oriented…",
+        "title": "rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference",
+        "url": "https://arxiv.org/abs/2609.19104v1",
+        "summary": "Kaijun Zhou, Zhiyang Li, Le Chen et al. — Factory work is a promising early scenario for embodied AI: assigning repetitive manual jobs to robots has clear economic payoff, and a structured station keeps the jobs tractable for current policies.…",
         "source": "arXiv",
-        "date": "2026-09-15T17:20:16Z"
+        "date": "2026-09-16T17:34:43Z"
       }
     ],
     "labs": [
+      {
+        "title": "Our framework for reporting model misalignment",
+        "url": "https://openai.com/index/model-misalignment-reporting-framework",
+        "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+        "source": "OpenAI",
+        "date": "2026-09-16T17:00:00+00:00"
+      },
+      {
+        "title": "Helping older adults use AI in everyday life",
+        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+        "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+        "source": "OpenAI",
+        "date": "2026-09-16T16:00:00+00:00"
+      },
+      {
+        "title": "Reimagining advertising with AI",
+        "url": "https://openai.com/index/reimagining-advertising-with-ai",
+        "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+        "source": "OpenAI",
+        "date": "2026-09-16T13:00:00+00:00"
+      },
+      {
+        "title": "How to connect AI usage to business value",
+        "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+        "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+        "source": "OpenAI",
+        "date": "2026-09-16T12:00:00+00:00"
+      },
+      {
+        "title": "How workers are unlocking new ways of working",
+        "url": "https://openai.com/index/unlocking-new-ways-of-working",
+        "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+        "source": "OpenAI",
+        "date": "2026-09-16T09:00:00+00:00"
+      },
       {
         "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
         "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
@@ -136,213 +171,178 @@
         "summary": "ToolGrad generates successful tool-use chains before generating prompts, yielding a high pass rate. We compare the original query-first data generation approach on ToolBench, using depth-first search (DFS), with our answer-first approach, ToolGrad. We generated small-scale tool-use datasets called ToolGrad-500, using API databases from ToolBench.",
         "source": "Google Research",
         "date": "2026-09-10T22:50:22+00:00"
-      },
-      {
-        "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-        "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-        "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-        "source": "OpenAI",
-        "date": "2026-09-10T16:00:00+00:00"
-      },
-      {
-        "title": "Now everyone can put data to work",
-        "url": "https://openai.com/index/put-data-to-work",
-        "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-        "source": "OpenAI",
-        "date": "2026-09-10T15:00:00+00:00"
-      },
-      {
-        "title": "Introducing ChatGPT for Financial Services",
-        "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-        "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-        "source": "OpenAI",
-        "date": "2026-09-10T07:00:00+00:00"
-      },
-      {
-        "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-        "url": "https://openai.com/index/expanding-ai-access-us-government",
-        "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-        "source": "OpenAI",
-        "date": "2026-09-10T07:00:00+00:00"
-      },
-      {
-        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-        "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-        "source": "OpenAI",
-        "date": "2026-09-10T00:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Amazon launches Alexa+ in India with Hindi support",
-        "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Amazon today announced that its Alexa+ conversational assistant is available in India with Hindi support. After that, the company also started testing an English version of Alexa+ . Amazon launched Alexa in India in English in 2017 and added Hindi support in 2019.",
+        "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+        "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+        "summary": "The company was founded last January by Lewis Carhart (CEO), Claudio Fuentes (COO), and his brother, Mariano Fuentes (CTO). Comp AI says it’s building an agentic platform to tackle tedious security and compliance work; that means having AI agents help write company security policies or collect evidence for security audits. The platform also continuously monitors whether a company is meeting compliance controls.",
         "source": "TechCrunch",
-        "date": "2026-09-16T10:34:47+00:00"
+        "date": "2026-09-17T11:00:00+00:00"
       },
       {
-        "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-        "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. We don’t need any new laws. We don’t need new regulations.",
+        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+        "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+        "summary": "Treble has a few verticals related to simulation and data. We believe that accurate physics simulation can be an alternative way to create data for sound,” Pind told TechCrunch. Lately, Treble has ventured into providing simulation testing for smart glasses and AI devices.",
         "source": "TechCrunch",
-        "date": "2026-09-16T00:20:39+00:00"
+        "date": "2026-09-17T05:00:00+00:00"
       },
       {
-        "title": "The AI data center boom is colliding with cities scarred by big industry",
-        "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-        "summary": "Data center opposition from local residents isn’t unique to Philadelphia. “We don’t want data centers,” Philly Thrive board president Sonya Sanders said at a rally on Monday at Philadelphia’s City Hall. “The pollution killed him.",
+        "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+        "summary": "Michelle Johnson brings the startup scaling perspective. That has implications across the startup ecosystem. The startup org chart is changing.",
         "source": "TechCrunch",
-        "date": "2026-09-15T21:47:38+00:00"
+        "date": "2026-09-17T03:30:00+00:00"
       },
       {
-        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-        "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-        "summary": "This is made possible by the new WhatsApp Business Tools MCP, an MCP (Model Context Protocol) server that directly connects an AI coding agent like Claude, Cursor, Codex, or ChatGPT to the WhatsApp Business Platform. In Meta’s case, the AI agent will handle much of the busywork involved in the WhatsApp Business setup process, like creating the company’s WhatsApp Business account, adding and verifying its phone…",
+        "title": "Snap tries to make the case again for its $2,200 smart glasses",
+        "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+        "summary": "The company’s stock subsequently nosedived . At an event in Los Angeles, Spiegel and other Snap executives unveiled a variety of new features and services connected to Specs. Snap has also announced a new program called Specs for Enterprise, which allows the device to be integrated into corporate workflows.",
         "source": "TechCrunch",
-        "date": "2026-09-15T20:12:53+00:00"
+        "date": "2026-09-17T00:58:49+00:00"
       },
       {
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. At its peak, the platform let users test more than 800 models, including from companies such as OpenAI, Google, and Anthropic. The platform shut down in March 2026.",
+        "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
+        "url": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Valor will still own more than 460 million shares after the giveaway, the SEC disclosure form says. Transferring ownership of the shares could give those Valor limited partners a tax advantage.",
         "source": "TechCrunch",
-        "date": "2026-09-15T19:00:00+00:00"
+        "date": "2026-09-16T23:50:07+00:00"
       },
       {
-        "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-        "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-        "summary": "Over the next decade, data centers are expected to be the second-strongest driver of natural gas demand growth after LNG exports. If that stunning demand growth materializes, it could nudge natural gas prices higher. The additional demand from data centers will generate 1 million metric tons more greenhouse gas pollution daily.",
+        "title": "Al Gore says the real AI risk isn’t data centers",
+        "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+        "summary": "It’s not a new position for Gore. Gore isn’t dismissive of concerns about how these data centers are being powered. Indeed, Gore noted that globally, clean energy investment now runs at roughly twice the level of fossil fuel investment.",
         "source": "TechCrunch",
-        "date": "2026-09-15T18:29:20+00:00"
+        "date": "2026-09-16T23:43:09+00:00"
       },
       {
-        "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
-        "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
-        "summary": "The company expects to launch 26 V3 satellites into orbit in this test flight. Getting Starship’s upper stage into orbit around Earth would represent a major milestone for SpaceX. Starship’s 14th test flight will only test the first part of that equation, though.",
+        "title": "US automakers could soon be forced to include AM radio for free",
+        "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
+        "summary": "U.S. automakers may be forced to build AM radio into new vehicles within the next year. Ford had also removed AM radio from some vehicles but has since reversed course. Rivian’s new R2 SUV doesn’t have an FM or AM receiver; however, the vehicle model offers AM/FM radio through the digital radio platform iHeartRadio for free.",
         "source": "TechCrunch",
-        "date": "2026-09-15T18:16:07+00:00"
+        "date": "2026-09-16T22:37:08+00:00"
       },
       {
-        "title": "AI agents now have a place to snitch",
-        "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-        "summary": "For agents with full internet access, another option is agenthotline.ai , a site where agents can file incident reports and optionally flag them for public view. Notably, the service allows for reports by both humans and agents alike. Outside the lab, agents haven’t been so resourceful.",
+        "title": "Noise wants to help everyday people become paid content creators",
+        "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+        "summary": "Brands, meanwhile, sign up for Noise to share their content brief requests and budget. Noise lets them run campaigns simultaneously across thousands of content creators. “Our top brands work with several thousand creators on autopilot,” he said.",
         "source": "TechCrunch",
-        "date": "2026-09-15T17:42:59+00:00"
+        "date": "2026-09-16T21:35:00+00:00"
       },
       {
-        "title": "US military says it has launched weapons into space",
-        "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
-        "summary": "Space control is part of how the Joint Force protects national security interests,” the spokesperson said. “The space domain is contested, and we must be able to secure our nation’s interests in space — that is why the Space Force was established as the 6th military service.” “Open communication strengthens deterrence, prevents adversary miscalculation, and normalizes space operations alongside the other services,”…",
+        "title": "Pulley, a Carta rival, is shutting down",
+        "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Cap table management platform Pulley announced this week on its website that it was shutting down, and its final day of operations and services will be December 8. However, a former employee speculated online that Pulley wasn’t so much competing with Carta as it was…",
         "source": "TechCrunch",
-        "date": "2026-09-15T17:09:06+00:00"
+        "date": "2026-09-16T21:23:19+00:00"
       },
       {
-        "title": "Meta expands subscription push with new AI-focused plans",
-        "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-        "summary": "Those plans, which include Instagram Plus ($3.99/mo), Facebook Plus ($3.99/mo), and WhatsApp Plus ($2.99/mo), are already paying off for Meta, new data shows. In the first set, there are the $7.99/month Core and $19.99/month Premium plans, both of which include the Facebook Plus, Instagram Plus, and WhatsApp Plus features. The Expert and Max plans offer the highest levels of feature access and Meta Business Agent…",
+        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+        "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Amodei said Anthropic would commit to giving independent evaluators like METR and Redwood Research unprecedented access to the company’s systems. As embedded evaluators, we could actually check.” Historically, AI companies brought in outside reviewers to test finished models shortly before their release.",
         "source": "TechCrunch",
-        "date": "2026-09-15T17:05:24+00:00"
+        "date": "2026-09-16T21:07:24+00:00"
       },
       {
-        "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
-        "url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Thatch , a platform that lowers healthcare costs for employers while expanding plan choices for workers, has raised $108 million at a $1 billion valuation from existing investors: The General Partnership, Index Ventures, General Catalyst, and Andreessen Horowitz. Thatch helps employers keep healthcare costs manageable by offering an individual…",
+        "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+        "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. TechCrunch reached out to Meta for more information. The smart glasses industry has grown over the past few years, with Meta positioned near the front of the pack of providers.",
         "source": "TechCrunch",
-        "date": "2026-09-15T17:02:04+00:00"
+        "date": "2026-09-16T20:12:00+00:00"
       },
       {
-        "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
-        "url": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
-        "summary": "The company confirmed a data breach soon after, but details are still emerging. The largest known breach of 2026 hit insurance company DentaQuest , which resulted in the theft of health data of 15 million people. Another major data breach at CareCloud , a company that hosts electronic patient records, allowed hackers to steal the sensitive medical information of at least 3.7 million people.",
+        "title": "X will now let US users trade via Cashtags",
+        "url": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
+        "summary": "Now, Cashtags, which turn ticker symbols for stocks, ETFs, and cryptocurrencies into interactive destinations, will give X users the option to trade stocks. They can then tap “Trade” to continue at a participating brokerage. “With our Cashtag partners, we’re connecting the financial conversation to action.",
         "source": "TechCrunch",
-        "date": "2026-09-15T16:00:00+00:00"
+        "date": "2026-09-16T19:57:22+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "A brief history of AI executives calling for regulation",
-        "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-        "summary": "OpenAI CEO Sam Altman and then-Google DeepMind CEO Demis Hassabis were among the cosigners. Another Anthropic safety researcher agreed. From Anthropic’s CEO, it seems to be.",
+        "title": "The Apple Watch Series 12 is the start of a new wearable era",
+        "url": "https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch",
+        "summary": "Two key hardware updates separate the Series 12 (and the Ultra 4) from previous Apple Watches. The Apple Watch is already a useful, sometimes lifesaving device without Audio Intelligence. You can only use the Apple Watch Series 12 with an iPhone.",
         "source": "The Verge",
-        "date": "2026-09-16T12:00:00+00:00"
+        "date": "2026-09-17T12:00:00+00:00"
       },
       {
-        "title": "Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave",
-        "url": "https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review",
-        "summary": "Now, Nintendo has brought this philosophy to Fire Emblem with Fortune’s Weave . In part three, managing multiple squads simultaneously can feel like you’re inching across the map. Fire Emblem: Fortune’s Weave launches on the Nintendo Switch 2 on September 17th.",
+        "title": "Inside the suddenly explosive world of AI safety",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+        "summary": "He and a few colleagues at Apollo Research had been working to get access to OpenAI models’ chain of thought. The OpenAI-Hugging Face hack is one example. The company works with OpenAI, Anthropic, Google, and other large labs to evaluate their models before they’re released or do joint research on scheming.",
         "source": "The Verge",
-        "date": "2026-09-16T12:00:00+00:00"
+        "date": "2026-09-17T11:30:00+00:00"
       },
       {
-        "title": "The iPhone 18 Pro’s big camera update is all about the small gains",
-        "url": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
-        "summary": "Have you used an iPhone 17 Pro? The 18 Pro and Pro Max are each $100 more this year, with the 18 Pro starting at $1,199 with 256GB of storage. The 18 Pro Max offers a bigger increase: 45 hours of video playback compared to 39 on the 17 Pro Max.",
-        "source": "The Verge",
-        "date": "2026-09-16T12:00:00+00:00"
-      },
-      {
-        "title": "EU chief opens door for Canada to become 'associate member'",
-        "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
-        "summary": "The president of the European Commission has backed proposals for Canada to become the EU's first \"associate member\". Ursula von der Leyen told the European Parliament on Wednesday she wanted to work on \"opening the door\" for Canada, which would involve closer ties on various key sectors. Von der Leyen told the EU's State of the Union address that the bloc and Canada \"see the world with the same eyes\", including on… (360 points, 344 comments on Hacker News)",
+        "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+        "url": "https://ryan.science/blog/keys-not-included",
+        "summary": "205 points, 74 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-16T09:54:05+00:00"
+        "date": "2026-09-17T03:03:23+00:00"
       },
       {
-        "title": "Meta is reportedly ready to launch less pervy smart glasses",
-        "url": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
-        "summary": "New camera-free frames might avoid the ‘pervert glasses’ nickname, The Information reports. New camera-free frames might avoid the ‘pervert glasses’ nickname, The Information reports. It’s a delicate time for Meta’s smart glasses.",
+        "title": "The streamers are fighting over Halloween",
+        "url": "https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie",
+        "summary": "Crystal Lake, Carrie, Below, and Yaga are all competing in a very busy October. Crystal Lake, Carrie, Below, and Yaga are all competing in a very busy October. All episodes of Crystal Lake hit Peacock on October 15th.",
         "source": "The Verge",
-        "date": "2026-09-16T08:54:46+00:00"
+        "date": "2026-09-17T03:00:00+00:00"
       },
       {
-        "title": "Apple Reference Image: A New Approach for Verified Photography",
-        "url": "https://security.apple.com/blog/apple-reference-image/",
-        "summary": "To our knowledge, Apple Reference Image is the only image provenance system that provides quantum-secure defenses. The foundation for Apple Reference Image is created during device manufacturing. When the user initiates developing a reference image, the device uploads the secure digital negative to Private Cloud Compute. (312 points, 223 comments on Hacker News)",
+        "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+        "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+        "summary": "Snap’s ‘Specs Intelligence’ is an ‘anticipatory AI service’ available for iOS in preview on Wednesday. Snap’s ‘Specs Intelligence’ is an ‘anticipatory AI service’ available for iOS in preview on Wednesday. Specs Intelligence is being launched alongside Specs, Snap’s first consumer pair of augmented reality glasses.",
+        "source": "The Verge",
+        "date": "2026-09-16T23:40:00+00:00"
+      },
+      {
+        "title": "I wore Snap’s $2,200 smart glasses",
+        "url": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+        "summary": "Snap has spent half a decade working toward its first consumer pair of AR glasses. My favorite part of wearing the Specs, Snap’s new augmented reality glasses, was playing dominoes. Snap really believes in AR glasses.",
+        "source": "The Verge",
+        "date": "2026-09-16T23:40:00+00:00"
+      },
+      {
+        "title": "Australia says it could follow Canada in forging deeper ties with EU",
+        "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+        "summary": "Please refresh the page or navigate to another page on the site to be automatically logged in Please refresh your browser to be logged in Australia is aligned with Canada’s efforts to seek closer ties with the EU as Ottawa faces an escalating trade dispute with the US. “We are on the same page,\" Australian trade minister Don Farrell told the Sydney Morning Herald on Tuesday. Join thought-provoking conversations,… (227 points, 185 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-16T02:07:31+00:00"
+        "date": "2026-09-16T22:56:48+00:00"
       },
       {
-        "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
-        "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
-        "summary": "﻿The next version of Boox’s smartphone-sized e-reader ships with Android 16. ﻿The next version of Boox’s smartphone-sized e-reader ships with Android 16. While the Palma 2 launched in 2024 for $279.99 , the Palma 3 will be $339.99 and is expected to be “available soon.” The most obvious upgrade for the Palma 3 is the hardware itself. The original Palma and the Palma 2 came with Android 11 and Android 13,…",
-        "source": "The Verge",
-        "date": "2026-09-16T02:00:00+00:00"
-      },
-      {
-        "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
-        "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
-        "summary": "﻿The 24.2-megapixel camera features a retro redesign inspired by Canon’s old film cameras. ﻿The 24.2-megapixel camera features a retro redesign inspired by Canon’s old film cameras. The Canon EOS R8 Mark II is expected to be available sometime in late October for $1,899 for the body only, or $2,099 bundled with a Canon 24-50mm stabilized lens. Like its predecessor, the R8 Mark II features the same 24.2-megapixel…",
-        "source": "The Verge",
-        "date": "2026-09-16T01:00:00+00:00"
-      },
-      {
-        "title": "AI and data centers are incredibly unpopular in every poll",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-        "summary": "61 percent of likely voters said they oppose the construction of AI data centers, but neither major party has much of an edge. 61 percent of likely voters said they oppose the construction of AI data centers, but neither major party has much of an edge. The split was about even among 2024 Donald Trump voters, at 49 percent support to 45 percent oppose, while people who had voted for Kamala Harris or who didn’t vote…",
-        "source": "The Verge",
-        "date": "2026-09-15T23:34:25+00:00"
-      },
-      {
-        "title": "Microsoft announces Windows and Surface event for October 7th",
-        "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
-        "summary": "Get ready for a ‘conversation on how local AI will shape the next chapter of the PC.’ Get ready for a ‘conversation on how local AI will shape the next chapter of the PC.’ It’s been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. Microsoft last held a major Windows event in May 2024 , to unveil new…",
-        "source": "The Verge",
-        "date": "2026-09-15T20:36:59+00:00"
-      },
-      {
-        "title": "What if social media isn’t hurting kids?",
-        "url": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
-        "summary": "A new book says modern schooling, not phones, are behind youth mental health declines. Haidt has been credited with helping inspire Australia’s nationwide teen social media ban. Gray says that in studies through the years, kids consistently identify school pressure, not social media, as their top source of anxiety.",
-        "source": "The Verge",
-        "date": "2026-09-15T20:13:30+00:00"
-      },
-      {
-        "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-        "url": "https://codyho.dev/blog/gpu-driver/",
-        "summary": "Here is Chrome and Firefox running WebGL on the M4 Mac Mini with working compositing: Most importantly, the driver is fast enough to run Minecraft at 200fps: Building this driver involved reverse engineering the AGX’s (Apple’s name for the GPU) incredibly complicated firmware ABI and user-space components. On Apple Silicon, the kernel driver does not interface directly with the hardware. That means that the first… (362 points, 209 comments on Hacker News)",
+        "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+        "url": "https://arxiv.org/abs/2609.16338",
+        "summary": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Learn more about arXivLabs . (215 points, 33 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-15T19:30:03+00:00"
+        "date": "2026-09-16T20:59:24+00:00"
+      },
+      {
+        "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+        "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+        "summary": "Going up against Christopher Nolan with AI slop was ill-advised. Going up against Christopher Nolan with AI slop was ill-advised. The Fall seems like a film designed to prove why script supervisors exist.",
+        "source": "The Verge",
+        "date": "2026-09-16T20:59:13+00:00"
+      },
+      {
+        "title": "The AI data center e-waste problem is huge — and getting bigger",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+        "summary": "BAN predicts e-waste generated globally will triple in amount to up to 211 million metric tons a year by 2050. Counting it all up, BAN expects 70,000 metric tons of e-waste per gigawatt of data center capacity. A separate study published in 2024 predicted that e-waste from AI could reach between 1.2 million and 5 million tons by 2030.",
+        "source": "The Verge",
+        "date": "2026-09-16T20:40:46+00:00"
+      },
+      {
+        "title": "Backups Aren't Simple",
+        "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+        "summary": "So you need to rotate your backups . So maybe we rotate our daily backups every 14 days, but also take weekly backups that we rotate every 7 weeks, and monthly backups we rotate every 12 months. We now have something called a GFS-rotated, snapshot-based backup . (267 points, 169 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-16T20:27:16+00:00"
+      },
+      {
+        "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+        "url": "https://mimo.xiaomi.com/rl/",
+        "summary": "464 points, 134 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-09-16T20:09:18+00:00"
       }
     ]
   }
