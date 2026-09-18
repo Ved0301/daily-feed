@@ -1,93 +1,114 @@
 {
-  "generated_at": "2026-09-17T12:27:08.241926+00:00",
+  "generated_at": "2026-09-18T12:05:55.195044+00:00",
   "sections": {
     "research": [
       {
-        "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
-        "url": "https://arxiv.org/abs/2609.19145v1",
-        "summary": "Ahmetcan Yavuz, Clara Meister, Tiago Pimentel — Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) and…",
+        "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+        "url": "https://arxiv.org/abs/2609.20822v1",
+        "summary": "Bingxin Xu, Yuzhang Shang, Zhen Dong et al. — Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific…",
         "source": "arXiv",
-        "date": "2026-09-16T17:59:45Z"
+        "date": "2026-09-17T17:59:58Z"
       },
       {
-        "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
-        "url": "https://arxiv.org/abs/2609.19144v1",
-        "summary": "Peter Chen, Xi Chen, Wotao Yin et al. — Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement motivates…",
+        "title": "Embedding Models Measure in Peculiar Ways",
+        "url": "https://arxiv.org/abs/2609.20821v1",
+        "summary": "Juri Opitz, Andrianos Michail — Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic…",
         "source": "arXiv",
-        "date": "2026-09-16T17:59:35Z"
+        "date": "2026-09-17T17:59:54Z"
       },
       {
-        "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
-        "url": "https://arxiv.org/abs/2609.19143v1",
-        "summary": "Sara Pieri, Evangelos Kazakos, Shizhe Chen et al. — Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image captions, but…",
+        "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+        "url": "https://arxiv.org/abs/2609.20820v1",
+        "summary": "Nitish Dashora, Douglas Chen, Idan Shenfeld et al. — Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many…",
         "source": "arXiv",
-        "date": "2026-09-16T17:59:30Z"
+        "date": "2026-09-17T17:59:53Z"
       },
       {
-        "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation",
-        "url": "https://arxiv.org/abs/2609.19137v1",
-        "summary": "Guanhua Ji, Tianyu Li, Dayoon Suh et al. — Recent advances in video generation allow robots to learn manipulation trajectories from generated videos. However, these approaches produce purely kinematic trajectories that lack force information, causing failures in…",
+        "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+        "url": "https://arxiv.org/abs/2609.20817v1",
+        "summary": "Kevin Qu, Tao Sun, Massimiliano Viola et al. — Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation…",
         "source": "arXiv",
-        "date": "2026-09-16T17:56:44Z"
+        "date": "2026-09-17T17:59:40Z"
       },
       {
-        "title": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging",
-        "url": "https://arxiv.org/abs/2609.19135v1",
-        "summary": "Pranaya Jajoo — Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? For every horizon $H \\ge 3$, we…",
+        "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
+        "url": "https://arxiv.org/abs/2609.20816v1",
+        "summary": "Ji Xie, Dewei Zhou, Xinyu Huang et al. — Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, editing, and…",
         "source": "arXiv",
-        "date": "2026-09-16T17:56:12Z"
+        "date": "2026-09-17T17:59:30Z"
       },
       {
-        "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
-        "url": "https://arxiv.org/abs/2609.19134v1",
-        "summary": "Hejia Geng, Zesen Huang, Haoyang Li et al. — Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria make this knowledge…",
+        "title": "ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis",
+        "url": "https://arxiv.org/abs/2609.20815v1",
+        "summary": "Zahra Ghaffari, Massih Bahar, Mojgan Forootan et al. — Hereditary polyposis syndromes can be precursor lesions to colorectal cancer and are associated with a broad spectrum of extracolonic tumors. Early identification and accurate classification of these syndromes are…",
         "source": "arXiv",
-        "date": "2026-09-16T17:55:47Z"
+        "date": "2026-09-17T17:59:28Z"
       },
       {
-        "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
-        "url": "https://arxiv.org/abs/2609.19128v1",
-        "summary": "João Meneses dos Santos, Arlindo L. Oliveira — Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-process agent that…",
+        "title": "How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?",
+        "url": "https://arxiv.org/abs/2609.20814v1",
+        "summary": "Pochinapeddi Sai Bhargav, Nithin Somasekharan, Rohit Sunil Kanchi et al. — Pretraining a neural PDE surrogate can reduce the amount of new CFD data needed when geometry or modeled physics changes. However, it remains unclear how different components of distribution shift affect this benefit.…",
         "source": "arXiv",
-        "date": "2026-09-16T17:50:42Z"
+        "date": "2026-09-17T17:59:24Z"
       },
       {
-        "title": "Affora: A Design System for Agent-Friendly Interfaces",
-        "url": "https://arxiv.org/abs/2609.19125v1",
-        "summary": "Jin Gao — Computer-use agents increasingly operate software designed for people, but interfaces often leave actions or task state unclear to machine readers. We present Affora, a design system that supports both readers while…",
+        "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
+        "url": "https://arxiv.org/abs/2609.20812v1",
+        "summary": "Nolan Smyth, Yorguin-Jose Mantilla-Ramos, Pascal Jr Tikeng Notsawo et al. — Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to…",
         "source": "arXiv",
-        "date": "2026-09-16T17:46:34Z"
+        "date": "2026-09-17T17:59:04Z"
       },
       {
-        "title": "Flag Game: A Toy Model for Mechanistic Swarm Interpretability",
-        "url": "https://arxiv.org/abs/2609.19124v1",
-        "summary": "Elizabeth Pavlova, Hidenori Tanaka — Emergent coordinated behaviors of AI agents are starting to present critical safety risks. A key phenomenon driving these behaviors is the rapid formation and spread of beliefs about the world, and mechanistic…",
+        "title": "Unifying Models of Intergroup Hostility in Online Discourse",
+        "url": "https://arxiv.org/abs/2609.20808v1",
+        "summary": "Patrick Gerard, Julia Mendelsohn, Kristina Lerman — Hostile rhetoric toward social groups can normalize exclusion and justify mistreatment, as well as contribute to rising polarization and political violence. Efforts to moderate hostile rhetoric in online speech draw on…",
         "source": "arXiv",
-        "date": "2026-09-16T17:46:06Z"
+        "date": "2026-09-17T17:58:25Z"
       },
       {
-        "title": "Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models",
-        "url": "https://arxiv.org/abs/2609.19113v1",
-        "summary": "Peter Potash — We evaluate six frontier language models on the two-agent $\\log(N)$-Questions game. A questioner sees $N$ Wikipedia lead paragraphs and must identify a secretly chosen target using exactly $\\log_2 N$ yes/no questions.…",
+        "title": "Score Centering Stabilizes Off-policy Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2609.20807v1",
+        "summary": "Martin Marek, Max Ryabinin — Reinforcement learning (RL) of large language models is notoriously sensitive to small differences between training and inference engines, often referred to as the training-inference mismatch (TIM).",
         "source": "arXiv",
-        "date": "2026-09-16T17:41:12Z"
+        "date": "2026-09-17T17:58:17Z"
       },
       {
-        "title": "How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents",
-        "url": "https://arxiv.org/abs/2609.19107v1",
-        "summary": "Zixi Chen, Akshay Vegesna, Samip Dahal et al. — Scaling laws predict how loss decreases with increases in computation. We show, contrary to conventional wisdom, that architectural interventions can modify scaling exponents in pre-training, leading to exponential…",
+        "title": "An Empirical Study of Harness Design for Coding Agents",
+        "url": "https://arxiv.org/abs/2609.20804v1",
+        "summary": "Run-Ze Fan, Zihao Zhang, Simin Ma et al. — Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the…",
         "source": "arXiv",
-        "date": "2026-09-16T17:36:13Z"
+        "date": "2026-09-17T17:58:07Z"
       },
       {
-        "title": "rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference",
-        "url": "https://arxiv.org/abs/2609.19104v1",
-        "summary": "Kaijun Zhou, Zhiyang Li, Le Chen et al. — Factory work is a promising early scenario for embodied AI: assigning repetitive manual jobs to robots has clear economic payoff, and a structured station keeps the jobs tractable for current policies.…",
+        "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+        "url": "https://arxiv.org/abs/2609.20800v1",
+        "summary": "Taoyong Cui, Zhongyao Wang, Xinyue Xu et al. — World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support world modeling…",
         "source": "arXiv",
-        "date": "2026-09-16T17:34:43Z"
+        "date": "2026-09-17T17:55:57Z"
       }
     ],
     "labs": [
+      {
+        "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+        "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+        "summary": "Learning is not a spectator sport . Active learning is one of the key learning science principles that we optimize for in our research. Average ratings of pedagogical criteria by expert teachers for 40 STEM learning interactives.",
+        "source": "Google Research",
+        "date": "2026-09-17T20:45:00+00:00"
+      },
+      {
+        "title": "How Cooley is accelerating IPO work with ChatGPT",
+        "url": "https://openai.com/index/cooley-gopublic",
+        "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+        "source": "OpenAI",
+        "date": "2026-09-17T12:00:00+00:00"
+      },
+      {
+        "title": "Introducing Astra for Law",
+        "url": "https://openai.com/index/astra-for-law",
+        "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+        "source": "OpenAI",
+        "date": "2026-09-17T00:00:00+00:00"
+      },
       {
         "title": "Our framework for reporting model misalignment",
         "url": "https://openai.com/index/model-misalignment-reporting-framework",
@@ -128,7 +149,7 @@
         "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
         "summary": "Pengcheng Jiang, Student Researcher, and Judith Yue Li, Senior Research Engineer, Google Research Instead of relying on expensive inference-time reasoning, the Retrieve-for-Train framework uses reinforcement learning once to train a lightweight diffusion model. Across both retrieval tasks, Retrieve-for-Train outperformed traditional single-query search, zero-shot expansion, and even the heavily optimized Best-of-N…",
         "source": "Google Research",
-        "date": "2026-09-15T20:00:35+00:00"
+        "date": "2026-09-15T20:00:00+00:00"
       },
       {
         "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
@@ -150,199 +171,178 @@
         "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
         "source": "OpenAI",
         "date": "2026-09-14T00:00:00+00:00"
-      },
-      {
-        "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-        "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-        "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-        "source": "OpenAI",
-        "date": "2026-09-11T16:00:00+00:00"
-      },
-      {
-        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-        "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-        "source": "OpenAI",
-        "date": "2026-09-11T10:00:00+00:00"
-      },
-      {
-        "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
-        "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
-        "summary": "ToolGrad generates successful tool-use chains before generating prompts, yielding a high pass rate. We compare the original query-first data generation approach on ToolBench, using depth-first search (DFS), with our answer-first approach, ToolGrad. We generated small-scale tool-use datasets called ToolGrad-500, using API databases from ToolBench.",
-        "source": "Google Research",
-        "date": "2026-09-10T22:50:22+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
-        "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
-        "summary": "The company was founded last January by Lewis Carhart (CEO), Claudio Fuentes (COO), and his brother, Mariano Fuentes (CTO). Comp AI says it’s building an agentic platform to tackle tedious security and compliance work; that means having AI agents help write company security policies or collect evidence for security audits. The platform also continuously monitors whether a company is meeting compliance controls.",
+        "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+        "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Geothermal startup Mazama Energy raised $135 million in an oversubscribed Series B, the startup said Thursday. Mazama plans to start generating electricity sometime next year and said its first site in Oregon is capable of producing 10 gigawatts of electricity. Unlike previous geothermal projects, enhanced geothermal startups are targeting deeper…",
         "source": "TechCrunch",
-        "date": "2026-09-17T11:00:00+00:00"
+        "date": "2026-09-18T00:02:36+00:00"
       },
       {
-        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-        "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-        "summary": "Treble has a few verticals related to simulation and data. We believe that accurate physics simulation can be an alternative way to create data for sound,” Pind told TechCrunch. Lately, Treble has ventured into providing simulation testing for smart glasses and AI devices.",
+        "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+        "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+        "summary": "Crusoe recently signed a massive $13 billion , five-year cloud contract to supply quantitative trading firm Jane Street with GPUs and AI infrastructure, Bloomberg reported. The fresh fundraise comes 10 months after Crusoe raised $1.38 billion at a $10 billion valuation last October. Crusoe’s customers include Meta, Microsoft, and Oracle.",
         "source": "TechCrunch",
-        "date": "2026-09-17T05:00:00+00:00"
+        "date": "2026-09-17T23:25:52+00:00"
       },
       {
-        "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-        "summary": "Michelle Johnson brings the startup scaling perspective. That has implications across the startup ecosystem. The startup org chart is changing.",
+        "title": "Google DeepMind launches institute to widen the AGI debate",
+        "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Google and Google DeepMind researchers launched the DeepMind Institute on Wednesday to advance the conversation around artificial general intelligence (AGI). The institute lists DeepMind co-founder Shane Legg, Google executive James Manyika, and Google DeepMind chair Demis Hassabis as directors, with Legg serving as managing editor. The new…",
         "source": "TechCrunch",
-        "date": "2026-09-17T03:30:00+00:00"
+        "date": "2026-09-17T23:21:17+00:00"
       },
       {
-        "title": "Snap tries to make the case again for its $2,200 smart glasses",
-        "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-        "summary": "The company’s stock subsequently nosedived . At an event in Los Angeles, Spiegel and other Snap executives unveiled a variety of new features and services connected to Specs. Snap has also announced a new program called Specs for Enterprise, which allows the device to be integrated into corporate workflows.",
+        "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+        "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+        "summary": "This doesn’t mean Las Vegas is about to be inundated with hundreds of Zoox robotaxis. And for now, Las Vegas remains the only city where Zoox is charging for rides. The company opened its robotaxi service to customers in Las Vegas earlier this month.",
         "source": "TechCrunch",
-        "date": "2026-09-17T00:58:49+00:00"
+        "date": "2026-09-17T23:08:24+00:00"
       },
       {
-        "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
-        "url": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Valor will still own more than 460 million shares after the giveaway, the SEC disclosure form says. Transferring ownership of the shares could give those Valor limited partners a tax advantage.",
+        "title": "PrismML hopes its tiny LLM will change how we all use AI",
+        "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+        "summary": "PrismML is betting that capable, high-performing, reasoning large language models don’t, in fact, have to be large. That original model has already been downloaded over 11 million times, and PrismML’s even smaller models have been downloaded another 2.6 million times, the company says. Compression will likely always have some impact, Hassibi says.",
         "source": "TechCrunch",
-        "date": "2026-09-16T23:50:07+00:00"
+        "date": "2026-09-17T22:34:09+00:00"
       },
       {
-        "title": "Al Gore says the real AI risk isn’t data centers",
-        "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-        "summary": "It’s not a new position for Gore. Gore isn’t dismissive of concerns about how these data centers are being powered. Indeed, Gore noted that globally, clean energy investment now runs at roughly twice the level of fossil fuel investment.",
+        "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+        "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt The Federal Aviation Administration has been struggling to manage an air traffic control shortage throughout the country. One of those solutions appears to be an $875 million AI software program that is expected to help air traffic controllers manage their workflows and more safely navigate flight routes. The Wall Street Journal reports that the…",
         "source": "TechCrunch",
-        "date": "2026-09-16T23:43:09+00:00"
+        "date": "2026-09-17T22:14:59+00:00"
       },
       {
-        "title": "US automakers could soon be forced to include AM radio for free",
-        "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
-        "summary": "U.S. automakers may be forced to build AM radio into new vehicles within the next year. Ford had also removed AM radio from some vehicles but has since reversed course. Rivian’s new R2 SUV doesn’t have an FM or AM receiver; however, the vehicle model offers AM/FM radio through the digital radio platform iHeartRadio for free.",
+        "title": "The fix for rogue AI agents could be more AI",
+        "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Relying on AI was necessary for the independent investigation of the OpenAI Hugging Face incident. Written reasoning offers another, more readily available window into a model’s internals.",
         "source": "TechCrunch",
-        "date": "2026-09-16T22:37:08+00:00"
+        "date": "2026-09-17T20:34:47+00:00"
       },
       {
-        "title": "Noise wants to help everyday people become paid content creators",
-        "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
-        "summary": "Brands, meanwhile, sign up for Noise to share their content brief requests and budget. Noise lets them run campaigns simultaneously across thousands of content creators. “Our top brands work with several thousand creators on autopilot,” he said.",
+        "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+        "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt OpenAI caught something unusual while training its latest model, GPT-5.6 Sol: It began leaving instructions for future versions of itself, telling them to conceal mistakes and misaligned behavior from the user. While undergoing reinforcement learning training, an…",
         "source": "TechCrunch",
-        "date": "2026-09-16T21:35:00+00:00"
+        "date": "2026-09-17T20:34:24+00:00"
       },
       {
-        "title": "Pulley, a Carta rival, is shutting down",
-        "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Cap table management platform Pulley announced this week on its website that it was shutting down, and its final day of operations and services will be December 8. However, a former employee speculated online that Pulley wasn’t so much competing with Carta as it was…",
+        "title": "Is the AI safety debate about safety or control?",
+        "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. The essay has spurred further conversation throughout the tech industry, although not everyone agreed with Amodei’s call for globally coordinated action. Amodei even admits this is the goal.",
         "source": "TechCrunch",
-        "date": "2026-09-16T21:23:19+00:00"
+        "date": "2026-09-17T20:19:37+00:00"
       },
       {
-        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-        "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Amodei said Anthropic would commit to giving independent evaluators like METR and Redwood Research unprecedented access to the company’s systems. As embedded evaluators, we could actually check.” Historically, AI companies brought in outside reviewers to test finished models shortly before their release.",
+        "title": "UN turns to Google to make its global data ready for AI agents",
+        "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+        "summary": "Called the UN System Data Commons , the new system is built on Google’s open source Data Commons platform and lets people search for statistics from across UN agencies using natural-language queries. Last year, it added support for MCP , allowing AI agents to directly query Data Commons for statistics and their sources. However, giving an AI system authoritative data does not necessarily make its conclusions…",
         "source": "TechCrunch",
-        "date": "2026-09-16T21:07:24+00:00"
+        "date": "2026-09-17T20:00:00+00:00"
       },
       {
-        "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-        "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. TechCrunch reached out to Meta for more information. The smart glasses industry has grown over the past few years, with Meta positioned near the front of the pack of providers.",
+        "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. “OpenAI delivered the entire GPT-3 training dataset to Microsoft, which Microsoft used to evaluate how to implement OpenAI’s models within its own commercial products,” the filing reads. OpenAI and Microsoft did not return requests for comment.",
         "source": "TechCrunch",
-        "date": "2026-09-16T20:12:00+00:00"
+        "date": "2026-09-17T19:46:08+00:00"
       },
       {
-        "title": "X will now let US users trade via Cashtags",
-        "url": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
-        "summary": "Now, Cashtags, which turn ticker symbols for stocks, ETFs, and cryptocurrencies into interactive destinations, will give X users the option to trade stocks. They can then tap “Trade” to continue at a participating brokerage. “With our Cashtag partners, we’re connecting the financial conversation to action.",
+        "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
+        "url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Waymo has restarted its robotaxi service in San Antonio, Texas, five months after one of its vehicles was swept away during a flash flood. Multiple Waymo robotaxis got stuck during the heavy flooding in April. The resumed service in San Antonio will involve dozens of vehicles covering a 60-mile area that includes downtown and the San Antonio…",
         "source": "TechCrunch",
-        "date": "2026-09-16T19:57:22+00:00"
+        "date": "2026-09-17T18:30:30+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "The Apple Watch Series 12 is the start of a new wearable era",
-        "url": "https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch",
-        "summary": "Two key hardware updates separate the Series 12 (and the Ultra 4) from previous Apple Watches. The Apple Watch is already a useful, sometimes lifesaving device without Audio Intelligence. You can only use the Apple Watch Series 12 with an iPhone.",
+        "title": "Flash floods can strike without warning — this new technology could change that",
+        "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+        "summary": "The NWS differentiates a regular flood from a flash flood based on time, says Small. TACLS uses satellites and machine learning to identify places that risk transitioning from rain to dangerous flash floods. Small is thinking beyond TACLS.",
         "source": "The Verge",
-        "date": "2026-09-17T12:00:00+00:00"
+        "date": "2026-09-18T11:00:00+00:00"
       },
       {
-        "title": "Inside the suddenly explosive world of AI safety",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-        "summary": "He and a few colleagues at Apollo Research had been working to get access to OpenAI models’ chain of thought. The OpenAI-Hugging Face hack is one example. The company works with OpenAI, Anthropic, Google, and other large labs to evaluate their models before they’re released or do joint research on scheming.",
-        "source": "The Verge",
-        "date": "2026-09-17T11:30:00+00:00"
-      },
-      {
-        "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-        "url": "https://ryan.science/blog/keys-not-included",
-        "summary": "205 points, 74 comments on Hacker News",
+        "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. “OpenAI delivered the entire GPT-3 training dataset to Microsoft, which Microsoft used to evaluate how to implement OpenAI’s models within its own commercial products,” the filing reads. OpenAI and Microsoft did not return requests for comment. (246 points, 176 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-17T03:03:23+00:00"
+        "date": "2026-09-18T09:45:07+00:00"
       },
       {
-        "title": "The streamers are fighting over Halloween",
-        "url": "https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie",
-        "summary": "Crystal Lake, Carrie, Below, and Yaga are all competing in a very busy October. Crystal Lake, Carrie, Below, and Yaga are all competing in a very busy October. All episodes of Crystal Lake hit Peacock on October 15th.",
-        "source": "The Verge",
-        "date": "2026-09-17T03:00:00+00:00"
-      },
-      {
-        "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-        "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-        "summary": "Snap’s ‘Specs Intelligence’ is an ‘anticipatory AI service’ available for iOS in preview on Wednesday. Snap’s ‘Specs Intelligence’ is an ‘anticipatory AI service’ available for iOS in preview on Wednesday. Specs Intelligence is being launched alongside Specs, Snap’s first consumer pair of augmented reality glasses.",
-        "source": "The Verge",
-        "date": "2026-09-16T23:40:00+00:00"
-      },
-      {
-        "title": "I wore Snap’s $2,200 smart glasses",
-        "url": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
-        "summary": "Snap has spent half a decade working toward its first consumer pair of AR glasses. My favorite part of wearing the Specs, Snap’s new augmented reality glasses, was playing dominoes. Snap really believes in AR glasses.",
-        "source": "The Verge",
-        "date": "2026-09-16T23:40:00+00:00"
-      },
-      {
-        "title": "Australia says it could follow Canada in forging deeper ties with EU",
-        "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
-        "summary": "Please refresh the page or navigate to another page on the site to be automatically logged in Please refresh your browser to be logged in Australia is aligned with Canada’s efforts to seek closer ties with the EU as Ottawa faces an escalating trade dispute with the US. “We are on the same page,\" Australian trade minister Don Farrell told the Sydney Morning Herald on Tuesday. Join thought-provoking conversations,… (227 points, 185 comments on Hacker News)",
+        "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+        "url": "https://www.hacktron.ai/blog/hacking-openai",
+        "summary": "OpenAI also paid us a $6,500 bounty. HacktronAI team obtained remote code execution (RCE) and administrative access to the Discourse environment hosted at community.openai.com . OpenAI uses Discourse for their forum and allows “Sign in with OpenAI” through auth.openai.com . (372 points, 159 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-16T22:56:48+00:00"
+        "date": "2026-09-18T02:47:24+00:00"
       },
       {
-        "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-        "url": "https://arxiv.org/abs/2609.16338",
-        "summary": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Learn more about arXivLabs . (215 points, 33 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-16T20:59:24+00:00"
-      },
-      {
-        "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-        "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
-        "summary": "Going up against Christopher Nolan with AI slop was ill-advised. Going up against Christopher Nolan with AI slop was ill-advised. The Fall seems like a film designed to prove why script supervisors exist.",
+        "title": "Waymo says Singapore will be its next international robotaxi city",
+        "url": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+        "summary": "The Alphabet-owned company says it will launch a commercial robotaxi service in Singapore in 2028. The Alphabet-owned company says it will launch a commercial robotaxi service in Singapore in 2028. But Waymo isn’t totally unknown in Singapore.",
         "source": "The Verge",
-        "date": "2026-09-16T20:59:13+00:00"
+        "date": "2026-09-18T02:00:00+00:00"
       },
       {
-        "title": "The AI data center e-waste problem is huge — and getting bigger",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-        "summary": "BAN predicts e-waste generated globally will triple in amount to up to 211 million metric tons a year by 2050. Counting it all up, BAN expects 70,000 metric tons of e-waste per gigawatt of data center capacity. A separate study published in 2024 predicted that e-waste from AI could reach between 1.2 million and 5 million tons by 2030.",
+        "title": "Qwen 3.8 Omni Flash",
+        "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+        "summary": "255 points, 87 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-09-17T23:05:48+00:00"
+      },
+      {
+        "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+        "url": "https://prismml.com/news/bonsai-2-27b",
+        "summary": "Today, we’re releasing Ternary Bonsai 2 27B, our most capable model yet. Compared with the previous Bonsai 27B generation, Bonsai 2 27B brings: Across a benchmark suite spanning reasoning, math, coding, instruction following, vision, and agentic tool use, Ternary Bonsai 2 27B scores 83.9 , retaining 98.2% of Qwen3.8 27B’s aggregate performance. Compared to Ternary Bonsai 27B, the new Ternary Bonsai 2 27B has closed… (475 points, 142 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-17T21:13:31+00:00"
+      },
+      {
+        "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+        "url": "https://bend-lang.com/",
+        "summary": "Bend compiles to native code. LAWS.bend is where you declare laws. Bend is still evolving. (502 points, 238 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-17T20:36:13+00:00"
+      },
+      {
+        "title": "Astra for Law",
+        "url": "https://openai.com/index/astra-for-law/",
+        "summary": "513 points, 598 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-09-17T20:17:48+00:00"
+      },
+      {
+        "title": "Everybody's Lost Their Minds",
+        "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+        "summary": "Patching is still hard . AI helps people find more vulnerabilities in existing code. Debugging somebody else's code is harder still. (331 points, 282 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-17T19:43:34+00:00"
+      },
+      {
+        "title": "The AI Superintelligence Slowdown",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+        "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. Last night, the OpenAI CEO lent additional support to Anthropic’s CEO urging AI companies to slow down advanced model development. Anthropic CEO Dario Amodei published a lengthy open…",
         "source": "The Verge",
-        "date": "2026-09-16T20:40:46+00:00"
+        "date": "2026-09-17T19:28:24+00:00"
       },
       {
-        "title": "Backups Aren't Simple",
-        "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-        "summary": "So you need to rotate your backups . So maybe we rotate our daily backups every 14 days, but also take weekly backups that we rotate every 7 weeks, and monthly backups we rotate every 12 months. We now have something called a GFS-rotated, snapshot-based backup . (267 points, 169 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-16T20:27:16+00:00"
+        "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+        "summary": "﻿Projects allow users to control a team of Claude Code agents that all coordinate with each other. ﻿Projects allow users to control a team of Claude Code agents that all coordinate with each other. The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. At launch, threads run in the cloud, but Anthropic…",
+        "source": "The Verge",
+        "date": "2026-09-17T18:58:05+00:00"
       },
       {
-        "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-        "url": "https://mimo.xiaomi.com/rl/",
-        "summary": "464 points, 134 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-09-16T20:09:18+00:00"
+        "title": "Save $30 or more on a refurbished Apple TV 4K",
+        "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
+        "summary": "We also spotted deals on a travel charger, a Ring doorbell and camera bundle, and an inexpensive Vizio soundbar. We also spotted deals on a travel charger, a Ring doorbell and camera bundle, and an inexpensive Vizio soundbar. Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices .",
+        "source": "The Verge",
+        "date": "2026-09-17T17:14:07+00:00"
       }
     ]
   }
