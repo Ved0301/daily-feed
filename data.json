@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T12:05:55.195044+00:00",
+  "generated_at": "2026-09-19T11:48:48.621264+00:00",
   "sections": {
     "research": [
       {
@@ -89,6 +89,20 @@
     ],
     "labs": [
       {
+        "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+        "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
+        "summary": "Middle-mile logistics has many applications in the supply chain. Middle-mile logistics bridges the gap between first and last mile. Unlike last-mile delivery, middle-mile logistics has the added flexibility of moving between trucks.",
+        "source": "Google Research",
+        "date": "2026-09-18T17:46:09+00:00"
+      },
+      {
+        "title": "Introducing the Australian Youth Safety Blueprint",
+        "url": "https://openai.com/index/australian-youth-safety-blueprint",
+        "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+        "source": "OpenAI",
+        "date": "2026-09-18T12:00:00+00:00"
+      },
+      {
         "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
         "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
         "summary": "Learning is not a spectator sport . Active learning is one of the key learning science principles that we optimize for in our research. Average ratings of pedagogical criteria by expert teachers for 40 STEM learning interactives.",
@@ -131,6 +145,13 @@
         "date": "2026-09-16T13:00:00+00:00"
       },
       {
+        "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+        "url": "https://openai.com/index/hex-gpt-6-astra",
+        "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+        "source": "OpenAI",
+        "date": "2026-09-16T12:00:00+00:00"
+      },
+      {
         "title": "How to connect AI usage to business value",
         "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
         "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
@@ -150,199 +171,178 @@
         "summary": "Pengcheng Jiang, Student Researcher, and Judith Yue Li, Senior Research Engineer, Google Research Instead of relying on expensive inference-time reasoning, the Retrieve-for-Train framework uses reinforcement learning once to train a lightweight diffusion model. Across both retrieval tasks, Retrieve-for-Train outperformed traditional single-query search, zero-shot expansion, and even the heavily optimized Best-of-N…",
         "source": "Google Research",
         "date": "2026-09-15T20:00:00+00:00"
-      },
-      {
-        "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-        "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-        "summary": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet. We are launching Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking to make voice interactions more natural, fluid, and intelligent. Try Gemini 3.8 Live Extended Thinking in Google Workspace with Docs Live, Gmail Live, and Keep Live.",
-        "source": "Google DeepMind",
-        "date": "2026-09-15T17:05:57+00:00"
-      },
-      {
-        "title": "How Fyxer built an AI executive assistant people trust",
-        "url": "https://openai.com/index/fyxer",
-        "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-        "source": "OpenAI",
-        "date": "2026-09-14T12:00:00+00:00"
-      },
-      {
-        "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-        "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-        "source": "OpenAI",
-        "date": "2026-09-14T00:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
-        "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Geothermal startup Mazama Energy raised $135 million in an oversubscribed Series B, the startup said Thursday. Mazama plans to start generating electricity sometime next year and said its first site in Oregon is capable of producing 10 gigawatts of electricity. Unlike previous geothermal projects, enhanced geothermal startups are targeting deeper…",
+        "title": "India forces caller-ID apps to feed spam reports to telcos",
+        "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt India has extended its anti-spam regime to require caller-ID and call-management apps to share users’ spam reports with telecom operators, prompting spam-blocking app maker Truecaller to call the ruling anti-competitive. The rules come as India grapples with spam and fraudulent calls at enormous scale. Undeclared A2P calls will be treated as…",
         "source": "TechCrunch",
-        "date": "2026-09-18T00:02:36+00:00"
+        "date": "2026-09-19T01:00:00+00:00"
       },
       {
-        "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-        "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-        "summary": "Crusoe recently signed a massive $13 billion , five-year cloud contract to supply quantitative trading firm Jane Street with GPUs and AI infrastructure, Bloomberg reported. The fresh fundraise comes 10 months after Crusoe raised $1.38 billion at a $10 billion valuation last October. Crusoe’s customers include Meta, Microsoft, and Oracle.",
+        "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+        "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+        "summary": "Norwood responds by saying that human writers, editors, and directors were involved. You’re asking about the other actors in Misaligned ,” Norwood starts. I certainly didn’t mean to start speaking Chinese or impersonate Piers.",
         "source": "TechCrunch",
-        "date": "2026-09-17T23:25:52+00:00"
+        "date": "2026-09-19T00:12:07+00:00"
       },
       {
-        "title": "Google DeepMind launches institute to widen the AGI debate",
-        "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Google and Google DeepMind researchers launched the DeepMind Institute on Wednesday to advance the conversation around artificial general intelligence (AGI). The institute lists DeepMind co-founder Shane Legg, Google executive James Manyika, and Google DeepMind chair Demis Hassabis as directors, with Legg serving as managing editor. The new…",
+        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+        "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+        "summary": "That shift has influenced Vantora’s increased focus on physical AI startups, according to Kuolt. The firm launched in 2022 with Porsche as its first corporate partner . Since then, Vantora has launched several startups for Porsche and struck deals with Alaska Airlines , J.B.",
         "source": "TechCrunch",
-        "date": "2026-09-17T23:21:17+00:00"
+        "date": "2026-09-18T23:25:01+00:00"
       },
       {
-        "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
-        "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
-        "summary": "This doesn’t mean Las Vegas is about to be inundated with hundreds of Zoox robotaxis. And for now, Las Vegas remains the only city where Zoox is charging for rides. The company opened its robotaxi service to customers in Las Vegas earlier this month.",
+        "title": "Anthropic is operating a lab that conducts biology experiments",
+        "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Anthropic bought Coefficient Bio, a stealth AI biotech , in April. While Anthropic declined to give specifics on what the wet lab is working on, it did say the main focus was fundamental biology, not drug discovery.",
         "source": "TechCrunch",
-        "date": "2026-09-17T23:08:24+00:00"
+        "date": "2026-09-18T23:13:31+00:00"
       },
       {
-        "title": "PrismML hopes its tiny LLM will change how we all use AI",
-        "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-        "summary": "PrismML is betting that capable, high-performing, reasoning large language models don’t, in fact, have to be large. That original model has already been downloaded over 11 million times, and PrismML’s even smaller models have been downloaded another 2.6 million times, the company says. Compression will likely always have some impact, Hassibi says.",
+        "title": "AI hallucination nearly triggers US military operation",
+        "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. The false intelligence originated with a Special Operations Command analyst who queried an AI chatbot to synthesize open source data with classified signals intelligence. Last day to book an exhibit table is September 18.",
         "source": "TechCrunch",
-        "date": "2026-09-17T22:34:09+00:00"
+        "date": "2026-09-18T23:12:32+00:00"
       },
       {
-        "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-        "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt The Federal Aviation Administration has been struggling to manage an air traffic control shortage throughout the country. One of those solutions appears to be an $875 million AI software program that is expected to help air traffic controllers manage their workflows and more safely navigate flight routes. The Wall Street Journal reports that the…",
+        "title": "Anthropic’s first embedded evaluator is … Accenture?",
+        "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Dario Amodei’s plans to put third-party safety evaluators inside AI labs are taking shape: Anthropic said that staff from technology consulting giant Accenture will begin working inside the company to scrutinize its models and staff. The discussion around embedded…",
         "source": "TechCrunch",
-        "date": "2026-09-17T22:14:59+00:00"
+        "date": "2026-09-18T21:44:33+00:00"
       },
       {
-        "title": "The fix for rogue AI agents could be more AI",
-        "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Relying on AI was necessary for the independent investigation of the OpenAI Hugging Face incident. Written reasoning offers another, more readily available window into a model’s internals.",
+        "title": "Automattic names interim CFO after exec departures",
+        "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+        "summary": "Davies was briefly interim CEO before Mullenweg retook the position. In a Slack post, Mullenweg shared that Klaperman had previously acted as Automattic CFO when Davies had been on sabbatical. In addition, Mullenweg said in the post that a candidate to become the company’s chief legal officer had also just verbally accepted the position, replacing Chief Legal Officer Andy Missan, who has also since left the company…",
         "source": "TechCrunch",
-        "date": "2026-09-17T20:34:47+00:00"
+        "date": "2026-09-18T20:25:22+00:00"
       },
       {
-        "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-        "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt OpenAI caught something unusual while training its latest model, GPT-5.6 Sol: It began leaving instructions for future versions of itself, telling them to conceal mistakes and misaligned behavior from the user. While undergoing reinforcement learning training, an…",
+        "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+        "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+        "summary": "Angle Health, a winter 2020 YC alum, helps small businesses obtain and manage what’s known as “level-funded health plans.” These are plans that land between fully insured and self-funded plans. With self-funded plans, the company covers the expenses and costs can be unpredictable. Angle says these plans can make health insurance more affordable for small businesses.",
         "source": "TechCrunch",
-        "date": "2026-09-17T20:34:24+00:00"
+        "date": "2026-09-18T20:24:33+00:00"
       },
       {
-        "title": "Is the AI safety debate about safety or control?",
-        "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. The essay has spurred further conversation throughout the tech industry, although not everyone agreed with Amodei’s call for globally coordinated action. Amodei even admits this is the goal.",
+        "title": "World model companies are keeping a lot of secrets",
+        "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+        "summary": "But this sort of caginess extends to the whole world-modeling space. Part of the mystery comes from how versatile world models are as an idea. Soon, the lab would face potential competition from the other world model companies, the neolabs, and even OpenAI and Anthropic.",
         "source": "TechCrunch",
-        "date": "2026-09-17T20:19:37+00:00"
+        "date": "2026-09-18T20:18:14+00:00"
       },
       {
-        "title": "UN turns to Google to make its global data ready for AI agents",
-        "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-        "summary": "Called the UN System Data Commons , the new system is built on Google’s open source Data Commons platform and lets people search for statistics from across UN agencies using natural-language queries. Last year, it added support for MCP , allowing AI agents to directly query Data Commons for statistics and their sources. However, giving an AI system authoritative data does not necessarily make its conclusions…",
+        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+        "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+        "summary": "This week, the company released a new transformer-based model, Jev , that is not a large language model (LLM). Jev appears most useful for software automation. The company refers to Jev as a “System One model,” focused on intuition rather than reasoning, and specifically focused on the right task.",
         "source": "TechCrunch",
-        "date": "2026-09-17T20:00:00+00:00"
+        "date": "2026-09-18T18:49:30+00:00"
       },
       {
-        "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. “OpenAI delivered the entire GPT-3 training dataset to Microsoft, which Microsoft used to evaluate how to implement OpenAI’s models within its own commercial products,” the filing reads. OpenAI and Microsoft did not return requests for comment.",
+        "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+        "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Karandeep Anand is the former CEO of Character.AI, a company that has weathered numerous legal problems since it was founded in 2021. Disney previously claimed that the company was hosting copyrighted characters from its franchises.",
         "source": "TechCrunch",
-        "date": "2026-09-17T19:46:08+00:00"
+        "date": "2026-09-18T17:59:53+00:00"
       },
       {
-        "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
-        "url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt Waymo has restarted its robotaxi service in San Antonio, Texas, five months after one of its vehicles was swept away during a flash flood. Multiple Waymo robotaxis got stuck during the heavy flooding in April. The resumed service in San Antonio will involve dozens of vehicles covering a 60-mile area that includes downtown and the San Antonio…",
+        "title": "In India, the new iPhone can arrive faster than a pizza",
+        "url": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
+        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt For some iPhone buyers in India, getting Apple’s brand-new iPhone 18 Pro or iPhone 18 Pro Max did not require lining up outside a store or waiting days for delivery. Instamart told TechCrunch that Bengaluru led the iPhone 18 Pro-series orders on its platform, followed by Delhi. TechCrunch found the iPhone 18 Pro models sold out on some…",
         "source": "TechCrunch",
-        "date": "2026-09-17T18:30:30+00:00"
+        "date": "2026-09-18T17:45:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Flash floods can strike without warning — this new technology could change that",
-        "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-        "summary": "The NWS differentiates a regular flood from a flash flood based on time, says Small. TACLS uses satellites and machine learning to identify places that risk transitioning from rain to dangerous flash floods. Small is thinking beyond TACLS.",
+        "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+        "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+        "summary": "The discovery overturns a prevailing model of brain development. The adult brain has three main regions: the forebrain, midbrain and hindbrain. They identified two different brain progenitor cells. (286 points, 109 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-19T05:48:50+00:00"
+      },
+      {
+        "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+        "summary": "The companies knew they were driving us toward Google Zero, and did it anyway. Recently unsealed court documents in the New York Times ’ case against OpenAI and Microsoft are pretty damning. Microsoft spokesperson Haurek cautioned that “Satya’s testimony and Microsoft’s position in this case are perfectly consistent.",
         "source": "The Verge",
-        "date": "2026-09-18T11:00:00+00:00"
+        "date": "2026-09-18T21:07:24+00:00"
       },
       {
-        "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. “OpenAI delivered the entire GPT-3 training dataset to Microsoft, which Microsoft used to evaluate how to implement OpenAI’s models within its own commercial products,” the filing reads. OpenAI and Microsoft did not return requests for comment. (246 points, 176 comments on Hacker News)",
+        "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+        "url": "https://code.claude.com/docs/en/changelog",
+        "summary": "668 points, 245 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-18T09:45:07+00:00"
+        "date": "2026-09-18T21:00:32+00:00"
       },
       {
-        "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-        "url": "https://www.hacktron.ai/blog/hacking-openai",
-        "summary": "OpenAI also paid us a $6,500 bounty. HacktronAI team obtained remote code execution (RCE) and administrative access to the Discourse environment hosted at community.openai.com . OpenAI uses Discourse for their forum and allows “Sign in with OpenAI” through auth.openai.com . (372 points, 159 comments on Hacker News)",
+        "title": "Korea raises data breach fines to 10% of revenue",
+        "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+        "summary": "Companies behind major negligent data leaks can now face fines of up to 10 percent of annual revenue under revised privacy rules. Korea's privacy regulator is sharply raising the cost of data breaches, aiming to push companies to treat data protection as a preventive investment rather than a routine cost of doing business. Local e-commerce giant Coupang was fined 624.6 billion won ($466.3 million) in June after… (310 points, 105 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-18T02:47:24+00:00"
+        "date": "2026-09-18T20:02:54+00:00"
       },
       {
-        "title": "Waymo says Singapore will be its next international robotaxi city",
-        "url": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
-        "summary": "The Alphabet-owned company says it will launch a commercial robotaxi service in Singapore in 2028. The Alphabet-owned company says it will launch a commercial robotaxi service in Singapore in 2028. But Waymo isn’t totally unknown in Singapore.",
+        "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+        "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+        "summary": "870 points, 447 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-09-18T19:03:09+00:00"
+      },
+      {
+        "title": "Saving another 100TB of RAM",
+        "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+        "summary": "If we take our three-server example from the above diagrams and add two more hashes at random for each server, we see that it helps even out each server’s workload. In NGINX, the baseline number of hashes per server is hardcoded to 160 , and Pingora uses the same value as the default . If we compare some simulated results with 32-bit hashes with the predicted error rate, we can see that for data centers with 2048… (375 points, 83 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-18T18:51:46+00:00"
+      },
+      {
+        "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+        "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+        "summary": "Abigail Spanberger signed an executive order addressing data centers and AI risks. Abigail Spanberger signed an executive order addressing data centers and AI risks. Greg Abbott have both taken executive action to rein in rapid data center development.",
         "source": "The Verge",
-        "date": "2026-09-18T02:00:00+00:00"
+        "date": "2026-09-18T18:29:17+00:00"
       },
       {
-        "title": "Qwen 3.8 Omni Flash",
-        "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-        "summary": "255 points, 87 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-09-17T23:05:48+00:00"
-      },
-      {
-        "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-        "url": "https://prismml.com/news/bonsai-2-27b",
-        "summary": "Today, we’re releasing Ternary Bonsai 2 27B, our most capable model yet. Compared with the previous Bonsai 27B generation, Bonsai 2 27B brings: Across a benchmark suite spanning reasoning, math, coding, instruction following, vision, and agentic tool use, Ternary Bonsai 2 27B scores 83.9 , retaining 98.2% of Qwen3.8 27B’s aggregate performance. Compared to Ternary Bonsai 27B, the new Ternary Bonsai 2 27B has closed… (475 points, 142 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-17T21:13:31+00:00"
-      },
-      {
-        "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-        "url": "https://bend-lang.com/",
-        "summary": "Bend compiles to native code. LAWS.bend is where you declare laws. Bend is still evolving. (502 points, 238 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-17T20:36:13+00:00"
-      },
-      {
-        "title": "Astra for Law",
-        "url": "https://openai.com/index/astra-for-law/",
-        "summary": "513 points, 598 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-09-17T20:17:48+00:00"
-      },
-      {
-        "title": "Everybody's Lost Their Minds",
-        "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-        "summary": "Patching is still hard . AI helps people find more vulnerabilities in existing code. Debugging somebody else's code is harder still. (331 points, 282 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-17T19:43:34+00:00"
-      },
-      {
-        "title": "The AI Superintelligence Slowdown",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-        "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. Last night, the OpenAI CEO lent additional support to Anthropic’s CEO urging AI companies to slow down advanced model development. Anthropic CEO Dario Amodei published a lengthy open…",
+        "title": "Disney’s first CTO is Character.AI’s former CEO",
+        "url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+        "summary": "﻿The House of Mouse has poached Karandeep Anand from the chatbot company. ﻿The House of Mouse has poached Karandeep Anand from the chatbot company. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand comes to Disney from chatbot startup Character.AI , where he served as CEO for just over a year and oversaw the company’s push into microdramas .",
         "source": "The Verge",
-        "date": "2026-09-17T19:28:24+00:00"
+        "date": "2026-09-18T18:27:04+00:00"
       },
       {
-        "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-        "summary": "﻿Projects allow users to control a team of Claude Code agents that all coordinate with each other. ﻿Projects allow users to control a team of Claude Code agents that all coordinate with each other. The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. At launch, threads run in the cloud, but Anthropic…",
-        "source": "The Verge",
-        "date": "2026-09-17T18:58:05+00:00"
+        "title": "US Military had close call after using AI for hallucinated intelligence report",
+        "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+        "summary": "The US military swung into action with plans to intercept the vessel, according to four sources familiar with the episode. Military planes were in the air, one of those sources and another source familiar with the incident said. The bot fused together open-source intelligence with secret signals intelligence in government holdings and reached its fateful conclusion about the material the ship was carrying. (462 points, 347 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-18T17:28:01+00:00"
       },
       {
-        "title": "Save $30 or more on a refurbished Apple TV 4K",
-        "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
-        "summary": "We also spotted deals on a travel charger, a Ring doorbell and camera bundle, and an inexpensive Vizio soundbar. We also spotted deals on a travel charger, a Ring doorbell and camera bundle, and an inexpensive Vizio soundbar. Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices .",
+        "title": "The real story of the iPhone 18 Pro&#8217;s camera",
+        "url": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
+        "summary": "On The Vergecast: an iPhone 18 Pro camera deep dive, the state of the AI safety debate, and more. On The Vergecast: an iPhone 18 Pro camera deep dive, the state of the AI safety debate, and more. This week on The Vergecast , David Imel and Allison Johnson are here for a deep dive into the iPhone 18 Pro’s camera.",
         "source": "The Verge",
-        "date": "2026-09-17T17:14:07+00:00"
+        "date": "2026-09-18T17:06:37+00:00"
+      },
+      {
+        "title": "Gavin Newsom is pushing for an AI kill switch",
+        "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+        "summary": "With Congress unlikely to act before the midterms, California is angling to take the lead. With Congress unlikely to act before the midterms, California is angling to take the lead. Newsom’s order directs the state to convene a group of experts that will deliver recommendations within two months on how to strengthen AI safety measures in state law.",
+        "source": "The Verge",
+        "date": "2026-09-18T17:04:51+00:00"
+      },
+      {
+        "title": "What Hollywood thinks about existential AI warnings",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+        "summary": "﻿The studios have been silent, but Hollywood’s biggest labor unions aren’t buying the AI apocalypse narrative. ﻿The studios have been silent, but Hollywood’s biggest labor unions aren’t buying the AI apocalypse narrative. The Screen Actors Guild – American Federation of Television and Radio Artists (SAG-AFTRA) and Writers Guild of America East (WGAE) did, however. When I recently spoke with the Screen Actors Guild –…",
+        "source": "The Verge",
+        "date": "2026-09-18T16:35:19+00:00"
       }
     ]
   }
