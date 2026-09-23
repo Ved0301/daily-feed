@@ -1,104 +1,146 @@
 {
-  "generated_at": "2026-09-22T12:23:53.609856+00:00",
+  "generated_at": "2026-09-23T12:35:35.719210+00:00",
   "sections": {
     "research": [
       {
-        "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
-        "url": "https://arxiv.org/abs/2609.25001v1",
-        "summary": "Yiran Wang, Xingyilang Yin, Junfu Pu et al. — Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons.",
+        "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+        "url": "https://arxiv.org/abs/2609.26796v1",
+        "summary": "Quan Nguyen-Tri, Mukul Ranjan, Zhiqiang Shen — Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment remains limited by…",
         "source": "arXiv",
-        "date": "2026-09-21T17:59:33Z"
+        "date": "2026-09-22T17:59:57Z"
       },
       {
-        "title": "Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use",
-        "url": "https://arxiv.org/abs/2609.24985v1",
-        "summary": "Zixiang Chen, Wenting Zhao, Zhepeng Cen et al. — Multi-turn tool-use failures can hinge on a single model call, yet reward variation alone does not reveal which call would benefit from training. When rewards depend on later interactions, their variation can reflect…",
+        "title": "A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing",
+        "url": "https://arxiv.org/abs/2609.26783v1",
+        "summary": "Xiaoxing Ren, Thomas Parisini, Andreas A. Malikopoulos — We study decentralized partially observable team decision problems with low-rank latent dynamics and unknown system models. The proposed framework combines team-theoretic equivalence with low-rank model representations…",
         "source": "arXiv",
-        "date": "2026-09-21T17:57:20Z"
+        "date": "2026-09-22T17:56:46Z"
       },
       {
-        "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
-        "url": "https://arxiv.org/abs/2609.24984v1",
-        "summary": "Wangbo Yu, Kunhao Liu, Wenbo Hu et al. — Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a…",
+        "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
+        "url": "https://arxiv.org/abs/2609.26781v1",
+        "summary": "Zhihao Zhan, Ting Song, Li Dong et al. — A multi-agent system can reduce latency on complex tasks by executing work concurrently. Several pioneering harness frameworks support multi-agent systems.",
         "source": "arXiv",
-        "date": "2026-09-21T17:57:06Z"
+        "date": "2026-09-22T17:56:25Z"
       },
       {
-        "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
-        "url": "https://arxiv.org/abs/2609.24983v1",
-        "summary": "Lei Yang, Mengyin Liu, Jia Wang et al. — We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model response, the annotator…",
+        "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+        "url": "https://arxiv.org/abs/2609.26780v1",
+        "summary": "Haobo Zheng, Tan Tang, Yan Chen et al. — Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, how individuals…",
         "source": "arXiv",
-        "date": "2026-09-21T17:56:53Z"
+        "date": "2026-09-22T17:56:12Z"
       },
       {
-        "title": "LoRA-generating hypernetworks for efficient on-device LLM generative personalization",
-        "url": "https://arxiv.org/abs/2609.24979v1",
-        "summary": "Sean Augenstein, Li Ding, Jihwan Lee et al. — On-device large language models (`LLMs'), e.g. running on mobile phones, are ripe for improvement via personalization. The limited compute resources of mobile devices impose limits on model scale and thus model quality,…",
+        "title": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents",
+        "url": "https://arxiv.org/abs/2609.26779v1",
+        "summary": "Trang Nguyen, Eulrang Cho, Bingqing Chen et al. — Agents often work on complex problems that require millions of tokens of context, which necessitates compacting across sessions due to limited context windows. We develop CliffCompaction, an autocompaction technique…",
         "source": "arXiv",
-        "date": "2026-09-21T17:55:48Z"
+        "date": "2026-09-22T17:55:59Z"
       },
       {
-        "title": "DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation",
-        "url": "https://arxiv.org/abs/2609.24976v1",
-        "summary": "Haoran Yuan, Zekai Wang, Boning Shao et al. — Dexterous manipulation depends on contact dynamics that are often only partially observable from vision. Recent World-Action Models (WAMs) couple predictive video world modeling with action generation, but remain…",
+        "title": "SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving",
+        "url": "https://arxiv.org/abs/2609.26777v1",
+        "summary": "Jennifer Williams, Dave Farris, Jeff Farris et al. — We introduce SWE-Serve, a benchmark for evaluating agents on production inference engineering tasks. Implementing an inference feature can require coordinating multiple changes across the serving stack, including model…",
         "source": "arXiv",
-        "date": "2026-09-21T17:55:24Z"
+        "date": "2026-09-22T17:54:59Z"
       },
       {
-        "title": "Harness-Zero: Harness Distillation via Agent-as-Harness",
-        "url": "https://arxiv.org/abs/2609.24974v1",
-        "summary": "Haoran Ye, Yuxing Lu, Haonan Dong et al. — Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment. Because the best harness varies…",
+        "title": "A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem",
+        "url": "https://arxiv.org/abs/2609.26761v1",
+        "summary": "Laizhen Li, Xuan Wang, Peicheng Zhao et al. — Agents using the Model Context Protocol (MCP) rely on semantic matching to select tools from third-party servers, exposing a semantic supply-chain risk through attacker-controlled metadata and outputs.",
         "source": "arXiv",
-        "date": "2026-09-21T17:55:20Z"
+        "date": "2026-09-22T17:41:34Z"
       },
       {
-        "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
-        "url": "https://arxiv.org/abs/2609.24972v1",
-        "summary": "Peng Xia, Rujun Han, Zifeng Wang et al. — An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this…",
+        "title": "Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents",
+        "url": "https://arxiv.org/abs/2609.26760v1",
+        "summary": "Laizhen Li, Jiarui Li, Juanjuan Zhao et al. — Large language model (LLM) agents often handle streams of related tasks, yet standard harnesses repeatedly ask the model to reconstruct the same control decisions inside each task's context. We study whether task…",
         "source": "arXiv",
-        "date": "2026-09-21T17:54:49Z"
+        "date": "2026-09-22T17:40:45Z"
       },
       {
-        "title": "DolphinBench: Mapping the Pareto Frontier of Agent Memory",
-        "url": "https://arxiv.org/abs/2609.24971v1",
-        "summary": "Soumil Rathi, Deshraj Yadav, Taranjeet Singh — Agents today often take real-world actions that depend on long-term memory and context recall over time. However, most current memory benchmarks are built for a conversational question-answer format, where the question…",
+        "title": "Type-Safe Is Not Error-Free: A Constrained Decision Head Follows the Option Name, Not the Rubric Bound to It",
+        "url": "https://arxiv.org/abs/2609.26758v1",
+        "summary": "Yu Sun, Junhao Xu — Typed decision models are built for settings where model outputs are consumed directly by software. Instead of generating free-form text, they return a decision over a predefined set of options.",
         "source": "arXiv",
-        "date": "2026-09-21T17:54:35Z"
+        "date": "2026-09-22T17:38:12Z"
       },
       {
-        "title": "Rare Event Estimation via Iterative Unalignment",
-        "url": "https://arxiv.org/abs/2609.24969v1",
-        "summary": "Hanming Yang, Daksh Mittal, Jing Dong et al. — As agents are deployed with increased autonomy, even extremely rare events along their stochastic output trajectories can occur and prove catastrophic. Safe deployment therefore does not depend on whether these events…",
+        "title": "FleXray: Universal Clinical X-ray Segmentation",
+        "url": "https://arxiv.org/abs/2609.26756v1",
+        "summary": "Victor Ion Butoi, Vivek Gopalakrishnan, John V. Guttag et al. — X-ray is medicine's most widely used imaging modality, yet remains among its least quantitative. Unlike volumetric modalities like CT or MRI, X-ray collapses 3D anatomy into a 2D projection, causing structures to…",
         "source": "arXiv",
-        "date": "2026-09-21T17:53:38Z"
+        "date": "2026-09-22T17:37:55Z"
       },
       {
-        "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
-        "url": "https://arxiv.org/abs/2609.24967v1",
-        "summary": "Xinrui Shi, Yanzhe Zhang, Diyi Yang — LLM agents are increasingly deployed in collaborative settings, yet long-term interaction may give rise to undesirable coordination. We study the emergence of collusion in a long-horizon multi-agent environment: two…",
+        "title": "EquivSVA: A Formally Verified Dataset of Behavioral Assertions Across Equivalent RTL Implementations",
+        "url": "https://arxiv.org/abs/2609.26751v1",
+        "summary": "FNU Aditi — Large language models are increasingly used to generate SystemVerilog Assertions from natural-language specifica- tions and register-transfer-level designs. Existing datasets and benchmarks support important goals such…",
         "source": "arXiv",
-        "date": "2026-09-21T17:52:48Z"
+        "date": "2026-09-22T17:33:09Z"
       },
       {
-        "title": "Jev for Scientific Decisions: Evaluating Semantic Choices and Their Consequences",
-        "url": "https://arxiv.org/abs/2609.24965v1",
-        "summary": "Boyuan Deng, Shuyi Fan, Hongyang Zhang et al. — Scientific workflows often require choosing among known relations before a deterministic calculation can proceed. Whether observations share a culture, treatment or reference standard can change the scientific meaning…",
+        "title": "Metrics Failure in LLM-Based Code Vulnerability Repair: An Empirical Study and a Change-Aware Screen",
+        "url": "https://arxiv.org/abs/2609.26749v1",
+        "summary": "Om Nepal, Sushant Aryal, Oluseyi Olukola et al. — Large language models (LLMs) are increasingly applied to the automated repair of C/C++ security vulnerabilities, and compile rate is a commonly reported proxy for progress: whether the generated patch compiles.",
         "source": "arXiv",
-        "date": "2026-09-21T17:51:50Z"
+        "date": "2026-09-22T17:32:05Z"
       }
     ],
     "labs": [
       {
-        "title": "Advisory Group on Mathematics and Artificial Intelligence",
-        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-        "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+        "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+        "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+        "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
         "source": "OpenAI",
-        "date": "2026-09-21T12:00:00+00:00"
+        "date": "2026-09-23T13:00:00+00:00"
+      },
+      {
+        "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+        "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+        "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+        "source": "OpenAI",
+        "date": "2026-09-23T00:00:00+00:00"
+      },
+      {
+        "title": "Better prompt caching for GPT-6",
+        "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+        "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+        "source": "OpenAI",
+        "date": "2026-09-22T21:00:00+00:00"
+      },
+      {
+        "title": "Introducing GPT-6 Sol and Luna",
+        "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+        "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+        "source": "OpenAI",
+        "date": "2026-09-22T18:00:00+00:00"
+      },
+      {
+        "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+        "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+        "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+        "source": "OpenAI",
+        "date": "2026-09-22T12:00:00+00:00"
+      },
+      {
+        "title": "Priorities and principles for effective third party assessments",
+        "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+        "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+        "source": "OpenAI",
+        "date": "2026-09-22T00:00:00+00:00"
       },
       {
         "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
         "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
         "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+        "source": "OpenAI",
+        "date": "2026-09-21T12:00:00+00:00"
+      },
+      {
+        "title": "Advisory Group on Mathematics and Artificial Intelligence",
+        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
         "source": "OpenAI",
         "date": "2026-09-21T12:00:00+00:00"
       },
@@ -129,220 +171,178 @@
         "summary": "Middle-mile logistics has many applications in the supply chain. Middle-mile logistics bridges the gap between first and last mile. Unlike last-mile delivery, middle-mile logistics has the added flexibility of moving between trucks.",
         "source": "Google Research",
         "date": "2026-09-18T17:46:09+00:00"
-      },
-      {
-        "title": "Introducing the Australian Youth Safety Blueprint",
-        "url": "https://openai.com/index/australian-youth-safety-blueprint",
-        "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-        "source": "OpenAI",
-        "date": "2026-09-18T12:00:00+00:00"
-      },
-      {
-        "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
-        "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
-        "summary": "Learning is not a spectator sport . Active learning is one of the key learning science principles that we optimize for in our research. Average ratings of pedagogical criteria by expert teachers for 40 STEM learning interactives.",
-        "source": "Google Research",
-        "date": "2026-09-17T20:45:00+00:00"
-      },
-      {
-        "title": "How Cooley is accelerating IPO work with ChatGPT",
-        "url": "https://openai.com/index/cooley-gopublic",
-        "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-        "source": "OpenAI",
-        "date": "2026-09-17T12:00:00+00:00"
-      },
-      {
-        "title": "Introducing Astra for Law",
-        "url": "https://openai.com/index/astra-for-law",
-        "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-        "source": "OpenAI",
-        "date": "2026-09-17T00:00:00+00:00"
-      },
-      {
-        "title": "Helping older adults use AI in everyday life",
-        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-        "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-        "source": "OpenAI",
-        "date": "2026-09-16T16:00:00+00:00"
-      },
-      {
-        "title": "Reimagining advertising with AI",
-        "url": "https://openai.com/index/reimagining-advertising-with-ai",
-        "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-        "source": "OpenAI",
-        "date": "2026-09-16T13:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-        "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-        "summary": "Earlier this month, one of Nscale’s major investors, Nvidia, agreed to provide the company with $1 billion in convertible debt as part of a larger $3.1 billion financing deal. The startup was valued at $14.6 billion when it raised a $2 billion Series C led by Aker ASA and 8090 Industries. Aside from CoreWeave, Nscale’s competitors include Nebius, Lambda and Crusoe — the latter last week said it raised $3.9 billion…",
+        "title": "Comma’s hands-off driving tech under investigation after 2 fatal crashes",
+        "url": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. The National Highway Traffic Safety Administration’s Office of Defects Investigation (ODI) said this week that the reported crashes involved Comma devices failing to detect or respond to slow or stopped vehicles in the same road lane. Comma.ai could not immediately be reached for comment.",
         "source": "TechCrunch",
-        "date": "2026-09-22T12:23:05+00:00"
+        "date": "2026-09-23T12:12:39+00:00"
       },
       {
-        "title": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
-        "url": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
-        "summary": "Plastics recycling startup MacroCycle announced a new deal with Meta on Tuesday that will help speed the development of its first commercial plant. MacroCycle gave TechCrunch an exclusive preview of the news. MacroCycle says its demonstration plant will be capable of producing 5,000 metric tons of recycled plastic per year.",
+        "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+        "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+        "summary": "Chatterjee sees that model eventually reducing companies’ reliance on traditional software products, including those sold as software-as-a-service (SaaS). Ema’s approach is already gaining traction. Ema is also looking beyond the software itself.",
         "source": "TechCrunch",
-        "date": "2026-09-22T11:00:00+00:00"
+        "date": "2026-09-23T12:00:00+00:00"
       },
       {
-        "title": "Morphotonics raises €40M to expand its display tech into data centers",
-        "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
-        "summary": "Morphotonics has spent 12 years developing that technology, largely under the radar. In June, the market research firm IDC noted that shipments of smart glasses with displays are expected to reach 12.2 million by 2030 . Ivan covers global consumer tech developments at TechCrunch.",
+        "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+        "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+        "summary": "As of this writing, Greece’s 10-year bond yield sits around 4.3%, versus roughly 5% for U.S. Mitsotakis was just as eager to talk about how Greece has spent its money. Still, he added, Greece would happily host the conversation.",
         "source": "TechCrunch",
-        "date": "2026-09-22T06:00:00+00:00"
+        "date": "2026-09-23T04:59:08+00:00"
       },
       {
-        "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-        "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-        "summary": "Some of those bets are revisited in Shop Different: How Retail Revealed Apple’s Genius , Johnson’s new book about building Apple’s retail operations alongside Steve Jobs. Apple Store employees are not paid on commission, Johnson said, unlike the sales culture common across much of retail. After leaving Apple, Johnson took over J.C.",
+        "title": "Discord’s age verification era is upon us, despite community backlash",
+        "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
+        "summary": "Starting Wednesday, Discord, the community messaging platform, will roll out age verification measures to all users. Discord says that it doesn’t estimate users’ ages based on message content, profile data, or demographic attributes. Because local laws have required Discord to use age assurance technology in certain regions due to local law, the company was able to train its model on reliably confirmed data linking…",
         "source": "TechCrunch",
-        "date": "2026-09-21T23:44:28+00:00"
+        "date": "2026-09-23T03:31:12+00:00"
       },
       {
-        "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-        "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Called the Advisory Group on Mathematics and Artificial Intelligence , the group is meant to give mathematicians more input into the company’s math-oriented research. Nine prominent mathematicians have been named as initial members of the group.",
+        "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+        "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+        "summary": "This session explores how founders can evolve as CEOs, avoid common leadership pitfalls, and build companies that can thrive well beyond the early days. This session explores how founders should evaluate investors, navigate trade-offs, and think beyond valuation when building their cap table. Connect with 10,000+ founders, VCs, operators, and tech leaders.",
         "source": "TechCrunch",
-        "date": "2026-09-21T20:15:58+00:00"
+        "date": "2026-09-22T23:21:49+00:00"
       },
       {
-        "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-        "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Watch the finalists pitch on the Disrupt Stage. Current TechCrunch Disrupt 2026 ticket savings end September 25 at 11:59 p.m.",
+        "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+        "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+        "summary": "While Snorkel originally provided software for data-labeling automation , it shifted last year to providing customers with completed datasets, an offering it calls data-as-a-service. Mercor’s gross annualized revenue has climbed to $2 billion , Handshake hit the $1 billion milestone earlier this year, and TechCrunch reported that Micro1 has scaled to $500 million . Marina Temkin is a venture capital and startups…",
         "source": "TechCrunch",
-        "date": "2026-09-21T19:25:00+00:00"
+        "date": "2026-09-22T21:56:43+00:00"
       },
       {
-        "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-        "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-        "summary": "In this subset of the data, Muse has now seen 1.8 million downloads to ChatGPT’s 1.3 million. When comparing just the U.S. mobile app daily active users, Muse comes in higher with 642,000 daily users compared with 231,000 for ChatGPT at the time. Yet, even here, Muse is coming in higher, with 359,000 daily active users on iOS, still above ChatGPT’s figures from that time period.",
+        "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+        "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+        "summary": "Qualcomm today announced two flagship smartphone processors, called Snapdragon 8 Elite Gen 6 and Snapdragon 8 Elite Extreme Gen 6, with a focus on facilitating better AI-focused features. The high-end Extreme version can run a 30-billion-parameter mixture-of-experts (MoE) model locally. At the event, Motorola announced its Motorola Signature 27 smartphone, powered by the Snapdragon Gen 8 Elite Extreme Gen 6, with…",
         "source": "TechCrunch",
-        "date": "2026-09-21T19:19:21+00:00"
+        "date": "2026-09-22T20:00:00+00:00"
       },
       {
-        "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-        "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-        "summary": "Kairos Power has picked engineering firm Samsung C&T to help build its 50-megawatt demonstration reactor for Google , which the nuclear startup is aiming to have completed by 2030. Currently, Kairos is building two reactors in Oak Ridge, Tennessee. The second, Hermes 2, is Kairos’ first commercial-scale reactor.",
+        "title": "Apple could take on Whoop with a new fitness tracker, report says",
+        "url": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Connect with 10,000+ founders, VCs, operators, and tech leaders. Subscribe for the industry’s biggest tech news",
         "source": "TechCrunch",
-        "date": "2026-09-21T18:23:05+00:00"
+        "date": "2026-09-22T19:27:57+00:00"
       },
       {
-        "title": "Meta’s AI agent has been blocked from using Amazon.com",
-        "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Sunday night, users of Meta’s AI assistant Muse started getting a strange error message when they tried to buy goods on Amazon. Even if Amazon sees an opportunity in agent-driven commerce, they may want to wait a few more release cycles before rolling anything out.",
+        "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+        "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+        "summary": "Meta now says those comparisons aren’t entirely off-base. According to an X post by Nat Friedman, head of product at Meta’s Superintelligence Labs (MSL), Muse was “definitely heavily inspired as a product by OpenClaw.” However, he clarified that Muse itself was “built from scratch.” Friedman, the former GitHub CEO who joined Meta last year alongside Meta’s Chief AI Officer Alexandr Wang , said that the team at Meta…",
         "source": "TechCrunch",
-        "date": "2026-09-21T17:55:18+00:00"
+        "date": "2026-09-22T19:09:11+00:00"
       },
       {
-        "title": "X will now tell users when governments have forced it to limit their posts",
-        "url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
-        "summary": "It will also highlight any downranking of users’ posts due to government-required content filtering. We’ve expanded Under The Hood after seeing people’s appreciation of more transparency into government-required content filtering. In addition to showing labels applied to your account and posts in the prior month, Under The Hood now shows if your account or posts had their… https://t.co/Op5rBnE1jg…",
+        "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+        "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+        "summary": "ShinyHunters, a prolific cybercriminal group known for large-scale data theft and extortion, says it has breached the FBI and stolen data on thousands of agents and applicants. The hackers made the claim on their dark web leak site, which TechCrunch reviewed, saying they had stolen “sensitive data on almost all FBI agents and individuals who filed an application with the FBI for a job.” 404 Media first reported on…",
         "source": "TechCrunch",
-        "date": "2026-09-21T17:45:35+00:00"
+        "date": "2026-09-22T18:40:30+00:00"
       },
       {
-        "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
-        "url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
-        "summary": "According to the company’s updated IPO filing, Oura and its shareholders are together offering 50 million shares at a price range of $40 to $44 each. Forerunner first invested in Oura in the company’s 2020 $28 million Series B round , according to PitchBook. Hardware still made up most of the company’s revenue, at $974 million.",
+        "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+        "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Venture capital firm Andreessen Horowitz is launching a school called The Horowitz Andreessen Academy aimed at aspiring founders who have just graduated high school and have not yet attended college. The school’s main pitch is that it promises to provide students with mentors who are big names in tech.",
         "source": "TechCrunch",
-        "date": "2026-09-21T16:45:47+00:00"
+        "date": "2026-09-22T18:24:34+00:00"
       },
       {
-        "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-        "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-        "summary": "“We did bookkeeping, accounting, sales tax, taxes, everything,” Ali says. “I realized that small businesses don’t need better accounting software,” Ali told TechCrunch. “They need less accounting software.",
+        "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+        "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. The first models in the Sol and Luna series were introduced earlier this year , representing different tiers in OpenAI’s hierarchy of models. The company repeatedly claims that GPT-6 Sol and Luna handle tasks substantially better than Anthropic’s top models — like Fable and Opus.",
         "source": "TechCrunch",
-        "date": "2026-09-21T16:38:51+00:00"
+        "date": "2026-09-22T18:00:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Oppo’s new phone is the first with three 200-megapixel cameras",
-        "url": "https://www.theverge.com/gadgets/998688/oppo-find-x10-pro-max-200-megapixel-cameras-china",
-        "summary": "The Find X10 Pro Max also delivers 17 stops of dynamic range. The Find X10 Pro Max also delivers 17 stops of dynamic range. Oppo has already confirmed that the Find X10 Pro Max will eventually get an international launch too.",
+        "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+        "summary": "﻿OpenAI now has the team behind the modern creator-subscription economy. ﻿OpenAI now has the team behind the modern creator-subscription economy. OpenAI has hired three former Patreon execs to anchor its product strategy for creators. “Pay attention to OpenAI DevDay next week!",
         "source": "The Verge",
-        "date": "2026-09-22T12:18:35+00:00"
+        "date": "2026-09-23T11:02:39+00:00"
       },
       {
-        "title": "Peloton is back with a ‘cheaper’ folding treadmill",
-        "url": "https://www.theverge.com/tech/998272/peloton-tread-flex-fitness-treadmills",
-        "summary": "Plus two other refreshed treadmills and a host of AI running features. Photography by Amelia Holowaty Krales / The Verge Plus two other refreshed treadmills and a host of AI running features. For the camera-enabled treadmills, Peloton is adding a running analysis feature.",
+        "title": "Eight Sleep’s new cooling hub is small enough to hide under your bed",
+        "url": "https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking",
+        "summary": "﻿The Pod 6 intelligent sleep system cools or warms your bed faster while being smaller, smarter, and cheaper. ﻿The Pod 6 intelligent sleep system cools or warms your bed faster while being smaller, smarter, and cheaper. Eight Sleep announced the next version of its “intelligent sleep system” designed to regulate the temperature of your bed in response to tracked health and sleep metrics like breathing and heart…",
         "source": "The Verge",
-        "date": "2026-09-22T12:10:08+00:00"
+        "date": "2026-09-23T11:00:00+00:00"
       },
       {
-        "title": "It’s time for the Mac Neo",
-        "url": "https://www.theverge.com/report/998501/apple-mac-mini-m6-price-mac-neo-concept",
-        "summary": "Now that the Mac Mini starts at $900, there’s room for a cheaper Mac desktop with an A-series chip. Now that the Mac Mini starts at $900, there’s room for a cheaper Mac desktop with an A-series chip. That’s why we need a Mac Neo.",
-        "source": "The Verge",
-        "date": "2026-09-22T12:00:00+00:00"
-      },
-      {
-        "title": "Meta patches Muse exploit that let attackers control the AI agent",
-        "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-        "summary": "The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta’s servers to their own endpoint, Ars Technica reports, giving the attacker access to the Muse account. Several design decisions reportedly enabled this flaw, including having Muse dictation occur in the cloud instead of on-device,…",
-        "source": "The Verge",
-        "date": "2026-09-22T11:53:58+00:00"
-      },
-      {
-        "title": "Can you forget how you feel about Meta?",
-        "url": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
-        "summary": "Yet Meta is far from finished. At least, if Meta weren’t Meta. At a launch event, Meta CTO Andrew Bosworth told the press that Meta was contemplating audio-only glasses without cameras.",
-        "source": "The Verge",
-        "date": "2026-09-22T10:00:01+00:00"
-      },
-      {
-        "title": "Apple&#8217;s first live music venue is opening beneath its UK headquarters",
-        "url": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
-        "summary": "﻿Apple Music Hall is a new performance and recording space located in London’s Battersea Power Station. ﻿Apple Music Hall is a new performance and recording space located in London’s Battersea Power Station. The venue, called Apple Music Hall , is located underneath Apple’s European headquarters in London’s iconic Battersea Power Station, and is set to open next week on September 28th . “Apple’s deep love for music…",
-        "source": "The Verge",
-        "date": "2026-09-22T08:35:54+00:00"
-      },
-      {
-        "title": "I said no and Apple said yes",
-        "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
-        "summary": "I only skipped one major version, Apple skipped 10! When Apple advertised their deepfake feature back in June it became obvious Apple does not “think different.” Digging through macOS 27 settings I turned off Siri (again). Note that they removed “Apple Intelligence” from this control. (320 points, 231 comments on Hacker News)",
+        "title": "Jev in 25 Lines of Python",
+        "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+        "summary": "Everyone and their mom is talking about Jev . So here's Jev in 25 lines of Python. Check out NobodyWho . (note: this is a parody blog post, see these links for better/more complete open implementations of Jev: OpenJev , openjev-sglang , and OpenJev on DiffusionGemma .) Everything NobodyWho do is open-source, please leave a star on Github to support us ❤️ (284 points, 91 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-22T08:04:55+00:00"
+        "date": "2026-09-23T07:26:23+00:00"
       },
       {
-        "title": "A cut cable disrupted hundreds of flights across the US",
-        "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
-        "summary": "The line has been repaired, but delays are ongoing. The line has been repaired, but delays are ongoing. “This incident occurred on New Jersey Transit property and involved a New Jersey Transit contractor,” an Amtrak spokesperson told NBC4 .",
+        "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+        "summary": "﻿‘The group will advise on the review and communication of emerging results.’ ﻿‘The group will advise on the review and communication of emerging results.’ After turning a string of spectacular mathematical results into a reputational crisis , OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. Members will not be paid by OpenAI and the group can change its membership as…",
         "source": "The Verge",
-        "date": "2026-09-21T23:48:56+00:00"
+        "date": "2026-09-23T00:17:17+00:00"
       },
       {
-        "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
-        "url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
-        "summary": "The Colorado River faces an ‘unprecedented’ drought as data centers demand more water. The Colorado River faces an ‘unprecedented’ drought as data centers demand more water. The numbers Amazon recently shared about its data center water use also exclude water consumption stemming from electricity generation .",
+        "title": "Paramount will need to release way more movies to make this merger work",
+        "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
+        "summary": "Paramount says it will release more films after merging with Warner Bros., but that promise may be difficult to keep. Paramount/WBD could fulfill its obligations by distributing films that it acquires from other production houses. Paramount/WBD could also flood the zone with completely new, original films it greenlights and finances itself.",
         "source": "The Verge",
-        "date": "2026-09-21T23:15:32+00:00"
+        "date": "2026-09-22T22:26:07+00:00"
       },
       {
-        "title": "Spymarks, Not Watermarks",
-        "url": "https://brand.io/article/spymarks/",
-        "summary": "Audio spymarks operate using principles similar to image spymarks, and they are typically inaudible. Imagine a future where every device is attested and every social media post carries an account-linked spymark. “The social network spymarks every uploaded image.” “The platform introduced spymarking without telling its users.” “Removing the file’s metadata still left the image spymarked.” (494 points, 122 comments on Hacker News)",
+        "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+        "url": "https://foxscript.org/",
+        "summary": "FoxDev Studio is 64-bit throughout . An .fll is a 32-bit image, and every process in a 64-bit application is 64-bit, so nothing inside the application itself could ever open one. Nothing 64-bit needs the bridge: DECLARE ... (367 points, 204 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-21T23:03:49+00:00"
+        "date": "2026-09-22T21:00:30+00:00"
       },
       {
-        "title": "I don't want to read what you didn't write",
-        "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-        "summary": "But do not mistake this for effective writing. In AI-generated writing, detailed information gives the illusion of meaning. Even writing things down loses some of the context. (771 points, 310 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-21T22:30:41+00:00"
-      },
-      {
-        "title": "California tightens rules on AI data center energy and water use",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-        "summary": "Gavin Newsom signed a package of bills requiring AI data centers to pay for upgrades to the local energy grid. Gavin Newsom signed a package of bills requiring AI data centers to pay for upgrades to the local energy grid. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times .",
+        "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+        "summary": "The startup’s AI agent can operate locally across Windows, Mac, and Linux devices. The startup’s AI agent can operate locally across Windows, Mac, and Linux devices. The startup says its new OS3 “agentic operating system” runs in the cloud but operates locally across Windows, Mac, and Linux devices.",
         "source": "The Verge",
-        "date": "2026-09-21T20:29:45+00:00"
+        "date": "2026-09-22T20:52:40+00:00"
+      },
+      {
+        "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
+        "url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
+        "summary": "The new company is a joint venture between Saudi Arabia’s sovereign wealth fund and Foxconn. The new company is a joint venture between Saudi Arabia’s sovereign wealth fund and Foxconn. Rather, it’s a joint venture between Saudi Arabia’s PIF sovereign wealth fund and Foxconn, the Taiwanese company most known for manufacturing the iPhone for Apple.",
+        "source": "The Verge",
+        "date": "2026-09-22T20:14:54+00:00"
+      },
+      {
+        "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+        "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+        "summary": "﻿There are two flagship Snapdragon chips this year, but good luck spotting the difference. ﻿There are two flagship Snapdragon chips this year, but good luck spotting the difference. Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. Despite that, the Extreme is described as having slightly superior performance across its CPU, GPU, and NPU.",
+        "source": "The Verge",
+        "date": "2026-09-22T20:00:00+00:00"
+      },
+      {
+        "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
+        "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
+        "summary": "It also features Sony’s latest camera sensor and audio by Bang & Olufsen. It also features Sony’s latest camera sensor and audio by Bang & Olufsen. Hopefully Motorola’s phone matches that.",
+        "source": "The Verge",
+        "date": "2026-09-22T20:00:00+00:00"
+      },
+      {
+        "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
+        "url": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
+        "summary": "A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earlier this month, would be “available” on older devices like the iPhone 16 and iPhone Air that “support the latest generation of Photographic Styles.” But it turns out that “available” didn’t mean that older iPhone models would have full access to those new features. Apple has since updated…",
+        "source": "The Verge",
+        "date": "2026-09-22T19:48:08+00:00"
+      },
+      {
+        "title": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
+        "url": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
+        "summary": "Google’s Android-powered laptops are almost here, and Best Buy is offering free earbuds with preorders. Google’s Android-powered laptops are almost here, and Best Buy is offering free earbuds with preorders. The Android-powered Googlebooks are coming soon, with familiar brands and specs that rival Windows Copilot machines.",
+        "source": "The Verge",
+        "date": "2026-09-22T19:28:55+00:00"
       }
     ]
   }
