@@ -1,93 +1,107 @@
 {
-  "generated_at": "2026-09-24T12:34:31.884741+00:00",
+  "generated_at": "2026-09-25T12:35:58.122742+00:00",
   "sections": {
     "research": [
       {
-        "title": "On the Diffusibility of High-Dimensional Latents",
-        "url": "https://arxiv.org/abs/2609.28473v1",
-        "summary": "Chao Feng, Zhiyang Xu, Bowei Chen et al. — Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf encoders are not optimized for faithful reconstruction, discarding…",
+        "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+        "url": "https://arxiv.org/abs/2609.30266v1",
+        "summary": "Jeremy Qin, David Schmotz, Derck Prinzhorn et al. — Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own execution traces.…",
         "source": "arXiv",
-        "date": "2026-09-23T17:59:56Z"
+        "date": "2026-09-24T17:59:54Z"
       },
       {
-        "title": "Contrastive Learning for Authorship Verification",
-        "url": "https://arxiv.org/abs/2609.28471v1",
-        "summary": "Peter Kirby — Our results show that contrastive learning outperforms a classification-based approach to authorship verification under the tested settings. We identify loss function, batch size, training duration, pre-trained model,…",
+        "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
+        "url": "https://arxiv.org/abs/2609.30264v1",
+        "summary": "Jiabin Qiu, Zixuan Chen, Hongye Cao et al. — Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low factual prediction…",
         "source": "arXiv",
-        "date": "2026-09-23T17:59:08Z"
+        "date": "2026-09-24T17:59:41Z"
       },
       {
-        "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
-        "url": "https://arxiv.org/abs/2609.28470v1",
-        "summary": "Curtis Northcutt, Inaara Hasmani, Kevin Feng et al. — Artificial intelligence offers an unprecedented opportunity to augment human capabilities, yet progress at the frontier has focused primarily on advancing model capabilities. We introduce StudentBench, a suite of AI…",
+        "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2609.30258v1",
+        "summary": "Sudip Bhujel, Shanghao Shi, Ruiquan Huang et al. — Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal structure can amplify…",
         "source": "arXiv",
-        "date": "2026-09-23T17:57:45Z"
+        "date": "2026-09-24T17:59:18Z"
       },
       {
-        "title": "Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction",
-        "url": "https://arxiv.org/abs/2609.28467v1",
-        "summary": "Zilin Fang, Zishuo Wang, Gim Hee Lee et al. — Social navigation typically assumes a specified goal and focuses on reaching it while respecting social conventions, whereas robot group joining requires predicting where to join based on the group's real-time activity…",
+        "title": "Agentic Detection of Online Conspiracies",
+        "url": "https://arxiv.org/abs/2609.30250v1",
+        "summary": "Lior Biton, Oren Tsur — Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, satire, or mockery.…",
         "source": "arXiv",
-        "date": "2026-09-23T17:55:48Z"
+        "date": "2026-09-24T17:58:43Z"
       },
       {
-        "title": "Even Sharper Bounds for Transductive Learning and Its Applications",
-        "url": "https://arxiv.org/abs/2609.28459v1",
-        "summary": "Yingzhen Yang — We introduce Sharper Transductive Local Complexity (STLC), a localized complexity method for transductive learning under uniform sampling without replacement. The construction starts from a Bernstein-type concentration…",
+        "title": "RAPID: Robot Agentic Programming from Demonstrations",
+        "url": "https://arxiv.org/abs/2609.30249v1",
+        "summary": "Yuyao Liu, Jiayuan Mao, David Hsu et al. — Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrations (RAPID), which…",
         "source": "arXiv",
-        "date": "2026-09-23T17:52:50Z"
+        "date": "2026-09-24T17:58:21Z"
       },
       {
-        "title": "Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark",
-        "url": "https://arxiv.org/abs/2609.28449v1",
-        "summary": "Hamed Taherkhani, Mohammad Abdollahi, Melika Sepidband et al. — Large language models (LLMs) are increasingly used in coding tasks, but their ability to reason about code execution remains unclear. Existing repository-level QA benchmarks mainly evaluate static code understanding and…",
+        "title": "Rolling-WAM: World Action Models with Rolling Imagination",
+        "url": "https://arxiv.org/abs/2609.30247v1",
+        "summary": "Yinghua Zhou, Junjie Ye, Yiqi Zhao et al. — World Action Models (WAMs) couple action generation with future visual prediction for robotic manipulation. However, completing the joint video-action denoising process at each replanning cycle incurs substantial…",
         "source": "arXiv",
-        "date": "2026-09-23T17:46:50Z"
+        "date": "2026-09-24T17:58:03Z"
       },
       {
-        "title": "Nonequilibrium Phases of Repulsive Self-Attention: Chaos, Attention Condensation, and Emergent Locality",
-        "url": "https://arxiv.org/abs/2609.28448v1",
-        "summary": "Qucheng Gao, Zuyi Yang, Xiao Chen — We study the nonequilibrium dynamics of a minimal recurrent transformer with $N$ normalized tokens, $Q=K=I$, and a negative value map $V=-I$. Similarity-based attention selects nearby representations, while the negative…",
+        "title": "JevOut: Natural Context Can Flip Decision Models",
+        "url": "https://arxiv.org/abs/2609.30243v1",
+        "summary": "Zixiang Xu — Dedicated decision models such as Jev map unstructured language to probability distributions over finite choices, allowing their outputs to directly route requests, select tools, and trigger actions.",
         "source": "arXiv",
-        "date": "2026-09-23T17:46:38Z"
+        "date": "2026-09-24T17:57:07Z"
       },
       {
-        "title": "Order-Invariant Answers, Order-Sensitive Representations in Mathematical Reasoning",
-        "url": "https://arxiv.org/abs/2609.28442v1",
-        "summary": "Zhixu Silvia Tao — Reordering a set of mathematical rules without changing its meaning should preserve the correct answer, but must a model's internal representations stay invariant too? We investigate this question using synthetic…",
+        "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
+        "url": "https://arxiv.org/abs/2609.30238v1",
+        "summary": "Wenhao Li, Zhibin Wu, Chong Xiao et al. — Recent research on Multimodal Sentiment Analysis (MSA) has focused on learning from language, visual, and acoustic modalities with incomplete data to infer human sentiment. Most studies typically compensate for missing…",
         "source": "arXiv",
-        "date": "2026-09-23T17:40:57Z"
+        "date": "2026-09-24T17:55:31Z"
       },
       {
-        "title": "Minimal-Norm Univariate Two-Layer ReLU Classification: Exact Solutions and Global Optimality with Skip Connections",
-        "url": "https://arxiv.org/abs/2609.28438v1",
-        "summary": "Karolina Drabik, Ben Lewis, Antoni Puch et al. — We study minimal-norm interpolation and $\\ell_2$-regularized logistic-loss minimization for binary classification by univariate two-layer ReLU networks. We give complete geometric characterizations of the optimal…",
+        "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+        "url": "https://arxiv.org/abs/2609.30233v1",
+        "summary": "Matteo Merler, Bowen Li, Josh Roy et al. — Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic constraints.…",
         "source": "arXiv",
-        "date": "2026-09-23T17:37:26Z"
+        "date": "2026-09-24T17:53:35Z"
       },
       {
-        "title": "Cross-Scale Transfer Learning for Depression Severity Prediction: From PHQ-8 to HAMD-17 Across Languages and Clinical Paradigms",
-        "url": "https://arxiv.org/abs/2609.28430v1",
-        "summary": "Wenjie Feng, Sahba Zojaji, Satoshi Nakamura — This work addresses continuous depression-severity score prediction from clinical interview transcripts under data scarcity. We propose a sequential low-rank adaptation (LoRA) protocol for cross-scale transfer: a Qwen3…",
+        "title": "To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech",
+        "url": "https://arxiv.org/abs/2609.30227v1",
+        "summary": "Debajyoti Mazumder,  Mamta, Abhirama Subramanyam Penamakuri — Online misinformation increasingly appears in spoken formats such as news clips, podcasts, interviews, political speeches, and social media videos, creating a need for fact-checking systems that can verify claims…",
         "source": "arXiv",
-        "date": "2026-09-23T17:30:07Z"
+        "date": "2026-09-24T17:50:40Z"
       },
       {
-        "title": "Context-Continuous Preference Learning for Exoskeleton Personalization",
-        "url": "https://arxiv.org/abs/2609.28427v1",
-        "summary": "Sunin Baek, Sungwoo Park, Daekyum Kim — Personalizing exoskeleton assistance across operating conditions is constrained by the time and physical effort required to collect user feedback. We examined whether a user's preference landscape varies smoothly across…",
+        "title": "PoEM: Predicting RL Outcomes from Existing Policies",
+        "url": "https://arxiv.org/abs/2609.30226v1",
+        "summary": "Kimia Hamidieh, Giannis Daras, Antonio Torralba — Foundation models are post-trained with reinforcement learning (RL) to maximize specific rewards, such as human alignment, correctness, or instruction following. This post-training process is computationally intensive,…",
         "source": "arXiv",
-        "date": "2026-09-23T17:28:08Z"
+        "date": "2026-09-24T17:50:25Z"
       },
       {
-        "title": "Repairability of Inexact Solvers in Recursive State Estimation with Machine Learning",
-        "url": "https://arxiv.org/abs/2609.28425v1",
-        "summary": "Yanjun Ji, Dennis Willsch, Orkun Şensebat et al. — Recursive state estimation often executes approximate numerical solutions inside a feedback loop, where highly accurate local steps do not guarantee better overall results. For a fixed linear Kalman model, we…",
+        "title": "TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations",
+        "url": "https://arxiv.org/abs/2609.30222v1",
+        "summary": "Ayush Jain, Sreeharsha Paruchuri, Ishita Gupta et al. — Existing point tracking models face a fundamental tradeoff: they can either track a sparse set of query points over long horizons, or track all points across only short clips. We introduce TrackEverything, a 3D point…",
         "source": "arXiv",
-        "date": "2026-09-23T17:27:07Z"
+        "date": "2026-09-24T17:48:20Z"
       }
     ],
     "labs": [
+      {
+        "title": "Automating coherent long-form video generation",
+        "url": "https://research.google/blog/coherent-long-form-video-generation/",
+        "summary": "To ensure semantic coherence across an entire video, we present AI video co-director , a hierarchical multi-agent framework formalizing video storytelling as a global optimization problem. AI video co-director multi-agent pipeline. To address this, we developed Video Quality Question Answering (VQQA), a unified, multi-agent framework generalizable across diverse input modalities and video generation tasks.",
+        "source": "Google Research",
+        "date": "2026-09-24T19:40:00+00:00"
+      },
+      {
+        "title": "Introducing Gemini 3.8 Live with Live Avatar",
+        "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+        "summary": "Gemini 3.8 Live with Live Avatar brings real-time visual presence to Gemini’s conversational AI. Starting today, Gemini 3.8 Live with Live Avatar is available in Gemini Enterprise. Gemini 3.8 Live with Live Avatar is available in Gemini Enterprise .",
+        "source": "Google DeepMind",
+        "date": "2026-09-24T16:20:39+00:00"
+      },
       {
         "title": "Advancing Private AI Compute with secure, server-side memory",
         "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
@@ -157,192 +171,178 @@
         "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
         "source": "OpenAI",
         "date": "2026-09-23T02:00:00+00:00"
-      },
-      {
-        "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-        "url": "https://openai.com/index/airbnb-gpt-6-astra",
-        "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-        "source": "OpenAI",
-        "date": "2026-09-23T01:00:00+00:00"
-      },
-      {
-        "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-        "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-        "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-        "source": "OpenAI",
-        "date": "2026-09-23T00:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Everything new coming to Meta’s AI agent Muse",
-        "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-        "summary": "The agent is powered by Muse Spark , Meta’s multimodal AI model built for agentic work. Muse will also be integrated with Meta’s smart glasses line , the company announced. Wang noted that the company wants Muse to connect with small business too.",
+        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+        "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+        "summary": "The new $250 million India vehicle is a fraction of the capital available across Lightspeed’s global platform. The total included a $980 million early-stage venture fund. The same team that led Lightspeed’s previous four India funds will manage the new fund, per the letter.",
         "source": "TechCrunch",
-        "date": "2026-09-24T01:13:32+00:00"
+        "date": "2026-09-25T05:00:00+00:00"
       },
       {
-        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-        "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. The device comes with a tiny screen that displays the avatar representing the agent. Connect with 10,000+ founders, VCs, operators, and tech leaders.",
+        "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+        "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+        "summary": "As of September 24, Waymo had 1,102 autonomous vehicles registered in the state. The Ojai robotaxi, equipped with Waymo’s sixth-generation self-driving system, is supposed to help Waymo reach mass scale. Waymo appears willing to absorb that cost.",
         "source": "TechCrunch",
-        "date": "2026-09-24T00:46:17+00:00"
+        "date": "2026-09-24T23:24:33+00:00"
       },
       {
-        "title": "Meta is trying VR glasses (again), this time with more IMAX",
-        "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-        "summary": "The glasses are largely built for entertainment. Users will be able to download and watch movies. The glasses will also come with Meta AI — its automated virtual assistant — built in, which means that users will be able to talk to the glasses and automate various tasks via voice command.",
+        "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+        "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Lindsey Elliott is big into bolts. Your next big connection is at Disrupt.",
         "source": "TechCrunch",
-        "date": "2026-09-23T23:47:35+00:00"
+        "date": "2026-09-24T20:45:00+00:00"
       },
       {
-        "title": "Meta introduces camera-free AI glasses",
-        "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-        "summary": "Confirming earlier reports , Meta announced its first pair of camera-free AI glasses, the clunkily named Ray-Ban Meta Audio, at its Connect 2026 conference on Wednesday. Alongside the glasses, Meta announced its next-generation AI glasses (the ones with cameras), the Ray-Ban Meta (Gen 3). The glasses will also be roll out to more countries globally, Meta said.",
+        "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+        "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+        "summary": "Buy one pass to Disrupt 2026 and get 50% off a second of the same ticket type. Lock in your 50% off a second pass savings now . Buy one Founder pass and get a second one for 50% off — a $425 savings .",
         "source": "TechCrunch",
-        "date": "2026-09-23T23:39:44+00:00"
+        "date": "2026-09-24T19:15:00+00:00"
       },
       {
-        "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
-        "url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
-        "summary": "Headphones?” One fashion reporter friend simply said “No,” when I asked for thoughts on the robots and Vogue World San Francisco. The dancing robots at Vogue World Milan were inevitable, then, as is Vogue World San Francisco and as was Jeff Bezos and his wife, Lauren Sanchez, getting the splashy Vogue wedding cover and co-hosting the 2026 Met Gala. But maybe Vogue World is saving all the good stuff for San Francisco.",
+        "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+        "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. The AI Lab PrismML — founded by Caltech researchers and advised by UC Berkeley’s Ion Stoica — has created a version of its tiny language models for smart glasses running on Qualcomm’s Snapdragon chips. But no smart glasses running PrismML have been announced yet.",
         "source": "TechCrunch",
-        "date": "2026-09-23T23:33:22+00:00"
+        "date": "2026-09-24T19:00:42+00:00"
       },
       {
-        "title": "Anthropic says its biology lab has already found something big",
-        "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. But Amodei and Anthropic are not just emphasizing the discovery. “Our lab, located in the Bay Area, looks like a typical molecular biology lab.",
+        "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+        "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+        "summary": "Feather Robotics , a humanoid startup founded last year, is developing a robot for either timeline. Mai admits that Feather took a page from Chinese robotics companies like Unitree. Feather’s other advantage is its price.",
         "source": "TechCrunch",
-        "date": "2026-09-23T22:17:39+00:00"
+        "date": "2026-09-24T18:52:38+00:00"
       },
       {
-        "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
-        "url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
-        "summary": "Amazon’s chief sustainability officer said Tuesday the company doesn’t know how it will achieve its goal of net-zero carbon emissions by 2040. As power moves, responsibility follows. With few exceptions, companies prioritize revenue growth over climate commitments.",
+        "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+        "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Oracle has sent a force majeure notice to the developer of Project Jupiter, a Stargate data center campus in New Mexico, Bloomberg first reported Thursday. “Project Jupiter remains on our planned schedule,” Oracle said in a statement to CNBC .",
         "source": "TechCrunch",
-        "date": "2026-09-23T21:21:33+00:00"
+        "date": "2026-09-24T18:11:44+00:00"
       },
       {
-        "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-        "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Connect with 10,000+ founders, VCs, operators, and tech leaders. Subscribe for the industry’s biggest tech news",
+        "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+        "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+        "summary": "What the Charm is, however, is on-trend. It seems the Muse Charm is actually a twist on what some young people are already doing with their Apple Watch. That brings us back to the Muse Charm.",
         "source": "TechCrunch",
-        "date": "2026-09-23T20:35:17+00:00"
+        "date": "2026-09-24T17:39:24+00:00"
       },
       {
-        "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-        "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Connect with 10,000+ founders, VCs, operators, and tech leaders. Subscribe for the industry’s biggest tech news",
+        "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
+        "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+        "summary": "Databricks announced on Thursday that it has acquired an early-stage spreadsheet startup called Row Zero. The story goes that Databricks’ finance team fell in love with Row Zero because it was a cloud tool that could scale beyond 1 million live spreadsheet rows. They were combining Row Zero with Databricks’ homegrown AI agent called Genie.",
         "source": "TechCrunch",
-        "date": "2026-09-23T19:31:28+00:00"
+        "date": "2026-09-24T17:07:55+00:00"
       },
       {
-        "title": "Modal Motors is trying to cut China out of electric motors entirely",
-        "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Michael Van Steenburg thinks he’s ahead of the game. “China’s already flexed its muscles a couple times,” Van Steenburg said, referring to the country restricting access to rare-earth products .",
+        "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+        "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Google’s new AI-powered feature that turns photos of your outfits into a virtual closet — one seemingly inspired by Cher’s iconic virtual wardrobe app featured in the movie “Clueless” — is now available to everyone in the U.S., Brazil, and India, on both iOS and Android devices. Android users gained access first, starting in June, and now…",
         "source": "TechCrunch",
-        "date": "2026-09-23T19:05:00+00:00"
+        "date": "2026-09-24T17:00:00+00:00"
       },
       {
-        "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
-        "url": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
-        "summary": "The increases come roughly a year after Disney’s last major streaming price hike . The new prices are reflected on Disney+’s support page . Disney+ and Hulu are hardly alone.",
+        "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+        "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+        "summary": "Founder Summit was formerly known as Early Stage and All Stage . Then there’s Founder Summit week, taking place November 1-7. Connect with 10,000+ founders, VCs, operators, and tech leaders.",
         "source": "TechCrunch",
-        "date": "2026-09-23T18:06:27+00:00"
+        "date": "2026-09-24T16:46:47+00:00"
       },
       {
-        "title": "The old cybersecurity model is breaking",
-        "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
-        "summary": "You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com .",
+        "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+        "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+        "summary": "Here, frontier models will still lead. Some of those open-weight models are Chinese. In certain companies, we created the models together.",
         "source": "TechCrunch",
-        "date": "2026-09-23T17:44:02+00:00"
+        "date": "2026-09-24T16:35:13+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Control Resonant gets tough, but gives you the tools to deal with it",
-        "url": "https://www.theverge.com/games/999464/control-resonant-assist-mode",
-        "summary": "Remedy’s Control sequel has a generous assist mode that lets you tweak the difficulty whenever you want. The assist mode is accessible from Control Resonant ’s pause menu. I started using assist mode quite early.",
-        "source": "The Verge",
-        "date": "2026-09-24T12:00:00+00:00"
-      },
-      {
-        "title": "OpenAI agents hacked an Australian government website in search for data",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
-        "summary": "Australia’s leader said it was ‘unacceptable’ OpenAI took months to report the incident. Australia’s leader said it was ‘unacceptable’ OpenAI took months to report the incident. OpenAI’s artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites.",
-        "source": "The Verge",
-        "date": "2026-09-24T11:52:32+00:00"
-      },
-      {
-        "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-        "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-        "summary": "﻿The new frontier AI model should arrive long before the end of 2026. ﻿The new frontier AI model should arrive long before the end of 2026. Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Google hasn’t released a new flagship AI model since the Gemini 3 series in November 2025.",
-        "source": "The Verge",
-        "date": "2026-09-24T09:04:18+00:00"
-      },
-      {
-        "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-        "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-        "summary": "273 points, 128 comments on Hacker News",
+        "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+        "url": "https://www.dawo.community/en/",
+        "summary": "Working together on a digitally autonomous workplace for the Dutch government The DAWO community is an open community in which government, industry and society jointly build a digitally autonomous workplace for the Dutch government. DAWO brings public values and technology together. DAWO brings government, industry and open source together. (413 points, 182 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-24T08:23:03+00:00"
+        "date": "2026-09-25T08:06:49+00:00"
       },
       {
-        "title": "Feds Target AI Critics as \"Foreign Agents\"",
-        "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-        "summary": "In June, Senate Intelligence Committee chairman Tom Cotton (R-AR) asked then-acting Attorney General Todd Blanche to investigate “foreign influence efforts targeting the buildout of American AI infrastructure.” The letter continues: “Alarming reports indicate that a network of foreign actors, led by the Chinese Communist Party (CCP), is attempting to manipulate U.S. policy and public opinion on data centers.”… (310 points, 318 comments on Hacker News)",
+        "title": "Here’s the Tesla Semi… again",
+        "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+        "summary": "The long-delayed truck is finally in production and reaching customers this week. Remember the Tesla Semi? Tesla is positioning the Semi as an integrated fleet product, not just an electric truck.",
+        "source": "The Verge",
+        "date": "2026-09-25T02:12:57+00:00"
+      },
+      {
+        "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+        "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+        "summary": "Windows Central ’s Zac Bowden reports that even though the new 12-inch Microsoft Surface Pro and 13-inch Surface Laptop technically meet the system requirements for a Copilot Plus PC, Microsoft is not calling them by that name anymore. “These are not called Copilot Plus PCs,” Microsoft Surface CVP Brett Ostrom told the publication. The flagship feature of Copilot Plus PCs, Microsoft’s Recall feature, wasn’t well…",
+        "source": "The Verge",
+        "date": "2026-09-25T01:25:53+00:00"
+      },
+      {
+        "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+        "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+        "summary": "Lawyers suing Meta called the hats an example of its ‘culture of privilege abuse.’ Lawyers suing Meta called the hats an example of its ‘culture of privilege abuse.’ Meta’s lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens’ safety and mental health . Lawyers suing the company said this week that…",
+        "source": "The Verge",
+        "date": "2026-09-24T23:50:55+00:00"
+      },
+      {
+        "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+        "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+        "summary": "Also, they do AI for “intelligent hearables.” Also, they do AI for “intelligent hearables.” What if your wireless earbuds — or audio glasses — could stream high-quality lossless audio that doesn’t cut out when you leave your phone on the bedside charger or buried in the couch? If that sounds like a familiar promise, it’s probably because Qualcomm promised something similar back in 2023 with the “S7 Pro sound…",
+        "source": "The Verge",
+        "date": "2026-09-24T23:42:39+00:00"
+      },
+      {
+        "title": "Microsoft puts Brad Smith in charge of communications",
+        "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+        "summary": "Microsoft’s communications are moving over to the legal and corporate side of the house. Microsoft’s communications are moving over to the legal and corporate side of the house. Communications has never been more important to Microsoft.",
+        "source": "The Verge",
+        "date": "2026-09-24T22:08:22+00:00"
+      },
+      {
+        "title": "California is chasing wealth that has feet",
+        "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+        "summary": "Los Angeles County’s land alone is worth more than the entire billionaire base the wealth tax is chasing. And land is the rare tax base that just sits there. California is going the other way, layering a brand-new tax on mobile billionaire wealth on top of an already-broken property tax. (259 points, 700 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-24T00:41:31+00:00"
+        "date": "2026-09-24T20:34:32+00:00"
       },
       {
-        "title": "Meta is making a standalone Muse AI gadget",
-        "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-        "summary": "The Muse Charm doesn’t require a phone, and it’s supposed to ship this year. Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight’s Meta Connect presentation.",
-        "source": "The Verge",
-        "date": "2026-09-24T00:15:20+00:00"
-      },
-      {
-        "title": "Meta Connect 2026: The 7 biggest announcements",
-        "url": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
-        "summary": "﻿This year’s Meta Connect featured a new lightweight VR wearable and camera-free Ray-Ban Meta smart glasses. ﻿This year’s Meta Connect featured a new lightweight VR wearable and camera-free Ray-Ban Meta smart glasses. Meta launched an updated version of its main Ray-Ban Meta glasses, starting at $449. Alongside its pricier Ray-Ban glasses, Meta also announced some updates to its in-house line of glasses.",
-        "source": "The Verge",
-        "date": "2026-09-24T00:00:33+00:00"
-      },
-      {
-        "title": "Meta VR Glasses",
-        "url": "https://www.meta.com/vr-glasses/",
-        "summary": "435 points, 382 comments on Hacker News",
+        "title": "Opus 5.5 is good at explainer videos",
+        "url": "https://launchvideo.io",
+        "summary": "“make a modern slick and punchy video for a modern startup that works on inference” The whole product is one agent file, three tools, and this form. OpenComputer runs the agent, the microVM it renders in, the model gateway, and the session API the page polls. Free account, the agent lands in your project with its tools and prompt. diggerhq/shipvideo: the agent, the renderer, and this web app. (300 points, 156 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-23T23:47:56+00:00"
+        "date": "2026-09-24T20:28:47+00:00"
       },
       {
-        "title": "Meta’s next VR device isn’t a headset — it’s glasses",
-        "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
-        "summary": "The new Meta VR Glasses offer immersive experiences in a shape that’s much easier to actually wear. Meta is launching new VR hardware: a pair of glasses. Snap’s idea is the augmented reality-focused Specs glasses , and Meta is working on AR glasses too.",
+        "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+        "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+        "summary": "Google’s Live Avatar can lip-sync and show different facial expressions. Google’s Live Avatar can lip-sync and show different facial expressions. The “Live Avatar” will lip-sync and show different facial expressions during conversations, but it’s currently only available to Gemini Enterprise customers.",
         "source": "The Verge",
-        "date": "2026-09-23T23:42:10+00:00"
+        "date": "2026-09-24T19:59:26+00:00"
       },
       {
-        "title": "Muse is coming to Meta smart glasses",
-        "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-        "summary": "Meta’s AI agent is arriving on its glasses alongside a wave of new accessibility, camera, and navigation features.﻿ Meta’s AI agent is arriving on its glasses alongside a wave of new accessibility, camera, and navigation features.﻿ Just a couple of weeks after launching Muse , Meta announced that it’s “working on” bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Muse is…",
+        "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
+        "url": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
+        "summary": "We also spotted a discounted OLED gaming monitor, Anker wireless chargers, and Nintendo’s sale is still going. We also spotted a discounted OLED gaming monitor, Anker wireless chargers, and Nintendo’s sale is still going. See our ethics statement.",
         "source": "The Verge",
-        "date": "2026-09-23T23:40:56+00:00"
+        "date": "2026-09-24T18:19:23+00:00"
       },
       {
-        "title": "Meta ditches the camera on its newest smart glasses",
-        "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-        "summary": "Audio-only Ray-Bans have arrived alongside more camera-equipped glasses. Plus, the camera-less glasses are lighter. Inside the safe bubble of Meta’s campus, everyone wears these glasses.",
+        "title": "Jensen Huang talks about AI and climate change like a supervillain",
+        "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+        "summary": "In the interview, Huang also (unfairly) attributes record renewable energy purchases to AI. He blames climate action for stalling the construction of energy infrastructure, presumably for fossil fuels. And now, data centers are in turn spurring the development of far more fossil fuel infrastructure.",
         "source": "The Verge",
-        "date": "2026-09-23T23:37:17+00:00"
+        "date": "2026-09-24T18:04:44+00:00"
       },
       {
-        "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-        "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-        "summary": "Muse started as a chatbot but will soon be an AI avatar you can talk with over video. Muse started as a chatbot but will soon be an AI avatar you can talk with over video. Since its recent launch, the primary way to talk with Muse was through a chat interface, but you’ll soon be able to have live video conversations with your Muse avatar.",
+        "title": "Meta is going to let you build games with AI right on your phone",
+        "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+        "summary": "The next push for Meta’s Horizon platform involves AI-generated video games. The next push for Meta’s Horizon platform involves AI-generated video games. Meta has a new plan to get people to make games for its Horizon social platform.",
         "source": "The Verge",
-        "date": "2026-09-23T23:19:42+00:00"
+        "date": "2026-09-24T17:52:29+00:00"
       }
     ]
   }
