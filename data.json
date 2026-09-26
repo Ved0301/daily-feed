@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T12:35:58.122742+00:00",
+  "generated_at": "2026-09-26T12:04:58.177450+00:00",
   "sections": {
     "research": [
       {
@@ -89,6 +89,13 @@
     ],
     "labs": [
       {
+        "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+        "url": "https://openai.com/index/proaction",
+        "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+        "source": "OpenAI",
+        "date": "2026-09-25T19:00:00+00:00"
+      },
+      {
         "title": "Automating coherent long-form video generation",
         "url": "https://research.google/blog/coherent-long-form-video-generation/",
         "summary": "To ensure semantic coherence across an entire video, we present AI video co-director , a hierarchical multi-agent framework formalizing video storytelling as a global optimization problem. AI video co-director multi-agent pipeline. To address this, we developed Video Quality Question Answering (VQQA), a unified, multi-agent framework generalizable across diverse input modalities and video generation tasks.",
@@ -96,32 +103,11 @@
         "date": "2026-09-24T19:40:00+00:00"
       },
       {
-        "title": "Introducing Gemini 3.8 Live with Live Avatar",
-        "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-        "summary": "Gemini 3.8 Live with Live Avatar brings real-time visual presence to Gemini’s conversational AI. Starting today, Gemini 3.8 Live with Live Avatar is available in Gemini Enterprise. Gemini 3.8 Live with Live Avatar is available in Gemini Enterprise .",
-        "source": "Google DeepMind",
-        "date": "2026-09-24T16:20:39+00:00"
-      },
-      {
-        "title": "Advancing Private AI Compute with secure, server-side memory",
-        "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-        "summary": "A technical update on our Private AI Compute architecture, which will enable persistent, cross-device AI memory with on-device privacy standards. Today, we are sharing how we will bring private, server-side memory to our Private AI Compute platform. Adding private, persistent memory to Private AI Compute shows how deeply personal assistance can be private by design.",
-        "source": "Google DeepMind",
-        "date": "2026-09-23T16:00:57+00:00"
-      },
-      {
         "title": "Two years of OpenAI Academy",
         "url": "https://openai.com/index/two-years-of-openai-academy",
         "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
         "source": "OpenAI",
         "date": "2026-09-23T16:00:00+00:00"
-      },
-      {
-        "title": "Gemini 3.8 text-to-speech says hello",
-        "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-        "summary": "Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS are our most expressive audio generation models yet. Hear how Gemini 3.8 Flash TTS generates a super-tinny, monotone robot voice. Hear how Gemini 3.8 Flash TTS enables natural, highly expressive conversations for interactive voice agents.",
-        "source": "Google DeepMind",
-        "date": "2026-09-23T15:25:14+00:00"
       },
       {
         "title": "OpenAI extends cyber access to Ukraine for civilian defense",
@@ -171,178 +157,192 @@
         "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
         "source": "OpenAI",
         "date": "2026-09-23T02:00:00+00:00"
+      },
+      {
+        "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+        "url": "https://openai.com/index/airbnb-gpt-6-astra",
+        "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+        "source": "OpenAI",
+        "date": "2026-09-23T01:00:00+00:00"
+      },
+      {
+        "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+        "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+        "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+        "source": "OpenAI",
+        "date": "2026-09-23T00:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-        "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-        "summary": "The new $250 million India vehicle is a fraction of the capital available across Lightspeed’s global platform. The total included a $980 million early-stage venture fund. The same team that led Lightspeed’s previous four India funds will manage the new fund, per the letter.",
+        "title": "At Meta Connect, the company’s smart glasses were everywhere",
+        "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+        "summary": "One of the more notable products I had an opportunity to demo were Meta’s new, still-unreleased, audio-only smart glasses . The experience of wearing these glasses was interesting. But smart glasses remain a niche that has yet to truly find its footing.",
         "source": "TechCrunch",
-        "date": "2026-09-25T05:00:00+00:00"
+        "date": "2026-09-26T01:08:57+00:00"
       },
       {
-        "title": "Waymo is scaling fast: Here’s what the fleet data shows",
-        "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
-        "summary": "As of September 24, Waymo had 1,102 autonomous vehicles registered in the state. The Ojai robotaxi, equipped with Waymo’s sixth-generation self-driving system, is supposed to help Waymo reach mass scale. Waymo appears willing to absorb that cost.",
+        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+        "summary": "Crusoe, a Denver-based AI data center startup that recently raised $3.9 billion , has ended plans to use a new line of stationary power plants developed by fellow Denver company Boom Supersonic. There is also a gas-turbine power plant that is used for backup power only. Crusoe is also building a 900 megawatt data center in Abilene for Microsoft, which will be powered by on-site gas turbines.",
         "source": "TechCrunch",
-        "date": "2026-09-24T23:24:33+00:00"
+        "date": "2026-09-25T23:11:10+00:00"
       },
       {
-        "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-        "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Lindsey Elliott is big into bolts. Your next big connection is at Disrupt.",
+        "title": "Automattic has a new board after failed attempt to put CEO on leave",
+        "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+        "summary": "Following the failed board vote, member Toni Schneider, a founding CEO of Automattic and now CEO of Bluesky, resigned from his board position. Mullenweg himself removed General Ann Dunwoody from the board, and board member Sue Decker also resigned. The board never publicly shared its reasons for trying to oust Mullenweg.",
         "source": "TechCrunch",
-        "date": "2026-09-24T20:45:00+00:00"
+        "date": "2026-09-25T23:04:34+00:00"
       },
       {
-        "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-        "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-        "summary": "Buy one pass to Disrupt 2026 and get 50% off a second of the same ticket type. Lock in your 50% off a second pass savings now . Buy one Founder pass and get a second one for 50% off — a $425 savings .",
+        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+        "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. After images that users uploaded to OpenAI models were included in training data, AI agents operating in the company’s research environment posted them on public image hosting sites. Fifty-three “user-provided images” were “posted to image-hosting sites as links that weren’t publicly listed,” the company said for the first time.",
         "source": "TechCrunch",
-        "date": "2026-09-24T19:15:00+00:00"
+        "date": "2026-09-25T22:20:47+00:00"
       },
       {
-        "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-        "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. The AI Lab PrismML — founded by Caltech researchers and advised by UC Berkeley’s Ion Stoica — has created a version of its tiny language models for smart glasses running on Qualcomm’s Snapdragon chips. But no smart glasses running PrismML have been announced yet.",
+        "title": "Meta opens early access program for new Muse features",
+        "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+        "summary": "Meta posted a link to a prompt on X that, when shared with Muse, will log that you’re interested in joining Meta’s early access program. Just announced lots of new features…want early access? Your Muse can ask for you.",
         "source": "TechCrunch",
-        "date": "2026-09-24T19:00:42+00:00"
+        "date": "2026-09-25T20:34:53+00:00"
       },
       {
-        "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-        "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-        "summary": "Feather Robotics , a humanoid startup founded last year, is developing a robot for either timeline. Mai admits that Feather took a page from Chinese robotics companies like Unitree. Feather’s other advantage is its price.",
+        "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
+        "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Parents have spent years trying to keep their kids off social media, so some kids headed to the one place no adult would think to look for them: NPR. On this week’s “ This American Life ,” host Ira Glass tells the story of the team behind NPR’s podcast “Wild Card,” who noticed a flood of baffling comments under their Spotify episodes last…",
         "source": "TechCrunch",
-        "date": "2026-09-24T18:52:38+00:00"
+        "date": "2026-09-25T20:33:58+00:00"
       },
       {
-        "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-        "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Oracle has sent a force majeure notice to the developer of Project Jupiter, a Stargate data center campus in New Mexico, Bloomberg first reported Thursday. “Project Jupiter remains on our planned schedule,” Oracle said in a statement to CNBC .",
+        "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+        "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Anthropic will spend $11.6 billion over seven years on Akamai’s cloud infrastructure, Akamai said Thursday . Akamai won’t see revenue from the deal this year.",
         "source": "TechCrunch",
-        "date": "2026-09-24T18:11:44+00:00"
+        "date": "2026-09-25T19:13:38+00:00"
       },
       {
-        "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-        "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-        "summary": "What the Charm is, however, is on-trend. It seems the Muse Charm is actually a twist on what some young people are already doing with their Apple Watch. That brings us back to the Muse Charm.",
+        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+        "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Wahlberg will sit down with Bruce K. Your next big connection is at Disrupt.",
         "source": "TechCrunch",
-        "date": "2026-09-24T17:39:24+00:00"
+        "date": "2026-09-25T18:48:33+00:00"
       },
       {
-        "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
-        "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
-        "summary": "Databricks announced on Thursday that it has acquired an early-stage spreadsheet startup called Row Zero. The story goes that Databricks’ finance team fell in love with Row Zero because it was a cloud tool that could scale beyond 1 million live spreadsheet rows. They were combining Row Zero with Databricks’ homegrown AI agent called Genie.",
+        "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+        "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Nscale , a British neocloud, has secured $3.36 billion in financing ahead of its IPO later this year, the company announced on Friday. Led by hedge fund Third Point, the new investment includes $2.36 billion available to the company immediately and an additional $1 billion coming from existing investor Nvidia, which Nscale will receive in…",
         "source": "TechCrunch",
-        "date": "2026-09-24T17:07:55+00:00"
+        "date": "2026-09-25T18:33:59+00:00"
       },
       {
-        "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-        "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Google’s new AI-powered feature that turns photos of your outfits into a virtual closet — one seemingly inspired by Cher’s iconic virtual wardrobe app featured in the movie “Clueless” — is now available to everyone in the U.S., Brazil, and India, on both iOS and Android devices. Android users gained access first, starting in June, and now…",
+        "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
+        "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
+        "summary": "The startup says it can promote better soil health while cutting farmers’ tilling costs by half or more. The Aeropod should produce similar results at just £100 per hectare, Afolayan said. But Afolayan said that farmers have been leading adoption.",
         "source": "TechCrunch",
-        "date": "2026-09-24T17:00:00+00:00"
+        "date": "2026-09-25T17:30:00+00:00"
       },
       {
-        "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-        "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-        "summary": "Founder Summit was formerly known as Early Stage and All Stage . Then there’s Founder Summit week, taking place November 1-7. Connect with 10,000+ founders, VCs, operators, and tech leaders.",
+        "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+        "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+        "summary": "Thousands of databases hosted by development platform Supabase are exposing people’s sensitive information to the public web, new security research by cybersecurity firm UpGuard has found. “Security at Supabase is never finished. Zack Whittaker is the security editor at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-09-24T16:46:47+00:00"
+        "date": "2026-09-25T17:29:46+00:00"
       },
       {
-        "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-        "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-        "summary": "Here, frontier models will still lead. Some of those open-weight models are Chinese. In certain companies, we created the models together.",
+        "title": "Astra and Opus just passed Turing’s other test",
+        "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Carter Leffen, a developer, simply told OpenAI’s newest model, Astra, to search a database of Enigma messages for an unbroken message and decode it. Weierud notes that there are just seven unbroken Enigma messages remaining, along with one message where the plaintext is known but the code is still unbroken.",
         "source": "TechCrunch",
-        "date": "2026-09-24T16:35:13+00:00"
+        "date": "2026-09-25T17:24:36+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-        "url": "https://www.dawo.community/en/",
-        "summary": "Working together on a digitally autonomous workplace for the Dutch government The DAWO community is an open community in which government, industry and society jointly build a digitally autonomous workplace for the Dutch government. DAWO brings public values and technology together. DAWO brings government, industry and open source together. (413 points, 182 comments on Hacker News)",
+        "title": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
+        "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
+        "summary": "﻿Yes, if it’s Amflow’s TL Carbon — but expect compromises. Still, as an eMTB, the Amflow TL Carbon makes plenty of compromises. I really enjoyed my time with the versatile Amflow TL Carbon e-bike.",
+        "source": "The Verge",
+        "date": "2026-09-26T07:00:00+00:00"
+      },
+      {
+        "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+        "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+        "summary": "A New Mexico jury on Friday found Facebook liable for deceiving users about privacy protections on the social media platform. \"This is a historic verdict, not just for New Mexico, but for every state fighting to hold Big Tech accountable.\" Jurors also found Facebook misled the public about investigations into data brokers following the Cambridge Analytica scandal , finding the company liable for over 2 million… (258 points, 60 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-25T08:06:49+00:00"
+        "date": "2026-09-26T01:36:50+00:00"
       },
       {
-        "title": "Here’s the Tesla Semi… again",
-        "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
-        "summary": "The long-delayed truck is finally in production and reaching customers this week. Remember the Tesla Semi? Tesla is positioning the Semi as an integrated fleet product, not just an electric truck.",
-        "source": "The Verge",
-        "date": "2026-09-25T02:12:57+00:00"
-      },
-      {
-        "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
-        "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
-        "summary": "Windows Central ’s Zac Bowden reports that even though the new 12-inch Microsoft Surface Pro and 13-inch Surface Laptop technically meet the system requirements for a Copilot Plus PC, Microsoft is not calling them by that name anymore. “These are not called Copilot Plus PCs,” Microsoft Surface CVP Brett Ostrom told the publication. The flagship feature of Copilot Plus PCs, Microsoft’s Recall feature, wasn’t well…",
-        "source": "The Verge",
-        "date": "2026-09-25T01:25:53+00:00"
-      },
-      {
-        "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
-        "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
-        "summary": "Lawyers suing Meta called the hats an example of its ‘culture of privilege abuse.’ Lawyers suing Meta called the hats an example of its ‘culture of privilege abuse.’ Meta’s lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens’ safety and mental health . Lawyers suing the company said this week that…",
-        "source": "The Verge",
-        "date": "2026-09-24T23:50:55+00:00"
-      },
-      {
-        "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
-        "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
-        "summary": "Also, they do AI for “intelligent hearables.” Also, they do AI for “intelligent hearables.” What if your wireless earbuds — or audio glasses — could stream high-quality lossless audio that doesn’t cut out when you leave your phone on the bedside charger or buried in the couch? If that sounds like a familiar promise, it’s probably because Qualcomm promised something similar back in 2023 with the “S7 Pro sound…",
-        "source": "The Verge",
-        "date": "2026-09-24T23:42:39+00:00"
-      },
-      {
-        "title": "Microsoft puts Brad Smith in charge of communications",
-        "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
-        "summary": "Microsoft’s communications are moving over to the legal and corporate side of the house. Microsoft’s communications are moving over to the legal and corporate side of the house. Communications has never been more important to Microsoft.",
-        "source": "The Verge",
-        "date": "2026-09-24T22:08:22+00:00"
-      },
-      {
-        "title": "California is chasing wealth that has feet",
-        "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
-        "summary": "Los Angeles County’s land alone is worth more than the entire billionaire base the wealth tax is chasing. And land is the rare tax base that just sits there. California is going the other way, layering a brand-new tax on mobile billionaire wealth on top of an already-broken property tax. (259 points, 700 comments on Hacker News)",
+        "title": "What even is an OS now?",
+        "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+        "summary": "How is software distributed? Then boxed software altogether. And software was something users bought, not built. (212 points, 295 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-24T20:34:32+00:00"
+        "date": "2026-09-25T21:36:56+00:00"
       },
       {
-        "title": "Opus 5.5 is good at explainer videos",
-        "url": "https://launchvideo.io",
-        "summary": "“make a modern slick and punchy video for a modern startup that works on inference” The whole product is one agent file, three tools, and this form. OpenComputer runs the agent, the microVM it renders in, the model gateway, and the session API the page polls. Free account, the agent lands in your project with its tools and prompt. diggerhq/shipvideo: the agent, the renderer, and this web app. (300 points, 156 comments on Hacker News)",
+        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "url": "https://swarmtraces.org/",
+        "summary": "When a swarm of 700 OpenAI agents hacked Hugging Face in July, they left behind a public trail of evidence. The data the OpenAI agents posted publicly on the internet included Hugging Face API keys and other sensitive data. The agents also leveraged Tailscale to reuse their access. (520 points, 329 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-24T20:28:47+00:00"
+        "date": "2026-09-25T21:09:27+00:00"
       },
       {
-        "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-        "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-        "summary": "Google’s Live Avatar can lip-sync and show different facial expressions. Google’s Live Avatar can lip-sync and show different facial expressions. The “Live Avatar” will lip-sync and show different facial expressions during conversations, but it’s currently only available to Gemini Enterprise customers.",
-        "source": "The Verge",
-        "date": "2026-09-24T19:59:26+00:00"
+        "title": "How we learned to stop worrying and love campus surveillance",
+        "url": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
+        "summary": "An AI-capable surveillance camera in Building 10, post-bedazzling. Just an idea!) Thank you, Glorious MIT administration and Glorious MIT Corporation, for knowing what is in our best interests. Note: The IBAISBIAOMITCORPICBBTC initiative is inspired by the artwork of Jill Magid , MIT alumna, and Julia Scher , MIT Visual Arts Program Fellow and former MIT Lecturer. [14] [1] See… (217 points, 125 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-25T19:56:57+00:00"
       },
       {
-        "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
-        "url": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
-        "summary": "We also spotted a discounted OLED gaming monitor, Anker wireless chargers, and Nintendo’s sale is still going. We also spotted a discounted OLED gaming monitor, Anker wireless chargers, and Nintendo’s sale is still going. See our ethics statement.",
-        "source": "The Verge",
-        "date": "2026-09-24T18:19:23+00:00"
+        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+        "url": "https://ollaya.dev/",
+        "summary": "Ollaya: median of a five-question request through the HTTP API on an NVIDIA RTX 4090 (laya in fp16, the others in fp32). Every model runs on the CPU; an NVIDIA GPU on Linux, Windows, WSL 2 or Docker takes a request down to milliseconds. One binary, one command: ollaya run laya . macOS, Windows, Linux and Docker · Apache-2.0 · GitHub (483 points, 122 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-25T18:33:50+00:00"
       },
       {
-        "title": "Jensen Huang talks about AI and climate change like a supervillain",
-        "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-        "summary": "In the interview, Huang also (unfairly) attributes record renewable energy purchases to AI. He blames climate action for stalling the construction of energy infrastructure, presumably for fossil fuels. And now, data centers are in turn spurring the development of far more fossil fuel infrastructure.",
+        "title": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
+        "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
+        "summary": "We also found discounted DJI Osmo Nano bundles, the first sale on the Nothing Phone 4A Pro, and a $35 Ember warming mug. We also found discounted DJI Osmo Nano bundles, the first sale on the Nothing Phone 4A Pro, and a $35 Ember warming mug. Enter the code ROKUOLED400 to bring the $1,299 65-inch Pro Series down to $799.",
         "source": "The Verge",
-        "date": "2026-09-24T18:04:44+00:00"
+        "date": "2026-09-25T18:18:57+00:00"
       },
       {
-        "title": "Meta is going to let you build games with AI right on your phone",
-        "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-        "summary": "The next push for Meta’s Horizon platform involves AI-generated video games. The next push for Meta’s Horizon platform involves AI-generated video games. Meta has a new plan to get people to make games for its Horizon social platform.",
+        "title": "Phones don’t have lights",
+        "url": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
+        "summary": "On The Vergecast: Meta Connect, Muse, Googlebooks, and more. On The Vergecast: Meta Connect, Muse, Googlebooks, and more. We have thoughts on the new audio-only Ray-Ban Meta glasses and the new Meta VR Glasses.",
         "source": "The Verge",
-        "date": "2026-09-24T17:52:29+00:00"
+        "date": "2026-09-25T17:42:59+00:00"
+      },
+      {
+        "title": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
+        "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
+        "summary": "﻿Moment Pro Camera II and Blackmagic Camera don’t limit you to just four aperture settings like the iOS’ camera app. ﻿Moment Pro Camera II and Blackmagic Camera don’t limit you to just four aperture settings like the iOS’ camera app. BlackMagic Design’s well-featured and still completely free BlackMagic Camera app for iOS was one of the first third-party options to introduce support for the iPhone 18 Pro’s…",
+        "source": "The Verge",
+        "date": "2026-09-25T17:23:30+00:00"
+      },
+      {
+        "title": "Tesla&#8217;s Optimus robot is going through growing pains",
+        "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+        "summary": "﻿Tesla’s humanoid robot reportedly still needs humans to manually assemble its hands. ﻿Tesla’s humanoid robot reportedly still needs humans to manually assemble its hands. Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced “several hundred robots a week” last month, after it repurposed its Model S and Model X production lines…",
+        "source": "The Verge",
+        "date": "2026-09-25T17:01:36+00:00"
+      },
+      {
+        "title": "Meta makes the Muse filesystem even more accessible",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+        "summary": "Muse will now gladly zip up its entire filesystem for you to download without hesitation. Muse will now gladly zip up its entire filesystem for you to download without hesitation. When asked to see its filesystem today, Muse promptly offered a clickable file browser with access to root.",
+        "source": "The Verge",
+        "date": "2026-09-25T16:49:53+00:00"
+      },
+      {
+        "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
+        "url": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
+        "summary": "The next HomePod Mini will be available in new colors while the new iPad mini’s FaceTime camera has been relocated. The next HomePod Mini will be available in new colors while the new iPad mini’s FaceTime camera has been relocated. The new iPad mini 8 will replace the seventh-generation model that launched two years ago with an upgrade from Apple’s A17 Pro chip to the recently announced A20 Pro found in the iPhone…",
+        "source": "The Verge",
+        "date": "2026-09-25T16:22:05+00:00"
       }
     ]
   }
