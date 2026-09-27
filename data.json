@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T12:04:58.177450+00:00",
+  "generated_at": "2026-09-27T12:49:04.069918+00:00",
   "sections": {
     "research": [
       {
@@ -103,11 +103,32 @@
         "date": "2026-09-24T19:40:00+00:00"
       },
       {
+        "title": "Introducing Gemini 3.8 Live with Live Avatar",
+        "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+        "summary": "Gemini 3.8 Live with Live Avatar brings real-time visual presence to Gemini’s conversational AI. Starting today, Gemini 3.8 Live with Live Avatar is available in Gemini Enterprise. Gemini 3.8 Live with Live Avatar is available in Gemini Enterprise .",
+        "source": "Google DeepMind",
+        "date": "2026-09-24T16:20:39+00:00"
+      },
+      {
+        "title": "Advancing Private AI Compute with secure, server-side memory",
+        "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+        "summary": "A technical update on our Private AI Compute architecture, which will enable persistent, cross-device AI memory with on-device privacy standards. Today, we are sharing how we will bring private, server-side memory to our Private AI Compute platform. Adding private, persistent memory to Private AI Compute shows how deeply personal assistance can be private by design.",
+        "source": "Google DeepMind",
+        "date": "2026-09-23T16:00:57+00:00"
+      },
+      {
         "title": "Two years of OpenAI Academy",
         "url": "https://openai.com/index/two-years-of-openai-academy",
         "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
         "source": "OpenAI",
         "date": "2026-09-23T16:00:00+00:00"
+      },
+      {
+        "title": "Gemini 3.8 text-to-speech says hello",
+        "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+        "summary": "Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS are our most expressive audio generation models yet. Hear how Gemini 3.8 Flash TTS generates a super-tinny, monotone robot voice. Hear how Gemini 3.8 Flash TTS enables natural, highly expressive conversations for interactive voice agents.",
+        "source": "Google DeepMind",
+        "date": "2026-09-23T15:25:14+00:00"
       },
       {
         "title": "OpenAI extends cyber access to Ukraine for civilian defense",
@@ -150,30 +171,58 @@
         "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
         "source": "OpenAI",
         "date": "2026-09-23T10:00:00+00:00"
-      },
-      {
-        "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-        "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-        "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-        "source": "OpenAI",
-        "date": "2026-09-23T02:00:00+00:00"
-      },
-      {
-        "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-        "url": "https://openai.com/index/airbnb-gpt-6-astra",
-        "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-        "source": "OpenAI",
-        "date": "2026-09-23T01:00:00+00:00"
-      },
-      {
-        "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-        "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-        "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-        "source": "OpenAI",
-        "date": "2026-09-23T00:00:00+00:00"
       }
     ],
     "startups": [
+      {
+        "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
+        "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+        "summary": "The science behind PNOĒ isn’t new. The timing is good for PNOĒ. Food and Drug Administration, and Atsalakis said that “we do not provide medical recommendations.” Instead, PNOĒ considers itself a wellness device.",
+        "source": "TechCrunch",
+        "date": "2026-09-27T01:40:30+00:00"
+      },
+      {
+        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+        "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+        "summary": "Google said at the time that the technology would allow shoppers to buy eligible products through Gemini and AI Mode using a Google-hosted checkout experience. The Flipkart test seen by TechCrunch appears different from the Google-hosted checkout experience the Gemini maker demonstrated earlier. Notably, Google has a financial relationship with Flipkart — alongside its technology partnership with the e-commerce…",
+        "source": "TechCrunch",
+        "date": "2026-09-27T01:30:00+00:00"
+      },
+      {
+        "title": "Insurers claim AI is already increasing healthcare costs",
+        "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Connect with 10,000+ founders, VCs, operators, and tech leaders. Subscribe for the industry’s biggest tech news",
+        "source": "TechCrunch",
+        "date": "2026-09-26T21:02:06+00:00"
+      },
+      {
+        "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+        "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children. Connect with 10,000+ founders, VCs, operators, and tech leaders.",
+        "source": "TechCrunch",
+        "date": "2026-09-26T20:24:45+00:00"
+      },
+      {
+        "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+        "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+        "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads. The Hollywood Reporter published a story Friday saying that TikTok, Meta, YouTube, and X had all refused to run paid ads promoting the trailer for “Musk.” However, when TechCrunch reached out to Meta on Saturday,…",
+        "source": "TechCrunch",
+        "date": "2026-09-26T17:44:00+00:00"
+      },
+      {
+        "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
+        "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+        "summary": "So when Levoit launched its Vital Pet Pro Air Purifier, I was curious to see whether it could actually make a noticeable difference. The pre-filter catches larger debris such as pet hair, while the main filter targets smaller particles and dander. Pet Mode is designed specifically around the way pet-related particles can build up throughout the day.",
+        "source": "TechCrunch",
+        "date": "2026-09-26T17:00:00+00:00"
+      },
+      {
+        "title": "I created an interactive digital avatar of myself — and you can talk to it",
+        "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+        "summary": "Originally based in the U.K., Synthesia is a hot digital avatar startup alongside others like D-ID, HeyGen, and Colossyan. We picked an article to train the interactive avatar on, and then one of the teams built my interactive avatar , which is powered by a combination of voice-to-text, video, language, and text-to-voice models. The voice-to-text model turns what people say into text, the agentic language model…",
+        "source": "TechCrunch",
+        "date": "2026-09-26T14:00:00+00:00"
+      },
       {
         "title": "At Meta Connect, the company’s smart glasses were everywhere",
         "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
@@ -208,141 +257,92 @@
         "summary": "Meta posted a link to a prompt on X that, when shared with Muse, will log that you’re interested in joining Meta’s early access program. Just announced lots of new features…want early access? Your Muse can ask for you.",
         "source": "TechCrunch",
         "date": "2026-09-25T20:34:53+00:00"
-      },
-      {
-        "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
-        "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Parents have spent years trying to keep their kids off social media, so some kids headed to the one place no adult would think to look for them: NPR. On this week’s “ This American Life ,” host Ira Glass tells the story of the team behind NPR’s podcast “Wild Card,” who noticed a flood of baffling comments under their Spotify episodes last…",
-        "source": "TechCrunch",
-        "date": "2026-09-25T20:33:58+00:00"
-      },
-      {
-        "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-        "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Anthropic will spend $11.6 billion over seven years on Akamai’s cloud infrastructure, Akamai said Thursday . Akamai won’t see revenue from the deal this year.",
-        "source": "TechCrunch",
-        "date": "2026-09-25T19:13:38+00:00"
-      },
-      {
-        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-        "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Wahlberg will sit down with Bruce K. Your next big connection is at Disrupt.",
-        "source": "TechCrunch",
-        "date": "2026-09-25T18:48:33+00:00"
-      },
-      {
-        "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-        "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Nscale , a British neocloud, has secured $3.36 billion in financing ahead of its IPO later this year, the company announced on Friday. Led by hedge fund Third Point, the new investment includes $2.36 billion available to the company immediately and an additional $1 billion coming from existing investor Nvidia, which Nscale will receive in…",
-        "source": "TechCrunch",
-        "date": "2026-09-25T18:33:59+00:00"
-      },
-      {
-        "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
-        "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
-        "summary": "The startup says it can promote better soil health while cutting farmers’ tilling costs by half or more. The Aeropod should produce similar results at just £100 per hectare, Afolayan said. But Afolayan said that farmers have been leading adoption.",
-        "source": "TechCrunch",
-        "date": "2026-09-25T17:30:00+00:00"
-      },
-      {
-        "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-        "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-        "summary": "Thousands of databases hosted by development platform Supabase are exposing people’s sensitive information to the public web, new security research by cybersecurity firm UpGuard has found. “Security at Supabase is never finished. Zack Whittaker is the security editor at TechCrunch.",
-        "source": "TechCrunch",
-        "date": "2026-09-25T17:29:46+00:00"
-      },
-      {
-        "title": "Astra and Opus just passed Turing’s other test",
-        "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Carter Leffen, a developer, simply told OpenAI’s newest model, Astra, to search a database of Enigma messages for an unbroken message and decode it. Weierud notes that there are just seven unbroken Enigma messages remaining, along with one message where the plaintext is known but the code is still unbroken.",
-        "source": "TechCrunch",
-        "date": "2026-09-25T17:24:36+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
-        "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
-        "summary": "﻿Yes, if it’s Amflow’s TL Carbon — but expect compromises. Still, as an eMTB, the Amflow TL Carbon makes plenty of compromises. I really enjoyed my time with the versatile Amflow TL Carbon e-bike.",
+        "title": "Why OLPC’s $100 laptop never stood a chance",
+        "url": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
+        "summary": "﻿On Version History: David Imel and Adi Robertson debate if the OLPC XO-1 was innovative hardware or just a bad idea. ﻿On Version History: David Imel and Adi Robertson debate if the OLPC XO-1 was innovative hardware or just a bad idea. In the next episode of Version History, David Pierce is joined by The Verge ’s Adi Robertson and tech journalist David Imel to figure out why OLPC didn’t work, whether there’s…",
         "source": "The Verge",
-        "date": "2026-09-26T07:00:00+00:00"
+        "date": "2026-09-27T12:25:00+00:00"
       },
       {
-        "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-        "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-        "summary": "A New Mexico jury on Friday found Facebook liable for deceiving users about privacy protections on the social media platform. \"This is a historic verdict, not just for New Mexico, but for every state fighting to hold Big Tech accountable.\" Jurors also found Facebook misled the public about investigations into data brokers following the Cambridge Analytica scandal , finding the company liable for over 2 million… (258 points, 60 comments on Hacker News)",
+        "title": "Googlebooks might be the real deal",
+        "url": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
+        "summary": "﻿Plus, in this week’s Installer: New Meta glasses, Remedy’s Control sequel, Microsoft’s updated Surface Mouse, and more. ﻿Plus, in this week’s Installer: New Meta glasses, Remedy’s Control sequel, Microsoft’s updated Surface Mouse, and more. Welcome to Installer No. Tell me everything: installer@theverge.com .",
+        "source": "The Verge",
+        "date": "2026-09-27T12:00:00+00:00"
+      },
+      {
+        "title": "The smart home graveyard is getting crowded",
+        "url": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
+        "summary": "The shutdown of June Oven is just another reminder that the cloud was never ours to keep. The shutdown of June Oven is just another reminder that the cloud was never ours to keep. The smart home has reached a tipping point.",
+        "source": "The Verge",
+        "date": "2026-09-27T12:00:00+00:00"
+      },
+      {
+        "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+        "summary": "251 points, 162 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-26T01:36:50+00:00"
+        "date": "2026-09-27T08:44:04+00:00"
       },
       {
-        "title": "What even is an OS now?",
-        "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-        "summary": "How is software distributed? Then boxed software altogether. And software was something users bought, not built. (212 points, 295 comments on Hacker News)",
+        "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+        "summary": "Authors Guild CEO Mary Rasenberger observed, “These filings reveal shocking disdain for writers and their work through repeated, intentional decisions to steal books rather than pay for them with full knowledge that their products will destroy the careers of authors. With more than 18,000 members, the Authors Guild is the nation’s oldest and largest professional organization for published writers. Join the Guild and… (328 points, 282 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-25T21:36:56+00:00"
+        "date": "2026-09-27T06:19:33+00:00"
       },
       {
-        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "url": "https://swarmtraces.org/",
-        "summary": "When a swarm of 700 OpenAI agents hacked Hugging Face in July, they left behind a public trail of evidence. The data the OpenAI agents posted publicly on the internet included Hugging Face API keys and other sensitive data. The agents also leveraged Tailscale to reuse their access. (520 points, 329 comments on Hacker News)",
+        "title": "Apple hit with $5.7 billion in damages over haptic patents",
+        "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+        "summary": "Apple’s Taptic Engine was found to infringe on two of Taction’s patents. Apple’s Taptic Engine was found to infringe on two of Taction’s patents. Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents.",
+        "source": "The Verge",
+        "date": "2026-09-26T21:30:01+00:00"
+      },
+      {
+        "title": "Decap is the man behind the drums behind your favorite song",
+        "url": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
+        "summary": "Producer and sound designer Decap’s ‘Drums That Knock’ are all over some of the biggest hits of the last 10 years. Producer and sound designer Decap’s ‘Drums That Knock’ are all over some of the biggest hits of the last 10 years. So many people listen to music all day on their phone without ever truly feeling the low end.",
+        "source": "The Verge",
+        "date": "2026-09-26T19:30:00+00:00"
+      },
+      {
+        "title": "DeepSeek Elastic Compute (DSec)",
+        "url": "https://arxiv.org/abs/2609.22978",
+        "summary": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Learn more about arXivLabs . (270 points, 89 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-25T21:09:27+00:00"
+        "date": "2026-09-26T18:22:41+00:00"
       },
       {
-        "title": "How we learned to stop worrying and love campus surveillance",
-        "url": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
-        "summary": "An AI-capable surveillance camera in Building 10, post-bedazzling. Just an idea!) Thank you, Glorious MIT administration and Glorious MIT Corporation, for knowing what is in our best interests. Note: The IBAISBIAOMITCORPICBBTC initiative is inspired by the artwork of Jill Magid , MIT alumna, and Julia Scher , MIT Visual Arts Program Fellow and former MIT Lecturer. [14] [1] See… (217 points, 125 comments on Hacker News)",
+        "title": "Kids turned the comment section of an NPR podcast into a group chat",
+        "url": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
+        "summary": "Blocked from other social media, middle schoolers have had to get creative. Blocked from other social media, middle schoolers have had to get creative. Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR’s Wild Card into an impromptu group chat.",
+        "source": "The Verge",
+        "date": "2026-09-26T17:32:35+00:00"
+      },
+      {
+        "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+        "url": "https://github.com/reladraw/reladraw",
+        "summary": "reladraw is a text language for diagrams where you say where things go. For example, this is a diagram drawn in draw.io: This is the same diagram, but written in reladraw ( examples/arch.reladraw ). Particularly helpful is a diagram you could not represent in reladraw. (333 points, 90 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-25T19:56:57+00:00"
+        "date": "2026-09-26T17:10:40+00:00"
       },
       {
-        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-        "url": "https://ollaya.dev/",
-        "summary": "Ollaya: median of a five-question request through the HTTP API on an NVIDIA RTX 4090 (laya in fp16, the others in fp32). Every model runs on the CPU; an NVIDIA GPU on Linux, Windows, WSL 2 or Docker takes a request down to milliseconds. One binary, one command: ollaya run laya . macOS, Windows, Linux and Docker · Apache-2.0 · GitHub (483 points, 122 comments on Hacker News)",
+        "title": "OpenAI pauses training of its ‘most capable models’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+        "summary": "OpenAI keeps uncovering incidents of its models behaving in ‘unexpected or concerning’ ways. OpenAI keeps uncovering incidents of its models behaving in ‘unexpected or concerning’ ways. As reports of OpenAI’s models breaking containment , hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models.",
+        "source": "The Verge",
+        "date": "2026-09-26T16:34:59+00:00"
+      },
+      {
+        "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+        "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+        "summary": "525 points, 205 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-25T18:33:50+00:00"
-      },
-      {
-        "title": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
-        "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
-        "summary": "We also found discounted DJI Osmo Nano bundles, the first sale on the Nothing Phone 4A Pro, and a $35 Ember warming mug. We also found discounted DJI Osmo Nano bundles, the first sale on the Nothing Phone 4A Pro, and a $35 Ember warming mug. Enter the code ROKUOLED400 to bring the $1,299 65-inch Pro Series down to $799.",
-        "source": "The Verge",
-        "date": "2026-09-25T18:18:57+00:00"
-      },
-      {
-        "title": "Phones don’t have lights",
-        "url": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
-        "summary": "On The Vergecast: Meta Connect, Muse, Googlebooks, and more. On The Vergecast: Meta Connect, Muse, Googlebooks, and more. We have thoughts on the new audio-only Ray-Ban Meta glasses and the new Meta VR Glasses.",
-        "source": "The Verge",
-        "date": "2026-09-25T17:42:59+00:00"
-      },
-      {
-        "title": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
-        "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
-        "summary": "﻿Moment Pro Camera II and Blackmagic Camera don’t limit you to just four aperture settings like the iOS’ camera app. ﻿Moment Pro Camera II and Blackmagic Camera don’t limit you to just four aperture settings like the iOS’ camera app. BlackMagic Design’s well-featured and still completely free BlackMagic Camera app for iOS was one of the first third-party options to introduce support for the iPhone 18 Pro’s…",
-        "source": "The Verge",
-        "date": "2026-09-25T17:23:30+00:00"
-      },
-      {
-        "title": "Tesla&#8217;s Optimus robot is going through growing pains",
-        "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
-        "summary": "﻿Tesla’s humanoid robot reportedly still needs humans to manually assemble its hands. ﻿Tesla’s humanoid robot reportedly still needs humans to manually assemble its hands. Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced “several hundred robots a week” last month, after it repurposed its Model S and Model X production lines…",
-        "source": "The Verge",
-        "date": "2026-09-25T17:01:36+00:00"
-      },
-      {
-        "title": "Meta makes the Muse filesystem even more accessible",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-        "summary": "Muse will now gladly zip up its entire filesystem for you to download without hesitation. Muse will now gladly zip up its entire filesystem for you to download without hesitation. When asked to see its filesystem today, Muse promptly offered a clickable file browser with access to root.",
-        "source": "The Verge",
-        "date": "2026-09-25T16:49:53+00:00"
-      },
-      {
-        "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
-        "url": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
-        "summary": "The next HomePod Mini will be available in new colors while the new iPad mini’s FaceTime camera has been relocated. The next HomePod Mini will be available in new colors while the new iPad mini’s FaceTime camera has been relocated. The new iPad mini 8 will replace the seventh-generation model that launched two years ago with an upgrade from Apple’s A17 Pro chip to the recently announced A20 Pro found in the iPhone…",
-        "source": "The Verge",
-        "date": "2026-09-25T16:22:05+00:00"
+        "date": "2026-09-26T16:12:18+00:00"
       }
     ]
   }
