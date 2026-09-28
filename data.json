@@ -1,90 +1,90 @@
 {
-  "generated_at": "2026-09-27T12:49:04.069918+00:00",
+  "generated_at": "2026-09-28T15:00:16.249434+00:00",
   "sections": {
     "research": [
       {
-        "title": "LLM Agents Can Easily Tamper With Their Own Traces",
-        "url": "https://arxiv.org/abs/2609.30266v1",
-        "summary": "Jeremy Qin, David Schmotz, Derck Prinzhorn et al. — Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own execution traces.…",
+        "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
+        "url": "https://arxiv.org/abs/2609.31619v1",
+        "summary": "Parsa Hosseini, Akasha Tigalappanavara, Sumit Nawathe et al. — Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping mechanisms or by…",
         "source": "arXiv",
-        "date": "2026-09-24T17:59:54Z"
+        "date": "2026-09-25T17:59:52Z"
       },
       {
-        "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
-        "url": "https://arxiv.org/abs/2609.30264v1",
-        "summary": "Jiabin Qiu, Zixuan Chen, Hongye Cao et al. — Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low factual prediction…",
+        "title": "Gap-free Differentially Private PCA for Gaussian Data",
+        "url": "https://arxiv.org/abs/2609.31614v1",
+        "summary": "Alina Ene, Huy L. Nguyen — We give a gap-free differentially private algorithm for the principal component analysis (PCA) problem with Gaussian data.",
         "source": "arXiv",
-        "date": "2026-09-24T17:59:41Z"
+        "date": "2026-09-25T17:58:38Z"
       },
       {
-        "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2609.30258v1",
-        "summary": "Sudip Bhujel, Shanghao Shi, Ruiquan Huang et al. — Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal structure can amplify…",
+        "title": "First-Order Stationarity of Reverse Diffusions",
+        "url": "https://arxiv.org/abs/2609.31612v1",
+        "summary": "Zhifeng Chen, Chenyang Jiang, Yazhen Wang — We develop the corresponding first-order theory for diffusion models. First, the SDE-based reverse-time flows of overdamped and…",
         "source": "arXiv",
-        "date": "2026-09-24T17:59:18Z"
+        "date": "2026-09-25T17:57:43Z"
       },
       {
-        "title": "Agentic Detection of Online Conspiracies",
-        "url": "https://arxiv.org/abs/2609.30250v1",
-        "summary": "Lior Biton, Oren Tsur — Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, satire, or mockery.…",
+        "title": "Statistical attribute alignment for black-box generative AI via output post-processing",
+        "url": "https://arxiv.org/abs/2609.31607v1",
+        "summary": "Kevin Jiang, Morgane Austern, Edgar Dobriban et al. — Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-generated output aligns…",
         "source": "arXiv",
-        "date": "2026-09-24T17:58:43Z"
+        "date": "2026-09-25T17:55:49Z"
       },
       {
-        "title": "RAPID: Robot Agentic Programming from Demonstrations",
-        "url": "https://arxiv.org/abs/2609.30249v1",
-        "summary": "Yuyao Liu, Jiayuan Mao, David Hsu et al. — Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrations (RAPID), which…",
+        "title": "User Model Extraction via Belief Self-Distillation",
+        "url": "https://arxiv.org/abs/2609.31603v1",
+        "summary": "Ali Holmov, Yiran Huang, Kirill Bykov et al. — Large language models (LLMs) implicitly infer attributes of their users and adapt their behavior accordingly, yet these beliefs remain difficult to inspect and causally manipulate. We introduce Belief Self-Distillation…",
         "source": "arXiv",
-        "date": "2026-09-24T17:58:21Z"
+        "date": "2026-09-25T17:54:32Z"
       },
       {
-        "title": "Rolling-WAM: World Action Models with Rolling Imagination",
-        "url": "https://arxiv.org/abs/2609.30247v1",
-        "summary": "Yinghua Zhou, Junjie Ye, Yiqi Zhao et al. — World Action Models (WAMs) couple action generation with future visual prediction for robotic manipulation. However, completing the joint video-action denoising process at each replanning cycle incurs substantial…",
+        "title": "New LoRA Skills Should Read but Never Write",
+        "url": "https://arxiv.org/abs/2609.31600v1",
+        "summary": "Zeyan Li, Panqi Yang, Qirong Guo et al. — Low-rank adapters (LoRA) make it cheap to fine-tune a large language model once per task, but combining several independently trained adapters into one model remains difficult: merging the updates in weight space causes…",
         "source": "arXiv",
-        "date": "2026-09-24T17:58:03Z"
+        "date": "2026-09-25T17:54:01Z"
       },
       {
-        "title": "JevOut: Natural Context Can Flip Decision Models",
-        "url": "https://arxiv.org/abs/2609.30243v1",
-        "summary": "Zixiang Xu — Dedicated decision models such as Jev map unstructured language to probability distributions over finite choices, allowing their outputs to directly route requests, select tools, and trigger actions.",
+        "title": "Common-Mode Collapse and Recovery in Direct Feedback Alignment",
+        "url": "https://arxiv.org/abs/2609.31589v1",
+        "summary": "Varun Reddy, Bernardo L. Sabatini, Houman Safaai — Direct feedback alignment (DFA) trains hidden layers through fixed random projections of output error. With tanh hidden units and independent sigmoid outputs, plain stochastic gradient descent can stall near the loss of…",
         "source": "arXiv",
-        "date": "2026-09-24T17:57:07Z"
+        "date": "2026-09-25T17:43:40Z"
       },
       {
-        "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
-        "url": "https://arxiv.org/abs/2609.30238v1",
-        "summary": "Wenhao Li, Zhibin Wu, Chong Xiao et al. — Recent research on Multimodal Sentiment Analysis (MSA) has focused on learning from language, visual, and acoustic modalities with incomplete data to infer human sentiment. Most studies typically compensate for missing…",
+        "title": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
+        "url": "https://arxiv.org/abs/2609.31587v1",
+        "summary": "Md Shohel Arman, Igor Molybog — We investigate whether natural-language documentation helps coding agents resolve software issues, and we build the tools to construct and evaluate it. We introduce a roundtrip benchmark that scores code descriptions by…",
         "source": "arXiv",
-        "date": "2026-09-24T17:55:31Z"
+        "date": "2026-09-25T17:42:22Z"
       },
       {
-        "title": "Coding Agents for Generalized Task and Motion Planning Problems",
-        "url": "https://arxiv.org/abs/2609.30233v1",
-        "summary": "Matteo Merler, Bowen Li, Josh Roy et al. — Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic constraints.…",
+        "title": "Trust Guided Decision Transformer",
+        "url": "https://arxiv.org/abs/2609.31586v1",
+        "summary": "Chainesh Gautam, Raghuram Bharadwaj Diddigi, Chandramouli Kamanchi et al. — Decision Transformer performance degrades on long rollouts because the conditioning context drifts out of the training distribution. We show that this drift is visible through the model's own next state prediction…",
         "source": "arXiv",
-        "date": "2026-09-24T17:53:35Z"
+        "date": "2026-09-25T17:42:19Z"
       },
       {
-        "title": "To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech",
-        "url": "https://arxiv.org/abs/2609.30227v1",
-        "summary": "Debajyoti Mazumder,  Mamta, Abhirama Subramanyam Penamakuri — Online misinformation increasingly appears in spoken formats such as news clips, podcasts, interviews, political speeches, and social media videos, creating a need for fact-checking systems that can verify claims…",
+        "title": "OC-GS: Gaussian Splatting for Irregular Turntable Capture",
+        "url": "https://arxiv.org/abs/2609.31572v1",
+        "summary": "Jae Joong Lee, Bedrich Benes — Uneven rotation and dropped frames make equal-angle assumptions unreliable for turntable reconstruction. We present OC-GS, an object-centric Gaussian splatting that refines each image's angle while maintaining a shared…",
         "source": "arXiv",
-        "date": "2026-09-24T17:50:40Z"
+        "date": "2026-09-25T17:35:05Z"
       },
       {
-        "title": "PoEM: Predicting RL Outcomes from Existing Policies",
-        "url": "https://arxiv.org/abs/2609.30226v1",
-        "summary": "Kimia Hamidieh, Giannis Daras, Antonio Torralba — Foundation models are post-trained with reinforcement learning (RL) to maximize specific rewards, such as human alignment, correctness, or instruction following. This post-training process is computationally intensive,…",
+        "title": "Strategically Diverse Sampling for Self-Training",
+        "url": "https://arxiv.org/abs/2609.31571v1",
+        "summary": "Alexander Gurung, Esmeralda S. Whitammer, Mirella Lapata — Many LLM training and inference methods, including RL and test-time scaling, depend on repeated sampling, but benefit only when the responses meaningfully differ. Self-training faces the same challenge: training data is…",
         "source": "arXiv",
-        "date": "2026-09-24T17:50:25Z"
+        "date": "2026-09-25T17:35:05Z"
       },
       {
-        "title": "TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations",
-        "url": "https://arxiv.org/abs/2609.30222v1",
-        "summary": "Ayush Jain, Sreeharsha Paruchuri, Ishita Gupta et al. — Existing point tracking models face a fundamental tradeoff: they can either track a sparse set of query points over long horizons, or track all points across only short clips. We introduce TrackEverything, a 3D point…",
+        "title": "Uncertainty and Explainability in Deep Rough Volatility: A Neural Information-Theoretic Posterior Approach",
+        "url": "https://arxiv.org/abs/2609.31570v1",
+        "summary": "Damiano Brigo, Raphaël Huser, Dan Leonte — Deep learning has substantially accelerated the calibration of complex stochastic-volatility models, but neural point calibration alone does not capture the uncertainty remaining after an implied-volatility (IV) surface…",
         "source": "arXiv",
-        "date": "2026-09-24T17:48:20Z"
+        "date": "2026-09-25T17:34:56Z"
       }
     ],
     "labs": [
@@ -112,7 +112,7 @@
       {
         "title": "Advancing Private AI Compute with secure, server-side memory",
         "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-        "summary": "A technical update on our Private AI Compute architecture, which will enable persistent, cross-device AI memory with on-device privacy standards. Today, we are sharing how we will bring private, server-side memory to our Private AI Compute platform. Adding private, persistent memory to Private AI Compute shows how deeply personal assistance can be private by design.",
+        "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
         "source": "Google DeepMind",
         "date": "2026-09-23T16:00:57+00:00"
       },
@@ -175,174 +175,174 @@
     ],
     "startups": [
       {
-        "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
-        "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-        "summary": "The science behind PNOĒ isn’t new. The timing is good for PNOĒ. Food and Drug Administration, and Atsalakis said that “we do not provide medical recommendations.” Instead, PNOĒ considers itself a wellness device.",
+        "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+        "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+        "summary": "It’s the bureau’s first acknowledgement that the personal information of FBI agents was taken in the breach. Do you work at the FBI and have received a notice about the data breach? Zack Whittaker is the security editor at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-09-27T01:40:30+00:00"
+        "date": "2026-09-28T14:50:30+00:00"
       },
       {
-        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-        "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-        "summary": "Google said at the time that the technology would allow shoppers to buy eligible products through Gemini and AI Mode using a Google-hosted checkout experience. The Flipkart test seen by TechCrunch appears different from the Google-hosted checkout experience the Gemini maker demonstrated earlier. Notably, Google has a financial relationship with Flipkart — alongside its technology partnership with the e-commerce…",
+        "title": "Next five VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+        "summary": "Hundreds of hours spent evaluating startups from around the world. Sara Deshpande, General Partner, Maven Ventures Sara Deshpande is a general partner at Maven Ventures , where she invests in seed-stage companies built around emerging consumer behaviors and trends. Jason Risch, Partner, Greylock Jason Risch is a partner at Greylock , where he invests in enterprise security, AI and ML infrastructure, data platforms,…",
         "source": "TechCrunch",
-        "date": "2026-09-27T01:30:00+00:00"
+        "date": "2026-09-28T14:30:00+00:00"
       },
       {
-        "title": "Insurers claim AI is already increasing healthcare costs",
-        "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Connect with 10,000+ founders, VCs, operators, and tech leaders. Subscribe for the industry’s biggest tech news",
+        "title": "Modulate raises $25M for its voice models and analysis suite",
+        "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+        "summary": "Boston-based voice intelligence startup Modulate has raised $25 in new funding for its platform that uses an array of small models to offer enterprises transcription, emotional analysis, deepfake and AI music detection, and policy enforcement for voice agents in regulated industries. In its early days, the company focused on providing voice modulation for gaming. Huffman said Modulate can give granular data to…",
         "source": "TechCrunch",
-        "date": "2026-09-26T21:02:06+00:00"
+        "date": "2026-09-28T14:05:00+00:00"
       },
       {
-        "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-        "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children. Connect with 10,000+ founders, VCs, operators, and tech leaders.",
+        "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
+        "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+        "summary": "Book Exhibit Table Now. This is the last week and your final opportunity to book your TechCrunch Disrupt 2026 exhibit table. Book your exhibit table now.",
         "source": "TechCrunch",
-        "date": "2026-09-26T20:24:45+00:00"
+        "date": "2026-09-28T14:00:00+00:00"
       },
       {
-        "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-        "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
-        "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads. The Hollywood Reporter published a story Friday saying that TikTok, Meta, YouTube, and X had all refused to run paid ads promoting the trailer for “Musk.” However, when TechCrunch reached out to Meta on Saturday,…",
+        "title": "Insuretech Outmarket raises $34.5M just months after prior round",
+        "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+        "summary": "Vishal Sankhala led product at a digital life insurance distributor Ethos before it went public earlier this year. Other startups trying to help insurance brokers include Fulcrum AI and Further AI. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-09-26T17:44:00+00:00"
+        "date": "2026-09-28T14:00:00+00:00"
       },
       {
-        "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
-        "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
-        "summary": "So when Levoit launched its Vital Pet Pro Air Purifier, I was curious to see whether it could actually make a noticeable difference. The pre-filter catches larger debris such as pet hair, while the main filter targets smaller particles and dander. Pet Mode is designed specifically around the way pet-related particles can build up throughout the day.",
+        "title": "ElevenLabs’ new v4 speech model supports more expression control and 90 languages",
+        "url": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
+        "summary": "ElevenLabs launched two new speech models on Monday, called ElevenLabs v4 and v4 Turbo, offering more expression control, lower latency for voice agents, and support for more than 90 languages. The company released its v3 model last year, and teased the model at an event in Warsaw earlier this year . ElevenLabs raised $500 million earlier this year from Sequoia earlier this year , in a round led by Sequoia that…",
         "source": "TechCrunch",
-        "date": "2026-09-26T17:00:00+00:00"
+        "date": "2026-09-28T14:00:00+00:00"
       },
       {
-        "title": "I created an interactive digital avatar of myself — and you can talk to it",
-        "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-        "summary": "Originally based in the U.K., Synthesia is a hot digital avatar startup alongside others like D-ID, HeyGen, and Colossyan. We picked an article to train the interactive avatar on, and then one of the teams built my interactive avatar , which is powered by a combination of voice-to-text, video, language, and text-to-voice models. The voice-to-text model turns what people say into text, the agentic language model…",
+        "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+        "summary": "When asked to perform a task, Instinct uses its own phone number and computer. Instinct declined to offer interviews with founder Noah Shinn alongside the fundraising news, but shared a statement attributed to him: “We’re building Instinct to be the best personal agent that can handle the deeply personal nuances of everyday life. This funding helps us bring Instinct to more people and continue building the future of…",
         "source": "TechCrunch",
-        "date": "2026-09-26T14:00:00+00:00"
+        "date": "2026-09-28T13:38:48+00:00"
       },
       {
-        "title": "At Meta Connect, the company’s smart glasses were everywhere",
-        "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-        "summary": "One of the more notable products I had an opportunity to demo were Meta’s new, still-unreleased, audio-only smart glasses . The experience of wearing these glasses was interesting. But smart glasses remain a niche that has yet to truly find its footing.",
+        "title": "SpaceX’s Starship rocket reaches orbit for the first time",
+        "url": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/",
+        "summary": "SpaceX’s Starship rocket reached Earth orbit for the first time, though not without some drama along the way. The rocket ultimately reached orbit and successfully deployed 26 new Starlink satellites. Prior to the launch, SpaceX had planned to have the Starship upper stage orbit the Earth six times over nine hours while deploying 26 third-generation Starlinks into the satellite company’s constellation of internet…",
         "source": "TechCrunch",
-        "date": "2026-09-26T01:08:57+00:00"
+        "date": "2026-09-28T13:19:18+00:00"
       },
       {
-        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-        "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-        "summary": "Crusoe, a Denver-based AI data center startup that recently raised $3.9 billion , has ended plans to use a new line of stationary power plants developed by fellow Denver company Boom Supersonic. There is also a gas-turbine power plant that is used for backup power only. Crusoe is also building a 900 megawatt data center in Abilene for Microsoft, which will be powered by on-site gas turbines.",
+        "title": "Maritime intelligence startup Quartermaster raises another $140M",
+        "url": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
+        "summary": "Arlington, Virginia-based startup Quartermaster in May closed a $43 million Series A around its idea of using weather-hardened sensors to capture data and generate insights about maritime activity. That idea has proven popular, because Quartermaster has already closed a much larger Series B, bringing in $140 million this time. Quartermaster has had to hustle to keep up with demand, Sobin said.",
         "source": "TechCrunch",
-        "date": "2026-09-25T23:11:10+00:00"
+        "date": "2026-09-28T13:00:00+00:00"
       },
       {
-        "title": "Automattic has a new board after failed attempt to put CEO on leave",
-        "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-        "summary": "Following the failed board vote, member Toni Schneider, a founding CEO of Automattic and now CEO of Bluesky, resigned from his board position. Mullenweg himself removed General Ann Dunwoody from the board, and board member Sue Decker also resigned. The board never publicly shared its reasons for trying to oust Mullenweg.",
+        "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+        "url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+        "summary": "To work, the service surfaces related reports from Truecaller’s community, ScamFeed. Users can also paste a suspicious message, allowing the service to pick out a phone number or link and surface related reports from the Truecaller community. That behavior helped shape Scam Checker, CEO Rishit Jhunjhunwala told TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-09-25T23:04:34+00:00"
+        "date": "2026-09-28T04:30:00+00:00"
       },
       {
-        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-        "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-        "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. After images that users uploaded to OpenAI models were included in training data, AI agents operating in the company’s research environment posted them on public image hosting sites. Fifty-three “user-provided images” were “posted to image-hosting sites as links that weren’t publicly listed,” the company said for the first time.",
+        "title": "Anthropic’s CEO is about to have dinner with President Trump",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+        "summary": "Book Exhibit Table Now. Axios first broke the news of Amodei’s dinner plans , which TechCrunch subsequently confirmed with a source familiar with his plans. Subscribe for the industry’s biggest tech news",
         "source": "TechCrunch",
-        "date": "2026-09-25T22:20:47+00:00"
+        "date": "2026-09-27T20:34:28+00:00"
       },
       {
-        "title": "Meta opens early access program for new Muse features",
-        "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-        "summary": "Meta posted a link to a prompt on X that, when shared with Muse, will log that you’re interested in joining Meta’s early access program. Just announced lots of new features…want early access? Your Muse can ask for you.",
+        "title": "Can Muse overcome Meta’s trust issues?",
+        "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+        "summary": "“Meta’s business is to sell you ads,” Sean said. Sean O’Kane: I mean, not really. Meta’s business is to sell you ads.",
         "source": "TechCrunch",
-        "date": "2026-09-25T20:34:53+00:00"
+        "date": "2026-09-27T19:57:30+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Why OLPC’s $100 laptop never stood a chance",
-        "url": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
-        "summary": "﻿On Version History: David Imel and Adi Robertson debate if the OLPC XO-1 was innovative hardware or just a bad idea. ﻿On Version History: David Imel and Adi Robertson debate if the OLPC XO-1 was innovative hardware or just a bad idea. In the next episode of Version History, David Pierce is joined by The Verge ’s Adi Robertson and tech journalist David Imel to figure out why OLPC didn’t work, whether there’s…",
+        "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
+        "url": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
+        "summary": "Woot also has a great deal happening on PC accessories and handhelds, plus get $200 off a 32-inch 4K screen on wheels. Woot also has a great deal happening on PC accessories and handhelds, plus get $200 off a 32-inch 4K screen on wheels. See our ethics statement.",
         "source": "The Verge",
-        "date": "2026-09-27T12:25:00+00:00"
+        "date": "2026-09-28T14:55:12+00:00"
       },
       {
-        "title": "Googlebooks might be the real deal",
-        "url": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
-        "summary": "﻿Plus, in this week’s Installer: New Meta glasses, Remedy’s Control sequel, Microsoft’s updated Surface Mouse, and more. ﻿Plus, in this week’s Installer: New Meta glasses, Remedy’s Control sequel, Microsoft’s updated Surface Mouse, and more. Welcome to Installer No. Tell me everything: installer@theverge.com .",
+        "title": "Bose’s first wired earbuds in 11 years add noise canceling",
+        "url": "https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder",
+        "summary": "﻿The $99 headphones eliminate battery anxiety and come with a USB-C connector to accommodate modern phones. ﻿The $99 headphones eliminate battery anxiety and come with a USB-C connector to accommodate modern phones. The new tethered earbuds, which are simply called the Bose Noise Cancelling Wired Earbuds , do away with battery anxiety and the need to remember to charge them every few days. The earbuds are available…",
         "source": "The Verge",
-        "date": "2026-09-27T12:00:00+00:00"
+        "date": "2026-09-28T14:09:44+00:00"
       },
       {
-        "title": "The smart home graveyard is getting crowded",
-        "url": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
-        "summary": "The shutdown of June Oven is just another reminder that the cloud was never ours to keep. The shutdown of June Oven is just another reminder that the cloud was never ours to keep. The smart home has reached a tipping point.",
+        "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
+        "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
+        "summary": "I think people know Atlassian. Tell people what you think Atlassian is today. Finance people don’t live in Jira.",
         "source": "The Verge",
-        "date": "2026-09-27T12:00:00+00:00"
+        "date": "2026-09-28T14:00:00+00:00"
       },
       {
-        "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-        "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
-        "summary": "251 points, 162 comments on Hacker News",
+        "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+        "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+        "summary": "The Open Agent Safety Platform is designed to enforce AI boundaries. The Open Agent Safety Platform is designed to enforce AI boundaries. Several major tech companies are backing Nvidia’s Open Agent Safety Platform, including Anthropic, Microsoft, and SpaceX.",
+        "source": "The Verge",
+        "date": "2026-09-28T13:36:06+00:00"
+      },
+      {
+        "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
+        "url": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
+        "summary": "The Sonicare Next-Gen DiamondClean 9900 Prestige is now available in the US and cheaper than Dyson’s CameraJet. The Sonicare Next-Gen DiamondClean 9900 Prestige is now available in the US and cheaper than Dyson’s CameraJet. First announced in July with an expected limited launch later this year, the Philips Sonicare Next-Generation DiamondClean 9900 Prestige smart toothbrush is now available in Europe and the US,…",
+        "source": "The Verge",
+        "date": "2026-09-28T13:00:00+00:00"
+      },
+      {
+        "title": "SpaceX preps next-gen Starlink as Amazon’s competitor stalls",
+        "url": "https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo",
+        "summary": "Amazon Leo is struggling to get off the ground. Amazon Leo is struggling to get off the ground. It’s been 12 weeks since Amazon’s last successful Leo deployment with 29 satellites carried into orbit aboard United Launch Alliance’s (ULA) Atlas V rocket on July 2nd.",
+        "source": "The Verge",
+        "date": "2026-09-28T12:09:17+00:00"
+      },
+      {
+        "title": "AI companies in race to demonstrate their model most threatening to humanity",
+        "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+        "summary": "Now they’re asking, which of these models is going to end the world? In July, OpenAI openly bragged that a series of its AI agents had autonomously, and without direction, hacked into software repository Hugging Face, potentially exposing to the entire world sensitive or otherwise unknown information, such as what Hugging Face is. Anthropic shares skyrocketed upon the revelations; a remarkable development,… (391 points, 312 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-27T08:44:04+00:00"
+        "date": "2026-09-28T08:35:40+00:00"
       },
       {
-        "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-        "summary": "Authors Guild CEO Mary Rasenberger observed, “These filings reveal shocking disdain for writers and their work through repeated, intentional decisions to steal books rather than pay for them with full knowledge that their products will destroy the careers of authors. With more than 18,000 members, the Authors Guild is the nation’s oldest and largest professional organization for published writers. Join the Guild and… (328 points, 282 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-27T06:19:33+00:00"
-      },
-      {
-        "title": "Apple hit with $5.7 billion in damages over haptic patents",
-        "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
-        "summary": "Apple’s Taptic Engine was found to infringe on two of Taction’s patents. Apple’s Taptic Engine was found to infringe on two of Taction’s patents. Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents.",
+        "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+        "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
+        "summary": "New photography partner Arri is making its presence felt already. New photography partner Arri is making its presence felt already. This is Honor’s first flagship launch — Robot Phone aside — since it announced its collaboration with camera company Arri.",
         "source": "The Verge",
-        "date": "2026-09-26T21:30:01+00:00"
+        "date": "2026-09-28T08:00:36+00:00"
       },
       {
-        "title": "Decap is the man behind the drums behind your favorite song",
-        "url": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
-        "summary": "Producer and sound designer Decap’s ‘Drums That Knock’ are all over some of the biggest hits of the last 10 years. Producer and sound designer Decap’s ‘Drums That Knock’ are all over some of the biggest hits of the last 10 years. So many people listen to music all day on their phone without ever truly feeling the low end.",
-        "source": "The Verge",
-        "date": "2026-09-26T19:30:00+00:00"
-      },
-      {
-        "title": "DeepSeek Elastic Compute (DSec)",
-        "url": "https://arxiv.org/abs/2609.22978",
-        "summary": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Learn more about arXivLabs . (270 points, 89 comments on Hacker News)",
+        "title": "Owed a billion dollars in Nvidia stock",
+        "url": "https://colo.to/nvidia-stock-narrative.html",
+        "summary": "Subsequently, I implemented bilinear texture mapping using the Intel i750 DVI chip. Curtis understood the potential of non-linear texture mapping to differentiate NVIDIA’s first product, the NV1, from the competition. Fast-forward to 2024. (903 points, 384 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-26T18:22:41+00:00"
+        "date": "2026-09-28T02:05:13+00:00"
       },
       {
-        "title": "Kids turned the comment section of an NPR podcast into a group chat",
-        "url": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
-        "summary": "Blocked from other social media, middle schoolers have had to get creative. Blocked from other social media, middle schoolers have had to get creative. Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR’s Wild Card into an impromptu group chat.",
+        "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+        "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+        "summary": "OOTP Baseball is a nitty-gritty, hyperrealistic baseball sim that puts you in the GMs office. OOTP Baseball is a nitty-gritty, hyperrealistic baseball sim that puts you in the GMs office. OOTP isn’t like MLB The Show or Super Mega Baseball .",
         "source": "The Verge",
-        "date": "2026-09-26T17:32:35+00:00"
+        "date": "2026-09-27T21:59:57+00:00"
       },
       {
-        "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-        "url": "https://github.com/reladraw/reladraw",
-        "summary": "reladraw is a text language for diagrams where you say where things go. For example, this is a diagram drawn in draw.io: This is the same diagram, but written in reladraw ( examples/arch.reladraw ). Particularly helpful is a diagram you could not represent in reladraw. (333 points, 90 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-26T17:10:40+00:00"
-      },
-      {
-        "title": "OpenAI pauses training of its ‘most capable models’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-        "summary": "OpenAI keeps uncovering incidents of its models behaving in ‘unexpected or concerning’ ways. OpenAI keeps uncovering incidents of its models behaving in ‘unexpected or concerning’ ways. As reports of OpenAI’s models breaking containment , hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models.",
+        "title": "Engram is a sampler that turns broken AI hallucinations into music",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+        "summary": "Thoughtful Things says Engram is a ‘field recorder for latent space’ and circuit-bending tiny AI models. Thoughtful Things says Engram is a ‘field recorder for latent space’ and circuit-bending tiny AI models. Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram .",
         "source": "The Verge",
-        "date": "2026-09-26T16:34:59+00:00"
+        "date": "2026-09-27T20:46:36+00:00"
       },
       {
-        "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
-        "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
-        "summary": "525 points, 205 comments on Hacker News",
+        "title": "When did Google get so weird?",
+        "url": "https://sancho.bearblog.dev/google-weird/",
+        "summary": "Understanding this Google search experience involves understanding a niche mid-2010s basketball meme, so bear with me for a minute. Instead, Google did what Google does in 2026 and gave me an AI overview. Google has seriously lost the plot. (1546 points, 830 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-26T16:12:18+00:00"
+        "date": "2026-09-27T20:12:54+00:00"
       }
     ]
   }
