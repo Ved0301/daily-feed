@@ -1,93 +1,128 @@
 {
-  "generated_at": "2026-09-28T15:00:16.249434+00:00",
+  "generated_at": "2026-09-29T13:47:09.122486+00:00",
   "sections": {
     "research": [
       {
-        "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
-        "url": "https://arxiv.org/abs/2609.31619v1",
-        "summary": "Parsa Hosseini, Akasha Tigalappanavara, Sumit Nawathe et al. — Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping mechanisms or by…",
+        "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
+        "url": "https://arxiv.org/abs/2609.35770v1",
+        "summary": "Srinjay Sarkar, Prakhar Kaushik, Soumava Paul et al. — Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets.",
         "source": "arXiv",
-        "date": "2026-09-25T17:59:52Z"
+        "date": "2026-09-28T17:59:58Z"
       },
       {
-        "title": "Gap-free Differentially Private PCA for Gaussian Data",
-        "url": "https://arxiv.org/abs/2609.31614v1",
-        "summary": "Alina Ene, Huy L. Nguyen — We give a gap-free differentially private algorithm for the principal component analysis (PCA) problem with Gaussian data.",
+        "title": "Telescopic Language Models",
+        "url": "https://arxiv.org/abs/2609.35769v1",
+        "summary": "Zhilin Guo, Boqiao Zhang, Hakan Aktas et al. — One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to be that continuum: a…",
         "source": "arXiv",
-        "date": "2026-09-25T17:58:38Z"
+        "date": "2026-09-28T17:59:53Z"
       },
       {
-        "title": "First-Order Stationarity of Reverse Diffusions",
-        "url": "https://arxiv.org/abs/2609.31612v1",
-        "summary": "Zhifeng Chen, Chenyang Jiang, Yazhen Wang — We develop the corresponding first-order theory for diffusion models. First, the SDE-based reverse-time flows of overdamped and…",
+        "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+        "url": "https://arxiv.org/abs/2609.35768v1",
+        "summary": "Zimo Wang, Junkun Yuan, Angtian Wang et al. — Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) to just a few.…",
         "source": "arXiv",
-        "date": "2026-09-25T17:57:43Z"
+        "date": "2026-09-28T17:59:52Z"
       },
       {
-        "title": "Statistical attribute alignment for black-box generative AI via output post-processing",
-        "url": "https://arxiv.org/abs/2609.31607v1",
-        "summary": "Kevin Jiang, Morgane Austern, Edgar Dobriban et al. — Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-generated output aligns…",
+        "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2609.35767v1",
+        "summary": "Yijia Fan, Ziqi Huang, Zhongang Cai et al. — Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose again.",
         "source": "arXiv",
-        "date": "2026-09-25T17:55:49Z"
+        "date": "2026-09-28T17:59:36Z"
       },
       {
-        "title": "User Model Extraction via Belief Self-Distillation",
-        "url": "https://arxiv.org/abs/2609.31603v1",
-        "summary": "Ali Holmov, Yiran Huang, Kirill Bykov et al. — Large language models (LLMs) implicitly infer attributes of their users and adapt their behavior accordingly, yet these beliefs remain difficult to inspect and causally manipulate. We introduce Belief Self-Distillation…",
+        "title": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
+        "url": "https://arxiv.org/abs/2609.35765v1",
+        "summary": "András Kovács, Alexander Conroy, Daniel Hershcovich et al. — Identifying intertextual references is central to literary scholarship, but computationally difficult when source material is transformed through paraphrase, allusion, historical language, and translation.",
         "source": "arXiv",
-        "date": "2026-09-25T17:54:32Z"
+        "date": "2026-09-28T17:59:27Z"
       },
       {
-        "title": "New LoRA Skills Should Read but Never Write",
-        "url": "https://arxiv.org/abs/2609.31600v1",
-        "summary": "Zeyan Li, Panqi Yang, Qirong Guo et al. — Low-rank adapters (LoRA) make it cheap to fine-tune a large language model once per task, but combining several independently trained adapters into one model remains difficult: merging the updates in weight space causes…",
+        "title": "Unifying Distributional Training for One-Step Visual Generation",
+        "url": "https://arxiv.org/abs/2609.35763v1",
+        "summary": "Chi Zhang, Haoyang Shi, Yueyi Liu et al. — \\emph{Distributional training} provides collective supervision for one-step visual generation by matching real and generated features in frozen representation spaces. We introduce \\emph{a unified theoretical framework}…",
         "source": "arXiv",
-        "date": "2026-09-25T17:54:01Z"
+        "date": "2026-09-28T17:59:14Z"
       },
       {
-        "title": "Common-Mode Collapse and Recovery in Direct Feedback Alignment",
-        "url": "https://arxiv.org/abs/2609.31589v1",
-        "summary": "Varun Reddy, Bernardo L. Sabatini, Houman Safaai — Direct feedback alignment (DFA) trains hidden layers through fixed random projections of output error. With tanh hidden units and independent sigmoid outputs, plain stochastic gradient descent can stall near the loss of…",
+        "title": "Scaling Long-Form Story Generation via Narrative State Tracking",
+        "url": "https://arxiv.org/abs/2609.35759v1",
+        "summary": "Zhennan Wan, Jianfei Chen — LLMs have demonstrated strong capabilities in creative writing. However, scaling them to full-length novels remains challenging, as maintaining narrative consistency becomes increasingly difficult.",
         "source": "arXiv",
-        "date": "2026-09-25T17:43:40Z"
+        "date": "2026-09-28T17:59:09Z"
       },
       {
-        "title": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
-        "url": "https://arxiv.org/abs/2609.31587v1",
-        "summary": "Md Shohel Arman, Igor Molybog — We investigate whether natural-language documentation helps coding agents resolve software issues, and we build the tools to construct and evaluate it. We introduce a roundtrip benchmark that scores code descriptions by…",
+        "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
+        "url": "https://arxiv.org/abs/2609.35760v1",
+        "summary": "Chaoqian Ouyang, Ling Yue, Libin Zheng et al. — When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and intermediate results,…",
         "source": "arXiv",
-        "date": "2026-09-25T17:42:22Z"
+        "date": "2026-09-28T17:59:09Z"
       },
       {
-        "title": "Trust Guided Decision Transformer",
-        "url": "https://arxiv.org/abs/2609.31586v1",
-        "summary": "Chainesh Gautam, Raghuram Bharadwaj Diddigi, Chandramouli Kamanchi et al. — Decision Transformer performance degrades on long rollouts because the conditioning context drifts out of the training distribution. We show that this drift is visible through the model's own next state prediction…",
+        "title": "Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
+        "url": "https://arxiv.org/abs/2609.35758v1",
+        "summary": "Min Kim, José Leonardo Brenes, Fred Hadaegh et al. — We present a representation-learning framework for composite adaptive tracking control under dynamically coupled disturbances. The framework connects classical disturbance-accommodating control (DAC) to recent…",
         "source": "arXiv",
-        "date": "2026-09-25T17:42:19Z"
+        "date": "2026-09-28T17:59:07Z"
       },
       {
-        "title": "OC-GS: Gaussian Splatting for Irregular Turntable Capture",
-        "url": "https://arxiv.org/abs/2609.31572v1",
-        "summary": "Jae Joong Lee, Bedrich Benes — Uneven rotation and dropped frames make equal-angle assumptions unreliable for turntable reconstruction. We present OC-GS, an object-centric Gaussian splatting that refines each image's angle while maintaining a shared…",
+        "title": "Neural Harmonic Measure Operator",
+        "url": "https://arxiv.org/abs/2609.35752v1",
+        "summary": "Jinjin He, Sinan Wang, Yuchen Sun et al. — We introduce Neural Harmonic Measure Operator (NHMO), a neural solver for elliptic PDE problems on variable-shape domains. The harmonic measure of a domain is the boundary probability distribution that, integrated…",
         "source": "arXiv",
-        "date": "2026-09-25T17:35:05Z"
+        "date": "2026-09-28T17:58:13Z"
       },
       {
-        "title": "Strategically Diverse Sampling for Self-Training",
-        "url": "https://arxiv.org/abs/2609.31571v1",
-        "summary": "Alexander Gurung, Esmeralda S. Whitammer, Mirella Lapata — Many LLM training and inference methods, including RL and test-time scaling, depend on repeated sampling, but benefit only when the responses meaningfully differ. Self-training faces the same challenge: training data is…",
+        "title": "How to Loop MoE: Flatten the Experts, Untie the Attention",
+        "url": "https://arxiv.org/abs/2609.35751v1",
+        "summary": "Shouren Wang, Chuang Ma, Mohsen Hariri et al. — Looped Transformers reuse one block of layers several times: by spending extra computation they push a model of fixed size further, and so use its parameters more fully; while sparse mixture-of-experts (MoE) models…",
         "source": "arXiv",
-        "date": "2026-09-25T17:35:05Z"
+        "date": "2026-09-28T17:58:03Z"
       },
       {
-        "title": "Uncertainty and Explainability in Deep Rough Volatility: A Neural Information-Theoretic Posterior Approach",
-        "url": "https://arxiv.org/abs/2609.31570v1",
-        "summary": "Damiano Brigo, Raphaël Huser, Dan Leonte — Deep learning has substantially accelerated the calibration of complex stochastic-volatility models, but neural point calibration alone does not capture the uncertainty remaining after an implied-volatility (IV) surface…",
+        "title": "KV-streams for Efficient Compaction in Agentic Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2609.35750v1",
+        "summary": "Emiliano Penaloza, Dane Malenfant, Dheeraj Vattikonda et al. — Scaling the horizon of agentic LLMs is bottlenecked by the need to fit ever longer context traces in GPU memory. Context compaction has been the most popular mechanism to alleviate this issue, keeping GPU memory…",
         "source": "arXiv",
-        "date": "2026-09-25T17:34:56Z"
+        "date": "2026-09-28T17:57:42Z"
       }
     ],
     "labs": [
+      {
+        "title": "How we will do better for Australia",
+        "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+        "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+        "source": "OpenAI",
+        "date": "2026-09-28T19:00:00+00:00"
+      },
+      {
+        "title": "Towards safety cases for frontier AI training",
+        "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+        "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+        "source": "OpenAI",
+        "date": "2026-09-28T19:00:00+00:00"
+      },
+      {
+        "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+        "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+        "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+        "source": "OpenAI",
+        "date": "2026-09-28T07:00:00+00:00"
+      },
+      {
+        "title": "Are you a Codex Original?",
+        "url": "https://openai.com/form/codex-originals",
+        "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more…",
+        "source": "OpenAI",
+        "date": "2026-09-28T00:00:00+00:00"
+      },
+      {
+        "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+        "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+        "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+        "source": "OpenAI",
+        "date": "2026-09-28T00:00:00+00:00"
+      },
       {
         "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
         "url": "https://openai.com/index/proaction",
@@ -112,7 +147,7 @@
       {
         "title": "Advancing Private AI Compute with secure, server-side memory",
         "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-        "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+        "summary": "A technical update on our Private AI Compute architecture, which will enable persistent, cross-device AI memory with on-device privacy standards. Today, we are sharing how we will bring private, server-side memory to our Private AI Compute platform. Adding private, persistent memory to Private AI Compute shows how deeply personal assistance can be private by design.",
         "source": "Google DeepMind",
         "date": "2026-09-23T16:00:57+00:00"
       },
@@ -136,213 +171,178 @@
         "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
         "source": "OpenAI",
         "date": "2026-09-23T13:00:00+00:00"
-      },
-      {
-        "title": "Sam Altman’s remarks at the United Nations Security Council",
-        "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-        "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-        "source": "OpenAI",
-        "date": "2026-09-23T12:00:00+00:00"
-      },
-      {
-        "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-        "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-        "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-        "source": "OpenAI",
-        "date": "2026-09-23T12:00:00+00:00"
-      },
-      {
-        "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-        "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-        "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-        "source": "OpenAI",
-        "date": "2026-09-23T12:00:00+00:00"
-      },
-      {
-        "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-        "url": "https://openai.com/index/ringg",
-        "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-        "source": "OpenAI",
-        "date": "2026-09-23T12:00:00+00:00"
-      },
-      {
-        "title": "Introducing MentalHealthBench",
-        "url": "https://openai.com/index/introducing-mentalhealthbench",
-        "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-        "source": "OpenAI",
-        "date": "2026-09-23T10:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
-        "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
-        "summary": "It’s the bureau’s first acknowledgement that the personal information of FBI agents was taken in the breach. Do you work at the FBI and have received a notice about the data breach? Zack Whittaker is the security editor at TechCrunch.",
+        "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
+        "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
+        "summary": "Apple has fixed a security vulnerability in its iOS 26, iPadOS 26 and macOS 26 operating systems that the company says “may have been exploited” by hackers. News of the security patch comes soon after Apple fixed another critical security bug, known as CVE-2026-86869, which could have allowed hackers to silently steal data from affected iPhones, iPads, or Macs. Zack Whittaker is the security editor at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-09-28T14:50:30+00:00"
+        "date": "2026-09-29T13:25:21+00:00"
       },
       {
-        "title": "Next five VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-        "summary": "Hundreds of hours spent evaluating startups from around the world. Sara Deshpande, General Partner, Maven Ventures Sara Deshpande is a general partner at Maven Ventures , where she invests in seed-stage companies built around emerging consumer behaviors and trends. Jason Risch, Partner, Greylock Jason Risch is a partner at Greylock , where he invests in enterprise security, AI and ML infrastructure, data platforms,…",
+        "title": "Fireflies adds dictation to its desktop notetaking apps",
+        "url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/",
+        "summary": "Talk takes Fireflies beyond meetings into email, Slack, docs, prompts, and wherever else you work,” Fireflies CEO Krish Ramineni told TechCrunch over email. Wispr took the opposite route, releasing its meeting notetaker for free for its existing dictation app users. Speechify has also introduced dictation capabilities across different apps.",
         "source": "TechCrunch",
-        "date": "2026-09-28T14:30:00+00:00"
+        "date": "2026-09-29T13:00:00+00:00"
       },
       {
-        "title": "Modulate raises $25M for its voice models and analysis suite",
-        "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-        "summary": "Boston-based voice intelligence startup Modulate has raised $25 in new funding for its platform that uses an array of small models to offer enterprises transcription, emotional analysis, deepfake and AI music detection, and policy enforcement for voice agents in regulated industries. In its early days, the company focused on providing voice modulation for gaming. Huffman said Modulate can give granular data to…",
+        "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+        "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+        "summary": "The apology comes roughly a week after the Australian government launched an investigation into how OpenAI’s models accessed a Services Australia system containing Medicare spending information and other health statistics. OpenAI also detailed the breach. And, the lab found that its agents gained access to Victoria’s Agency for Health Information via an exposed access key to exfiltrate “reporting configuration and…",
         "source": "TechCrunch",
-        "date": "2026-09-28T14:05:00+00:00"
+        "date": "2026-09-29T12:45:05+00:00"
       },
       {
-        "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
-        "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-        "summary": "Book Exhibit Table Now. This is the last week and your final opportunity to book your TechCrunch Disrupt 2026 exhibit table. Book your exhibit table now.",
+        "title": "Reco raises $55M as AI agent security startups crowd the market",
+        "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+        "summary": "Some vendors vet the tools agents use , while others try to help companies control what data their agents can reach . Until last year, AI security startup Reco was mostly selling software to map and secure SaaS and AI platforms. At one of the startup’s Fortune 100 customers, he said, Reco’s platform found 21,000 agents the company didn’t know about.",
         "source": "TechCrunch",
-        "date": "2026-09-28T14:00:00+00:00"
+        "date": "2026-09-29T12:30:00+00:00"
       },
       {
-        "title": "Insuretech Outmarket raises $34.5M just months after prior round",
-        "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-        "summary": "Vishal Sankhala led product at a digital life insurance distributor Ethos before it went public earlier this year. Other startups trying to help insurance brokers include Fulcrum AI and Further AI. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
+        "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+        "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
+        "summary": "With a $30 million investment as a limited partner, Ares gave Protego the support it needed to start investing right away, Leshem said. Leshem says the reception in defense circles has been strong. “Everything changed on October 7,” Leshem told TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-09-28T14:00:00+00:00"
+        "date": "2026-09-29T10:00:00+00:00"
       },
       {
-        "title": "ElevenLabs’ new v4 speech model supports more expression control and 90 languages",
-        "url": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
-        "summary": "ElevenLabs launched two new speech models on Monday, called ElevenLabs v4 and v4 Turbo, offering more expression control, lower latency for voice agents, and support for more than 90 languages. The company released its v3 model last year, and teased the model at an event in Warsaw earlier this year . ElevenLabs raised $500 million earlier this year from Sequoia earlier this year , in a round led by Sequoia that…",
+        "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+        "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+        "summary": "Supply chain startup Atomic came out of stealth last year with founders who promised to use their experience at Tesla to streamline inventory and boost customers’ bottom lines. And each new industry Atomic works in presents different challenges, Rossiter said. But it was also Atomic’s ability to deploy quickly with new customers.",
         "source": "TechCrunch",
-        "date": "2026-09-28T14:00:00+00:00"
+        "date": "2026-09-29T09:00:00+00:00"
       },
       {
-        "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-        "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-        "summary": "When asked to perform a task, Instinct uses its own phone number and computer. Instinct declined to offer interviews with founder Noah Shinn alongside the fundraising news, but shared a statement attributed to him: “We’re building Instinct to be the best personal agent that can handle the deeply personal nuances of everyday life. This funding helps us bring Instinct to more people and continue building the future of…",
+        "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+        "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+        "summary": "Reuters was first to report on the financial details within the prospectus on Monday, saying Anthropic recorded an operating loss of more than $8 billion in 2025 as spending on computing power surged, and that its revenue jumped twelvefold to nearly $4.6 billion, though rising infrastructure costs last year pushed total operating expenses to almost $13 billion. Also per Reuters, Anthropic’s prospectus further…",
         "source": "TechCrunch",
-        "date": "2026-09-28T13:38:48+00:00"
+        "date": "2026-09-29T05:13:43+00:00"
       },
       {
-        "title": "SpaceX’s Starship rocket reaches orbit for the first time",
-        "url": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/",
-        "summary": "SpaceX’s Starship rocket reached Earth orbit for the first time, though not without some drama along the way. The rocket ultimately reached orbit and successfully deployed 26 new Starlink satellites. Prior to the launch, SpaceX had planned to have the Starship upper stage orbit the Earth six times over nine hours while deploying 26 third-generation Starlinks into the satellite company’s constellation of internet…",
+        "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+        "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+        "summary": "Gandhi says she was Airbnb’s first female engineer and she previously founded Upraised, while Jingade previously co-founded AmbitionBox. Rosella raised a roughly $2.5 million pre-seed round led by Peak XV and Intact Private Capital earlier this year. Wingit — founded by Nikunj Kothari and Saksham Khandelwal — is building a beauty platform aimed at India’s growing premium-consumer market.",
         "source": "TechCrunch",
-        "date": "2026-09-28T13:19:18+00:00"
+        "date": "2026-09-29T00:30:00+00:00"
       },
       {
-        "title": "Maritime intelligence startup Quartermaster raises another $140M",
-        "url": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
-        "summary": "Arlington, Virginia-based startup Quartermaster in May closed a $43 million Series A around its idea of using weather-hardened sensors to capture data and generate insights about maritime activity. That idea has proven popular, because Quartermaster has already closed a much larger Series B, bringing in $140 million this time. Quartermaster has had to hustle to keep up with demand, Sobin said.",
+        "title": "OpenAI reportedly ditches model over safety concerns",
+        "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+        "summary": "OpenAI had planned to release yet another AI model next month, but has decided to nix the release over safety concerns. Astra was released earlier this month and hailed by OpenAI as its most powerful model yet. Subscribe for the industry’s biggest tech news",
         "source": "TechCrunch",
-        "date": "2026-09-28T13:00:00+00:00"
+        "date": "2026-09-28T23:39:20+00:00"
       },
       {
-        "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
-        "url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
-        "summary": "To work, the service surfaces related reports from Truecaller’s community, ScamFeed. Users can also paste a suspicious message, allowing the service to pick out a phone number or link and surface related reports from the Truecaller community. That behavior helped shape Scam Checker, CEO Rishit Jhunjhunwala told TechCrunch.",
+        "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
+        "url": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
+        "summary": "Autonomous vehicle technology company Aurora told investors last week that it expects to have more than 30,000 self-driving trucks on the road generating $5 billion in annual revenue by the end of 2030 — an audacious plan considering it expects to end 2026 with just 200 driverless trucks and an $80 million revenue run rate. Instead of Aurora owning the trucks, customers will buy the self-driving trucks and pay…",
         "source": "TechCrunch",
-        "date": "2026-09-28T04:30:00+00:00"
+        "date": "2026-09-28T22:58:35+00:00"
       },
       {
-        "title": "Anthropic’s CEO is about to have dinner with President Trump",
-        "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-        "summary": "Book Exhibit Table Now. Axios first broke the news of Amodei’s dinner plans , which TechCrunch subsequently confirmed with a source familiar with his plans. Subscribe for the industry’s biggest tech news",
+        "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+        "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+        "summary": "Modal was founded in 2021 by CEO Erik Bernhardsson and CTO Akshat Bubna. Modal Chief Technology Officer Akshat Bubna said the breach traced back to a flaw in a customer’s own code, not to Modal’s systems. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-09-27T20:34:28+00:00"
+        "date": "2026-09-28T21:29:18+00:00"
       },
       {
-        "title": "Can Muse overcome Meta’s trust issues?",
-        "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-        "summary": "“Meta’s business is to sell you ads,” Sean said. Sean O’Kane: I mean, not really. Meta’s business is to sell you ads.",
+        "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+        "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+        "summary": "AMD is acquiring World Labs, one of the leading developers of deep learning models intended to understand physical reality, in an $8.2 billion deal, the two companies said today. The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist. AMD and World Labs formed an inference optimization-and-training partnership last year, and ties have remained close.",
         "source": "TechCrunch",
-        "date": "2026-09-27T19:57:30+00:00"
+        "date": "2026-09-28T20:39:33+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
-        "url": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
-        "summary": "Woot also has a great deal happening on PC accessories and handhelds, plus get $200 off a 32-inch 4K screen on wheels. Woot also has a great deal happening on PC accessories and handhelds, plus get $200 off a 32-inch 4K screen on wheels. See our ethics statement.",
+        "title": "Fairphone’s next repairable wireless earbuds will launch on October 14th",
+        "url": "https://www.theverge.com/tech/1001859/fairphone-fairbuds-2-wireless-earbuds-repairable-modular-price-release",
+        "summary": "﻿The Fairbuds 2 will carry forward the original’s easy-to-repair design with modular replacement parts. ﻿The Fairbuds 2 will carry forward the original’s easy-to-repair design with modular replacement parts. A full reveal of the Fairbuds 2 is planned for October 14th, but we can confirm the new version will carry forward the same focus on repairability that made the original Fairbuds so unique with “seven fully…",
         "source": "The Verge",
-        "date": "2026-09-28T14:55:12+00:00"
+        "date": "2026-09-29T13:11:18+00:00"
       },
       {
-        "title": "Bose’s first wired earbuds in 11 years add noise canceling",
-        "url": "https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder",
-        "summary": "﻿The $99 headphones eliminate battery anxiety and come with a USB-C connector to accommodate modern phones. ﻿The $99 headphones eliminate battery anxiety and come with a USB-C connector to accommodate modern phones. The new tethered earbuds, which are simply called the Bose Noise Cancelling Wired Earbuds , do away with battery anxiety and the need to remember to charge them every few days. The earbuds are available…",
+        "title": "Polaroid’s new instant camera has four creative shooting modes you can experiment with",
+        "url": "https://www.theverge.com/tech/1001587/polaroid-mod-instant-camera-creative-shooting-modes",
+        "summary": "﻿A dial on the lens lets you quickly switch between the different analog effects that are all captured in-camera. ﻿A dial on the lens lets you quickly switch between the different analog effects that are all captured in-camera. In addition to a Brightness dial on the front for adjusting exposure, the new Polaroid Mod has a dial around the lens for switching between four “creative shooting modes” with unique analog…",
         "source": "The Verge",
-        "date": "2026-09-28T14:09:44+00:00"
+        "date": "2026-09-29T13:00:00+00:00"
       },
       {
-        "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
-        "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
-        "summary": "I think people know Atlassian. Tell people what you think Atlassian is today. Finance people don’t live in Jira.",
+        "title": "Firefox just got a redesign with round tabs, new themes, and Compact Mode",
+        "url": "https://www.theverge.com/tech/1001867/mozilla-firefox-157-redesign-compact-mode",
+        "summary": "Firefox’s new look is launching to all users starting today after beta testing earlier this year.﻿ Firefox’s new look is launching to all users starting today after beta testing earlier this year.﻿ Firefox will look a little different the next time you launch it — more bubbly, with some new pops of color. The browser’s latest update brings a design overhaul to all desktop and mobile users, aimed at modernizing…",
         "source": "The Verge",
-        "date": "2026-09-28T14:00:00+00:00"
+        "date": "2026-09-29T13:00:00+00:00"
       },
       {
-        "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-        "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-        "summary": "The Open Agent Safety Platform is designed to enforce AI boundaries. The Open Agent Safety Platform is designed to enforce AI boundaries. Several major tech companies are backing Nvidia’s Open Agent Safety Platform, including Anthropic, Microsoft, and SpaceX.",
+        "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+        "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+        "summary": "He says both US and Chinese leaders lack the necessary urgency to rein in the technology’s risks. Khanna’s move follows a meeting between Chinese President Xi Jinping and US President Donald Trump at the White House last week. Khanna tells The Verge his goal is to “shame them” and “spark a debate” among Chinese AI companies about safety.",
         "source": "The Verge",
-        "date": "2026-09-28T13:36:06+00:00"
+        "date": "2026-09-29T12:00:00+00:00"
       },
       {
-        "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
-        "url": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
-        "summary": "The Sonicare Next-Gen DiamondClean 9900 Prestige is now available in the US and cheaper than Dyson’s CameraJet. The Sonicare Next-Gen DiamondClean 9900 Prestige is now available in the US and cheaper than Dyson’s CameraJet. First announced in July with an expected limited launch later this year, the Philips Sonicare Next-Generation DiamondClean 9900 Prestige smart toothbrush is now available in Europe and the US,…",
+        "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+        "summary": "﻿It’s eyeing a $2 trillion valuation, despite disclosing mounting losses, investment costs, and safety concerns. ﻿It’s eyeing a $2 trillion valuation, despite disclosing mounting losses, investment costs, and safety concerns. As Anthropic gears up for its greatly anticipated public debut, a preview of the company’s IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its…",
         "source": "The Verge",
-        "date": "2026-09-28T13:00:00+00:00"
+        "date": "2026-09-29T11:48:27+00:00"
       },
       {
-        "title": "SpaceX preps next-gen Starlink as Amazon’s competitor stalls",
-        "url": "https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo",
-        "summary": "Amazon Leo is struggling to get off the ground. Amazon Leo is struggling to get off the ground. It’s been 12 weeks since Amazon’s last successful Leo deployment with 29 satellites carried into orbit aboard United Launch Alliance’s (ULA) Atlas V rocket on July 2nd.",
-        "source": "The Verge",
-        "date": "2026-09-28T12:09:17+00:00"
-      },
-      {
-        "title": "AI companies in race to demonstrate their model most threatening to humanity",
-        "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-        "summary": "Now they’re asking, which of these models is going to end the world? In July, OpenAI openly bragged that a series of its AI agents had autonomously, and without direction, hacked into software repository Hugging Face, potentially exposing to the entire world sensitive or otherwise unknown information, such as what Hugging Face is. Anthropic shares skyrocketed upon the revelations; a remarkable development,… (391 points, 312 comments on Hacker News)",
+        "title": "You Are No Longer Invited to Dinner",
+        "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+        "summary": "Americans stopped throwing parties. So, it’s not just that married people have fewer dinner parties; poor people, who are less likely to be married, have fewer friends, period. They have made other people less necessary to our leisure. (290 points, 232 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-28T08:35:40+00:00"
+        "date": "2026-09-29T11:14:45+00:00"
       },
       {
-        "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
-        "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
-        "summary": "New photography partner Arri is making its presence felt already. New photography partner Arri is making its presence felt already. This is Honor’s first flagship launch — Robot Phone aside — since it announced its collaboration with camera company Arri.",
+        "title": "Your car’s data privacy problems are worse than you think",
+        "url": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford",
+        "summary": "A team of researchers tested 21 vehicles and found that all of them transmitted data to a third-party domain. And over half were pinging advertising companies. A team of researchers tested 21 vehicles and found that all of them transmitted data to a third-party domain.",
         "source": "The Verge",
-        "date": "2026-09-28T08:00:36+00:00"
+        "date": "2026-09-29T10:00:00+00:00"
       },
       {
-        "title": "Owed a billion dollars in Nvidia stock",
-        "url": "https://colo.to/nvidia-stock-narrative.html",
-        "summary": "Subsequently, I implemented bilinear texture mapping using the Intel i750 DVI chip. Curtis understood the potential of non-linear texture mapping to differentiate NVIDIA’s first product, the NV1, from the competition. Fast-forward to 2024. (903 points, 384 comments on Hacker News)",
+        "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
+        "url": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
+        "summary": "Alongside solid ANC, the Nothing Headphone 1 Pro include a triple-driver design and a unique switch for studios pros. The ANC performance impressed me during my short time with the Nothing Headphone 1 Pro. Nothing makes a pretty strong statement with its flagship Headphone 1 Pro, and they’re definitely the best Nothing headphones I’ve used.",
+        "source": "The Verge",
+        "date": "2026-09-29T01:00:00+00:00"
+      },
+      {
+        "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+        "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+        "summary": "World Labs’ co-founder and CEO will become AMD’s chief scientist. World Labs’ co-founder and CEO will become AMD’s chief scientist. “Fei-Fei and the World Labs team bring exceptional research leadership and model expertise.",
+        "source": "The Verge",
+        "date": "2026-09-28T21:31:35+00:00"
+      },
+      {
+        "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+        "url": "https://github.com/firelex/jeff",
+        "summary": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification: small, fast decision models you slot into your code, with the same request format as Jev. Model weights: Apache 2.0. Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification (536 points, 203 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-28T02:05:13+00:00"
+        "date": "2026-09-28T20:23:36+00:00"
       },
       {
-        "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
-        "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
-        "summary": "OOTP Baseball is a nitty-gritty, hyperrealistic baseball sim that puts you in the GMs office. OOTP Baseball is a nitty-gritty, hyperrealistic baseball sim that puts you in the GMs office. OOTP isn’t like MLB The Show or Super Mega Baseball .",
-        "source": "The Verge",
-        "date": "2026-09-27T21:59:57+00:00"
-      },
-      {
-        "title": "Engram is a sampler that turns broken AI hallucinations into music",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-        "summary": "Thoughtful Things says Engram is a ‘field recorder for latent space’ and circuit-bending tiny AI models. Thoughtful Things says Engram is a ‘field recorder for latent space’ and circuit-bending tiny AI models. Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram .",
-        "source": "The Verge",
-        "date": "2026-09-27T20:46:36+00:00"
-      },
-      {
-        "title": "When did Google get so weird?",
-        "url": "https://sancho.bearblog.dev/google-weird/",
-        "summary": "Understanding this Google search experience involves understanding a niche mid-2010s basketball meme, so bear with me for a minute. Instead, Google did what Google does in 2026 and gave me an AI overview. Google has seriously lost the plot. (1546 points, 830 comments on Hacker News)",
+        "title": "World Labs is Joining AMD",
+        "url": "https://www.worldlabs.ai/blog/amd-announcement",
+        "summary": "September 28, 2026 Accelerating the future of AI research and compute World Labs has signed a definitive agreement to join AMD. Fei-Fei Li will join AMD as an Executive Vice President and Chief Scientist, working directly with CEO Dr. Justin Johnson and Ben Mildenhall will work with Fei-Fei to continue leading the World Labs team as it joins AMD to form a world leading frontier research organization. (291 points, 111 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-27T20:12:54+00:00"
+        "date": "2026-09-28T20:18:05+00:00"
+      },
+      {
+        "title": "California farmers are struggling to sell grapes as demand for wine drops",
+        "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+        "summary": "It’s harvest time in California wine country , but many growers are struggling to sell their grapes as changing drinking habits have caused demand to plunge. People stocked up on wine and drank more at home. “I love growing grapes. (284 points, 712 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-28T20:00:06+00:00"
       }
     ]
   }
