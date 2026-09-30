@@ -1,104 +1,132 @@
 {
-  "generated_at": "2026-09-29T13:47:09.122486+00:00",
+  "generated_at": "2026-09-30T13:22:23.613075+00:00",
   "sections": {
     "research": [
       {
-        "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
-        "url": "https://arxiv.org/abs/2609.35770v1",
-        "summary": "Srinjay Sarkar, Prakhar Kaushik, Soumava Paul et al. — Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets.",
+        "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
+        "url": "https://arxiv.org/abs/2609.38178v1",
+        "summary": "Zihang Rui, Renhao Wang, Haoxu Huang et al. — Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of…",
         "source": "arXiv",
-        "date": "2026-09-28T17:59:58Z"
+        "date": "2026-09-29T17:59:55Z"
       },
       {
-        "title": "Telescopic Language Models",
-        "url": "https://arxiv.org/abs/2609.35769v1",
-        "summary": "Zhilin Guo, Boqiao Zhang, Hakan Aktas et al. — One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to be that continuum: a…",
+        "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+        "url": "https://arxiv.org/abs/2609.38177v1",
+        "summary": "Jaewoo Jung, Hyeonseo Yu, Honggyu An et al. — Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they struggle to integrate…",
         "source": "arXiv",
-        "date": "2026-09-28T17:59:53Z"
+        "date": "2026-09-29T17:59:52Z"
       },
       {
-        "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
-        "url": "https://arxiv.org/abs/2609.35768v1",
-        "summary": "Zimo Wang, Junkun Yuan, Angtian Wang et al. — Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) to just a few.…",
+        "title": "Breakdown of Local Denoising as Semantic Speciation",
+        "url": "https://arxiv.org/abs/2609.38176v1",
+        "summary": "Guangkuo Liu, Mert Okyay, Yifan F. Zhang et al. — The dynamics of generative models exhibit two apparently distinct temporal windows: a speciation window, in which a sample commits to a semantic class, and a nonlocality window, in which local context windows become…",
         "source": "arXiv",
-        "date": "2026-09-28T17:59:52Z"
+        "date": "2026-09-29T17:59:50Z"
       },
       {
-        "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2609.35767v1",
-        "summary": "Yijia Fan, Ziqi Huang, Zhongang Cai et al. — Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose again.",
+        "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+        "url": "https://arxiv.org/abs/2609.38169v1",
+        "summary": "Bingchen Yao, Haobo Xu, Haokun Lin et al. — Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recurrent states to low…",
         "source": "arXiv",
-        "date": "2026-09-28T17:59:36Z"
+        "date": "2026-09-29T17:59:40Z"
       },
       {
-        "title": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
-        "url": "https://arxiv.org/abs/2609.35765v1",
-        "summary": "András Kovács, Alexander Conroy, Daniel Hershcovich et al. — Identifying intertextual references is central to literary scholarship, but computationally difficult when source material is transformed through paraphrase, allusion, historical language, and translation.",
+        "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
+        "url": "https://arxiv.org/abs/2609.38166v1",
+        "summary": "Yi Pan, Haocheng Xi, Kan Zhu et al. — Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context into a fixed-size…",
         "source": "arXiv",
-        "date": "2026-09-28T17:59:27Z"
+        "date": "2026-09-29T17:59:34Z"
       },
       {
-        "title": "Unifying Distributional Training for One-Step Visual Generation",
-        "url": "https://arxiv.org/abs/2609.35763v1",
-        "summary": "Chi Zhang, Haoyang Shi, Yueyi Liu et al. — \\emph{Distributional training} provides collective supervision for one-step visual generation by matching real and generated features in frozen representation spaces. We introduce \\emph{a unified theoretical framework}…",
+        "title": "Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data",
+        "url": "https://arxiv.org/abs/2609.38165v1",
+        "summary": "Joseph Metcalfe, Sara Sharifzadeh, Fabio Caraffini — The landscape of satellite imagery time series datasets and boundary-pushing architectures for cropland segmentation has never been richer. However, in this gold rush, important truths are being missed on both fronts,…",
         "source": "arXiv",
-        "date": "2026-09-28T17:59:14Z"
+        "date": "2026-09-29T17:59:29Z"
       },
       {
-        "title": "Scaling Long-Form Story Generation via Narrative State Tracking",
-        "url": "https://arxiv.org/abs/2609.35759v1",
-        "summary": "Zhennan Wan, Jianfei Chen — LLMs have demonstrated strong capabilities in creative writing. However, scaling them to full-length novels remains challenging, as maintaining narrative consistency becomes increasingly difficult.",
+        "title": "A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization",
+        "url": "https://arxiv.org/abs/2609.38161v1",
+        "summary": "Jianru Shen — Evaluations of graph reconstruction by language models typically report a single aggregate distance between the original and the reconstructed graph. We prove that for the Wasserstein distance between Laplacian spectra…",
         "source": "arXiv",
-        "date": "2026-09-28T17:59:09Z"
+        "date": "2026-09-29T17:59:16Z"
       },
       {
-        "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
-        "url": "https://arxiv.org/abs/2609.35760v1",
-        "summary": "Chaoqian Ouyang, Ling Yue, Libin Zheng et al. — When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and intermediate results,…",
+        "title": "EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation",
+        "url": "https://arxiv.org/abs/2609.38157v1",
+        "summary": "Kuan-Po Huang, Haohe Liu, Puyuan Peng et al. — Emotion-conditioned text-to-speech (TTS) models may fail to express the requested emotion reliably, and improving controllability by additional training is costly in both computation and emotion-labeled speech training…",
         "source": "arXiv",
-        "date": "2026-09-28T17:59:09Z"
+        "date": "2026-09-29T17:59:05Z"
       },
       {
-        "title": "Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
-        "url": "https://arxiv.org/abs/2609.35758v1",
-        "summary": "Min Kim, José Leonardo Brenes, Fred Hadaegh et al. — We present a representation-learning framework for composite adaptive tracking control under dynamically coupled disturbances. The framework connects classical disturbance-accommodating control (DAC) to recent…",
+        "title": "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies",
+        "url": "https://arxiv.org/abs/2609.38155v1",
+        "summary": "Hui Ren, Lei Fan, Henry Pao et al. — Answering questions about long videos often requires connecting events involving the same objects across hours or days. Chronological descriptions and text-derived entities can leave physical identity unresolved:…",
         "source": "arXiv",
-        "date": "2026-09-28T17:59:07Z"
+        "date": "2026-09-29T17:59:01Z"
       },
       {
-        "title": "Neural Harmonic Measure Operator",
-        "url": "https://arxiv.org/abs/2609.35752v1",
-        "summary": "Jinjin He, Sinan Wang, Yuchen Sun et al. — We introduce Neural Harmonic Measure Operator (NHMO), a neural solver for elliptic PDE problems on variable-shape domains. The harmonic measure of a domain is the boundary probability distribution that, integrated…",
+        "title": "Pretraining Latent Information Feedback Transformers with Teacher Supervision",
+        "url": "https://arxiv.org/abs/2609.38149v1",
+        "summary": "Dor Tirosh, Ido Amos, Mor Geva — Transformer language models (LMs) are feed-forward: deep-layer representations are never fed back to shallower layers, and the only pathway for information to flow downward across generation steps is the decoded token.…",
         "source": "arXiv",
-        "date": "2026-09-28T17:58:13Z"
+        "date": "2026-09-29T17:57:40Z"
       },
       {
-        "title": "How to Loop MoE: Flatten the Experts, Untie the Attention",
-        "url": "https://arxiv.org/abs/2609.35751v1",
-        "summary": "Shouren Wang, Chuang Ma, Mohsen Hariri et al. — Looped Transformers reuse one block of layers several times: by spending extra computation they push a model of fixed size further, and so use its parameters more fully; while sparse mixture-of-experts (MoE) models…",
+        "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
+        "url": "https://arxiv.org/abs/2609.38147v1",
+        "summary": "Paras Dahal, Anton Bakhtin, Taco Cohen et al. — As agents take on longer and more complex problems, controlling the execution becomes a task in its own right. Each step in the run brings new control choices, like which partial work to build on, whether to start…",
         "source": "arXiv",
-        "date": "2026-09-28T17:58:03Z"
+        "date": "2026-09-29T17:57:25Z"
       },
       {
-        "title": "KV-streams for Efficient Compaction in Agentic Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2609.35750v1",
-        "summary": "Emiliano Penaloza, Dane Malenfant, Dheeraj Vattikonda et al. — Scaling the horizon of agentic LLMs is bottlenecked by the need to fit ever longer context traces in GPU memory. Context compaction has been the most popular mechanism to alleviate this issue, keeping GPU memory…",
+        "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
+        "url": "https://arxiv.org/abs/2609.38143v1",
+        "summary": "Cheng Qian, Kunlun Zhu, Beibin Li et al. — Agent performance depends on both reasoning ability and the environment in which it acts. We study test-time AI-for-AI, asking how a Builder can learn to construct better execution environments for a Target while both…",
         "source": "arXiv",
-        "date": "2026-09-28T17:57:42Z"
+        "date": "2026-09-29T17:55:56Z"
       }
     ],
     "labs": [
       {
-        "title": "How we will do better for Australia",
-        "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-        "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+        "title": "How Diffusion Controller unifies and simplifies AI image generation",
+        "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
+        "summary": "Each subplot reports three paired comparisons: (gray-box) Diffusion Controller vs. Diffusion Controller-Naive; (white-box) Diffusion Controller-J vs. LoRA; (white-box) Diffusion Controller-S vs.",
+        "source": "Google Research",
+        "date": "2026-09-29T18:38:27+00:00"
+      },
+      {
+        "title": "Introducing GPT-6.1 Sol",
+        "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+        "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
         "source": "OpenAI",
-        "date": "2026-09-28T19:00:00+00:00"
+        "date": "2026-09-29T10:00:00+00:00"
+      },
+      {
+        "title": "DevDay 2026 Recap",
+        "url": "https://openai.com/index/devday-2026-recap",
+        "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+        "source": "OpenAI",
+        "date": "2026-09-29T10:00:00+00:00"
+      },
+      {
+        "title": "Introducing dots",
+        "url": "https://openai.com/index/introducing-dots",
+        "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+        "source": "OpenAI",
+        "date": "2026-09-29T00:00:00+00:00"
       },
       {
         "title": "Towards safety cases for frontier AI training",
         "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
         "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+        "source": "OpenAI",
+        "date": "2026-09-28T19:00:00+00:00"
+      },
+      {
+        "title": "How we will do better for Australia",
+        "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+        "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
         "source": "OpenAI",
         "date": "2026-09-28T19:00:00+00:00"
       },
@@ -143,206 +171,178 @@
         "summary": "Gemini 3.8 Live with Live Avatar brings real-time visual presence to Gemini’s conversational AI. Starting today, Gemini 3.8 Live with Live Avatar is available in Gemini Enterprise. Gemini 3.8 Live with Live Avatar is available in Gemini Enterprise .",
         "source": "Google DeepMind",
         "date": "2026-09-24T16:20:39+00:00"
-      },
-      {
-        "title": "Advancing Private AI Compute with secure, server-side memory",
-        "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-        "summary": "A technical update on our Private AI Compute architecture, which will enable persistent, cross-device AI memory with on-device privacy standards. Today, we are sharing how we will bring private, server-side memory to our Private AI Compute platform. Adding private, persistent memory to Private AI Compute shows how deeply personal assistance can be private by design.",
-        "source": "Google DeepMind",
-        "date": "2026-09-23T16:00:57+00:00"
-      },
-      {
-        "title": "Two years of OpenAI Academy",
-        "url": "https://openai.com/index/two-years-of-openai-academy",
-        "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-        "source": "OpenAI",
-        "date": "2026-09-23T16:00:00+00:00"
-      },
-      {
-        "title": "Gemini 3.8 text-to-speech says hello",
-        "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-        "summary": "Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS are our most expressive audio generation models yet. Hear how Gemini 3.8 Flash TTS generates a super-tinny, monotone robot voice. Hear how Gemini 3.8 Flash TTS enables natural, highly expressive conversations for interactive voice agents.",
-        "source": "Google DeepMind",
-        "date": "2026-09-23T15:25:14+00:00"
-      },
-      {
-        "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-        "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-        "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-        "source": "OpenAI",
-        "date": "2026-09-23T13:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
-        "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
-        "summary": "Apple has fixed a security vulnerability in its iOS 26, iPadOS 26 and macOS 26 operating systems that the company says “may have been exploited” by hackers. News of the security patch comes soon after Apple fixed another critical security bug, known as CVE-2026-86869, which could have allowed hackers to silently steal data from affected iPhones, iPads, or Macs. Zack Whittaker is the security editor at TechCrunch.",
+        "title": "Charter Space raises $5M to bring insurance to the stars",
+        "url": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
+        "summary": "Charter Space, a finalist in last year’s TechCrunch Startup Battlefield , has raised a $5 million seed round to keep growing its budding space insurance business. Things go wrong in the space industry all the time, so companies are constantly planning contingencies. “Insurance is critical infrastructure for a strong and sustainable space industry, and we believe Charter Space is building the platform that will help…",
         "source": "TechCrunch",
-        "date": "2026-09-29T13:25:21+00:00"
+        "date": "2026-09-30T13:00:00+00:00"
       },
       {
-        "title": "Fireflies adds dictation to its desktop notetaking apps",
-        "url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/",
-        "summary": "Talk takes Fireflies beyond meetings into email, Slack, docs, prompts, and wherever else you work,” Fireflies CEO Krish Ramineni told TechCrunch over email. Wispr took the opposite route, releasing its meeting notetaker for free for its existing dictation app users. Speechify has also introduced dictation capabilities across different apps.",
+        "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature",
+        "url": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
+        "summary": "With Group Hangouts, users start by choosing an activity and inviting at least two friends to join. Notably, Tinder is giving users some control over how the experience plays out. Group Hangouts builds on Tinder’s earlier push into group-oriented dating.",
         "source": "TechCrunch",
-        "date": "2026-09-29T13:00:00+00:00"
+        "date": "2026-09-30T13:00:00+00:00"
       },
       {
-        "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-        "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-        "summary": "The apology comes roughly a week after the Australian government launched an investigation into how OpenAI’s models accessed a Services Australia system containing Medicare spending information and other health statistics. OpenAI also detailed the breach. And, the lab found that its agents gained access to Victoria’s Agency for Health Information via an exposed access key to exfiltrate “reporting configuration and…",
+        "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
+        "url": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
+        "summary": "BAG Ventures, founded by Bonita Stewart, a former Google vice president, and Jackson Georges Jr., a former CapitalG partner, closed the fund after about two years of investing from it as it came together. Georges worked at GE Healthcare and at Google, where he met Stewart. They launched BAG Ventures to “address the emerging AI divide between founders and operators,” Georges said.",
         "source": "TechCrunch",
-        "date": "2026-09-29T12:45:05+00:00"
+        "date": "2026-09-30T12:00:00+00:00"
       },
       {
-        "title": "Reco raises $55M as AI agent security startups crowd the market",
-        "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-        "summary": "Some vendors vet the tools agents use , while others try to help companies control what data their agents can reach . Until last year, AI security startup Reco was mostly selling software to map and secure SaaS and AI platforms. At one of the startup’s Fortune 100 customers, he said, Reco’s platform found 21,000 agents the company didn’t know about.",
+        "title": "Airbnb adds AI search, more social features",
+        "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+        "summary": "The second big feature is AI search. Earlier this year, he teased the new search feature for property discovery . It’s not hard to create AI search; it’s hard to create AI search in e-commerce when you have $100 billion going through your platform,” Airbnb CEO Brian Chesky told TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-09-29T12:30:00+00:00"
+        "date": "2026-09-30T12:00:00+00:00"
       },
       {
-        "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
-        "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
-        "summary": "With a $30 million investment as a limited partner, Ares gave Protego the support it needed to start investing right away, Leshem said. Leshem says the reception in defense circles has been strong. “Everything changed on October 7,” Leshem told TechCrunch.",
+        "title": "Apple Pay finally launches in India after years on the sidelines",
+        "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+        "summary": "Apple began rolling out Apple Pay in India on Tuesday, as TechCrunch was first to report. Earlier this month, Reuters reported that Apple was preparing to launch Apple Pay in India in October, starting with Axis Bank credit cards. Even if Apple Pay remains a niche service, the economics could still make India meaningful for Apple.",
         "source": "TechCrunch",
-        "date": "2026-09-29T10:00:00+00:00"
+        "date": "2026-09-30T04:08:00+00:00"
       },
       {
-        "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
-        "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
-        "summary": "Supply chain startup Atomic came out of stealth last year with founders who promised to use their experience at Tesla to streamline inventory and boost customers’ bottom lines. And each new industry Atomic works in presents different challenges, Rossiter said. But it was also Atomic’s ability to deploy quickly with new customers.",
+        "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+        "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+        "summary": "The government partnered with Google and SpaceXAI to help build the America.gov chatbot, which has proved difficult for people to jailbreak so far. (It’s worth nothing, however, that the chatbot says that Joe Biden won the 2020 election, a fact that President Donald Trump still denies .) But when you try to talk to America.gov about Minecraft, the chatbot appears to have some sort of existential crisis or awakening.…",
         "source": "TechCrunch",
-        "date": "2026-09-29T09:00:00+00:00"
+        "date": "2026-09-29T23:30:55+00:00"
       },
       {
-        "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-        "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-        "summary": "Reuters was first to report on the financial details within the prospectus on Monday, saying Anthropic recorded an operating loss of more than $8 billion in 2025 as spending on computing power surged, and that its revenue jumped twelvefold to nearly $4.6 billion, though rising infrastructure costs last year pushed total operating expenses to almost $13 billion. Also per Reuters, Anthropic’s prospectus further…",
+        "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+        "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+        "summary": "That’s because the domain “dot.com” belongs to Musk’s xAI, and it currently redirects to the download page for xAI’s Grok chatbot app. According to the Whois domain owner registry, that domain name was just transferred in July. It is entirely possible that xAI bought the domain for normal domain-buying reasons.",
         "source": "TechCrunch",
-        "date": "2026-09-29T05:13:43+00:00"
+        "date": "2026-09-29T22:20:59+00:00"
       },
       {
-        "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-        "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-        "summary": "Gandhi says she was Airbnb’s first female engineer and she previously founded Upraised, while Jingade previously co-founded AmbitionBox. Rosella raised a roughly $2.5 million pre-seed round led by Peak XV and Intact Private Capital earlier this year. Wingit — founded by Nikunj Kothari and Saksham Khandelwal — is building a beauty platform aimed at India’s growing premium-consumer market.",
+        "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+        "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+        "summary": "That conclusion isn’t new — there have been numerous investigations and lawsuits exposing how driving data is collected and shared with third parties, including insurance companies. The implications aren’t great for consumers, whose data is being shared with tech companies including Adobe, ContentSquare, Google, Microsoft, Meta, Snap, and Yahoo. Regardless of how this data was collected, drivers weren’t informed.",
         "source": "TechCrunch",
-        "date": "2026-09-29T00:30:00+00:00"
+        "date": "2026-09-29T22:18:35+00:00"
       },
       {
-        "title": "OpenAI reportedly ditches model over safety concerns",
-        "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-        "summary": "OpenAI had planned to release yet another AI model next month, but has decided to nix the release over safety concerns. Astra was released earlier this month and hailed by OpenAI as its most powerful model yet. Subscribe for the industry’s biggest tech news",
+        "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+        "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+        "summary": "Last day to demo your breakthrough to 10,000+ tech leaders is on Oct 2 . EliseAI, founded in 2017, automates administrative and operational work for housing and healthcare companies. Earlier this month, Elise announced the launch of an AI “teammate” called Apollo that helps with tasks inside the EliseAI platform.",
         "source": "TechCrunch",
-        "date": "2026-09-28T23:39:20+00:00"
+        "date": "2026-09-29T21:51:36+00:00"
       },
       {
-        "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
-        "url": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
-        "summary": "Autonomous vehicle technology company Aurora told investors last week that it expects to have more than 30,000 self-driving trucks on the road generating $5 billion in annual revenue by the end of 2030 — an audacious plan considering it expects to end 2026 with just 200 driverless trucks and an $80 million revenue run rate. Instead of Aurora owning the trucks, customers will buy the self-driving trucks and pay…",
+        "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
+        "url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
+        "summary": "The company announced Tuesday that Citibank has agreed to a $20 billion three-year delayed-draw term loan facility. Wells Fargo also signed an $8 billion five-year revolving credit facility, and a $2 billion revolving credit facility with a 364-day term. Tesla finished the second quarter of this year with around $9 billion in debt and a pile of cash (and investments) north of $40 billion.",
         "source": "TechCrunch",
-        "date": "2026-09-28T22:58:35+00:00"
+        "date": "2026-09-29T21:20:12+00:00"
       },
       {
-        "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-        "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-        "summary": "Modal was founded in 2021 by CEO Erik Bernhardsson and CTO Akshat Bubna. Modal Chief Technology Officer Akshat Bubna said the breach traced back to a flaw in a customer’s own code, not to Modal’s systems. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
+        "title": "OpenAI’s latest features take direct aim at the app store model",
+        "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+        "summary": "From there, the user will be able to connect the app and begin using it directly within ChatGPT. This allows app developers to build interactive panels where users can work with their tools while they’re chatting with ChatGPT. This system could give app makers another way to reach customers outside of Apple and Google’s app stores.",
         "source": "TechCrunch",
-        "date": "2026-09-28T21:29:18+00:00"
+        "date": "2026-09-29T20:15:47+00:00"
       },
       {
-        "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-        "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-        "summary": "AMD is acquiring World Labs, one of the leading developers of deep learning models intended to understand physical reality, in an $8.2 billion deal, the two companies said today. The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist. AMD and World Labs formed an inference optimization-and-training partnership last year, and ties have remained close.",
+        "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+        "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+        "summary": "OpenAI is in talks with investors to raise at least $30 billion in a pre-IPO funding round at a valuation of roughly $1.4 trillion, Bloomberg reported on Tuesday. Investors are eager to pour more funds into the ChatGPT maker ahead of its anticipated public market debut next year. The company previously raised $122 billion in March at an $852 billion valuation.",
         "source": "TechCrunch",
-        "date": "2026-09-28T20:39:33+00:00"
+        "date": "2026-09-29T19:52:37+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Fairphone’s next repairable wireless earbuds will launch on October 14th",
-        "url": "https://www.theverge.com/tech/1001859/fairphone-fairbuds-2-wireless-earbuds-repairable-modular-price-release",
-        "summary": "﻿The Fairbuds 2 will carry forward the original’s easy-to-repair design with modular replacement parts. ﻿The Fairbuds 2 will carry forward the original’s easy-to-repair design with modular replacement parts. A full reveal of the Fairbuds 2 is planned for October 14th, but we can confirm the new version will carry forward the same focus on repairability that made the original Fairbuds so unique with “seven fully…",
+        "title": "Amazon&#8217;s new Fire TV Stick 4K can pull power directly from your TV",
+        "url": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power",
+        "summary": "﻿Amazon’s also launching a redesigned Fire TV remote with a new shape and clickier controls. ﻿Amazon’s also launching a redesigned Fire TV remote with a new shape and clickier controls. Amazon’s also simplifying its streaming stick line-up, which now includes four devices instead of five: the Fire TV Stick HD, Fire TV Stick 4K, Fire TV Stick 4K Max, and Fire TV Cube. The new Fire TV Stick 4K is replacing Amazon’s…",
         "source": "The Verge",
-        "date": "2026-09-29T13:11:18+00:00"
+        "date": "2026-09-30T13:00:16+00:00"
       },
       {
-        "title": "Polaroid’s new instant camera has four creative shooting modes you can experiment with",
-        "url": "https://www.theverge.com/tech/1001587/polaroid-mod-instant-camera-creative-shooting-modes",
-        "summary": "﻿A dial on the lens lets you quickly switch between the different analog effects that are all captured in-camera. ﻿A dial on the lens lets you quickly switch between the different analog effects that are all captured in-camera. In addition to a Brightness dial on the front for adjusting exposure, the new Polaroid Mod has a dial around the lens for switching between four “creative shooting modes” with unique analog…",
+        "title": "The Sonos Ace Ultra are the headphones Sonos should have made the first time",
+        "url": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review",
+        "summary": "﻿With better sound, better ANC, and Wi-Fi audio streaming, the Ace Ultra are finally worthy of the Sonos name. Sonos has upped the battery life, from up to 30 hours on the Ace to up to 35 hours with the Ace Ultra. They have improved sound, better ANC, and Sonos-specific features.",
         "source": "The Verge",
-        "date": "2026-09-29T13:00:00+00:00"
+        "date": "2026-09-30T13:00:00+00:00"
       },
       {
-        "title": "Firefox just got a redesign with round tabs, new themes, and Compact Mode",
-        "url": "https://www.theverge.com/tech/1001867/mozilla-firefox-157-redesign-compact-mode",
-        "summary": "Firefox’s new look is launching to all users starting today after beta testing earlier this year.﻿ Firefox’s new look is launching to all users starting today after beta testing earlier this year.﻿ Firefox will look a little different the next time you launch it — more bubbly, with some new pops of color. The browser’s latest update brings a design overhaul to all desktop and mobile users, aimed at modernizing…",
+        "title": "Potato by air",
+        "url": "https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery",
+        "summary": "﻿The day the dads in my neighborhood discovered drone delivery ﻿The day the dads in my neighborhood discovered drone delivery The Wing Hummingbird 7000W-B delivery drone weighs less than 15 pounds. The wild thing — aside from the fact that you can just order a drone delivery to someone else’s yard — is that each potato delivery cost 82 cents. Now, is drone delivery wasteful?",
         "source": "The Verge",
-        "date": "2026-09-29T13:00:00+00:00"
+        "date": "2026-09-30T13:00:00+00:00"
       },
       {
-        "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-        "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-        "summary": "He says both US and Chinese leaders lack the necessary urgency to rein in the technology’s risks. Khanna’s move follows a meeting between Chinese President Xi Jinping and US President Donald Trump at the White House last week. Khanna tells The Verge his goal is to “shame them” and “spark a debate” among Chinese AI companies about safety.",
+        "title": "You’ll soon be able to order DoorDash by text message",
+        "url": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
+        "summary": "﻿Dasher retail returns will also expand nationwide in November. ﻿Dasher retail returns will also expand nationwide in November. DoorDash is launching new ways to use the local delivery platform, including text message ordering, drone deliveries, and retail returns. DoorDash hasn’t announced when the drone deliveries will actually be available to consumers.",
         "source": "The Verge",
-        "date": "2026-09-29T12:00:00+00:00"
+        "date": "2026-09-30T13:00:00+00:00"
       },
       {
-        "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
-        "summary": "﻿It’s eyeing a $2 trillion valuation, despite disclosing mounting losses, investment costs, and safety concerns. ﻿It’s eyeing a $2 trillion valuation, despite disclosing mounting losses, investment costs, and safety concerns. As Anthropic gears up for its greatly anticipated public debut, a preview of the company’s IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its…",
+        "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+        "summary": "﻿‘Over time, it may make sense to codify these steps into laws or regulations.’ ﻿‘Over time, it may make sense to codify these steps into laws or regulations.’ We now have the full details of the “morally binding” AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. 2) Empower an internal team to ensure all of the controls,…",
         "source": "The Verge",
-        "date": "2026-09-29T11:48:27+00:00"
+        "date": "2026-09-30T12:24:32+00:00"
       },
       {
-        "title": "You Are No Longer Invited to Dinner",
-        "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
-        "summary": "Americans stopped throwing parties. So, it’s not just that married people have fewer dinner parties; poor people, who are less likely to be married, have fewer friends, period. They have made other people less necessary to our leisure. (290 points, 232 comments on Hacker News)",
+        "title": "Samsung gives its two-year-old Galaxy Tab S Plus an overhaul",
+        "url": "https://www.theverge.com/tech/1002533/samsung-galaxy-tab-s12-plus-ultra-android-tablets-specs-price",
+        "summary": "The Galaxy Tab S12 Plus gets a big update, though the Tab S12 Ultra is a more modest refresh. The Galaxy Tab S12 Plus gets a big update, though the Tab S12 Ultra is a more modest refresh. The Galaxy Tab S12 Plus and Tab S12 Ultra will hit shelves on October 7th.",
+        "source": "The Verge",
+        "date": "2026-09-30T12:00:00+00:00"
+      },
+      {
+        "title": "Samsung’s new SmartTag is smaller, longer-lasting, and works with iPhones",
+        "url": "https://www.theverge.com/tech/1002552/samsung-galaxy-smarttag-3-design-battery-price-features",
+        "summary": "The Galaxy SmartTag 3 launches in the US in November for $29.99. Samsung has announced its third-generation Bluetooth tracker, the Galaxy SmartTag 3. The SmartTag 3 is 35 percent smaller and 33 percent lighter than the SmartTag 2.",
+        "source": "The Verge",
+        "date": "2026-09-30T12:00:00+00:00"
+      },
+      {
+        "title": "Apple’s &#8216;HomePad&#8217; will reportedly launch on October 13th",
+        "url": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
+        "summary": "The long-rumored smart home hub will reportedly be revealed alongside a new HomePod mini and Apple TV. The long-rumored smart home hub will reportedly be revealed alongside a new HomePod mini and Apple TV. Apple’s long-rumored smart home hub will reportedly be revealed on October 13th.",
+        "source": "The Verge",
+        "date": "2026-09-30T11:11:24+00:00"
+      },
+      {
+        "title": "September 2026: The world today, as seen by one Polish guy",
+        "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+        "summary": "A 30-year mortgage now costs 7.12 percent, up from 6.09 in February. Germany’s 10-year yield reached 3.57 percent in mid-September, the highest since 2009. Britain’s 10-year gilt touched 5.29 percent, the highest since 2007. (369 points, 236 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-09-29T11:14:45+00:00"
+        "date": "2026-09-30T07:12:31+00:00"
       },
       {
-        "title": "Your car’s data privacy problems are worse than you think",
-        "url": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford",
-        "summary": "A team of researchers tested 21 vehicles and found that all of them transmitted data to a third-party domain. And over half were pinging advertising companies. A team of researchers tested 21 vehicles and found that all of them transmitted data to a third-party domain.",
+        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+        "summary": "﻿The OpenAI CEO said he didn’t want ‘additional pressure’ from Wall Street. ﻿The OpenAI CEO said he didn’t want ‘additional pressure’ from Wall Street. For months, people have wondered when OpenAI will go public. In July, news broke that an unreleased OpenAI model had hacked into a rival AI lab, Hugging Face, without OpenAI’s knowledge.",
         "source": "The Verge",
-        "date": "2026-09-29T10:00:00+00:00"
+        "date": "2026-09-30T00:19:13+00:00"
       },
       {
-        "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
-        "url": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
-        "summary": "Alongside solid ANC, the Nothing Headphone 1 Pro include a triple-driver design and a unique switch for studios pros. The ANC performance impressed me during my short time with the Nothing Headphone 1 Pro. Nothing makes a pretty strong statement with its flagship Headphone 1 Pro, and they’re definitely the best Nothing headphones I’ve used.",
+        "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+        "url": "https://github.com/ninjahawk/livenerf",
+        "summary": "Right now v0 runs on a Claude Max subscription through headless Claude Code ( claude -p ), with no API key. Day 1 was 2026-09-24 22:10 UTC, about 2.5 days after launch. The first Results row lands after day 20. (728 points, 285 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-09-29T22:36:14+00:00"
+      },
+      {
+        "title": "Trump orders US government to call AI ‘Super Intelligence’",
+        "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+        "summary": "‘The word super is the best word of all,’ Trump says. ‘The word super is the best word of all,’ Trump says. The US executive branch is no longer acknowledging the existence of “artificial intelligence.” Going forward, official policy websites, policy documents, and press releases will refer only to “Super Intelligence,” thanks to a new executive order signed by President Donald Trump. Trump signed the executive…",
         "source": "The Verge",
-        "date": "2026-09-29T01:00:00+00:00"
-      },
-      {
-        "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-        "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-        "summary": "World Labs’ co-founder and CEO will become AMD’s chief scientist. World Labs’ co-founder and CEO will become AMD’s chief scientist. “Fei-Fei and the World Labs team bring exceptional research leadership and model expertise.",
-        "source": "The Verge",
-        "date": "2026-09-28T21:31:35+00:00"
-      },
-      {
-        "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-        "url": "https://github.com/firelex/jeff",
-        "summary": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification: small, fast decision models you slot into your code, with the same request format as Jev. Model weights: Apache 2.0. Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification (536 points, 203 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-28T20:23:36+00:00"
-      },
-      {
-        "title": "World Labs is Joining AMD",
-        "url": "https://www.worldlabs.ai/blog/amd-announcement",
-        "summary": "September 28, 2026 Accelerating the future of AI research and compute World Labs has signed a definitive agreement to join AMD. Fei-Fei Li will join AMD as an Executive Vice President and Chief Scientist, working directly with CEO Dr. Justin Johnson and Ben Mildenhall will work with Fei-Fei to continue leading the World Labs team as it joins AMD to form a world leading frontier research organization. (291 points, 111 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-28T20:18:05+00:00"
-      },
-      {
-        "title": "California farmers are struggling to sell grapes as demand for wine drops",
-        "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-        "summary": "It’s harvest time in California wine country , but many growers are struggling to sell their grapes as changing drinking habits have caused demand to plunge. People stocked up on wine and drank more at home. “I love growing grapes. (284 points, 712 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-09-28T20:00:06+00:00"
+        "date": "2026-09-29T22:25:45+00:00"
       }
     ]
   }
