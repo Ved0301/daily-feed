@@ -1,93 +1,121 @@
 {
-  "generated_at": "2026-09-30T13:22:23.613075+00:00",
+  "generated_at": "2026-10-01T14:15:39.214133+00:00",
   "sections": {
     "research": [
       {
-        "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
-        "url": "https://arxiv.org/abs/2609.38178v1",
-        "summary": "Zihang Rui, Renhao Wang, Haoxu Huang et al. — Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of…",
+        "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+        "url": "https://arxiv.org/abs/2609.40361v1",
+        "summary": "Tian Xia, Minghao Liu, Yiqing Liang et al. — Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanced: a…",
         "source": "arXiv",
-        "date": "2026-09-29T17:59:55Z"
+        "date": "2026-09-30T17:59:56Z"
       },
       {
-        "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
-        "url": "https://arxiv.org/abs/2609.38177v1",
-        "summary": "Jaewoo Jung, Hyeonseo Yu, Honggyu An et al. — Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they struggle to integrate…",
+        "title": "Semifactual Credit-Augmented Policy Optimization",
+        "url": "https://arxiv.org/abs/2609.40360v1",
+        "summary": "Junshu Pan, Zhizhang Fu, Shulin Huang et al. — Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features.",
         "source": "arXiv",
-        "date": "2026-09-29T17:59:52Z"
+        "date": "2026-09-30T17:59:56Z"
       },
       {
-        "title": "Breakdown of Local Denoising as Semantic Speciation",
-        "url": "https://arxiv.org/abs/2609.38176v1",
-        "summary": "Guangkuo Liu, Mert Okyay, Yifan F. Zhang et al. — The dynamics of generative models exhibit two apparently distinct temporal windows: a speciation window, in which a sample commits to a semantic class, and a nonlocality window, in which local context windows become…",
+        "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+        "url": "https://arxiv.org/abs/2609.40359v1",
+        "summary": "Dulhan Jayalath, Oiwi Parker Jones — We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time series of brain…",
         "source": "arXiv",
-        "date": "2026-09-29T17:59:50Z"
+        "date": "2026-09-30T17:59:52Z"
       },
       {
-        "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
-        "url": "https://arxiv.org/abs/2609.38169v1",
-        "summary": "Bingchen Yao, Haobo Xu, Haokun Lin et al. — Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recurrent states to low…",
+        "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
+        "url": "https://arxiv.org/abs/2609.40356v1",
+        "summary": "Xinghao Chen, Xiangbo Gao, Jiongze Yu et al. — Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video scene text editing…",
         "source": "arXiv",
-        "date": "2026-09-29T17:59:40Z"
+        "date": "2026-09-30T17:59:33Z"
       },
       {
-        "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
-        "url": "https://arxiv.org/abs/2609.38166v1",
-        "summary": "Yi Pan, Haocheng Xi, Kan Zhu et al. — Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context into a fixed-size…",
+        "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
+        "url": "https://arxiv.org/abs/2609.40347v1",
+        "summary": "Owais Iqbal, Sudipta Sarkar, Shyam Marjit et al. — We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation learning in videos. Instead of relying on heavy 3D architectures or reconstruction-based…",
         "source": "arXiv",
-        "date": "2026-09-29T17:59:34Z"
+        "date": "2026-09-30T17:59:03Z"
       },
       {
-        "title": "Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data",
-        "url": "https://arxiv.org/abs/2609.38165v1",
-        "summary": "Joseph Metcalfe, Sara Sharifzadeh, Fabio Caraffini — The landscape of satellite imagery time series datasets and boundary-pushing architectures for cropland segmentation has never been richer. However, in this gold rush, important truths are being missed on both fronts,…",
+        "title": "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
+        "url": "https://arxiv.org/abs/2609.40340v1",
+        "summary": "Young-Jun Lee, Jinheon Baek, Soyeong Jeong et al. — Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can keep returning the…",
         "source": "arXiv",
-        "date": "2026-09-29T17:59:29Z"
+        "date": "2026-09-30T17:58:28Z"
       },
       {
-        "title": "A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization",
-        "url": "https://arxiv.org/abs/2609.38161v1",
-        "summary": "Jianru Shen — Evaluations of graph reconstruction by language models typically report a single aggregate distance between the original and the reconstructed graph. We prove that for the Wasserstein distance between Laplacian spectra…",
+        "title": "Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?",
+        "url": "https://arxiv.org/abs/2609.40335v1",
+        "summary": "Razan El Mais, Ali Chehab, Ibrahim Issa et al. — Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying between input and output…",
         "source": "arXiv",
-        "date": "2026-09-29T17:59:16Z"
+        "date": "2026-09-30T17:57:43Z"
       },
       {
-        "title": "EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation",
-        "url": "https://arxiv.org/abs/2609.38157v1",
-        "summary": "Kuan-Po Huang, Haohe Liu, Puyuan Peng et al. — Emotion-conditioned text-to-speech (TTS) models may fail to express the requested emotion reliably, and improving controllability by additional training is costly in both computation and emotion-labeled speech training…",
+        "title": "Turbo Harness: Instance-Adaptive Harness Optimization",
+        "url": "https://arxiv.org/abs/2609.40330v1",
+        "summary": "Tunyu Zhang, Hao Wang, Kai Xu et al. — Automating the search for effective harnesses is an important step toward enabling agents to recursively self-improve. Existing harness optimizations typically produce a single global harness that is applied uniformly…",
         "source": "arXiv",
-        "date": "2026-09-29T17:59:05Z"
+        "date": "2026-09-30T17:56:09Z"
       },
       {
-        "title": "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies",
-        "url": "https://arxiv.org/abs/2609.38155v1",
-        "summary": "Hui Ren, Lei Fan, Henry Pao et al. — Answering questions about long videos often requires connecting events involving the same objects across hours or days. Chronological descriptions and text-derived entities can leave physical identity unresolved:…",
+        "title": "WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents",
+        "url": "https://arxiv.org/abs/2609.40325v1",
+        "summary": "Ziyan Jiang, Jingbo Yang, Jiabao Ji et al. — As interactive 3D worlds are increasingly used to study intelligent behavior, it becomes important to develop efficient pipelines for identifying anomalies in these simulated environments, such as floating objects,…",
         "source": "arXiv",
-        "date": "2026-09-29T17:59:01Z"
+        "date": "2026-09-30T17:55:29Z"
       },
       {
-        "title": "Pretraining Latent Information Feedback Transformers with Teacher Supervision",
-        "url": "https://arxiv.org/abs/2609.38149v1",
-        "summary": "Dor Tirosh, Ido Amos, Mor Geva — Transformer language models (LMs) are feed-forward: deep-layer representations are never fed back to shallower layers, and the only pathway for information to flow downward across generation steps is the decoded token.…",
+        "title": "Cogentic: Multi-Agent Orchestration for Automated Proof Discovery",
+        "url": "https://arxiv.org/abs/2609.40324v1",
+        "summary": "Yang Cai, Vineet Gupta, Yanchen Jiang et al. — We present Cogentic, a multi-agent harness for automated proof discovery on open research problems. While frontier language models can generate strong mathematical ideas in a single shot, single-shot generation is often…",
         "source": "arXiv",
-        "date": "2026-09-29T17:57:40Z"
+        "date": "2026-09-30T17:55:22Z"
       },
       {
-        "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
-        "url": "https://arxiv.org/abs/2609.38147v1",
-        "summary": "Paras Dahal, Anton Bakhtin, Taco Cohen et al. — As agents take on longer and more complex problems, controlling the execution becomes a task in its own right. Each step in the run brings new control choices, like which partial work to build on, whether to start…",
+        "title": "MatLoom: Layered Text-to-Material Generation in a Compact Program Space",
+        "url": "https://arxiv.org/abs/2609.40322v1",
+        "summary": "Anson Y. Lam, Shuqing Li, Michael R. Lyu — Material generation should produce not only an appearance, but also the rules that construct it. We introduce MatLoom, a compact, layer-oriented language for text-to-material generation with pretrained language models.…",
         "source": "arXiv",
-        "date": "2026-09-29T17:57:25Z"
+        "date": "2026-09-30T17:55:06Z"
       },
       {
-        "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
-        "url": "https://arxiv.org/abs/2609.38143v1",
-        "summary": "Cheng Qian, Kunlun Zhu, Beibin Li et al. — Agent performance depends on both reasoning ability and the environment in which it acts. We study test-time AI-for-AI, asking how a Builder can learn to construct better execution environments for a Target while both…",
+        "title": "Scaling Laws for Looped Mixture of Experts",
+        "url": "https://arxiv.org/abs/2609.40316v1",
+        "summary": "Yanbei Chen, Anirudh Goyal, Raghuraman Krishnamoorthi — Looped transformers and Mixture-of-Experts (MoE) offer complementary routes to efficient scaling: recurrence increases computational depth at fixed parameters, while MoE sparsity expands total capacity at fixed active…",
         "source": "arXiv",
-        "date": "2026-09-29T17:55:56Z"
+        "date": "2026-09-30T17:53:47Z"
       }
     ],
     "labs": [
+      {
+        "title": "Gemini 4 Argon: our next era of frontier intelligence",
+        "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+        "summary": "Gemini 4 Argon delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense. Argon can autonomously find, validate, and patch critical software vulnerabilities. Gemini 4 Argon demonstrates impressive leaps in vulnerability discovery over 3.8 Flash Cyber.",
+        "source": "Google DeepMind",
+        "date": "2026-09-30T20:01:45+00:00"
+      },
+      {
+        "title": "Introducing SynthID Bio",
+        "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+        "summary": "Today, we’re introducing SynthID Bio to bring watermarking technology to synthetic biology. SynthID Bio is a family of watermarking methods developed specifically for synthetic biology to strengthen biosecurity and scientific integrity. While no single biosecurity intervention is a silver bullet, SynthID Bio brings SynthID , our tried and tested watermarking tool, to synthetic biology.",
+        "source": "Google DeepMind",
+        "date": "2026-09-30T15:03:07+00:00"
+      },
+      {
+        "title": "Disrupting a coordinated model-distillation campaign",
+        "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+        "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+        "source": "OpenAI",
+        "date": "2026-09-30T10:30:00+00:00"
+      },
+      {
+        "title": "Helping small businesses put AI to work",
+        "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+        "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+        "source": "OpenAI",
+        "date": "2026-09-30T10:00:00+00:00"
+      },
       {
         "title": "How Diffusion Controller unifies and simplifies AI image generation",
         "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
@@ -117,16 +145,16 @@
         "date": "2026-09-29T00:00:00+00:00"
       },
       {
-        "title": "Towards safety cases for frontier AI training",
-        "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-        "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+        "title": "How we will do better for Australia",
+        "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+        "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
         "source": "OpenAI",
         "date": "2026-09-28T19:00:00+00:00"
       },
       {
-        "title": "How we will do better for Australia",
-        "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-        "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+        "title": "Towards safety cases for frontier AI training",
+        "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+        "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
         "source": "OpenAI",
         "date": "2026-09-28T19:00:00+00:00"
       },
@@ -143,206 +171,178 @@
         "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more…",
         "source": "OpenAI",
         "date": "2026-09-28T00:00:00+00:00"
-      },
-      {
-        "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-        "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-        "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-        "source": "OpenAI",
-        "date": "2026-09-28T00:00:00+00:00"
-      },
-      {
-        "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-        "url": "https://openai.com/index/proaction",
-        "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-        "source": "OpenAI",
-        "date": "2026-09-25T19:00:00+00:00"
-      },
-      {
-        "title": "Automating coherent long-form video generation",
-        "url": "https://research.google/blog/coherent-long-form-video-generation/",
-        "summary": "To ensure semantic coherence across an entire video, we present AI video co-director , a hierarchical multi-agent framework formalizing video storytelling as a global optimization problem. AI video co-director multi-agent pipeline. To address this, we developed Video Quality Question Answering (VQQA), a unified, multi-agent framework generalizable across diverse input modalities and video generation tasks.",
-        "source": "Google Research",
-        "date": "2026-09-24T19:40:00+00:00"
-      },
-      {
-        "title": "Introducing Gemini 3.8 Live with Live Avatar",
-        "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-        "summary": "Gemini 3.8 Live with Live Avatar brings real-time visual presence to Gemini’s conversational AI. Starting today, Gemini 3.8 Live with Live Avatar is available in Gemini Enterprise. Gemini 3.8 Live with Live Avatar is available in Gemini Enterprise .",
-        "source": "Google DeepMind",
-        "date": "2026-09-24T16:20:39+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Charter Space raises $5M to bring insurance to the stars",
-        "url": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
-        "summary": "Charter Space, a finalist in last year’s TechCrunch Startup Battlefield , has raised a $5 million seed round to keep growing its budding space insurance business. Things go wrong in the space industry all the time, so companies are constantly planning contingencies. “Insurance is critical infrastructure for a strong and sustainable space industry, and we believe Charter Space is building the platform that will help…",
+        "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents",
+        "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+        "summary": "Photon, which helps developers build agents that work over iMessage and WhatsApp, now has $4.5 million in seed funding to develop its products. Photon’s technology integration partners also include companies such as like Vercel (Eve and ChatSDK) and Nous Research, whose Hermes agent uses Photon as its default iMessage layer. While today, Photon focuses on agents connecting with humans, Tian believes there’s…",
         "source": "TechCrunch",
-        "date": "2026-09-30T13:00:00+00:00"
+        "date": "2026-10-01T14:00:00+00:00"
       },
       {
-        "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature",
-        "url": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
-        "summary": "With Group Hangouts, users start by choosing an activity and inviting at least two friends to join. Notably, Tinder is giving users some control over how the experience plays out. Group Hangouts builds on Tinder’s earlier push into group-oriented dating.",
+        "title": "Hearing tech startup Legato launches its AI hearing glasses",
+        "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+        "summary": "Hearing tech startup Legato announced on Thursday that its flagship AI-based hearing glasses are now available for purchase. The glasses, called Legato Frames , integrate the company’s patented hearing-assistance technology into the arms of eyewear frames. Legato was founded in 2024 by Mehul Trivedi and Steve Romine, who bring deep experience in wearables and hearing care from Bose, where Trivedi led the creation of…",
         "source": "TechCrunch",
-        "date": "2026-09-30T13:00:00+00:00"
+        "date": "2026-10-01T13:00:00+00:00"
       },
       {
-        "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
-        "url": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
-        "summary": "BAG Ventures, founded by Bonita Stewart, a former Google vice president, and Jackson Georges Jr., a former CapitalG partner, closed the fund after about two years of investing from it as it came together. Georges worked at GE Healthcare and at Google, where he met Stewart. They launched BAG Ventures to “address the emerging AI divide between founders and operators,” Georges said.",
+        "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
+        "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+        "summary": "Book Exhibit Table Now. The other new features, a character guide and interactive stories, are also starting off fairly small. Powered by generative AI, the feature lets listeners interact with Dracula’s servant, Renfield, in the new Audible Original.",
         "source": "TechCrunch",
-        "date": "2026-09-30T12:00:00+00:00"
+        "date": "2026-10-01T13:00:00+00:00"
       },
       {
-        "title": "Airbnb adds AI search, more social features",
-        "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-        "summary": "The second big feature is AI search. Earlier this year, he teased the new search feature for property discovery . It’s not hard to create AI search; it’s hard to create AI search in e-commerce when you have $100 billion going through your platform,” Airbnb CEO Brian Chesky told TechCrunch.",
+        "title": "The new Kindle ditches the bezel in a push toward a smaller, lighter e-reader",
+        "url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
+        "summary": "The new Kindle starts at $149.99 and is available in Ube and Graphite. The Kindle Colorsoft, which Amazon introduced in 2024 as its first Kindle with a color display, also adopts the thinner, lighter, flush-front design used across the refreshed lineup. The new Kindle Paperwhite and Kindle Colorsoft are available for preorder across the same regions.",
         "source": "TechCrunch",
-        "date": "2026-09-30T12:00:00+00:00"
+        "date": "2026-10-01T13:00:00+00:00"
       },
       {
-        "title": "Apple Pay finally launches in India after years on the sidelines",
-        "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-        "summary": "Apple began rolling out Apple Pay in India on Tuesday, as TechCrunch was first to report. Earlier this month, Reuters reported that Apple was preparing to launch Apple Pay in India in October, starting with Axis Bank credit cards. Even if Apple Pay remains a niche service, the economics could still make India meaningful for Apple.",
+        "title": "Amazon introduces Kindle Click, a $35 remote for turning pages",
+        "url": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
+        "summary": "The Kindle Click is a compact Bluetooth remote designed to let readers turn pages without touching their Kindle. The small remote is designed for situations where touching the Kindle isn’t convenient. The Kindle Click puts Amazon into a category that competitors have already started exploring.",
         "source": "TechCrunch",
-        "date": "2026-09-30T04:08:00+00:00"
+        "date": "2026-10-01T13:00:00+00:00"
       },
       {
-        "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-        "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-        "summary": "The government partnered with Google and SpaceXAI to help build the America.gov chatbot, which has proved difficult for people to jailbreak so far. (It’s worth nothing, however, that the chatbot says that Joe Biden won the 2020 election, a fact that President Donald Trump still denies .) But when you try to talk to America.gov about Minecraft, the chatbot appears to have some sort of existential crisis or awakening.…",
+        "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+        "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+        "summary": "Unlike SpaceX, Google, or startups like Starcloud and Cowboy Space Company, Satlyt isn’t planning to build its own spacecraft. In other words, Satlyt wants to offer software that works across many companies’ satellites. This week’s launch will put Satlyt’s software to work onboard a spacecraft built by TakeMe2Space, an Indian startup that builds computing hardware for satellites.",
         "source": "TechCrunch",
-        "date": "2026-09-29T23:30:55+00:00"
+        "date": "2026-10-01T12:00:00+00:00"
       },
       {
-        "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-        "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-        "summary": "That’s because the domain “dot.com” belongs to Musk’s xAI, and it currently redirects to the download page for xAI’s Grok chatbot app. According to the Whois domain owner registry, that domain name was just transferred in July. It is entirely possible that xAI bought the domain for normal domain-buying reasons.",
+        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+        "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+        "summary": "Google parent company Alphabet has launched Gemini 4 Argon, a new AI model built to handle a variety of tasks such as coding, research, and writing. Not long ago, OpenAI released Astra — which it hailed as its best model yet. It cites Vals — an increasingly popular AI benchmarking startup — to show that Argon is currently the leading model on the company’s AI model index.",
         "source": "TechCrunch",
-        "date": "2026-09-29T22:20:59+00:00"
+        "date": "2026-09-30T23:43:07+00:00"
       },
       {
-        "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
-        "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
-        "summary": "That conclusion isn’t new — there have been numerous investigations and lawsuits exposing how driving data is collected and shared with third parties, including insurance companies. The implications aren’t great for consumers, whose data is being shared with tech companies including Adobe, ContentSquare, Google, Microsoft, Meta, Snap, and Yahoo. Regardless of how this data was collected, drivers weren’t informed.",
+        "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+        "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+        "summary": "It’s being called Project Meridian. Elon Musk, Anduril founder Palmer Luckey, and former House Speaker Newt Gingrich will co-lead the project. Luckey’s defense tech company, Anduril, meanwhile, creates autonomous military systems and drones and was recently awarded government contracts to produce long-range missiles and semi-autonomous fighter aircraft and to supply hardware and integration for the Army’s mobile…",
         "source": "TechCrunch",
-        "date": "2026-09-29T22:18:35+00:00"
+        "date": "2026-09-30T23:08:00+00:00"
       },
       {
-        "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-        "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
-        "summary": "Last day to demo your breakthrough to 10,000+ tech leaders is on Oct 2 . EliseAI, founded in 2017, automates administrative and operational work for housing and healthcare companies. Earlier this month, Elise announced the launch of an AI “teammate” called Apollo that helps with tasks inside the EliseAI platform.",
+        "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+        "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+        "summary": "Sequoia Capital, which led Flow’s Series A round last October, also participated, as did former Sequoia partner Roelof Botha, who invested as an individual investor. Botha has joined Flow’s board, too. It names Anduril, Rivian, Joby Aviation, General Motors PPU (a joint venture between General Motors and TWG Motorsports), RV Tech (a Rivian and Volkswagen joint venture), Stoke Space, and others, as customers.",
         "source": "TechCrunch",
-        "date": "2026-09-29T21:51:36+00:00"
+        "date": "2026-09-30T21:07:40+00:00"
       },
       {
-        "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
-        "url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
-        "summary": "The company announced Tuesday that Citibank has agreed to a $20 billion three-year delayed-draw term loan facility. Wells Fargo also signed an $8 billion five-year revolving credit facility, and a $2 billion revolving credit facility with a 364-day term. Tesla finished the second quarter of this year with around $9 billion in debt and a pile of cash (and investments) north of $40 billion.",
+        "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
+        "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+        "summary": "Grinberg alleges that Degnan shared confidential information with Factory’s biggest competitor, Cognition. Degnan also says that when he told Grinberg that he was resigning to take the role at Cognition, Grinberg offered him a full-time job at Factory, which he declined. In a post on X , Khosla accused Grinberg of lying about firing Degnan.",
         "source": "TechCrunch",
-        "date": "2026-09-29T21:20:12+00:00"
+        "date": "2026-09-30T20:39:09+00:00"
       },
       {
-        "title": "OpenAI’s latest features take direct aim at the app store model",
-        "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-        "summary": "From there, the user will be able to connect the app and begin using it directly within ChatGPT. This allows app developers to build interactive panels where users can work with their tools while they’re chatting with ChatGPT. This system could give app makers another way to reach customers outside of Apple and Google’s app stores.",
+        "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+        "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+        "summary": "You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com .",
         "source": "TechCrunch",
-        "date": "2026-09-29T20:15:47+00:00"
+        "date": "2026-09-30T20:20:02+00:00"
       },
       {
-        "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-        "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-        "summary": "OpenAI is in talks with investors to raise at least $30 billion in a pre-IPO funding round at a valuation of roughly $1.4 trillion, Bloomberg reported on Tuesday. Investors are eager to pour more funds into the ChatGPT maker ahead of its anticipated public market debut next year. The company previously raised $122 billion in March at an $852 billion valuation.",
+        "title": "Hackers stole millions of US military personnel records during months-long data breach",
+        "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+        "summary": "The breach exposed personally identifiable information, including Social Security numbers, alongside a person’s name, date of birth, sex, race, and other information about their military service. This is the latest major breach of federal workers’ personal information in recent months, following a recent breach at the FBI earlier in September attributed to the ShinyHunters hacking group. Zack Whittaker is the…",
         "source": "TechCrunch",
-        "date": "2026-09-29T19:52:37+00:00"
+        "date": "2026-09-30T19:29:08+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Amazon&#8217;s new Fire TV Stick 4K can pull power directly from your TV",
-        "url": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power",
-        "summary": "﻿Amazon’s also launching a redesigned Fire TV remote with a new shape and clickier controls. ﻿Amazon’s also launching a redesigned Fire TV remote with a new shape and clickier controls. Amazon’s also simplifying its streaming stick line-up, which now includes four devices instead of five: the Fire TV Stick HD, Fire TV Stick 4K, Fire TV Stick 4K Max, and Fire TV Cube. The new Fire TV Stick 4K is replacing Amazon’s…",
+        "title": "The best early October Prime Day deals happening now",
+        "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+        "summary": "Amazon’s Echo Dot is an affordable way to add a smart speaker to your space. It includes Alexa Plus and can be used as a smart home hub with support Thread, Matter, and Zigbee smart home protocols. As an Alexa-enabled smart display, you can also add events by voice and control compatible smart home devices.",
         "source": "The Verge",
-        "date": "2026-09-30T13:00:16+00:00"
+        "date": "2026-10-01T13:35:15+00:00"
       },
       {
-        "title": "The Sonos Ace Ultra are the headphones Sonos should have made the first time",
-        "url": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review",
-        "summary": "﻿With better sound, better ANC, and Wi-Fi audio streaming, the Ace Ultra are finally worthy of the Sonos name. Sonos has upped the battery life, from up to 30 hours on the Ace to up to 35 hours with the Ace Ultra. They have improved sound, better ANC, and Sonos-specific features.",
+        "title": "What even is a ‘microdrama’?",
+        "url": "https://www.theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video",
+        "summary": "Most microdramas are vertical content, but not all vertical content feels like a real microdrama. Most microdramas are vertical content, but not all vertical content feels like a real microdrama. As the audiences for microdramas grew, more Chinese film / TV production studios began producing microdramas, and by 2021, revenue from short-form video was projected to hit $500 million .",
         "source": "The Verge",
-        "date": "2026-09-30T13:00:00+00:00"
+        "date": "2026-10-01T13:30:00+00:00"
       },
       {
-        "title": "Potato by air",
-        "url": "https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery",
-        "summary": "﻿The day the dads in my neighborhood discovered drone delivery ﻿The day the dads in my neighborhood discovered drone delivery The Wing Hummingbird 7000W-B delivery drone weighs less than 15 pounds. The wild thing — aside from the fact that you can just order a drone delivery to someone else’s yard — is that each potato delivery cost 82 cents. Now, is drone delivery wasteful?",
+        "title": "Samsung raised prices on the Galaxy S26 by $100",
+        "url": "https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us",
+        "summary": "﻿The Galaxy S26 lineup is jumping on this year’s biggest smartphone trend: $100 price hikes. ﻿The Galaxy S26 lineup is jumping on this year’s biggest smartphone trend: $100 price hikes. The base Galaxy S26 with 256GB of storage costs nearly $1,000 after Samsung raised prices in the US by $100 or more, Phone Arena reports. The Galaxy S26 and S26 Plus were already $100 more expensive than their S25 predecessors when…",
         "source": "The Verge",
-        "date": "2026-09-30T13:00:00+00:00"
+        "date": "2026-10-01T13:17:16+00:00"
       },
       {
-        "title": "You’ll soon be able to order DoorDash by text message",
-        "url": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
-        "summary": "﻿Dasher retail returns will also expand nationwide in November. ﻿Dasher retail returns will also expand nationwide in November. DoorDash is launching new ways to use the local delivery platform, including text message ordering, drone deliveries, and retail returns. DoorDash hasn’t announced when the drone deliveries will actually be available to consumers.",
+        "title": "Gears of War: E-Day is a great game launching at a terrible time",
+        "url": "https://www.theverge.com/games/1002768/gears-of-war-eday-review-xbox",
+        "summary": "A confident return for one of Xbox’s most iconic franchises is coming during a period of dramatic upheaval. There are few blockbuster games that are as confident as Gears of War: E-Day . Gears of War: E-Day launches on October 6th on the PC and Xbox.",
         "source": "The Verge",
-        "date": "2026-09-30T13:00:00+00:00"
+        "date": "2026-10-01T13:00:00+00:00"
       },
       {
-        "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-        "summary": "﻿‘Over time, it may make sense to codify these steps into laws or regulations.’ ﻿‘Over time, it may make sense to codify these steps into laws or regulations.’ We now have the full details of the “morally binding” AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. 2) Empower an internal team to ensure all of the controls,…",
+        "title": "Amazon is launching colorful new Kindles — and a case with physical page-turn buttons",
+        "url": "https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh",
+        "summary": "A wave of little changes, including new colors, the option of an aluminum case, and some neat accessories. A wave of little changes, including new colors, the option of an aluminum case, and some neat accessories. The aluminum options for the Paperwhite and Colorsoft, costing $249.99 and $319.99 , respectively, include more than the base Kindle’s high-end version.",
         "source": "The Verge",
-        "date": "2026-09-30T12:24:32+00:00"
+        "date": "2026-10-01T13:00:00+00:00"
       },
       {
-        "title": "Samsung gives its two-year-old Galaxy Tab S Plus an overhaul",
-        "url": "https://www.theverge.com/tech/1002533/samsung-galaxy-tab-s12-plus-ultra-android-tablets-specs-price",
-        "summary": "The Galaxy Tab S12 Plus gets a big update, though the Tab S12 Ultra is a more modest refresh. The Galaxy Tab S12 Plus gets a big update, though the Tab S12 Ultra is a more modest refresh. The Galaxy Tab S12 Plus and Tab S12 Ultra will hit shelves on October 7th.",
+        "title": "Amazon’s Carrie is a cyberbullying nightmare",
+        "url": "https://www.theverge.com/entertainment/1002835/carrie-review-amazon-prime-video",
+        "summary": "﻿Mike Flanagan’s first Amazon series is a (mostly) excellent update of the classic Stephen King tale. Do we really need a new version of Carrie ? Carrie is the first project to come out of that partnership.",
         "source": "The Verge",
-        "date": "2026-09-30T12:00:00+00:00"
+        "date": "2026-10-01T13:00:00+00:00"
       },
       {
-        "title": "Samsung’s new SmartTag is smaller, longer-lasting, and works with iPhones",
-        "url": "https://www.theverge.com/tech/1002552/samsung-galaxy-smarttag-3-design-battery-price-features",
-        "summary": "The Galaxy SmartTag 3 launches in the US in November for $29.99. Samsung has announced its third-generation Bluetooth tracker, the Galaxy SmartTag 3. The SmartTag 3 is 35 percent smaller and 33 percent lighter than the SmartTag 2.",
+        "title": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+        "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+        "summary": "﻿The HP OmniBook 5 14 looks like a Neo wannabe right down to its 8GB of RAM and colors, but it seems a compelling competitor. ﻿The HP OmniBook 5 14 looks like a Neo wannabe right down to its 8GB of RAM and colors, but it seems a compelling competitor. The 2026 HP OmniBook 5 14 starts at $699.99 with an Intel Core 5 315 “Wildcat Lake” processor, 8GB of RAM, and a 256GB SSD. While the OmniBook 5 14 doesn’t seem poised…",
         "source": "The Verge",
-        "date": "2026-09-30T12:00:00+00:00"
+        "date": "2026-10-01T13:00:00+00:00"
       },
       {
-        "title": "Apple’s &#8216;HomePad&#8217; will reportedly launch on October 13th",
-        "url": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
-        "summary": "The long-rumored smart home hub will reportedly be revealed alongside a new HomePod mini and Apple TV. The long-rumored smart home hub will reportedly be revealed alongside a new HomePod mini and Apple TV. Apple’s long-rumored smart home hub will reportedly be revealed on October 13th.",
+        "title": "Huawei made a whole camera to attach to its latest phone",
+        "url": "https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera",
+        "summary": "This 24–240mm zoom lens has its own sensor too. This 24–240mm zoom lens has its own sensor too. Today, Huawei one-upped everybody with the add-on lens for its Mate 90 Pro Max flagship, which is not only a comically huge zoom lens, but also includes its own image sensor.",
         "source": "The Verge",
-        "date": "2026-09-30T11:11:24+00:00"
+        "date": "2026-10-01T10:15:48+00:00"
       },
       {
-        "title": "September 2026: The world today, as seen by one Polish guy",
-        "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-        "summary": "A 30-year mortgage now costs 7.12 percent, up from 6.09 in February. Germany’s 10-year yield reached 3.57 percent in mid-September, the highest since 2009. Britain’s 10-year gilt touched 5.29 percent, the highest since 2007. (369 points, 236 comments on Hacker News)",
+        "title": "This very fancy e-bike is one of the first to go semi-solid state",
+        "url": "https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery",
+        "summary": "The Lemmo 3 has more range, fewer explosions. The Lemmo 3 has more range, fewer explosions. Lemmo is targeting first deliveries for April 2027.",
+        "source": "The Verge",
+        "date": "2026-10-01T10:11:29+00:00"
+      },
+      {
+        "title": "The People of Utah vs. Kevin O&#8217;Leary",
+        "url": "https://www.theverge.com/cs/features/993343/stratos-utah-kevin-oleary-data-center-backlash",
+        "summary": "Now Munns wanted Perry’s help stopping the data center. Utah real estate entrepreneur Austin Pritchett begins approaching Box Elder County landowners about a data center project. Landowners alert county commissioners to the project.",
+        "source": "The Verge",
+        "date": "2026-10-01T10:00:02+00:00"
+      },
+      {
+        "title": "Fuck Android Developer Verification Program",
+        "url": "https://twitter.com/0xcrypto/status/2105515822643114182",
+        "summary": "272 points, 117 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-30T07:12:31+00:00"
+        "date": "2026-10-01T04:32:38+00:00"
       },
       {
-        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-        "summary": "﻿The OpenAI CEO said he didn’t want ‘additional pressure’ from Wall Street. ﻿The OpenAI CEO said he didn’t want ‘additional pressure’ from Wall Street. For months, people have wondered when OpenAI will go public. In July, news broke that an unreleased OpenAI model had hacked into a rival AI lab, Hugging Face, without OpenAI’s knowledge.",
-        "source": "The Verge",
-        "date": "2026-09-30T00:19:13+00:00"
-      },
-      {
-        "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-        "url": "https://github.com/ninjahawk/livenerf",
-        "summary": "Right now v0 runs on a Claude Max subscription through headless Claude Code ( claude -p ), with no API key. Day 1 was 2026-09-24 22:10 UTC, about 2.5 days after launch. The first Results row lands after day 20. (728 points, 285 comments on Hacker News)",
+        "title": "56k.rip – the 1996 dial-up internet experience",
+        "url": "https://56k.rip/",
+        "summary": "226 points, 93 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-09-29T22:36:14+00:00"
-      },
-      {
-        "title": "Trump orders US government to call AI ‘Super Intelligence’",
-        "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-        "summary": "‘The word super is the best word of all,’ Trump says. ‘The word super is the best word of all,’ Trump says. The US executive branch is no longer acknowledging the existence of “artificial intelligence.” Going forward, official policy websites, policy documents, and press releases will refer only to “Super Intelligence,” thanks to a new executive order signed by President Donald Trump. Trump signed the executive…",
-        "source": "The Verge",
-        "date": "2026-09-29T22:25:45+00:00"
+        "date": "2026-09-30T22:08:50+00:00"
       }
     ]
   }
