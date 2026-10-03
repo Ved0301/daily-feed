@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T13:38:00.370542+00:00",
+  "generated_at": "2026-10-03T12:16:20.189310+00:00",
   "sections": {
     "research": [
       {
@@ -89,6 +89,27 @@
     ],
     "labs": [
       {
+        "title": "A model guide for the GPT-6 family",
+        "url": "https://openai.com/index/practical-guide-building-gpt-6",
+        "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+        "source": "OpenAI",
+        "date": "2026-10-02T16:15:00+00:00"
+      },
+      {
+        "title": "Toward provably private learning from federated data",
+        "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+        "summary": "In 2017, Google introduced Federated Learning (FL) a machine learning technique that trains models across decentralized, private data. For more details on the TEE-based FL system design please see our whitepaper, Toward provably private learning from federated data . Devices participating in our new TEE-based FL system know the full set of server workloads that may access data they’re uploading.",
+        "source": "Google Research",
+        "date": "2026-10-02T14:57:41+00:00"
+      },
+      {
+        "title": "Chatham scales its capital markets expertise with OpenAI",
+        "url": "https://openai.com/index/chatham-financial",
+        "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+        "source": "OpenAI",
+        "date": "2026-10-02T00:00:00+00:00"
+      },
+      {
         "title": "The eternal complement",
         "url": "https://openai.com/index/the-eternal-complement",
         "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
@@ -119,7 +140,7 @@
       {
         "title": "Introducing SynthID Bio",
         "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-        "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+        "summary": "Today, we’re introducing SynthID Bio to bring watermarking technology to synthetic biology. SynthID Bio is a family of watermarking methods developed specifically for synthetic biology to strengthen biosecurity and scientific integrity. While no single biosecurity intervention is a silver bullet, SynthID Bio brings SynthID , our tried and tested watermarking tool, to synthetic biology.",
         "source": "Google DeepMind",
         "date": "2026-09-30T15:03:07+00:00"
       },
@@ -145,204 +166,183 @@
         "date": "2026-09-29T18:38:27+00:00"
       },
       {
-        "title": "Introducing GPT-6.1 Sol",
-        "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-        "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-        "source": "OpenAI",
-        "date": "2026-09-29T10:00:00+00:00"
-      },
-      {
         "title": "DevDay 2026 Recap",
         "url": "https://openai.com/index/devday-2026-recap",
         "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
         "source": "OpenAI",
         "date": "2026-09-29T10:00:00+00:00"
-      },
-      {
-        "title": "Introducing dots",
-        "url": "https://openai.com/index/introducing-dots",
-        "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-        "source": "OpenAI",
-        "date": "2026-09-29T00:00:00+00:00"
-      },
-      {
-        "title": "How we will do better for Australia",
-        "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-        "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-        "source": "OpenAI",
-        "date": "2026-09-28T19:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
-        "url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
-        "summary": "But a bug unknown to Epic could allow hackers to compromise multiple MyChart affected systems located across the United States and raid the data stored within. The company paid the hackers twice not to publish the stolen data. This includes medical records stolen during a breach at electronic health data storage giant CareCloud , millions of rows of patient data from pharmaceutical distributor McKesson , and an…",
+        "title": "Meta wants your next gadget to be Muse-infused",
+        "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+        "summary": "Disrupt doors open Oct. On Friday, the company introduced Muse Gadgets , an open-source project that lets developers build their own hardware that connects to Muse. Nat Friedman, head of product at Meta’s Superintelligence Labs, said in a post on X that the company built a gadget called Muse Home Link.",
         "source": "TechCrunch",
-        "date": "2026-10-02T13:23:09+00:00"
+        "date": "2026-10-03T00:45:39+00:00"
       },
       {
-        "title": "Rivian’s R2 just helped it set a new sales record",
-        "url": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
-        "summary": "The company said Friday morning that it built 19,751 vehicles and delivered 19,248. If Rivian hits those numbers, the company believes it can sell between 65,000 and 70,000 vehicles this year, including its R1 lineup of vehicles and its commercial electric van. That would be its best sales year ever, as the company has spent the last few years stuck at around the 50,000-vehicles-sold mark.",
+        "title": "Sanders introduces bill to ban the federal government from using Flock",
+        "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+        "summary": "Disrupt doors open Oct. Flock Safety, whose cameras scan license plates across the country, continues to draw public anger, and now Senator Bernie Sanders wants the federal government out of the business altogether. Sanders (D-Vermont) on Friday introduced the Ban Flock Act , which would bar federal agencies from using automatic license plate readers (ALPRs) or tapping into data collected by readers run by local…",
         "source": "TechCrunch",
-        "date": "2026-10-02T13:17:05+00:00"
+        "date": "2026-10-03T00:21:57+00:00"
       },
       {
-        "title": "Rivian issues R2 recall for poorly tightened battery packs",
-        "url": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/",
-        "summary": "This is the second recall Rivian has issued for the R2, which started shipping to customers this year. In a filing, the National Highway Traffic Safety Administration (NHTSA) said Rivian first spotted the defect on September 17. One owner said Rivian’s service department told them to stop driving immediately, and the company towed the vehicle.",
+        "title": "Sean Parker is rebuilding Stability AI around music",
+        "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+        "summary": "Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now. Disrupt doors open Oct.",
         "source": "TechCrunch",
-        "date": "2026-10-02T12:50:11+00:00"
+        "date": "2026-10-02T21:09:14+00:00"
       },
       {
-        "title": "Robotaxi operators will face fines for blocking first responders",
-        "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-        "summary": "Autonomous vehicle (AV) technology companies like Tesla, Waymo, and Zoox will have to provide first responders with local, on-the-ground support when their robotaxis cause problems under a new California law. The requirement is meant to address concerns around how companies use remote operations when autonomous vehicles run into trouble. Companies including Waymo and Zoox have said they will comply.",
+        "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+        "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+        "summary": "Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Disrupt doors open Oct. Come to Disrupt , meet new people, explore new opportunities, and take your next step.",
         "source": "TechCrunch",
-        "date": "2026-10-02T00:57:57+00:00"
+        "date": "2026-10-02T19:15:51+00:00"
       },
       {
-        "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-        "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-        "summary": "The Startup Battlefield winner’s reveal packs the Disrupt stage and is each year’s capstone event. Disrupt 2026 spans several stages , each built around a different founder need: And that’s just the beginning — we’ll have more speakers to announce as we get closer to Disrupt. Get 50% off a second pass The Disrupt experience is meant to be shared.",
+        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+        "summary": "Disrupt doors open Oct. In Muse’s case, the AI optionally allows users to enable Full Disk Access. This setting, Apple explains, gives an app permission to access files, mail, messages, and even browsing history.",
         "source": "TechCrunch",
-        "date": "2026-10-02T00:03:23+00:00"
+        "date": "2026-10-02T18:11:27+00:00"
       },
       {
-        "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
-        "url": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
-        "summary": "Lyft has agreed to pay $272.5 million to settle a lawsuit accusing the ride-hailing company of violating California law by misclassifying drivers as independent contractors, instead of employees. Today, drivers for app-based transportation services like Lyft and Uber are classified as contractors after voters passed ballot measure Proposition 22 in 2020. Even after AB 5 took effect, Lyft, Uber, and other companies…",
+        "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+        "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+        "summary": "You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com . You can contact or verify outreach from Theresa by emailing theresa.loconsolo@techcrunch.com .",
         "source": "TechCrunch",
-        "date": "2026-10-01T21:57:08+00:00"
+        "date": "2026-10-02T17:48:16+00:00"
       },
       {
-        "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-        "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-        "summary": "Kevin Mandia, best known as the founder of cybersecurity startup Mandiant, which sold to Google for $5.4 billion in 2022 , has raised $255.5 million for his latest startup, Armadin, at a valuation of more than $2.5 billion, the company announced on Thursday. The Series B round was led by Andreessen Horowitz and Accel, with Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner…",
+        "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+        "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+        "summary": "Disrupt doors open Oct. Rapid growth can force big financing decisions early. Jas Khaira joined Blackstone in 2004 and is global head of Blackstone N1 and Blackstone Growth, as well as head of Tactical Opportunities Americas.",
         "source": "TechCrunch",
-        "date": "2026-10-01T21:55:22+00:00"
+        "date": "2026-10-02T17:32:05+00:00"
       },
       {
-        "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-        "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-        "summary": "During this meeting, Trump “spent hours” talking to Musk’s Grok chatbot, including asking how Venezuelans would respond to the capture of their president, a source told Time. So Grok told Trump that Maduro was a “deeply unpopular dictator and that many Venezuelans would likely celebrate his downfall,” Time reported. When such celebrations indeed happened after the U.S. invaded on January 3, Trump apparently “came…",
+        "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+        "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+        "summary": "Disrupt doors open Oct. Circuit Breaker Labs then runs tens of thousands to hundreds of thousands of simulated interactions per day. Circuit Breaker Labs then uses a proprietary scoring method to create auditable, explainable scores.",
         "source": "TechCrunch",
-        "date": "2026-10-01T21:08:11+00:00"
+        "date": "2026-10-02T17:00:00+00:00"
       },
       {
-        "title": "ChatGPT can now virtually try on clothes for you",
-        "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-        "summary": "OpenAI is again experimenting with how its conversational AI assistant, ChatGPT, can help users as they shop online. This option will appear as a new Try On button in ChatGPT’s shopping results. Whether ChatGPT will become people’s first choice for this type of activity, however, remains to be seen — especially given that Google launched virtual try-on last year .",
+        "title": "Paramount and Warner Bros. Discovery to become Skydance",
+        "url": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
+        "summary": "Disrupt doors open Oct. Paramount and Warner Bros. Ellison said the Paramount and Warner Bros. brands will remain central.",
         "source": "TechCrunch",
-        "date": "2026-10-01T19:21:53+00:00"
+        "date": "2026-10-02T15:53:50+00:00"
       },
       {
-        "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-        "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-        "summary": "Google’s prototype of its orbital compute satellite took off today onboard a SpaceX rocket launched from California — the first time the tech giant has sent one of its advanced chips into space. Built by Planet Labs , the satellite will prove that a Google Tensor Processing Unit, its competitor to Nvidia’s GPUs, can function in space. Suncatcher isn’t the only space AI payload on this SpaceX rocket, which is…",
+        "title": "Pope Leo XIV is not a fan of AI-generated art",
+        "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+        "summary": "Book Exhibit Table Now. Disrupt doors open Oct. In a post on X Friday morning , Pope Leo XIV detailed the spiritual difference between human-generated art and art that is generated by machines, as part of a call to preserve human art from the encroachment of AI.",
         "source": "TechCrunch",
-        "date": "2026-10-01T19:18:03+00:00"
+        "date": "2026-10-02T15:39:41+00:00"
       },
       {
-        "title": "World’s first enhanced geothermal power plant completed in just 23 months",
-        "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
-        "summary": "Geothermal company Fervo Energy announced Thursday morning that it had started selling electricity from its Cape Station power plant to the grid on September 30, one day ahead of schedule. With it, Fervo becomes the first enhanced geothermal company to reach a key commercial milestone. Fervo is one of several companies developing enhanced geothermal power plants.",
+        "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
+        "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
+        "summary": "Disrupt doors open Oct. But one newcomer, Laytr , is taking things further than offering a way to save things to read. The app is free to try, but limits you to 30 saved items.",
         "source": "TechCrunch",
-        "date": "2026-10-01T18:35:55+00:00"
+        "date": "2026-10-02T15:31:20+00:00"
       },
       {
-        "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-        "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-        "summary": "OpenAI has parted ways with three researchers on its safety team who allegedly shared confidential company information with a third-party AI safety organization, The Wall Street Journal reported on Thursday. This isn’t the first time OpenAI has dismissed researchers over alleged information sharing. In 2024, the company fired researchers Leopold Aschenbrenner and Pavel Izmailov over alleged leaks, The Information…",
+        "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
+        "url": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
+        "summary": "Disrupt doors open Oct. The domain name was commonly associated with Slovenia, where, ironically, First Lady Melania Trump is from. Still, the Registry noted 11,000 new addresses recorded on September 30, the day after President Trump signed the executive order , and almost 13,000 new .si domain names were registered in the past 24 hours.",
         "source": "TechCrunch",
-        "date": "2026-10-01T18:14:42+00:00"
+        "date": "2026-10-02T14:47:46+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Tesla’s recovery hits a speed bump",
-        "url": "https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump",
-        "summary": "The company’s sales dipped in the third quarter, after customers raced to cash in on expiring tax credits last year. The company’s sales dipped in the third quarter, after customers raced to cash in on expiring tax credits last year. Last quarter, Tesla said its sales were up 25 percent year over year .",
+        "title": "3D movies are finally worth watching",
+        "url": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
+        "summary": "Video glasses are giving me the experience I’ve always desired. That’s what video glasses can provide. There are SBS 3D toggles in popular video player apps for VR headsets like the Meta Quest and Steam Frame , too — and the Apple Vision Pro and upcoming Meta VR Glasses let you natively stream 3D films.",
         "source": "The Verge",
-        "date": "2026-10-02T13:08:16+00:00"
+        "date": "2026-10-03T12:00:00+00:00"
       },
       {
-        "title": "Home Assistant says ‘Big tech ruined the cloud, so we&#8217;re out’",
-        "url": "https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out",
-        "summary": "The open-source smart home platform Home Assistant is kicking the cloud to the curb — in name at least. For Home Assistant, cloud-dependent products are a hard no. Schoutsen sees AI as a big driver for Home Assistant.",
-        "source": "The Verge",
-        "date": "2026-10-02T13:02:52+00:00"
-      },
-      {
-        "title": "The Pocket Advance nearly perfects my favorite Nintendo handheld",
-        "url": "https://www.theverge.com/tech/993521/ayaneo-konkr-pocket-advance-nintendo-game-boy-advance-handheld",
-        "summary": "It’s a faithful Game Boy Advance clone, but the Pocket Advance runs Android, so you can play more than just GBA games. It’s a faithful Game Boy Advance clone, but the Pocket Advance runs Android, so you can play more than just GBA games. An authentic but upgraded clone of Nintendo’s Game Boy Advance that can play more than just GBA games using emulation.",
-        "source": "The Verge",
-        "date": "2026-10-02T13:00:00+00:00"
-      },
-      {
-        "title": "Star Wars: Galactic Racer is my childhood podracing dream come true",
-        "url": "https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review",
-        "summary": "The new Star Wars racing game is probably as close as you can get to actually piloting a podracer. The new Star Wars racing game is probably as close as you can get to actually piloting a podracer. Star Wars: Galactic Racer launches on October 6th on PC, PS5, and Xbox.",
-        "source": "The Verge",
-        "date": "2026-10-02T12:00:00+00:00"
-      },
-      {
-        "title": "AI hallucinations are making entitled customers even worse",
-        "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-        "summary": "Thanks to AI, the customer really isn’t always right. Thanks to AI, the customer really isn’t always right. “They just want to talk to ChatGPT,” Madison explains.",
-        "source": "The Verge",
-        "date": "2026-10-02T12:00:00+00:00"
-      },
-      {
-        "title": "If a data center is camouflaged in the woods, will anyone hate it?",
-        "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-        "summary": "Microsoft is expanding ‘biomimicry’ at its data centers as it faces more pushback from locals over construction, pollution, and noise. Microsoft is also taking a different approach to soften the impact its data centers have. “Not all data center companies are the same.",
-        "source": "The Verge",
-        "date": "2026-10-02T12:00:00+00:00"
-      },
-      {
-        "title": "Amazon writes scary blog warning communities not to block data centers",
-        "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-        "summary": "﻿‘The race our nation can’t afford to lose.’ ﻿‘The race our nation can’t afford to lose.’ Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and the…",
-        "source": "The Verge",
-        "date": "2026-10-02T11:52:20+00:00"
-      },
-      {
-        "title": "AI music maker Suno now generates spoken words",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-        "summary": "﻿The new Speech feature provides synthetic voiceovers embellished with AI background music. ﻿The new Speech feature provides synthetic voiceovers embellished with AI background music. Pairing AI music with generated voices is Suno’s spin on text-to-speech tools. Speech has a maximum duration of around eight minutes.",
-        "source": "The Verge",
-        "date": "2026-10-02T09:42:19+00:00"
-      },
-      {
-        "title": "DeepSeek Harness Desktop for macOS and Windows",
-        "url": "https://www.deepseek.com/en/harness/",
-        "summary": "DeepSeek Harness is now in public preview worldwide and open source, with composable plugins that extend what agents can do. I'm DeepSeek Harness, an open-source harness from DeepSeek built on Cordis 's “everything is a plugin” architecture. DeepSeek Harness is in preview, with evolving core plugins and APIs. (295 points, 150 comments on Hacker News)",
+        "title": "Extra Big Ass Intelligence",
+        "url": "https://www.extrabigassintelligence.com/",
+        "summary": "323 points, 72 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-10-02T03:11:20+00:00"
+        "date": "2026-10-03T03:19:10+00:00"
       },
       {
-        "title": "Several vulnerabilities have been discovered in the Linux kernel",
-        "url": "https://lwn.net/Articles/1097401/",
-        "summary": "-----BEGIN PGP SIGNED MESSAGE----- Hash: SHA512 - ------------------------------------------------------------------------- Debian Security Advisory DSA-6528-1 security@debian.org https://www.debian.org/security/ Salvatore Bonaccorso September 29, 2026 https://www.debian.org/security/faq - ------------------------------------------------------------------------- Package : linux CVE ID : CVE-2024-52560 CVE-2024-58094… (403 points, 292 comments on Hacker News)",
+        "title": "Newgrounds.com – A community of games, music, and art",
+        "url": "https://www.newgrounds.com/",
+        "summary": "272 points, 74 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-10-01T23:10:44+00:00"
+        "date": "2026-10-03T00:55:25+00:00"
       },
       {
-        "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
-        "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
-        "summary": "﻿With Apple rumored to launch a smart home hub next month, it could come with a privacy-protecting security camera too. ﻿With Apple rumored to launch a smart home hub next month, it could come with a privacy-protecting security camera too. Apple’s rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in…",
+        "title": "Meta open sources code to let you make Muse AI gadgets",
+        "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+        "summary": "﻿Meta now lets you connect Muse to your own hardware to put on your displays or a Raspberry Pi. ﻿Meta now lets you connect Muse to your own hardware to put on your displays or a Raspberry Pi. Meta now lets you make your own Muse gadgets that feature the company’s new AI agent with code that the company open sourced . “Muse gadgets are open source devices you build yourself,” Meta says.",
         "source": "The Verge",
-        "date": "2026-10-01T22:51:36+00:00"
+        "date": "2026-10-02T21:08:37+00:00"
       },
       {
-        "title": "Frog and Toad and the Increasingly Capable Machines",
-        "url": "https://www.frogandtoad.ai/",
-        "summary": "278 points, 64 comments on Hacker News",
+        "title": "Zig v0.17.0",
+        "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+        "summary": "Zig development is funded via Zig Software Foundation , a 501(c)(3) non-profit organization. Zig 0.18.0 will update to musl 1.2.6. Furthermore, starting with Zig 0.18.0, instead of distributing third party WASI libc code, Zig will provide libc for WASI targets via zig libc . (252 points, 176 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-01T22:23:38+00:00"
+        "date": "2026-10-02T20:56:36+00:00"
+      },
+      {
+        "title": "Netflix is pivoting away from prestige",
+        "url": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
+        "summary": "On Thursday, Netflix shared that its production deal with David Fincher is coming to an end after six years. Though Fincher’s next project for Netflix — 2023’s The Killer — debuted at No. Fincher’s track record with Netflix is somewhat similar to director Shawn Levy’s.",
+        "source": "The Verge",
+        "date": "2026-10-02T20:30:26+00:00"
+      },
+      {
+        "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+        "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+        "summary": "Mac apps will soon need ‘very explicit user action’ to gain full disk access, according to Apple. Mac apps will soon need ‘very explicit user action’ to gain full disk access, according to Apple. Full disk access is a permission on macOS that gives an app access to a user’s entire system.",
+        "source": "The Verge",
+        "date": "2026-10-02T20:08:40+00:00"
+      },
+      {
+        "title": "Sling TV drops its one-day cable passes",
+        "url": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
+        "summary": "Sling Passes, which let you watch channels like ESPN and CNN without a full-month cable subscription, are no longer available. Sling Passes, which let you watch channels like ESPN and CNN without a full-month cable subscription, are no longer available. Discovery sued Sling TV over Sling Pass, though a federal judge ruled against Disney in its request for a preliminary injunction to block the feature.",
+        "source": "The Verge",
+        "date": "2026-10-02T20:00:20+00:00"
+      },
+      {
+        "title": "Updates to Full Disk Access in macOS",
+        "url": "https://developer.apple.com/news/?id=p6zjojqw",
+        "summary": "We give developers powerful APIs to build incredible capabilities into their apps for Apple products, backed by a set of controls designed to protect users’ private data. Full Disk Access largely sidesteps these controls in order to allow backup apps to function properly on the Mac. Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their systems—including files,… (218 points, 145 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-02T19:37:01+00:00"
+      },
+      {
+        "title": "Apple Pass Designer",
+        "url": "https://developer.apple.com/pass-designer/",
+        "summary": "Each pass type includes standard fields for displaying information, and you can edit each field’s content directly in Pass Designer. Pass Designer lets you edit semantic tags directly in the UI, and you can view a semantic and non-semantic pass side by side. Pass Designer beta requires macOS 27 or later. (453 points, 277 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-02T19:06:56+00:00"
+      },
+      {
+        "title": "From the creator of Redis; run LLM locally with ds4",
+        "url": "https://dwarfstar.sh/",
+        "summary": "It supports DeepSeek V4 and V4.1 Flash, GLM 5.x and Qwen3.8 Flash Next, with text and vision models, local APIs, a CLI and a native agent in one stack. The model becomes practical on high-memory machines. Compress the routed experts, keep critical shared paths precise. (270 points, 69 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-02T18:01:16+00:00"
+      },
+      {
+        "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+        "summary": "Think of Dots as Codex, but for regular people. Think of Dots as Codex, but for regular people. OpenAI announced Dots earlier this week.",
+        "source": "The Verge",
+        "date": "2026-10-02T18:00:00+00:00"
       }
     ]
   }
