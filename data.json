@@ -1,93 +1,121 @@
 {
-  "generated_at": "2026-10-07T14:14:57.127317+00:00",
+  "generated_at": "2026-10-08T14:24:09.399155+00:00",
   "sections": {
     "research": [
       {
-        "title": "QF3: Fast Flow RL with Filtered Q-Gradients",
-        "url": "https://arxiv.org/abs/2610.08789v1",
-        "summary": "Chung Min Kim, Brent Yi, David McAllister et al. — Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning them from scratch…",
+        "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+        "url": "https://arxiv.org/abs/2610.10538v1",
+        "summary": "Shravan Chaudhari, William Paul, Suchi Saria et al. — As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without…",
         "source": "arXiv",
-        "date": "2026-10-06T17:59:34Z"
+        "date": "2026-10-07T17:59:41Z"
       },
       {
-        "title": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
-        "url": "https://arxiv.org/abs/2610.08785v1",
-        "summary": "Kevin Zhang, Stephen Bates — Conformal prediction is a popular tool for uncertainty quantification that outputs prediction sets with finite-sample coverage guarantees. While prediction set size is commonly used as a heuristic measure of…",
+        "title": "Decoupling Exploration from Optimization in RLVR",
+        "url": "https://arxiv.org/abs/2610.10536v1",
+        "summary": "Saif Punjwani, Micah Goldblum — Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies.",
         "source": "arXiv",
-        "date": "2026-10-06T17:59:11Z"
+        "date": "2026-10-07T17:59:26Z"
       },
       {
-        "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
-        "url": "https://arxiv.org/abs/2610.08782v1",
-        "summary": "Shiqi Li, Sean Cho, Yijie Li et al. — Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to unstable interaction…",
+        "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+        "url": "https://arxiv.org/abs/2610.10533v1",
+        "summary": "Hongru Cai, Ran Wei, Wenjie Wang et al. — Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling,…",
         "source": "arXiv",
-        "date": "2026-10-06T17:59:02Z"
+        "date": "2026-10-07T17:58:52Z"
       },
       {
-        "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
-        "url": "https://arxiv.org/abs/2610.08781v1",
-        "summary": "Ziyu Chen, Yilun Zhao, Jiashuo Sun et al. — Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training language models to perform this form of literature-grounded ideation…",
+        "title": "Long-WAM: Scaling the Context of World-Action Models",
+        "url": "https://arxiv.org/abs/2610.10528v1",
+        "summary": "Wei Huang, Bohan Zhang, Chenzhi Liu et al. — Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal…",
         "source": "arXiv",
-        "date": "2026-10-06T17:59:01Z"
+        "date": "2026-10-07T17:58:04Z"
       },
       {
-        "title": "DepthWorld: 3D World Model for Robot Manipulation",
-        "url": "https://arxiv.org/abs/2610.08780v1",
-        "summary": "Jai Bardhan, Josef Sivic, Vladimir Petrik — World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D geometry, yet current…",
+        "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
+        "url": "https://arxiv.org/abs/2610.10527v1",
+        "summary": "Aleksandar Armacki, Haoyuan Cai, Ali H. Sayed — Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized settings, much less…",
         "source": "arXiv",
-        "date": "2026-10-06T17:59:00Z"
+        "date": "2026-10-07T17:57:58Z"
       },
       {
-        "title": "Sherpa: Teaching LLMs to Teach Adaptively",
-        "url": "https://arxiv.org/abs/2610.08778v1",
-        "summary": "Weixian Xu, Yanzhe Zhang, Zora Zhiruo Wang et al. — Large language models (LLMs) have become increasingly capable problem solvers, but being able to solve a problem is not the same as being able to teach it. Existing approaches to training LLMs as teachers rely on…",
+        "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+        "url": "https://arxiv.org/abs/2610.10526v1",
+        "summary": "Mikey Watts, Yuchen Cui — Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can move success by tens…",
         "source": "arXiv",
-        "date": "2026-10-06T17:58:18Z"
+        "date": "2026-10-07T17:57:38Z"
       },
       {
-        "title": "Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?",
-        "url": "https://arxiv.org/abs/2610.08775v1",
-        "summary": "Ankit Sonthalia, Haritz Puerto, Alexander Rubinstein et al. — Large language models (LLMs) can solve many narrow tasks, but querying them separately for millions of related instances can be prohibitively expensive. Can LLM agents autonomously create cheaper solutions for such…",
+        "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
+        "url": "https://arxiv.org/abs/2610.10520v1",
+        "summary": "Zhewei Chen, Hao Zhu, Jiaojiao Jiang et al. — GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use confidence-based…",
         "source": "arXiv",
-        "date": "2026-10-06T17:57:19Z"
+        "date": "2026-10-07T17:56:01Z"
       },
       {
-        "title": "AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model",
-        "url": "https://arxiv.org/abs/2610.08773v1",
-        "summary": "Sarim Hashmi, Mukul Ranjan, Kshitij Mishra et al. — Web agents complete user requests by reading and acting on pages that third parties write, so an instruction planted on a page can redirect the agent away from the user's goal. The agent cannot simply ignore the page,…",
+        "title": "Why Forget-Only Unlearning Needs Memorization",
+        "url": "https://arxiv.org/abs/2610.10519v1",
+        "summary": "Luka Radić, Vikrant Singhal, Amartya Sanyal — Machine unlearning asks for a deletion algorithm whose output is close to retraining from scratch without the selected forget examples. In this work, we study forget-only unlearning, where the deletion algorithm…",
         "source": "arXiv",
-        "date": "2026-10-06T17:56:43Z"
+        "date": "2026-10-07T17:55:46Z"
       },
       {
-        "title": "Rapid Fredholm stabilization of the Kuramoto--Sivashinsky equation with unrestricted, spatially-varying anti-diffusion",
-        "url": "https://arxiv.org/abs/2610.08764v1",
-        "summary": "Luke Bhan, Miroslav Krstic, Yuanyuan Shi — We develop the first feedback design for rapid stabilization of the Kuramoto--Sivashinsky equation with a spatially varying anti-diffusion coefficient. For constant coefficients, the single-input Fredholm design of…",
+        "title": "RoboJEPA: Scaling Robotic Latent World Models",
+        "url": "https://arxiv.org/abs/2610.10515v1",
+        "summary": "Artem Zholus, Nicolas Beltran-Velez, Jianhao Yuan et al. — Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with model size, data,…",
         "source": "arXiv",
-        "date": "2026-10-06T17:50:54Z"
+        "date": "2026-10-07T17:54:42Z"
       },
       {
-        "title": "VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning",
-        "url": "https://arxiv.org/abs/2610.08761v1",
-        "summary": "Zewei Zhou, Rachel Luo, Yulong Cao et al. — Self-improving policies continually expose new failure patterns, changing what their judges must be able to verify. However, current fixed judges constrain both optimization feedback and the discovery of useful training…",
+        "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
+        "url": "https://arxiv.org/abs/2610.10513v1",
+        "summary": "Yinling Zhang, Langchen Liu, Dongbin Xiu et al. — Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell…",
         "source": "arXiv",
-        "date": "2026-10-06T17:50:29Z"
+        "date": "2026-10-07T17:52:52Z"
       },
       {
-        "title": "WorldSonus: Bringing Sound to Worlds",
-        "url": "https://arxiv.org/abs/2610.08760v1",
-        "summary": "Pengjun Fang, Jingyi Fa, Kam Man Wu et al. — Recent advances in world models have enabled increasingly realistic visual synthesis. Bringing sound to world models poses three core challenges: real-time…",
+        "title": "Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models",
+        "url": "https://arxiv.org/abs/2610.10508v1",
+        "summary": "Amanda Myntti, Jenna Kanerva, Veronika Laippala et al. — Prompted embedding models have recently received increasing attention, particularly for retrieval, where detailed retrieval instructions are provided as part of the retrieval prompt. Several new datasets and studies…",
         "source": "arXiv",
-        "date": "2026-10-06T17:50:18Z"
+        "date": "2026-10-07T17:51:46Z"
       },
       {
-        "title": "Neural Petri flows for chemical reactions",
-        "url": "https://arxiv.org/abs/2610.08750v1",
-        "summary": "Jose Eduardo Escrig Molina, Daniel Probst — Petri nets have been used to describe chemical processes such as reactions.They map well to chemistry: Places are the bonds between atoms and the free valence of each atom, a token is a unit of bond order, a transition…",
+        "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
+        "url": "https://arxiv.org/abs/2610.10507v1",
+        "summary": "Yilun Hao, Krishna Sayana, Isabella Ye et al. — Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventional Retrieval-Augmented Generation (RAG) relies on fixed similarity-based retrieval, while agentic…",
         "source": "arXiv",
-        "date": "2026-10-06T17:44:56Z"
+        "date": "2026-10-07T17:51:08Z"
       }
     ],
     "labs": [
+      {
+        "title": "Does better work always mean better workers?",
+        "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+        "summary": "Judgment is what sets senior professionals apart from their junior peers. Results are reported for all lawyers ( black squares ), junior lawyers under 7 years of experience ( blue triangles ), and senior lawyers with 7+ years of experience ( orange diamonds ). Distributions of the average redlining score for treated ( orange ) and control ( blue ) subjects by experience for all lawyers, junior lawyers under 7 years…",
+        "source": "Google Research",
+        "date": "2026-10-07T20:19:57+00:00"
+      },
+      {
+        "title": "Helping teens learn, plan, and shape the future of AI",
+        "url": "https://openai.com/index/teens-learn-and-plan",
+        "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+        "source": "OpenAI",
+        "date": "2026-10-07T12:00:00+00:00"
+      },
+      {
+        "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+        "url": "https://openai.com/index/radisson",
+        "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+        "source": "OpenAI",
+        "date": "2026-10-07T07:00:00+00:00"
+      },
+      {
+        "title": "GPT-6 and Intelligent UI for everyone",
+        "url": "https://openai.com/index/gpt-6-for-everyone",
+        "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+        "source": "OpenAI",
+        "date": "2026-10-07T00:00:00+00:00"
+      },
       {
         "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
         "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
@@ -143,206 +171,93 @@
         "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
         "source": "OpenAI",
         "date": "2026-10-05T15:00:00+00:00"
-      },
-      {
-        "title": "Building advertising for the way people use AI",
-        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-        "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-        "source": "OpenAI",
-        "date": "2026-10-05T10:00:00+00:00"
-      },
-      {
-        "title": "A model guide for the GPT-6 family",
-        "url": "https://openai.com/index/practical-guide-building-gpt-6",
-        "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-        "source": "OpenAI",
-        "date": "2026-10-02T16:15:00+00:00"
-      },
-      {
-        "title": "Toward provably private learning from federated data",
-        "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
-        "summary": "In 2017, Google introduced Federated Learning (FL) a machine learning technique that trains models across decentralized, private data. For more details on the TEE-based FL system design please see our whitepaper, Toward provably private learning from federated data . Devices participating in our new TEE-based FL system know the full set of server workloads that may access data they’re uploading.",
-        "source": "Google Research",
-        "date": "2026-10-02T14:57:41+00:00"
-      },
-      {
-        "title": "Chatham scales its capital markets expertise with OpenAI",
-        "url": "https://openai.com/index/chatham-financial",
-        "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-        "source": "OpenAI",
-        "date": "2026-10-02T00:00:00+00:00"
       }
     ],
-    "startups": [
-      {
-        "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-        "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-        "summary": "Disrupt doors open Oct. Six days remain until the Disrupt doors swing open at Moscone West. Get an Expo+ Pass for just $75.",
-        "source": "TechCrunch",
-        "date": "2026-10-07T14:00:00+00:00"
-      },
-      {
-        "title": "Google’s new SynthID website can identify AI-generated media",
-        "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-        "summary": "Disrupt doors open Oct. Google is using SynthID, which it introduced in 2023 , to identify whether media is AI-generated. Google has baked SynthID verification into the Gemini app and Google Chrome.",
-        "source": "TechCrunch",
-        "date": "2026-10-07T14:00:00+00:00"
-      },
-      {
-        "title": "Ring’s first smart lock can be hand-cranked when its battery dies",
-        "url": "https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/",
-        "summary": "Disrupt doors open Oct. Ring, the Amazon-owned video doorbell maker, is entering a new market: smart locks. To address this, Ring’s smart lock has added a power dial.",
-        "source": "TechCrunch",
-        "date": "2026-10-07T14:00:00+00:00"
-      },
-      {
-        "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
-        "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
-        "summary": "Book Exhibit Table Now. Disrupt doors open Oct. Brennan Erbz, Stafford Schlitt, and Ammar Amdani started working on Tab earlier this year.",
-        "source": "TechCrunch",
-        "date": "2026-10-07T13:45:00+00:00"
-      },
-      {
-        "title": "Spotify expands audiobooks to over 180 markets",
-        "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
-        "summary": "Disrupt doors open Oct. Alternatively, users can buy individual titles directly. This year, the company introduced Audiobook Charts to let people discover popular titles .",
-        "source": "TechCrunch",
-        "date": "2026-10-07T07:00:00+00:00"
-      },
-      {
-        "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
-        "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
-        "summary": "Disrupt doors open Oct. It shouldn’t come as a surprise that Amazon collects data about you based on what you buy. One Threads user came across this section of her Amazon settings where you can see who the shopping giant thinks you are, and alongside more benign assumptions like “Shops from women’s departments” and “Probably owns a Shark robot vacuum,” she found that Amazon assumes she “has flat buttocks.” “I…",
-        "source": "TechCrunch",
-        "date": "2026-10-06T22:55:39+00:00"
-      },
-      {
-        "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-        "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
-        "summary": "Disrupt doors open Oct. Apple is working on a new ecosystem of smart home devices via a partnership with LG, Bloomberg has reported . The new products could aptly be read as a swipe at Amazon’s smart home offerings, which currently include a variety of similar products, including its Ring home security cameras.",
-        "source": "TechCrunch",
-        "date": "2026-10-06T22:53:09+00:00"
-      },
-      {
-        "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-        "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-        "summary": "Disrupt doors open Oct. More than six months after building the product, the co-founders decided their original idea didn’t “have legs,” Joowon Kim told TechCrunch. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
-        "source": "TechCrunch",
-        "date": "2026-10-06T22:34:03+00:00"
-      },
-      {
-        "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-        "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
-        "summary": "Disrupt doors open Oct. “It was a magical time,” Wen told TechCrunch. Perhaps the most interesting thing about Underdog is its early business model.",
-        "source": "TechCrunch",
-        "date": "2026-10-06T20:47:01+00:00"
-      },
-      {
-        "title": "How AI decision models could change content moderation",
-        "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-        "summary": "Disrupt doors open Oct. As decision models spread across the industry, a company called Musubi has a new idea for how to put them to work: moderating content. On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B , released with open weights.",
-        "source": "TechCrunch",
-        "date": "2026-10-06T20:35:20+00:00"
-      },
-      {
-        "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-        "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-        "summary": "Disrupt doors open Oct. Cloud provider Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation, marking what could be its last private round before a planned 2027 IPO, according to The Wall Street Journal. A letter to investors reviewed by the Journal shows Lambda’s backlog grew from $15 billion in June to $50 billion in September.",
-        "source": "TechCrunch",
-        "date": "2026-10-06T20:00:30+00:00"
-      },
-      {
-        "title": "The next hurdle for AI agents: getting websites to let them in",
-        "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-        "summary": "Most recently, Amazon began blocking Meta’s Muse AI agent from its retail site, meaning that the agent could no longer browse or make purchases from its product catalog. User complaints across social media indicate their agents are often running into similar blocks. “Turning away a personal agent means turning away the customer behind it.",
-        "source": "TechCrunch",
-        "date": "2026-10-06T19:56:50+00:00"
-      }
-    ],
+    "startups": [],
     "wider_tech": [
       {
-        "title": "My cats hate to see this great upright carpet cleaner coming",
-        "url": "https://www.theverge.com/gadgets/1006710/bissell-carpet-cleaning-prime-day-deal-sale",
-        "summary": "Bissell’s ProHeat 2X is a great pick for giving carpets a much-needed freshening, and it’s $70 off. For a while, I swore by Bissell’s Little Green carpet cleaner. Bissell’s Little Green is handy, but doesn’t cut it for big jobs.",
+        "title": "Atari is bringing back one of its earliest 8-bit home computers",
+        "url": "https://www.theverge.com/tech/1007732/atari-console-800xl-basic-personal-computer-retro-preorder",
+        "summary": "The 800XL is a faithful recreation of the 8-bit PC with a full keyboard you can use for gaming or coding in BASIC. The 800XL is a faithful recreation of the 8-bit PC with a full keyboard you can use for gaming or coding in BASIC. While most retro enthusiasts will probably use it for gaming, the new 800XL carries forward the original’s built-in mechanical keyboard for those wanting to code their own games and apps…",
         "source": "The Verge",
-        "date": "2026-10-07T13:55:04+00:00"
+        "date": "2026-10-08T14:16:37+00:00"
       },
       {
-        "title": "Amazon uses its tracking data to guess whether shoppers have a flat butt and no friends",
-        "url": "https://www.theverge.com/tech/1006712/amazon-about-you-shopping-data",
-        "summary": "Some users have ‘flat buttocks,’ ‘cannot keep real plants alive,’ and treat cats ‘as biological children,’ according to Amazon. Some users have ‘flat buttocks,’ ‘cannot keep real plants alive,’ and treat cats ‘as biological children,’ according to Amazon. Most people know that Amazon collects data about your shopping history to serve up personalized product recommendations.",
+        "title": "Alexa Plus is better at running my home, but it&#8217;s not ready to run my life",
+        "url": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max",
+        "summary": "My favorite upgrade is creating Alexa smart home routines by voice. And while Alexa has improved, the Alexa app has not. Alexa Plus still struggles with timely information.",
         "source": "The Verge",
-        "date": "2026-10-07T13:40:02+00:00"
+        "date": "2026-10-08T14:00:22+00:00"
       },
       {
-        "title": "Windows and Surface event: how to watch and what to expect",
-        "url": "https://www.theverge.com/news/1006292/microsoft-windows-surface-event-rtx-spark-how-to-watch",
-        "summary": "Microsoft says ‘something new is coming from Windows.’ Microsoft says ‘something new is coming from Windows.’ Microsoft is heading to San Francisco this morning to reveal what’s coming next for Windows and Surface and a “conversation on how local AI will shape the next chapter of the PC.” That conversation will include Microsoft CEO Satya Nadella, Nvidia CEO Jensen Huang, and Windows and Surface chief Pavan…",
+        "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+        "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+        "summary": "Meta is good at consumer products. People really like them. But Meta really wants my credit cards.",
         "source": "The Verge",
-        "date": "2026-10-07T13:12:56+00:00"
+        "date": "2026-10-08T14:00:00+00:00"
       },
       {
-        "title": "The Social Reckoning is a tepid thriller that reminds us of how we got here",
-        "url": "https://www.theverge.com/entertainment/1005997/the-social-reconing-review-facebook-zuckerberg-frances-haugen",
-        "summary": "Aaron Sorkin’s follow up to The Social Network puts the Facebook Files scandal on the timeline.﻿ Aaron Sorkin’s follow up to The Social Network puts the Facebook Files scandal on the timeline.﻿ When David Fincher’s The Social Network premiered in 2010, many people still thought of Mark Zuckerberg as a genius who had revolutionized the world by creating Facebook. The film lacks the propulsive energy that made The…",
+        "title": "Artificial is a wicked satire that also sticks to the facts",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
+        "summary": "The film makes the point that Altman himself wants to be that person. “It’s, ‘How could it not?’” The film takes us beat by beat through Altman’s infamous firing — from Sutskever conferring with Murati and the board to the famed video call where Altman is informed of their decision. “I’ll let you know,” Altman replies sassily, not making eye contact.",
         "source": "The Verge",
-        "date": "2026-10-07T13:00:00+00:00"
+        "date": "2026-10-08T14:00:00+00:00"
       },
       {
-        "title": "Google&#8217;s Pixel Buds update will put them to sleep along with you",
-        "url": "https://www.theverge.com/tech/1006622/google-pixel-buds-pro-2-2a-update-sleep-dynamic-anc-tap-to-mute",
-        "summary": "Plus new voice controls, and one-tap microphone muting and live translation, for the Buds 2A and Pro 2. Plus new voice controls, and one-tap microphone muting and live translation, for the Buds 2A and Pro 2. This is exclusive to the Buds Pro 2.",
+        "title": "Amazon’s new Kids Tablets let parents manage access to the Google Play store",
+        "url": "https://www.theverge.com/tech/1007768/amazon-kids-tablet-android-kid-proof-case-google-play",
+        "summary": "Amazon is introducing kid-friendly versions of its new Alexa Tablets with parental controls and curated content. Amazon is introducing kid-friendly versions of its new Alexa Tablets with parental controls and curated content. All versions of the Kids Tablet comes with a one-year subscription to Amazon Kids Plus which includes a collection of ad-free content including books, TV shows, games, apps, and audiobooks from…",
         "source": "The Verge",
-        "date": "2026-10-07T12:01:22+00:00"
+        "date": "2026-10-08T13:48:48+00:00"
       },
       {
-        "title": "AI could upend food delivery",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
-        "summary": "Delivery apps like DoorDash and Uber Eats have changed how diners eat and how restaurants operate. But this summer, Bites caught DoorDash’s attention. Jayaraman says his margins are higher with Bites orders than with DoorDash orders.",
+        "title": "GTA VI leaks continue with a lengthy (and very nude) gameplay video",
+        "url": "https://www.theverge.com/games/1007770/gta-6-leaks-cyberleek-jason-lucia-naked",
+        "summary": "GTA VI’s main characters can seemingly go through the whole game naked in a new leak.﻿ GTA VI’s main characters can seemingly go through the whole game naked in a new leak.﻿ The GTA VI leaks keep coming — and the latest is almost as long as the game’s official “extended look” on Netflix . As Kotaku reports, GTA leaker Cyberleek , who cashed out on a memecoin and seemingly disappeared earlier this year, is back with…",
         "source": "The Verge",
-        "date": "2026-10-07T12:00:00+00:00"
+        "date": "2026-10-08T13:22:35+00:00"
       },
       {
-        "title": "At $1,279, Google’s Xreal Aura will go head-to-head with Meta’s VR Glasses",
-        "url": "https://www.theverge.com/news/1006207/google-xreal-aura-glasses-price-release-date-preorder",
-        "summary": "The first transparent Android XR glasses are “weeks” away — if you made a reservation. The first transparent Android XR glasses are “weeks” away — if you made a reservation. Xreal has just opened Aura pre-orders starting at $1,279 , $20 less than the Meta VR Glasses.",
+        "title": "Hands-on with Amazon&#8217;s Alexa Tablet 12 Pro and its wild new matte display",
+        "url": "https://www.theverge.com/tech/1007473/amazon-alexa-tablet-12-pro-nanomatte-hands-on",
+        "summary": "The screen is the truly exciting thing about the Alexa Tablet 12 Pro. The Alexa Tablet Pro Pen and Pro Keyboard attach magnetically and seem serviceable enough. The Alexa Tablet 11 starts at $329.99 , while the Alexa Tablet 8 starts at $229.99 .",
         "source": "The Verge",
-        "date": "2026-10-07T12:00:00+00:00"
+        "date": "2026-10-08T13:00:00+00:00"
       },
       {
-        "title": "Google now lets you make games with AI",
-        "url": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
-        "summary": "Google Playground is a browser-based tool for making games from AI prompts. Google Playground is a browser-based tool for making games from AI prompts. Google today announced Playground, a new browser-based platform for making custom games from AI prompts.",
+        "title": "Amazon’s Alexa Tablets are coming for the iPad",
+        "url": "https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs",
+        "summary": "Don’t you dare call them Fire tablets. It’s called the Alexa Tablet 12 Pro, and it starts at $499 . And on the most expensive, $549 model Alexa Tablet, the screen comes with what Amazon calls a Nanomatte display.",
         "source": "The Verge",
-        "date": "2026-10-07T12:00:00+00:00"
+        "date": "2026-10-08T13:00:00+00:00"
       },
       {
-        "title": "The best October Prime Day deals from Apple, Sony, Google, and more",
-        "url": "https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two",
-        "summary": "Apple’s latest Mac Mini is just as small as the last-gen model, but more powerful. The seventh-gen iPad Mini comes with Apple’s A17 Pro chip and support for Apple Intelligence. Apple’s AirPods 4 are last-gen wireless earbuds, but they’re still great.",
+        "title": "Joe Rogan and Spotify renew massive podcast deal",
+        "url": "https://www.theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal",
+        "summary": "The multi-year agreement is valued at around $250 million, according to The Wall Street Journal. The multi-year agreement is valued at around $250 million, according to The Wall Street Journal. As reported by The Wall Street Journal , the multi-year agreement is valued at around $250 million, allowing new episodes of The Joe Rogan Experience to appear on Spotify and across other platforms each week.",
         "source": "The Verge",
-        "date": "2026-10-07T11:26:22+00:00"
+        "date": "2026-10-08T12:56:05+00:00"
       },
       {
-        "title": "Samsung Wallet now unlocks some GM cars",
-        "url": "https://www.theverge.com/transportation/1006585/samsung-wallet-now-unlocks-some-gm-cars",
-        "summary": "Support is coming to Apple Wallet and Google Wallet too. Support is coming to Apple Wallet and Google Wallet too. It noted that the feature is not a Samsung Wallet exclusive, coming to Apple Wallet and Google Wallet for compatible iPhones, Apple Watches, and Pixel devices.",
+        "title": "Xbox is launching a new film and TV division",
+        "url": "https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events",
+        "summary": "Xbox’s new ‘XP’ arm will oversee Xbox experiences outside of video games, including movies, consumer products, and live events. Xbox’s new ‘XP’ arm will oversee Xbox experiences outside of video games, including movies, consumer products, and live events. XBOX PLACES: Bringing communities together through live events, immersive experiences, attractions, broadcasts, and destinations.",
         "source": "The Verge",
-        "date": "2026-10-07T11:25:33+00:00"
+        "date": "2026-10-08T12:01:12+00:00"
       },
       {
-        "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-        "url": "https://github.com/boykopovar/AnyPS5",
-        "summary": "Tool for automatic executables porting to Linux and Windows. Usage , Build instructions , Technical debt of the project , code style conventions , contributing * System libraries: percentage of the functions known to the project so far (declared in core/libs/prx ), not of every PS5 system function. Tool for automatic PS5 executables porting to Linux and Windows (311 points, 272 comments on Hacker News)",
+        "title": "“Math 2.0” will need to value mathematical progress more holistically",
+        "url": "https://mathstodon.xyz/@tao/117395269325940185",
+        "summary": "447 points, 430 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-10-06T23:28:08+00:00"
+        "date": "2026-10-08T05:14:14+00:00"
       },
       {
-        "title": "Sharing AI progress in mathematics",
-        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-        "summary": "1065 points, 1088 comments on Hacker News",
+        "title": "Margaret Hamilton has died",
+        "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+        "summary": "Margaret Hamilton, a profoundly influential computer scientist best known for leading the software engineering team at MIT’s Instrumentation Lab during NASA’s Apollo program, died on Sep. A computing pioneer who authored over 130 publications, Hamilton helped to establish software engineering as a dedicated discipline. Throughout her career, Hamilton worked to achieve recognition for software engineering as a… (1862 points, 207 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-06T22:17:21+00:00"
+        "date": "2026-10-07T21:16:18+00:00"
       }
     ]
   }
