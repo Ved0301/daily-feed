@@ -1,93 +1,128 @@
 {
-  "generated_at": "2026-10-08T14:24:09.399155+00:00",
+  "generated_at": "2026-10-09T14:10:06.145616+00:00",
   "sections": {
     "research": [
       {
-        "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
-        "url": "https://arxiv.org/abs/2610.10538v1",
-        "summary": "Shravan Chaudhari, William Paul, Suchi Saria et al. — As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without…",
+        "title": "CSF: Contextual Safety Filtering for Motion Generators",
+        "url": "https://arxiv.org/abs/2610.12467v1",
+        "summary": "Lizhi Yang, Yiling Hou, Yao Tang et al. — Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt,…",
         "source": "arXiv",
-        "date": "2026-10-07T17:59:41Z"
+        "date": "2026-10-08T17:59:50Z"
       },
       {
-        "title": "Decoupling Exploration from Optimization in RLVR",
-        "url": "https://arxiv.org/abs/2610.10536v1",
-        "summary": "Saif Punjwani, Micah Goldblum — Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies.",
+        "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+        "url": "https://arxiv.org/abs/2610.12466v1",
+        "summary": "Drew T. Nguyen, William Fithian — METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we…",
         "source": "arXiv",
-        "date": "2026-10-07T17:59:26Z"
+        "date": "2026-10-08T17:59:50Z"
       },
       {
-        "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
-        "url": "https://arxiv.org/abs/2610.10533v1",
-        "summary": "Hongru Cai, Ran Wei, Wenjie Wang et al. — Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling,…",
+        "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+        "url": "https://arxiv.org/abs/2610.12465v1",
+        "summary": "Octi Zhang, Mateo Guaman Castro, Patrick Yin et al. — General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines…",
         "source": "arXiv",
-        "date": "2026-10-07T17:58:52Z"
+        "date": "2026-10-08T17:59:50Z"
       },
       {
-        "title": "Long-WAM: Scaling the Context of World-Action Models",
-        "url": "https://arxiv.org/abs/2610.10528v1",
-        "summary": "Wei Huang, Bohan Zhang, Chenzhi Liu et al. — Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal…",
+        "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+        "url": "https://arxiv.org/abs/2610.12463v1",
+        "summary": "Abbas Raftari — In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. OpenAI agents exploited research infrastructure,…",
         "source": "arXiv",
-        "date": "2026-10-07T17:58:04Z"
+        "date": "2026-10-08T17:59:49Z"
       },
       {
-        "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
-        "url": "https://arxiv.org/abs/2610.10527v1",
-        "summary": "Aleksandar Armacki, Haoyuan Cai, Ali H. Sayed — Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized settings, much less…",
+        "title": "BrickBench: Evaluating Agentic Brick Design",
+        "url": "https://arxiv.org/abs/2610.12452v1",
+        "summary": "Peter Kulits, Yiqing Xu, R. Kenny Jones et al. — We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be…",
         "source": "arXiv",
-        "date": "2026-10-07T17:57:58Z"
+        "date": "2026-10-08T17:58:56Z"
       },
       {
-        "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
-        "url": "https://arxiv.org/abs/2610.10526v1",
-        "summary": "Mikey Watts, Yuchen Cui — Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can move success by tens…",
+        "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+        "url": "https://arxiv.org/abs/2610.12448v1",
+        "summary": "Adrian Bulat, Yassine Ouali, Georgios Tzimiropoulos — In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillation. reViT restores…",
         "source": "arXiv",
-        "date": "2026-10-07T17:57:38Z"
+        "date": "2026-10-08T17:58:36Z"
       },
       {
-        "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
-        "url": "https://arxiv.org/abs/2610.10520v1",
-        "summary": "Zhewei Chen, Hao Zhu, Jiaojiao Jiang et al. — GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use confidence-based…",
+        "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+        "url": "https://arxiv.org/abs/2610.12449v1",
+        "summary": "Anna Zimmel, Fleur Hendriks, Markus Holzleitner et al. — Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a single input admits…",
         "source": "arXiv",
-        "date": "2026-10-07T17:56:01Z"
+        "date": "2026-10-08T17:58:36Z"
       },
       {
-        "title": "Why Forget-Only Unlearning Needs Memorization",
-        "url": "https://arxiv.org/abs/2610.10519v1",
-        "summary": "Luka Radić, Vikrant Singhal, Amartya Sanyal — Machine unlearning asks for a deletion algorithm whose output is close to retraining from scratch without the selected forget examples. In this work, we study forget-only unlearning, where the deletion algorithm…",
+        "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+        "url": "https://arxiv.org/abs/2610.12445v1",
+        "summary": "Oskar J. Hollinsworth, Alex F. Spies, Tigist Diriba et al. — Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier monitoring settings…",
         "source": "arXiv",
-        "date": "2026-10-07T17:55:46Z"
+        "date": "2026-10-08T17:58:13Z"
       },
       {
-        "title": "RoboJEPA: Scaling Robotic Latent World Models",
-        "url": "https://arxiv.org/abs/2610.10515v1",
-        "summary": "Artem Zholus, Nicolas Beltran-Velez, Jianhao Yuan et al. — Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with model size, data,…",
+        "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
+        "url": "https://arxiv.org/abs/2610.12444v1",
+        "summary": "Hanyang Li, Shao Tang, Daniel Thomas Braithwaite et al. — Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-state quantization…",
         "source": "arXiv",
-        "date": "2026-10-07T17:54:42Z"
+        "date": "2026-10-08T17:58:09Z"
       },
       {
-        "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
-        "url": "https://arxiv.org/abs/2610.10513v1",
-        "summary": "Yinling Zhang, Langchen Liu, Dongbin Xiu et al. — Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell…",
+        "title": "Density Ratio Estimation with Stein Displacement Fields",
+        "url": "https://arxiv.org/abs/2610.12437v1",
+        "summary": "Song Liu — Density ratios quantify distribution shift from a probability-mass point of view, whereas displacement fields describe, from a dynamical point of view, how one distribution is transported onto another.",
         "source": "arXiv",
-        "date": "2026-10-07T17:52:52Z"
+        "date": "2026-10-08T17:57:33Z"
       },
       {
-        "title": "Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models",
-        "url": "https://arxiv.org/abs/2610.10508v1",
-        "summary": "Amanda Myntti, Jenna Kanerva, Veronika Laippala et al. — Prompted embedding models have recently received increasing attention, particularly for retrieval, where detailed retrieval instructions are provided as part of the retrieval prompt. Several new datasets and studies…",
+        "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
+        "url": "https://arxiv.org/abs/2610.12436v1",
+        "summary": "Erin Crawley, Hidenori Tanaka — AI agents can now conduct real-world cyberattacks, scale up capabilities with the number of agents, and collectively pursue misaligned goals to obtain rewards. Together, these factors raise the risk of a population…",
         "source": "arXiv",
-        "date": "2026-10-07T17:51:46Z"
+        "date": "2026-10-08T17:57:32Z"
       },
       {
-        "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
-        "url": "https://arxiv.org/abs/2610.10507v1",
-        "summary": "Yilun Hao, Krishna Sayana, Isabella Ye et al. — Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventional Retrieval-Augmented Generation (RAG) relies on fixed similarity-based retrieval, while agentic…",
+        "title": "VioLA: Learning Generalist Humanoid Control Policies from Human Data",
+        "url": "https://arxiv.org/abs/2610.12435v1",
+        "summary": "Mert Albaba, Jens Beißwenger, Anna Manasyan et al. — Teaching a humanoid to follow instructions with its whole body runs into two obstacles. Its action space is large and tightly coupled: legs, arms, and fingers must move together while the robot keeps its balance, which…",
         "source": "arXiv",
-        "date": "2026-10-07T17:51:08Z"
+        "date": "2026-10-08T17:57:27Z"
       }
     ],
     "labs": [
+      {
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "url": "https://openai.com/index/sophos",
+        "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+        "source": "OpenAI",
+        "date": "2026-10-09T07:00:00+00:00"
+      },
+      {
+        "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "url": "https://openai.com/index/oracle",
+        "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+        "source": "OpenAI",
+        "date": "2026-10-08T16:00:00+00:00"
+      },
+      {
+        "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "url": "https://openai.com/index/pollo-ai",
+        "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+        "source": "OpenAI",
+        "date": "2026-10-08T12:00:00+00:00"
+      },
+      {
+        "title": "LegalOn halves Codex costs while maintaining development speed",
+        "url": "https://openai.com/index/legalon-halves-codex-costs",
+        "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+        "source": "OpenAI",
+        "date": "2026-10-08T12:00:00+00:00"
+      },
+      {
+        "title": "Disrupting AI-enabled “false front” operations",
+        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+        "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+        "source": "OpenAI",
+        "date": "2026-10-08T00:00:00+00:00"
+      },
       {
         "title": "Does better work always mean better workers?",
         "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
@@ -136,128 +171,178 @@
         "summary": "Public health decisions rely heavily on timely, granular data. Overview of Google Earth AI’s PDFM applied to a wide range of global health challenges. PDFM embeddings are commercially available in Preview as Population Dynamics Insights , a geospatial embeddings dataset from Google Maps Platform.",
         "source": "Google Research",
         "date": "2026-10-06T15:05:11+00:00"
-      },
-      {
-        "title": "How Jump Trading is scaling quant research with ChatGPT",
-        "url": "https://openai.com/index/jump-trading",
-        "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-        "source": "OpenAI",
-        "date": "2026-10-06T12:00:00+00:00"
-      },
-      {
-        "title": "Sharing AI progress in mathematics",
-        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-        "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-        "source": "OpenAI",
-        "date": "2026-10-06T12:00:00+00:00"
-      },
-      {
-        "title": "Advancing computer use with Ironclad",
-        "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-        "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-        "source": "OpenAI",
-        "date": "2026-10-06T10:00:00+00:00"
-      },
-      {
-        "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
-        "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
-        "summary": "Inspired by the theory of Contextual Integrity, our new workshop report outlines key open research directions across system, model, and user levels to build AI agents users can trust. Our report extends and generalizes contextual integrity for information sharing to contextual security, that is the appropriateness of agent actions. Model of a general AI agent interacting with other users, tools, and agents across…",
-        "source": "Google Research",
-        "date": "2026-10-05T21:08:00+00:00"
-      },
-      {
-        "title": "Our approach to EU text provenance rules",
-        "url": "https://openai.com/index/eu-text-provenance",
-        "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-        "source": "OpenAI",
-        "date": "2026-10-05T15:00:00+00:00"
       }
     ],
-    "startups": [],
+    "startups": [
+      {
+        "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+        "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+        "summary": "Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Disrupt doors open Oct. Different people come to Disrupt looking for different outcomes.",
+        "source": "TechCrunch",
+        "date": "2026-10-09T14:00:00+00:00"
+      },
+      {
+        "title": "Surveillance company Flock cuts staff as privacy backlash grows",
+        "url": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
+        "summary": "Disrupt doors open Oct. Flock spokesperson Paris Lewbel told TechCrunch in a statement on Friday: “Flock recently offered current employees a generous Voluntary Separation Program as part of our efforts to position the company for its next phase of growth. While some cities have moved to take down Flock’s cameras citing public outcry, Flock quickly replaced them, prompting some Americans to destroy the cameras .",
+        "source": "TechCrunch",
+        "date": "2026-10-09T13:40:36+00:00"
+      },
+      {
+        "title": "Xona’s commercial GPS alternative is about to go live",
+        "url": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
+        "summary": "The first precision commercial alternative to GPS is preparing to go live when six satellites designed by the startup Xona Space Systems launch into orbit this month. People think of GPS as a free service, but the market isn’t the service. Later this month, a SpaceX rocket is scheduled to launch six satellites for Xona.",
+        "source": "TechCrunch",
+        "date": "2026-10-09T12:00:00+00:00"
+      },
+      {
+        "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
+        "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+        "summary": "Disrupt doors open Oct. Dell Technologies’ Michael Dell and Microsoft’s Satya Nadella also received the National Medal of Technology and Innovation. AMD gave to a pro-Trump Super PAC, and Michael and Susan Dell pledged $6.25 billion to help fund the Trump Accounts, the administration’s savings program for children.",
+        "source": "TechCrunch",
+        "date": "2026-10-08T22:33:59+00:00"
+      },
+      {
+        "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+        "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+        "summary": "Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now. Disrupt doors open Oct.",
+        "source": "TechCrunch",
+        "date": "2026-10-08T21:00:00+00:00"
+      },
+      {
+        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+        "summary": "The researchers were dismissed last week after allegedly sharing confidential company information with a third-party AI safety organization. OpenAI said they violated the company’s policies by “accessing and handling sensitive company information.” “AI is not a normal technology, and OpenAI is not a normal company,” Wang, Korbak, and Balesni wrote. “The message to everyone still at OpenAI is clear: raise concerns or…",
+        "source": "TechCrunch",
+        "date": "2026-10-08T20:04:26+00:00"
+      },
+      {
+        "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
+        "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
+        "summary": "Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now. Disrupt doors open Oct.",
+        "source": "TechCrunch",
+        "date": "2026-10-08T18:30:00+00:00"
+      },
+      {
+        "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+        "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+        "summary": "Disrupt doors open Oct. I worry about learned helplessness. I think it’s going to be additive,” Affleck said.",
+        "source": "TechCrunch",
+        "date": "2026-10-08T18:20:32+00:00"
+      },
+      {
+        "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+        "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+        "summary": "Disrupt doors open Oct. Arena previously announced a $150 million Series A in January at a $1.7 billion post-money valuation. Arena is stepping into that role today,” it added.",
+        "source": "TechCrunch",
+        "date": "2026-10-08T18:19:45+00:00"
+      },
+      {
+        "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+        "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+        "summary": "Disrupt doors open Oct. The Financial Times reports that the company has told investors that its annualized revenue is “approaching $50 billion.” The $70 billion figure was previously reported by news outlets and based on information that had been shared with OpenAI investors, the outlet writes. OpenAI doesn’t do this.",
+        "source": "TechCrunch",
+        "date": "2026-10-08T18:19:42+00:00"
+      },
+      {
+        "title": "Google brings agentic AI to Gemini, starting with businesses",
+        "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+        "summary": "Disrupt doors open Oct. Given Gemini’s adoption in the corporate world, Google will initially focus on bringing the agent to businesses before later rolling it out to consumers. The agent can connect to the business’ data and systems, like Google Workspace, Microsoft 365, Slack, Jira, Confluence, Git, BigQuery, Databricks, Postgres, Snowflake, and others.",
+        "source": "TechCrunch",
+        "date": "2026-10-08T18:18:00+00:00"
+      },
+      {
+        "title": "Anthropic changes usage policy to ban model abuse and election interference",
+        "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+        "summary": "Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now. Disrupt doors open Oct.",
+        "source": "TechCrunch",
+        "date": "2026-10-08T18:16:24+00:00"
+      }
+    ],
     "wider_tech": [
       {
-        "title": "Atari is bringing back one of its earliest 8-bit home computers",
-        "url": "https://www.theverge.com/tech/1007732/atari-console-800xl-basic-personal-computer-retro-preorder",
-        "summary": "The 800XL is a faithful recreation of the 8-bit PC with a full keyboard you can use for gaming or coding in BASIC. The 800XL is a faithful recreation of the 8-bit PC with a full keyboard you can use for gaming or coding in BASIC. While most retro enthusiasts will probably use it for gaming, the new 800XL carries forward the original’s built-in mechanical keyboard for those wanting to code their own games and apps…",
+        "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+        "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+        "summary": "Before there were cute little guys , there was Instinct. Conversations with Instinct’s agent happen over text — either through iMessage, WhatsApp, or email. When asked if Instinct would remain free, Shinn responded that “Instinct is free for invite-only users.",
         "source": "The Verge",
-        "date": "2026-10-08T14:16:37+00:00"
+        "date": "2026-10-09T14:00:00+00:00"
       },
       {
-        "title": "Alexa Plus is better at running my home, but it&#8217;s not ready to run my life",
-        "url": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max",
-        "summary": "My favorite upgrade is creating Alexa smart home routines by voice. And while Alexa has improved, the Alexa app has not. Alexa Plus still struggles with timely information.",
+        "title": "A week with Googlebooks: four notes from our testing so far",
+        "url": "https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable",
+        "summary": "The apps are another story. Basically every streaming app does so. And launching and windowing app after app gets tiresome.",
         "source": "The Verge",
-        "date": "2026-10-08T14:00:22+00:00"
+        "date": "2026-10-09T13:36:02+00:00"
       },
       {
-        "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
-        "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
-        "summary": "Meta is good at consumer products. People really like them. But Meta really wants my credit cards.",
+        "title": "Meta is banning TikTok ads across its platforms",
+        "url": "https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban",
+        "summary": "‘We don’t have to run ads from a competitor whose goal is to pull people off our apps.‘ ‘We don’t have to run ads from a competitor whose goal is to pull people off our apps.‘ Meta has banned ads from TikTok’s Chinese parent company ByteDance across the US and several other countries as the rivalry between the major social media operators heats up, as reported earlier by Bloomberg . The ban, which went into effect…",
         "source": "The Verge",
-        "date": "2026-10-08T14:00:00+00:00"
+        "date": "2026-10-09T13:12:45+00:00"
       },
       {
-        "title": "Artificial is a wicked satire that also sticks to the facts",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
-        "summary": "The film makes the point that Altman himself wants to be that person. “It’s, ‘How could it not?’” The film takes us beat by beat through Altman’s infamous firing — from Sutskever conferring with Murati and the board to the famed video call where Altman is informed of their decision. “I’ll let you know,” Altman replies sassily, not making eye contact.",
-        "source": "The Verge",
-        "date": "2026-10-08T14:00:00+00:00"
-      },
-      {
-        "title": "Amazon’s new Kids Tablets let parents manage access to the Google Play store",
-        "url": "https://www.theverge.com/tech/1007768/amazon-kids-tablet-android-kid-proof-case-google-play",
-        "summary": "Amazon is introducing kid-friendly versions of its new Alexa Tablets with parental controls and curated content. Amazon is introducing kid-friendly versions of its new Alexa Tablets with parental controls and curated content. All versions of the Kids Tablet comes with a one-year subscription to Amazon Kids Plus which includes a collection of ad-free content including books, TV shows, games, apps, and audiobooks from…",
-        "source": "The Verge",
-        "date": "2026-10-08T13:48:48+00:00"
-      },
-      {
-        "title": "GTA VI leaks continue with a lengthy (and very nude) gameplay video",
-        "url": "https://www.theverge.com/games/1007770/gta-6-leaks-cyberleek-jason-lucia-naked",
-        "summary": "GTA VI’s main characters can seemingly go through the whole game naked in a new leak.﻿ GTA VI’s main characters can seemingly go through the whole game naked in a new leak.﻿ The GTA VI leaks keep coming — and the latest is almost as long as the game’s official “extended look” on Netflix . As Kotaku reports, GTA leaker Cyberleek , who cashed out on a memecoin and seemingly disappeared earlier this year, is back with…",
-        "source": "The Verge",
-        "date": "2026-10-08T13:22:35+00:00"
-      },
-      {
-        "title": "Hands-on with Amazon&#8217;s Alexa Tablet 12 Pro and its wild new matte display",
-        "url": "https://www.theverge.com/tech/1007473/amazon-alexa-tablet-12-pro-nanomatte-hands-on",
-        "summary": "The screen is the truly exciting thing about the Alexa Tablet 12 Pro. The Alexa Tablet Pro Pen and Pro Keyboard attach magnetically and seem serviceable enough. The Alexa Tablet 11 starts at $329.99 , while the Alexa Tablet 8 starts at $229.99 .",
-        "source": "The Verge",
-        "date": "2026-10-08T13:00:00+00:00"
-      },
-      {
-        "title": "Amazon’s Alexa Tablets are coming for the iPad",
-        "url": "https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs",
-        "summary": "Don’t you dare call them Fire tablets. It’s called the Alexa Tablet 12 Pro, and it starts at $499 . And on the most expensive, $549 model Alexa Tablet, the screen comes with what Amazon calls a Nanomatte display.",
-        "source": "The Verge",
-        "date": "2026-10-08T13:00:00+00:00"
-      },
-      {
-        "title": "Joe Rogan and Spotify renew massive podcast deal",
-        "url": "https://www.theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal",
-        "summary": "The multi-year agreement is valued at around $250 million, according to The Wall Street Journal. The multi-year agreement is valued at around $250 million, according to The Wall Street Journal. As reported by The Wall Street Journal , the multi-year agreement is valued at around $250 million, allowing new episodes of The Joe Rogan Experience to appear on Spotify and across other platforms each week.",
-        "source": "The Verge",
-        "date": "2026-10-08T12:56:05+00:00"
-      },
-      {
-        "title": "Xbox is launching a new film and TV division",
-        "url": "https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events",
-        "summary": "Xbox’s new ‘XP’ arm will oversee Xbox experiences outside of video games, including movies, consumer products, and live events. Xbox’s new ‘XP’ arm will oversee Xbox experiences outside of video games, including movies, consumer products, and live events. XBOX PLACES: Bringing communities together through live events, immersive experiences, attractions, broadcasts, and destinations.",
-        "source": "The Verge",
-        "date": "2026-10-08T12:01:12+00:00"
-      },
-      {
-        "title": "“Math 2.0” will need to value mathematical progress more holistically",
-        "url": "https://mathstodon.xyz/@tao/117395269325940185",
-        "summary": "447 points, 430 comments on Hacker News",
+        "title": "Deno Is Joining Cloudflare",
+        "url": "https://deno.com/blog/cloudflare",
+        "summary": "Today we’re announcing that the entire Deno team is joining Cloudflare to take that work further. With Deno Deploy , we took another step towards that goal. Building on the Cloudflare Workers programming model, celld lets developers build distributed applications from the start while making the system simple to operate. (236 points, 113 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-08T05:14:14+00:00"
+        "date": "2026-10-09T13:03:48+00:00"
       },
       {
-        "title": "Margaret Hamilton has died",
-        "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-        "summary": "Margaret Hamilton, a profoundly influential computer scientist best known for leading the software engineering team at MIT’s Instrumentation Lab during NASA’s Apollo program, died on Sep. A computing pioneer who authored over 130 publications, Hamilton helped to establish software engineering as a dedicated discipline. Throughout her career, Hamilton worked to achieve recognition for software engineering as a… (1862 points, 207 comments on Hacker News)",
+        "title": "The humble Playdate has become one of gaming’s best deals",
+        "url": "https://www.theverge.com/entertainment/1008441/playdate-season-3",
+        "summary": "The handheld’s new season 3 makes an excellent library of games even better. The handheld’s new season 3 makes an excellent library of games even better. And with the handheld’s new season 3 of games , the deal has only gotten better.",
+        "source": "The Verge",
+        "date": "2026-10-09T13:00:00+00:00"
+      },
+      {
+        "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+        "summary": "The AI lab insisted the decision was about a ‘breach of trust,’ not raising safety issues. The AI lab insisted the decision was about a ‘breach of trust,’ not raising safety issues. The safety of frontier systems has become an increasing concern for staff inside AI companies following a series of high profile breaches this year, most notably OpenAI’s hack of Hugging Face .",
+        "source": "The Verge",
+        "date": "2026-10-09T09:48:26+00:00"
+      },
+      {
+        "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+        "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+        "summary": "But OneDrive storage is being cut to a shared 2TB pool across all family members. But OneDrive storage is being cut to a shared 2TB pool across all family members. Instead of getting 1TB of OneDrive storage per account, Microsoft is now limiting this to just 2TB of shared storage across the entire plan.",
+        "source": "The Verge",
+        "date": "2026-10-09T07:14:32+00:00"
+      },
+      {
+        "title": "Keyboard differences between Windows and Macs",
+        "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+        "summary": "What Windows calls Backspace, Mac calls Delete. While Mac modifier keys are completely symmetrical, Windows makes an exception for Alt. On Windows, it’s typically Ctrl+Y. (216 points, 189 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-07T21:16:18+00:00"
+        "date": "2026-10-09T03:08:05+00:00"
+      },
+      {
+        "title": "Bevy 0.20",
+        "url": "https://bevy.org/news/bevy-0-20/",
+        "summary": "FixedNode # Authors: @ickshonpe PRs: #24323 FixedNode is a new marker component for Bevy UI. FixedNode # Authors: @ickshonpe PRs: #24323 FixedNode is a new marker component for Bevy UI. FixedNode # Authors: @ickshonpe PRs: #24323 FixedNode is a new marker component for Bevy UI. (210 points, 47 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-08T22:57:50+00:00"
+      },
+      {
+        "title": "US plans livestream of execution by firing squad",
+        "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
+        "summary": "The planned execution of Nidal Hasan will be ‘public,’ Pete Hegseth said in an interview. The planned execution of Nidal Hasan will be ‘public,’ Pete Hegseth said in an interview. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this week .",
+        "source": "The Verge",
+        "date": "2026-10-08T22:32:04+00:00"
+      },
+      {
+        "title": "Anthropic launches free AI security scans for open-source projects",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+        "summary": "The new OSS Scanner service offers vulnerability reports from Anthropic’s “strongest models,” including Mythos. The new OSS Scanner service offers vulnerability reports from Anthropic’s “strongest models,” including Mythos. Anthropic’s offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner .",
+        "source": "The Verge",
+        "date": "2026-10-08T21:53:51+00:00"
+      },
+      {
+        "title": "SpaceX announces plan to become a ‘major mobile carrier’",
+        "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+        "summary": "SpaceX snapped up low-band spectrum in a bid to take on T-Mobile, AT&T, and Verizon. SpaceX snapped up low-band spectrum in a bid to take on T-Mobile, AT&T, and Verizon. “With this new low-band spectrum and our Gen2 constellation, Starlink Mobile can now become the first network operator to deploy both satellite and terrestrial spectrum,” SpaceX says.",
+        "source": "The Verge",
+        "date": "2026-10-08T21:23:31+00:00"
       }
     ]
   }
