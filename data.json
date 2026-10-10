@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T14:10:06.145616+00:00",
+  "generated_at": "2026-10-10T13:19:00.906773+00:00",
   "sections": {
     "research": [
       {
@@ -96,6 +96,13 @@
         "date": "2026-10-09T07:00:00+00:00"
       },
       {
+        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "url": "https://openai.com/index/asana-browser-agent",
+        "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+        "source": "OpenAI",
+        "date": "2026-10-09T07:00:00+00:00"
+      },
+      {
         "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
         "url": "https://openai.com/index/oracle",
         "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
@@ -159,13 +166,6 @@
         "date": "2026-10-06T19:57:04+00:00"
       },
       {
-        "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-        "url": "https://openai.com/index/atlassian-partnership",
-        "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-        "source": "OpenAI",
-        "date": "2026-10-06T16:00:00+00:00"
-      },
-      {
         "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
         "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
         "summary": "Public health decisions rely heavily on timely, granular data. Overview of Google Earth AI’s PDFM applied to a wide range of global health challenges. PDFM embeddings are commercially available in Preview as Population Dynamics Insights , a geospatial embeddings dataset from Google Maps Platform.",
@@ -175,174 +175,174 @@
     ],
     "startups": [
       {
-        "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-        "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-        "summary": "Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Disrupt doors open Oct. Different people come to Disrupt looking for different outcomes.",
+        "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+        "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+        "summary": "SpaceX has spent years trying to launch Starlink in India. Alongside Starlink’s delayed launch, Musk has also faced challenges expanding Tesla in India. Starlink’s launch in India remains in limbo.",
         "source": "TechCrunch",
-        "date": "2026-10-09T14:00:00+00:00"
+        "date": "2026-10-10T03:10:06+00:00"
       },
       {
-        "title": "Surveillance company Flock cuts staff as privacy backlash grows",
-        "url": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
-        "summary": "Disrupt doors open Oct. Flock spokesperson Paris Lewbel told TechCrunch in a statement on Friday: “Flock recently offered current employees a generous Voluntary Separation Program as part of our efforts to position the company for its next phase of growth. While some cities have moved to take down Flock’s cameras citing public outcry, Flock quickly replaced them, prompting some Americans to destroy the cameras .",
+        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+        "summary": "Disrupt doors open Oct. Anthropic said its models exploited websites on the internet, including some run by U.S. government agencies, and it will turn off live internet access for all of its internal evaluations until the frontier lab is sure it can monitor and control its AI agents. Anthropic previously disclosed that its models had broken into external systems.",
         "source": "TechCrunch",
-        "date": "2026-10-09T13:40:36+00:00"
+        "date": "2026-10-10T00:18:32+00:00"
       },
       {
-        "title": "Xona’s commercial GPS alternative is about to go live",
-        "url": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
-        "summary": "The first precision commercial alternative to GPS is preparing to go live when six satellites designed by the startup Xona Space Systems launch into orbit this month. People think of GPS as a free service, but the market isn’t the service. Later this month, a SpaceX rocket is scheduled to launch six satellites for Xona.",
+        "title": "Long live the mechanical keyboard",
+        "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+        "summary": "Disrupt doors open Oct. For a writer, the mechanical keyboard is a beautiful thing. Unlike other electronics, there isn’t a whole lot to owning a mechanical keyboard.",
         "source": "TechCrunch",
-        "date": "2026-10-09T12:00:00+00:00"
+        "date": "2026-10-09T22:08:24+00:00"
       },
       {
-        "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
-        "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
-        "summary": "Disrupt doors open Oct. Dell Technologies’ Michael Dell and Microsoft’s Satya Nadella also received the National Medal of Technology and Innovation. AMD gave to a pro-Trump Super PAC, and Michael and Susan Dell pledged $6.25 billion to help fund the Trump Accounts, the administration’s savings program for children.",
-        "source": "TechCrunch",
-        "date": "2026-10-08T22:33:59+00:00"
-      },
-      {
-        "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-        "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
         "summary": "Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now. Disrupt doors open Oct.",
         "source": "TechCrunch",
-        "date": "2026-10-08T21:00:00+00:00"
+        "date": "2026-10-09T21:41:29+00:00"
       },
       {
-        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-        "summary": "The researchers were dismissed last week after allegedly sharing confidential company information with a third-party AI safety organization. OpenAI said they violated the company’s policies by “accessing and handling sensitive company information.” “AI is not a normal technology, and OpenAI is not a normal company,” Wang, Korbak, and Balesni wrote. “The message to everyone still at OpenAI is clear: raise concerns or…",
+        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+        "summary": "Disrupt doors open Oct. An Anthropic AI model submitted a false tip about an unsolved murder to the Philadelphia police. Anthropic notified the PPD about the incident on Wednesday and met with the department the following day.",
         "source": "TechCrunch",
-        "date": "2026-10-08T20:04:26+00:00"
+        "date": "2026-10-09T19:36:56+00:00"
       },
       {
-        "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
-        "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
-        "summary": "Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now. Disrupt doors open Oct.",
+        "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+        "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+        "summary": "Disrupt doors open Oct. On every continent and in each of the 43 markets that Wood Mackenzie surveyed, four-hour duration batteries were less expensive than open-cycle gas turbines. Open-cycle turbines are simpler to make than closed-cycle turbines, but even they now take two to four years to procure.",
         "source": "TechCrunch",
-        "date": "2026-10-08T18:30:00+00:00"
+        "date": "2026-10-09T18:57:58+00:00"
       },
       {
-        "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-        "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-        "summary": "Disrupt doors open Oct. I worry about learned helplessness. I think it’s going to be additive,” Affleck said.",
+        "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+        "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+        "summary": "Disrupt doors open Oct. Now you need customers. Still working toward your first 1,000 customers?",
         "source": "TechCrunch",
-        "date": "2026-10-08T18:20:32+00:00"
+        "date": "2026-10-09T18:57:06+00:00"
       },
       {
-        "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-        "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-        "summary": "Disrupt doors open Oct. Arena previously announced a $150 million Series A in January at a $1.7 billion post-money valuation. Arena is stepping into that role today,” it added.",
+        "title": "LumenUs helps automate tedious paperwork in times of grief",
+        "url": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
+        "summary": "Disrupt doors open Oct. The result is LumenUs , the grief care platform that Tashakorinia founded last year to relieve grieving families of some of the administrative burden. While Tashakorinia hopes LumenUs will eventually support people throughout the lifelong grieving process, the startup will initially focus on people in the immediate aftermath of a death.",
         "source": "TechCrunch",
-        "date": "2026-10-08T18:19:45+00:00"
+        "date": "2026-10-09T17:00:00+00:00"
       },
       {
-        "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-        "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-        "summary": "Disrupt doors open Oct. The Financial Times reports that the company has told investors that its annualized revenue is “approaching $50 billion.” The $70 billion figure was previously reported by news outlets and based on information that had been shared with OpenAI investors, the outlet writes. OpenAI doesn’t do this.",
+        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+        "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+        "summary": "You can contact or verify outreach from Theresa by emailing [email protected] . You can contact or verify outreach from Theresa by emailing [email protected] . You can contact or verify outreach from Theresa by emailing [email protected] .",
         "source": "TechCrunch",
-        "date": "2026-10-08T18:19:42+00:00"
+        "date": "2026-10-09T16:56:42+00:00"
       },
       {
-        "title": "Google brings agentic AI to Gemini, starting with businesses",
-        "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-        "summary": "Disrupt doors open Oct. Given Gemini’s adoption in the corporate world, Google will initially focus on bringing the agent to businesses before later rolling it out to consumers. The agent can connect to the business’ data and systems, like Google Workspace, Microsoft 365, Slack, Jira, Confluence, Git, BigQuery, Databricks, Postgres, Snowflake, and others.",
+        "title": "Danu Robotics’ fight to build a better recycling robot",
+        "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+        "summary": "Disrupt doors open Oct. For Danu Robotics founder Amy Ma, the eureka moment came after years of working as a software developer at a London bank. Now, she’s making good on that promise with six-year-old, Edinburgh, Scotland-based Danu Robotics, which makes a robot designed to sort through recycling more cheaply and quickly.",
         "source": "TechCrunch",
-        "date": "2026-10-08T18:18:00+00:00"
+        "date": "2026-10-09T16:45:00+00:00"
       },
       {
-        "title": "Anthropic changes usage policy to ban model abuse and election interference",
-        "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-        "summary": "Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now. Disrupt doors open Oct.",
+        "title": "We can’t help treating AI like it’s human. But should we?",
+        "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+        "summary": "Book Exhibit Table Now. Disrupt doors open Oct. Sherry Turkle ‘s “ Artificial Intimacy ” book launch at MIT Future Fest.",
         "source": "TechCrunch",
-        "date": "2026-10-08T18:16:24+00:00"
+        "date": "2026-10-09T16:40:14+00:00"
+      },
+      {
+        "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+        "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
+        "summary": "Tesla CEO Elon Musk thanked Bilger on X this week . Musk has spent years agitating for Full Self-Driving (Supervised), or FSD, to be approved in Europe. Tesla discontinued Autopilot earlier this year after a judge ruled Tesla had engaged in deceptive marketing about the system’s capabilities.",
+        "source": "TechCrunch",
+        "date": "2026-10-09T16:07:26+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-        "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-        "summary": "Before there were cute little guys , there was Instinct. Conversations with Instinct’s agent happen over text — either through iMessage, WhatsApp, or email. When asked if Instinct would remain free, Shinn responded that “Instinct is free for invite-only users.",
+        "title": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
+        "url": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
+        "summary": "But 2026 is all about RGB LED TVs. So, why buy an RGB LED TV? LG (and Samsung) use the term Micro RGB to describe the technology, while others say Mini RGB LED.",
         "source": "The Verge",
-        "date": "2026-10-09T14:00:00+00:00"
+        "date": "2026-10-10T13:00:00+00:00"
       },
       {
-        "title": "A week with Googlebooks: four notes from our testing so far",
-        "url": "https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable",
-        "summary": "The apps are another story. Basically every streaming app does so. And launching and windowing app after app gets tiresome.",
+        "title": "AI agent makers are promising privacy — will they deliver?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+        "summary": "Meta positioned its Muse agent as a safer alternative to OpenClaw. OpenAI promises Dots is a safer alternative to Muse. OpenAI promises Dots is a safer alternative to Muse.",
         "source": "The Verge",
-        "date": "2026-10-09T13:36:02+00:00"
+        "date": "2026-10-10T13:00:00+00:00"
       },
       {
-        "title": "Meta is banning TikTok ads across its platforms",
-        "url": "https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban",
-        "summary": "‘We don’t have to run ads from a competitor whose goal is to pull people off our apps.‘ ‘We don’t have to run ads from a competitor whose goal is to pull people off our apps.‘ Meta has banned ads from TikTok’s Chinese parent company ByteDance across the US and several other countries as the rivalry between the major social media operators heats up, as reported earlier by Bloomberg . The ban, which went into effect…",
+        "title": "The techlash has gone Hollywood",
+        "url": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer",
+        "summary": "Plus, in this week’s Installer: Amazon’s new tablet, a new book on the AI industry, Star Wars racing, and more. Welcome to Installer No. Tell me everything: installer@theverge.com .",
         "source": "The Verge",
-        "date": "2026-10-09T13:12:45+00:00"
+        "date": "2026-10-10T12:00:00+00:00"
       },
       {
-        "title": "Deno Is Joining Cloudflare",
-        "url": "https://deno.com/blog/cloudflare",
-        "summary": "Today we’re announcing that the entire Deno team is joining Cloudflare to take that work further. With Deno Deploy , we took another step towards that goal. Building on the Cloudflare Workers programming model, celld lets developers build distributed applications from the start while making the system simple to operate. (236 points, 113 comments on Hacker News)",
+        "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
+        "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
+        "summary": "For a small truck, the Telo MT1 packs a lot of range. Telo currently builds its battery packs in-house. Marks said Telo uses AI to run virtual crash tests around the clock, averaging roughly one test per hour.",
+        "source": "The Verge",
+        "date": "2026-10-10T11:00:00+00:00"
+      },
+      {
+        "title": "The director of Fjord takes the &#8216;risky position&#8217; of moderator",
+        "url": "https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview",
+        "summary": "With his new film about a Romanian family’s life in Norway, Cristian Mungiu wants you to consider the limits of your tolerance﻿ With his new film about a Romanian family’s life in Norway, Cristian Mungiu wants you to consider the limits of your tolerance﻿ Cristian Mungiu’s sixth feature, Fjord , concerns a family on trial. They seem like good people, God-fearing. Of course, we need to act.",
+        "source": "The Verge",
+        "date": "2026-10-10T11:00:00+00:00"
+      },
+      {
+        "title": "My brief romance with an AI bird feeder",
+        "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+        "summary": "“Looks like Eurasian Blue Tit!” read another. “Looks like Common Wood Pigeon!” came the alert. It ate and ate and ate.",
+        "source": "The Verge",
+        "date": "2026-10-10T07:00:00+00:00"
+      },
+      {
+        "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+        "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+        "summary": "Telegram Desktop registers tg . Telegram builds that path itself ( file_utilities.cpp:172-181 ). Telegram uses key wrapping. (232 points, 116 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-09T13:03:48+00:00"
+        "date": "2026-10-10T03:02:47+00:00"
       },
       {
-        "title": "The humble Playdate has become one of gaming’s best deals",
-        "url": "https://www.theverge.com/entertainment/1008441/playdate-season-3",
-        "summary": "The handheld’s new season 3 makes an excellent library of games even better. The handheld’s new season 3 makes an excellent library of games even better. And with the handheld’s new season 3 of games , the deal has only gotten better.",
-        "source": "The Verge",
-        "date": "2026-10-09T13:00:00+00:00"
-      },
-      {
-        "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-        "summary": "The AI lab insisted the decision was about a ‘breach of trust,’ not raising safety issues. The AI lab insisted the decision was about a ‘breach of trust,’ not raising safety issues. The safety of frontier systems has become an increasing concern for staff inside AI companies following a series of high profile breaches this year, most notably OpenAI’s hack of Hugging Face .",
-        "source": "The Verge",
-        "date": "2026-10-09T09:48:26+00:00"
-      },
-      {
-        "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
-        "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
-        "summary": "But OneDrive storage is being cut to a shared 2TB pool across all family members. But OneDrive storage is being cut to a shared 2TB pool across all family members. Instead of getting 1TB of OneDrive storage per account, Microsoft is now limiting this to just 2TB of shared storage across the entire plan.",
-        "source": "The Verge",
-        "date": "2026-10-09T07:14:32+00:00"
-      },
-      {
-        "title": "Keyboard differences between Windows and Macs",
-        "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-        "summary": "What Windows calls Backspace, Mac calls Delete. While Mac modifier keys are completely symmetrical, Windows makes an exception for Alt. On Windows, it’s typically Ctrl+Y. (216 points, 189 comments on Hacker News)",
+        "title": "REA Reverse – Engineer Anything",
+        "url": "https://rea.tools/",
+        "summary": "Skip to analysis guides → › Install REA and connect it to this coding agent using npx rea-agents@latest setup. The agent reads its update function and speed settings, then uses that rule in a new game. › Use REA to inspect this dinosaur game. Follow REA on X for project updates. (503 points, 213 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-09T03:08:05+00:00"
+        "date": "2026-10-10T00:37:07+00:00"
       },
       {
-        "title": "Bevy 0.20",
-        "url": "https://bevy.org/news/bevy-0-20/",
-        "summary": "FixedNode # Authors: @ickshonpe PRs: #24323 FixedNode is a new marker component for Bevy UI. FixedNode # Authors: @ickshonpe PRs: #24323 FixedNode is a new marker component for Bevy UI. FixedNode # Authors: @ickshonpe PRs: #24323 FixedNode is a new marker component for Bevy UI. (210 points, 47 comments on Hacker News)",
+        "title": "Decade-old RAM is making a comeback",
+        "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+        "summary": "The RAM shortage is bringing back DDR4, with new Intel and AMD CPUs for older RAM, sockets, and chipsets. The RAM shortage is bringing back DDR4, with new Intel and AMD CPUs for older RAM, sockets, and chipsets. A return to last-gen DDR4 RAM.",
+        "source": "The Verge",
+        "date": "2026-10-09T21:50:00+00:00"
+      },
+      {
+        "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+        "summary": "The false tip ‘purported to come from someone who might have information about the case.’ The false tip ‘purported to come from someone who might have information about the case.’ An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. Anthropic learned its AI model sent the false tip on September 28th and…",
+        "source": "The Verge",
+        "date": "2026-10-09T21:15:38+00:00"
+      },
+      {
+        "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+        "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+        "summary": "611 points, 332 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-10-08T22:57:50+00:00"
+        "date": "2026-10-09T21:06:59+00:00"
       },
       {
-        "title": "US plans livestream of execution by firing squad",
-        "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
-        "summary": "The planned execution of Nidal Hasan will be ‘public,’ Pete Hegseth said in an interview. The planned execution of Nidal Hasan will be ‘public,’ Pete Hegseth said in an interview. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this week .",
-        "source": "The Verge",
-        "date": "2026-10-08T22:32:04+00:00"
-      },
-      {
-        "title": "Anthropic launches free AI security scans for open-source projects",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-        "summary": "The new OSS Scanner service offers vulnerability reports from Anthropic’s “strongest models,” including Mythos. The new OSS Scanner service offers vulnerability reports from Anthropic’s “strongest models,” including Mythos. Anthropic’s offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner .",
-        "source": "The Verge",
-        "date": "2026-10-08T21:53:51+00:00"
-      },
-      {
-        "title": "SpaceX announces plan to become a ‘major mobile carrier’",
-        "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
-        "summary": "SpaceX snapped up low-band spectrum in a bid to take on T-Mobile, AT&T, and Verizon. SpaceX snapped up low-band spectrum in a bid to take on T-Mobile, AT&T, and Verizon. “With this new low-band spectrum and our Gen2 constellation, Starlink Mobile can now become the first network operator to deploy both satellite and terrestrial spectrum,” SpaceX says.",
-        "source": "The Verge",
-        "date": "2026-10-08T21:23:31+00:00"
+        "title": "No Man Is an Island",
+        "url": "https://borretti.me/article/no-man-is-an-island",
+        "summary": "In this post, I argue that individual intellectual activity can only be sustained in an intellectual community of other humans. AI dissolves these communities, which in turn makes private intellectual activity rarer. Without this extrinsic motivation, you get less intellectual activity because, again, intrinsic motivation is fleeting. (297 points, 192 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-09T20:04:00+00:00"
       }
     ]
   }
