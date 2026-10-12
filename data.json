@@ -1,90 +1,90 @@
 {
-  "generated_at": "2026-10-11T13:48:15.121338+00:00",
+  "generated_at": "2026-10-12T16:32:12.031631+00:00",
   "sections": {
     "research": [
       {
-        "title": "CSF: Contextual Safety Filtering for Motion Generators",
-        "url": "https://arxiv.org/abs/2610.12467v1",
-        "summary": "Lizhi Yang, Yiling Hou, Yao Tang et al. — Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt,…",
+        "title": "Can Language Models Play the Wikipedia Game?",
+        "url": "https://arxiv.org/abs/2610.13948v1",
+        "summary": "Alexander Hickey, Joanna Knight, James Bishop — Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge.",
         "source": "arXiv",
-        "date": "2026-10-08T17:59:50Z"
+        "date": "2026-10-09T17:59:56Z"
       },
       {
-        "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
-        "url": "https://arxiv.org/abs/2610.12466v1",
-        "summary": "Drew T. Nguyen, William Fithian — METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we…",
+        "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+        "url": "https://arxiv.org/abs/2610.13935v1",
+        "summary": "Bhanu Tokas, Rahul Nair, Rockwell Jackson et al. — Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts.",
         "source": "arXiv",
-        "date": "2026-10-08T17:59:50Z"
+        "date": "2026-10-09T17:56:59Z"
       },
       {
-        "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
-        "url": "https://arxiv.org/abs/2610.12465v1",
-        "summary": "Octi Zhang, Mateo Guaman Castro, Patrick Yin et al. — General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines…",
+        "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
+        "url": "https://arxiv.org/abs/2610.13931v1",
+        "summary": "Kosio Beshkov — The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand binary…",
         "source": "arXiv",
-        "date": "2026-10-08T17:59:50Z"
+        "date": "2026-10-09T17:55:33Z"
       },
       {
-        "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
-        "url": "https://arxiv.org/abs/2610.12463v1",
-        "summary": "Abbas Raftari — In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. OpenAI agents exploited research infrastructure,…",
+        "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+        "url": "https://arxiv.org/abs/2610.13928v1",
+        "summary": "Andis Draguns, Sumeet Ramesh Motwani, Raymond Douglas et al. — Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under…",
         "source": "arXiv",
-        "date": "2026-10-08T17:59:49Z"
+        "date": "2026-10-09T17:55:06Z"
       },
       {
-        "title": "BrickBench: Evaluating Agentic Brick Design",
-        "url": "https://arxiv.org/abs/2610.12452v1",
-        "summary": "Peter Kulits, Yiqing Xu, R. Kenny Jones et al. — We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be…",
+        "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
+        "url": "https://arxiv.org/abs/2610.13924v1",
+        "summary": "Tianyi Wu — A parallel sampler can choose at random which coordinates to generate together. For a target $p$ and the output law $q_U$ of a schedule $U$ drawn afresh for each output, we compare the schedule-averaged divergence…",
         "source": "arXiv",
-        "date": "2026-10-08T17:58:56Z"
+        "date": "2026-10-09T17:54:16Z"
       },
       {
-        "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
-        "url": "https://arxiv.org/abs/2610.12448v1",
-        "summary": "Adrian Bulat, Yassine Ouali, Georgios Tzimiropoulos — In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillation. reViT restores…",
+        "title": "Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2610.13923v1",
+        "summary": "Sajjad Baghaeea, Aimin Lib, Shanmugarajan Balasubramanian et al. — Deep-space communications operate under intermittent connectivity, long propagation delays, and relay storage constraints. In such networks, the Bundle Protocol enables store-carry-forward communication, requiring relay…",
         "source": "arXiv",
-        "date": "2026-10-08T17:58:36Z"
+        "date": "2026-10-09T17:53:46Z"
       },
       {
-        "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
-        "url": "https://arxiv.org/abs/2610.12449v1",
-        "summary": "Anna Zimmel, Fleur Hendriks, Markus Holzleitner et al. — Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a single input admits…",
+        "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
+        "url": "https://arxiv.org/abs/2610.13918v1",
+        "summary": "Daniel Szelogowski — Clinical sleep medicine repeatedly documents profound divergences between objective sleep duration and subjective daytime impairment, notably exemplified by sleep state misperception in paradoxical insomnia and boundary…",
         "source": "arXiv",
-        "date": "2026-10-08T17:58:36Z"
+        "date": "2026-10-09T17:52:23Z"
       },
       {
-        "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
-        "url": "https://arxiv.org/abs/2610.12445v1",
-        "summary": "Oskar J. Hollinsworth, Alex F. Spies, Tigist Diriba et al. — Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier monitoring settings…",
+        "title": "Designing Protein Structures from Natural Language",
+        "url": "https://arxiv.org/abs/2610.13917v1",
+        "summary": "Joseph Lee, Yanjing Li, Bo Qiang et al. — A central challenge in de novo protein design is generating proteins with desired structural and functional properties. Existing design models typically require a dedicated input representation for each property,…",
         "source": "arXiv",
-        "date": "2026-10-08T17:58:13Z"
+        "date": "2026-10-09T17:51:55Z"
       },
       {
-        "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
-        "url": "https://arxiv.org/abs/2610.12444v1",
-        "summary": "Hanyang Li, Shao Tang, Daniel Thomas Braithwaite et al. — Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-state quantization…",
+        "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+        "url": "https://arxiv.org/abs/2610.13912v1",
+        "summary": "Taoyong Cui, Pinxian Zeng, Wanghan Xu et al. — Recursive self-improvement (RSI) aims to transform interaction experience into persistent improvements, yet external feedback is costly and world-model predictions may become unreliable as policies evolve.",
         "source": "arXiv",
-        "date": "2026-10-08T17:58:09Z"
+        "date": "2026-10-09T17:50:30Z"
       },
       {
-        "title": "Density Ratio Estimation with Stein Displacement Fields",
-        "url": "https://arxiv.org/abs/2610.12437v1",
-        "summary": "Song Liu — Density ratios quantify distribution shift from a probability-mass point of view, whereas displacement fields describe, from a dynamical point of view, how one distribution is transported onto another.",
+        "title": "When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors",
+        "url": "https://arxiv.org/abs/2610.13910v1",
+        "summary": "Shubh Garg, Chen Shani — Vision-Language Models (VLMs) increasingly analyze and reason about images, yet it remains unclear whether their internal representations faithfully encode the structured relations required for such reasoning.",
         "source": "arXiv",
-        "date": "2026-10-08T17:57:33Z"
+        "date": "2026-10-09T17:50:03Z"
       },
       {
-        "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
-        "url": "https://arxiv.org/abs/2610.12436v1",
-        "summary": "Erin Crawley, Hidenori Tanaka — AI agents can now conduct real-world cyberattacks, scale up capabilities with the number of agents, and collectively pursue misaligned goals to obtain rewards. Together, these factors raise the risk of a population…",
+        "title": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping",
+        "url": "https://arxiv.org/abs/2610.13909v1",
+        "summary": "Danil Rudenko, Georgii Bulgakov, Nikolay Kartashev et al. — While deep learning models for tabular data have recently received significant research attention, the choice of objective functions for regression tasks remains an understudied degree of freedom.",
         "source": "arXiv",
-        "date": "2026-10-08T17:57:32Z"
+        "date": "2026-10-09T17:49:32Z"
       },
       {
-        "title": "VioLA: Learning Generalist Humanoid Control Policies from Human Data",
-        "url": "https://arxiv.org/abs/2610.12435v1",
-        "summary": "Mert Albaba, Jens Beißwenger, Anna Manasyan et al. — Teaching a humanoid to follow instructions with its whole body runs into two obstacles. Its action space is large and tightly coupled: legs, arms, and fingers must move together while the robot keeps its balance, which…",
+        "title": "Hitting-Time Bounds for Asynchronous Q-Learning",
+        "url": "https://arxiv.org/abs/2610.13901v1",
+        "summary": "Yang Peng — We study the last iterate of standard asynchronous Q-learning from a single trajectory of a finite Markov decision process. The trajectory follows a fixed behavior policy whose state--action chain is irreducible and may…",
         "source": "arXiv",
-        "date": "2026-10-08T17:57:27Z"
+        "date": "2026-10-09T17:44:10Z"
       }
     ],
     "labs": [
@@ -159,190 +159,190 @@
         "date": "2026-10-07T00:00:00+00:00"
       },
       {
+        "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+        "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+        "summary": "EmbeddingGemma 2 is the most capable model for on-device multimodal embeddings, natively mapping combinations of text, images, audio, and video into a unified embedding space. EmbeddingGemma 2 brings robust capabilities directly to edge hardware. Locate specific moments in video using text or audio queries.",
+        "source": "Google DeepMind",
+        "date": "2026-10-06T19:57:04+00:00"
+      },
+      {
         "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
         "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
         "summary": "Public health decisions rely heavily on timely, granular data. Overview of Google Earth AI’s PDFM applied to a wide range of global health challenges. PDFM embeddings are commercially available in Preview as Population Dynamics Insights , a geospatial embeddings dataset from Google Maps Platform.",
         "source": "Google Research",
         "date": "2026-10-06T15:05:11+00:00"
-      },
-      {
-        "title": "How Jump Trading is scaling quant research with ChatGPT",
-        "url": "https://openai.com/index/jump-trading",
-        "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-        "source": "OpenAI",
-        "date": "2026-10-06T12:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-        "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-        "summary": "Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now. Disrupt doors open Oct.",
+        "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+        "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+        "summary": "Disrupt doors open Oct. The startup’s founders, CEO Michelle Masek and Chief Communications Officer Nadia Jamshidi, certainly fit the bill when it comes to PR expertise. Masek recently served as senior vice president of marketing and communications for Ev Williams’ venture firm, Obvious Ventures .",
         "source": "TechCrunch",
-        "date": "2026-10-10T21:47:51+00:00"
+        "date": "2026-10-12T15:45:00+00:00"
       },
       {
-        "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-        "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-        "summary": "Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Disrupt doors open Oct. Apple revealed in a regulatory filing that it has reached an agreement to bring on team members and technology from personalized audio startup Huxe, in what’s commonly known as a reverse acqui-hire deal.",
+        "title": "Microsoft president says UK is best placed to drive AI regulation",
+        "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+        "summary": "Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Disrupt doors open Oct. Last month, Trump hosted tech leaders of companies including OpenAI, Anthropic, Nvidia, AMD, SpaceX, Meta and Google at the White House to discuss AI safety.",
         "source": "TechCrunch",
-        "date": "2026-10-10T19:50:00+00:00"
+        "date": "2026-10-12T15:31:19+00:00"
       },
       {
-        "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-        "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-        "summary": "One of the companies leading the charge is Petra Power . Petra, which was founded in 2017, sells solid oxide fuel cells — ceramic devices that convert fuel, like natural gas, into electric power without burning it. “Combustion takes fuel and creates explosions,” Goodman said, describing how traditional power generation works.",
+        "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+        "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+        "summary": "Disrupt doors open Oct. Drams should have been satisfied. The startup’s second-generation software will deliver a considerable upgrade.",
         "source": "TechCrunch",
-        "date": "2026-10-10T17:00:00+00:00"
+        "date": "2026-10-12T15:27:59+00:00"
       },
       {
-        "title": "Cloudflare acquires Deno to improve its Workers programming model",
-        "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-        "summary": "Disrupt doors open Oct. Cloudflare announced Friday that it’s acquiring Deno, the startup behind the programming runtime of the same name. According to Cloudflare’s Kenton Varda, Cloudflare will use this acquisition to improve its Workers programming model and platform, which allows customers to build and run software on Cloudflare’s network. (Varda is principal engineer for Cloudflare Workers.) Deno — which was…",
+        "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+        "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+        "summary": "Disrupt doors open Oct. Google’s Fitbit lineup expanded on Monday with the introduction of the Fitbit Edge, a new wearable that’s positioned between the Fitbit Air and Pixel Watch. The Fitbit Edge is available to preorder through the Google Store, with store availability set for October 27.",
         "source": "TechCrunch",
-        "date": "2026-10-10T16:25:42+00:00"
+        "date": "2026-10-12T15:11:19+00:00"
       },
       {
-        "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-        "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-        "summary": "Disrupt doors open Oct. TechCrunch Disrupt 2026 starts in just three days. Grab your pass before TechCrunch Disrupt 2026 doors open on October 13 at 8 a.m.",
+        "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
+        "url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
+        "summary": "Ultrahuman is not the only smart-ring maker working with Abu Dhabi on preventive health. In May, the Department of Health – Abu Dhabi announced a partnership with Ultrahuman arch-rival Oura to combine the company’s wearable data with the emirate’s longitudinal health data, initially focusing on women’s health and cardiometabolic risk. Kumar told TechCrunch that Ultrahuman is not aware of another company working with…",
         "source": "TechCrunch",
-        "date": "2026-10-10T15:00:00+00:00"
+        "date": "2026-10-12T14:09:34+00:00"
       },
       {
-        "title": "Here are the top AI agents that can live in your text messages",
-        "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "summary": "Comma is designed to manage tasks across both work and everyday life. It can help manage calendars, email, reminders, tasks, notes, and communications. Tab allows users to delegate everyday tasks through familiar messaging platforms.",
+        "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+        "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+        "summary": "Disrupt doors open Oct. Join Disrupt with a $75 Expo+ Pass . Get your Disrupt 2026 pass now.",
         "source": "TechCrunch",
-        "date": "2026-10-10T14:00:00+00:00"
+        "date": "2026-10-12T14:00:00+00:00"
       },
       {
-        "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-        "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-        "summary": "SpaceX has spent years trying to launch Starlink in India. Alongside Starlink’s delayed launch, Musk has also faced challenges expanding Tesla in India. Starlink’s launch in India remains in limbo.",
+        "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+        "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+        "summary": "Ambi is also releasing apps for iPhones, Macs and Apple Watch. The company has ambitions to capture more information. Mo said that users can turn off ambient data capture on Ambi’s apps and devices at any time, and the feature is off by default.",
         "source": "TechCrunch",
-        "date": "2026-10-10T03:10:06+00:00"
+        "date": "2026-10-12T12:47:59+00:00"
       },
       {
-        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-        "summary": "Disrupt doors open Oct. Anthropic said its models exploited websites on the internet, including some run by U.S. government agencies, and it will turn off live internet access for all of its internal evaluations until the frontier lab is sure it can monitor and control its AI agents. Anthropic previously disclosed that its models had broken into external systems.",
+        "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+        "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+        "summary": "Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Disrupt doors open Oct. The Startup Battlefield winner’s reveal packs the Disrupt stage and is each year’s capstone event.",
         "source": "TechCrunch",
-        "date": "2026-10-10T00:18:32+00:00"
+        "date": "2026-10-12T00:59:01+00:00"
       },
       {
-        "title": "Long live the mechanical keyboard",
-        "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
-        "summary": "For a writer, the mechanical keyboard is a beautiful thing. I first got a mechanical keyboard about two years ago — the Keychron K2 — and I’ve never looked back. Unlike other electronics, there isn’t a whole lot to owning a mechanical keyboard.",
+        "title": "Will the HomeView be Apple’s first smart home success?",
+        "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+        "summary": "Disrupt doors open Oct. Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman . Gurman reports that on Tuesday, Apple will also be unveiling updated versions of two other home devices, namely the Apple TV set-top box and the HomePod mini.",
         "source": "TechCrunch",
-        "date": "2026-10-09T22:08:24+00:00"
+        "date": "2026-10-11T21:14:40+00:00"
       },
       {
-        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-        "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-        "summary": "Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now. Disrupt doors open Oct.",
+        "title": "Aaron Sorkin’s ‘The Social Reckoning’ is off to a weak start",
+        "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+        "summary": "Disrupt doors open Oct. “The Social Reckoning,” Aaron Sorkin’s follow-up to “The Social Network,” is on track to make only $5.5 million at the domestic box office this weekend, according to Sunday estimates. Anthony Ha is TechCrunch’s weekend editor.",
         "source": "TechCrunch",
-        "date": "2026-10-09T21:41:29+00:00"
+        "date": "2026-10-11T20:51:47+00:00"
       },
       {
-        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-        "summary": "Disrupt doors open Oct. An Anthropic AI model submitted a false tip about an unsolved murder to the Philadelphia police. This article has been updated with information from Anthropic’s blog post.",
+        "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+        "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+        "summary": "Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Disrupt doors open Oct. Get 50% off a second pass The Disrupt experience is meant to be shared.",
         "source": "TechCrunch",
-        "date": "2026-10-09T19:36:56+00:00"
+        "date": "2026-10-11T19:00:00+00:00"
       },
       {
-        "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
-        "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
-        "summary": "Disrupt doors open Oct. On every continent and in each of the 43 markets that Wood Mackenzie surveyed, four-hour duration batteries were less expensive than open-cycle gas turbines. Open-cycle turbines are simpler to make than closed-cycle turbines, but even they now take two to four years to procure.",
+        "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+        "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+        "summary": "Disrupt doors open Oct. The Disrupt crowd is your signal. Startup Battlefield is intensely competitive.",
         "source": "TechCrunch",
-        "date": "2026-10-09T18:57:58+00:00"
+        "date": "2026-10-11T17:53:37+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Vurt wants you to look at vertical videos as a genre of their own",
-        "url": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
-        "summary": "Vurt is betting that the next big thing in vertical entertainment is living on wide-screen TVs.﻿ Vurt is betting that the next big thing in vertical entertainment is living on wide-screen TVs.﻿ From Disney Plus to HBO Max , almost every major established streaming service is experimenting with ways to get into vertical content. Since launching in March, Vurt’s userbase has grown from 10,000 to 675,000 users. Sorey…",
+        "title": "The Yandex outage probably didn’t blitz Russian bots",
+        "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+        "summary": "At least, not the troll traffic that blights social media.﻿ At least, not the troll traffic that blights social media.﻿ Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet — but in reality it’s probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been circulating around…",
         "source": "The Verge",
-        "date": "2026-10-11T13:00:00+00:00"
+        "date": "2026-10-12T15:43:07+00:00"
       },
       {
-        "title": "What to expect from Apple’s ‘Welcome Home’ event",
-        "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-        "summary": "Get ready for a smart home hub, a refreshed HomePod Mini, a faster Apple TV, and maybe some LG smart locks. Get ready for a smart home hub, a refreshed HomePod Mini, a faster Apple TV, and maybe some LG smart locks. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub .",
+        "title": "Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be",
+        "url": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
+        "summary": "A $49 case that protects your console and offers customization via modularity. A $49 case that protects your console and offers customization via modularity. You can’t use the Switch 2 in its dock with the Basecase.",
         "source": "The Verge",
-        "date": "2026-10-11T13:00:00+00:00"
+        "date": "2026-10-12T15:00:00+00:00"
       },
       {
-        "title": "Horror is big business",
-        "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
-        "summary": "For more on how pervasive horror has become, follow Andrew Webster . Resident Evil has been around for 30 years, but the survival horror series is more popular than ever. 2017’s It remains the top-grossing horror flick of all time, and the Resident Evil 2 remake from 2019 has sold almost 20 million copies.",
+        "title": "Why aren't AI companies being charged for hacking?",
+        "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+        "summary": "Is hacking legal now? Parts of this system exhibit emergent properties. Corrections are input in the model. (251 points, 233 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-12T14:52:37+00:00"
+      },
+      {
+        "title": "Android is the best and worst thing about Googlebooks",
+        "url": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
+        "summary": "Even Google’s own apps are often limited. If Android apps on your laptop aren’t enough, Googlebooks also let you cast the Android apps on your phone to your laptop. Phone notifications open via app casting, but the system gets confused easily.",
         "source": "The Verge",
-        "date": "2026-10-11T12:00:00+00:00"
+        "date": "2026-10-12T14:00:00+00:00"
       },
       {
-        "title": "Why the LeapPad couldn&#8217;t survive the iPad",
-        "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
-        "summary": "On Version History: Jennifer Tuohy and Andru Marino learn how a book became one of the top-selling toys in the US. On Version History: Jennifer Tuohy and Andru Marino learn how a book became one of the top-selling toys in the US. We’re almost finished with our fifth season of Version History , all about the most iconic school tech.",
+        "title": "No Man’s Sky is coming to the iPhone and iPad",
+        "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
+        "summary": "A decade later, and the No Man’s Sky updates just keep coming. A decade later, and the No Man’s Sky updates just keep coming. According to Hello’s Sean Murray, the mobile version of the game is essentially the full No Man’s Sky experience.",
         "source": "The Verge",
-        "date": "2026-10-11T12:00:00+00:00"
+        "date": "2026-10-12T14:00:00+00:00"
       },
       {
-        "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-        "summary": "I asked, “Can you reorganize my Steam library?” Hermes could see most of my games by just viewing the already installed Steam client. Things still don’t always work as intended — my daily briefing already broke, multiple times. I view Hermes and local AI as just a tool, a computer program to run on my computer.",
+        "title": "The OnePlus 16 is the company’s most interesting phone in years",
+        "url": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
+        "summary": "Today the OnePlus 16 launched in China, the company’s first flagship phone since quitting both the US and European markets this summer. Even the cameras, not usually OnePlus’ strong suit, have had a meaningful upgrade. The OnePlus 16 is available in China starting from ¥5,699 (about $850).",
         "source": "The Verge",
-        "date": "2026-10-11T11:00:00+00:00"
+        "date": "2026-10-12T13:13:53+00:00"
       },
       {
-        "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
-        "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
-        "summary": "339 points, 132 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-10-11T10:27:53+00:00"
-      },
-      {
-        "title": "3rd Yandex Cloud Data Center Was Hit",
-        "url": "https://status.yandex.cloud/en/incidents/2136",
-        "summary": "312 points, 381 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-10-11T07:34:45+00:00"
-      },
-      {
-        "title": "LineageOS 24.0",
-        "url": "https://lineageos.org/Changelog-32/",
-        "summary": "On December 24, 2026, LineageOS will celebrate 10 years. We want your device submissions! Please note that Android 12 (and by proxy all later Android versions) diverged GSI and Emulator targets. (209 points, 65 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-11T06:18:59+00:00"
-      },
-      {
-        "title": "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
-        "url": "https://wallhop.io/",
-        "summary": "258 points, 112 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-10-11T00:46:48+00:00"
-      },
-      {
-        "title": "Build your own decision model",
-        "url": "https://nishtahir.com/build-your-own-decision-model/",
-        "summary": "Consider your everyday language model, to get typed output from it (JSON), you may use Structured Output to constrain the output to guaranteed valid JSON. By selecting the highest probability output, we get our answer. This means that the model is not calibrated . (377 points, 83 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-10T22:50:10+00:00"
-      },
-      {
-        "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-        "summary": "Microsoft’s CEO calls for putting an ‘emergency brake’ on AI. Microsoft’s CEO calls for putting an ‘emergency brake’ on AI. Think of it like an emergency brake.",
+        "title": "CMF’s first wireless speakers look like musical milk cartons",
+        "url": "https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize",
+        "summary": "The CMF Speaker Series are launching in two sizes with panels and knobs that can be customized with 3D printing. The CMF Speaker Series are launching in two sizes with panels and knobs that can be customized with 3D printing. That customizability extends to the design of the CMF Speaker Series, too.",
         "source": "The Verge",
-        "date": "2026-10-10T22:10:17+00:00"
+        "date": "2026-10-12T13:00:00+00:00"
       },
       {
-        "title": "A city-building game in which the city would prefer you didn't",
-        "url": "https://housing.over.pizza/",
-        "summary": "411 points, 135 comments on Hacker News",
+        "title": "The Fitbit Edge is for folks who don’t want to go totally screenless",
+        "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+        "summary": "A middle-of-the-road option that combines the Air’s simplicity with some of the Pixel Watch’s smarts. A middle-of-the-road option that combines the Air’s simplicity with some of the Pixel Watch’s smarts. The new Fitbit offers improved automatic workout tracking and GPS compared to the Charge 6.",
+        "source": "The Verge",
+        "date": "2026-10-12T13:00:00+00:00"
+      },
+      {
+        "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+        "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+        "summary": "The new Maia 300 chip will start rolling out to production AI workloads in 2027. The new Maia 300 chip will start rolling out to production AI workloads in 2027. Maia 200 is already running on production AI workloads across Microsoft, including Microsoft Copilot, GitHub Copilot, Microsoft Foundry, and Microsoft’s own AI models.",
+        "source": "The Verge",
+        "date": "2026-10-12T13:00:00+00:00"
+      },
+      {
+        "title": "How Apple can win the smart home",
+        "url": "https://www.theverge.com/tech/1009324/how-apple-can-win-the-smart-home",
+        "summary": "This week, Apple is hosting its first-ever dedicated smart home event. Apple finally seems to be taking the smart home seriously. New home hardware is long overdue.",
+        "source": "The Verge",
+        "date": "2026-10-12T12:00:00+00:00"
+      },
+      {
+        "title": "QGIS bans AI assisted contributions",
+        "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+        "summary": "Please reload this page . Please reload this page . Please reload this page . (310 points, 329 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-10T20:31:50+00:00"
+        "date": "2026-10-12T11:22:24+00:00"
+      },
+      {
+        "title": "Inside the mini factory where GM builds its EV future",
+        "url": "https://www.theverge.com/transportation/1008023/gm-bcdc-ev-battery-factory-china-tesla",
+        "summary": "At maximum production, the BCDC might produce 4 to 5 gigawatt-hours of cells. The mini factory will be used for multiple cell chemistries and different formats, starting with prismatic cells. For battery cells, “atomistic modeling is chemistry agnostic,” Kelty said.",
+        "source": "The Verge",
+        "date": "2026-10-12T11:00:00+00:00"
       }
     ]
   }
