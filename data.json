@@ -1,93 +1,135 @@
 {
-  "generated_at": "2026-10-13T14:50:09.867901+00:00",
+  "generated_at": "2026-10-14T12:40:50.339807+00:00",
   "sections": {
     "research": [
       {
-        "title": "Can Language Models Play the Wikipedia Game?",
-        "url": "https://arxiv.org/abs/2610.13948v1",
-        "summary": "Alexander Hickey, Joanna Knight, James Bishop — Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge.",
+        "title": "ChunkAct: Action Chunking for Agentic Robotics",
+        "url": "https://arxiv.org/abs/2610.18874v1",
+        "summary": "Bingxin Xu, Wenrui Bao, Xinxin Liu et al. — Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and thereby generalizes…",
         "source": "arXiv",
-        "date": "2026-10-09T17:59:56Z"
+        "date": "2026-10-13T17:59:57Z"
       },
       {
-        "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
-        "url": "https://arxiv.org/abs/2610.13935v1",
-        "summary": "Bhanu Tokas, Rahul Nair, Rockwell Jackson et al. — Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts.",
+        "title": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
+        "url": "https://arxiv.org/abs/2610.18871v1",
+        "summary": "Chih-Hai Su, Tsung-Wei Ke, Yu-Lun Liu — Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension off-family.…",
         "source": "arXiv",
-        "date": "2026-10-09T17:56:59Z"
+        "date": "2026-10-13T17:59:53Z"
       },
       {
-        "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
-        "url": "https://arxiv.org/abs/2610.13931v1",
-        "summary": "Kosio Beshkov — The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand binary…",
+        "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+        "url": "https://arxiv.org/abs/2610.18869v1",
+        "summary": "Mingxuan Yan, Litian Gong, Dihong Huang et al. — How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across reward definitions…",
         "source": "arXiv",
-        "date": "2026-10-09T17:55:33Z"
+        "date": "2026-10-13T17:59:52Z"
       },
       {
-        "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-        "url": "https://arxiv.org/abs/2610.13928v1",
-        "summary": "Andis Draguns, Sumeet Ramesh Motwani, Raymond Douglas et al. — Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under…",
+        "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
+        "url": "https://arxiv.org/abs/2610.18868v1",
+        "summary": "Wenbo Hu, Shraman Pramanick, Krishna Kumar Singh et al. — Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recursive…",
         "source": "arXiv",
-        "date": "2026-10-09T17:55:06Z"
+        "date": "2026-10-13T17:59:51Z"
       },
       {
-        "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
-        "url": "https://arxiv.org/abs/2610.13924v1",
-        "summary": "Tianyi Wu — A parallel sampler can choose at random which coordinates to generate together. For a target $p$ and the output law $q_U$ of a schedule $U$ drawn afresh for each output, we compare the schedule-averaged divergence…",
+        "title": "Data Free Training of Diffusion Models for Lattice Field Theories",
+        "url": "https://arxiv.org/abs/2610.18863v1",
+        "summary": "Dennis Grinwald, Ankur Singha, Khaled Kahouli et al. — Sampling equilibrium field configurations remains a major computational bottleneck in lattice field theory, motivating the development of generative samplers that can produce independent configurations.",
         "source": "arXiv",
-        "date": "2026-10-09T17:54:16Z"
+        "date": "2026-10-13T17:59:33Z"
       },
       {
-        "title": "Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2610.13923v1",
-        "summary": "Sajjad Baghaeea, Aimin Lib, Shanmugarajan Balasubramanian et al. — Deep-space communications operate under intermittent connectivity, long propagation delays, and relay storage constraints. In such networks, the Bundle Protocol enables store-carry-forward communication, requiring relay…",
+        "title": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
+        "url": "https://arxiv.org/abs/2610.18862v1",
+        "summary": "Minghao Luo, Liang Chen — Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional training for each model,…",
         "source": "arXiv",
-        "date": "2026-10-09T17:53:46Z"
+        "date": "2026-10-13T17:59:32Z"
       },
       {
-        "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
-        "url": "https://arxiv.org/abs/2610.13918v1",
-        "summary": "Daniel Szelogowski — Clinical sleep medicine repeatedly documents profound divergences between objective sleep duration and subjective daytime impairment, notably exemplified by sleep state misperception in paradoxical insomnia and boundary…",
+        "title": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
+        "url": "https://arxiv.org/abs/2610.18860v1",
+        "summary": "Xin Gao, Yifan Yang, Xin Li et al. — Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see how their choices of…",
         "source": "arXiv",
-        "date": "2026-10-09T17:52:23Z"
+        "date": "2026-10-13T17:59:31Z"
       },
       {
-        "title": "Designing Protein Structures from Natural Language",
-        "url": "https://arxiv.org/abs/2610.13917v1",
-        "summary": "Joseph Lee, Yanjing Li, Bo Qiang et al. — A central challenge in de novo protein design is generating proteins with desired structural and functional properties. Existing design models typically require a dedicated input representation for each property,…",
+        "title": "Hybrid Reasoning Agents",
+        "url": "https://arxiv.org/abs/2610.18861v1",
+        "summary": "Jiaru Zou, Yunzhe Qi, Sirui Chen et al. — How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning offers an efficient…",
         "source": "arXiv",
-        "date": "2026-10-09T17:51:55Z"
+        "date": "2026-10-13T17:59:31Z"
       },
       {
-        "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
-        "url": "https://arxiv.org/abs/2610.13912v1",
-        "summary": "Taoyong Cui, Pinxian Zeng, Wanghan Xu et al. — Recursive self-improvement (RSI) aims to transform interaction experience into persistent improvements, yet external feedback is costly and world-model predictions may become unreliable as policies evolve.",
+        "title": "Exact Topological Compliance: Generating Persistence-Equivalent Graphs",
+        "url": "https://arxiv.org/abs/2610.18856v1",
+        "summary": "Mattie Ji, Indradyumna Roy, Vikas Garg — Persistent homology summarizes the topological evolution of a graph as persistence diagrams (PDs). Generating graphs whose topology matches a target descriptor is increasingly important, yet existing topology-aware…",
         "source": "arXiv",
-        "date": "2026-10-09T17:50:30Z"
+        "date": "2026-10-13T17:59:19Z"
       },
       {
-        "title": "When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors",
-        "url": "https://arxiv.org/abs/2610.13910v1",
-        "summary": "Shubh Garg, Chen Shani — Vision-Language Models (VLMs) increasingly analyze and reason about images, yet it remains unclear whether their internal representations faithfully encode the structured relations required for such reasoning.",
+        "title": "Two Clocks: Why Larger Rollout Batches Learn Slower but Fail on Schedule in Reinforcement Learning with Verifiable Rewards",
+        "url": "https://arxiv.org/abs/2610.18853v1",
+        "summary": "Yuante Li, Junwei Quan, Kai Qiu et al. — Reinforcement learning with verifiable rewards (RLVR) relies on costly model-generated responses, motivating larger rollout batches and square-root learning-rate scaling. Reported to approximately preserve progress per…",
         "source": "arXiv",
-        "date": "2026-10-09T17:50:03Z"
+        "date": "2026-10-13T17:58:57Z"
       },
       {
-        "title": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping",
-        "url": "https://arxiv.org/abs/2610.13909v1",
-        "summary": "Danil Rudenko, Georgii Bulgakov, Nikolay Kartashev et al. — While deep learning models for tabular data have recently received significant research attention, the choice of objective functions for regression tasks remains an understudied degree of freedom.",
+        "title": "MFG: Multi-turn Feedback Guided Molecular Optimization",
+        "url": "https://arxiv.org/abs/2610.18851v1",
+        "summary": "Trieu Nguyen, Frazier N. Baker, Ruoxi Gao et al. — Multi-objective molecular optimization is a critical process in drug discovery that aims to modify a given molecule to simultaneously improve multiple properties while maintaining a similar overall structure.",
         "source": "arXiv",
-        "date": "2026-10-09T17:49:32Z"
+        "date": "2026-10-13T17:58:41Z"
       },
       {
-        "title": "Hitting-Time Bounds for Asynchronous Q-Learning",
-        "url": "https://arxiv.org/abs/2610.13901v1",
-        "summary": "Yang Peng — We study the last iterate of standard asynchronous Q-learning from a single trajectory of a finite Markov decision process. The trajectory follows a fixed behavior policy whose state--action chain is irreducible and may…",
+        "title": "The Last Remote Sensing Model Built by Humans? Casting Any Earth Observation Task as Recursive Self-Improvement",
+        "url": "https://arxiv.org/abs/2610.18845v1",
+        "summary": "Sijie Zhao, Zeqi Zhou, Heli Qi et al. — Earth observation (EO) models are still built by hand. For each new task, experts design a training recipe and tune it against a benchmark.",
         "source": "arXiv",
-        "date": "2026-10-09T17:44:10Z"
+        "date": "2026-10-13T17:57:51Z"
       }
     ],
     "labs": [
+      {
+        "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+        "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+        "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+        "source": "Google DeepMind",
+        "date": "2026-10-14T02:00:14+00:00"
+      },
+      {
+        "title": "The EU’s next chapter in AI is agentic",
+        "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+        "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+        "source": "OpenAI",
+        "date": "2026-10-14T00:00:00+00:00"
+      },
+      {
+        "title": "Developing Gemini 4 Argon responsibly and safely",
+        "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+        "summary": "Learn more about our approach to safety and security for Gemini 4 Argon. Gemini 4 Argon is a step forward in what models can do — especially when it comes to deep work in complex, real-world tasks across domains including coding, finance, legal, cybersecurity, and science. To learn more about our approach to safety testing and mitigations, read our full Gemini 4 Argon Safety and Security Report and see the Gemini 4…",
+        "source": "Google DeepMind",
+        "date": "2026-10-13T19:43:07+00:00"
+      },
+      {
+        "title": "Gemini 4 Argon for Robotics",
+        "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+        "summary": "Sorry, your browser doesn't support playback for this video Argon has precise physical understanding of dexterous manipulation and can provide detailed segmentation and text labeling from video. Sorry, your browser doesn't support playback for this video Argon is a general value function for robotics tasks. Sorry, your browser doesn't support playback for this video Argon bridges coding, visual perception, physics…",
+        "source": "Google DeepMind",
+        "date": "2026-10-13T16:01:58+00:00"
+      },
+      {
+        "title": "Gemini 4 Argon: Built to solve your hardest problems",
+        "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+        "summary": "Gemini 4 Argon represents our most comprehensive safety and security stack yet: For more information, see the Gemini 4 Argon Model Card. Argon is rolling out today globally: Gemini 4 Argon is just the beginning. Applies to the Argon model intended for public access only.",
+        "source": "Google DeepMind",
+        "date": "2026-10-13T16:01:52+00:00"
+      },
+      {
+        "title": "Higgsfield takes AI video from 1 minute to over 10",
+        "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+        "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+        "source": "OpenAI",
+        "date": "2026-10-13T12:00:00+00:00"
+      },
       {
         "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
         "url": "https://openai.com/index/sophos",
@@ -129,220 +171,178 @@
         "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
         "source": "OpenAI",
         "date": "2026-10-08T00:00:00+00:00"
-      },
-      {
-        "title": "Does better work always mean better workers?",
-        "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
-        "summary": "Judgment is what sets senior professionals apart from their junior peers. Results are reported for all lawyers ( black squares ), junior lawyers under 7 years of experience ( blue triangles ), and senior lawyers with 7+ years of experience ( orange diamonds ). Distributions of the average redlining score for treated ( orange ) and control ( blue ) subjects by experience for all lawyers, junior lawyers under 7 years…",
-        "source": "Google Research",
-        "date": "2026-10-07T20:19:57+00:00"
-      },
-      {
-        "title": "Helping teens learn, plan, and shape the future of AI",
-        "url": "https://openai.com/index/teens-learn-and-plan",
-        "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-        "source": "OpenAI",
-        "date": "2026-10-07T12:00:00+00:00"
-      },
-      {
-        "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-        "url": "https://openai.com/index/radisson",
-        "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-        "source": "OpenAI",
-        "date": "2026-10-07T07:00:00+00:00"
-      },
-      {
-        "title": "GPT-6 and Intelligent UI for everyone",
-        "url": "https://openai.com/index/gpt-6-for-everyone",
-        "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-        "source": "OpenAI",
-        "date": "2026-10-07T00:00:00+00:00"
-      },
-      {
-        "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-        "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-        "summary": "EmbeddingGemma 2 is the most capable model for on-device multimodal embeddings, natively mapping combinations of text, images, audio, and video into a unified embedding space. EmbeddingGemma 2 brings robust capabilities directly to edge hardware. Locate specific moments in video using text or audio queries.",
-        "source": "Google DeepMind",
-        "date": "2026-10-06T19:57:04+00:00"
-      },
-      {
-        "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
-        "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
-        "summary": "Public health decisions rely heavily on timely, granular data. Overview of Google Earth AI’s PDFM applied to a wide range of global health challenges. PDFM embeddings are commercially available in Preview as Population Dynamics Insights , a geospatial embeddings dataset from Google Maps Platform.",
-        "source": "Google Research",
-        "date": "2026-10-06T15:05:11+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
-        "url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
-        "summary": "Disrupt doors open Oct. Users will no longer need to specify “on Spotify” when they’re asking Siri to play music or other content using the streaming service’s apps. This feature works because Siri can now learn your music app preference.",
+        "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+        "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+        "summary": "About 90% of Scimplify’s manufacturing currently takes place in India. The startup is targeting a $400 million annualized revenue run rate over the next year. The startup employs about 340 people, including roughly 70 scientists.",
         "source": "TechCrunch",
-        "date": "2026-10-13T14:30:12+00:00"
+        "date": "2026-10-14T11:00:00+00:00"
       },
       {
-        "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
-        "url": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
-        "summary": "Disrupt doors open Oct. Bumble is getting a new owner. Bumble has faced declining paying users, weaker revenue, and growing dissatisfaction with the familiar swipe-based model.",
+        "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+        "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+        "summary": "Department of Justice is warning that hackers working for the North Korean regime are increasingly relying on Americans to facilitate the hacking of U.S. companies. The computers were allegedly used by North Koreans to remotely hack into American companies and steal sensitive data. “Increasingly, North Korean IT workers are turning to recruiting American facilitators to counter improved private sector detections and…",
         "source": "TechCrunch",
-        "date": "2026-10-13T14:25:48+00:00"
+        "date": "2026-10-14T01:30:42+00:00"
       },
       {
-        "title": "TechCrunch Disrupt 2026: Day 1",
-        "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-        "summary": "Disrupt doors open Oct. The Startup Battlefield Fast Pitches — Built World The Startup Battlefield 200 Built World category showcases the most innovative early-stage startups tackling major challenges in real estate, construction, architecture, smart cities, and infrastructure. There’s still so much more to experience at TechCrunch Disrupt 2026 — including more Startup Battlefield pitches, game-changing sessions,…",
+        "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+        "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+        "summary": "Science Corporation CEO Max Hodak announced that the company has implanted its vision-restoring chip , PRIMA, into its first patient with Stargardt disease, an inherited eye disease that gradually destroys central vision. Hodak, the former president and co-founder of Neuralink, the brain implant company, explained onstage at TechCrunch Disrupt how the company’s work with PRIMA fits into its broader pursuit of a…",
         "source": "TechCrunch",
-        "date": "2026-10-13T14:00:00+00:00"
+        "date": "2026-10-13T23:13:31+00:00"
       },
       {
-        "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-        "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-        "summary": "Disrupt doors open Oct. There are five plans available on the new subscription: free, Plus ($8/month), Premium ($30/month), Super ($100/month) and Ultra ($200/month), with AI usage caps increasing as you move up through the tiers. The free plan will only offer limited chat and agent usage, and Premium or higher is required to access the latest Grok models.",
+        "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+        "summary": "Disrupt 2026 has officially begun. REGISTER NOW Disrupt doors open Oct. This AI startup says it can generate permit-ready blueprints in minutes Elon Musk intensifies attack on Ambani over Starlink India launch delay Remember Orkut?",
         "source": "TechCrunch",
-        "date": "2026-10-13T13:50:19+00:00"
+        "date": "2026-10-13T23:05:34+00:00"
       },
       {
-        "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
-        "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
-        "summary": "Disrupt doors open Oct. With the new HomePod mini, users can control their smart home devices through voice commands. Plus, the HomePod mini 2 speakers can be the default speaker for Mac for video calls or music playback instead of built-in speakers.",
+        "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+        "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+        "summary": "Industrial Next was founded in 2021 by Lukas Pankau and Allen Pan, both of whom previously worked at Tesla. We still keep complaining about industrial technology. Like, this is three years later, we should start the company.” Pankau notes that traditional industrial robots are typically programmed to perform highly specific, repeatable tasks.",
         "source": "TechCrunch",
-        "date": "2026-10-13T13:38:03+00:00"
+        "date": "2026-10-13T23:00:00+00:00"
       },
       {
-        "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
-        "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
-        "summary": "Disrupt doors open Oct. Apple is getting serious about the smart home space. This new range of smart home accessories could help Apple compete better with Amazon Ring and Google Nest, two established players in connected home security.",
+        "title": "Cerebras CEO pushes back on AI doomsday warnings",
+        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+        "summary": "Disrupt 2026 has officially begun. REGISTER NOW Disrupt doors open Oct. Cerebras Systems CEO and co-founder Andrew Feldman thinks the AI doomer narrative isn’t doing the industry any favors.",
         "source": "TechCrunch",
-        "date": "2026-10-13T13:37:19+00:00"
+        "date": "2026-10-13T22:36:59+00:00"
       },
       {
-        "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-        "summary": "Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Disrupt doors open Oct. Sit front and center at the Disrupt Stage to hear directly from the leaders shaping tech.",
+        "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
+        "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
+        "summary": "But Helix Carbon has devised a way to turn that waste carbon dioxide into carbon monoxide and recycle it back into the blast furnace. By injecting carbon monoxide into a blast furnace, iron producers can use less coke. Helix Carbon is proposing that iron producers start by replacing 33% of their coke.",
         "source": "TechCrunch",
-        "date": "2026-10-13T13:28:06+00:00"
+        "date": "2026-10-13T21:15:00+00:00"
       },
       {
-        "title": "India delays digital payments fee rollout amid retailer pushback",
-        "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
-        "summary": "The fee, announced last month, would mark a significant departure from India’s years-long policy of keeping UPI payments free for merchants. In September alone, UPI processed 24.07 billion transactions worth ₹29.37 trillion (about $305 billion), per NPCI. UPI was not always free for merchants, however.",
+        "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+        "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+        "summary": "The employee, named by federal prosecutors as Saudi national Abdulrahman Alfozan, was fired and arrested on October 9, about a week after OpenAI discovered the surveillance device. Prosecutors said OpenAI caught the device after it was inserted into a USB port on the back of a television in OpenAI’s San Francisco office. Per the prosecutors, Alfozan was caught looking behind the television where the recording device…",
         "source": "TechCrunch",
-        "date": "2026-10-13T13:25:05+00:00"
+        "date": "2026-10-13T20:59:11+00:00"
       },
       {
-        "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
-        "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
-        "summary": "Disrupt doors open Oct. Apple launched a new $299 Apple TV 4K streaming device today, with an upgraded chip, integration with the updated version of Siri AI for content discovery, and mics that allow users to issue voice commands directly without using the remote. The device is not updated as often as other Apple hardware, given this long-pending upgrade comes four years after the launch of Apple TV 4K in 2022.",
+        "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+        "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+        "summary": "Apple also said that former Apple employees at OpenAI coached others considering leaving Apple for OpenAI on what information to bring to their interviews, among other allegations. All three are former Apple employees. He also denied several of Apple’s broader discovery requests, like access to OpenAI’s hardware research or information about what its former employees created while working at OpenAI.",
         "source": "TechCrunch",
-        "date": "2026-10-13T13:16:11+00:00"
+        "date": "2026-10-13T20:36:44+00:00"
       },
       {
-        "title": "Apple makes another push into the smart home market with HomeView",
-        "url": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/",
-        "summary": "Apple is taking a big swing at the smart home market. This comes as Apple announced its lineup of smart home accessories today, including a smart deadbolt lock, security cameras, and doorbell. Those issues have reportedly affected Apple’s broader smart home plans as well.",
+        "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
+        "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
+        "summary": "Cambridge Heavy’s fusion reactor uses lasers to compress a fuel target, similar to the groundbreaking experiment that proved controlled fusion reactions could produce more power than they consume. But unlike other inertial confinement designs, Cambridge Heavy’s minimizes the number of lasers required to spark fusion. Cambridge Heavy’s design generates high pressures with relatively low laser power, Kai said.",
         "source": "TechCrunch",
-        "date": "2026-10-13T13:15:46+00:00"
+        "date": "2026-10-13T20:13:53+00:00"
       },
       {
-        "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-        "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-        "summary": "The customer then authenticates their identity and signs off on the intent captured by the agent. Then an Intent ID, a unique identifier representing the intent, is created, along with a Proof of Intent Token, which includes the customer’s high-level constraints. On October 13 at TechCrunch Disrupt 2026 ‘s Industry Stage, Amex VP of Agentic Partnerships and Strategy at American Express, Hannah Bozian, will discuss…",
+        "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
+        "url": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
+        "summary": "It comes in two slightly different forms, lithium-6 and lithium-7, named for their weights. The goal is to enrich the lithium to at least 99.995% lithium-6. Fusion companies can feed that highly enriched lithium into their fuel breeding systems.",
         "source": "TechCrunch",
-        "date": "2026-10-13T13:00:00+00:00"
+        "date": "2026-10-13T20:00:00+00:00"
       },
       {
-        "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
-        "url": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
-        "summary": "Giraffe Bio is taking an alternative approach. The startup develops mineral-specific chemicals to help mines recover up to 5% more copper. In addition to improving mine production, Giraffe Bio can supplant toxic chemicals in the flotation process, too.",
+        "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
+        "url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
+        "summary": "Disrupt 2026 has officially begun. Niobia’s agents run on open source models that the company trains further with battery and chip research and other data. Niobia, for instance, lets its customers hold their own encryption keys so that the startup cannot decrypt the customers’ data.",
         "source": "TechCrunch",
-        "date": "2026-10-13T12:40:00+00:00"
+        "date": "2026-10-13T19:00:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Apple’s HomePod Mini 2 is available to preorder",
-        "url": "https://www.theverge.com/gadgets/1009971/apple-homepod-mini-2-preorder-buy",
-        "summary": "A better chip, Siri AI, and more ways to connect to your Apple gear. A better chip, Siri AI, and more ways to connect to your Apple gear. After nearly six years, Apple debuted a new, improved HomePod Mini .",
+        "title": "The Tesla Roadster could have stayed vaporware",
+        "url": "https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk",
+        "summary": "It took nearly a decade for Tesla’s next-gen sports car to arrive, but it’s finally here. When the original Tesla Roadster arrived in 2008, sub-four-second 0–60 times were reserved for high-end exotics. Eight years later, the next-gen Roadster likely arrives as a grounded, earthbound artifact of a future Tesla has already left behind.",
         "source": "The Verge",
-        "date": "2026-10-13T14:15:00+00:00"
+        "date": "2026-10-14T11:00:00+00:00"
       },
       {
-        "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-        "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
-        "summary": "DLSS 5 debuts in Hogwarts Legacy and Where Winds Meet next month. DLSS 5 debuts in Hogwarts Legacy and Where Winds Meet next month. The updated AI model uses a “faster and lighter algorithm to boost frame rates” for Frame Gen, Multi Frame Gen, and Dynamic Multi Frame Gen.",
+        "title": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
+        "url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+        "summary": "The Fairbuds 2 are just as repairable as the first pair, and are launching in the US.﻿ The Fairbuds 2 are just as repairable as the first pair, and are launching in the US.﻿ Repairable, ethical phone brand Fairphone has released its second pair of earbuds. The Fairbuds 2 are just as repairable as the first generation , but deliver improved audio and almost twice the battery life. Despite that shrinking hardware,…",
         "source": "The Verge",
-        "date": "2026-10-13T13:55:45+00:00"
+        "date": "2026-10-14T11:00:00+00:00"
       },
       {
-        "title": "Discovery Plus is getting more expensive",
-        "url": "https://www.theverge.com/streaming/1009994/discovery-plus-price-increase",
-        "summary": "The cheapest Discovery Plus plan now costs $6.99 / month. The cheapest Discovery Plus plan now costs $6.99 / month. Discovery , which owned Discovery Plus and HBO Max.",
-        "source": "The Verge",
-        "date": "2026-10-13T13:52:18+00:00"
-      },
-      {
-        "title": "Where to preorder the new Apple TV 4K",
-        "url": "https://www.theverge.com/gadgets/1009921/apple-tv-4k-2026-preorder-buy",
-        "summary": "The latest model packs significantly more power, better wireless connectivity, plus built-in microphones. The latest model packs significantly more power, better wireless connectivity, plus built-in microphones. Apple debuted its latest Apple TV 4K — its first in four years — and it’ll be available starting Friday, November 13th.",
-        "source": "The Verge",
-        "date": "2026-10-13T13:26:40+00:00"
-      },
-      {
-        "title": "Watch Apple’s reveal video for the HomeView",
-        "url": "https://www.theverge.com/1008810/apple-homeview-reveal-video-watch",
-        "summary": "Apple showed off its new smart home hub, available for pre-order starting today. Apple showed off its new smart home hub, available for pre-order starting today. Apple just announced its long-rumored smart home hub, the HomeView , during its “Welcome Home” event taking place today.",
-        "source": "The Verge",
-        "date": "2026-10-13T13:14:27+00:00"
-      },
-      {
-        "title": "Getty Images is going private after failed Shutterstock merger",
-        "url": "https://www.theverge.com/business/1009893/getty-images-bankruptcy-private-plans-agreement",
-        "summary": "The stock photo company plans to file for bankruptcy as part of a restructuring deal.﻿ The stock photo company plans to file for bankruptcy as part of a restructuring deal.﻿ Getty Images intends to file for bankruptcy and go private as part of a restructuring agreement after its plans to merge with rival stock platform Shutterstock fell through earlier this year. Once completed, the company will be entirely owned by…",
-        "source": "The Verge",
-        "date": "2026-10-13T13:11:33+00:00"
-      },
-      {
-        "title": "The new Apple TV 4K has built-in microphones so you can talk to Siri AI",
-        "url": "https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced",
-        "summary": "The fourth-gen streaming box also gets a surround-sound upgrade and the ability to find your Siri remote. The fourth-gen streaming box also gets a surround-sound upgrade and the ability to find your Siri remote. Compatible speakers include the HomePod second-gen and the HomePod Mini 2, also announced today for $149.",
-        "source": "The Verge",
-        "date": "2026-10-13T13:00:00+00:00"
-      },
-      {
-        "title": "Apple announces the HomePod Mini 2, but it isn&#8217;t ready for Siri AI at launch",
-        "url": "https://www.theverge.com/tech/1009672/homepod-mini-2-announced-apple-siri-ai",
-        "summary": "The new speaker can sync its lights with your album art and pair with the new Apple TV and HomePods for a home theatre setup. The new speaker can sync its lights with your album art and pair with the new Apple TV and HomePods for a home theatre setup. Apple confirmed that Siri AI will not be coming to existing HomePod Minis.",
-        "source": "The Verge",
-        "date": "2026-10-13T13:00:00+00:00"
-      },
-      {
-        "title": "The new Apple Home Collection includes a video doorbell, smart lock, and more",
-        "url": "https://www.theverge.com/tech/1009680/apple-home-collection-doorbell-lock-camera-smart-home-announced",
-        "summary": "Apple has co-developed the products with LG and Schneider Electric to work seamlessly with its Apple Home smart home platform.﻿ Apple has co-developed the products with LG and Schneider Electric to work seamlessly with its Apple Home smart home platform.﻿ Apple has partnered with LG Electronics and Schneider Electric to launch the Apple Home Collection, an assortment of smart home devices meant to be easy to set up…",
-        "source": "The Verge",
-        "date": "2026-10-13T13:00:00+00:00"
-      },
-      {
-        "title": "Apple launches HomeView, its first smart display for the home",
-        "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-        "summary": "It’s finally here: Apple’s long-rumored smart display, the Apple HomeView, has arrived. The HomeView is the centerpiece of Apple’s new push into the home. As a smart home hub, Matter controller, and Thread Border Router, the HomeView can orchestrate these and other Apple Home and Matter smart home devices.",
-        "source": "The Verge",
-        "date": "2026-10-13T13:00:00+00:00"
-      },
-      {
-        "title": "Mozilla Introduces Firefox Enterprise",
-        "url": "https://www.firefox.com/en-US/enterprise/",
-        "summary": "Firefox Enterprise puts customer privacy, independence and control first. Deploy Firefox Enterprise on-premises, within your own infrastructure. The browser is open source. (237 points, 115 comments on Hacker News)",
+        "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+        "url": "https://github.com/android/ndk/issues/2260",
+        "summary": "The public android17-release sources (android-17.0.0_r1, June 2026) build wcscspn / wcspbrk from external/llvm-libc, which is a plain nested loop over wchar_t and is correct. I mean, not this bug, but the issues regarding the management of the AOSP project. source.android.com (in particular, https://source.android.com/docs/whatsnew/site-updates?year=2026#aosp-changes ) has official communication on this topic. (i… (330 points, 154 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-13T12:00:42+00:00"
+        "date": "2026-10-14T06:18:01+00:00"
       },
       {
-        "title": "An hour of audio transcribed in about 13s on MacBook Air",
-        "url": "https://eg2.haku.sh/",
-        "summary": "Google's EmbeddingGemma 2 is an embedding model. EmbeddingGemma 2 is a multimodal embedding model: text, images, audio and video in one shared space. The base model was never trained for speech-to-text. × real time: seconds of audio per second of processing. (227 points, 57 comments on Hacker News)",
+        "title": "Apple’s HomeView ad is confusing to everyone except parents",
+        "url": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
+        "summary": "The chaos is surprisingly real for an Apple commercial. The chaos is surprisingly real for an Apple commercial. Apple’s typical vibe is clean, simple, orderly; this commercial is chaos.",
+        "source": "The Verge",
+        "date": "2026-10-13T22:10:00+00:00"
+      },
+      {
+        "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+        "summary": "The recording device was apparently discovered plugged into a TV’s USB port in an executive meeting room. The recording device was apparently discovered plugged into a TV’s USB port in an executive meeting room. We discovered a sophisticated recording device that was hidden inside one of our offices.",
+        "source": "The Verge",
+        "date": "2026-10-13T20:45:25+00:00"
+      },
+      {
+        "title": "OpenAI engineer arrested in bugging of executive conference room",
+        "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+        "summary": "An OpenAI engineer has been arrested on suspicion of hiding an audio recording device in an executive conference room at the company’s San Francisco headquarters, federal prosecutors said Tuesday. Alfozan has worked as an engineer at OpenAI since July 2025, prosecutors said. OpenAI personnel found the device Sept. (604 points, 501 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-13T11:27:14+00:00"
+        "date": "2026-10-13T20:23:55+00:00"
+      },
+      {
+        "title": "It looks like Apple Music is getting a new icon",
+        "url": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
+        "summary": "Apple Music’s iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. A new Apple Music logo was also spotted last month on the Apple Music Hall website, so the company could be refreshing its app icon to match. According to 9to5Mac , the new icon is a black music note on a white background in light mode, or the opposite in dark mode.",
+        "source": "The Verge",
+        "date": "2026-10-13T20:05:02+00:00"
+      },
+      {
+        "title": "Shopify opens its catalog up to more AI agents",
+        "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+        "summary": "Shopify previously announced a partnership with Meta’s Muse for AI-powered shopping and checkout.﻿ Shopify previously announced a partnership with Meta’s Muse for AI-powered shopping and checkout.﻿ More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company’s agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to…",
+        "source": "The Verge",
+        "date": "2026-10-13T19:42:42+00:00"
+      },
+      {
+        "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+        "url": "https://guitoro.com/",
+        "summary": "Every chord also has its own page in the guitar chord chart . Playing a real guitar along? Tap a chord pad and swipe the strings. (472 points, 121 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-13T19:11:48+00:00"
+      },
+      {
+        "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+        "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+        "summary": "Microsoft has created a new Xbox Labs group to experiment with decompiling and recompiling games. Microsoft has created a new Xbox Labs group to experiment with decompiling and recompiling games. Games share many of those same properties, and people spend more than 72 billion hours a year playing XBOX games, roughly five times the estimated time spent writing code worldwide.",
+        "source": "The Verge",
+        "date": "2026-10-13T19:00:48+00:00"
+      },
+      {
+        "title": "The Nothing Headphone A are half off for the first time",
+        "url": "https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale",
+        "summary": "You can get the Nothing Headphone A at a steep discount when you also buy a Charli XCX album. You can get the Nothing Headphone A at a steep discount when you also buy a Charli XCX album. Nothing’s second over-ear headphones may not offer everything found on the pricier Nothing Headphone 1, but you do get physical controls, good sound, and more than five days of battery life per charge.",
+        "source": "The Verge",
+        "date": "2026-10-13T18:33:14+00:00"
+      },
+      {
+        "title": "Russian bot farms are still trolling, even after Ukraine&#8217;s drone strikes on Yandex",
+        "url": "https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy",
+        "summary": "Zelenskyy celebrated ‘less division’ on social media after the strikes but the data isn’t backing that up yet. Zelenskyy celebrated ‘less division’ on social media after the strikes but the data isn’t backing that up yet. Ironically, claims that the drone strikes hindered Russian disinformation campaigns appears to be a form of disinformation itself, no matter what Zelenskyy says.",
+        "source": "The Verge",
+        "date": "2026-10-13T18:31:31+00:00"
       }
     ]
   }
