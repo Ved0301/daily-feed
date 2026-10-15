@@ -1,97 +1,146 @@
 {
-  "generated_at": "2026-10-14T12:40:50.339807+00:00",
+  "generated_at": "2026-10-15T12:29:22.352638+00:00",
   "sections": {
     "research": [
       {
-        "title": "ChunkAct: Action Chunking for Agentic Robotics",
-        "url": "https://arxiv.org/abs/2610.18874v1",
-        "summary": "Bingxin Xu, Wenrui Bao, Xinxin Liu et al. — Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and thereby generalizes…",
+        "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+        "url": "https://arxiv.org/abs/2610.20606v1",
+        "summary": "Huixuan Cheng, Bike Zhang, Shankar Sastry et al. — Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional…",
         "source": "arXiv",
-        "date": "2026-10-13T17:59:57Z"
+        "date": "2026-10-14T17:59:52Z"
       },
       {
-        "title": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
-        "url": "https://arxiv.org/abs/2610.18871v1",
-        "summary": "Chih-Hai Su, Tsung-Wei Ke, Yu-Lun Liu — Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension off-family.…",
+        "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+        "url": "https://arxiv.org/abs/2610.20607v1",
+        "summary": "Zhefei Gong, Hefeifei Jiang, Zehao Wang et al. — Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous…",
         "source": "arXiv",
-        "date": "2026-10-13T17:59:53Z"
+        "date": "2026-10-14T17:59:52Z"
       },
       {
-        "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
-        "url": "https://arxiv.org/abs/2610.18869v1",
-        "summary": "Mingxuan Yan, Litian Gong, Dihong Huang et al. — How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across reward definitions…",
+        "title": "Co-Evolving Acting and Forecasting for Language Agents",
+        "url": "https://arxiv.org/abs/2610.20597v1",
+        "summary": "Haofei Yu, Yixing Chen, Yining Zhao et al. — Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate…",
         "source": "arXiv",
-        "date": "2026-10-13T17:59:52Z"
+        "date": "2026-10-14T17:59:28Z"
       },
       {
-        "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
-        "url": "https://arxiv.org/abs/2610.18868v1",
-        "summary": "Wenbo Hu, Shraman Pramanick, Krishna Kumar Singh et al. — Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recursive…",
+        "title": "Your Transformer Is Secretly Elastic",
+        "url": "https://arxiv.org/abs/2610.20588v1",
+        "summary": "Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts et al. — Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L), forcing users to…",
         "source": "arXiv",
-        "date": "2026-10-13T17:59:51Z"
+        "date": "2026-10-14T17:58:08Z"
       },
       {
-        "title": "Data Free Training of Diffusion Models for Lattice Field Theories",
-        "url": "https://arxiv.org/abs/2610.18863v1",
-        "summary": "Dennis Grinwald, Ankur Singha, Khaled Kahouli et al. — Sampling equilibrium field configurations remains a major computational bottleneck in lattice field theory, motivating the development of generative samplers that can produce independent configurations.",
+        "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+        "url": "https://arxiv.org/abs/2610.20587v1",
+        "summary": "Shubhendu Trivedi, Jacob Eisenstein, Alekh Agarwal et al. — An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the reward for its…",
         "source": "arXiv",
-        "date": "2026-10-13T17:59:33Z"
+        "date": "2026-10-14T17:57:57Z"
       },
       {
-        "title": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
-        "url": "https://arxiv.org/abs/2610.18862v1",
-        "summary": "Minghao Luo, Liang Chen — Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional training for each model,…",
+        "title": "Continuum Attention",
+        "url": "https://arxiv.org/abs/2610.20586v1",
+        "summary": "Afshin Khadangi — We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query induces an…",
         "source": "arXiv",
-        "date": "2026-10-13T17:59:32Z"
+        "date": "2026-10-14T17:57:40Z"
       },
       {
-        "title": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
-        "url": "https://arxiv.org/abs/2610.18860v1",
-        "summary": "Xin Gao, Yifan Yang, Xin Li et al. — Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see how their choices of…",
+        "title": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes",
+        "url": "https://arxiv.org/abs/2610.20585v1",
+        "summary": "Stavros Nousias, Akis Nousias, Konstantinos Gkrispanis — Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that partitions the…",
         "source": "arXiv",
-        "date": "2026-10-13T17:59:31Z"
+        "date": "2026-10-14T17:57:24Z"
       },
       {
-        "title": "Hybrid Reasoning Agents",
-        "url": "https://arxiv.org/abs/2610.18861v1",
-        "summary": "Jiaru Zou, Yunzhe Qi, Sirui Chen et al. — How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning offers an efficient…",
+        "title": "Player-1: Learning to Play from Synthetic Experience",
+        "url": "https://arxiv.org/abs/2610.20584v1",
+        "summary": "Mingyu Ouyang, Yiran Wang, Siyuan Hu et al. — Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remain challenging and…",
         "source": "arXiv",
-        "date": "2026-10-13T17:59:31Z"
+        "date": "2026-10-14T17:57:12Z"
       },
       {
-        "title": "Exact Topological Compliance: Generating Persistence-Equivalent Graphs",
-        "url": "https://arxiv.org/abs/2610.18856v1",
-        "summary": "Mattie Ji, Indradyumna Roy, Vikas Garg — Persistent homology summarizes the topological evolution of a graph as persistence diagrams (PDs). Generating graphs whose topology matches a target descriptor is increasingly important, yet existing topology-aware…",
+        "title": "Latent Compaction with Test-Time Training",
+        "url": "https://arxiv.org/abs/2610.20582v1",
+        "summary": "Yingfa Chen, Xingyu Shen, Chaojun Xiao et al. — Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions.",
         "source": "arXiv",
-        "date": "2026-10-13T17:59:19Z"
+        "date": "2026-10-14T17:57:01Z"
       },
       {
-        "title": "Two Clocks: Why Larger Rollout Batches Learn Slower but Fail on Schedule in Reinforcement Learning with Verifiable Rewards",
-        "url": "https://arxiv.org/abs/2610.18853v1",
-        "summary": "Yuante Li, Junwei Quan, Kai Qiu et al. — Reinforcement learning with verifiable rewards (RLVR) relies on costly model-generated responses, motivating larger rollout batches and square-root learning-rate scaling. Reported to approximately preserve progress per…",
+        "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
+        "url": "https://arxiv.org/abs/2610.20576v1",
+        "summary": "Artin Tajdini, Manpreet Kaur, Peng Qi — Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave the underlying task…",
         "source": "arXiv",
-        "date": "2026-10-13T17:58:57Z"
+        "date": "2026-10-14T17:56:06Z"
       },
       {
-        "title": "MFG: Multi-turn Feedback Guided Molecular Optimization",
-        "url": "https://arxiv.org/abs/2610.18851v1",
-        "summary": "Trieu Nguyen, Frazier N. Baker, Ruoxi Gao et al. — Multi-objective molecular optimization is a critical process in drug discovery that aims to modify a given molecule to simultaneously improve multiple properties while maintaining a similar overall structure.",
+        "title": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization",
+        "url": "https://arxiv.org/abs/2610.20573v1",
+        "summary": "Anna Mei, Michael R. Douglas — We introduce a novel method for verifying Lean formalizations that goes beyond LLM-judged faithfulness. Unlike most verification methods, which rely on LLMs or trained models, our method combines LLM-based semantic…",
         "source": "arXiv",
-        "date": "2026-10-13T17:58:41Z"
+        "date": "2026-10-14T17:54:48Z"
       },
       {
-        "title": "The Last Remote Sensing Model Built by Humans? Casting Any Earth Observation Task as Recursive Self-Improvement",
-        "url": "https://arxiv.org/abs/2610.18845v1",
-        "summary": "Sijie Zhao, Zeqi Zhou, Heli Qi et al. — Earth observation (EO) models are still built by hand. For each new task, experts design a training recipe and tune it against a benchmark.",
+        "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
+        "url": "https://arxiv.org/abs/2610.20572v1",
+        "summary": "Kaixiang Zhao, Tianrun Yu, Shangzhe Li et al. — On-policy distillation (OPD) trains a student model on its own rollouts with token-level supervision from a teacher, assuming that the teacher can reach a correct answer from any prefix the student writes.",
         "source": "arXiv",
-        "date": "2026-10-13T17:57:51Z"
+        "date": "2026-10-14T17:54:34Z"
       }
     ],
     "labs": [
       {
+        "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+        "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
+        "summary": "Yossi Matias, Vice President, Google & GM, Google Research Today, at our flagship Research@ event, we're sharing research breakthroughs that amplify human ingenuity. For the scientists and researchers at Google Research, the opportunity extends beyond pioneering breakthroughs. Google Earth AI ’s geospatial foundation models are being used to help predict disease outbreaks and enable public health teams to take…",
+        "source": "Google Research",
+        "date": "2026-10-14T16:14:34+00:00"
+      },
+      {
+        "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+        "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+        "summary": "Following promising tests with partners, we’re also expanding experimental agent access via Ask Google Earth and an Agent-to-Agent (A2A) service. GeoKTools tests an agent’s ability to select and use specific geospatial tools and datasets while GeoExpertQueries evaluates reasoning on open-ended, multi-step workflows. Equipping the agent with Earth AI skills drives a significant jump across GeoExpertQueries,…",
+        "source": "Google Research",
+        "date": "2026-10-14T16:14:00+00:00"
+      },
+      {
+        "title": "Analyzing technical documents with Deep Review",
+        "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+        "summary": "Deep Review aims to help alleviate this expanding burden on human reviewers across technical fields. Users can now apply Deep Review to analyze complex documents across many domains. Deep Review is a collaborative effort across Google Research, Google DeepMind, and Google Cloud.",
+        "source": "Google Research",
+        "date": "2026-10-14T16:14:00+00:00"
+      },
+      {
+        "title": "Amp puts AI agents to work beyond code with OpenAI models",
+        "url": "https://openai.com/index/amp-beyond-coding",
+        "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+        "source": "OpenAI",
+        "date": "2026-10-14T12:00:00+00:00"
+      },
+      {
+        "title": "SentinelOne cuts malware analysis from weeks to hours",
+        "url": "https://openai.com/index/sentinelone",
+        "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+        "source": "OpenAI",
+        "date": "2026-10-14T12:00:00+00:00"
+      },
+      {
+        "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+        "url": "https://openai.com/index/third-moment-research",
+        "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+        "source": "OpenAI",
+        "date": "2026-10-14T07:00:00+00:00"
+      },
+      {
+        "title": "How Block is building AI-powered security with OpenAI technology",
+        "url": "https://openai.com/index/block-ai-powered-security",
+        "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+        "source": "OpenAI",
+        "date": "2026-10-14T07:00:00+00:00"
+      },
+      {
         "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
         "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-        "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+        "summary": "Collaborating with the Government Technology Agency of Singapore (GovTech Singapore) to protect users without compromising privacy. Together, we've fine-tuned a privacy-preserving, on-device scam detection model. To address this, Google’s lightweight Gemma model was fine-tuned on local scam conversations.",
         "source": "Google DeepMind",
         "date": "2026-10-14T02:00:14+00:00"
       },
@@ -122,227 +171,178 @@
         "summary": "Gemini 4 Argon represents our most comprehensive safety and security stack yet: For more information, see the Gemini 4 Argon Model Card. Argon is rolling out today globally: Gemini 4 Argon is just the beginning. Applies to the Argon model intended for public access only.",
         "source": "Google DeepMind",
         "date": "2026-10-13T16:01:52+00:00"
-      },
-      {
-        "title": "Higgsfield takes AI video from 1 minute to over 10",
-        "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-        "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-        "source": "OpenAI",
-        "date": "2026-10-13T12:00:00+00:00"
-      },
-      {
-        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "url": "https://openai.com/index/sophos",
-        "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-        "source": "OpenAI",
-        "date": "2026-10-09T07:00:00+00:00"
-      },
-      {
-        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "url": "https://openai.com/index/asana-browser-agent",
-        "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-        "source": "OpenAI",
-        "date": "2026-10-09T07:00:00+00:00"
-      },
-      {
-        "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "url": "https://openai.com/index/oracle",
-        "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-        "source": "OpenAI",
-        "date": "2026-10-08T16:00:00+00:00"
-      },
-      {
-        "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-        "url": "https://openai.com/index/pollo-ai",
-        "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-        "source": "OpenAI",
-        "date": "2026-10-08T12:00:00+00:00"
-      },
-      {
-        "title": "LegalOn halves Codex costs while maintaining development speed",
-        "url": "https://openai.com/index/legalon-halves-codex-costs",
-        "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-        "source": "OpenAI",
-        "date": "2026-10-08T12:00:00+00:00"
-      },
-      {
-        "title": "Disrupting AI-enabled “false front” operations",
-        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-        "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-        "source": "OpenAI",
-        "date": "2026-10-08T00:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-        "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-        "summary": "About 90% of Scimplify’s manufacturing currently takes place in India. The startup is targeting a $400 million annualized revenue run rate over the next year. The startup employs about 340 people, including roughly 70 scientists.",
+        "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+        "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+        "summary": "The Bee Frontier will come in Onyx, Lavender, and Sage, while the $99.99 Bee Eclipse will be offered in Silver, Midnight, Honey, and Blush. All Bee devices can create conversation summaries and recaps for free, and offer 14 days of memory. It can then record your conversations to provide Bee’s insights. (This aspect of Bee is optional, and Amazon notes you can delete transcripts and summaries at any time.) With its…",
         "source": "TechCrunch",
-        "date": "2026-10-14T11:00:00+00:00"
+        "date": "2026-10-15T12:00:00+00:00"
       },
       {
-        "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-        "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-        "summary": "Department of Justice is warning that hackers working for the North Korean regime are increasingly relying on Americans to facilitate the hacking of U.S. companies. The computers were allegedly used by North Koreans to remotely hack into American companies and steal sensitive data. “Increasingly, North Korean IT workers are turning to recruiting American facilitators to counter improved private sector detections and…",
+        "title": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
+        "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
+        "summary": "Security researchers at digital rights unit Citizen Lab say government spyware makers are abusing global advertising networks to target and hack devices by serving malicious online adverts. The researchers say Discover-Tech presents itself as a legitimate advertising firm, but instead serves as a “bridge between ad vendors and the mercenary spyware ecosystem.” Citizen Lab said at least two makers of zero-click…",
         "source": "TechCrunch",
-        "date": "2026-10-14T01:30:42+00:00"
+        "date": "2026-10-15T10:00:00+00:00"
       },
       {
-        "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-        "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-        "summary": "Science Corporation CEO Max Hodak announced that the company has implanted its vision-restoring chip , PRIMA, into its first patient with Stargardt disease, an inherited eye disease that gradually destroys central vision. Hodak, the former president and co-founder of Neuralink, the brain implant company, explained onstage at TechCrunch Disrupt how the company’s work with PRIMA fits into its broader pursuit of a…",
+        "title": "Figma announces new features to define how agents work on its platform",
+        "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+        "summary": "Design platform Figma announced a new Markdown-based editor to help define a company’s design, bring in design and code libraries, and integrate with the Payload headless content management system during the company’s first Config event in India. What’s more, teams can bring in more context about design, including design libraries, code libraries, and guidelines to manage context for the design system. Last year,…",
         "source": "TechCrunch",
-        "date": "2026-10-13T23:13:31+00:00"
+        "date": "2026-10-15T04:30:00+00:00"
       },
       {
-        "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-        "summary": "Disrupt 2026 has officially begun. REGISTER NOW Disrupt doors open Oct. This AI startup says it can generate permit-ready blueprints in minutes Elon Musk intensifies attack on Ambani over Starlink India launch delay Remember Orkut?",
+        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+        "summary": "Ricursive Intelligence founders Anna Goldie and Azalia Mirhoseini believe more efficient AI chip design could help solve the compute crisis. “And this is happening in chip design, software development, and other places. And that’s something that recursive does for chip design.” The founders say AI is challenging traditional chip design methods by discovering unconventional layouts that can outperform traditional…",
         "source": "TechCrunch",
-        "date": "2026-10-13T23:05:34+00:00"
+        "date": "2026-10-15T01:01:32+00:00"
       },
       {
-        "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-        "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-        "summary": "Industrial Next was founded in 2021 by Lukas Pankau and Allen Pan, both of whom previously worked at Tesla. We still keep complaining about industrial technology. Like, this is three years later, we should start the company.” Pankau notes that traditional industrial robots are typically programmed to perform highly specific, repeatable tasks.",
+        "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+        "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+        "summary": "Flock’s founder and CEO Garrett Langley doesn’t think the risks of introducing surveillance technology at scale outweigh the rewards. In doing so, Langley positioned Flock as an advance in technology that was somewhat inevitable. “Driverless cars, I think, is a fair analogy.",
         "source": "TechCrunch",
-        "date": "2026-10-13T23:00:00+00:00"
+        "date": "2026-10-15T00:49:31+00:00"
       },
       {
-        "title": "Cerebras CEO pushes back on AI doomsday warnings",
-        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-        "summary": "Disrupt 2026 has officially begun. REGISTER NOW Disrupt doors open Oct. Cerebras Systems CEO and co-founder Andrew Feldman thinks the AI doomer narrative isn’t doing the industry any favors.",
+        "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+        "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+        "summary": "Last two days at Disrupt are half off. REGISTER NOW Disrupt doors open Oct. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.",
         "source": "TechCrunch",
-        "date": "2026-10-13T22:36:59+00:00"
+        "date": "2026-10-15T00:30:00+00:00"
       },
       {
-        "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
-        "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
-        "summary": "But Helix Carbon has devised a way to turn that waste carbon dioxide into carbon monoxide and recycle it back into the blast furnace. By injecting carbon monoxide into a blast furnace, iron producers can use less coke. Helix Carbon is proposing that iron producers start by replacing 33% of their coke.",
+        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+        "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+        "summary": "Presley called the company’s path to becoming a startup unusual. That gap became the opening for Gudea. Three years after its founding, Gudea has nearly 40 clients.",
         "source": "TechCrunch",
-        "date": "2026-10-13T21:15:00+00:00"
+        "date": "2026-10-15T00:00:00+00:00"
       },
       {
-        "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-        "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-        "summary": "The employee, named by federal prosecutors as Saudi national Abdulrahman Alfozan, was fired and arrested on October 9, about a week after OpenAI discovered the surveillance device. Prosecutors said OpenAI caught the device after it was inserted into a USB port on the back of a television in OpenAI’s San Francisco office. Per the prosecutors, Alfozan was caught looking behind the television where the recording device…",
+        "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+        "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+        "summary": "Intero isn’t alone in trying to build more human-relevant models of the gut. Altis Biosystems develops stem cell-derived intestinal models, while InSphero offers patient-derived intestinal organoids for gastrointestinal toxicity testing. Intero doesn’t use AI to build its organoids.",
         "source": "TechCrunch",
-        "date": "2026-10-13T20:59:11+00:00"
+        "date": "2026-10-14T23:00:00+00:00"
       },
       {
-        "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-        "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-        "summary": "Apple also said that former Apple employees at OpenAI coached others considering leaving Apple for OpenAI on what information to bring to their interviews, among other allegations. All three are former Apple employees. He also denied several of Apple’s broader discovery requests, like access to OpenAI’s hardware research or information about what its former employees created while working at OpenAI.",
+        "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+        "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+        "summary": "REGISTER NOW Disrupt doors open Oct. In particular, its team made sure CedarDB was compatible with PostgreSQL , an open source database system. A fully managed, cloud-hosted version will likely help CedarDB expand its user base beyond large enterprises.",
         "source": "TechCrunch",
-        "date": "2026-10-13T20:36:44+00:00"
+        "date": "2026-10-14T22:00:00+00:00"
       },
       {
-        "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
-        "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
-        "summary": "Cambridge Heavy’s fusion reactor uses lasers to compress a fuel target, similar to the groundbreaking experiment that proved controlled fusion reactions could produce more power than they consume. But unlike other inertial confinement designs, Cambridge Heavy’s minimizes the number of lasers required to spark fusion. Cambridge Heavy’s design generates high pressures with relatively low laser power, Kai said.",
+        "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+        "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+        "summary": "Meta, then known as Facebook, invested $5.7 billion , while Google committed $4.5 billion . In the quarter ended June, Jio’s revenue rose nearly 12% from a year earlier to ₹391.7 billion (about $4.1 billion), while its net profit climbed 9% to ₹77.6 billion (around $816 million), per its IPO prospectus (PDF). Jio has set aside shares worth up to ₹25 billion (about $263 million) for eligible Reliance Industries…",
         "source": "TechCrunch",
-        "date": "2026-10-13T20:13:53+00:00"
+        "date": "2026-10-14T21:48:20+00:00"
       },
       {
-        "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
-        "url": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
-        "summary": "It comes in two slightly different forms, lithium-6 and lithium-7, named for their weights. The goal is to enrich the lithium to at least 99.995% lithium-6. Fusion companies can feed that highly enriched lithium into their fuel breeding systems.",
+        "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+        "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+        "summary": "Flock CEO Garrett Langley said the company’s gunshot-detection microphones detect “just gunshots,” but Flock’s website paints a far broader picture of what other ambient audio also gets picked up. Speaking onstage at TechCrunch Disrupt , the co-founder of the surveillance company defended Flock’s audio-collection product called Gunshot Detection , which listens for gunshots and other ambient audio across nearby…",
         "source": "TechCrunch",
-        "date": "2026-10-13T20:00:00+00:00"
+        "date": "2026-10-14T21:30:33+00:00"
       },
       {
-        "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
-        "url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
-        "summary": "Disrupt 2026 has officially begun. Niobia’s agents run on open source models that the company trains further with battery and chip research and other data. Niobia, for instance, lets its customers hold their own encryption keys so that the startup cannot decrypt the customers’ data.",
+        "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+        "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+        "summary": "Colossal Biosciences announced Wednesday a new AI platform to help accelerate its efforts to bring back extinct species, TechCrunch can exclusively report. “Normally, scientists can compare many genomes to understand which genetic differences are responsible for certain traits,” Colossal CEO and co-founder Ben Lamm told TechCrunch. Its founder wants to bring it back",
         "source": "TechCrunch",
-        "date": "2026-10-13T19:00:00+00:00"
+        "date": "2026-10-14T21:00:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "The Tesla Roadster could have stayed vaporware",
-        "url": "https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk",
-        "summary": "It took nearly a decade for Tesla’s next-gen sports car to arrive, but it’s finally here. When the original Tesla Roadster arrived in 2008, sub-four-second 0–60 times were reserved for high-end exotics. Eight years later, the next-gen Roadster likely arrives as a grounded, earthbound artifact of a future Tesla has already left behind.",
+        "title": "Ledger’s new hardware wallet is an Android phone without the phone",
+        "url": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
+        "summary": "Atom is a data-only Android device designed to work alongside your smartphone. Atom is a data-only Android device designed to work alongside your smartphone. Display and back cover detection: Ledger Atom detects when the display or back cover is removed.",
         "source": "The Verge",
-        "date": "2026-10-14T11:00:00+00:00"
+        "date": "2026-10-15T12:00:00+00:00"
       },
       {
-        "title": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
-        "url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
-        "summary": "The Fairbuds 2 are just as repairable as the first pair, and are launching in the US.﻿ The Fairbuds 2 are just as repairable as the first pair, and are launching in the US.﻿ Repairable, ethical phone brand Fairphone has released its second pair of earbuds. The Fairbuds 2 are just as repairable as the first generation , but deliver improved audio and almost twice the battery life. Despite that shrinking hardware,…",
+        "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+        "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+        "summary": "The new Alexa and Amazon integrations require a subscription. Plus, a magnetic version for your phone is coming ‘soon.’ The new Alexa and Amazon integrations require a subscription. First is the $74.99 Bee Frontier, an updated version of the original Bee device.",
         "source": "The Verge",
-        "date": "2026-10-14T11:00:00+00:00"
+        "date": "2026-10-15T12:00:00+00:00"
       },
       {
-        "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-        "url": "https://github.com/android/ndk/issues/2260",
-        "summary": "The public android17-release sources (android-17.0.0_r1, June 2026) build wcscspn / wcspbrk from external/llvm-libc, which is a plain nested loop over wchar_t and is correct. I mean, not this bug, but the issues regarding the management of the AOSP project. source.android.com (in particular, https://source.android.com/docs/whatsnew/site-updates?year=2026#aosp-changes ) has official communication on this topic. (i… (330 points, 154 comments on Hacker News)",
+        "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+        "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+        "summary": "Eiliko and its manufacturer, Energize Lab, are seemingly not to be trusted. Energize Lab is even storing some short audio recordings from users. Azdoufal spent even longer.",
+        "source": "The Verge",
+        "date": "2026-10-15T11:00:00+00:00"
+      },
+      {
+        "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
+        "url": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
+        "summary": "Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in accordance with the Palestinian-led BDS (Boycott, Divestment, Sanctions) movement, which has called to boycott Microsoft, including products under the company’s gaming division. Big Walk is playable on Microsoft’s Windows operating system, however, as it’s available to download via Steam . We’ve asked House House…",
+        "source": "The Verge",
+        "date": "2026-10-15T10:05:07+00:00"
+      },
+      {
+        "title": "McKinsey is making job applicants spar with a fake AI client",
+        "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+        "summary": "Some entry-level McKinsey candidates will have a 10-minute conversation with a simulated client as part of the interview process. Some entry-level McKinsey candidates will have a 10-minute conversation with a simulated client as part of the interview process. Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of…",
+        "source": "The Verge",
+        "date": "2026-10-14T22:53:31+00:00"
+      },
+      {
+        "title": "Tiny Little Office",
+        "url": "https://tinylittleoffice.com/",
+        "summary": "495 points, 100 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-10-14T06:18:01+00:00"
+        "date": "2026-10-14T22:10:08+00:00"
       },
       {
-        "title": "Apple’s HomeView ad is confusing to everyone except parents",
-        "url": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
-        "summary": "The chaos is surprisingly real for an Apple commercial. The chaos is surprisingly real for an Apple commercial. Apple’s typical vibe is clean, simple, orderly; this commercial is chaos.",
+        "title": "The best feature of Apple’s HomeView might be its simplicity",
+        "url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+        "summary": "Is Apple’s first smart display my dream smart home dashboard? I asked Kaiann Drance, vice president of product marketing for home at Apple, why Apple chose now for its biggest smart home push yet. HomeView may not be the smart home computer I want Apple to make , but it is the smart home device Apple needed to make.",
         "source": "The Verge",
-        "date": "2026-10-13T22:10:00+00:00"
+        "date": "2026-10-14T22:00:02+00:00"
       },
       {
-        "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-        "summary": "The recording device was apparently discovered plugged into a TV’s USB port in an executive meeting room. The recording device was apparently discovered plugged into a TV’s USB port in an executive meeting room. We discovered a sophisticated recording device that was hidden inside one of our offices.",
+        "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+        "summary": "OpenAI is accused of misleading the public about its chatbot’s safety and putting everyone at risk. OpenAI is accused of misleading the public about its chatbot’s safety and putting everyone at risk. Update, October 14th: Added a statement from OpenAI.",
         "source": "The Verge",
-        "date": "2026-10-13T20:45:25+00:00"
+        "date": "2026-10-14T21:11:28+00:00"
       },
       {
-        "title": "OpenAI engineer arrested in bugging of executive conference room",
-        "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-        "summary": "An OpenAI engineer has been arrested on suspicion of hiding an audio recording device in an executive conference room at the company’s San Francisco headquarters, federal prosecutors said Tuesday. Alfozan has worked as an engineer at OpenAI since July 2025, prosecutors said. OpenAI personnel found the device Sept. (604 points, 501 comments on Hacker News)",
+        "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+        "url": "https://typesafe.ai/blog/jev-1-14",
+        "summary": "Surprise: the Jev you all know and love ( jev-1.13.0 ) was multimodal all along! We’re also releasing a new version of Jev under jev-preview ! We intend to give 60 days warning before jev-1.13.0 is formally deprecated, and 30 days for jev-1.14.0 . (314 points, 100 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-13T20:23:55+00:00"
+        "date": "2026-10-14T21:11:03+00:00"
       },
       {
-        "title": "It looks like Apple Music is getting a new icon",
-        "url": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
-        "summary": "Apple Music’s iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. A new Apple Music logo was also spotted last month on the Apple Music Hall website, so the company could be refreshing its app icon to match. According to 9to5Mac , the new icon is a black music note on a white background in light mode, or the opposite in dark mode.",
-        "source": "The Verge",
-        "date": "2026-10-13T20:05:02+00:00"
-      },
-      {
-        "title": "Shopify opens its catalog up to more AI agents",
-        "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-        "summary": "Shopify previously announced a partnership with Meta’s Muse for AI-powered shopping and checkout.﻿ Shopify previously announced a partnership with Meta’s Muse for AI-powered shopping and checkout.﻿ More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company’s agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to…",
-        "source": "The Verge",
-        "date": "2026-10-13T19:42:42+00:00"
-      },
-      {
-        "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-        "url": "https://guitoro.com/",
-        "summary": "Every chord also has its own page in the guitar chord chart . Playing a real guitar along? Tap a chord pad and swipe the strings. (472 points, 121 comments on Hacker News)",
+        "title": "OpenCode 2.0",
+        "url": "https://anoma.ly/notes/opencode-2-0/",
+        "summary": "OpenCode 2.0 is a major over haul. From the begin ning OpenCode adopted a client/server model. Second, we've added back ground shell com mands. (691 points, 279 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-13T19:11:48+00:00"
+        "date": "2026-10-14T20:48:24+00:00"
       },
       {
-        "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-        "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-        "summary": "Microsoft has created a new Xbox Labs group to experiment with decompiling and recompiling games. Microsoft has created a new Xbox Labs group to experiment with decompiling and recompiling games. Games share many of those same properties, and people spend more than 72 billion hours a year playing XBOX games, roughly five times the estimated time spent writing code worldwide.",
-        "source": "The Verge",
-        "date": "2026-10-13T19:00:48+00:00"
+        "title": "Anthropic's Scion is heavily inspired by Mononoke",
+        "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+        "summary": "Here is Anthropic describing ( archive link ) yesterday how their new version control system, Scion, uses a concept called “derived data” to make operations like blames more efficient: Here is me, back in 2022, describing in my Oxide candidate materials how the Mononoke source control server I helped build uses a concept called “derived data” to make operations like blames more efficient: I think the level of… (382 points, 140 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-14T20:30:54+00:00"
       },
       {
-        "title": "The Nothing Headphone A are half off for the first time",
-        "url": "https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale",
-        "summary": "You can get the Nothing Headphone A at a steep discount when you also buy a Charli XCX album. You can get the Nothing Headphone A at a steep discount when you also buy a Charli XCX album. Nothing’s second over-ear headphones may not offer everything found on the pricier Nothing Headphone 1, but you do get physical controls, good sound, and more than five days of battery life per charge.",
+        "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+        "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+        "summary": "Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. According to Microsoft’s report , scammers could buy stolen or fraudulent Microsoft and Google accounts on YAM Store and use the phishing kits to send scam messages. Microsoft says YAM Store also hijacked real organizations’ expired web domains and created websites for nonexistent organizations, which…",
         "source": "The Verge",
-        "date": "2026-10-13T18:33:14+00:00"
-      },
-      {
-        "title": "Russian bot farms are still trolling, even after Ukraine&#8217;s drone strikes on Yandex",
-        "url": "https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy",
-        "summary": "Zelenskyy celebrated ‘less division’ on social media after the strikes but the data isn’t backing that up yet. Zelenskyy celebrated ‘less division’ on social media after the strikes but the data isn’t backing that up yet. Ironically, claims that the drone strikes hindered Russian disinformation campaigns appears to be a form of disinformation itself, no matter what Zelenskyy says.",
-        "source": "The Verge",
-        "date": "2026-10-13T18:31:31+00:00"
+        "date": "2026-10-14T20:03:43+00:00"
       }
     ]
   }
