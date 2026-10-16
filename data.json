@@ -1,99 +1,120 @@
 {
-  "generated_at": "2026-10-15T12:29:22.352638+00:00",
+  "generated_at": "2026-10-16T12:07:36.629000+00:00",
   "sections": {
     "research": [
       {
-        "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
-        "url": "https://arxiv.org/abs/2610.20606v1",
-        "summary": "Huixuan Cheng, Bike Zhang, Shankar Sastry et al. — Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional…",
+        "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+        "url": "https://arxiv.org/abs/2610.22372v1",
+        "summary": "Zhixu Li, Keqian Tang, Litian Gong et al. — Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic…",
         "source": "arXiv",
-        "date": "2026-10-14T17:59:52Z"
+        "date": "2026-10-15T17:59:59Z"
       },
       {
-        "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
-        "url": "https://arxiv.org/abs/2610.20607v1",
-        "summary": "Zhefei Gong, Hefeifei Jiang, Zehao Wang et al. — Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous…",
+        "title": "Discovering state-of-the-art quantum circuits with large language models",
+        "url": "https://arxiv.org/abs/2610.22367v1",
+        "summary": "Andi Gu, Alek H. Kemeny, Susanne F. Yelin et al. — Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum…",
         "source": "arXiv",
-        "date": "2026-10-14T17:59:52Z"
+        "date": "2026-10-15T17:59:20Z"
       },
       {
-        "title": "Co-Evolving Acting and Forecasting for Language Agents",
-        "url": "https://arxiv.org/abs/2610.20597v1",
-        "summary": "Haofei Yu, Yixing Chen, Yining Zhao et al. — Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate…",
+        "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+        "url": "https://arxiv.org/abs/2610.22364v1",
+        "summary": "Chenyuan Zhou, Yining Hong, Huang Huang et al. — Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties…",
         "source": "arXiv",
-        "date": "2026-10-14T17:59:28Z"
+        "date": "2026-10-15T17:59:11Z"
       },
       {
-        "title": "Your Transformer Is Secretly Elastic",
-        "url": "https://arxiv.org/abs/2610.20588v1",
-        "summary": "Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts et al. — Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L), forcing users to…",
+        "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
+        "url": "https://arxiv.org/abs/2610.22362v1",
+        "summary": "Tianjiao Yu, Zhilin Ou, Yifan Shen et al. — Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy's failures…",
         "source": "arXiv",
-        "date": "2026-10-14T17:58:08Z"
+        "date": "2026-10-15T17:59:02Z"
       },
       {
-        "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
-        "url": "https://arxiv.org/abs/2610.20587v1",
-        "summary": "Shubhendu Trivedi, Jacob Eisenstein, Alekh Agarwal et al. — An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the reward for its…",
+        "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+        "url": "https://arxiv.org/abs/2610.22358v1",
+        "summary": "Jiachen Yao, Xiyuan Zhang, Annan Yu et al. — Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future trajectories…",
         "source": "arXiv",
-        "date": "2026-10-14T17:57:57Z"
+        "date": "2026-10-15T17:58:45Z"
       },
       {
-        "title": "Continuum Attention",
-        "url": "https://arxiv.org/abs/2610.20586v1",
-        "summary": "Afshin Khadangi — We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query induces an…",
+        "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
+        "url": "https://arxiv.org/abs/2610.22355v1",
+        "summary": "Bowei Liu, Xinchen Zhang, Xuhuan Li et al. — Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requirements, we move beyond…",
         "source": "arXiv",
-        "date": "2026-10-14T17:57:40Z"
+        "date": "2026-10-15T17:58:04Z"
       },
       {
-        "title": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes",
-        "url": "https://arxiv.org/abs/2610.20585v1",
-        "summary": "Stavros Nousias, Akis Nousias, Konstantinos Gkrispanis — Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that partitions the…",
+        "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
+        "url": "https://arxiv.org/abs/2610.22353v1",
+        "summary": "Bingcong Li, Hao Ma, Michael Muehlebach et al. — Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and shared experts.",
         "source": "arXiv",
-        "date": "2026-10-14T17:57:24Z"
+        "date": "2026-10-15T17:58:02Z"
       },
       {
-        "title": "Player-1: Learning to Play from Synthetic Experience",
-        "url": "https://arxiv.org/abs/2610.20584v1",
-        "summary": "Mingyu Ouyang, Yiran Wang, Siyuan Hu et al. — Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remain challenging and…",
+        "title": "FDE-Gym: The Last Mile of AI Delivery",
+        "url": "https://arxiv.org/abs/2610.22350v1",
+        "summary": "Dongxu Yang, Hongda Yan, Renxin Wang et al. — Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engineers (FDEs) must…",
         "source": "arXiv",
-        "date": "2026-10-14T17:57:12Z"
+        "date": "2026-10-15T17:57:23Z"
       },
       {
-        "title": "Latent Compaction with Test-Time Training",
-        "url": "https://arxiv.org/abs/2610.20582v1",
-        "summary": "Yingfa Chen, Xingyu Shen, Chaojun Xiao et al. — Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions.",
+        "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+        "url": "https://arxiv.org/abs/2610.22344v1",
+        "summary": "Shangheng Du, Jinxin Shi, Shuaiyu Zhang et al. — Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recursive…",
         "source": "arXiv",
-        "date": "2026-10-14T17:57:01Z"
+        "date": "2026-10-15T17:56:32Z"
       },
       {
-        "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
-        "url": "https://arxiv.org/abs/2610.20576v1",
-        "summary": "Artin Tajdini, Manpreet Kaur, Peng Qi — Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave the underlying task…",
+        "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
+        "url": "https://arxiv.org/abs/2610.22343v1",
+        "summary": "Hongchang Liu, Jian Liu, Yujuan Ding et al. — Recent 3D world models increasingly use features from geometry foundation models (GFMs) as predictive world states, benefiting from their rich geometric priors. However, the view dependence of these features entangles…",
         "source": "arXiv",
-        "date": "2026-10-14T17:56:06Z"
+        "date": "2026-10-15T17:56:18Z"
       },
       {
-        "title": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization",
-        "url": "https://arxiv.org/abs/2610.20573v1",
-        "summary": "Anna Mei, Michael R. Douglas — We introduce a novel method for verifying Lean formalizations that goes beyond LLM-judged faithfulness. Unlike most verification methods, which rely on LLMs or trained models, our method combines LLM-based semantic…",
+        "title": "3DCodeVerse: Exploring 3D Worlds as Code",
+        "url": "https://arxiv.org/abs/2610.22341v1",
+        "summary": "Yipeng Gao, Ziyao Zeng, Jinfa Huang et al. — We introduce 3DCodeVerse, a research ecosystem that enables coding agents to create editable and verifiable 3D content at scale. 3DCodeVerse comprises large-scale, high-quality datasets of executable 3D code, a coding…",
         "source": "arXiv",
-        "date": "2026-10-14T17:54:48Z"
+        "date": "2026-10-15T17:56:07Z"
       },
       {
-        "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
-        "url": "https://arxiv.org/abs/2610.20572v1",
-        "summary": "Kaixiang Zhao, Tianrun Yu, Shangzhe Li et al. — On-policy distillation (OPD) trains a student model on its own rollouts with token-level supervision from a teacher, assuming that the teacher can reach a correct answer from any prefix the student writes.",
+        "title": "Dexterity from Supervised Play",
+        "url": "https://arxiv.org/abs/2610.22340v1",
+        "summary": "Botao He, Yiming Dou, Yiannis Aloimonos et al. — How can robots autonomously collect the contact-rich experience needed to learn dexterous manipulation? We present DSP: Dexterity from supervised play, a framework in which a robot learns a play policy from minutes of…",
         "source": "arXiv",
-        "date": "2026-10-14T17:54:34Z"
+        "date": "2026-10-15T17:55:50Z"
       }
     ],
     "labs": [
       {
-        "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
-        "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
-        "summary": "Yossi Matias, Vice President, Google & GM, Google Research Today, at our flagship Research@ event, we're sharing research breakthroughs that amplify human ingenuity. For the scientists and researchers at Google Research, the opportunity extends beyond pioneering breakthroughs. Google Earth AI ’s geospatial foundation models are being used to help predict disease outbreaks and enable public health teams to take…",
-        "source": "Google Research",
-        "date": "2026-10-14T16:14:34+00:00"
+        "title": "Bringing GPT-Rosalind to academic research labs",
+        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+        "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+        "source": "OpenAI",
+        "date": "2026-10-15T19:00:00+00:00"
+      },
+      {
+        "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+        "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+        "summary": "This allows the model to predict biological function directly from raw protein sequences, enriching millions of previously unnamed UniProt entries with high-confidence functional labels. The researcher steers the analysis towards structural evidence. Using Google Antigravity allows researchers to navigate the vast biological search space efficiently while leveraging accurate protein function predictions from a…",
+        "source": "Google DeepMind",
+        "date": "2026-10-15T16:08:03+00:00"
+      },
+      {
+        "title": "Teaching students to think and learn through questions",
+        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+        "source": "OpenAI",
+        "date": "2026-10-15T13:00:00+00:00"
+      },
+      {
+        "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+        "url": "https://openai.com/index/sullivan-cromwell",
+        "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+        "source": "OpenAI",
+        "date": "2026-10-15T00:00:00+00:00"
       },
       {
         "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
@@ -106,6 +127,13 @@
         "title": "Analyzing technical documents with Deep Review",
         "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
         "summary": "Deep Review aims to help alleviate this expanding burden on human reviewers across technical fields. Users can now apply Deep Review to analyze complex documents across many domains. Deep Review is a collaborative effort across Google Research, Google DeepMind, and Google Cloud.",
+        "source": "Google Research",
+        "date": "2026-10-14T16:14:00+00:00"
+      },
+      {
+        "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+        "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
+        "summary": "Yossi Matias, Vice President, Google & GM, Google Research Today, at our flagship Research@ event, we're sharing research breakthroughs that amplify human ingenuity. For the scientists and researchers at Google Research, the opportunity extends beyond pioneering breakthroughs. Google Earth AI ’s geospatial foundation models are being used to help predict disease outbreaks and enable public health teams to take…",
         "source": "Google Research",
         "date": "2026-10-14T16:14:00+00:00"
       },
@@ -143,206 +171,178 @@
         "summary": "Collaborating with the Government Technology Agency of Singapore (GovTech Singapore) to protect users without compromising privacy. Together, we've fine-tuned a privacy-preserving, on-device scam detection model. To address this, Google’s lightweight Gemma model was fine-tuned on local scam conversations.",
         "source": "Google DeepMind",
         "date": "2026-10-14T02:00:14+00:00"
-      },
-      {
-        "title": "The EU’s next chapter in AI is agentic",
-        "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-        "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-        "source": "OpenAI",
-        "date": "2026-10-14T00:00:00+00:00"
-      },
-      {
-        "title": "Developing Gemini 4 Argon responsibly and safely",
-        "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-        "summary": "Learn more about our approach to safety and security for Gemini 4 Argon. Gemini 4 Argon is a step forward in what models can do — especially when it comes to deep work in complex, real-world tasks across domains including coding, finance, legal, cybersecurity, and science. To learn more about our approach to safety testing and mitigations, read our full Gemini 4 Argon Safety and Security Report and see the Gemini 4…",
-        "source": "Google DeepMind",
-        "date": "2026-10-13T19:43:07+00:00"
-      },
-      {
-        "title": "Gemini 4 Argon for Robotics",
-        "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-        "summary": "Sorry, your browser doesn't support playback for this video Argon has precise physical understanding of dexterous manipulation and can provide detailed segmentation and text labeling from video. Sorry, your browser doesn't support playback for this video Argon is a general value function for robotics tasks. Sorry, your browser doesn't support playback for this video Argon bridges coding, visual perception, physics…",
-        "source": "Google DeepMind",
-        "date": "2026-10-13T16:01:58+00:00"
-      },
-      {
-        "title": "Gemini 4 Argon: Built to solve your hardest problems",
-        "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-        "summary": "Gemini 4 Argon represents our most comprehensive safety and security stack yet: For more information, see the Gemini 4 Argon Model Card. Argon is rolling out today globally: Gemini 4 Argon is just the beginning. Applies to the Argon model intended for public access only.",
-        "source": "Google DeepMind",
-        "date": "2026-10-13T16:01:52+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-        "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-        "summary": "The Bee Frontier will come in Onyx, Lavender, and Sage, while the $99.99 Bee Eclipse will be offered in Silver, Midnight, Honey, and Blush. All Bee devices can create conversation summaries and recaps for free, and offer 14 days of memory. It can then record your conversations to provide Bee’s insights. (This aspect of Bee is optional, and Amazon notes you can delete transcripts and summaries at any time.) With its…",
+        "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+        "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+        "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Disrupt doors open Oct. Save 50% off a second pass.",
         "source": "TechCrunch",
-        "date": "2026-10-15T12:00:00+00:00"
+        "date": "2026-10-16T05:16:46+00:00"
       },
       {
-        "title": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
-        "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
-        "summary": "Security researchers at digital rights unit Citizen Lab say government spyware makers are abusing global advertising networks to target and hack devices by serving malicious online adverts. The researchers say Discover-Tech presents itself as a legitimate advertising firm, but instead serves as a “bridge between ad vendors and the mercenary spyware ecosystem.” Citizen Lab said at least two makers of zero-click…",
+        "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+        "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+        "summary": "Tesla allowed customers to place $50,000 deposits to reserve the car. Musk first talked about adding thrusters to the car in 2018. “SpaceX option package for new Tesla Roadster will include ~10 small rocket thrusters arranged seamlessly around car,” he wrote on Twitter that year.",
         "source": "TechCrunch",
-        "date": "2026-10-15T10:00:00+00:00"
+        "date": "2026-10-16T01:17:43+00:00"
       },
       {
-        "title": "Figma announces new features to define how agents work on its platform",
-        "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-        "summary": "Design platform Figma announced a new Markdown-based editor to help define a company’s design, bring in design and code libraries, and integrate with the Payload headless content management system during the company’s first Config event in India. What’s more, teams can bring in more context about design, including design libraries, code libraries, and guidelines to manage context for the design system. Last year,…",
+        "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+        "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+        "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Disrupt doors open Oct. Last day to save Oct.",
         "source": "TechCrunch",
-        "date": "2026-10-15T04:30:00+00:00"
+        "date": "2026-10-15T23:44:56+00:00"
       },
       {
-        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-        "summary": "Ricursive Intelligence founders Anna Goldie and Azalia Mirhoseini believe more efficient AI chip design could help solve the compute crisis. “And this is happening in chip design, software development, and other places. And that’s something that recursive does for chip design.” The founders say AI is challenging traditional chip design methods by discovering unconventional layouts that can outperform traditional…",
+        "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+        "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+        "summary": "Disrupt doors open Oct. For three days this week in San Francisco, 20 eager startups participated in the Startup Battlefield at TechCrunch Disrupt 2026. Last day to save Oct.",
         "source": "TechCrunch",
-        "date": "2026-10-15T01:01:32+00:00"
+        "date": "2026-10-15T23:33:45+00:00"
       },
       {
-        "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
-        "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
-        "summary": "Flock’s founder and CEO Garrett Langley doesn’t think the risks of introducing surveillance technology at scale outweigh the rewards. In doing so, Langley positioned Flock as an advance in technology that was somewhat inevitable. “Driverless cars, I think, is a fair analogy.",
+        "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+        "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+        "summary": "Disrupt doors open Oct. Because the failure wasn’t that moment. Last day to save Oct.",
         "source": "TechCrunch",
-        "date": "2026-10-15T00:49:31+00:00"
+        "date": "2026-10-15T20:38:13+00:00"
       },
       {
-        "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-        "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
-        "summary": "Last two days at Disrupt are half off. REGISTER NOW Disrupt doors open Oct. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.",
+        "title": "Meta launches an open-weight AI model that runs on Macs",
+        "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+        "summary": "Disrupt doors open Oct. Meta has launched what it calls the “most capable” open-weight model in the United States. Last day to save Oct.",
         "source": "TechCrunch",
-        "date": "2026-10-15T00:30:00+00:00"
+        "date": "2026-10-15T20:04:53+00:00"
       },
       {
-        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-        "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-        "summary": "Presley called the company’s path to becoming a startup unusual. That gap became the opening for Gudea. Three years after its founding, Gudea has nearly 40 clients.",
+        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+        "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+        "summary": "Disrupt doors open Oct. Amazon is placing its bets on ambient computing, not apps, as the future of personal AI. Last day to save Oct.",
         "source": "TechCrunch",
-        "date": "2026-10-15T00:00:00+00:00"
+        "date": "2026-10-15T19:55:25+00:00"
       },
       {
-        "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
-        "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
-        "summary": "Intero isn’t alone in trying to build more human-relevant models of the gut. Altis Biosystems develops stem cell-derived intestinal models, while InSphero offers patient-derived intestinal organoids for gastrointestinal toxicity testing. Intero doesn’t use AI to build its organoids.",
+        "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+        "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+        "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Disrupt doors open Oct. Last day to save Oct.",
         "source": "TechCrunch",
-        "date": "2026-10-14T23:00:00+00:00"
+        "date": "2026-10-15T19:29:05+00:00"
       },
       {
-        "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-        "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
-        "summary": "REGISTER NOW Disrupt doors open Oct. In particular, its team made sure CedarDB was compatible with PostgreSQL , an open source database system. A fully managed, cloud-hosted version will likely help CedarDB expand its user base beyond large enterprises.",
+        "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+        "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+        "summary": "Anthropic is giving employee-level access to six researchers from METR , a nonprofit that tests frontier AI models, to independently assess Anthropic’s models, safety practices, and risk management, the company said in a blog post on Thursday. The middle tier gets more information and can publish without approval, while the top tier adds METR’s employee-level access. Last day to save Oct.",
         "source": "TechCrunch",
-        "date": "2026-10-14T22:00:00+00:00"
+        "date": "2026-10-15T19:14:26+00:00"
       },
       {
-        "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
-        "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
-        "summary": "Meta, then known as Facebook, invested $5.7 billion , while Google committed $4.5 billion . In the quarter ended June, Jio’s revenue rose nearly 12% from a year earlier to ₹391.7 billion (about $4.1 billion), while its net profit climbed 9% to ₹77.6 billion (around $816 million), per its IPO prospectus (PDF). Jio has set aside shares worth up to ₹25 billion (about $263 million) for eligible Reliance Industries…",
+        "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+        "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+        "summary": "Disrupt doors open Oct. Open social network Bluesky is once again expanding beyond its flagship app. Plus, Attie will suggest things users might want to make based on their public Bluesky profiles.",
         "source": "TechCrunch",
-        "date": "2026-10-14T21:48:20+00:00"
+        "date": "2026-10-15T18:56:46+00:00"
       },
       {
-        "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-        "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-        "summary": "Flock CEO Garrett Langley said the company’s gunshot-detection microphones detect “just gunshots,” but Flock’s website paints a far broader picture of what other ambient audio also gets picked up. Speaking onstage at TechCrunch Disrupt , the co-founder of the surveillance company defended Flock’s audio-collection product called Gunshot Detection , which listens for gunshots and other ambient audio across nearby…",
+        "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+        "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+        "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Savings of up to $200 end October 16 for TechCrunch Founder Summit . Compare challenges with another founder.",
         "source": "TechCrunch",
-        "date": "2026-10-14T21:30:33+00:00"
+        "date": "2026-10-15T18:00:00+00:00"
       },
       {
-        "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-        "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-        "summary": "Colossal Biosciences announced Wednesday a new AI platform to help accelerate its efforts to bring back extinct species, TechCrunch can exclusively report. “Normally, scientists can compare many genomes to understand which genetic differences are responsible for certain traits,” Colossal CEO and co-founder Ben Lamm told TechCrunch. Its founder wants to bring it back",
+        "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
+        "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
+        "summary": "Disrupt doors open Oct. Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia. Under the expanded partnership, Volvo will combine its vehicle safety systems and engineering with Nvidia’s Hyperion sensor and compute architecture, Alpamayo driving software stack, and Halos safety evaluation layer.",
         "source": "TechCrunch",
-        "date": "2026-10-14T21:00:00+00:00"
+        "date": "2026-10-15T17:34:40+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Ledger’s new hardware wallet is an Android phone without the phone",
-        "url": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
-        "summary": "Atom is a data-only Android device designed to work alongside your smartphone. Atom is a data-only Android device designed to work alongside your smartphone. Display and back cover detection: Ledger Atom detects when the display or back cover is removed.",
+        "title": "The iPhone Duo is now available to preorder at $1,999",
+        "url": "https://www.theverge.com/gadgets/988582/apple-iphone-duo-preorder-buy-foldable",
+        "summary": "Here’s where you can preorder Apple’s first foldable phone, along with the carrier deals available so far. Here’s where you can preorder Apple’s first foldable phone, along with the carrier deals available so far. The iPhone Duo was unveiled during Apple’s “Surprise and shine” event alongside the iPhone 18 Pro and the Apple Watch Series 12 and Ultra 4 models.",
         "source": "The Verge",
-        "date": "2026-10-15T12:00:00+00:00"
+        "date": "2026-10-16T12:00:00+00:00"
       },
       {
-        "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-        "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
-        "summary": "The new Alexa and Amazon integrations require a subscription. Plus, a magnetic version for your phone is coming ‘soon.’ The new Alexa and Amazon integrations require a subscription. First is the $74.99 Bee Frontier, an updated version of the original Bee device.",
+        "title": "Surface Laptop Ultra review: a different kind of MacBook Pro",
+        "url": "https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review",
+        "summary": "Magnetic Connect is one of my favorite additions on the Surface Laptop Ultra. Not all of the Surface Laptop Ultra hardware is impressive, though. Where the Surface Laptop Ultra really falls behind Apple’s M5 chips is in CPU performance.",
         "source": "The Verge",
-        "date": "2026-10-15T12:00:00+00:00"
+        "date": "2026-10-16T12:00:00+00:00"
       },
       {
-        "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-        "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-        "summary": "Eiliko and its manufacturer, Energize Lab, are seemingly not to be trusted. Energize Lab is even storing some short audio recordings from users. Azdoufal spent even longer.",
+        "title": "Time is a-changin’: say goodbye to the leap second",
+        "url": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
+        "summary": "Plans to retire it in 2035 are being expedited to prevent potential havoc on tech infrastructure.﻿ Plans to retire it in 2035 are being expedited to prevent potential havoc on tech infrastructure.﻿ An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare. On Thursday, the International Bureau of Weights and Measures (BIPM) voted to…",
         "source": "The Verge",
-        "date": "2026-10-15T11:00:00+00:00"
+        "date": "2026-10-16T10:00:25+00:00"
       },
       {
-        "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
-        "url": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
-        "summary": "Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in accordance with the Palestinian-led BDS (Boycott, Divestment, Sanctions) movement, which has called to boycott Microsoft, including products under the company’s gaming division. Big Walk is playable on Microsoft’s Windows operating system, however, as it’s available to download via Steam . We’ve asked House House…",
-        "source": "The Verge",
-        "date": "2026-10-15T10:05:07+00:00"
-      },
-      {
-        "title": "McKinsey is making job applicants spar with a fake AI client",
-        "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-        "summary": "Some entry-level McKinsey candidates will have a 10-minute conversation with a simulated client as part of the interview process. Some entry-level McKinsey candidates will have a 10-minute conversation with a simulated client as part of the interview process. Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of…",
-        "source": "The Verge",
-        "date": "2026-10-14T22:53:31+00:00"
-      },
-      {
-        "title": "Tiny Little Office",
-        "url": "https://tinylittleoffice.com/",
-        "summary": "495 points, 100 comments on Hacker News",
+        "title": "Tesla Roadster",
+        "url": "https://www.tesla.com/roadster",
+        "summary": "409 points, 605 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-10-14T22:10:08+00:00"
+        "date": "2026-10-16T01:32:45+00:00"
       },
       {
-        "title": "The best feature of Apple’s HomeView might be its simplicity",
-        "url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
-        "summary": "Is Apple’s first smart display my dream smart home dashboard? I asked Kaiann Drance, vice president of product marketing for home at Apple, why Apple chose now for its biggest smart home push yet. HomeView may not be the smart home computer I want Apple to make , but it is the smart home device Apple needed to make.",
+        "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+        "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+        "summary": "The next-gen Roadster has been in development for nearly a decade. Elon Musk promised a flying car. And the Tesla Roadster did exactly that.",
         "source": "The Verge",
-        "date": "2026-10-14T22:00:02+00:00"
+        "date": "2026-10-16T01:28:27+00:00"
       },
       {
-        "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-        "summary": "OpenAI is accused of misleading the public about its chatbot’s safety and putting everyone at risk. OpenAI is accused of misleading the public about its chatbot’s safety and putting everyone at risk. Update, October 14th: Added a statement from OpenAI.",
+        "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+        "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+        "summary": "The updated terms explicitly state that Meta can use the content it collects from associated websites to “train” Meta products. Meta declined to answer a list of questions about these updated terms. Meta’s new commercial terms come on the heels of the company’s rollout of its paid subscription service, Meta One . (345 points, 120 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-15T23:37:42+00:00"
+      },
+      {
+        "title": "Steam can now show game achievements in separate ‘sets’",
+        "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
+        "summary": "Developers with games on Steam can split achievements from a base game and its DLC into sets with their own progress bars. Developers with games on Steam can split achievements from a base game and its DLC into sets with their own progress bars. Steam will support seasonal achievement sets that developers can archive, too.",
         "source": "The Verge",
-        "date": "2026-10-14T21:11:28+00:00"
+        "date": "2026-10-15T23:18:28+00:00"
       },
       {
-        "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-        "url": "https://typesafe.ai/blog/jev-1-14",
-        "summary": "Surprise: the Jev you all know and love ( jev-1.13.0 ) was multimodal all along! We’re also releasing a new version of Jev under jev-preview ! We intend to give 60 days warning before jev-1.13.0 is formally deprecated, and 30 days for jev-1.14.0 . (314 points, 100 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-14T21:11:03+00:00"
-      },
-      {
-        "title": "OpenCode 2.0",
-        "url": "https://anoma.ly/notes/opencode-2-0/",
-        "summary": "OpenCode 2.0 is a major over haul. From the begin ning OpenCode adopted a client/server model. Second, we've added back ground shell com mands. (691 points, 279 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-14T20:48:24+00:00"
-      },
-      {
-        "title": "Anthropic's Scion is heavily inspired by Mononoke",
-        "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-        "summary": "Here is Anthropic describing ( archive link ) yesterday how their new version control system, Scion, uses a concept called “derived data” to make operations like blames more efficient: Here is me, back in 2022, describing in my Oxide candidate materials how the Mononoke source control server I helped build uses a concept called “derived data” to make operations like blames more efficient: I think the level of… (382 points, 140 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-14T20:30:54+00:00"
-      },
-      {
-        "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
-        "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
-        "summary": "Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. According to Microsoft’s report , scammers could buy stolen or fraudulent Microsoft and Google accounts on YAM Store and use the phishing kits to send scam messages. Microsoft says YAM Store also hijacked real organizations’ expired web domains and created websites for nonexistent organizations, which…",
+        "title": "ChatGPT can peek at your Chrome tabs now",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+        "summary": "With the ChatGPT extension installed, it can pull information from your open tabs or bring the AI bot into the sidebar.﻿ With the ChatGPT extension installed, it can pull information from your open tabs or bring the AI bot into the sidebar.﻿ OpenAI’s ChatGPT Atlas browser is gone , but now ChatGPT’s Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the…",
         "source": "The Verge",
-        "date": "2026-10-14T20:03:43+00:00"
+        "date": "2026-10-15T22:43:23+00:00"
+      },
+      {
+        "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+        "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+        "summary": "Total War: Shogun 2 — Complete Edition is being removed after users discovered bugs and upscaling that appears to have been done by AI. Total War: Shogun 2 — Complete Edition is being removed after users discovered bugs and upscaling that appears to have been done by AI. Sega is removing Total War: Shogun 2 — Complete Edition from storefronts following a disastrous launch where users complained about issues like…",
+        "source": "The Verge",
+        "date": "2026-10-15T22:35:55+00:00"
+      },
+      {
+        "title": "The tech backlash is now in theaters",
+        "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+        "summary": "Between The Social Reckoning , You Can See Everything , Musk , and Artificial , filmmakers are taking Big Tech to task. Between The Social Reckoning , You Can See Everything , Musk , and Artificial , filmmakers are taking Big Tech to task. Musk’s response to Gibney’s film has been telling.",
+        "source": "The Verge",
+        "date": "2026-10-15T21:39:52+00:00"
+      },
+      {
+        "title": "Trump posts AI-edited photo to brag about White House restoration work",
+        "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+        "summary": "A ‘before and after’ photo of a freshly painted White House column was modified with AI. A ‘before and after’ photo of a freshly painted White House column was modified with AI. The SynthID watermark wasn’t detected on other pictures Trump posted, which show the White House facade and heliport.",
+        "source": "The Verge",
+        "date": "2026-10-15T21:09:33+00:00"
+      },
+      {
+        "title": "What I self-host",
+        "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+        "summary": "Google Photos alternative. Self-hosted version of Bitwarden. Simple web application to download YouTube Music playlists. (533 points, 339 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-15T20:23:25+00:00"
       }
     ]
   }
