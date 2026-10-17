@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T12:07:36.629000+00:00",
+  "generated_at": "2026-10-17T11:25:30.540728+00:00",
   "sections": {
     "research": [
       {
@@ -89,6 +89,34 @@
     ],
     "labs": [
       {
+        "title": "How Itaú is building generative AI for its entire customer base",
+        "url": "https://openai.com/index/itau-generative-ai",
+        "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+        "source": "OpenAI",
+        "date": "2026-10-16T19:00:00+00:00"
+      },
+      {
+        "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+        "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+        "summary": "By grounding agents in physical lab robotics, we can run fast closed-loop molecular design cycles where agents learn how to learn, ultimately discovering single-digit nanomolar protein binders for cancer targets. Agents iteratively design, synthesize, select, and sequence aptamers in a closed loop. Across three rounds, agents learn from wet-lab readouts to recover target specificity and improve confirmed de novo hit…",
+        "source": "Google Research",
+        "date": "2026-10-16T18:11:34+00:00"
+      },
+      {
+        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+        "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+        "source": "OpenAI",
+        "date": "2026-10-16T00:00:00+00:00"
+      },
+      {
+        "title": "Benefit Street Partners answers questions faster with Codex",
+        "url": "https://openai.com/index/benefit-street-partners",
+        "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+        "source": "OpenAI",
+        "date": "2026-10-16T00:00:00+00:00"
+      },
+      {
         "title": "Bringing GPT-Rosalind to academic research labs",
         "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
         "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
@@ -98,7 +126,7 @@
       {
         "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
         "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-        "summary": "This allows the model to predict biological function directly from raw protein sequences, enriching millions of previously unnamed UniProt entries with high-confidence functional labels. The researcher steers the analysis towards structural evidence. Using Google Antigravity allows researchers to navigate the vast biological search space efficiently while leveraging accurate protein function predictions from a…",
+        "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
         "source": "Google DeepMind",
         "date": "2026-10-15T16:08:03+00:00"
       },
@@ -143,206 +171,178 @@
         "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
         "source": "OpenAI",
         "date": "2026-10-14T12:00:00+00:00"
-      },
-      {
-        "title": "SentinelOne cuts malware analysis from weeks to hours",
-        "url": "https://openai.com/index/sentinelone",
-        "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-        "source": "OpenAI",
-        "date": "2026-10-14T12:00:00+00:00"
-      },
-      {
-        "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-        "url": "https://openai.com/index/third-moment-research",
-        "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-        "source": "OpenAI",
-        "date": "2026-10-14T07:00:00+00:00"
-      },
-      {
-        "title": "How Block is building AI-powered security with OpenAI technology",
-        "url": "https://openai.com/index/block-ai-powered-security",
-        "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-        "source": "OpenAI",
-        "date": "2026-10-14T07:00:00+00:00"
-      },
-      {
-        "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-        "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-        "summary": "Collaborating with the Government Technology Agency of Singapore (GovTech Singapore) to protect users without compromising privacy. Together, we've fine-tuned a privacy-preserving, on-device scam detection model. To address this, Google’s lightweight Gemma model was fine-tuned on local scam conversations.",
-        "source": "Google DeepMind",
-        "date": "2026-10-14T02:00:14+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-        "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
-        "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Disrupt doors open Oct. Save 50% off a second pass.",
+        "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+        "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+        "summary": "Disrupt doors open Oct. Wahlberg’s last big bet on a gym chain might have scared off someone else. Last day to save Oct.",
         "source": "TechCrunch",
-        "date": "2026-10-16T05:16:46+00:00"
+        "date": "2026-10-17T02:36:18+00:00"
       },
       {
-        "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-        "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-        "summary": "Tesla allowed customers to place $50,000 deposits to reserve the car. Musk first talked about adding thrusters to the car in 2018. “SpaceX option package for new Tesla Roadster will include ~10 small rocket thrusters arranged seamlessly around car,” he wrote on Twitter that year.",
+        "title": "Replit is no longer working with Anthropic, CEO says",
+        "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "summary": "Disrupt doors open Oct. “So that habitat has good orchestration, good error recovery, good safety and security and sandboxing, good networking, good identity and authorization. Last day to save Oct.",
         "source": "TechCrunch",
-        "date": "2026-10-16T01:17:43+00:00"
+        "date": "2026-10-16T21:22:28+00:00"
       },
       {
-        "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-        "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+        "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+        "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+        "summary": "The 2026 Porsche Macan Turbo simply blended in, leaving in its wake a raft of existential questions. The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery. I’ll take a Porsche Macan Turbo for $150,000, Alex.",
+        "source": "TechCrunch",
+        "date": "2026-10-16T19:40:00+00:00"
+      },
+      {
+        "title": "India becomes the latest country to report rogue AI agent activity",
+        "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+        "summary": "Disrupt doors open Oct. AI agents from multiple providers accessed personal data and confidential material at Indian organizations during research and testing, India’s cybersecurity agency said Thursday. Last day to save Oct.",
+        "source": "TechCrunch",
+        "date": "2026-10-16T17:52:24+00:00"
+      },
+      {
+        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+        "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+        "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. You can contact or verify outreach from Theresa by emailing [email protected] . Last day to save Oct.",
+        "source": "TechCrunch",
+        "date": "2026-10-16T16:30:00+00:00"
+      },
+      {
+        "title": "Waymo’s robotaxis are headed to Canada",
+        "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+        "summary": "Disrupt doors open Oct. Save 50% off a second pass. Last day to save Oct.",
+        "source": "TechCrunch",
+        "date": "2026-10-16T16:06:38+00:00"
+      },
+      {
+        "title": "Elorian’s first AI model wants to reason with images, not just about them",
+        "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+        "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Next year, Dai said, the company aims to build “the world’s best visual reasoning model,” one that leads on every visual reasoning test. Last day to save Oct.",
+        "source": "TechCrunch",
+        "date": "2026-10-16T16:01:37+00:00"
+      },
+      {
+        "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+        "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
         "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Disrupt doors open Oct. Last day to save Oct.",
         "source": "TechCrunch",
-        "date": "2026-10-15T23:44:56+00:00"
+        "date": "2026-10-16T16:00:00+00:00"
       },
       {
-        "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-        "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-        "summary": "Disrupt doors open Oct. For three days this week in San Francisco, 20 eager startups participated in the Startup Battlefield at TechCrunch Disrupt 2026. Last day to save Oct.",
+        "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+        "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+        "summary": "“I never actually made that connection,” says Holmes. In other words, Seyfried is watching Holmes react to Seyfried’s portrayal of Holmes, who was probably also playing a character herself. Evans knows that Fielder and Oppenheim are not convinced of Holmes’ innocence.",
         "source": "TechCrunch",
-        "date": "2026-10-15T23:33:45+00:00"
+        "date": "2026-10-16T16:00:00+00:00"
       },
       {
-        "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-        "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-        "summary": "Disrupt doors open Oct. Because the failure wasn’t that moment. Last day to save Oct.",
+        "title": "Jev is Vercel’s fastest-adopted AI model ever",
+        "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+        "summary": "Disrupt doors open Oct. Save 50% off a second pass. Last day to save Oct.",
         "source": "TechCrunch",
-        "date": "2026-10-15T20:38:13+00:00"
+        "date": "2026-10-16T15:33:49+00:00"
       },
       {
-        "title": "Meta launches an open-weight AI model that runs on Macs",
-        "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-        "summary": "Disrupt doors open Oct. Meta has launched what it calls the “most capable” open-weight model in the United States. Last day to save Oct.",
+        "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+        "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+        "summary": "Disrupt doors open Oct. “I’ve done big, effects-driven movies,” Wahlberg said. Last day to save Oct.",
         "source": "TechCrunch",
-        "date": "2026-10-15T20:04:53+00:00"
+        "date": "2026-10-16T14:26:51+00:00"
       },
       {
-        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-        "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-        "summary": "Disrupt doors open Oct. Amazon is placing its bets on ambient computing, not apps, as the future of personal AI. Last day to save Oct.",
-        "source": "TechCrunch",
-        "date": "2026-10-15T19:55:25+00:00"
-      },
-      {
-        "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
-        "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+        "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+        "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
         "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Disrupt doors open Oct. Last day to save Oct.",
         "source": "TechCrunch",
-        "date": "2026-10-15T19:29:05+00:00"
-      },
-      {
-        "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-        "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-        "summary": "Anthropic is giving employee-level access to six researchers from METR , a nonprofit that tests frontier AI models, to independently assess Anthropic’s models, safety practices, and risk management, the company said in a blog post on Thursday. The middle tier gets more information and can publish without approval, while the top tier adds METR’s employee-level access. Last day to save Oct.",
-        "source": "TechCrunch",
-        "date": "2026-10-15T19:14:26+00:00"
-      },
-      {
-        "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-        "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-        "summary": "Disrupt doors open Oct. Open social network Bluesky is once again expanding beyond its flagship app. Plus, Attie will suggest things users might want to make based on their public Bluesky profiles.",
-        "source": "TechCrunch",
-        "date": "2026-10-15T18:56:46+00:00"
-      },
-      {
-        "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-        "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-        "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Savings of up to $200 end October 16 for TechCrunch Founder Summit . Compare challenges with another founder.",
-        "source": "TechCrunch",
-        "date": "2026-10-15T18:00:00+00:00"
-      },
-      {
-        "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
-        "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
-        "summary": "Disrupt doors open Oct. Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia. Under the expanded partnership, Volvo will combine its vehicle safety systems and engineering with Nvidia’s Hyperion sensor and compute architecture, Alpamayo driving software stack, and Halos safety evaluation layer.",
-        "source": "TechCrunch",
-        "date": "2026-10-15T17:34:40+00:00"
+        "date": "2026-10-16T14:00:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "The iPhone Duo is now available to preorder at $1,999",
-        "url": "https://www.theverge.com/gadgets/988582/apple-iphone-duo-preorder-buy-foldable",
-        "summary": "Here’s where you can preorder Apple’s first foldable phone, along with the carrier deals available so far. Here’s where you can preorder Apple’s first foldable phone, along with the carrier deals available so far. The iPhone Duo was unveiled during Apple’s “Surprise and shine” event alongside the iPhone 18 Pro and the Apple Watch Series 12 and Ultra 4 models.",
-        "source": "The Verge",
-        "date": "2026-10-16T12:00:00+00:00"
-      },
-      {
-        "title": "Surface Laptop Ultra review: a different kind of MacBook Pro",
-        "url": "https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review",
-        "summary": "Magnetic Connect is one of my favorite additions on the Surface Laptop Ultra. Not all of the Surface Laptop Ultra hardware is impressive, though. Where the Surface Laptop Ultra really falls behind Apple’s M5 chips is in CPU performance.",
-        "source": "The Verge",
-        "date": "2026-10-16T12:00:00+00:00"
-      },
-      {
-        "title": "Time is a-changin’: say goodbye to the leap second",
-        "url": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
-        "summary": "Plans to retire it in 2035 are being expedited to prevent potential havoc on tech infrastructure.﻿ Plans to retire it in 2035 are being expedited to prevent potential havoc on tech infrastructure.﻿ An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare. On Thursday, the International Bureau of Weights and Measures (BIPM) voted to…",
-        "source": "The Verge",
-        "date": "2026-10-16T10:00:25+00:00"
-      },
-      {
-        "title": "Tesla Roadster",
-        "url": "https://www.tesla.com/roadster",
-        "summary": "409 points, 605 comments on Hacker News",
+        "title": "Butlerian Jihad",
+        "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+        "summary": "246 points, 134 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-10-16T01:32:45+00:00"
+        "date": "2026-10-17T02:21:08+00:00"
       },
       {
-        "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-        "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
-        "summary": "The next-gen Roadster has been in development for nearly a decade. Elon Musk promised a flying car. And the Tesla Roadster did exactly that.",
+        "title": "All the news about the iPhone Duo",
+        "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+        "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo . Apple’s foldable phone is finally here — well, almost . Apple has just announced its first foldable iPhone, the iPhone Duo.",
         "source": "The Verge",
-        "date": "2026-10-16T01:28:27+00:00"
+        "date": "2026-10-16T23:36:26+00:00"
       },
       {
-        "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-        "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-        "summary": "The updated terms explicitly state that Meta can use the content it collects from associated websites to “train” Meta products. Meta declined to answer a list of questions about these updated terms. Meta’s new commercial terms come on the heels of the company’s rollout of its paid subscription service, Meta One . (345 points, 120 comments on Hacker News)",
+        "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+        "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+        "summary": "The terms more explicitly ban apps that create ‘nonconsensual intimate imagery.’﻿ The terms more explicitly ban apps that create ‘nonconsensual intimate imagery.’﻿ Apple’s App Store rules now more explicitly ban so-called “nudify” apps that generate intimate images of people without their consent using AI tools. At Apple’s WWDC event in June, protestors also called on Apple to “remove Grok, X, and all nudify…",
+        "source": "The Verge",
+        "date": "2026-10-16T22:51:22+00:00"
+      },
+      {
+        "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+        "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+        "summary": "Pablo Torre is playing the one-of-one album owned by Martin Shkreli, the feds, and now a crypto group called PleasrDAO. Pablo Torre is playing the one-of-one album owned by Martin Shkreli, the feds, and now a crypto group called PleasrDAO. Pablo Torre Finds Out, working with PleasrDAO, hosted a listening party for the album where they played it for Wu-Tang Clan member Method Man, who had never heard it up until that…",
+        "source": "The Verge",
+        "date": "2026-10-16T20:50:27+00:00"
+      },
+      {
+        "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+        "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+        "summary": "Video shows the crash that injured two CHP officers responding to an earlier incident on I-80.﻿ Video shows the crash that injured two CHP officers responding to an earlier incident on I-80.﻿ After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that “Despite its name, full self-driving is not fully autonomous. Technology does…",
+        "source": "The Verge",
+        "date": "2026-10-16T20:49:04+00:00"
+      },
+      {
+        "title": "I never authorized an integration that scans my secrets",
+        "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+        "summary": "Your passwords are never send out, never published. Thus closed as won't fix. Blogging my personal ramblings at frenck.dev (224 points, 195 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-15T23:37:42+00:00"
+        "date": "2026-10-16T20:33:41+00:00"
       },
       {
-        "title": "Steam can now show game achievements in separate ‘sets’",
-        "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
-        "summary": "Developers with games on Steam can split achievements from a base game and its DLC into sets with their own progress bars. Developers with games on Steam can split achievements from a base game and its DLC into sets with their own progress bars. Steam will support seasonal achievement sets that developers can archive, too.",
-        "source": "The Verge",
-        "date": "2026-10-15T23:18:28+00:00"
-      },
-      {
-        "title": "ChatGPT can peek at your Chrome tabs now",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-        "summary": "With the ChatGPT extension installed, it can pull information from your open tabs or bring the AI bot into the sidebar.﻿ With the ChatGPT extension installed, it can pull information from your open tabs or bring the AI bot into the sidebar.﻿ OpenAI’s ChatGPT Atlas browser is gone , but now ChatGPT’s Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the…",
-        "source": "The Verge",
-        "date": "2026-10-15T22:43:23+00:00"
-      },
-      {
-        "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-        "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-        "summary": "Total War: Shogun 2 — Complete Edition is being removed after users discovered bugs and upscaling that appears to have been done by AI. Total War: Shogun 2 — Complete Edition is being removed after users discovered bugs and upscaling that appears to have been done by AI. Sega is removing Total War: Shogun 2 — Complete Edition from storefronts following a disastrous launch where users complained about issues like…",
-        "source": "The Verge",
-        "date": "2026-10-15T22:35:55+00:00"
-      },
-      {
-        "title": "The tech backlash is now in theaters",
-        "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-        "summary": "Between The Social Reckoning , You Can See Everything , Musk , and Artificial , filmmakers are taking Big Tech to task. Between The Social Reckoning , You Can See Everything , Musk , and Artificial , filmmakers are taking Big Tech to task. Musk’s response to Gibney’s film has been telling.",
-        "source": "The Verge",
-        "date": "2026-10-15T21:39:52+00:00"
-      },
-      {
-        "title": "Trump posts AI-edited photo to brag about White House restoration work",
-        "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-        "summary": "A ‘before and after’ photo of a freshly painted White House column was modified with AI. A ‘before and after’ photo of a freshly painted White House column was modified with AI. The SynthID watermark wasn’t detected on other pictures Trump posted, which show the White House facade and heliport.",
-        "source": "The Verge",
-        "date": "2026-10-15T21:09:33+00:00"
-      },
-      {
-        "title": "What I self-host",
-        "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-        "summary": "Google Photos alternative. Self-hosted version of Bitwarden. Simple web application to download YouTube Music playlists. (533 points, 339 comments on Hacker News)",
+        "title": "How the Claude Code team does code review",
+        "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+        "summary": "Does anyone read code anymore? We didn't remove review. The public version, Code Review for Claude Code , is now generally available on Team and Enterprise plans, and /code-review runs a lighter version locally. (360 points, 333 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-15T20:23:25+00:00"
+        "date": "2026-10-16T19:04:47+00:00"
+      },
+      {
+        "title": "You could have invented transformers from memory",
+        "url": "https://alexwang.ai/posts/associative-memory/",
+        "summary": "What is the outer-product store’s capacity? Even below its capacity of about $d_k$ memories, the outer-product store produces significant interference during recall. This optimal memory store is still linear in the similarities though. (317 points, 74 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-16T19:01:17+00:00"
+      },
+      {
+        "title": "Claude reveals ECDSA curve origins",
+        "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+        "summary": "The prime-curve seeds came from the same lrand48 generator but kept fewer bits of each output. Five NIST prime-curve seeds plus five more from the ANSI X9.62 standard all had the same pattern: lrand48() >> 23. Also thanks to Filippo Valsorda for organizing the NIST Elliptic Curves Seeds Bounty. (890 points, 330 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-16T18:55:59+00:00"
+      },
+      {
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "url": "https://github.com/cobanov/PS5LM",
+        "summary": "Your PS5 runs the language model. Home, Models, Console, API and Settings on the TV. Ollaya runs open decision models on a PC the way Ollama runs language models. (299 points, 74 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-16T18:32:35+00:00"
+      },
+      {
+        "title": "Why Apple is finally making its own smart home devices",
+        "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+        "summary": "Apple’s new smart home lineup promises easier setup, tighter integration, and data privacy. Apple’s new smart home lineup promises easier setup, tighter integration, and data privacy. Does the Home Collection do anything other Apple Home devices can’t?",
+        "source": "The Verge",
+        "date": "2026-10-16T18:30:27+00:00"
+      },
+      {
+        "title": "Anthropic assigned highest junk credit rating in June",
+        "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+        "summary": "261 points, 80 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-10-16T18:11:42+00:00"
       }
     ]
   }
