@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T11:25:30.540728+00:00",
+  "generated_at": "2026-10-18T11:57:34.904902+00:00",
   "sections": {
     "research": [
       {
@@ -103,16 +103,16 @@
         "date": "2026-10-16T18:11:34+00:00"
       },
       {
-        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-        "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+        "title": "Benefit Street Partners answers questions faster with Codex",
+        "url": "https://openai.com/index/benefit-street-partners",
+        "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
         "source": "OpenAI",
         "date": "2026-10-16T00:00:00+00:00"
       },
       {
-        "title": "Benefit Street Partners answers questions faster with Codex",
-        "url": "https://openai.com/index/benefit-street-partners",
-        "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+        "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
         "source": "OpenAI",
         "date": "2026-10-16T00:00:00+00:00"
       },
@@ -122,13 +122,6 @@
         "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
         "source": "OpenAI",
         "date": "2026-10-15T19:00:00+00:00"
-      },
-      {
-        "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-        "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-        "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-        "source": "Google DeepMind",
-        "date": "2026-10-15T16:08:03+00:00"
       },
       {
         "title": "Teaching students to think and learn through questions",
@@ -171,22 +164,57 @@
         "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
         "source": "OpenAI",
         "date": "2026-10-14T12:00:00+00:00"
+      },
+      {
+        "title": "SentinelOne cuts malware analysis from weeks to hours",
+        "url": "https://openai.com/index/sentinelone",
+        "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+        "source": "OpenAI",
+        "date": "2026-10-14T12:00:00+00:00"
       }
     ],
     "startups": [
+      {
+        "title": "Meta removes language that raised scraping and AI training concerns",
+        "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+        "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Disrupt doors open Oct. Last day to save Oct.",
+        "source": "TechCrunch",
+        "date": "2026-10-17T21:31:32+00:00"
+      },
+      {
+        "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+        "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+        "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Disrupt doors open Oct. Last day to save Oct.",
+        "source": "TechCrunch",
+        "date": "2026-10-17T20:55:52+00:00"
+      },
+      {
+        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+        "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Disrupt doors open Oct. Last day to save Oct.",
+        "source": "TechCrunch",
+        "date": "2026-10-17T20:21:19+00:00"
+      },
+      {
+        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "summary": "Disrupt doors open Oct. Prior to striking a deal with OpenAI, Replit relied on Anthropic’s Claude models to run its platform. “Replit remains model agnostic,” Masad told TechCrunch over the weekend.",
+        "source": "TechCrunch",
+        "date": "2026-10-17T18:48:08+00:00"
+      },
+      {
+        "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+        "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+        "summary": "Enter Ember’s new Mug 3 , the latest version of the company’s temperature-controlled smart mug, which is designed to keep your drink at just the right temperature for as long as you sip. Ember recommends 136 degrees Fahrenheit for black coffee, 132 degrees for green tea, and 142 degrees for lemon water. Alongside the new mug, Ember also introduced the Tumbler 2 , which replaces both the Travel Mug 2 and the original…",
+        "source": "TechCrunch",
+        "date": "2026-10-17T15:30:00+00:00"
+      },
       {
         "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
         "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
         "summary": "Disrupt doors open Oct. Wahlberg’s last big bet on a gym chain might have scared off someone else. Last day to save Oct.",
         "source": "TechCrunch",
         "date": "2026-10-17T02:36:18+00:00"
-      },
-      {
-        "title": "Replit is no longer working with Anthropic, CEO says",
-        "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-        "summary": "Disrupt doors open Oct. “So that habitat has good orchestration, good error recovery, good safety and security and sandboxing, good networking, good identity and authorization. Last day to save Oct.",
-        "source": "TechCrunch",
-        "date": "2026-10-16T21:22:28+00:00"
       },
       {
         "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
@@ -229,120 +257,92 @@
         "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Disrupt doors open Oct. Last day to save Oct.",
         "source": "TechCrunch",
         "date": "2026-10-16T16:00:00+00:00"
-      },
-      {
-        "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-        "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
-        "summary": "“I never actually made that connection,” says Holmes. In other words, Seyfried is watching Holmes react to Seyfried’s portrayal of Holmes, who was probably also playing a character herself. Evans knows that Fielder and Oppenheim are not convinced of Holmes’ innocence.",
-        "source": "TechCrunch",
-        "date": "2026-10-16T16:00:00+00:00"
-      },
-      {
-        "title": "Jev is Vercel’s fastest-adopted AI model ever",
-        "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-        "summary": "Disrupt doors open Oct. Save 50% off a second pass. Last day to save Oct.",
-        "source": "TechCrunch",
-        "date": "2026-10-16T15:33:49+00:00"
-      },
-      {
-        "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-        "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-        "summary": "Disrupt doors open Oct. “I’ve done big, effects-driven movies,” Wahlberg said. Last day to save Oct.",
-        "source": "TechCrunch",
-        "date": "2026-10-16T14:26:51+00:00"
-      },
-      {
-        "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-        "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-        "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Disrupt doors open Oct. Last day to save Oct.",
-        "source": "TechCrunch",
-        "date": "2026-10-16T14:00:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Butlerian Jihad",
-        "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-        "summary": "246 points, 134 comments on Hacker News",
+        "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
+        "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
+        "summary": "504 points, 300 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-10-17T02:21:08+00:00"
+        "date": "2026-10-18T01:18:50+00:00"
       },
       {
-        "title": "All the news about the iPhone Duo",
-        "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-        "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo . Apple’s foldable phone is finally here — well, almost . Apple has just announced its first foldable iPhone, the iPhone Duo.",
+        "title": "NY announces game ownership bill requiring ownership rather than licensing",
+        "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+        "summary": "Expert insights and analysis delivered to your inbox. Expert insights and analysis delivered to your inbox. Overwatch 2’s release also killed the first Overwatch game, replacing it outright instead of the first game becoming a purchasable and separately playable game. (323 points, 118 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-18T00:14:22+00:00"
+      },
+      {
+        "title": "TikTok bans Musk documentary account",
+        "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+        "summary": "Larry Ellison’s TikTok has shut down the promotional account for Alex Gibney’s Elon Musk documentary. Larry Ellison’s TikTok has shut down the promotional account for Alex Gibney’s Elon Musk documentary. Just ahead of the wider release of Alex Gibney’s Musk documentary, TikTok has banned the film’s social media account from its platform.",
         "source": "The Verge",
-        "date": "2026-10-16T23:36:26+00:00"
+        "date": "2026-10-17T19:32:23+00:00"
       },
       {
-        "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
-        "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-        "summary": "The terms more explicitly ban apps that create ‘nonconsensual intimate imagery.’﻿ The terms more explicitly ban apps that create ‘nonconsensual intimate imagery.’﻿ Apple’s App Store rules now more explicitly ban so-called “nudify” apps that generate intimate images of people without their consent using AI tools. At Apple’s WWDC event in June, protestors also called on Apple to “remove Grok, X, and all nudify…",
+        "title": "OpenCode Hacked: User credentials leaked",
+        "url": "https://twitter.com/opencode/status/2111516673953935833",
+        "summary": "878 points, 164 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-10-17T18:01:41+00:00"
+      },
+      {
+        "title": "Gold is now the top U.S. export",
+        "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+        "summary": "Starting in October 2025, the value of gold exports has topped all other categories almost every month. As a result, pre-1834 U.S. gold coins contained a higher value of gold than their face value. In 1834, the U.S. government reduced the gold content in coins to match the face value to the international value of the gold they contained. (347 points, 191 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-17T17:06:07+00:00"
+      },
+      {
+        "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+        "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+        "summary": "It may even out-muscle the Porsche Cayenne Turbo Electric and Lucid Gravity. It may even out-muscle the Porsche Cayenne Turbo Electric and Lucid Gravity. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler.",
         "source": "The Verge",
-        "date": "2026-10-16T22:51:22+00:00"
+        "date": "2026-10-17T17:00:00+00:00"
       },
       {
-        "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
-        "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
-        "summary": "Pablo Torre is playing the one-of-one album owned by Martin Shkreli, the feds, and now a crypto group called PleasrDAO. Pablo Torre is playing the one-of-one album owned by Martin Shkreli, the feds, and now a crypto group called PleasrDAO. Pablo Torre Finds Out, working with PleasrDAO, hosted a listening party for the album where they played it for Wu-Tang Clan member Method Man, who had never heard it up until that…",
+        "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+        "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+        "summary": "Plaintiffs claiming Musk’s $1 million voter lottery was a fraud are settling for an undisclosed sum. Plaintiffs claiming Musk’s $1 million voter lottery was a fraud are settling for an undisclosed sum. Philadelphia’s District Attorney sued to stop the giveaway , claiming that Musk was running an illegal lottery.",
         "source": "The Verge",
-        "date": "2026-10-16T20:50:27+00:00"
+        "date": "2026-10-17T16:39:44+00:00"
       },
       {
-        "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
-        "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
-        "summary": "Video shows the crash that injured two CHP officers responding to an earlier incident on I-80.﻿ Video shows the crash that injured two CHP officers responding to an earlier incident on I-80.﻿ After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that “Despite its name, full self-driving is not fully autonomous. Technology does…",
+        "title": "Pele – Mermaid diagrams as themeable SVG",
+        "url": "https://pele.run/",
+        "summary": "460 points, 41 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-10-17T15:55:09+00:00"
+      },
+      {
+        "title": "Meta removes language that may have allowed it to scrape news sites",
+        "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+        "summary": "Language that experts say allowed the scraping of news sites to train its AI has been removed from Meta’s terms. Language that experts say allowed the scraping of news sites to train its AI has been removed from Meta’s terms. After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI.",
         "source": "The Verge",
-        "date": "2026-10-16T20:49:04+00:00"
+        "date": "2026-10-17T15:04:36+00:00"
       },
       {
-        "title": "I never authorized an integration that scans my secrets",
-        "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
-        "summary": "Your passwords are never send out, never published. Thus closed as won't fix. Blogging my personal ramblings at frenck.dev (224 points, 195 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-16T20:33:41+00:00"
-      },
-      {
-        "title": "How the Claude Code team does code review",
-        "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-        "summary": "Does anyone read code anymore? We didn't remove review. The public version, Code Review for Claude Code , is now generally available on Team and Enterprise plans, and /code-review runs a lighter version locally. (360 points, 333 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-16T19:04:47+00:00"
-      },
-      {
-        "title": "You could have invented transformers from memory",
-        "url": "https://alexwang.ai/posts/associative-memory/",
-        "summary": "What is the outer-product store’s capacity? Even below its capacity of about $d_k$ memories, the outer-product store produces significant interference during recall. This optimal memory store is still linear in the similarities though. (317 points, 74 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-16T19:01:17+00:00"
-      },
-      {
-        "title": "Claude reveals ECDSA curve origins",
-        "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-        "summary": "The prime-curve seeds came from the same lrand48 generator but kept fewer bits of each output. Five NIST prime-curve seeds plus five more from the ANSI X9.62 standard all had the same pattern: lrand48() >> 23. Also thanks to Filippo Valsorda for organizing the NIST Elliptic Curves Seeds Bounty. (890 points, 330 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-16T18:55:59+00:00"
-      },
-      {
-        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-        "url": "https://github.com/cobanov/PS5LM",
-        "summary": "Your PS5 runs the language model. Home, Models, Console, API and Settings on the TV. Ollaya runs open decision models on a PC the way Ollama runs language models. (299 points, 74 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-16T18:32:35+00:00"
-      },
-      {
-        "title": "Why Apple is finally making its own smart home devices",
-        "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-        "summary": "Apple’s new smart home lineup promises easier setup, tighter integration, and data privacy. Apple’s new smart home lineup promises easier setup, tighter integration, and data privacy. Does the Home Collection do anything other Apple Home devices can’t?",
+        "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
+        "url": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
+        "summary": "The base game is only $40, and the upgrade to the Switch 2 Edition will only cost $10, saving you $20 total. The base game is only $40, and the upgrade to the Switch 2 Edition will only cost $10, saving you $20 total. Nintendo recently announced a Switch 2 version of Pikmin 4 will launch on November 12th, 2026.",
         "source": "The Verge",
-        "date": "2026-10-16T18:30:27+00:00"
+        "date": "2026-10-17T15:00:00+00:00"
       },
       {
-        "title": "Anthropic assigned highest junk credit rating in June",
-        "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-        "summary": "261 points, 80 comments on Hacker News",
+        "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
+        "url": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
+        "summary": "The Radiolab creator and host of Dolly Parton’s America answers The Verge’s weekend questionnaire. When was the last time you went somewhere without your phone? I go places without my phone all the time.",
+        "source": "The Verge",
+        "date": "2026-10-17T14:30:00+00:00"
+      },
+      {
+        "title": "Solar surpasses nuclear power globally for first time",
+        "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+        "summary": "The World Nuclear Industry Status Report (WNISR) 2026 , overseen by French nuclear energy consultant Mycle Schneider , shows that wind power alone surpassed nuclear generation on a monthly basis in March 2025, followed by solar in April – the first time global monthly solar generation exceeded nuclear output. Outside China, nuclear generation declined by 0.2% and remained well below its 2006 level. Long construction… (628 points, 397 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-16T18:11:42+00:00"
+        "date": "2026-10-17T14:01:01+00:00"
       }
     ]
   }
