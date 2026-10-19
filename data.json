@@ -1,90 +1,90 @@
 {
-  "generated_at": "2026-10-18T11:57:34.904902+00:00",
+  "generated_at": "2026-10-19T14:23:30.262111+00:00",
   "sections": {
     "research": [
       {
-        "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
-        "url": "https://arxiv.org/abs/2610.22372v1",
-        "summary": "Zhixu Li, Keqian Tang, Litian Gong et al. — Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic…",
+        "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
+        "url": "https://arxiv.org/abs/2610.23854v1",
+        "summary": "Soumik Mukhopadhyay, Long Mai, Abhinav Shrivastava et al. — Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion…",
         "source": "arXiv",
-        "date": "2026-10-15T17:59:59Z"
+        "date": "2026-10-16T17:59:30Z"
       },
       {
-        "title": "Discovering state-of-the-art quantum circuits with large language models",
-        "url": "https://arxiv.org/abs/2610.22367v1",
-        "summary": "Andi Gu, Alek H. Kemeny, Susanne F. Yelin et al. — Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum…",
+        "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
+        "url": "https://arxiv.org/abs/2610.23847v1",
+        "summary": "Dongyoon Hahm, Woogyeol Jin, Dennis Wei et al. — Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code…",
         "source": "arXiv",
-        "date": "2026-10-15T17:59:20Z"
+        "date": "2026-10-16T17:58:08Z"
       },
       {
-        "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
-        "url": "https://arxiv.org/abs/2610.22364v1",
-        "summary": "Chenyuan Zhou, Yining Hong, Huang Huang et al. — Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties…",
+        "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+        "url": "https://arxiv.org/abs/2610.23845v1",
+        "summary": "Shicheng Liu, Krista Opsahl-Ong, Andrew Drozdov et al. — Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate…",
         "source": "arXiv",
-        "date": "2026-10-15T17:59:11Z"
+        "date": "2026-10-16T17:57:55Z"
       },
       {
-        "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
-        "url": "https://arxiv.org/abs/2610.22362v1",
-        "summary": "Tianjiao Yu, Zhilin Ou, Yifan Shen et al. — Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy's failures…",
+        "title": "DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses",
+        "url": "https://arxiv.org/abs/2610.23839v1",
+        "summary": "Jianyuan Zhong, Chenwei Wu, Zhaochen Yu et al. — Scientific discovery requires developing worthwhile hypotheses into practical investigations, yet learning from this evolving research process remains challenging. We introduce an operational definition of valuable and…",
         "source": "arXiv",
-        "date": "2026-10-15T17:59:02Z"
+        "date": "2026-10-16T17:56:35Z"
       },
       {
-        "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
-        "url": "https://arxiv.org/abs/2610.22358v1",
-        "summary": "Jiachen Yao, Xiyuan Zhang, Annan Yu et al. — Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future trajectories…",
+        "title": "Task-aligned spectral inductive biases in parameterized quantum circuits",
+        "url": "https://arxiv.org/abs/2610.23834v1",
+        "summary": "Felix Frohnert, Adrián Pérez-Salinas, Sebastian Lange et al. — Parameterized quantum circuits are widely investigated in quantum machine learning, yet how their architecture can provide task-aligned inductive biases remains poorly understood. We study data reuploading quantum…",
         "source": "arXiv",
-        "date": "2026-10-15T17:58:45Z"
+        "date": "2026-10-16T17:53:19Z"
       },
       {
-        "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
-        "url": "https://arxiv.org/abs/2610.22355v1",
-        "summary": "Bowei Liu, Xinchen Zhang, Xuhuan Li et al. — Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requirements, we move beyond…",
+        "title": "Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation",
+        "url": "https://arxiv.org/abs/2610.23831v1",
+        "summary": "Shaoang Li, Yanhang Shi, Yufei Li et al. — A reasoning trace can accompany a correct answer without providing effective supervision for a particular student. We study how to construct traces that improve learning beyond answer-only supervision by considering…",
         "source": "arXiv",
-        "date": "2026-10-15T17:58:04Z"
+        "date": "2026-10-16T17:52:58Z"
       },
       {
-        "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
-        "url": "https://arxiv.org/abs/2610.22353v1",
-        "summary": "Bingcong Li, Hao Ma, Michael Muehlebach et al. — Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and shared experts.",
+        "title": "Waiting Buys Exactly Two Moments: Endogenous Identification in Prediction-Driven Allocation",
+        "url": "https://arxiv.org/abs/2610.23830v1",
+        "summary": "Rama AlHamidi, Rasul Khanbayov, Erchin Serpedin et al. — A planner with a fixed budget of preventive help must decide whom to help and when. Waiting reveals risk but removes intervention opportunities as higher-risk individuals leave first.",
         "source": "arXiv",
-        "date": "2026-10-15T17:58:02Z"
+        "date": "2026-10-16T17:52:57Z"
       },
       {
-        "title": "FDE-Gym: The Last Mile of AI Delivery",
-        "url": "https://arxiv.org/abs/2610.22350v1",
-        "summary": "Dongxu Yang, Hongda Yan, Renxin Wang et al. — Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engineers (FDEs) must…",
+        "title": "Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn?",
+        "url": "https://arxiv.org/abs/2610.23827v1",
+        "summary": "Anis Bekri, Amar Abane, Van Sy Mai et al. — Future quantum networks will rely on control-plane decisions such as routing, scheduling, entanglement provisioning, purification, and memory allocation. Each decision depends on a timely and reliable estimate of the…",
         "source": "arXiv",
-        "date": "2026-10-15T17:57:23Z"
+        "date": "2026-10-16T17:49:43Z"
       },
       {
-        "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
-        "url": "https://arxiv.org/abs/2610.22344v1",
-        "summary": "Shangheng Du, Jinxin Shi, Shuaiyu Zhang et al. — Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recursive…",
+        "title": "Self-Building Labs",
+        "url": "https://arxiv.org/abs/2610.23826v1",
+        "summary": "Jiaru Bai, Yuchi Zhao, Han Hao et al. — Self-driving laboratories (SDLs) accelerate scientific discovery by automating experimental execution and optimization. AI agents can increasingly propose new experiments, but existing SDLs can only run the procedures…",
         "source": "arXiv",
-        "date": "2026-10-15T17:56:32Z"
+        "date": "2026-10-16T17:48:29Z"
       },
       {
-        "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
-        "url": "https://arxiv.org/abs/2610.22343v1",
-        "summary": "Hongchang Liu, Jian Liu, Yujuan Ding et al. — Recent 3D world models increasingly use features from geometry foundation models (GFMs) as predictive world states, benefiting from their rich geometric priors. However, the view dependence of these features entangles…",
+        "title": "ENFR: Evidence Networks with Flow-Matched References for Amortized Simulation-Based Model Inference",
+        "url": "https://arxiv.org/abs/2610.23825v1",
+        "summary": "Kai Lehman, Jameson Dong, Carolina Cuesta-Lazaro et al. — The evidence, $\\mathcal{Z} = p(x | \\mathcal{M})$, of a data-generating model $\\mathcal{M}$ is a powerful tool in Bayesian frameworks: it enables model inference, model misspecification tests, and goodness-of-fit…",
         "source": "arXiv",
-        "date": "2026-10-15T17:56:18Z"
+        "date": "2026-10-16T17:48:26Z"
       },
       {
-        "title": "3DCodeVerse: Exploring 3D Worlds as Code",
-        "url": "https://arxiv.org/abs/2610.22341v1",
-        "summary": "Yipeng Gao, Ziyao Zeng, Jinfa Huang et al. — We introduce 3DCodeVerse, a research ecosystem that enables coding agents to create editable and verifiable 3D content at scale. 3DCodeVerse comprises large-scale, high-quality datasets of executable 3D code, a coding…",
+        "title": "Learning without relearning physical symmetry: an SO(3)-equivariant convolutional network (CNN) on the sphere",
+        "url": "https://arxiv.org/abs/2610.23821v1",
+        "summary": "Joshua Williamson, Niall Jeffrey, Lorne Whiteway — Many of the most important datasets in the physical sciences live natively on the sphere, and these data often carry no preferred position or orientation. Using methods that do not reflect this symmetry leads to far…",
         "source": "arXiv",
-        "date": "2026-10-15T17:56:07Z"
+        "date": "2026-10-16T17:45:43Z"
       },
       {
-        "title": "Dexterity from Supervised Play",
-        "url": "https://arxiv.org/abs/2610.22340v1",
-        "summary": "Botao He, Yiming Dou, Yiannis Aloimonos et al. — How can robots autonomously collect the contact-rich experience needed to learn dexterous manipulation? We present DSP: Dexterity from supervised play, a framework in which a robot learns a play policy from minutes of…",
+        "title": "CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2610.23820v1",
+        "summary": "Tianmeng Hu, Biao Luo, Ke Li — Designing RNA sequences that reliably fold into specific secondary structures is essential for understanding their biological functions but remains a challenging computational problem. We propose CocoRNA, a cooperative…",
         "source": "arXiv",
-        "date": "2026-10-15T17:55:50Z"
+        "date": "2026-10-16T17:43:25Z"
       }
     ],
     "labs": [
@@ -122,6 +122,13 @@
         "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
         "source": "OpenAI",
         "date": "2026-10-15T19:00:00+00:00"
+      },
+      {
+        "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+        "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+        "summary": "This allows the model to predict biological function directly from raw protein sequences, enriching millions of previously unnamed UniProt entries with high-confidence functional labels. The researcher steers the analysis towards structural evidence. Using Google Antigravity allows researchers to navigate the vast biological search space efficiently while leveraging accurate protein function predictions from a…",
+        "source": "Google DeepMind",
+        "date": "2026-10-15T16:08:03+00:00"
       },
       {
         "title": "Teaching students to think and learn through questions",
@@ -164,16 +171,65 @@
         "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
         "source": "OpenAI",
         "date": "2026-10-14T12:00:00+00:00"
-      },
-      {
-        "title": "SentinelOne cuts malware analysis from weeks to hours",
-        "url": "https://openai.com/index/sentinelone",
-        "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-        "source": "OpenAI",
-        "date": "2026-10-14T12:00:00+00:00"
       }
     ],
     "startups": [
+      {
+        "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+        "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+        "summary": "Apple tightened its developer guidelines over the weekend to ban apps that use AI to create offensive content, as well as those that masquerade as regular apps to pass the App Store review process and then turn into nudify apps, or surface those features prominently. “Apps that host user-generated content are required to filter objectionable material, give users a way to report offensive content, and let users block…",
+        "source": "TechCrunch",
+        "date": "2026-10-19T12:56:14+00:00"
+      },
+      {
+        "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+        "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+        "summary": "Musk owns around 849 million Class A common shares of SpaceX, and more than 5.5 billion Class B supervoting shares. Musk’s philanthropic giving to date has been almost exclusively done through his own Musk Foundation. Last day to save Oct.",
+        "source": "TechCrunch",
+        "date": "2026-10-19T12:42:55+00:00"
+      },
+      {
+        "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+        "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+        "summary": "Most of Even’s revenue comes from patients paying for treatment, Banerjee said. Banerjee told TechCrunch that Even tracks how patients recover after treatment using established medical scoring systems. Even is still losing money, though.",
+        "source": "TechCrunch",
+        "date": "2026-10-19T07:30:00+00:00"
+      },
+      {
+        "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+        "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+        "summary": "Ev, you joined Benchmark late last year. Altman: I actually don’t know. Puttagunta: I think the pace is consistent.",
+        "source": "TechCrunch",
+        "date": "2026-10-18T21:00:00+00:00"
+      },
+      {
+        "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+        "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+        "summary": "Disrupt doors open Oct. Save 50% off a second pass. Last day to save Oct.",
+        "source": "TechCrunch",
+        "date": "2026-10-18T20:37:40+00:00"
+      },
+      {
+        "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+        "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+        "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Anthony Ha is TechCrunch’s weekend editor. Last day to save Oct.",
+        "source": "TechCrunch",
+        "date": "2026-10-18T19:03:38+00:00"
+      },
+      {
+        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+        "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+        "summary": "Disrupt doors open Oct. Save 50% off a second pass. Last day to save Oct.",
+        "source": "TechCrunch",
+        "date": "2026-10-18T16:30:00+00:00"
+      },
+      {
+        "title": "TechCrunch Mobility: Rivian’s next act",
+        "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+        "summary": "Disrupt doors open Oct. As I wrapped my TechCrunch Disrupt interview with Rivian CEO and founder RJ Scaringe , I kept circling back to one question: What does Scaringe want Rivian to become? Waabi , a startup developing self-driving trucks, landed a commercial partnership with carrier Warrior Logistics.",
+        "source": "TechCrunch",
+        "date": "2026-10-18T16:05:00+00:00"
+      },
       {
         "title": "Meta removes language that raised scraping and AI training concerns",
         "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
@@ -182,7 +238,7 @@
         "date": "2026-10-17T21:31:32+00:00"
       },
       {
-        "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+        "title": "TikTok says it’s restored ‘Musk’ documentary advertising account",
         "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
         "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Disrupt doors open Oct. Last day to save Oct.",
         "source": "TechCrunch",
@@ -191,158 +247,102 @@
       {
         "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
         "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-        "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Disrupt doors open Oct. Last day to save Oct.",
+        "summary": "Disrupt doors open Oct. Notably, Anthropic is making fewer junior hires, with the proportion of junior-level employees in technical departments falling from 21% to 14% since early 2025, and the proportion of junior technical hires falling even more sharply, from 27% to 9%. Last day to save Oct.",
         "source": "TechCrunch",
         "date": "2026-10-17T20:21:19+00:00"
       },
       {
         "title": "Replit makes OpenAI its default over Anthropic, CEO says",
         "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-        "summary": "Disrupt doors open Oct. Prior to striking a deal with OpenAI, Replit relied on Anthropic’s Claude models to run its platform. “Replit remains model agnostic,” Masad told TechCrunch over the weekend.",
+        "summary": "Prior to striking a deal with OpenAI, Replit relied on Anthropic’s Claude models to run its platform. “Replit remains model agnostic,” Masad told TechCrunch over the weekend. It has been updated to include more context around Replit’s partnerships with Anthropic and OpenAI.",
         "source": "TechCrunch",
         "date": "2026-10-17T18:48:08+00:00"
-      },
-      {
-        "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-        "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
-        "summary": "Enter Ember’s new Mug 3 , the latest version of the company’s temperature-controlled smart mug, which is designed to keep your drink at just the right temperature for as long as you sip. Ember recommends 136 degrees Fahrenheit for black coffee, 132 degrees for green tea, and 142 degrees for lemon water. Alongside the new mug, Ember also introduced the Tumbler 2 , which replaces both the Travel Mug 2 and the original…",
-        "source": "TechCrunch",
-        "date": "2026-10-17T15:30:00+00:00"
-      },
-      {
-        "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-        "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-        "summary": "Disrupt doors open Oct. Wahlberg’s last big bet on a gym chain might have scared off someone else. Last day to save Oct.",
-        "source": "TechCrunch",
-        "date": "2026-10-17T02:36:18+00:00"
-      },
-      {
-        "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-        "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-        "summary": "The 2026 Porsche Macan Turbo simply blended in, leaving in its wake a raft of existential questions. The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery. I’ll take a Porsche Macan Turbo for $150,000, Alex.",
-        "source": "TechCrunch",
-        "date": "2026-10-16T19:40:00+00:00"
-      },
-      {
-        "title": "India becomes the latest country to report rogue AI agent activity",
-        "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-        "summary": "Disrupt doors open Oct. AI agents from multiple providers accessed personal data and confidential material at Indian organizations during research and testing, India’s cybersecurity agency said Thursday. Last day to save Oct.",
-        "source": "TechCrunch",
-        "date": "2026-10-16T17:52:24+00:00"
-      },
-      {
-        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-        "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-        "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. You can contact or verify outreach from Theresa by emailing [email protected] . Last day to save Oct.",
-        "source": "TechCrunch",
-        "date": "2026-10-16T16:30:00+00:00"
-      },
-      {
-        "title": "Waymo’s robotaxis are headed to Canada",
-        "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-        "summary": "Disrupt doors open Oct. Save 50% off a second pass. Last day to save Oct.",
-        "source": "TechCrunch",
-        "date": "2026-10-16T16:06:38+00:00"
-      },
-      {
-        "title": "Elorian’s first AI model wants to reason with images, not just about them",
-        "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-        "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Next year, Dai said, the company aims to build “the world’s best visual reasoning model,” one that leads on every visual reasoning test. Last day to save Oct.",
-        "source": "TechCrunch",
-        "date": "2026-10-16T16:01:37+00:00"
-      },
-      {
-        "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-        "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-        "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Disrupt doors open Oct. Last day to save Oct.",
-        "source": "TechCrunch",
-        "date": "2026-10-16T16:00:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
-        "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
-        "summary": "504 points, 300 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-10-18T01:18:50+00:00"
-      },
-      {
-        "title": "NY announces game ownership bill requiring ownership rather than licensing",
-        "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-        "summary": "Expert insights and analysis delivered to your inbox. Expert insights and analysis delivered to your inbox. Overwatch 2’s release also killed the first Overwatch game, replacing it outright instead of the first game becoming a purchasable and separately playable game. (323 points, 118 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-18T00:14:22+00:00"
-      },
-      {
-        "title": "TikTok bans Musk documentary account",
-        "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-        "summary": "Larry Ellison’s TikTok has shut down the promotional account for Alex Gibney’s Elon Musk documentary. Larry Ellison’s TikTok has shut down the promotional account for Alex Gibney’s Elon Musk documentary. Just ahead of the wider release of Alex Gibney’s Musk documentary, TikTok has banned the film’s social media account from its platform.",
+        "title": "It’s hard to imagine wireless headphones ever getting lighter than these",
+        "url": "https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
+        "summary": "The Final Porta weigh just 40 grams and offer up to eight hours of battery life.﻿ The Final Porta weigh just 40 grams and offer up to eight hours of battery life.﻿ If you buy something from a link, The Verge may earn a commission. Final’s new Porta headphones feature an on-ear design supported by a headband but with a structure made from a single piece of wire so they weigh just 40 grams. Sporting a design that…",
         "source": "The Verge",
-        "date": "2026-10-17T19:32:23+00:00"
+        "date": "2026-10-19T14:03:28+00:00"
       },
       {
-        "title": "OpenCode Hacked: User credentials leaked",
-        "url": "https://twitter.com/opencode/status/2111516673953935833",
-        "summary": "878 points, 164 comments on Hacker News",
+        "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+        "summary": "The AI agents carried out the attacks with little involvement from the human hacker. The AI agents carried out the attacks with little involvement from the human hacker. Though Norforge doesn’t name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
+        "source": "The Verge",
+        "date": "2026-10-19T13:58:41+00:00"
+      },
+      {
+        "title": "Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level",
+        "url": "https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display",
+        "summary": "The $149 Wyze Scale Ultra BodyScan Plus doesn’t need a subscription to sync your data to your preferred app.﻿ The $149 Wyze Scale Ultra BodyScan Plus doesn’t need a subscription to sync your data to your preferred app.﻿ If you buy something from a link, The Verge may earn a commission. Wyze announced a new version of its Ultra BodyScan smart scale that debuted nearly a year ago with additional electrodes on a…",
+        "source": "The Verge",
+        "date": "2026-10-19T13:00:00+00:00"
+      },
+      {
+        "title": "Vibe coding is turning the music gear world upside down",
+        "url": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
+        "summary": "LLMs have led to an explosion of custom firmware and hacks for synths, samplers, and grooveboxes. Generally, the gear that has benefited from this surge of vibe-coded custom firmware is older or more affordable. Elektron banned links to custom firmware from their forums.",
+        "source": "The Verge",
+        "date": "2026-10-19T12:30:00+00:00"
+      },
+      {
+        "title": "Democrats think cracking down on AI could give them an edge",
+        "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+        "summary": "At a moment when voters are fearful of AI, Democrats are finding their footing. “At a certain point, voters speak louder than money,” Flaherty says. But Flaherty warns that Democrats risk giving up ground if they fail to take big enough swings.",
+        "source": "The Verge",
+        "date": "2026-10-19T12:00:00+00:00"
+      },
+      {
+        "title": "The Maeving RM2 is high-style electric riding with a few compromises",
+        "url": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
+        "summary": "It’s ultra-smooth and looks fantastic, but a few rough edges keep it from greatness﻿ It’s ultra-smooth and looks fantastic, but a few rough edges keep it from greatness﻿ There’s a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. The RM2 features a 15-horsepower,…",
+        "source": "The Verge",
+        "date": "2026-10-19T11:00:00+00:00"
+      },
+      {
+        "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+        "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+        "summary": "Harpe acknowledged giving him her Savannah Police Department username and password. However, audio from interview between Savannah Police and the husband identifies him Tyler Harpe, a federal ICE agent. In her appeal, Harpe said her husband was a certified federal law enforcement officer and that every search was conducted for law enforcement purposes. (472 points, 222 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-17T18:01:41+00:00"
+        "date": "2026-10-19T10:45:14+00:00"
       },
       {
-        "title": "Gold is now the top U.S. export",
-        "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-        "summary": "Starting in October 2025, the value of gold exports has topped all other categories almost every month. As a result, pre-1834 U.S. gold coins contained a higher value of gold than their face value. In 1834, the U.S. government reduced the gold content in coins to match the face value to the international value of the gold they contained. (347 points, 191 comments on Hacker News)",
+        "title": "Linux 7.3 Released",
+        "url": "https://lwn.net/Articles/1101143/",
+        "summary": "See the LWN merge-window summaries ( part 1 , part 2 ) and the KernelNewbies 7.3 page for details. See the LWN merge-window summaries ( part 1 , part 2 ) and the KernelNewbies 7.3 page for details. See the LWN merge-window summaries ( part 1 , part 2 ) and the KernelNewbies 7.3 page for details. (405 points, 182 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-17T17:06:07+00:00"
+        "date": "2026-10-19T07:23:57+00:00"
       },
       {
-        "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-        "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
-        "summary": "It may even out-muscle the Porsche Cayenne Turbo Electric and Lucid Gravity. It may even out-muscle the Porsche Cayenne Turbo Electric and Lucid Gravity. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler.",
-        "source": "The Verge",
-        "date": "2026-10-17T17:00:00+00:00"
-      },
-      {
-        "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
-        "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
-        "summary": "Plaintiffs claiming Musk’s $1 million voter lottery was a fraud are settling for an undisclosed sum. Plaintiffs claiming Musk’s $1 million voter lottery was a fraud are settling for an undisclosed sum. Philadelphia’s District Attorney sued to stop the giveaway , claiming that Musk was running an illegal lottery.",
-        "source": "The Verge",
-        "date": "2026-10-17T16:39:44+00:00"
-      },
-      {
-        "title": "Pele – Mermaid diagrams as themeable SVG",
-        "url": "https://pele.run/",
-        "summary": "460 points, 41 comments on Hacker News",
+        "title": "William Gibson and the trademarking of cyberspace",
+        "url": "https://colo.to/cyberspace.html",
+        "summary": "Timothy, who appears in a samizdat Autodesk virtual reality video , nicknamed our VR lab “Cyberia”. So: Autodesk did apply to register Cyberspace, and Gibson really did object. But Gibson trying to trademark Eric Gullichsen was Timothy Leary's prank, propagated until it became accepted history. (231 points, 109 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-17T15:55:09+00:00"
+        "date": "2026-10-18T23:37:57+00:00"
       },
       {
-        "title": "Meta removes language that may have allowed it to scrape news sites",
-        "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-        "summary": "Language that experts say allowed the scraping of news sites to train its AI has been removed from Meta’s terms. Language that experts say allowed the scraping of news sites to train its AI has been removed from Meta’s terms. After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI.",
+        "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+        "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+        "summary": "SPD officer Amber Harpe was fired for sharing her Flock access with her ICE agent husband. SPD officer Amber Harpe was fired for sharing her Flock access with her ICE agent husband. Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent.",
         "source": "The Verge",
-        "date": "2026-10-17T15:04:36+00:00"
+        "date": "2026-10-18T22:20:53+00:00"
       },
       {
-        "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
-        "url": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
-        "summary": "The base game is only $40, and the upgrade to the Switch 2 Edition will only cost $10, saving you $20 total. The base game is only $40, and the upgrade to the Switch 2 Edition will only cost $10, saving you $20 total. Nintendo recently announced a Switch 2 version of Pikmin 4 will launch on November 12th, 2026.",
-        "source": "The Verge",
-        "date": "2026-10-17T15:00:00+00:00"
-      },
-      {
-        "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
-        "url": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
-        "summary": "The Radiolab creator and host of Dolly Parton’s America answers The Verge’s weekend questionnaire. When was the last time you went somewhere without your phone? I go places without my phone all the time.",
-        "source": "The Verge",
-        "date": "2026-10-17T14:30:00+00:00"
-      },
-      {
-        "title": "Solar surpasses nuclear power globally for first time",
-        "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-        "summary": "The World Nuclear Industry Status Report (WNISR) 2026 , overseen by French nuclear energy consultant Mycle Schneider , shows that wind power alone surpassed nuclear generation on a monthly basis in March 2025, followed by solar in April – the first time global monthly solar generation exceeded nuclear output. Outside China, nuclear generation declined by 0.2% and remained well below its 2006 level. Long construction… (628 points, 397 comments on Hacker News)",
+        "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+        "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+        "summary": "TUI, GUI, Voice call, whatever. It's your data going in and their data coming back for you. That's what they're selling, I'm happy to buy that right now. (243 points, 159 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-17T14:01:01+00:00"
+        "date": "2026-10-18T21:09:12+00:00"
+      },
+      {
+        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+        "url": "https://arxiv.org/abs/2610.18861",
+        "summary": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Learn more about arXivLabs . (460 points, 224 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-18T20:48:14+00:00"
       }
     ]
   }
