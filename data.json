@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T12:27:12.281979+00:00",
+  "generated_at": "2026-10-24T11:52:02.581656+00:00",
   "sections": {
     "research": [
       {
@@ -89,6 +89,27 @@
     ],
     "labs": [
       {
+        "title": "Bringing foundational models to the front lines of TB screening",
+        "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+        "summary": "Open models help enable public health systems to build sovereign solutions that protect patient privacy. Because the models run on local infrastructure, patient data remains within national borders, giving health leaders full sovereignty over clinical deployment. Recognizing that imaging equipment cannot reach every remote health post, Google Research also developed Health Acoustic Representations (HeAR) .",
+        "source": "Google Research",
+        "date": "2026-10-23T18:51:33+00:00"
+      },
+      {
+        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+        "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+        "source": "OpenAI",
+        "date": "2026-10-23T17:00:00+00:00"
+      },
+      {
+        "title": "Securing our frontier model training environment",
+        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+        "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+        "source": "OpenAI",
+        "date": "2026-10-23T10:00:00+00:00"
+      },
+      {
         "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
         "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
         "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
@@ -101,13 +122,6 @@
         "summary": "Fast, focused, low-cost decisions for any application.",
         "source": "OpenAI",
         "date": "2026-10-22T19:00:00+00:00"
-      },
-      {
-        "title": "Beyond tree cover: mapping the world’s forest types",
-        "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-        "summary": "Last year, we jointly released Natural Forests of the World 2020 , a 10-meter resolution global map that separated natural forests from all other tree cover. That map answered one question for every patch of land: was it natural forest in 2020 or not? ForTy picked the right forest type 90% of the time, and told forest apart from non-forest land 95% of the time, outperforming other global forest maps.",
-        "source": "Google DeepMind",
-        "date": "2026-10-22T14:30:24+00:00"
       },
       {
         "title": "What FDE means at OpenAI",
@@ -157,192 +171,178 @@
         "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
         "source": "OpenAI",
         "date": "2026-10-21T12:00:00+00:00"
-      },
-      {
-        "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-        "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-        "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-        "source": "OpenAI",
-        "date": "2026-10-21T07:00:00+00:00"
-      },
-      {
-        "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-        "url": "https://openai.com/index/building-chatgpt-ad-stack",
-        "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-        "source": "OpenAI",
-        "date": "2026-10-21T07:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+        "title": "Startups don’t need to go viral to win customers",
+        "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. At TechCrunch Disrupt last week, Elia Wallen, founder and CEO of travel startup Engine, Gamma founder and CEO Grant Lee, and Crystal Huang, general partner at Google Ventures, shared tips on how to attract and retain customers. But founders who want heighten their business strategy with modern marketing, have to be strategic, according to Lee.",
+        "source": "TechCrunch",
+        "date": "2026-10-23T23:07:45+00:00"
+      },
+      {
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+        "summary": "On Friday, OpenAI said that it will train its models using cached copies and simulated versions of the internet instead of the live web because the models are too unpredictable to be trusted with live internet access. “Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no…",
+        "source": "TechCrunch",
+        "date": "2026-10-23T23:05:49+00:00"
+      },
+      {
+        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+        "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. The GPU giant bought Hugging Face in September.",
+        "source": "TechCrunch",
+        "date": "2026-10-23T21:59:19+00:00"
+      },
+      {
+        "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+        "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+        "summary": "Product-market fit — when a startup’s product sells well — has become even harder to find in this AI era. Product-market fit, therefore, is something founders will always have to redefine and re-earn. “Even at a billion in revenue, these companies are re-earning their product-market fit,” he said.",
+        "source": "TechCrunch",
+        "date": "2026-10-23T20:57:13+00:00"
+      },
+      {
+        "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+        "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion. Register for TechCrunch Founder Summit and save 25% on your ticket today.",
+        "source": "TechCrunch",
+        "date": "2026-10-23T20:03:14+00:00"
+      },
+      {
+        "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+        "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+        "summary": "An increasing number of late-stage startups are recognizing this and offering tender offers to employees. So Viswanathan wants to encourage other startups to consider tender offers, calling them excellent retention tools and morale boosters. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
+        "source": "TechCrunch",
+        "date": "2026-10-23T19:25:13+00:00"
+      },
+      {
+        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+        "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Catch the full list of Founders Summit speakers here . TechCrunch Founder Summit 2026 takes place November 4 at SoWa Power Station in Boston.",
+        "source": "TechCrunch",
+        "date": "2026-10-23T19:06:23+00:00"
+      },
+      {
+        "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+        "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. Three-year-old Daytona is building a cloud specifically for long-running agents, which have different infrastructure needs than yesteryear’s software, the startup contends.",
+        "source": "TechCrunch",
+        "date": "2026-10-23T16:26:29+00:00"
+      },
+      {
+        "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+        "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+        "summary": "If fusion startups want to build dozens of commercial power plants, they’ll need more durable power electronics and a robust supply chain. The first is the advancement of silicon carbide power electronics. The latter could help extend the lifespan of electronics within a fusion power plant, reducing operating costs.",
+        "source": "TechCrunch",
+        "date": "2026-10-23T16:20:28+00:00"
+      },
+      {
+        "title": "What some of Anthropic’s backers are worth before its IPO",
+        "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+        "summary": "Today, Schmidt owns about 1% of the company, and even at its current private valuation, his stake is worth nearly $10 billion. Iconiq: The investment outfit wrote a $6 billion check to Anthropic last year when the company was already valued at $183 billion. Menlo Ventures: The VC firm led Anthropic’s Series D and has invested more than $1 billion in the company over time, a stake now worth $14 billion.",
+        "source": "TechCrunch",
+        "date": "2026-10-23T16:02:43+00:00"
+      },
+      {
+        "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
+        "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+        "summary": "Medical lab testing giant Quest Diagnostics has confirmed a cyberattack and data breach affecting an as-yet unspecified amount of sensitive patient information stored in its systems, according to a legally required disclosure with U.S. regulators. The platform stores a large amount of patient health and medical records, as well as associated diagnostic and billing data. Do you work at Quest Diagnostics or know more…",
+        "source": "TechCrunch",
+        "date": "2026-10-23T15:00:09+00:00"
+      },
+      {
+        "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
         "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
         "summary": "Oura is seeking monetary damages and a permanent injunction that would stop Ultrahuman from selling the ring. Ultrahuman’s redesigned Ring Pro, launched in February, received a favorable ruling from U.S. Ultrahuman is not the only rival facing legal pressure from Oura.",
         "source": "TechCrunch",
         "date": "2026-10-23T04:22:57+00:00"
-      },
-      {
-        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-        "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-        "summary": "Ride-hailing company inDrive , known for letting passengers and drivers negotiate fares, is working with Chinese autonomous driving firm Pony.ai and Nvidia to begin testing robotaxis in Kazakhstan in 2027. Testing will begin in Kazakhstan’s capital, Astana, in the first half of 2027, inDrive CTO Yuri Misnik told TechCrunch. The move comes as ride-hailing companies expand their push into robotaxis.",
-        "source": "TechCrunch",
-        "date": "2026-10-23T04:00:00+00:00"
-      },
-      {
-        "title": "Left alone with nothing to do, AI agents started playing",
-        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-        "summary": "The researchers put 13 AI agents called Eko, each running on Claude Opus 4.7, alone on a simulated desert island for 30 hours. The Eko agents that had spent those 30 hours playing generally beat identical agents that had never set foot on the island. The researchers frame it as a different way to build agents.",
-        "source": "TechCrunch",
-        "date": "2026-10-23T00:45:37+00:00"
-      },
-      {
-        "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-        "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-        "summary": "During Meta’s earnings call on Wednesday, the company revealed its board had approved a new class of nonvoting stock, called Class C common stock. This class takes effect in January. Meta is creating a new class of nonvoting shares, called Class C, and will give shareholders one of them for every Class A or Class B share they own.",
-        "source": "TechCrunch",
-        "date": "2026-10-22T23:50:41+00:00"
-      },
-      {
-        "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-        "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-        "summary": "The two kept in touch, and Lamm researched how working dogs are bred. Viagen, another Colossal-owned company, will partner with Warhound to clone the dogs. The hope is also that when these new military dogs retire, they will enter the Society’s Military Working Dog Reunification Program, which provides homes for retired military dogs — or another program the Society offers to help dogs.",
-        "source": "TechCrunch",
-        "date": "2026-10-22T23:15:00+00:00"
-      },
-      {
-        "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-        "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. Yet, the group isn’t abandoning crypto.",
-        "source": "TechCrunch",
-        "date": "2026-10-22T22:34:54+00:00"
-      },
-      {
-        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-        "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-        "summary": "OpenAI declined comment. That valuation would also raise the bar even higher for OpenAI’s forthcoming IPO. OpenAI filed confidential paperwork for an IPO in June, after its last raise in March valued the ChatGPT maker at $852 billion post-money .",
-        "source": "TechCrunch",
-        "date": "2026-10-22T22:08:24+00:00"
-      },
-      {
-        "title": "Rivian buys world model startup to accelerate self-driving ambitions",
-        "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
-        "summary": "Now, under Rivian, they’ll be focused on automated driving. Real-world data collected from cameras and other sensors is especially valuable. Third Dimension’s tech will allow Rivian to simulate complex driving conditions without having to wait for rare real-world edge cases to occur, Philbin said.",
-        "source": "TechCrunch",
-        "date": "2026-10-22T21:05:05+00:00"
-      },
-      {
-        "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
-        "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
-        "summary": "The Browser Company is sunsetting its design-forward Arc browser on December 22, 2026, and directing users to Dia, its AI-first browser. Open-sourcing Arc would mean giving away Dia’s intellectual property. Arc features will remain free in Dia, with AI optional.",
-        "source": "TechCrunch",
-        "date": "2026-10-22T20:01:51+00:00"
-      },
-      {
-        "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
-        "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
-        "summary": "Disrupt doors open Oct. If every sale requires new tactics, the startup hasn’t truly hit product-market fit. But Tunguz said growth like Lovable’s is still the exception, though founders should still move fast.",
-        "source": "TechCrunch",
-        "date": "2026-10-22T20:00:00+00:00"
-      },
-      {
-        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-        "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-        "summary": "Password manager 1Password on Thursday launched a new tool by which users can allow agents to log into their personal accounts on their behalf, without the agent ever having access to a user’s credentials. The new platform, dubbed 1Password for Agents , accomplishes this by creating a system of communication between the agent, the user, and the password manager. When an agent attempts to log in on a user’s behalf, a…",
-        "source": "TechCrunch",
-        "date": "2026-10-22T19:07:09+00:00"
-      },
-      {
-        "title": "Canva releases its first image generation model",
-        "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-        "summary": "Design platform Canva released its first image generation model, called Canva Craft, developed by its research team to compete with same-category models from Google, OpenAI, ByteDance, and Meta. The model will also be available through the Canva API. In 2024, Canva acquired media generation platform Leonardo.ai .",
-        "source": "TechCrunch",
-        "date": "2026-10-22T19:00:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Retro gaming is being overrun with AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-        "summary": "A rise in AI-powered decomps, recomps, and ports has thrust the community into chaos. The “technical challenges” inspired him to try making a handful of similar ports, including a mobile port of The Legend of Zelda: Ocarina of Time using an existing community-built decomp of the game . This is especially an issue given the community-centric nature of the existing decomp scene.",
-        "source": "The Verge",
-        "date": "2026-10-23T12:00:00+00:00"
-      },
-      {
-        "title": "Startup equips genetically enhanced dogs with Palmer Luckey&#8217;s military tech",
-        "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
-        "summary": "‘Man’s best friend deserves man’s best tech.’﻿ ‘Man’s best friend deserves man’s best tech.’﻿ A new Texas-based defense startup has a plan to improve military and police dogs in the US: it’s going to genetically modify them and equip them with Anduril’s military technology. Warhound plans to use Colossal’s work in genetics, cloning, and animal biology to “produce healthier dogs with characteristics suited to…",
-        "source": "The Verge",
-        "date": "2026-10-23T10:58:03+00:00"
-      },
-      {
-        "title": "No, the iPhone Duo isn’t a small phone",
-        "url": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
-        "summary": "The Duo is not the small phone we’ve been looking for. I like a small phone. And that small screen is attached to a big, heavy phone.",
-        "source": "The Verge",
-        "date": "2026-10-23T10:00:00+00:00"
-      },
-      {
-        "title": "Etsy is cracking down on AI slop listings",
-        "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-        "summary": "Etsy’s new AI policies, among other changes, require that a listing’s first photo is unedited. Etsy’s new AI policies, among other changes, require that a listing’s first photo is unedited. Selling AI-generated art is still allowed on the platform, but a seller must disclose that it was made with AI, Etsy says.",
-        "source": "The Verge",
-        "date": "2026-10-23T00:09:58+00:00"
-      },
-      {
-        "title": "Docker is weird",
-        "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-        "summary": "I decided to make my own container runtime for fun, and even though I’m still early on, I’ve learned that Docker is weird . So if you run docker run -it --rm ubuntu /bin/bash , Docker is going to: Docker’s container runtime, runc , is written in Go, and Go has some design choices that make it less suited for a container runtime. But a container runtime really wants to fork, set up a bunch of restrictions, and then… (574 points, 246 comments on Hacker News)",
+        "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+        "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+        "summary": "211 points, 57 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-10-22T23:45:56+00:00"
+        "date": "2026-10-24T05:49:57+00:00"
       },
       {
-        "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
-        "url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
-        "summary": "Spotify’s co-CEO said it will keep tweaking verification as people ‘find holes around’ methods like its new QR codes over time.﻿ Spotify’s co-CEO said it will keep tweaking verification as people ‘find holes around’ methods like its new QR codes over time.﻿ Spotify co-CEO Alex Norström confirmed on this week’s earnings call that the company is trying to catch Spotify Family plan users who don’t actually live…",
-        "source": "The Verge",
-        "date": "2026-10-22T23:02:43+00:00"
-      },
-      {
-        "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-        "url": "https://edjefferson.com/localwiki/",
-        "summary": "556 points, 126 comments on Hacker News",
+        "title": "OBS Studio 33",
+        "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+        "summary": "192 points, 63 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-10-22T23:01:18+00:00"
+        "date": "2026-10-24T04:49:58+00:00"
       },
       {
-        "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
-        "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
-        "summary": "Didn’t Microsoft say the next Xbox needed to be affordable? Didn’t Microsoft say the next Xbox needed to be affordable? Historically, Microsoft has subsidized the Xbox.",
-        "source": "The Verge",
-        "date": "2026-10-22T23:00:00+00:00"
-      },
-      {
-        "title": "LLMs are making formal software verification feasible at a much larger scale",
-        "url": "https://www.anthropic.com/research/formal-verification",
-        "summary": "However, formal verification isn’t easy. Formal verification is an expansive domain. We built 36 small verification tasks from real OSS-Fuzz code . (369 points, 225 comments on Hacker News)",
+        "title": "Twelve years of distributed SQLite",
+        "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+        "summary": "Litestream and rqlite answer different questions. Around the same time, SQLite Cloud appeared, offering hosted SQLite replicated with Raft. Consensus first (rqlite, dqlite): one leader, strong consistency, a cluster. (226 points, 34 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-22T22:54:43+00:00"
+        "date": "2026-10-24T01:16:58+00:00"
       },
       {
-        "title": "Canva’s first AI image model plans designs before generating them",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-        "summary": "Canva Craft can generate images at up to 2K resolution and in more than 30 aspect ratios. Canva Craft can generate images at up to 2K resolution and in more than 30 aspect ratios. Canva Craft is available now to all users globally.",
+        "title": "Xbox’s first chief operating officer is out after just a few months",
+        "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+        "summary": "Helen Chiang is leaving Microsoft after 21 years. Helen Chiang is leaving Microsoft after 21 years. “Helen Chiang is leaving Microsoft today.",
         "source": "The Verge",
-        "date": "2026-10-22T21:51:25+00:00"
+        "date": "2026-10-23T21:39:26+00:00"
       },
       {
-        "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
-        "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
-        "summary": "Counterpoint Research says higher prices are tanking demand for new PCs.﻿ Counterpoint Research says higher prices are tanking demand for new PCs.﻿ Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. It’s not just PCs, either — that same quarter, smartphone shipments also hit a 14-year low . Counterpoint linked…",
+        "title": "OpenAI now trains its frontier AI models with no internet access",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+        "summary": "AI agents can still communicate without a network connection, OpenAI found. AI agents can still communicate without a network connection, OpenAI found. OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents.",
         "source": "The Verge",
-        "date": "2026-10-22T21:30:39+00:00"
+        "date": "2026-10-23T21:11:07+00:00"
       },
       {
-        "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
-        "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
-        "summary": "Kushner did not own the bank account at First Abu Dhabi Bank. MBZ and Tahnoon made Kushner a signatory on the Alpha account with Watani. We will refer to this account as the Beta bank account. (436 points, 180 comments on Hacker News)",
+        "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+        "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
+        "summary": "What old and vulnerable software might be running on your PC right now?﻿ What old and vulnerable software might be running on your PC right now?﻿ Remember Popcorn Time , the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Researchers at Eye Security found the updater for a Popcorn Time fork called “Time4Popcorn” still running on tons of Windows, macOS, and Android devices…",
+        "source": "The Verge",
+        "date": "2026-10-23T19:35:15+00:00"
+      },
+      {
+        "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+        "summary": "You have got to listen to these conversations with Block’s new Dessa AI model. You have got to listen to these conversations with Block’s new Dessa AI model. Dessa is a step toward fixing it.",
+        "source": "The Verge",
+        "date": "2026-10-23T19:32:39+00:00"
+      },
+      {
+        "title": "Dessa: Conversation Model trained only on speech",
+        "url": "https://block.xyz/dessa",
+        "summary": "Dessa finishes the sentence. Please read this Privacy Notice carefully. Additionally, this privacy notice does not cover information processed about candidates for employment or contractual services. (404 points, 148 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-22T21:24:41+00:00"
+        "date": "2026-10-23T19:09:54+00:00"
+      },
+      {
+        "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+        "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
+        "summary": "The Space 2 offer better ANC and sound over the original, making them an easy rec. The Space 2 offer better ANC and sound over the original, making them an easy rec. The Space 2 can last up to 50 hours with ANC enabled or 70 hours with it switched off, up from 40 and 55 hours, respectively, on the original.",
+        "source": "The Verge",
+        "date": "2026-10-23T18:43:30+00:00"
+      },
+      {
+        "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
+        "url": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
+        "summary": "We also spotted discounts on Kirby Air Riders for the Nintendo Switch 2, a JLab microphone, and Lego’s Grogu set. The Fi Ultra is the first dog tracker to combine T-Satellite with Starlink, GPS, and LTE connectivity to help you find your lost dog anywhere. For example, a one-year plan is $99 for the first year, and $189 each year after.",
+        "source": "The Verge",
+        "date": "2026-10-23T17:55:03+00:00"
+      },
+      {
+        "title": "Elon Musk’s dangerous grip on outer space",
+        "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+        "summary": "As SpaceX throttles Ukraine’s Starshield, experts warn that Elon Musk’s de facto monopoly over launch and satellite tech poses a major threat to global security. As SpaceX throttles Ukraine’s Starshield, experts warn that Elon Musk’s de facto monopoly over launch and satellite tech poses a major threat to global security. “The issue is that SpaceX launches support Starlink constellations that are owned by SpaceX.",
+        "source": "The Verge",
+        "date": "2026-10-23T17:35:15+00:00"
+      },
+      {
+        "title": "The iPhone Duo should have been an iPad",
+        "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+        "summary": "On The Vergecast: Notes on an iPhone Duo review, a PHP scandal, Brendan Carr, and more. On The Vergecast: Notes on an iPhone Duo review, a PHP scandal, Brendan Carr, and more. We gave the iPhone Duo a 7 /10 .",
+        "source": "The Verge",
+        "date": "2026-10-23T17:00:18+00:00"
       }
     ]
   }
