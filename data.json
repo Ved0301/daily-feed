@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T11:52:02.581656+00:00",
+  "generated_at": "2026-10-25T12:22:14.424226+00:00",
   "sections": {
     "research": [
       {
@@ -175,6 +175,76 @@
     ],
     "startups": [
       {
+        "title": "Starlink seems to be working normally again in Ukraine",
+        "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. SpaceX appears to have lifted restrictions the Ukrainian military’s of use Starshield — the military-grade version of the company’s Starlink internet system. President Donald Trump reportedly called SpaceX CEO Elon Musk on Wednesday and asked him to restore Starshield service.",
+        "source": "TechCrunch",
+        "date": "2026-10-24T20:46:34+00:00"
+      },
+      {
+        "title": "Will AI expose the rickety infrastructure of the internet?",
+        "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+        "summary": "It’s that severe a vulnerability.” Kirsten Korosec: I think that the important thing is, a lot of people don’t even realize that their websites have PHP — which is this, as you mentioned, decades-old open source programming language. Because a lot of people, companies, governments, maybe that small neighborhood website, they’re shutting these [websites] down. Sean: Anthony, I think you made a really good point.",
+        "source": "TechCrunch",
+        "date": "2026-10-24T20:15:33+00:00"
+      },
+      {
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "summary": "However, the company noticed its users were using separate AI agents to handle their email inboxes instead. At its peak, the platform let users test more than 800 models, including from companies such as OpenAI, Google, and Anthropic. The platform shut down in March 2026.",
+        "source": "TechCrunch",
+        "date": "2026-10-24T19:00:00+00:00"
+      },
+      {
+        "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+        "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. An Instacart spokesperson declined to comment.",
+        "source": "TechCrunch",
+        "date": "2026-10-24T16:30:00+00:00"
+      },
+      {
+        "title": "Block’s new voice model sounds eerily human",
+        "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+        "summary": "The company said the model, called Dessa, is trained fully on human speech and a single NVIDIA GPU rack. Dorsey’s company claims that emotion is built into its model. Dessa is a full-duplex speech-to-speech model that you can run on consumer GPUs.",
+        "source": "TechCrunch",
+        "date": "2026-10-24T16:00:00+00:00"
+      },
+      {
+        "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+        "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+        "summary": "The bugs are dubbed PHP2Shell , officially designated as CVE-2026-109618 and CVE-2026-109619 . The PHP Foundation, which maintains the PHP web software, publicly released patches on Wednesday that fixed the bugs, which when installed prevent web-facing servers from being attacked. Security researchers at Calif were credited with discovering the bugs earlier this year as part of a security audit of PHP’s code.",
+        "source": "TechCrunch",
+        "date": "2026-10-24T15:30:00+00:00"
+      },
+      {
+        "title": "These clever apps show off the iPhone Duo’s potential",
+        "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+        "summary": "Duo-Man is now Deck-Man! Now for the iPhone Duo, the virtual vinyl record gets to use more of the screen. Toastie is the iPhone Duo version of that same type of ridiculous experience.",
+        "source": "TechCrunch",
+        "date": "2026-10-24T15:00:00+00:00"
+      },
+      {
+        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+        "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+        "summary": "Grok was more likely to search for both candidates. Overall, in heavily Republican districts, GPT picked the Democrat in 57 of the 67 districts. Similarly in deep-blue districts, Grok picked the Republican in 47 of 72.",
+        "source": "TechCrunch",
+        "date": "2026-10-24T15:00:00+00:00"
+      },
+      {
+        "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+        "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+        "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display. Access to apps turns the compact E Ink device into a versatile tool for reading, research, and productivity. I think the Boox Palma 2 Pro is a great device for a very specific type of reader: someone who wants a smartphone-sized device for comfort, portability, as…",
+        "source": "TechCrunch",
+        "date": "2026-10-24T14:15:00+00:00"
+      },
+      {
+        "title": "Here are the top AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "summary": "Comma is designed to manage tasks across both work and everyday life. It can help manage calendars, email, reminders, tasks, notes, and communications. Tab allows users to delegate everyday tasks through familiar messaging platforms.",
+        "source": "TechCrunch",
+        "date": "2026-10-24T14:00:00+00:00"
+      },
+      {
         "title": "Startups don’t need to go viral to win customers",
         "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
         "summary": "Buy One Founder Summit Ticket, Get a Second for Free. At TechCrunch Disrupt last week, Elia Wallen, founder and CEO of travel startup Engine, Gamma founder and CEO Grant Lee, and Crystal Huang, general partner at Google Ventures, shared tips on how to attract and retain customers. But founders who want heighten their business strategy with modern marketing, have to be strategic, according to Lee.",
@@ -187,162 +257,92 @@
         "summary": "On Friday, OpenAI said that it will train its models using cached copies and simulated versions of the internet instead of the live web because the models are too unpredictable to be trusted with live internet access. “Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no…",
         "source": "TechCrunch",
         "date": "2026-10-23T23:05:49+00:00"
-      },
-      {
-        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-        "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. The GPU giant bought Hugging Face in September.",
-        "source": "TechCrunch",
-        "date": "2026-10-23T21:59:19+00:00"
-      },
-      {
-        "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-        "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
-        "summary": "Product-market fit — when a startup’s product sells well — has become even harder to find in this AI era. Product-market fit, therefore, is something founders will always have to redefine and re-earn. “Even at a billion in revenue, these companies are re-earning their product-market fit,” he said.",
-        "source": "TechCrunch",
-        "date": "2026-10-23T20:57:13+00:00"
-      },
-      {
-        "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-        "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion. Register for TechCrunch Founder Summit and save 25% on your ticket today.",
-        "source": "TechCrunch",
-        "date": "2026-10-23T20:03:14+00:00"
-      },
-      {
-        "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-        "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-        "summary": "An increasing number of late-stage startups are recognizing this and offering tender offers to employees. So Viswanathan wants to encourage other startups to consider tender offers, calling them excellent retention tools and morale boosters. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
-        "source": "TechCrunch",
-        "date": "2026-10-23T19:25:13+00:00"
-      },
-      {
-        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-        "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Catch the full list of Founders Summit speakers here . TechCrunch Founder Summit 2026 takes place November 4 at SoWa Power Station in Boston.",
-        "source": "TechCrunch",
-        "date": "2026-10-23T19:06:23+00:00"
-      },
-      {
-        "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-        "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. Three-year-old Daytona is building a cloud specifically for long-running agents, which have different infrastructure needs than yesteryear’s software, the startup contends.",
-        "source": "TechCrunch",
-        "date": "2026-10-23T16:26:29+00:00"
-      },
-      {
-        "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-        "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-        "summary": "If fusion startups want to build dozens of commercial power plants, they’ll need more durable power electronics and a robust supply chain. The first is the advancement of silicon carbide power electronics. The latter could help extend the lifespan of electronics within a fusion power plant, reducing operating costs.",
-        "source": "TechCrunch",
-        "date": "2026-10-23T16:20:28+00:00"
-      },
-      {
-        "title": "What some of Anthropic’s backers are worth before its IPO",
-        "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-        "summary": "Today, Schmidt owns about 1% of the company, and even at its current private valuation, his stake is worth nearly $10 billion. Iconiq: The investment outfit wrote a $6 billion check to Anthropic last year when the company was already valued at $183 billion. Menlo Ventures: The VC firm led Anthropic’s Series D and has invested more than $1 billion in the company over time, a stake now worth $14 billion.",
-        "source": "TechCrunch",
-        "date": "2026-10-23T16:02:43+00:00"
-      },
-      {
-        "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
-        "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-        "summary": "Medical lab testing giant Quest Diagnostics has confirmed a cyberattack and data breach affecting an as-yet unspecified amount of sensitive patient information stored in its systems, according to a legally required disclosure with U.S. regulators. The platform stores a large amount of patient health and medical records, as well as associated diagnostic and billing data. Do you work at Quest Diagnostics or know more…",
-        "source": "TechCrunch",
-        "date": "2026-10-23T15:00:09+00:00"
-      },
-      {
-        "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
-        "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-        "summary": "Oura is seeking monetary damages and a permanent injunction that would stop Ultrahuman from selling the ring. Ultrahuman’s redesigned Ring Pro, launched in February, received a favorable ruling from U.S. Ultrahuman is not the only rival facing legal pressure from Oura.",
-        "source": "TechCrunch",
-        "date": "2026-10-23T04:22:57+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-        "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-        "summary": "211 points, 57 comments on Hacker News",
+        "title": "Google’s AI search changes upended online publishing",
+        "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+        "summary": "Publishers spent years figuring out how to get clicks on Google. Publishers spent years figuring out how to get clicks on Google. For years, the relationship between Google and publishers was largely reciprocal; online publishers filled out Google’s search index with content, while Google supplied publications with exposure and traffic.",
+        "source": "The Verge",
+        "date": "2026-10-25T12:00:00+00:00"
+      },
+      {
+        "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+        "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+        "summary": "Flávio Bolsonaro, of the Liberal Party. This continues despite an electoral court order that Meta ensure equal conditions for both candidates. Electoral court demands compliance and threatens to double fine The new records arrive as the electoral court takes a harder line with Meta. (277 points, 165 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-24T05:49:57+00:00"
+        "date": "2026-10-25T09:00:40+00:00"
       },
       {
-        "title": "OBS Studio 33",
-        "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-        "summary": "192 points, 63 comments on Hacker News",
+        "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "summary": "America has lost more than 200k jobs in “creative” industries over the last four years, with roughly 50k lost within the last year alone. Overall, nearly half the media job losses of the last four years have been concentrated in the movie & sound recording sector that includes Hollywood. The music industry has never returned to the heyday paydays of the peak CD era—even without adjusting for inflation, streaming… (390 points, 402 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-24T04:49:58+00:00"
+        "date": "2026-10-24T23:11:54+00:00"
       },
       {
-        "title": "Twelve years of distributed SQLite",
-        "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-        "summary": "Litestream and rqlite answer different questions. Around the same time, SQLite Cloud appeared, offering hosted SQLite replicated with Raft. Consensus first (rqlite, dqlite): one leader, strong consistency, a cluster. (226 points, 34 comments on Hacker News)",
+        "title": "We should be more ambitious with the software we build",
+        "url": "https://danluu.com/ambitious/",
+        "summary": "The examples in the body of the post I gave for things I've done are tooling things I never would've done. When I've talked to people about their one-off tooling, there's a lot of fun stuff people have done. I don't even know Lua. (487 points, 420 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-24T01:16:58+00:00"
+        "date": "2026-10-24T21:47:31+00:00"
       },
       {
-        "title": "Xbox’s first chief operating officer is out after just a few months",
-        "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-        "summary": "Helen Chiang is leaving Microsoft after 21 years. Helen Chiang is leaving Microsoft after 21 years. “Helen Chiang is leaving Microsoft today.",
+        "title": "Blue Planet III is keeping the rough edges in the age of AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+        "summary": "BBC’s Blue Planet III is keeping in shots that would normally end up on the cutting room floor to prove it’s real. BBC’s Blue Planet III is keeping in shots that would normally end up on the cutting room floor to prove it’s real. To counter that, Blue Planet III goes warts and all.",
         "source": "The Verge",
-        "date": "2026-10-23T21:39:26+00:00"
+        "date": "2026-10-24T21:29:12+00:00"
       },
       {
-        "title": "OpenAI now trains its frontier AI models with no internet access",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-        "summary": "AI agents can still communicate without a network connection, OpenAI found. AI agents can still communicate without a network connection, OpenAI found. OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents.",
-        "source": "The Verge",
-        "date": "2026-10-23T21:11:07+00:00"
-      },
-      {
-        "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-        "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
-        "summary": "What old and vulnerable software might be running on your PC right now?﻿ What old and vulnerable software might be running on your PC right now?﻿ Remember Popcorn Time , the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Researchers at Eye Security found the updater for a Popcorn Time fork called “Time4Popcorn” still running on tons of Windows, macOS, and Android devices…",
-        "source": "The Verge",
-        "date": "2026-10-23T19:35:15+00:00"
-      },
-      {
-        "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-        "summary": "You have got to listen to these conversations with Block’s new Dessa AI model. You have got to listen to these conversations with Block’s new Dessa AI model. Dessa is a step toward fixing it.",
-        "source": "The Verge",
-        "date": "2026-10-23T19:32:39+00:00"
-      },
-      {
-        "title": "Dessa: Conversation Model trained only on speech",
-        "url": "https://block.xyz/dessa",
-        "summary": "Dessa finishes the sentence. Please read this Privacy Notice carefully. Additionally, this privacy notice does not cover information processed about candidates for employment or contractual services. (404 points, 148 comments on Hacker News)",
+        "title": "Show HN: Steal My Bitcoin",
+        "url": "https://stealmybitcoin.com/",
+        "summary": "It is accessible to the PHP user account through the print-flag binary. This PHP version was selected from before the PHP2SHELL CVEs were released. First person to get the wallet wins. (519 points, 311 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-23T19:09:54+00:00"
+        "date": "2026-10-24T20:30:31+00:00"
       },
       {
-        "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
-        "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
-        "summary": "The Space 2 offer better ANC and sound over the original, making them an easy rec. The Space 2 offer better ANC and sound over the original, making them an easy rec. The Space 2 can last up to 50 hours with ANC enabled or 70 hours with it switched off, up from 40 and 55 hours, respectively, on the original.",
-        "source": "The Verge",
-        "date": "2026-10-23T18:43:30+00:00"
+        "title": "No signs of AI payoff outside the tech sector",
+        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+        "summary": "Sources: Bloomberg, Macrobond, Apollo Chief Economist Sources: Bloomberg, Macrobond, Apollo Chief Economist Note: Total Factor Productivity (TFP) is the utilization-adjusted series from the San Francisco Fed (Fernald, 2014), adjusted for cyclical variation in factor utilization. Sources: Federal Reserve Bank of San Francisco, US Bureau of Labor Statistics, Apollo Chief Economist Sources: Ara Kharazian, Chief… (565 points, 596 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-24T19:47:19+00:00"
       },
       {
-        "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
-        "url": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
-        "summary": "We also spotted discounts on Kirby Air Riders for the Nintendo Switch 2, a JLab microphone, and Lego’s Grogu set. The Fi Ultra is the first dog tracker to combine T-Satellite with Starlink, GPS, and LTE connectivity to help you find your lost dog anywhere. For example, a one-year plan is $99 for the first year, and $189 each year after.",
-        "source": "The Verge",
-        "date": "2026-10-23T17:55:03+00:00"
+        "title": "The Goose Programming Language",
+        "url": "https://aardappel.github.io/goose/",
+        "summary": "Running a program in-process ( goose file.goose ) needs nothing else on Windows. Intermediates go under ~/.goose ( GOOSE_HOME ), the runtime object compiled once per C compiler. Goose itself (that may still happen). (439 points, 271 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-24T19:06:55+00:00"
       },
       {
-        "title": "Elon Musk’s dangerous grip on outer space",
-        "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
-        "summary": "As SpaceX throttles Ukraine’s Starshield, experts warn that Elon Musk’s de facto monopoly over launch and satellite tech poses a major threat to global security. As SpaceX throttles Ukraine’s Starshield, experts warn that Elon Musk’s de facto monopoly over launch and satellite tech poses a major threat to global security. “The issue is that SpaceX launches support Starlink constellations that are owned by SpaceX.",
+        "title": "Pennsylvania will require labels on AI-generated ads",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+        "summary": "Pennsylvania’s AI Deceptive Advertising Act leaves a lot of loopholes. Pennsylvania’s AI Deceptive Advertising Act leaves a lot of loopholes. The law leaves many loopholes, though.",
         "source": "The Verge",
-        "date": "2026-10-23T17:35:15+00:00"
+        "date": "2026-10-24T18:32:21+00:00"
       },
       {
-        "title": "The iPhone Duo should have been an iPad",
-        "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-        "summary": "On The Vergecast: Notes on an iPhone Duo review, a PHP scandal, Brendan Carr, and more. On The Vergecast: Notes on an iPhone Duo review, a PHP scandal, Brendan Carr, and more. We gave the iPhone Duo a 7 /10 .",
-        "source": "The Verge",
-        "date": "2026-10-23T17:00:18+00:00"
+        "title": "Danish Government silently drops plan to dump MS Office",
+        "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+        "summary": "Ubegrænset adgang til alt Premium-indhold i 1 måned. Kan opsiges med kort varsel. Billigste adgang til tusindvis af Premium-artikler. (214 points, 169 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-24T18:31:48+00:00"
+      },
+      {
+        "title": "Roku developer repositories moved from GitHub to GitLab",
+        "url": "https://blog.roku.com/developer/gitlab-move",
+        "summary": "289 points, 204 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-10-24T16:06:26+00:00"
+      },
+      {
+        "title": "FreeDNS",
+        "url": "https://freedns.afraid.org/",
+        "summary": "306 points, 83 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-10-24T15:20:01+00:00"
       }
     ]
   }
