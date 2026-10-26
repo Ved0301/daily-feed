@@ -1,90 +1,90 @@
 {
-  "generated_at": "2026-10-25T12:22:14.424226+00:00",
+  "generated_at": "2026-10-26T13:56:39.177211+00:00",
   "sections": {
     "research": [
       {
-        "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
-        "url": "https://arxiv.org/abs/2610.31670v1",
-        "summary": "Yunfei Xie, Howard H. Qian, Shiyi Lan et al. — Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as…",
+        "title": "The Language of Instruction: Genre and Generative AI",
+        "url": "https://arxiv.org/abs/2610.32982v1",
+        "summary": "James E. Dobson — This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive…",
         "source": "arXiv",
-        "date": "2026-10-22T17:59:51Z"
+        "date": "2026-10-23T17:59:56Z"
       },
       {
-        "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
-        "url": "https://arxiv.org/abs/2610.31667v1",
-        "summary": "Mahdi Salmani, Adel Javanmard, Devansh Gupta et al. — Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate…",
+        "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
+        "url": "https://arxiv.org/abs/2610.32978v1",
+        "summary": "Yuhan Liu, Lianhui Qin, Shenji Wan — Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding…",
         "source": "arXiv",
-        "date": "2026-10-22T17:59:48Z"
+        "date": "2026-10-23T17:59:21Z"
       },
       {
-        "title": "Phase Transition from Random Features to Fully Trainable Networks",
-        "url": "https://arxiv.org/abs/2610.31663v1",
-        "summary": "Xin He, Huan Lao, Xiliang Lu et al. — Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive…",
+        "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+        "url": "https://arxiv.org/abs/2610.32971v1",
+        "summary": "Xi Chen, Fengqi Hu, Zeyu Shen et al. — Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and…",
         "source": "arXiv",
-        "date": "2026-10-22T17:59:29Z"
+        "date": "2026-10-23T17:57:22Z"
       },
       {
-        "title": "Reliable AI-Assisted Decisions via Selective Auditing",
-        "url": "https://arxiv.org/abs/2610.31662v1",
-        "summary": "Isaac Gibbs, Elise L. Han, Ryan J. Tibshirani et al. — We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision.…",
+        "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
+        "url": "https://arxiv.org/abs/2610.32969v1",
+        "summary": "Amber Xie, Jiawei Fu, Xiaofeng Guo et al. — Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of…",
         "source": "arXiv",
-        "date": "2026-10-22T17:59:22Z"
+        "date": "2026-10-23T17:56:28Z"
       },
       {
-        "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
-        "url": "https://arxiv.org/abs/2610.31659v1",
-        "summary": "Sy-Tuyen Ho, Anirudh Satheesh, Soham Chawathe et al. — Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training images.",
+        "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
+        "url": "https://arxiv.org/abs/2610.32964v1",
+        "summary": "Bernardo Perrone Ribeiro, Erkut Akdag, Egor Bondarev — Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear structure, or risk…",
         "source": "arXiv",
-        "date": "2026-10-22T17:59:03Z"
+        "date": "2026-10-23T17:53:30Z"
       },
       {
-        "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
-        "url": "https://arxiv.org/abs/2610.31657v1",
-        "summary": "Sachin Gupta — Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on calibration data under…",
+        "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
+        "url": "https://arxiv.org/abs/2610.32955v1",
+        "summary": "Federico Lucca — Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were written by the system…",
         "source": "arXiv",
-        "date": "2026-10-22T17:58:52Z"
+        "date": "2026-10-23T17:49:43Z"
       },
       {
-        "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2610.31656v1",
-        "summary": "Ali Najar, Hosein Hasani, Amir Kooshan Fattah et al. — Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents…",
+        "title": "Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2610.32951v1",
+        "summary": "Yijing Ke, Tianle Cai, Ruosong Wang — Reinforcement learning for large language models often uses separate systems for inference and training. Even with identical weights and BF16 tensors, implementation differences can make an intended on-policy update…",
         "source": "arXiv",
-        "date": "2026-10-22T17:58:27Z"
+        "date": "2026-10-23T17:45:03Z"
       },
       {
-        "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
-        "url": "https://arxiv.org/abs/2610.31650v1",
-        "summary": "Qijin Zhang, Hanzhen Wang, Yuehan Zhao et al. — Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action even though the user…",
+        "title": "Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models",
+        "url": "https://arxiv.org/abs/2610.32948v1",
+        "summary": "Dianye Huang, Jiamei Guo, Yue Zhou et al. — Objective: To develop a unified vision-language model for prompt-conditioned quantitative ultrasound measurement that addresses the mismatch between continuous measurement targets and discrete token-based numerical…",
         "source": "arXiv",
-        "date": "2026-10-22T17:57:04Z"
+        "date": "2026-10-23T17:40:58Z"
       },
       {
-        "title": "Low-Bit N-Gram Embeddings for Language Models",
-        "url": "https://arxiv.org/abs/2610.31646v1",
-        "summary": "Stephen Chung, Wenyu Du — Many recent open-weight language models use n-gram embedding tables to improve performance. These tables store learned representations of short token sequences, such as pairs or triples of consecutive tokens, which the…",
+        "title": "Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms",
+        "url": "https://arxiv.org/abs/2610.32945v1",
+        "summary": "Yuhang Ji, Fasheng Xu, Tianjun Feng — Large language model (LLM) platforms introducing advertising must decide how much capability ad revenue should fund and what consumers should pay to avoid ads. We study a monopolistic platform that jointly chooses…",
         "source": "arXiv",
-        "date": "2026-10-22T17:56:13Z"
+        "date": "2026-10-23T17:39:42Z"
       },
       {
-        "title": "A Fix for Softmax and Cross-Entropy",
-        "url": "https://arxiv.org/abs/2610.31642v1",
-        "summary": "Jonathan T. Barron, Dan Gnanapragasam, Michael Tschannen — Standard implementations of softmax, log-softmax, and cross-entropy have two numerical bugs. The first bug, Softmax Collapse, rounds the target logit's gradient to zero if that one logit is much larger than the others,…",
+        "title": "Knowledge Distillation across Item and Code Spaces for Parallel Generative Recommendation",
+        "url": "https://arxiv.org/abs/2610.32943v1",
+        "summary": "Yixuan Xu, Hailin Liu, Linxiang Peng et al. — Generative recommendation with semantic IDs represents each item as a sequence of discrete codes derived from its semantic representation and predicts these codes to generate recommendations. Existing semantic-ID…",
         "source": "arXiv",
-        "date": "2026-10-22T17:54:56Z"
+        "date": "2026-10-23T17:37:55Z"
       },
       {
-        "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
-        "url": "https://arxiv.org/abs/2610.31639v1",
-        "summary": "Gabriele Dominici, Teague McMillan, Fazl Barez et al. — Chain-of-thought (CoT) prompting elicits step-by-step rationales that appear to explain model predictions, but there is no guarantee these steps causally drive the final answer. In standard autoregressive generation,…",
+        "title": "If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs",
+        "url": "https://arxiv.org/abs/2610.32941v1",
+        "summary": "Thomas Landeg, Thierry Tambe — Vision-Language-Action (VLA) models perform well on robotic manipulation, yet remain brittle once their own actions carry them into states their training data barely covers. Recovering from such failures usually…",
         "source": "arXiv",
-        "date": "2026-10-22T17:52:56Z"
+        "date": "2026-10-23T17:35:33Z"
       },
       {
-        "title": "Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2",
-        "url": "https://arxiv.org/abs/2610.31636v1",
-        "summary": "Marek Šuppa, Ivan Vykopal, Jaroslav Kopčan — Multilingual pipelines such as FineWeb2 apply one recipe across a thousand languages, leaving the failure modes of individual languages unanticipated. We use an LLM once, as a corpus debugger rather than a classifier: a…",
+        "title": "Learning Positive Linear Combinations of ReLUs in Fully Polynomial Time",
+        "url": "https://arxiv.org/abs/2610.32940v1",
+        "summary": "Ilias Diakonikolas, Jelena Diakonikolas, Puqian Wang et al. — We study the fundamental problem of PAC learning positive linear combinations of $k$ arbitrary ReLU activations on $\\mathbb{R}^d$ with respect to the Gaussian distribution, in $L_2$ loss.",
         "source": "arXiv",
-        "date": "2026-10-22T17:52:22Z"
+        "date": "2026-10-23T17:34:15Z"
       }
     ],
     "labs": [
@@ -122,6 +122,13 @@
         "summary": "Fast, focused, low-cost decisions for any application.",
         "source": "OpenAI",
         "date": "2026-10-22T19:00:00+00:00"
+      },
+      {
+        "title": "Beyond tree cover: mapping the world’s forest types",
+        "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+        "summary": "Last year, we jointly released Natural Forests of the World 2020 , a 10-meter resolution global map that separated natural forests from all other tree cover. That map answered one question for every patch of land: was it natural forest in 2020 or not? ForTy picked the right forest type 90% of the time, and told forest apart from non-forest land 95% of the time, outperforming other global forest maps.",
+        "source": "Google DeepMind",
+        "date": "2026-10-22T14:30:24+00:00"
       },
       {
         "title": "What FDE means at OpenAI",
@@ -164,16 +171,58 @@
         "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
         "source": "OpenAI",
         "date": "2026-10-21T13:00:00+00:00"
-      },
-      {
-        "title": "OpenAI models are coming to Google Cloud",
-        "url": "https://openai.com/index/openai-models-google-cloud",
-        "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-        "source": "OpenAI",
-        "date": "2026-10-21T12:00:00+00:00"
       }
     ],
     "startups": [
+      {
+        "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+        "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
+        "summary": "Turo said it is working with Tesla to directly access the automaker’s API to verify which cars have FSD enabled. Last week, Tesla revealed that around 1.7 million customers have paid for FSD globally, out of more than 10 million cars built and sold to date. Turo said Tesla’s Model 3 and Model Y are the third and fourth-most popular vehicles on its platform this year.",
+        "source": "TechCrunch",
+        "date": "2026-10-26T12:58:40+00:00"
+      },
+      {
+        "title": "The best apps for tracking your reading and discovering new books",
+        "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+        "summary": "Fable is a reading app that combines book tracking with a social platform. It lets you organize reading lists, set reading goals, track streaks, write reviews, and join virtual book clubs. StoryGraph is a reading app that lets users track their reading, discover new books, and access detailed reading statistics and personalized recommendations.",
+        "source": "TechCrunch",
+        "date": "2026-10-26T01:10:00+00:00"
+      },
+      {
+        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+        "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Three months after Elon Musk declared that Grok would release a full-length, “historically accurate” movie version of “The Odyssey,” Grok has published a whole seven minutes, which the company is now calling “Episode 1 of our Odyssey series.” Musk had previously lashed out at Christopher Nolan’s version of “The Odyssey” because Nolan cast nonwhite and transgender…",
+        "source": "TechCrunch",
+        "date": "2026-10-25T21:31:16+00:00"
+      },
+      {
+        "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+        "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+        "summary": "I don’t even think they’re in conflict. Government can do bad things. People were glomming on to the book as it was.",
+        "source": "TechCrunch",
+        "date": "2026-10-25T20:20:08+00:00"
+      },
+      {
+        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. “Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech,” Slok said. Is this simply a matter of non-tech companies lagging behind the tech giants?",
+        "source": "TechCrunch",
+        "date": "2026-10-25T16:57:32+00:00"
+      },
+      {
+        "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+        "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+        "summary": "Still, federal regulators are clearly seeking some uniform way of identifying autonomous vehicles. The agency is already working on a federal automated vehicle framework and is trying to update federal motor vehicle safety standards, which already govern automakers today. The upshot: Profits fell 43% year-over-year.",
+        "source": "TechCrunch",
+        "date": "2026-10-25T16:05:00+00:00"
+      },
+      {
+        "title": "The hottest AI wearables and gadgets you should know about",
+        "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+        "summary": "Even OpenAI is working on a compact AI companion device. The device will cost $249. The device includes 300 free monthly transcription minutes, but with the $8.33 per month Pro plan, you upgrade your transcription time to 1,200 minutes.",
+        "source": "TechCrunch",
+        "date": "2026-10-25T14:10:00+00:00"
+      },
       {
         "title": "Starlink seems to be working normally again in Ukraine",
         "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
@@ -184,7 +233,7 @@
       {
         "title": "Will AI expose the rickety infrastructure of the internet?",
         "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-        "summary": "It’s that severe a vulnerability.” Kirsten Korosec: I think that the important thing is, a lot of people don’t even realize that their websites have PHP — which is this, as you mentioned, decades-old open source programming language. Because a lot of people, companies, governments, maybe that small neighborhood website, they’re shutting these [websites] down. Sean: Anthony, I think you made a really good point.",
+        "summary": "So we have governments taking down websites, we have really popular websites that are going down briefly to be able to fix this vulnerability. Because a lot of people, companies, governments, maybe that small neighborhood website, they’re shutting these [websites] down. Sean: Anthony, I think you made a really good point.",
         "source": "TechCrunch",
         "date": "2026-10-24T20:15:33+00:00"
       },
@@ -208,141 +257,92 @@
         "summary": "The company said the model, called Dessa, is trained fully on human speech and a single NVIDIA GPU rack. Dorsey’s company claims that emotion is built into its model. Dessa is a full-duplex speech-to-speech model that you can run on consumer GPUs.",
         "source": "TechCrunch",
         "date": "2026-10-24T16:00:00+00:00"
-      },
-      {
-        "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-        "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-        "summary": "The bugs are dubbed PHP2Shell , officially designated as CVE-2026-109618 and CVE-2026-109619 . The PHP Foundation, which maintains the PHP web software, publicly released patches on Wednesday that fixed the bugs, which when installed prevent web-facing servers from being attacked. Security researchers at Calif were credited with discovering the bugs earlier this year as part of a security audit of PHP’s code.",
-        "source": "TechCrunch",
-        "date": "2026-10-24T15:30:00+00:00"
-      },
-      {
-        "title": "These clever apps show off the iPhone Duo’s potential",
-        "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-        "summary": "Duo-Man is now Deck-Man! Now for the iPhone Duo, the virtual vinyl record gets to use more of the screen. Toastie is the iPhone Duo version of that same type of ridiculous experience.",
-        "source": "TechCrunch",
-        "date": "2026-10-24T15:00:00+00:00"
-      },
-      {
-        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-        "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-        "summary": "Grok was more likely to search for both candidates. Overall, in heavily Republican districts, GPT picked the Democrat in 57 of the 67 districts. Similarly in deep-blue districts, Grok picked the Republican in 47 of 72.",
-        "source": "TechCrunch",
-        "date": "2026-10-24T15:00:00+00:00"
-      },
-      {
-        "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
-        "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
-        "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display. Access to apps turns the compact E Ink device into a versatile tool for reading, research, and productivity. I think the Boox Palma 2 Pro is a great device for a very specific type of reader: someone who wants a smartphone-sized device for comfort, portability, as…",
-        "source": "TechCrunch",
-        "date": "2026-10-24T14:15:00+00:00"
-      },
-      {
-        "title": "Here are the top AI agents that can live in your text messages",
-        "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "summary": "Comma is designed to manage tasks across both work and everyday life. It can help manage calendars, email, reminders, tasks, notes, and communications. Tab allows users to delegate everyday tasks through familiar messaging platforms.",
-        "source": "TechCrunch",
-        "date": "2026-10-24T14:00:00+00:00"
-      },
-      {
-        "title": "Startups don’t need to go viral to win customers",
-        "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. At TechCrunch Disrupt last week, Elia Wallen, founder and CEO of travel startup Engine, Gamma founder and CEO Grant Lee, and Crystal Huang, general partner at Google Ventures, shared tips on how to attract and retain customers. But founders who want heighten their business strategy with modern marketing, have to be strategic, according to Lee.",
-        "source": "TechCrunch",
-        "date": "2026-10-23T23:07:45+00:00"
-      },
-      {
-        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-        "summary": "On Friday, OpenAI said that it will train its models using cached copies and simulated versions of the internet instead of the live web because the models are too unpredictable to be trusted with live internet access. “Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no…",
-        "source": "TechCrunch",
-        "date": "2026-10-23T23:05:49+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Google’s AI search changes upended online publishing",
-        "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-        "summary": "Publishers spent years figuring out how to get clicks on Google. Publishers spent years figuring out how to get clicks on Google. For years, the relationship between Google and publishers was largely reciprocal; online publishers filled out Google’s search index with content, while Google supplied publications with exposure and traffic.",
+        "title": "Anthropic S-1",
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+        "summary": "328 points, 274 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-10-26T13:04:50+00:00"
+      },
+      {
+        "title": "The city that fought Flock",
+        "url": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
+        "summary": "She felt misled by Flock. “Stop Flock, sign here,” one sign says. Earlier this year, while the Huntington Police Department was engaging in talks with Flock, Farrell released a public safety dashboard on the city website.",
         "source": "The Verge",
-        "date": "2026-10-25T12:00:00+00:00"
+        "date": "2026-10-26T10:00:00+00:00"
       },
       {
-        "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-        "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-        "summary": "Flávio Bolsonaro, of the Liberal Party. This continues despite an electoral court order that Meta ensure equal conditions for both candidates. Electoral court demands compliance and threatens to double fine The new records arrive as the electoral court takes a harder line with Meta. (277 points, 165 comments on Hacker News)",
+        "title": "Switzerland. Block by block. At 1:1 scale",
+        "url": "https://blocks.manifold3d.ch/",
+        "summary": "Die kostet ab 15 CHF. Mod, Texturpaket und Shader sind gratis und kommen genauso mit dem Gratis-Ausschnitt Jungfrau-Aletsch. Die Welt braucht den Mod Cubic Chunks, und den gibt es nur für Java. (300 points, 135 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-25T09:00:40+00:00"
+        "date": "2026-10-26T08:46:09+00:00"
       },
       {
-        "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-        "summary": "America has lost more than 200k jobs in “creative” industries over the last four years, with roughly 50k lost within the last year alone. Overall, nearly half the media job losses of the last four years have been concentrated in the movie & sound recording sector that includes Hollywood. The music industry has never returned to the heyday paydays of the peak CD era—even without adjusting for inflation, streaming… (390 points, 402 comments on Hacker News)",
+        "title": "Show HN: TitleArt – Make text like it's 1997",
+        "url": "https://titleart.dvy.io/",
+        "summary": "305 points, 54 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-10-24T23:11:54+00:00"
+        "date": "2026-10-26T03:23:57+00:00"
       },
       {
-        "title": "We should be more ambitious with the software we build",
-        "url": "https://danluu.com/ambitious/",
-        "summary": "The examples in the body of the post I gave for things I've done are tooling things I never would've done. When I've talked to people about their one-off tooling, there's a lot of fun stuff people have done. I don't even know Lua. (487 points, 420 comments on Hacker News)",
+        "title": "IBM CEO says open weight models are now good and cheap on-prem",
+        "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+        "summary": "The CEO said open weight models currently deliver “anywhere from 25 percent to 10 percent of the token cost of the frontier models. Red Hat was the star, growing eleven percent and increasing annual recurring revenue by 30 percent. Total quarterly revenue hit $17.1 billion, up five percent. (352 points, 252 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-24T21:47:31+00:00"
+        "date": "2026-10-26T01:47:46+00:00"
       },
       {
-        "title": "Blue Planet III is keeping the rough edges in the age of AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-        "summary": "BBC’s Blue Planet III is keeping in shots that would normally end up on the cutting room floor to prove it’s real. BBC’s Blue Planet III is keeping in shots that would normally end up on the cutting room floor to prove it’s real. To counter that, Blue Planet III goes warts and all.",
+        "title": "Lula wins election after final votes tallied",
+        "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+        "summary": "451 points, 504 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-10-26T00:31:07+00:00"
+      },
+      {
+        "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+        "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+        "summary": "The iPhone Duo is the most repairable foldable yet, but that’s not saying much. The iPhone Duo is the most repairable foldable yet, but that’s not saying much. It found some interesting details about how Apple might be hiding the crease on the Duo’s folding screen and gave it a 5/10 repairability score.",
         "source": "The Verge",
-        "date": "2026-10-24T21:29:12+00:00"
+        "date": "2026-10-25T21:40:27+00:00"
       },
       {
-        "title": "Show HN: Steal My Bitcoin",
-        "url": "https://stealmybitcoin.com/",
-        "summary": "It is accessible to the PHP user account through the print-flag binary. This PHP version was selected from before the PHP2SHELL CVEs were released. First person to get the wallet wins. (519 points, 311 comments on Hacker News)",
+        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+        "url": "https://minimaxir.com/2026/10/cheap-llms/",
+        "summary": "OpenAI announced GPT-5.6 Sol and Luna. OpenAI announces that they cut the price of GPT-5.6 Luna by 80% (???) to $0.20 / $1.20 / $0.02 . Cost-per-task for GPT-5.6 Luna after the massive price reduction. (379 points, 377 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-24T20:30:31+00:00"
+        "date": "2026-10-25T21:11:31+00:00"
       },
       {
-        "title": "No signs of AI payoff outside the tech sector",
-        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-        "summary": "Sources: Bloomberg, Macrobond, Apollo Chief Economist Sources: Bloomberg, Macrobond, Apollo Chief Economist Note: Total Factor Productivity (TFP) is the utilization-adjusted series from the San Francisco Fed (Fernald, 2014), adjusted for cyclical variation in factor utilization. Sources: Federal Reserve Bank of San Francisco, US Bureau of Labor Statistics, Apollo Chief Economist Sources: Ara Kharazian, Chief… (565 points, 596 comments on Hacker News)",
+        "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+        "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+        "summary": "310 points, 166 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-10-24T19:47:19+00:00"
+        "date": "2026-10-25T21:08:28+00:00"
       },
       {
-        "title": "The Goose Programming Language",
-        "url": "https://aardappel.github.io/goose/",
-        "summary": "Running a program in-process ( goose file.goose ) needs nothing else on Windows. Intermediates go under ~/.goose ( GOOSE_HOME ), the runtime object compiled once per C compiler. Goose itself (that may still happen). (439 points, 271 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-24T19:06:55+00:00"
-      },
-      {
-        "title": "Pennsylvania will require labels on AI-generated ads",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-        "summary": "Pennsylvania’s AI Deceptive Advertising Act leaves a lot of loopholes. Pennsylvania’s AI Deceptive Advertising Act leaves a lot of loopholes. The law leaves many loopholes, though.",
+        "title": "Scott Walker’s The Drift will get under your skin",
+        "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+        "summary": "Walker’s 2006 album is unsettling, bizarre, and the perfect way to kill a party. Walker’s 2006 album is unsettling, bizarre, and the perfect way to kill a party. Scott Walker’s The Drift is the opposite of that.",
         "source": "The Verge",
-        "date": "2026-10-24T18:32:21+00:00"
+        "date": "2026-10-25T21:08:09+00:00"
       },
       {
-        "title": "Danish Government silently drops plan to dump MS Office",
-        "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
-        "summary": "Ubegrænset adgang til alt Premium-indhold i 1 måned. Kan opsiges med kort varsel. Billigste adgang til tusindvis af Premium-artikler. (214 points, 169 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-24T18:31:48+00:00"
+        "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+        "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+        "summary": "A weak spot in the hinge may be failing and cracking iPhone Duo screens. A weak spot in the hinge may be failing and cracking iPhone Duo screens. What he found is that the Duo’s hinge is quite complex, consisting of a gear-like central hinge and two different types of linking hinges.",
+        "source": "The Verge",
+        "date": "2026-10-25T20:16:19+00:00"
       },
       {
-        "title": "Roku developer repositories moved from GitHub to GitLab",
-        "url": "https://blog.roku.com/developer/gitlab-move",
-        "summary": "289 points, 204 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-10-24T16:06:26+00:00"
-      },
-      {
-        "title": "FreeDNS",
-        "url": "https://freedns.afraid.org/",
-        "summary": "306 points, 83 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-10-24T15:20:01+00:00"
+        "title": "Zen Browser is the Arc replacement I was looking for",
+        "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+        "summary": "Zen rips off all the best bits of Arc, but skips the AI and bloat. Zen unabashedly rips off all the best bits of Arc. Zen just feels right.",
+        "source": "The Verge",
+        "date": "2026-10-25T19:24:50+00:00"
       }
     ]
   }
