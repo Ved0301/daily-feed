@@ -1,93 +1,142 @@
 {
-  "generated_at": "2026-10-26T13:56:39.177211+00:00",
+  "generated_at": "2026-10-27T13:00:29.787609+00:00",
   "sections": {
     "research": [
       {
-        "title": "The Language of Instruction: Genre and Generative AI",
-        "url": "https://arxiv.org/abs/2610.32982v1",
-        "summary": "James E. Dobson — This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive…",
+        "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
+        "url": "https://arxiv.org/abs/2610.35868v1",
+        "summary": "Chao Wan, Paul Jünger, Beixi Du et al. — While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to…",
         "source": "arXiv",
-        "date": "2026-10-23T17:59:56Z"
+        "date": "2026-10-26T17:59:44Z"
       },
       {
-        "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
-        "url": "https://arxiv.org/abs/2610.32978v1",
-        "summary": "Yuhan Liu, Lianhui Qin, Shenji Wan — Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding…",
+        "title": "Center-of-Mass Interpretation of Evolution Strategies",
+        "url": "https://arxiv.org/abs/2610.35865v1",
+        "summary": "Akshat Gupta — Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presented as an estimate…",
         "source": "arXiv",
-        "date": "2026-10-23T17:59:21Z"
+        "date": "2026-10-26T17:59:33Z"
       },
       {
-        "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
-        "url": "https://arxiv.org/abs/2610.32971v1",
-        "summary": "Xi Chen, Fengqi Hu, Zeyu Shen et al. — Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and…",
+        "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
+        "url": "https://arxiv.org/abs/2610.35866v1",
+        "summary": "Xi Chen, Chongjian Ge, Yiran Xu et al. — As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark for evaluating…",
         "source": "arXiv",
-        "date": "2026-10-23T17:57:22Z"
+        "date": "2026-10-26T17:59:33Z"
       },
       {
-        "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
-        "url": "https://arxiv.org/abs/2610.32969v1",
-        "summary": "Amber Xie, Jiawei Fu, Xiaofeng Guo et al. — Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of…",
+        "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
+        "url": "https://arxiv.org/abs/2610.35862v1",
+        "summary": "Sihang Li, Xiaofeng Guo, Jinkun Cao et al. — Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic trajectories alone.…",
         "source": "arXiv",
-        "date": "2026-10-23T17:56:28Z"
+        "date": "2026-10-26T17:59:11Z"
       },
       {
-        "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
-        "url": "https://arxiv.org/abs/2610.32964v1",
-        "summary": "Bernardo Perrone Ribeiro, Erkut Akdag, Egor Bondarev — Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear structure, or risk…",
+        "title": "On the stability of learning",
+        "url": "https://arxiv.org/abs/2610.35856v1",
+        "summary": "John J. Vastola — Learning algorithms are usually analyzed under the assumption that informative gradients are continuously available. But this is not always true---learning signals in biological neural networks, for example, may be…",
         "source": "arXiv",
-        "date": "2026-10-23T17:53:30Z"
+        "date": "2026-10-26T17:58:14Z"
       },
       {
-        "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
-        "url": "https://arxiv.org/abs/2610.32955v1",
-        "summary": "Federico Lucca — Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were written by the system…",
+        "title": "Patient-specific rubric-based evaluation of large language models across longitudinal cancer care",
+        "url": "https://arxiv.org/abs/2610.35847v1",
+        "summary": "Wei-Wei Zhang, Pengkai Wang, Yan Li et al. — Large language models (LLMs) show promise in specialty medicine, yet existing evaluations largely focus on isolated clinical encounters rather than tracking how clinical responsibilities evolve across a longitudinal…",
         "source": "arXiv",
-        "date": "2026-10-23T17:49:43Z"
+        "date": "2026-10-26T17:56:26Z"
       },
       {
-        "title": "Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2610.32951v1",
-        "summary": "Yijing Ke, Tianle Cai, Ruosong Wang — Reinforcement learning for large language models often uses separate systems for inference and training. Even with identical weights and BF16 tensors, implementation differences can make an intended on-policy update…",
+        "title": "Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR",
+        "url": "https://arxiv.org/abs/2610.35846v1",
+        "summary": "Yuchen Zhang, Haralambos Mouratidis, Ravi Shekhar — Expanding multilingual ASR systems to new languages is challenging when adaptation must preserve previously supported languages without replaying source-language training data. We study this problem in connector-based…",
         "source": "arXiv",
-        "date": "2026-10-23T17:45:03Z"
+        "date": "2026-10-26T17:56:22Z"
       },
       {
-        "title": "Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models",
-        "url": "https://arxiv.org/abs/2610.32948v1",
-        "summary": "Dianye Huang, Jiamei Guo, Yue Zhou et al. — Objective: To develop a unified vision-language model for prompt-conditioned quantitative ultrasound measurement that addresses the mismatch between continuous measurement targets and discrete token-based numerical…",
+        "title": "Work Agents: Systems, Capabilities, and Optimization",
+        "url": "https://arxiv.org/abs/2610.35845v1",
+        "summary": "Zishan Xu, Enjun Du, Mingqi Gao et al. — As foundation models evolve from information generation to digital work execution, agents are increasingly capable of completing complex tasks across tools, applications, and workflows. However, existing research lacks…",
         "source": "arXiv",
-        "date": "2026-10-23T17:40:58Z"
+        "date": "2026-10-26T17:56:21Z"
       },
       {
-        "title": "Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms",
-        "url": "https://arxiv.org/abs/2610.32945v1",
-        "summary": "Yuhang Ji, Fasheng Xu, Tianjun Feng — Large language model (LLM) platforms introducing advertising must decide how much capability ad revenue should fund and what consumers should pay to avoid ads. We study a monopolistic platform that jointly chooses…",
+        "title": "I-HITL: Inalienable Human-in-the-Loop",
+        "url": "https://arxiv.org/abs/2610.35835v1",
+        "summary": "Samuel Breckenridge, Dani Vilardell, Wenhao Wang et al. — Human oversight is a pillar of AI safety. AI agents' increasing ability to bypass guardrails, though, raises the…",
         "source": "arXiv",
-        "date": "2026-10-23T17:39:42Z"
+        "date": "2026-10-26T17:52:14Z"
       },
       {
-        "title": "Knowledge Distillation across Item and Code Spaces for Parallel Generative Recommendation",
-        "url": "https://arxiv.org/abs/2610.32943v1",
-        "summary": "Yixuan Xu, Hailin Liu, Linxiang Peng et al. — Generative recommendation with semantic IDs represents each item as a sequence of discrete codes derived from its semantic representation and predicts these codes to generate recommendations. Existing semantic-ID…",
+        "title": "Information-Theoretic Secure Aggregation With Heterogeneous Client Quantization",
+        "url": "https://arxiv.org/abs/2610.35833v1",
+        "summary": "Shreya Meel, Sennur Ulukus, Itzhak Tamo — In federated learning (FL), secure aggregation enables a server to compute the sum of local model updates of $N$ clients, without revealing any information on the individual model updates to the server, beyond their…",
         "source": "arXiv",
-        "date": "2026-10-23T17:37:55Z"
+        "date": "2026-10-26T17:51:08Z"
       },
       {
-        "title": "If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs",
-        "url": "https://arxiv.org/abs/2610.32941v1",
-        "summary": "Thomas Landeg, Thierry Tambe — Vision-Language-Action (VLA) models perform well on robotic manipulation, yet remain brittle once their own actions carry them into states their training data barely covers. Recovering from such failures usually…",
+        "title": "Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy",
+        "url": "https://arxiv.org/abs/2610.35832v1",
+        "summary": "Yifei Yao, Yude Zou, Guanbo Jiao et al. — Frontier multimodal large language models (MLLMs) can control robots without robot-specific training, but how their capabilities compare and interact with post-trained vision-language-action (VLA) and world action model…",
         "source": "arXiv",
-        "date": "2026-10-23T17:35:33Z"
+        "date": "2026-10-26T17:51:02Z"
       },
       {
-        "title": "Learning Positive Linear Combinations of ReLUs in Fully Polynomial Time",
-        "url": "https://arxiv.org/abs/2610.32940v1",
-        "summary": "Ilias Diakonikolas, Jelena Diakonikolas, Puqian Wang et al. — We study the fundamental problem of PAC learning positive linear combinations of $k$ arbitrary ReLU activations on $\\mathbb{R}^d$ with respect to the Gaussian distribution, in $L_2$ loss.",
+        "title": "Reva: Real-Time Vulnerability Detection through Contextual Probing of Large Language Models",
+        "url": "https://arxiv.org/abs/2610.35829v1",
+        "summary": "Amine Lbath, Massih-Reza Amini — A vulnerability costs more to fix the later it is discovered. As coding agents generate code faster than developers can review it, software needs a first line of defense screening each new function in real time.",
         "source": "arXiv",
-        "date": "2026-10-23T17:34:15Z"
+        "date": "2026-10-26T17:50:09Z"
       }
     ],
     "labs": [
+      {
+        "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "url": "https://openai.com/index/greptile-code-review-codex-astra",
+        "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+        "source": "OpenAI",
+        "date": "2026-10-26T22:00:00+00:00"
+      },
+      {
+        "title": "Working with academic communities to build scientific understanding",
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+        "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+        "source": "OpenAI",
+        "date": "2026-10-26T14:30:00+00:00"
+      },
+      {
+        "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+        "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+        "source": "OpenAI",
+        "date": "2026-10-26T13:45:00+00:00"
+      },
+      {
+        "title": "ChatGPT’s expanding world of work",
+        "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+        "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+        "source": "OpenAI",
+        "date": "2026-10-26T10:00:00+00:00"
+      },
+      {
+        "title": "How Fanatics and OpenAI streamline the fan experience",
+        "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+        "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+        "source": "OpenAI",
+        "date": "2026-10-26T07:00:00+00:00"
+      },
+      {
+        "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+        "url": "https://openai.com/index/openai-cut-incident-investigation",
+        "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+        "source": "OpenAI",
+        "date": "2026-10-26T07:00:00+00:00"
+      },
+      {
+        "title": "Introducing GPT-6.1 Terra",
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+        "summary": "Bringing fast and capable computer use to everyone",
+        "source": "OpenAI",
+        "date": "2026-10-26T00:00:00+00:00"
+      },
       {
         "title": "Bringing foundational models to the front lines of TB screening",
         "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
@@ -122,227 +171,178 @@
         "summary": "Fast, focused, low-cost decisions for any application.",
         "source": "OpenAI",
         "date": "2026-10-22T19:00:00+00:00"
-      },
-      {
-        "title": "Beyond tree cover: mapping the world’s forest types",
-        "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-        "summary": "Last year, we jointly released Natural Forests of the World 2020 , a 10-meter resolution global map that separated natural forests from all other tree cover. That map answered one question for every patch of land: was it natural forest in 2020 or not? ForTy picked the right forest type 90% of the time, and told forest apart from non-forest land 95% of the time, outperforming other global forest maps.",
-        "source": "Google DeepMind",
-        "date": "2026-10-22T14:30:24+00:00"
-      },
-      {
-        "title": "What FDE means at OpenAI",
-        "url": "https://openai.com/index/forward-deployed-engineering-means",
-        "summary": "What forward deployed engineering means at OpenAI",
-        "source": "OpenAI",
-        "date": "2026-10-22T06:00:00+00:00"
-      },
-      {
-        "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-        "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-        "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-        "source": "OpenAI",
-        "date": "2026-10-22T00:00:00+00:00"
-      },
-      {
-        "title": "Broad access through consistent standards",
-        "url": "https://openai.com/index/broad-access-through-consistent-standards",
-        "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-        "source": "OpenAI",
-        "date": "2026-10-21T21:00:00+00:00"
-      },
-      {
-        "title": "How AT&T is rethinking in-house legal work with OpenAI",
-        "url": "https://openai.com/index/att-legal",
-        "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-        "source": "OpenAI",
-        "date": "2026-10-21T17:00:00+00:00"
-      },
-      {
-        "title": "Empowering frontline maternal care with AI-assisted ultrasound",
-        "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
-        "summary": "Angelica Willis, Research Engineer, Google Research, and Nichole Young-Lin, Clinical Lead, Google for Health A prospective multi-center study demonstrates how AI-based blind sweep ultrasound assessment can enable non-sonographer operators with low-cost probes to deliver expert-level gestational age assessments, marking a significant step toward expanding life-saving maternal care globally. Current methods that…",
-        "source": "Google Research",
-        "date": "2026-10-21T16:23:53+00:00"
-      },
-      {
-        "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-        "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-        "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-        "source": "OpenAI",
-        "date": "2026-10-21T13:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
-        "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
-        "summary": "Turo said it is working with Tesla to directly access the automaker’s API to verify which cars have FSD enabled. Last week, Tesla revealed that around 1.7 million customers have paid for FSD globally, out of more than 10 million cars built and sold to date. Turo said Tesla’s Model 3 and Model Y are the third and fourth-most popular vehicles on its platform this year.",
+        "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+        "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+        "summary": "Simplismart’s software sits between AI models and the computing infrastructure they run on and adjusts how models are deployed and managed to meet customers’ requirements. Additionally, Simplismart allows cloud providers build and operate their own AI inference services on GPU infrastructure using its software. Alongside its investment, Nvidia has been working with Simplismart on technical integrations, including…",
         "source": "TechCrunch",
-        "date": "2026-10-26T12:58:40+00:00"
+        "date": "2026-10-27T11:00:00+00:00"
       },
       {
-        "title": "The best apps for tracking your reading and discovering new books",
-        "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
-        "summary": "Fable is a reading app that combines book tracking with a social platform. It lets you organize reading lists, set reading goals, track streaks, write reviews, and join virtual book clubs. StoryGraph is a reading app that lets users track their reading, discover new books, and access detailed reading statistics and personalized recommendations.",
+        "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+        "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+        "summary": "I just went to write a tweet and a massive hand popped up pointing to the promote button 😵‍💫 pic.twitter.com/cLPP5pNaNP Why is there a man pointing on my screen?!?! pic.twitter.com/CXhfXVKZLH what the hell is this? jesus christ please never do this again twitter pic.twitter.com/uRFBha7Vhl I was going to post and this arm came out of nowhere to point at the promote button. LOL WHAT. pic.twitter.com/4Iicq5tKoK WTF…",
         "source": "TechCrunch",
-        "date": "2026-10-26T01:10:00+00:00"
+        "date": "2026-10-27T06:34:44+00:00"
       },
       {
-        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-        "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Three months after Elon Musk declared that Grok would release a full-length, “historically accurate” movie version of “The Odyssey,” Grok has published a whole seven minutes, which the company is now calling “Episode 1 of our Odyssey series.” Musk had previously lashed out at Christopher Nolan’s version of “The Odyssey” because Nolan cast nonwhite and transgender…",
+        "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+        "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+        "summary": "Disrupt doors open Oct. The company released dots , its assistant offering, at its developer day in late September. Does dots collect similar data?",
         "source": "TechCrunch",
-        "date": "2026-10-25T21:31:16+00:00"
+        "date": "2026-10-27T02:00:00+00:00"
       },
       {
-        "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
-        "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
-        "summary": "I don’t even think they’re in conflict. Government can do bad things. People were glomming on to the book as it was.",
+        "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+        "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+        "summary": "Disrupt doors open Oct. Asked about the debate over the model’s intent, Cohere co-founder Ivan Zhang told TechCrunch that Cohere has seen its own models pick up strange habits in training simulators. Cohere, which sells its own AI models to governments, stands to benefit if officials grow warier of free Chinese alternatives.",
         "source": "TechCrunch",
-        "date": "2026-10-25T20:20:08+00:00"
+        "date": "2026-10-27T01:12:21+00:00"
       },
       {
-        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. “Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech,” Slok said. Is this simply a matter of non-tech companies lagging behind the tech giants?",
+        "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+        "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+        "summary": "The tech must work well. Today, Databricks is the big company that works with startups, selling their products under Databricks’ own terms and cybersecurity setup. Tavakoli-Shiraji groups enterprises’ main concerns and objections into four categories he calls the four Cs: context, choice, cost, and control.",
         "source": "TechCrunch",
-        "date": "2026-10-25T16:57:32+00:00"
+        "date": "2026-10-26T22:00:00+00:00"
       },
       {
-        "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
-        "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
-        "summary": "Still, federal regulators are clearly seeking some uniform way of identifying autonomous vehicles. The agency is already working on a federal automated vehicle framework and is trying to update federal motor vehicle safety standards, which already govern automakers today. The upshot: Profits fell 43% year-over-year.",
+        "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+        "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+        "summary": "But Instagram’s latest update could upend YouTube’s long-held position as the most lucrative platform for creators, if only Instagram plays its cards right. Mosseri explained in a video announcement why the platform is suddenly embracing long-form content after scrapping its old video product, IGTV. Instagram is testing a feature called “Clips as Reels,” which lets creators make Reels out of their long-form content.",
         "source": "TechCrunch",
-        "date": "2026-10-25T16:05:00+00:00"
+        "date": "2026-10-26T21:05:11+00:00"
       },
       {
-        "title": "The hottest AI wearables and gadgets you should know about",
-        "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-        "summary": "Even OpenAI is working on a compact AI companion device. The device will cost $249. The device includes 300 free monthly transcription minutes, but with the $8.33 per month Pro plan, you upgrade your transcription time to 1,200 minutes.",
+        "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+        "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. Others have reported display malfunctions.",
         "source": "TechCrunch",
-        "date": "2026-10-25T14:10:00+00:00"
+        "date": "2026-10-26T19:22:40+00:00"
       },
       {
-        "title": "Starlink seems to be working normally again in Ukraine",
-        "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. SpaceX appears to have lifted restrictions the Ukrainian military’s of use Starshield — the military-grade version of the company’s Starlink internet system. President Donald Trump reportedly called SpaceX CEO Elon Musk on Wednesday and asked him to restore Starshield service.",
+        "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+        "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+        "summary": "Helion landed $175 million , while CFS reeled in $85 million . CFS is a member of the Fusion Industry Association. Not every fusion startup that has worked with the government has given up equity.",
         "source": "TechCrunch",
-        "date": "2026-10-24T20:46:34+00:00"
+        "date": "2026-10-26T18:59:52+00:00"
       },
       {
-        "title": "Will AI expose the rickety infrastructure of the internet?",
-        "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-        "summary": "So we have governments taking down websites, we have really popular websites that are going down briefly to be able to fix this vulnerability. Because a lot of people, companies, governments, maybe that small neighborhood website, they’re shutting these [websites] down. Sean: Anthony, I think you made a really good point.",
+        "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+        "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+        "summary": "Bedrock has raised nearly $1 billion since it was founded in 2024 by a group of autonomous vehicle and robotics industry veterans. The fresh capital will help Bedrock accelerate its transition to commercial work. Bedrock is betting that the industry will increasingly turn to autonomous driving tech to help close that labor gap.",
         "source": "TechCrunch",
-        "date": "2026-10-24T20:15:33+00:00"
+        "date": "2026-10-26T17:45:00+00:00"
       },
       {
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-        "summary": "However, the company noticed its users were using separate AI agents to handle their email inboxes instead. At its peak, the platform let users test more than 800 models, including from companies such as OpenAI, Google, and Anthropic. The platform shut down in March 2026.",
+        "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+        "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+        "summary": "More than half of customers spending at least $100,000 annually now use both the Claude platform and a first-party app like Claude Code or Cowork, up from about 30% at the end of last year. As of September 30, Anthropic recorded more than 11,900 customers spending at least $100,000; more than 1,900 customers spending upward of $1 million; and about 250 customers spending $10 million or more annually. Anthropic also…",
         "source": "TechCrunch",
-        "date": "2026-10-24T19:00:00+00:00"
+        "date": "2026-10-26T16:49:42+00:00"
       },
       {
-        "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-        "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. An Instacart spokesperson declined to comment.",
+        "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+        "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+        "summary": "In a statement, SpaceX called the deal the “largest committed GPU financing” . The financing follows a blockbuster third quarter for SpaceX’s AI business . Capital expenditures also surged to nearly $20 billion, up from $6.9 billion a year earlier, as SpaceX races to expand its compute footprint.",
         "source": "TechCrunch",
-        "date": "2026-10-24T16:30:00+00:00"
+        "date": "2026-10-26T16:46:36+00:00"
       },
       {
-        "title": "Block’s new voice model sounds eerily human",
-        "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-        "summary": "The company said the model, called Dessa, is trained fully on human speech and a single NVIDIA GPU rack. Dorsey’s company claims that emotion is built into its model. Dessa is a full-duplex speech-to-speech model that you can run on consumer GPUs.",
+        "title": "Microsoft offers buyouts to around 60,000 employees",
+        "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+        "summary": "Microsoft is offering buyouts to around 60,000 employees, the company confirmed to TechCrunch on Monday. Microsoft’s chief people officer, Amy Coleman, sent employees a note about the buyouts, which was also published on the company’s website. Earlier this year, Microsoft offered buyouts to retirement-age employees, with more than 30% of the roughly 8,750 eligible workers accepting.",
         "source": "TechCrunch",
-        "date": "2026-10-24T16:00:00+00:00"
+        "date": "2026-10-26T15:58:25+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Anthropic S-1",
-        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-        "summary": "328 points, 274 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-10-26T13:04:50+00:00"
-      },
-      {
-        "title": "The city that fought Flock",
-        "url": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
-        "summary": "She felt misled by Flock. “Stop Flock, sign here,” one sign says. Earlier this year, while the Huntington Police Department was engaging in talks with Flock, Farrell released a public safety dashboard on the city website.",
+        "title": "AirFly’s wireless headphone dongle adds a screen to guide you through the pairing process",
+        "url": "https://www.theverge.com/tech/1018679/twelve-south-airfly-view-screen-display-wireless-headphone-earbuds-airplane-adapter",
+        "summary": "The new Airfly View makes it a little easier to connect wireless headphones with step-by-step instructions.﻿ The new Airfly View makes it a little easier to connect wireless headphones with step-by-step instructions.﻿ If you buy something from a link, The Verge may earn a commission. Twelve South has announced a new version of its Airfly dongle that simplifies the pairing process when connecting wireless headphones…",
         "source": "The Verge",
-        "date": "2026-10-26T10:00:00+00:00"
+        "date": "2026-10-27T13:00:00+00:00"
       },
       {
-        "title": "Switzerland. Block by block. At 1:1 scale",
-        "url": "https://blocks.manifold3d.ch/",
-        "summary": "Die kostet ab 15 CHF. Mod, Texturpaket und Shader sind gratis und kommen genauso mit dem Gratis-Ausschnitt Jungfrau-Aletsch. Die Welt braucht den Mod Cubic Chunks, und den gibt es nur für Java. (300 points, 135 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-26T08:46:09+00:00"
-      },
-      {
-        "title": "Show HN: TitleArt – Make text like it's 1997",
-        "url": "https://titleart.dvy.io/",
-        "summary": "305 points, 54 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-10-26T03:23:57+00:00"
-      },
-      {
-        "title": "IBM CEO says open weight models are now good and cheap on-prem",
-        "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-        "summary": "The CEO said open weight models currently deliver “anywhere from 25 percent to 10 percent of the token cost of the frontier models. Red Hat was the star, growing eleven percent and increasing annual recurring revenue by 30 percent. Total quarterly revenue hit $17.1 billion, up five percent. (352 points, 252 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-26T01:47:46+00:00"
-      },
-      {
-        "title": "Lula wins election after final votes tallied",
-        "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
-        "summary": "451 points, 504 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-10-26T00:31:07+00:00"
-      },
-      {
-        "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
-        "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-        "summary": "The iPhone Duo is the most repairable foldable yet, but that’s not saying much. The iPhone Duo is the most repairable foldable yet, but that’s not saying much. It found some interesting details about how Apple might be hiding the crease on the Duo’s folding screen and gave it a 5/10 repairability score.",
+        "title": "Fujifilm’s Instax Mini Evo 2 adds a touchscreen and video recording",
+        "url": "https://www.theverge.com/gadgets/1019300/fujifilm-instax-mini-evo-2-instant-camera-price-availability",
+        "summary": "The most capable Instax is now even closer to a traditional digital camera.﻿ The most capable Instax is now even closer to a traditional digital camera.﻿ Fujifilm is trying to find the right balance of fun and photography with its latest hybrid instant camera. Like its predecessor, the Instax Mini Evo 2 feels less like a retro gimmick, and more like a basic digital camera that just happens to have a built-in…",
         "source": "The Verge",
-        "date": "2026-10-25T21:40:27+00:00"
+        "date": "2026-10-27T12:31:33+00:00"
       },
       {
-        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-        "url": "https://minimaxir.com/2026/10/cheap-llms/",
-        "summary": "OpenAI announced GPT-5.6 Sol and Luna. OpenAI announces that they cut the price of GPT-5.6 Luna by 80% (???) to $0.20 / $1.20 / $0.02 . Cost-per-task for GPT-5.6 Luna after the massive price reduction. (379 points, 377 comments on Hacker News)",
+        "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
+        "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
+        "summary": "General Motors’ product chief breaks down the company’s software evolution, the physics of multisensor vehicle safety, and why personally owned autonomous vehicles beat robotaxis. General Motors’ product chief breaks down the company’s software evolution, the physics of multisensor vehicle safety, and why personally owned autonomous vehicles beat robotaxis. Our philosophy is: If we’re going to design an autonomous…",
+        "source": "The Verge",
+        "date": "2026-10-27T11:00:00+00:00"
+      },
+      {
+        "title": "Data center backlash is uniting America",
+        "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+        "summary": "A higher percentage opposed data centers in their own communities, at 59 percent. Lawrence’s data center plan includes environmental standards, worker protections, and “zoning buffers” for data center development. Joe Lombardo “ data center Joe ,” highlighting his past supportive comments about data centers and money his campaign took from AI-connected donors.",
+        "source": "The Verge",
+        "date": "2026-10-27T10:00:00+00:00"
+      },
+      {
+        "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
+        "url": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
+        "summary": "The $1,300 Predator Atlas 8 will be available on November 1st.﻿ The $1,300 Predator Atlas 8 will be available on November 1st.﻿ If you buy something from a link, The Verge may earn a commission. See our ethics statement. Acer said online orders will open again on November 1st alongside in-store availability.",
+        "source": "The Verge",
+        "date": "2026-10-27T09:54:22+00:00"
+      },
+      {
+        "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+        "summary": "This time OpenAI says it’s taking new advice from scientists on how to release the results. This time OpenAI says it’s taking new advice from scientists on how to release the results. The Exponential Time Hypothesis is False.",
+        "source": "The Verge",
+        "date": "2026-10-26T23:34:58+00:00"
+      },
+      {
+        "title": "The Exponential Time Hypothesis Is False [pdf]",
+        "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+        "summary": "676 points, 252 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-10-25T21:11:31+00:00"
+        "date": "2026-10-26T21:59:15+00:00"
       },
       {
-        "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
-        "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-        "summary": "310 points, 166 comments on Hacker News",
+        "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+        "url": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+        "summary": "Samsung’s discounted memory cards can store dozens of games, depending on their size. Samsung’s discounted memory cards can store dozens of games, depending on their size. The microSD Express card offers sequential read speeds of up to 800MB/s, but only gadgets with a microSD Express card slot can take full advantage of the highest speeds.",
+        "source": "The Verge",
+        "date": "2026-10-26T21:56:36+00:00"
+      },
+      {
+        "title": "Anthropic is burning gas to feed the AI boom",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+        "summary": "Anthropic is clear that data centers will run on gas, to the company’s own detriment. Anthropic is clear that data centers will run on gas, to the company’s own detriment. Now, a shortage of gas turbines is slowing data center construction .",
+        "source": "The Verge",
+        "date": "2026-10-26T21:45:31+00:00"
+      },
+      {
+        "title": "Three new discoveries in mathematics, computer science, and physics",
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+        "summary": "983 points, 533 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-10-25T21:08:28+00:00"
+        "date": "2026-10-26T21:35:28+00:00"
       },
       {
-        "title": "Scott Walker’s The Drift will get under your skin",
-        "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
-        "summary": "Walker’s 2006 album is unsettling, bizarre, and the perfect way to kill a party. Walker’s 2006 album is unsettling, bizarre, and the perfect way to kill a party. Scott Walker’s The Drift is the opposite of that.",
-        "source": "The Verge",
-        "date": "2026-10-25T21:08:09+00:00"
+        "title": "The EPA Is Quietly Killing Its Web Archive",
+        "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+        "summary": "This isn’t the first time the environmental agency has tried to shutter the online web archive. Support investigative journalism today . Support investigative journalism today . (287 points, 53 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-26T19:05:41+00:00"
       },
       {
-        "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
-        "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
-        "summary": "A weak spot in the hinge may be failing and cracking iPhone Duo screens. A weak spot in the hinge may be failing and cracking iPhone Duo screens. What he found is that the Duo’s hinge is quite complex, consisting of a gear-like central hinge and two different types of linking hinges.",
+        "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+        "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+        "summary": "The latest iOS update also adds dual-camera use in group FaceTime calls. The latest iOS update also adds dual-camera use in group FaceTime calls. Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo.",
         "source": "The Verge",
-        "date": "2026-10-25T20:16:19+00:00"
-      },
-      {
-        "title": "Zen Browser is the Arc replacement I was looking for",
-        "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
-        "summary": "Zen rips off all the best bits of Arc, but skips the AI and bloat. Zen unabashedly rips off all the best bits of Arc. Zen just feels right.",
-        "source": "The Verge",
-        "date": "2026-10-25T19:24:50+00:00"
+        "date": "2026-10-26T18:51:06+00:00"
       }
     ]
   }
