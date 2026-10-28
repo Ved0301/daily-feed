@@ -1,93 +1,135 @@
 {
-  "generated_at": "2026-10-27T13:00:29.787609+00:00",
+  "generated_at": "2026-10-28T13:51:18.236011+00:00",
   "sections": {
     "research": [
       {
-        "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
-        "url": "https://arxiv.org/abs/2610.35868v1",
-        "summary": "Chao Wan, Paul Jünger, Beixi Du et al. — While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to…",
+        "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+        "url": "https://arxiv.org/abs/2610.37668v1",
+        "summary": "Prakhar Kaushik, Soumava Paul, Alan Yuille — Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels:…",
         "source": "arXiv",
-        "date": "2026-10-26T17:59:44Z"
+        "date": "2026-10-27T17:59:59Z"
       },
       {
-        "title": "Center-of-Mass Interpretation of Evolution Strategies",
-        "url": "https://arxiv.org/abs/2610.35865v1",
-        "summary": "Akshat Gupta — Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presented as an estimate…",
+        "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+        "url": "https://arxiv.org/abs/2610.37666v1",
+        "summary": "Chaehyun Kim, Chi-Pin Huang, Jisoo Kim et al. — Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations.",
         "source": "arXiv",
-        "date": "2026-10-26T17:59:33Z"
+        "date": "2026-10-27T17:59:52Z"
       },
       {
-        "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
-        "url": "https://arxiv.org/abs/2610.35866v1",
-        "summary": "Xi Chen, Chongjian Ge, Yiran Xu et al. — As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark for evaluating…",
+        "title": "When Should We Intervene at Test Time?",
+        "url": "https://arxiv.org/abs/2610.37658v1",
+        "summary": "Jiahao Zhang, Xinling Wen, Liangliang Li et al. — Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve corrupted images…",
         "source": "arXiv",
-        "date": "2026-10-26T17:59:33Z"
+        "date": "2026-10-27T17:58:53Z"
       },
       {
-        "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
-        "url": "https://arxiv.org/abs/2610.35862v1",
-        "summary": "Sihang Li, Xiaofeng Guo, Jinkun Cao et al. — Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic trajectories alone.…",
+        "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+        "url": "https://arxiv.org/abs/2610.37657v1",
+        "summary": "Igor Shilov, Xiaoxue Yang, Alexander Panfilov et al. — We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention…",
         "source": "arXiv",
-        "date": "2026-10-26T17:59:11Z"
+        "date": "2026-10-27T17:58:52Z"
       },
       {
-        "title": "On the stability of learning",
-        "url": "https://arxiv.org/abs/2610.35856v1",
-        "summary": "John J. Vastola — Learning algorithms are usually analyzed under the assumption that informative gradients are continuously available. But this is not always true---learning signals in biological neural networks, for example, may be…",
+        "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+        "url": "https://arxiv.org/abs/2610.37656v1",
+        "summary": "Aakash Sarkar, Ananya Mukherjee, Motoshige Sato — Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's father; verifying a…",
         "source": "arXiv",
-        "date": "2026-10-26T17:58:14Z"
+        "date": "2026-10-27T17:58:48Z"
       },
       {
-        "title": "Patient-specific rubric-based evaluation of large language models across longitudinal cancer care",
-        "url": "https://arxiv.org/abs/2610.35847v1",
-        "summary": "Wei-Wei Zhang, Pengkai Wang, Yan Li et al. — Large language models (LLMs) show promise in specialty medicine, yet existing evaluations largely focus on isolated clinical encounters rather than tracking how clinical responsibilities evolve across a longitudinal…",
+        "title": "KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry",
+        "url": "https://arxiv.org/abs/2610.37655v1",
+        "summary": "Wenqing Peng, Michael Boy, Zhi-Song Liu — Atmospheric chemical mechanisms are commonly distributed in the language of the Kinetic PreProcessor (KPP), which generates efficient Fortran or C code but does not fit into the differentiable programming frameworks in…",
         "source": "arXiv",
-        "date": "2026-10-26T17:56:26Z"
+        "date": "2026-10-27T17:58:40Z"
       },
       {
-        "title": "Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR",
-        "url": "https://arxiv.org/abs/2610.35846v1",
-        "summary": "Yuchen Zhang, Haralambos Mouratidis, Ravi Shekhar — Expanding multilingual ASR systems to new languages is challenging when adaptation must preserve previously supported languages without replaying source-language training data. We study this problem in connector-based…",
+        "title": "Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well",
+        "url": "https://arxiv.org/abs/2610.37652v1",
+        "summary": "Ian Chuang, Hiya Shah, Vamsi Chilamkur et al. — Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As robots attempt more…",
         "source": "arXiv",
-        "date": "2026-10-26T17:56:22Z"
+        "date": "2026-10-27T17:58:20Z"
       },
       {
-        "title": "Work Agents: Systems, Capabilities, and Optimization",
-        "url": "https://arxiv.org/abs/2610.35845v1",
-        "summary": "Zishan Xu, Enjun Du, Mingqi Gao et al. — As foundation models evolve from information generation to digital work execution, agents are increasingly capable of completing complex tasks across tools, applications, and workflows. However, existing research lacks…",
+        "title": "GEPA-Curator: Curated Learning for Self Improving Agents",
+        "url": "https://arxiv.org/abs/2610.37651v1",
+        "summary": "Zack Yu, Nicholas Lee, Minjae Lee et al. — Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA learn from failed…",
         "source": "arXiv",
-        "date": "2026-10-26T17:56:21Z"
+        "date": "2026-10-27T17:58:11Z"
       },
       {
-        "title": "I-HITL: Inalienable Human-in-the-Loop",
-        "url": "https://arxiv.org/abs/2610.35835v1",
-        "summary": "Samuel Breckenridge, Dani Vilardell, Wenhao Wang et al. — Human oversight is a pillar of AI safety. AI agents' increasing ability to bypass guardrails, though, raises the…",
+        "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+        "url": "https://arxiv.org/abs/2610.37649v1",
+        "summary": "Zhen Yang, Wen Wang, Xander Xu et al. — Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with altered physical laws, can large language models (LLMs) notice unexpected behavior, such as heavier…",
         "source": "arXiv",
-        "date": "2026-10-26T17:52:14Z"
+        "date": "2026-10-27T17:57:00Z"
       },
       {
-        "title": "Information-Theoretic Secure Aggregation With Heterogeneous Client Quantization",
-        "url": "https://arxiv.org/abs/2610.35833v1",
-        "summary": "Shreya Meel, Sennur Ulukus, Itzhak Tamo — In federated learning (FL), secure aggregation enables a server to compute the sum of local model updates of $N$ clients, without revealing any information on the individual model updates to the server, beyond their…",
+        "title": "Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis",
+        "url": "https://arxiv.org/abs/2610.37648v1",
+        "summary": "Andrew Szot, Samira Abnar, Omar Attia et al. — We explore how to build performant large language model (LLM) tool-use agents that complete complex, multi-step tasks. Specifically, we study how data composition in synthetically generated tool-use environments affects…",
         "source": "arXiv",
-        "date": "2026-10-26T17:51:08Z"
+        "date": "2026-10-27T17:56:46Z"
       },
       {
-        "title": "Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy",
-        "url": "https://arxiv.org/abs/2610.35832v1",
-        "summary": "Yifei Yao, Yude Zou, Guanbo Jiao et al. — Frontier multimodal large language models (MLLMs) can control robots without robot-specific training, but how their capabilities compare and interact with post-trained vision-language-action (VLA) and world action model…",
+        "title": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
+        "url": "https://arxiv.org/abs/2610.37647v1",
+        "summary": "Athanasios Glentis, Dawei Li, Mingyi Hong — Weight decay and explicit weight-norm constraints improve optimizer performance in language model pretraining, yet a unified understanding of why such control helps and how much is needed remains incomplete.",
         "source": "arXiv",
-        "date": "2026-10-26T17:51:02Z"
+        "date": "2026-10-27T17:56:40Z"
       },
       {
-        "title": "Reva: Real-Time Vulnerability Detection through Contextual Probing of Large Language Models",
-        "url": "https://arxiv.org/abs/2610.35829v1",
-        "summary": "Amine Lbath, Massih-Reza Amini — A vulnerability costs more to fix the later it is discovered. As coding agents generate code faster than developers can review it, software needs a first line of defense screening each new function in real time.",
+        "title": "Multi-State Linear Attention with Generalized Second-Order Routing",
+        "url": "https://arxiv.org/abs/2610.37645v1",
+        "summary": "Hee Seung Hwang, Sanghyuk Chun, Xindi Wu et al. — Self-attention plays a key role in long-sequence modeling, but its quadratic time complexity fundamentally limits the scaling of Large Language Models. Recently, Multi-State Linear Attention (MSLA) mechanisms have been…",
         "source": "arXiv",
-        "date": "2026-10-26T17:50:09Z"
+        "date": "2026-10-27T17:55:49Z"
       }
     ],
     "labs": [
+      {
+        "title": "Legora is building the agentic operating system for legal work",
+        "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+        "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+        "source": "OpenAI",
+        "date": "2026-10-28T09:30:00+00:00"
+      },
+      {
+        "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+        "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+        "summary": "Modern LLMs achieve impressive performance via pre-training and in-context learning (ICL). The sleep paradigm addresses catastrophic forgetting and continuous adaptation through two stages: memory consolidation and dreaming. Our sleep paradigm provides a path toward autonomous, continually learning AI systems.",
+        "source": "Google Research",
+        "date": "2026-10-27T17:35:00+00:00"
+      },
+      {
+        "title": "Genie 4: A new generation of world simulation",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+        "source": "Google DeepMind",
+        "date": "2026-10-27T16:01:38+00:00"
+      },
+      {
+        "title": "Retell uses OpenAI models to help power 100M monthly calls",
+        "url": "https://openai.com/index/retell-ai",
+        "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+        "source": "OpenAI",
+        "date": "2026-10-27T15:00:00+00:00"
+      },
+      {
+        "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+        "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+        "source": "OpenAI",
+        "date": "2026-10-27T07:00:00+00:00"
+      },
+      {
+        "title": "How Check Point accelerates vulnerability research with Daybreak",
+        "url": "https://openai.com/index/check-point-daybreak",
+        "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+        "source": "OpenAI",
+        "date": "2026-10-27T00:00:00+00:00"
+      },
       {
         "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
         "url": "https://openai.com/index/greptile-code-review-codex-astra",
@@ -129,220 +171,178 @@
         "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
         "source": "OpenAI",
         "date": "2026-10-26T07:00:00+00:00"
-      },
-      {
-        "title": "Introducing GPT-6.1 Terra",
-        "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-        "summary": "Bringing fast and capable computer use to everyone",
-        "source": "OpenAI",
-        "date": "2026-10-26T00:00:00+00:00"
-      },
-      {
-        "title": "Bringing foundational models to the front lines of TB screening",
-        "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-        "summary": "Open models help enable public health systems to build sovereign solutions that protect patient privacy. Because the models run on local infrastructure, patient data remains within national borders, giving health leaders full sovereignty over clinical deployment. Recognizing that imaging equipment cannot reach every remote health post, Google Research also developed Health Acoustic Representations (HeAR) .",
-        "source": "Google Research",
-        "date": "2026-10-23T18:51:33+00:00"
-      },
-      {
-        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-        "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-        "source": "OpenAI",
-        "date": "2026-10-23T17:00:00+00:00"
-      },
-      {
-        "title": "Securing our frontier model training environment",
-        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-        "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-        "source": "OpenAI",
-        "date": "2026-10-23T10:00:00+00:00"
-      },
-      {
-        "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-        "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-        "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-        "source": "OpenAI",
-        "date": "2026-10-23T00:00:00+00:00"
-      },
-      {
-        "title": "Build more responsive apps with the Decisions API",
-        "url": "https://openai.com/index/decisions-api",
-        "summary": "Fast, focused, low-cost decisions for any application.",
-        "source": "OpenAI",
-        "date": "2026-10-22T19:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-        "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-        "summary": "Simplismart’s software sits between AI models and the computing infrastructure they run on and adjusts how models are deployed and managed to meet customers’ requirements. Additionally, Simplismart allows cloud providers build and operate their own AI inference services on GPU infrastructure using its software. Alongside its investment, Nvidia has been working with Simplismart on technical integrations, including…",
+        "title": "Free Fire returns to India as Garena launches localized version four years after ban",
+        "url": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
+        "summary": "On Wednesday, Garena launched the localized version, called Free Fire India, as a standalone game available on Android and iOS. Still, Garena remained active in India. Vaibhav Das Mundhra, Garena’s head of operations in India, told TechCrunch that Free Fire MAX would remain available alongside Free Fire India.",
         "source": "TechCrunch",
-        "date": "2026-10-27T11:00:00+00:00"
+        "date": "2026-10-28T13:39:18+00:00"
       },
       {
-        "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
-        "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-        "summary": "I just went to write a tweet and a massive hand popped up pointing to the promote button 😵‍💫 pic.twitter.com/cLPP5pNaNP Why is there a man pointing on my screen?!?! pic.twitter.com/CXhfXVKZLH what the hell is this? jesus christ please never do this again twitter pic.twitter.com/uRFBha7Vhl I was going to post and this arm came out of nowhere to point at the promote button. LOL WHAT. pic.twitter.com/4Iicq5tKoK WTF…",
+        "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
+        "url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
+        "summary": "Kodiak AI will deliver 75 self-driving trucks to freight company DTL Transport starting in 2028. Atlas currently owns and operates 35 driverless trucks equipped with Kodiak’s self-driving system. Kodiak didn’t reveal the value of the deal with DTL Transport.",
         "source": "TechCrunch",
-        "date": "2026-10-27T06:34:44+00:00"
+        "date": "2026-10-28T13:00:00+00:00"
       },
       {
-        "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-        "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-        "summary": "Disrupt doors open Oct. The company released dots , its assistant offering, at its developer day in late September. Does dots collect similar data?",
+        "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+        "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. TechCrunch Founder Summit is a one-day founder 101 bootcamp designed to help you tackle the real challenges of building and growing a startup. One full day of founder insights from scaling experts.",
         "source": "TechCrunch",
-        "date": "2026-10-27T02:00:00+00:00"
+        "date": "2026-10-28T13:00:00+00:00"
       },
       {
-        "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-        "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-        "summary": "Disrupt doors open Oct. Asked about the debate over the model’s intent, Cohere co-founder Ivan Zhang told TechCrunch that Cohere has seen its own models pick up strange habits in training simulators. Cohere, which sells its own AI models to governments, stands to benefit if officials grow warier of free Chinese alternatives.",
+        "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+        "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+        "summary": "That valued Jio at around ₹12.5 trillion (around $131.9 billion), making it India’s second-most valuable listed company after its parent, Reliance Industries, which is worth about ₹16 trillion (around $168.6 billion). Jio had total borrowings of ₹613.7 billion (around $6.5 billion) as of June 30. Meta, then known as Facebook, invested $5.7 billion , while Google put in $4.5 billion .",
         "source": "TechCrunch",
-        "date": "2026-10-27T01:12:21+00:00"
+        "date": "2026-10-28T05:20:32+00:00"
       },
       {
-        "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-        "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-        "summary": "The tech must work well. Today, Databricks is the big company that works with startups, selling their products under Databricks’ own terms and cybersecurity setup. Tavakoli-Shiraji groups enterprises’ main concerns and objections into four categories he calls the four Cs: context, choice, cost, and control.",
+        "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+        "summary": "Since then, Amazon has poured billions more into Anthropic. Amazon can waive the cap. Amazon did this by investing $5 billion in each of Anthropic’s last two funding rounds.",
         "source": "TechCrunch",
-        "date": "2026-10-26T22:00:00+00:00"
+        "date": "2026-10-28T01:15:28+00:00"
       },
       {
-        "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-        "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
-        "summary": "But Instagram’s latest update could upend YouTube’s long-held position as the most lucrative platform for creators, if only Instagram plays its cards right. Mosseri explained in a video announcement why the platform is suddenly embracing long-form content after scrapping its old video product, IGTV. Instagram is testing a feature called “Clips as Reels,” which lets creators make Reels out of their long-form content.",
+        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+        "summary": "ChatGPT helped her ask Dr. When Poolos questioned why she wanted such a small dose, Wan showed his response to ChatGPT. In November 2025, Amazon told Wan she would be laid off.",
         "source": "TechCrunch",
-        "date": "2026-10-26T21:05:11+00:00"
+        "date": "2026-10-27T23:34:27+00:00"
       },
       {
-        "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-        "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. Others have reported display malfunctions.",
+        "title": "The data center boom has an upside: innovation for the US grid",
+        "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. WeaveGrid’s software can help organizations efficiently deploy energy while also optimizing connections to reduce utility payers’ bills, the founder said.",
         "source": "TechCrunch",
-        "date": "2026-10-26T19:22:40+00:00"
+        "date": "2026-10-27T22:55:41+00:00"
       },
       {
-        "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-        "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-        "summary": "Helion landed $175 million , while CFS reeled in $85 million . CFS is a member of the Fusion Industry Association. Not every fusion startup that has worked with the government has given up equity.",
+        "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+        "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. Insurance tech company Guidewire announced Tuesday the acquisition of the agentic underwriting insurance company Hyperexponential for $1.7 billion in cash.",
         "source": "TechCrunch",
-        "date": "2026-10-26T18:59:52+00:00"
+        "date": "2026-10-27T22:26:03+00:00"
       },
       {
-        "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-        "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-        "summary": "Bedrock has raised nearly $1 billion since it was founded in 2024 by a group of autonomous vehicle and robotics industry veterans. The fresh capital will help Bedrock accelerate its transition to commercial work. Bedrock is betting that the industry will increasingly turn to autonomous driving tech to help close that labor gap.",
+        "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+        "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+        "summary": "Deep tech fund Interlagos Capital is also raising a $400 million Fund II. Speaking of Benchmark, the firm filed what looks like four new partner-only funds , called Benchmark Partners Founders’ Fund T1, Benchmark Partners Founders’ Fund 2, Benchmark Partners Founders’ Fund 2-A, and Benchmark Partners Founders’ Fund T1-A, seeking to raise $220 million , $132 million , $4.5 million, and $7.5 million, respectively.…",
         "source": "TechCrunch",
-        "date": "2026-10-26T17:45:00+00:00"
+        "date": "2026-10-27T22:17:18+00:00"
       },
       {
-        "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-        "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-        "summary": "More than half of customers spending at least $100,000 annually now use both the Claude platform and a first-party app like Claude Code or Cowork, up from about 30% at the end of last year. As of September 30, Anthropic recorded more than 11,900 customers spending at least $100,000; more than 1,900 customers spending upward of $1 million; and about 250 customers spending $10 million or more annually. Anthropic also…",
+        "title": "GM is embracing hybrids now",
+        "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
+        "summary": "The company was awarded $500 million under the Biden administration to support converting a different factory in Lansing to produce electric vehicles, including hybrid, battery-electric, plug-in electric hybrid, and hydrogen fuel cell electric vehicles. GM eschewed hybrids in favor of battery-electric vehicles. GM said Tuesday it will share specific details on its hybrid vehicle production plans closer to launch.",
         "source": "TechCrunch",
-        "date": "2026-10-26T16:49:42+00:00"
+        "date": "2026-10-27T21:47:02+00:00"
       },
       {
-        "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-        "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-        "summary": "In a statement, SpaceX called the deal the “largest committed GPU financing” . The financing follows a blockbuster third quarter for SpaceX’s AI business . Capital expenditures also surged to nearly $20 billion, up from $6.9 billion a year earlier, as SpaceX races to expand its compute footprint.",
+        "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+        "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Financial giant Bank of America is reminding customers to bank safely by kindly not sharing your banking credentials with your AI agent. A spokesperson for Bank of America confirmed the authenticity of the bank’s email that was posted to social media .",
         "source": "TechCrunch",
-        "date": "2026-10-26T16:46:36+00:00"
+        "date": "2026-10-27T21:44:34+00:00"
       },
       {
-        "title": "Microsoft offers buyouts to around 60,000 employees",
-        "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
-        "summary": "Microsoft is offering buyouts to around 60,000 employees, the company confirmed to TechCrunch on Monday. Microsoft’s chief people officer, Amy Coleman, sent employees a note about the buyouts, which was also published on the company’s website. Earlier this year, Microsoft offered buyouts to retirement-age employees, with more than 30% of the roughly 8,750 eligible workers accepting.",
+        "title": "Who’s really in charge at Anthropic after the IPO?",
+        "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+        "summary": "There is one vacancy on the board. Second, Anthropic has allocated significant control of its board to a Long-Term Benefit Trust (LTBT), an independent panel meant to keep the company focused on mission to benefit humanity. Finally, the board can put a check on the LTBT.",
         "source": "TechCrunch",
-        "date": "2026-10-26T15:58:25+00:00"
+        "date": "2026-10-27T21:38:28+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "AirFly’s wireless headphone dongle adds a screen to guide you through the pairing process",
-        "url": "https://www.theverge.com/tech/1018679/twelve-south-airfly-view-screen-display-wireless-headphone-earbuds-airplane-adapter",
-        "summary": "The new Airfly View makes it a little easier to connect wireless headphones with step-by-step instructions.﻿ The new Airfly View makes it a little easier to connect wireless headphones with step-by-step instructions.﻿ If you buy something from a link, The Verge may earn a commission. Twelve South has announced a new version of its Airfly dongle that simplifies the pairing process when connecting wireless headphones…",
+        "title": "This is how badly X wants you to pay to promote your posts",
+        "url": "https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts",
+        "summary": "You have to hand it to X’s latest promotional gimmick.﻿ You have to hand it to X’s latest promotional gimmick.﻿ After Elon Musk warned that “advertisers who post ads that are ugly, shrill, strident or overstate claims about their product will be barred from advertising” on X earlier this month, the platform now appears to be using a jarring animated arm that reaches across the screen to draw attention to the…",
         "source": "The Verge",
-        "date": "2026-10-27T13:00:00+00:00"
+        "date": "2026-10-28T13:26:39+00:00"
       },
       {
-        "title": "Fujifilm’s Instax Mini Evo 2 adds a touchscreen and video recording",
-        "url": "https://www.theverge.com/gadgets/1019300/fujifilm-instax-mini-evo-2-instant-camera-price-availability",
-        "summary": "The most capable Instax is now even closer to a traditional digital camera.﻿ The most capable Instax is now even closer to a traditional digital camera.﻿ Fujifilm is trying to find the right balance of fun and photography with its latest hybrid instant camera. Like its predecessor, the Instax Mini Evo 2 feels less like a retro gimmick, and more like a basic digital camera that just happens to have a built-in…",
+        "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
+        "url": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
+        "summary": "For years, the app helped local restaurants go viral. Now, TikTok wants to offer crowdsourced reviews, reservation booking, and curated discovery.﻿ For years, the app helped local restaurants go viral. TikTok’s deeper move into the dining space is fitting, given the app’s profound impact on restaurants.",
         "source": "The Verge",
-        "date": "2026-10-27T12:31:33+00:00"
+        "date": "2026-10-28T13:00:00+00:00"
       },
       {
-        "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
-        "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
-        "summary": "General Motors’ product chief breaks down the company’s software evolution, the physics of multisensor vehicle safety, and why personally owned autonomous vehicles beat robotaxis. General Motors’ product chief breaks down the company’s software evolution, the physics of multisensor vehicle safety, and why personally owned autonomous vehicles beat robotaxis. Our philosophy is: If we’re going to design an autonomous…",
+        "title": "Inside Amazon’s Echo hardware event",
+        "url": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event",
+        "summary": "Panos Panay, senior vice president of devices, Alexa, and Leo at Amazon, kicked off proceedings by explaining the company’s approach this year. He also teased two more launches still to come — from Ring and some “Echo on the Go” news — before explaining that today’s focus is “the most important focus we have, which is the home.” He then spent about 45 minutes introducing five new Echo smart speakers and displays —…",
         "source": "The Verge",
-        "date": "2026-10-27T11:00:00+00:00"
+        "date": "2026-10-28T12:46:42+00:00"
       },
       {
-        "title": "Data center backlash is uniting America",
-        "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-        "summary": "A higher percentage opposed data centers in their own communities, at 59 percent. Lawrence’s data center plan includes environmental standards, worker protections, and “zoning buffers” for data center development. Joe Lombardo “ data center Joe ,” highlighting his past supportive comments about data centers and money his campaign took from AI-connected donors.",
+        "title": "Almost all of Amazon’s new Echo gear is available now",
+        "url": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy",
+        "summary": "The fancy Echo Show 16 is coming later this year. The fancy Echo Show 16 is coming later this year. This includes the Echo Dot , the Echo Studio with Home Camera , the Echo Time , and the Alexa Photo Frame .",
         "source": "The Verge",
-        "date": "2026-10-27T10:00:00+00:00"
+        "date": "2026-10-28T12:29:52+00:00"
       },
       {
-        "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
-        "url": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
-        "summary": "The $1,300 Predator Atlas 8 will be available on November 1st.﻿ The $1,300 Predator Atlas 8 will be available on November 1st.﻿ If you buy something from a link, The Verge may earn a commission. See our ethics statement. Acer said online orders will open again on November 1st alongside in-store availability.",
+        "title": "Everything announced at Amazon&#8217;s October 2026 hardware launch",
+        "url": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
+        "summary": "This includes the Echo Dot , the Echo Studio with Home Camera , the Echo Time , and the Alexa Photo Frame . Amazon just announced its newest smart alarm clock — the Echo Time . Amazon’s latest Echo Show smart display is big, gorgeous, and eye-wateringly expensive.",
         "source": "The Verge",
-        "date": "2026-10-27T09:54:22+00:00"
+        "date": "2026-10-28T12:20:40+00:00"
       },
       {
-        "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-        "summary": "This time OpenAI says it’s taking new advice from scientists on how to release the results. This time OpenAI says it’s taking new advice from scientists on how to release the results. The Exponential Time Hypothesis is False.",
+        "title": "Amazon&#8217;s new Echo line is here: the 6 biggest updates",
+        "url": "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements",
+        "summary": "The Echo Show 16 features a wide-angle 13-megapixel camera, which Amazon says offers the “widest field of view” on an Echo Show device so far. Amazon is rolling out an upgraded Echo Dot with a built-in smart home hub that can control devices around your home without a separate hub. Amazon built a camera into the Echo Studio.",
         "source": "The Verge",
-        "date": "2026-10-26T23:34:58+00:00"
+        "date": "2026-10-28T12:08:15+00:00"
       },
       {
-        "title": "The Exponential Time Hypothesis Is False [pdf]",
-        "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-        "summary": "676 points, 252 comments on Hacker News",
+        "title": "Voters in Texas agree: They hate data centers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+        "summary": "Nowhere in the world are data centers growing more explosively than in Texas. Data centers can also put pressure on already stressed water supplies, especially in a drought-prone state like Texas. Facing backlash to data centers, Abbott has changed his tune.",
+        "source": "The Verge",
+        "date": "2026-10-28T12:00:00+00:00"
+      },
+      {
+        "title": "Amazon’s first digital picture frame lets you add voice notes to photos",
+        "url": "https://www.theverge.com/tech/1019626/amazon-alexa-plus-photo-digital-picture-frame-smart-speaker",
+        "summary": "The Alexa Photo Frame can use the smart assistant to choose your best photos based on lighting, smiles, and the season. The Alexa Photo Frame can use the smart assistant to choose your best photos based on lighting, smiles, and the season. You can use the Amazon Photos app to add voice notes to images that will play through the frame.",
+        "source": "The Verge",
+        "date": "2026-10-28T12:00:00+00:00"
+      },
+      {
+        "title": "How a grocery merger could expand a surveillance network",
+        "url": "https://www.theverge.com/policy/1020187/kroger-grocery-merger-surveillance",
+        "summary": "Kroger’s proposed merger could bring it lots of new data, in addition to storefronts. Kroger’s proposed merger could bring it lots of new data, in addition to storefronts. A combined Kroger-Giant Eagle — which would add Giant Eagle’s 200-plus stores to Kroger’s 2,700 — could pose risks in two ways, according to AELP.",
+        "source": "The Verge",
+        "date": "2026-10-28T12:00:00+00:00"
+      },
+      {
+        "title": "Amazon’s new Echo Studio speaker has a camera",
+        "url": "https://www.theverge.com/tech/1020241/amazon-echo-studio-home-camera-dot-smart-home-hub",
+        "summary": "Amazon is updating its premium smart speaker and adding a smart home hub to the Echo Dot. Amazon is updating its premium smart speaker and adding a smart home hub to the Echo Dot. Amazon is giving its premium smart speaker a camera.",
+        "source": "The Verge",
+        "date": "2026-10-28T12:00:00+00:00"
+      },
+      {
+        "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+        "url": "https://emudhra.we-have-a-problem.com/apple.html",
+        "summary": "To check whether your git is affected, run: A certificate error means your git is protected. If git lists a commit, your git is affected. To check curl, run: A certificate error means curl is protected. (320 points, 131 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-26T21:59:15+00:00"
+        "date": "2026-10-28T11:03:40+00:00"
       },
       {
-        "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
-        "url": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
-        "summary": "Samsung’s discounted memory cards can store dozens of games, depending on their size. Samsung’s discounted memory cards can store dozens of games, depending on their size. The microSD Express card offers sequential read speeds of up to 800MB/s, but only gadgets with a microSD Express card slot can take full advantage of the highest speeds.",
-        "source": "The Verge",
-        "date": "2026-10-26T21:56:36+00:00"
-      },
-      {
-        "title": "Anthropic is burning gas to feed the AI boom",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-        "summary": "Anthropic is clear that data centers will run on gas, to the company’s own detriment. Anthropic is clear that data centers will run on gas, to the company’s own detriment. Now, a shortage of gas turbines is slowing data center construction .",
-        "source": "The Verge",
-        "date": "2026-10-26T21:45:31+00:00"
-      },
-      {
-        "title": "Three new discoveries in mathematics, computer science, and physics",
-        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-        "summary": "983 points, 533 comments on Hacker News",
+        "title": "Wealth Inequality in America drawn to scale",
+        "url": "https://dreamagainusa.org/",
+        "summary": "The average 0.01% household has … and beyond The 136,095 households at the top. Keep going ↑ Free PDF. Top 1%: average, Federal Reserve Distributional Financial Accounts, Q1 2026. (267 points, 299 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-26T21:35:28+00:00"
-      },
-      {
-        "title": "The EPA Is Quietly Killing Its Web Archive",
-        "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-        "summary": "This isn’t the first time the environmental agency has tried to shutter the online web archive. Support investigative journalism today . Support investigative journalism today . (287 points, 53 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-26T19:05:41+00:00"
-      },
-      {
-        "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
-        "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
-        "summary": "The latest iOS update also adds dual-camera use in group FaceTime calls. The latest iOS update also adds dual-camera use in group FaceTime calls. Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo.",
-        "source": "The Verge",
-        "date": "2026-10-26T18:51:06+00:00"
+        "date": "2026-10-28T08:48:21+00:00"
       }
     ]
   }
