@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:51:18.236011+00:00",
+  "generated_at": "2026-10-29T13:57:46.775945+00:00",
   "sections": {
     "research": [
       {
@@ -89,8 +89,29 @@
     ],
     "labs": [
       {
+        "title": "Gemini 4 Carbon: Our next frontier model",
+        "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+        "summary": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities. SVP, Google DeepMind and Chief AI Architect, Google Today, we’re announcing the next frontier model: Gemini 4 Carbon, our strongest model with state-of-the-art cybersecurity and long horizon capabilities. Gemini 4 Carbon delivers a significant leap in cybersecurity capabilities.",
+        "source": "Google DeepMind",
+        "date": "2026-10-28T17:00:58+00:00"
+      },
+      {
+        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+        "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+        "source": "OpenAI",
+        "date": "2026-10-28T13:15:00+00:00"
+      },
+      {
+        "title": "The future of the firm",
+        "url": "https://openai.com/index/the-future-of-the-firm",
+        "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+        "source": "OpenAI",
+        "date": "2026-10-28T10:00:00+00:00"
+      },
+      {
         "title": "Legora is building the agentic operating system for legal work",
-        "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+        "url": "https://openai.com/index/legora",
         "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
         "source": "OpenAI",
         "date": "2026-10-28T09:30:00+00:00"
@@ -150,199 +171,178 @@
         "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
         "source": "OpenAI",
         "date": "2026-10-26T13:45:00+00:00"
-      },
-      {
-        "title": "ChatGPT’s expanding world of work",
-        "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-        "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-        "source": "OpenAI",
-        "date": "2026-10-26T10:00:00+00:00"
-      },
-      {
-        "title": "How Fanatics and OpenAI streamline the fan experience",
-        "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-        "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-        "source": "OpenAI",
-        "date": "2026-10-26T07:00:00+00:00"
-      },
-      {
-        "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-        "url": "https://openai.com/index/openai-cut-incident-investigation",
-        "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-        "source": "OpenAI",
-        "date": "2026-10-26T07:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Free Fire returns to India as Garena launches localized version four years after ban",
-        "url": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
-        "summary": "On Wednesday, Garena launched the localized version, called Free Fire India, as a standalone game available on Android and iOS. Still, Garena remained active in India. Vaibhav Das Mundhra, Garena’s head of operations in India, told TechCrunch that Free Fire MAX would remain available alongside Free Fire India.",
+        "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
+        "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
+        "summary": "DDoSecrets, which publishes leaked data sets in the public interest, also made the hacked data publicly available. “The data contains professional contact information for government employees at a time when the public interest in that exact information has never been higher. Zack Whittaker is the security editor at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-10-28T13:39:18+00:00"
+        "date": "2026-10-29T13:43:53+00:00"
       },
       {
-        "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
-        "url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
-        "summary": "Kodiak AI will deliver 75 self-driving trucks to freight company DTL Transport starting in 2028. Atlas currently owns and operates 35 driverless trucks equipped with Kodiak’s self-driving system. Kodiak didn’t reveal the value of the deal with DTL Transport.",
+        "title": "DoorDash to acquire Instacart for $17B",
+        "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+        "summary": "DoorDash announced on Thursday that it has agreed to acquire rival Instacart for $17 billion. DoorDash will buy Instacart for a total value of $65 for each Instacart share, the company said. Instacart has spent years learning to do that well for grocers, while DoorDash has built a delivery network and technology that local stores rely on every day.",
         "source": "TechCrunch",
-        "date": "2026-10-28T13:00:00+00:00"
+        "date": "2026-10-29T13:40:57+00:00"
       },
       {
-        "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-        "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. TechCrunch Founder Summit is a one-day founder 101 bootcamp designed to help you tackle the real challenges of building and growing a startup. One full day of founder insights from scaling experts.",
+        "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+        "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+        "summary": "Disrupt doors open Oct. With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure. “We never thought about Pipecat as a voice toolkit.",
         "source": "TechCrunch",
-        "date": "2026-10-28T13:00:00+00:00"
+        "date": "2026-10-29T13:00:00+00:00"
       },
       {
-        "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-        "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-        "summary": "That valued Jio at around ₹12.5 trillion (around $131.9 billion), making it India’s second-most valuable listed company after its parent, Reliance Industries, which is worth about ₹16 trillion (around $168.6 billion). Jio had total borrowings of ₹613.7 billion (around $6.5 billion) as of June 30. Meta, then known as Facebook, invested $5.7 billion , while Google put in $4.5 billion .",
+        "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+        "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Ahead of the holiday season, Amazon has added more than 100 new shopping-related capabilities to Alexa, including subscription and list management, updating delivery instructions, solving payment issues, and answering questions about Prime subscriptions. Users also can now ask Alexa about their Prime or Audible subscriptions, and ask it questions about billing or…",
         "source": "TechCrunch",
-        "date": "2026-10-28T05:20:32+00:00"
+        "date": "2026-10-29T13:00:00+00:00"
       },
       {
-        "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-        "summary": "Since then, Amazon has poured billions more into Anthropic. Amazon can waive the cap. Amazon did this by investing $5 billion in each of Anthropic’s last two funding rounds.",
+        "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
+        "url": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. TechCrunch Founder Summit is about hearing what happened when people actually put that advice to the test. Just six days until TechCrunch Founder Summit takes over Boston!",
         "source": "TechCrunch",
-        "date": "2026-10-28T01:15:28+00:00"
+        "date": "2026-10-29T13:00:00+00:00"
       },
       {
-        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-        "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-        "summary": "ChatGPT helped her ask Dr. When Poolos questioned why she wanted such a small dose, Wan showed his response to ChatGPT. In November 2025, Amazon told Wan she would be laid off.",
+        "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+        "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+        "summary": "The round comes nine months after Upwind closed its previous $250 million financing at a $1.5 billion valuation . Four-year-old Upwind has grown rapidly amid rising AI-driven cybersecurity threats. TechCrunch has reached out to both Upwind and Datadog for comment.",
         "source": "TechCrunch",
-        "date": "2026-10-27T23:34:27+00:00"
+        "date": "2026-10-28T23:15:00+00:00"
       },
       {
-        "title": "The data center boom has an upside: innovation for the US grid",
-        "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. WeaveGrid’s software can help organizations efficiently deploy energy while also optimizing connections to reduce utility payers’ bills, the founder said.",
+        "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+        "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. For some perspective, the previous 16-inch MacBook Pro topped out at $10,149.",
         "source": "TechCrunch",
-        "date": "2026-10-27T22:55:41+00:00"
+        "date": "2026-10-28T22:47:50+00:00"
       },
       {
-        "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-        "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. Insurance tech company Guidewire announced Tuesday the acquisition of the agentic underwriting insurance company Hyperexponential for $1.7 billion in cash.",
+        "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+        "summary": "Microsoft has never disclosed Azure’s quarterly revenue in dollars. It accounted for roughly 36% of Microsoft’s $92.3 billion in quarterly revenue. The new Agents and Infra segment, which groups Azure with Microsoft 365’s cloud business, brought in $76.8 billion , up 25% from a year earlier.",
         "source": "TechCrunch",
-        "date": "2026-10-27T22:26:03+00:00"
+        "date": "2026-10-28T21:58:32+00:00"
       },
       {
-        "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
-        "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
-        "summary": "Deep tech fund Interlagos Capital is also raising a $400 million Fund II. Speaking of Benchmark, the firm filed what looks like four new partner-only funds , called Benchmark Partners Founders’ Fund T1, Benchmark Partners Founders’ Fund 2, Benchmark Partners Founders’ Fund 2-A, and Benchmark Partners Founders’ Fund T1-A, seeking to raise $220 million , $132 million , $4.5 million, and $7.5 million, respectively.…",
+        "title": "Google expands AI Search ads globally as core ad growth slows",
+        "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+        "summary": "Google Search revenue grew 12% year over year in the third quarter, down from 17% growth in the second quarter and 19% in the first quarter. Their queries are longer, personalized, and multimodal.” Alphabet’s Google Services division, which includes Search, generated $96.3 billion in revenue, up 11% year over year. Google Cloud revenue surged 103% to $30.7 billion.",
         "source": "TechCrunch",
-        "date": "2026-10-27T22:17:18+00:00"
+        "date": "2026-10-28T21:48:37+00:00"
       },
       {
-        "title": "GM is embracing hybrids now",
-        "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
-        "summary": "The company was awarded $500 million under the Biden administration to support converting a different factory in Lansing to produce electric vehicles, including hybrid, battery-electric, plug-in electric hybrid, and hydrogen fuel cell electric vehicles. GM eschewed hybrids in favor of battery-electric vehicles. GM said Tuesday it will share specific details on its hybrid vehicle production plans closer to launch.",
+        "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+        "summary": "Microsoft generated $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ended September 30, the company said in a regulatory filing on Wednesday. At its latest quarterly pace, Microsoft would pull in $40 billion annually from OpenAI-related arrangements. It’s not clear how much of Microsoft’s revenue from OpenAI came from revenue-sharing payments or…",
         "source": "TechCrunch",
-        "date": "2026-10-27T21:47:02+00:00"
+        "date": "2026-10-28T21:34:30+00:00"
       },
       {
-        "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-        "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Financial giant Bank of America is reminding customers to bank safely by kindly not sharing your banking credentials with your AI agent. A spokesperson for Bank of America confirmed the authenticity of the bank’s email that was posted to social media .",
+        "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+        "summary": "Microsoft has now reported record-breaking revenue for 10 quarters in a row . Microsoft 365 accounted for nearly $28 billion. Still, a good chunk of the revenue was from AI, because Microsoft also reported $10 billion in revenue from OpenAI .",
         "source": "TechCrunch",
-        "date": "2026-10-27T21:44:34+00:00"
+        "date": "2026-10-28T21:25:30+00:00"
       },
       {
-        "title": "Who’s really in charge at Anthropic after the IPO?",
-        "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-        "summary": "There is one vacancy on the board. Second, Anthropic has allocated significant control of its board to a Long-Term Benefit Trust (LTBT), an independent panel meant to keep the company focused on mission to benefit humanity. Finally, the board can put a check on the LTBT.",
+        "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+        "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+        "summary": "Department of Homeland Security employees has been published online after a hacker stole reams of data in a previously undisclosed breach at the government department earlier this year. The data also contains records associated with another 10,000 employees of Immigration and Customs Enforcement (ICE) and its Homeland Security Investigations (HSI) unit, and just under a 1,000 employees who work at U.S. cybersecurity…",
         "source": "TechCrunch",
-        "date": "2026-10-27T21:38:28+00:00"
+        "date": "2026-10-28T20:01:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "This is how badly X wants you to pay to promote your posts",
-        "url": "https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts",
-        "summary": "You have to hand it to X’s latest promotional gimmick.﻿ You have to hand it to X’s latest promotional gimmick.﻿ After Elon Musk warned that “advertisers who post ads that are ugly, shrill, strident or overstate claims about their product will be barred from advertising” on X earlier this month, the platform now appears to be using a jarring animated arm that reaches across the screen to draw attention to the…",
+        "title": "This $149 digital candle uses AI to accurately simulate a flickering flame",
+        "url": "https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame",
+        "summary": "The Arduboy creator’s next project uses a neural network trained on footage of a real candle’s flame.﻿ The Arduboy creator’s next project uses a neural network trained on footage of a real candle’s flame.﻿ After engineering a flexible version of Tetris that could be wrapped around a magazine, Kevin Bates’ latest creation is a digital candle that uses a custom AI model to accurately simulate the appearance of a…",
         "source": "The Verge",
-        "date": "2026-10-28T13:26:39+00:00"
+        "date": "2026-10-29T13:37:56+00:00"
       },
       {
-        "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
-        "url": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
-        "summary": "For years, the app helped local restaurants go viral. Now, TikTok wants to offer crowdsourced reviews, reservation booking, and curated discovery.﻿ For years, the app helped local restaurants go viral. TikTok’s deeper move into the dining space is fitting, given the app’s profound impact on restaurants.",
+        "title": "Anthropic’s business plan: Build God or die trying",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+        "summary": "Anthropic faces intense competitive pressure and huge fixed costs. Anthropic faces intense competitive pressure and huge fixed costs. So to meet those commitments, Anthropic’s growth must continue at breakneck speed.",
         "source": "The Verge",
-        "date": "2026-10-28T13:00:00+00:00"
+        "date": "2026-10-29T13:30:00+00:00"
       },
       {
-        "title": "Inside Amazon’s Echo hardware event",
-        "url": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event",
-        "summary": "Panos Panay, senior vice president of devices, Alexa, and Leo at Amazon, kicked off proceedings by explaining the company’s approach this year. He also teased two more launches still to come — from Ring and some “Echo on the Go” news — before explaining that today’s focus is “the most important focus we have, which is the home.” He then spent about 45 minutes introducing five new Echo smart speakers and displays —…",
+        "title": "Apple finally combined a toaster and a refrigerator",
+        "url": "https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator",
+        "summary": "Apple spent more than 15 years resisting a touchscreen MacBook, until now.﻿ Apple spent more than 15 years resisting a touchscreen MacBook, until now.﻿ For more than 15 years, Apple has had a pretty simple answer to the idea of a touchscreen MacBook: no. Apple appears to be doing some of that with the OLED touchscreen on the MacBook Pro. Apple spent years dismissing the idea of a touchscreen Mac while Microsoft…",
         "source": "The Verge",
-        "date": "2026-10-28T12:46:42+00:00"
+        "date": "2026-10-29T13:21:02+00:00"
       },
       {
-        "title": "Almost all of Amazon’s new Echo gear is available now",
-        "url": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy",
-        "summary": "The fancy Echo Show 16 is coming later this year. The fancy Echo Show 16 is coming later this year. This includes the Echo Dot , the Echo Studio with Home Camera , the Echo Time , and the Alexa Photo Frame .",
+        "title": "DoorDash is acquiring Instacart for $17 billion",
+        "url": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement",
+        "summary": "The deal could help DoorDash’s grocery business compete against Amazon and Walmart.﻿ The deal could help DoorDash’s grocery business compete against Amazon and Walmart.﻿ DoorDash has announced that it’s buying Instacart in a deal valued at approximately $17 billion. The acquisition will give DoorDash a bigger presence in online grocery delivery thanks to Instacart’s established grocery marketplace and retailer…",
         "source": "The Verge",
-        "date": "2026-10-28T12:29:52+00:00"
+        "date": "2026-10-29T11:56:35+00:00"
       },
       {
-        "title": "Everything announced at Amazon&#8217;s October 2026 hardware launch",
-        "url": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
-        "summary": "This includes the Echo Dot , the Echo Studio with Home Camera , the Echo Time , and the Alexa Photo Frame . Amazon just announced its newest smart alarm clock — the Echo Time . Amazon’s latest Echo Show smart display is big, gorgeous, and eye-wateringly expensive.",
+        "title": "AI has come for Arizona’s water",
+        "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+        "summary": "They contaminated our water. And still, golf courses use just 2 percent of Arizona’s water, or 9 percent of water in municipal areas. “There’s water quality, and there’s water quantity — or water use and water contamination,” Judith Barish, the coalition director of CHIPS Communities United, told me.",
         "source": "The Verge",
-        "date": "2026-10-28T12:20:40+00:00"
+        "date": "2026-10-29T10:00:04+00:00"
       },
       {
-        "title": "Amazon&#8217;s new Echo line is here: the 6 biggest updates",
-        "url": "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements",
-        "summary": "The Echo Show 16 features a wide-angle 13-megapixel camera, which Amazon says offers the “widest field of view” on an Echo Show device so far. Amazon is rolling out an upgraded Echo Dot with a built-in smart home hub that can control devices around your home without a separate hub. Amazon built a camera into the Echo Studio.",
-        "source": "The Verge",
-        "date": "2026-10-28T12:08:15+00:00"
-      },
-      {
-        "title": "Voters in Texas agree: They hate data centers",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-        "summary": "Nowhere in the world are data centers growing more explosively than in Texas. Data centers can also put pressure on already stressed water supplies, especially in a drought-prone state like Texas. Facing backlash to data centers, Abbott has changed his tune.",
-        "source": "The Verge",
-        "date": "2026-10-28T12:00:00+00:00"
-      },
-      {
-        "title": "Amazon’s first digital picture frame lets you add voice notes to photos",
-        "url": "https://www.theverge.com/tech/1019626/amazon-alexa-plus-photo-digital-picture-frame-smart-speaker",
-        "summary": "The Alexa Photo Frame can use the smart assistant to choose your best photos based on lighting, smiles, and the season. The Alexa Photo Frame can use the smart assistant to choose your best photos based on lighting, smiles, and the season. You can use the Amazon Photos app to add voice notes to images that will play through the frame.",
-        "source": "The Verge",
-        "date": "2026-10-28T12:00:00+00:00"
-      },
-      {
-        "title": "How a grocery merger could expand a surveillance network",
-        "url": "https://www.theverge.com/policy/1020187/kroger-grocery-merger-surveillance",
-        "summary": "Kroger’s proposed merger could bring it lots of new data, in addition to storefronts. Kroger’s proposed merger could bring it lots of new data, in addition to storefronts. A combined Kroger-Giant Eagle — which would add Giant Eagle’s 200-plus stores to Kroger’s 2,700 — could pose risks in two ways, according to AELP.",
-        "source": "The Verge",
-        "date": "2026-10-28T12:00:00+00:00"
-      },
-      {
-        "title": "Amazon’s new Echo Studio speaker has a camera",
-        "url": "https://www.theverge.com/tech/1020241/amazon-echo-studio-home-camera-dot-smart-home-hub",
-        "summary": "Amazon is updating its premium smart speaker and adding a smart home hub to the Echo Dot. Amazon is updating its premium smart speaker and adding a smart home hub to the Echo Dot. Amazon is giving its premium smart speaker a camera.",
-        "source": "The Verge",
-        "date": "2026-10-28T12:00:00+00:00"
-      },
-      {
-        "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
-        "url": "https://emudhra.we-have-a-problem.com/apple.html",
-        "summary": "To check whether your git is affected, run: A certificate error means your git is protected. If git lists a commit, your git is affected. To check curl, run: A certificate error means curl is protected. (320 points, 131 comments on Hacker News)",
+        "title": "Claude Code regularly sends each background agent’s transcript to its model",
+        "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+        "summary": "Tested on Linux, Claude Code 2.1.257–2.1.312 (see Tested versions). Set BUN_OPTIONS globally so every Claude Code process gets it. \"Claude\" and \"Claude Code\" are trademarks of Anthropic, PBC. (481 points, 192 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-28T11:03:40+00:00"
+        "date": "2026-10-29T03:33:42+00:00"
       },
       {
-        "title": "Wealth Inequality in America drawn to scale",
-        "url": "https://dreamagainusa.org/",
-        "summary": "The average 0.01% household has … and beyond The 136,095 households at the top. Keep going ↑ Free PDF. Top 1%: average, Federal Reserve Distributional Financial Accounts, Q1 2026. (267 points, 299 comments on Hacker News)",
+        "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+        "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+        "summary": "His reply was not 65 percent or 70 percent. Today, Prior writes that Anduril can indeed commit to 65 percent. If everything works out, Anduril’s first laptop in 2027, with Qualcomm, should be that laptop.",
+        "source": "The Verge",
+        "date": "2026-10-29T02:22:46+00:00"
+      },
+      {
+        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+        "url": "https://divagr.com/blog/qwenputer",
+        "summary": "Qwenputer is a pretty fun experimental model. Qwen3-Next and Qwen 3.5 (the model Qwenputer is built on) use a pretty neat trick. The CPU then runs as the model decodes. (596 points, 120 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-28T08:48:21+00:00"
+        "date": "2026-10-29T00:25:45+00:00"
+      },
+      {
+        "title": "StackOverflow now gets fewer than 1000 questions a month",
+        "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+        "summary": "601 points, 507 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-10-28T23:35:02+00:00"
+      },
+      {
+        "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+        "summary": "Do we rank AI content as well as we rank non-AI content? I think they’re concerned about owning their content and models getting trained on their content. I think they’re concerned— there’s people who are concerned about safety.",
+        "source": "The Verge",
+        "date": "2026-10-28T23:05:39+00:00"
+      },
+      {
+        "title": "A hacker stole more than 40,000 DHS employee records",
+        "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+        "summary": "The names, job titles, phone numbers, and emails of thousands of ICE, CBP, and other DHS employees were compromised in a massive hack.﻿ The names, job titles, phone numbers, and emails of thousands of ICE, CBP, and other DHS employees were compromised in a massive hack.﻿ A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone…",
+        "source": "The Verge",
+        "date": "2026-10-28T21:57:45+00:00"
+      },
+      {
+        "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+        "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+        "summary": "The MPC Sample Key will be an open-source 37-key take on its budget-friendly MPC Sample. The MPC Sample Key will be an open-source 37-key take on its budget-friendly MPC Sample. That could mean Akai plans to open-source the entire MPC Sample platform.",
+        "source": "The Verge",
+        "date": "2026-10-28T21:34:04+00:00"
       }
     ]
   }
