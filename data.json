@@ -1,93 +1,114 @@
 {
-  "generated_at": "2026-10-29T13:57:46.775945+00:00",
+  "generated_at": "2026-10-30T13:52:29.164964+00:00",
   "sections": {
     "research": [
       {
-        "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
-        "url": "https://arxiv.org/abs/2610.37668v1",
-        "summary": "Prakhar Kaushik, Soumava Paul, Alan Yuille — Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels:…",
+        "title": "Elucidating the Design Space of LM Data Attribution",
+        "url": "https://arxiv.org/abs/2610.40655v1",
+        "summary": "Steven Yu, Sheng-Yu Wang, Kimia Hamidieh et al. — Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible…",
         "source": "arXiv",
-        "date": "2026-10-27T17:59:59Z"
+        "date": "2026-10-29T17:59:53Z"
       },
       {
-        "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
-        "url": "https://arxiv.org/abs/2610.37666v1",
-        "summary": "Chaehyun Kim, Chi-Pin Huang, Jisoo Kim et al. — Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations.",
+        "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
+        "url": "https://arxiv.org/abs/2610.40654v1",
+        "summary": "Moshe Shenfeld, Eliad Tsfadia, Katrina Ligett — An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets…",
         "source": "arXiv",
-        "date": "2026-10-27T17:59:52Z"
+        "date": "2026-10-29T17:59:49Z"
       },
       {
-        "title": "When Should We Intervene at Test Time?",
-        "url": "https://arxiv.org/abs/2610.37658v1",
-        "summary": "Jiahao Zhang, Xinling Wen, Liangliang Li et al. — Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve corrupted images…",
+        "title": "Rethinking Neural Thickets Without Weight Perturbations",
+        "url": "https://arxiv.org/abs/2610.40649v1",
+        "summary": "Nicolas Dufour, Elouan Gardès, Amil Dravid et al. — The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported…",
         "source": "arXiv",
-        "date": "2026-10-27T17:58:53Z"
+        "date": "2026-10-29T17:59:29Z"
       },
       {
-        "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
-        "url": "https://arxiv.org/abs/2610.37657v1",
-        "summary": "Igor Shilov, Xiaoxue Yang, Alexander Panfilov et al. — We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention…",
+        "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+        "url": "https://arxiv.org/abs/2610.40647v1",
+        "summary": "Jiongfan Yang, Weichen Fan, Haiwen Diao et al. — Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not…",
         "source": "arXiv",
-        "date": "2026-10-27T17:58:52Z"
+        "date": "2026-10-29T17:59:21Z"
       },
       {
-        "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
-        "url": "https://arxiv.org/abs/2610.37656v1",
-        "summary": "Aakash Sarkar, Ananya Mukherjee, Motoshige Sato — Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's father; verifying a…",
+        "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
+        "url": "https://arxiv.org/abs/2610.40644v1",
+        "summary": "Aron Brenner, Saurabh Amin — Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat…",
         "source": "arXiv",
-        "date": "2026-10-27T17:58:48Z"
+        "date": "2026-10-29T17:59:01Z"
       },
       {
-        "title": "KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry",
-        "url": "https://arxiv.org/abs/2610.37655v1",
-        "summary": "Wenqing Peng, Michael Boy, Zhi-Song Liu — Atmospheric chemical mechanisms are commonly distributed in the language of the Kinetic PreProcessor (KPP), which generates efficient Fortran or C code but does not fit into the differentiable programming frameworks in…",
+        "title": "Luggage re-identification: A study of strategies towards a real-world application",
+        "url": "https://arxiv.org/abs/2610.40643v1",
+        "summary": "Quentin Dhôte, Romaric Audigier — Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage…",
         "source": "arXiv",
-        "date": "2026-10-27T17:58:40Z"
+        "date": "2026-10-29T17:58:59Z"
       },
       {
-        "title": "Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well",
-        "url": "https://arxiv.org/abs/2610.37652v1",
-        "summary": "Ian Chuang, Hiya Shah, Vamsi Chilamkur et al. — Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As robots attempt more…",
+        "title": "From extreme weather to agricultural consequences with agentic AI",
+        "url": "https://arxiv.org/abs/2610.40641v1",
+        "summary": "Minghan Yu, Mengyu Dai, Yixin Wen et al. — Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that…",
         "source": "arXiv",
-        "date": "2026-10-27T17:58:20Z"
+        "date": "2026-10-29T17:58:53Z"
       },
       {
-        "title": "GEPA-Curator: Curated Learning for Self Improving Agents",
-        "url": "https://arxiv.org/abs/2610.37651v1",
-        "summary": "Zack Yu, Nicholas Lee, Minjae Lee et al. — Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA learn from failed…",
+        "title": "world2vec: Mechanistic world models through latent dynamics learning",
+        "url": "https://arxiv.org/abs/2610.40637v1",
+        "summary": "Tobias Schmidt, Rodrigo Gonzalez Laiz, Krisztián Szuppinger et al. — World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery.",
         "source": "arXiv",
-        "date": "2026-10-27T17:58:11Z"
+        "date": "2026-10-29T17:58:23Z"
       },
       {
-        "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
-        "url": "https://arxiv.org/abs/2610.37649v1",
-        "summary": "Zhen Yang, Wen Wang, Xander Xu et al. — Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with altered physical laws, can large language models (LLMs) notice unexpected behavior, such as heavier…",
+        "title": "Probing Spatial State Representations in Visual Foundation Models",
+        "url": "https://arxiv.org/abs/2610.40636v1",
+        "summary": "Baiqiao Yin, Zhongang Cai, Ruisi Wang et al. — An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent…",
         "source": "arXiv",
-        "date": "2026-10-27T17:57:00Z"
+        "date": "2026-10-29T17:58:16Z"
       },
       {
-        "title": "Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis",
-        "url": "https://arxiv.org/abs/2610.37648v1",
-        "summary": "Andrew Szot, Samira Abnar, Omar Attia et al. — We explore how to build performant large language model (LLM) tool-use agents that complete complex, multi-step tasks. Specifically, we study how data composition in synthetically generated tool-use environments affects…",
+        "title": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
+        "url": "https://arxiv.org/abs/2610.40627v1",
+        "summary": "Qiyao Ma, Xiaodong Liu, Weiwei Yang et al. — Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request distributed across a multi-turn conversation still succeeds far too often. This brittleness has a…",
         "source": "arXiv",
-        "date": "2026-10-27T17:56:46Z"
+        "date": "2026-10-29T17:56:53Z"
       },
       {
-        "title": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
-        "url": "https://arxiv.org/abs/2610.37647v1",
-        "summary": "Athanasios Glentis, Dawei Li, Mingyi Hong — Weight decay and explicit weight-norm constraints improve optimizer performance in language model pretraining, yet a unified understanding of why such control helps and how much is needed remains incomplete.",
+        "title": "Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses",
+        "url": "https://arxiv.org/abs/2610.40619v1",
+        "summary": "Chengyang He, Wenlong Zhang, Koduvayur Subbalakshmi et al. — Ask a language model whether sales tend to dip after a product recall, or whether one side effect tends to follow another after a vaccine, and it answers in a fluent sentence that reads like a finding, with no test…",
         "source": "arXiv",
-        "date": "2026-10-27T17:56:40Z"
+        "date": "2026-10-29T17:55:30Z"
       },
       {
-        "title": "Multi-State Linear Attention with Generalized Second-Order Routing",
-        "url": "https://arxiv.org/abs/2610.37645v1",
-        "summary": "Hee Seung Hwang, Sanghyuk Chun, Xindi Wu et al. — Self-attention plays a key role in long-sequence modeling, but its quadratic time complexity fundamentally limits the scaling of Large Language Models. Recently, Multi-State Linear Attention (MSLA) mechanisms have been…",
+        "title": "An ODE-based Sampler for Discrete Diffusion Models",
+        "url": "https://arxiv.org/abs/2610.40618v1",
+        "summary": "Samson Gourevitch, Yazid Janati, Eric Moulines et al. — The marginals of a continuous diffusion model can be reproduced by a deterministic ordinary differential equation (ODE), known as the probability flow ODE, which provides a foundation for accelerated sampling and…",
         "source": "arXiv",
-        "date": "2026-10-27T17:55:49Z"
+        "date": "2026-10-29T17:55:25Z"
       }
     ],
     "labs": [
+      {
+        "title": "An updated Model Spec for more capable and beneficial AI",
+        "url": "https://openai.com/index/updated-model-spec",
+        "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+        "source": "OpenAI",
+        "date": "2026-10-29T17:00:00+00:00"
+      },
+      {
+        "title": "How we detect frontier model misalignment",
+        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+        "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+        "source": "OpenAI",
+        "date": "2026-10-29T09:00:00+00:00"
+      },
+      {
+        "title": "How Ropes & Gray is developing AI for transactional diligence",
+        "url": "https://openai.com/index/ropes-gray-ai-diligence",
+        "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+        "source": "OpenAI",
+        "date": "2026-10-29T07:00:00+00:00"
+      },
       {
         "title": "Gemini 4 Carbon: Our next frontier model",
         "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
@@ -150,199 +171,178 @@
         "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
         "source": "OpenAI",
         "date": "2026-10-27T00:00:00+00:00"
-      },
-      {
-        "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "url": "https://openai.com/index/greptile-code-review-codex-astra",
-        "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-        "source": "OpenAI",
-        "date": "2026-10-26T22:00:00+00:00"
-      },
-      {
-        "title": "Working with academic communities to build scientific understanding",
-        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-        "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-        "source": "OpenAI",
-        "date": "2026-10-26T14:30:00+00:00"
-      },
-      {
-        "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-        "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-        "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-        "source": "OpenAI",
-        "date": "2026-10-26T13:45:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
-        "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
-        "summary": "DDoSecrets, which publishes leaked data sets in the public interest, also made the hacked data publicly available. “The data contains professional contact information for government employees at a time when the public interest in that exact information has never been higher. Zack Whittaker is the security editor at TechCrunch.",
+        "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+        "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+        "summary": "Runware will manufacture the modular data centers on an assembly line. Radulescu said Runware aims to bring the pods online within 48 hours. Runware will provide spare parts if components fail.",
         "source": "TechCrunch",
-        "date": "2026-10-29T13:43:53+00:00"
+        "date": "2026-10-30T13:00:00+00:00"
       },
       {
-        "title": "DoorDash to acquire Instacart for $17B",
-        "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
-        "summary": "DoorDash announced on Thursday that it has agreed to acquire rival Instacart for $17 billion. DoorDash will buy Instacart for a total value of $65 for each Instacart share, the company said. Instacart has spent years learning to do that well for grocers, while DoorDash has built a delivery network and technology that local stores rely on every day.",
+        "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+        "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Get tactical about building your company.",
         "source": "TechCrunch",
-        "date": "2026-10-29T13:40:57+00:00"
+        "date": "2026-10-30T13:00:00+00:00"
       },
       {
-        "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-        "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-        "summary": "Disrupt doors open Oct. With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure. “We never thought about Pipecat as a voice toolkit.",
+        "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+        "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+        "summary": "Founder Summit begins Nov. Waymo will begin testing autonomous Toyota bZ4X vehicles in Japan next year as part of a broader partnership with the automaker to provide electric vehicles for robotaxi operations in international markets, including the U.K. The companies said they will continue to look at bringing Waymo’s autonomous technology to personally owned Toyota vehicles.",
         "source": "TechCrunch",
-        "date": "2026-10-29T13:00:00+00:00"
+        "date": "2026-10-30T07:01:00+00:00"
       },
       {
-        "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
-        "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Ahead of the holiday season, Amazon has added more than 100 new shopping-related capabilities to Alexa, including subscription and list management, updating delivery instructions, solving payment issues, and answering questions about Prime subscriptions. Users also can now ask Alexa about their Prime or Audible subscriptions, and ask it questions about billing or…",
+        "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+        "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. “Humanism is a collection of beliefs about the human experience and how humans interact with the world,” Durman, a University of Kentucky administrator, told TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-10-29T13:00:00+00:00"
+        "date": "2026-10-30T01:20:48+00:00"
       },
       {
-        "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
-        "url": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. TechCrunch Founder Summit is about hearing what happened when people actually put that advice to the test. Just six days until TechCrunch Founder Summit takes over Boston!",
+        "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+        "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. The first six games of this season have averaged 17.7 million viewers, up 16% from last year, according to Nielsen figures Amazon shared.",
         "source": "TechCrunch",
-        "date": "2026-10-29T13:00:00+00:00"
+        "date": "2026-10-29T23:44:56+00:00"
       },
       {
-        "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-        "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-        "summary": "The round comes nine months after Upwind closed its previous $250 million financing at a $1.5 billion valuation . Four-year-old Upwind has grown rapidly amid rising AI-driven cybersecurity threats. TechCrunch has reached out to both Upwind and Datadog for comment.",
+        "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+        "summary": "Founder Summit begins Nov. “AWS is a $184 billion annualized revenue run-rate business, and yet the opportunity remains extraordinary,” Jassy enthused. Like Amazon, other cloud providers are spending big but also earning big.",
         "source": "TechCrunch",
-        "date": "2026-10-28T23:15:00+00:00"
+        "date": "2026-10-29T23:42:22+00:00"
       },
       {
-        "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-        "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. For some perspective, the previous 16-inch MacBook Pro topped out at $10,149.",
+        "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+        "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+        "summary": "Founder Summit begins Nov. Binance has confirmed to TechCrunch that it is dealing with a security incident as users reported that funds were being drained from the crypto exchange’s wallets. Crypto watchers say at least $2 billion has been drained from Binance’s hot wallets, which are internet-connected cryptocurrency wallets that store crypto that are connected to the internet.",
         "source": "TechCrunch",
-        "date": "2026-10-28T22:47:50+00:00"
+        "date": "2026-10-29T22:27:23+00:00"
       },
       {
-        "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-        "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-        "summary": "Microsoft has never disclosed Azure’s quarterly revenue in dollars. It accounted for roughly 36% of Microsoft’s $92.3 billion in quarterly revenue. The new Agents and Infra segment, which groups Azure with Microsoft 365’s cloud business, brought in $76.8 billion , up 25% from a year earlier.",
+        "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+        "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Russian president Vladimir Putin said that he and SpaceX CEO Elon Musk are in “close contact” about Rassvet , Russia’s answer to Starlink, Musk’s internet satellite service.",
         "source": "TechCrunch",
-        "date": "2026-10-28T21:58:32+00:00"
+        "date": "2026-10-29T21:51:29+00:00"
       },
       {
-        "title": "Google expands AI Search ads globally as core ad growth slows",
-        "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-        "summary": "Google Search revenue grew 12% year over year in the third quarter, down from 17% growth in the second quarter and 19% in the first quarter. Their queries are longer, personalized, and multimodal.” Alphabet’s Google Services division, which includes Search, generated $96.3 billion in revenue, up 11% year over year. Google Cloud revenue surged 103% to $30.7 billion.",
+        "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+        "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. To put that in perspective, the company forecast fourth-quarter net sales of between $240 billion and $247 billion.",
         "source": "TechCrunch",
-        "date": "2026-10-28T21:48:37+00:00"
+        "date": "2026-10-29T21:20:47+00:00"
       },
       {
-        "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-        "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-        "summary": "Microsoft generated $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ended September 30, the company said in a regulatory filing on Wednesday. At its latest quarterly pace, Microsoft would pull in $40 billion annually from OpenAI-related arrangements. It’s not clear how much of Microsoft’s revenue from OpenAI came from revenue-sharing payments or…",
+        "title": "GM reaches $220M settlement over selling drivers’ private data",
+        "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+        "summary": "Founder Summit begins Nov. General Motors will pay $220 million to 36 states to settle allegations that it illegally sold private driving behavior and location information to data brokers. Data brokers sold this information to insurance providers, which could affect customers’ rates, the NYT reported at the time.",
         "source": "TechCrunch",
-        "date": "2026-10-28T21:34:30+00:00"
+        "date": "2026-10-29T21:01:04+00:00"
       },
       {
-        "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-        "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-        "summary": "Microsoft has now reported record-breaking revenue for 10 quarters in a row . Microsoft 365 accounted for nearly $28 billion. Still, a good chunk of the revenue was from AI, because Microsoft also reported $10 billion in revenue from OpenAI .",
+        "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
+        "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Updated, 10/29/26, 9:45 PM ET, after OTW published a statement about the nature of the outage.",
         "source": "TechCrunch",
-        "date": "2026-10-28T21:25:30+00:00"
+        "date": "2026-10-29T20:43:56+00:00"
       },
       {
-        "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-        "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
-        "summary": "Department of Homeland Security employees has been published online after a hacker stole reams of data in a previously undisclosed breach at the government department earlier this year. The data also contains records associated with another 10,000 employees of Immigration and Customs Enforcement (ICE) and its Homeland Security Investigations (HSI) unit, and just under a 1,000 employees who work at U.S. cybersecurity…",
+        "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+        "summary": "Overall, Reddit’s global daily active users were flat quarter-over-quarter in Q3, reaching 130.3 million, while U.S. daily active users dropped from 53.2 million in Q2 to 50.7 million in Q3 and were down 2% year-over-year. Revenue increased 53% year-over-year to $895 million, ahead of Wall Street’s expectations of about $875 million. Globally, average revenue per daily active user increased 36% year-over-year to…",
         "source": "TechCrunch",
-        "date": "2026-10-28T20:01:00+00:00"
+        "date": "2026-10-29T20:08:31+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "This $149 digital candle uses AI to accurately simulate a flickering flame",
-        "url": "https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame",
-        "summary": "The Arduboy creator’s next project uses a neural network trained on footage of a real candle’s flame.﻿ The Arduboy creator’s next project uses a neural network trained on footage of a real candle’s flame.﻿ After engineering a flexible version of Tetris that could be wrapped around a magazine, Kevin Bates’ latest creation is a digital candle that uses a custom AI model to accurately simulate the appearance of a…",
+        "title": "Silicon Valley wants you to invest in miracles",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+        "summary": "Anthropic’s S-1 is a new milestone in Big Tech’s sprawling and lofty promises to Wall Street. Anthropic’s S-1 is a new milestone in Big Tech’s sprawling and lofty promises to Wall Street. Out-of-this-world promises are integral to Anthropic’s survival as a company .",
         "source": "The Verge",
-        "date": "2026-10-29T13:37:56+00:00"
+        "date": "2026-10-30T13:11:05+00:00"
       },
       {
-        "title": "Anthropic’s business plan: Build God or die trying",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-        "summary": "Anthropic faces intense competitive pressure and huge fixed costs. Anthropic faces intense competitive pressure and huge fixed costs. So to meet those commitments, Anthropic’s growth must continue at breakneck speed.",
+        "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+        "summary": "Altman says OpenAI has spent hundreds of millions on math — and has more discoveries up its sleeve. Altman says OpenAI has spent hundreds of millions on math — and has more discoveries up its sleeve. On the podcast, Altman hints that OpenAI is sitting on many more mathematical discoveries than it has made public, too.",
         "source": "The Verge",
-        "date": "2026-10-29T13:30:00+00:00"
+        "date": "2026-10-30T13:01:14+00:00"
       },
       {
-        "title": "Apple finally combined a toaster and a refrigerator",
-        "url": "https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator",
-        "summary": "Apple spent more than 15 years resisting a touchscreen MacBook, until now.﻿ Apple spent more than 15 years resisting a touchscreen MacBook, until now.﻿ For more than 15 years, Apple has had a pretty simple answer to the idea of a touchscreen MacBook: no. Apple appears to be doing some of that with the OLED touchscreen on the MacBook Pro. Apple spent years dismissing the idea of a touchscreen Mac while Microsoft…",
+        "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
+        "url": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
+        "summary": "Apple’s and Amazon’s new home devices might finally make the smart display genuinely useful. Apple’s and Amazon’s new home devices might finally make the smart display genuinely useful. Amazon’s approach treats the household as the user; the Echo Show is designed to know your home Amazon’s approach treats the household as the user; the Echo Show is designed to know your home.",
         "source": "The Verge",
-        "date": "2026-10-29T13:21:02+00:00"
+        "date": "2026-10-30T13:00:00+00:00"
       },
       {
-        "title": "DoorDash is acquiring Instacart for $17 billion",
-        "url": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement",
-        "summary": "The deal could help DoorDash’s grocery business compete against Amazon and Walmart.﻿ The deal could help DoorDash’s grocery business compete against Amazon and Walmart.﻿ DoorDash has announced that it’s buying Instacart in a deal valued at approximately $17 billion. The acquisition will give DoorDash a bigger presence in online grocery delivery thanks to Instacart’s established grocery marketplace and retailer…",
+        "title": "The Apple Pencil turned the Duo into my new favorite notebook",
+        "url": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
+        "summary": "Apple’s $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. It really is a different phone. It’s notebook-shaped.",
         "source": "The Verge",
-        "date": "2026-10-29T11:56:35+00:00"
+        "date": "2026-10-30T12:30:00+00:00"
       },
       {
-        "title": "AI has come for Arizona’s water",
-        "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-        "summary": "They contaminated our water. And still, golf courses use just 2 percent of Arizona’s water, or 9 percent of water in municipal areas. “There’s water quality, and there’s water quantity — or water use and water contamination,” Judith Barish, the coalition director of CHIPS Communities United, told me.",
+        "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
+        "url": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
+        "summary": "Apple’s long-awaited touchscreen MacBook Pro is finally here. Apple took over a decade to come around to the touchscreen. Before the event, I wondered how Apple could make a touchscreen laptop better .",
         "source": "The Verge",
-        "date": "2026-10-29T10:00:04+00:00"
+        "date": "2026-10-30T12:00:00+00:00"
       },
       {
-        "title": "Claude Code regularly sends each background agent’s transcript to its model",
-        "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-        "summary": "Tested on Linux, Claude Code 2.1.257–2.1.312 (see Tested versions). Set BUN_OPTIONS globally so every Claude Code process gets it. \"Claude\" and \"Claude Code\" are trademarks of Anthropic, PBC. (481 points, 192 comments on Hacker News)",
+        "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
+        "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+        "summary": "$3 billion of stolen assets have been frozen so far, and Binance has promised to ‘cover all losses.’﻿ $3 billion of stolen assets have been frozen so far, and Binance has promised to ‘cover all losses.’﻿ Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what’s believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X , the crypto…",
+        "source": "The Verge",
+        "date": "2026-10-30T11:44:53+00:00"
+      },
+      {
+        "title": "Backdoors in official Claude Code extensions",
+        "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+        "summary": "521 points, 154 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-10-29T03:33:42+00:00"
+        "date": "2026-10-30T11:05:53+00:00"
       },
       {
-        "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
-        "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
-        "summary": "His reply was not 65 percent or 70 percent. Today, Prior writes that Anduril can indeed commit to 65 percent. If everything works out, Anduril’s first laptop in 2027, with Qualcomm, should be that laptop.",
+        "title": "Maine’s data center revolt will decide who controls the Senate",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+        "summary": "“AI data centers are destroying our climate. Maine and other rural states are becoming prime targets for new data centers. Collins’ ties to data centers don’t stop with her donors.",
         "source": "The Verge",
-        "date": "2026-10-29T02:22:46+00:00"
+        "date": "2026-10-30T11:00:00+00:00"
       },
       {
-        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-        "url": "https://divagr.com/blog/qwenputer",
-        "summary": "Qwenputer is a pretty fun experimental model. Qwen3-Next and Qwen 3.5 (the model Qwenputer is built on) use a pretty neat trick. The CPU then runs as the model decodes. (596 points, 120 comments on Hacker News)",
+        "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+        "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+        "summary": "In the NYT’s case against OpenAI, the Wikimedia Foundation says training AI should be fair use — but regurgitating articles shouldn’t. In the NYT’s case against OpenAI, the Wikimedia Foundation says training AI should be fair use — but regurgitating articles shouldn’t. OpenAI and Microsoft both contend that using LLMs constitutes fair use.",
+        "source": "The Verge",
+        "date": "2026-10-30T09:00:00+00:00"
+      },
+      {
+        "title": "The director of Obsession put a new horror short on YouTube",
+        "url": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
+        "summary": "You can watch Curry Barker’s ‘Mama Bear’ on YouTube right now.﻿ You can watch Curry Barker’s ‘Mama Bear’ on YouTube right now.﻿ Curry Barker, the director behind the hit horror film Obsession , just published a new horror short on YouTube. The short, titled “Mama Bear,” is nearly five minutes long. Parsons debuted a new Backrooms YouTube episode in August .",
+        "source": "The Verge",
+        "date": "2026-10-29T23:57:18+00:00"
+      },
+      {
+        "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
+        "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+        "summary": "Intel’s CFO says it’s ‘not optimistic about next year in terms of memory.’﻿ Intel’s CFO says it’s ‘not optimistic about next year in terms of memory.’﻿ During Intel’s latest earnings call , CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips “is outstripping supply.” According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has “seen significant growth in Wildcat Lake.…",
+        "source": "The Verge",
+        "date": "2026-10-29T23:42:21+00:00"
+      },
+      {
+        "title": "We ran AI agent swarms in Minecraft and Mindustry",
+        "url": "https://labs.ycombinator.com/projects/games/index.html",
+        "summary": "334 points, 133 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-10-29T00:25:45+00:00"
-      },
-      {
-        "title": "StackOverflow now gets fewer than 1000 questions a month",
-        "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-        "summary": "601 points, 507 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-10-28T23:35:02+00:00"
-      },
-      {
-        "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-        "summary": "Do we rank AI content as well as we rank non-AI content? I think they’re concerned about owning their content and models getting trained on their content. I think they’re concerned— there’s people who are concerned about safety.",
-        "source": "The Verge",
-        "date": "2026-10-28T23:05:39+00:00"
-      },
-      {
-        "title": "A hacker stole more than 40,000 DHS employee records",
-        "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
-        "summary": "The names, job titles, phone numbers, and emails of thousands of ICE, CBP, and other DHS employees were compromised in a massive hack.﻿ The names, job titles, phone numbers, and emails of thousands of ICE, CBP, and other DHS employees were compromised in a massive hack.﻿ A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone…",
-        "source": "The Verge",
-        "date": "2026-10-28T21:57:45+00:00"
-      },
-      {
-        "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-        "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-        "summary": "The MPC Sample Key will be an open-source 37-key take on its budget-friendly MPC Sample. The MPC Sample Key will be an open-source 37-key take on its budget-friendly MPC Sample. That could mean Akai plans to open-source the entire MPC Sample platform.",
-        "source": "The Verge",
-        "date": "2026-10-28T21:34:04+00:00"
+        "date": "2026-10-29T21:40:28+00:00"
       }
     ]
   }
