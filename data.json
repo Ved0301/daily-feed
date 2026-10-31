@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T13:52:29.164964+00:00",
+  "generated_at": "2026-10-31T13:22:01.845489+00:00",
   "sections": {
     "research": [
       {
@@ -89,6 +89,27 @@
     ],
     "labs": [
       {
+        "title": "Making it easier for websites to express AI training preferences",
+        "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+        "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+        "source": "OpenAI",
+        "date": "2026-10-30T09:30:00+00:00"
+      },
+      {
+        "title": "Community safety report and new protections for teens",
+        "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+        "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+        "source": "OpenAI",
+        "date": "2026-10-30T09:00:00+00:00"
+      },
+      {
+        "title": "Fair use benefits everyone",
+        "url": "https://openai.com/index/fair-use-benefits-everyone",
+        "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+        "source": "OpenAI",
+        "date": "2026-10-30T00:00:00+00:00"
+      },
+      {
         "title": "An updated Model Spec for more capable and beneficial AI",
         "url": "https://openai.com/index/updated-model-spec",
         "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
@@ -108,6 +129,13 @@
         "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
         "source": "OpenAI",
         "date": "2026-10-29T07:00:00+00:00"
+      },
+      {
+        "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+        "url": "https://openai.com/index/credit-saison",
+        "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+        "source": "OpenAI",
+        "date": "2026-10-29T00:00:00+00:00"
       },
       {
         "title": "Gemini 4 Carbon: Our next frontier model",
@@ -143,206 +171,178 @@
         "summary": "Modern LLMs achieve impressive performance via pre-training and in-context learning (ICL). The sleep paradigm addresses catastrophic forgetting and continuous adaptation through two stages: memory consolidation and dreaming. Our sleep paradigm provides a path toward autonomous, continually learning AI systems.",
         "source": "Google Research",
         "date": "2026-10-27T17:35:00+00:00"
-      },
-      {
-        "title": "Genie 4: A new generation of world simulation",
-        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-        "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-        "source": "Google DeepMind",
-        "date": "2026-10-27T16:01:38+00:00"
-      },
-      {
-        "title": "Retell uses OpenAI models to help power 100M monthly calls",
-        "url": "https://openai.com/index/retell-ai",
-        "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-        "source": "OpenAI",
-        "date": "2026-10-27T15:00:00+00:00"
-      },
-      {
-        "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-        "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-        "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-        "source": "OpenAI",
-        "date": "2026-10-27T07:00:00+00:00"
-      },
-      {
-        "title": "How Check Point accelerates vulnerability research with Daybreak",
-        "url": "https://openai.com/index/check-point-daybreak",
-        "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-        "source": "OpenAI",
-        "date": "2026-10-27T00:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-        "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-        "summary": "Runware will manufacture the modular data centers on an assembly line. Radulescu said Runware aims to bring the pods online within 48 hours. Runware will provide spare parts if components fail.",
+        "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+        "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+        "summary": "Amit Bhatti: Same here. A lot of really well-known funds started with a $5 million fund. Amit Bhatti: People define “emerging” very differently.",
         "source": "TechCrunch",
-        "date": "2026-10-30T13:00:00+00:00"
+        "date": "2026-10-31T04:16:50+00:00"
       },
       {
-        "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-        "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Get tactical about building your company.",
+        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+        "summary": "Founder Summit begins Nov. Nvidia is in talks to guarantee billions in debt financing for AI cloud provider Nscale’s planned Anthropic data center in West Virginia, The Information reported Thursday . Anthropic’s contract with Nscale covers the first 460-megawatt building at Nscale’s West Virginia campus, which is expected to use Nvidia’s next-generation Vera Rubin chips.",
         "source": "TechCrunch",
-        "date": "2026-10-30T13:00:00+00:00"
+        "date": "2026-10-31T01:20:05+00:00"
       },
       {
-        "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
-        "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-        "summary": "Founder Summit begins Nov. Waymo will begin testing autonomous Toyota bZ4X vehicles in Japan next year as part of a broader partnership with the automaker to provide electric vehicles for robotaxi operations in international markets, including the U.K. The companies said they will continue to look at bringing Waymo’s autonomous technology to personally owned Toyota vehicles.",
+        "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+        "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Since Missionforce launched last year, its business has grown 80% year over year, driven in part by a new 10-year, $5.6 billion contract with the U.S.",
         "source": "TechCrunch",
-        "date": "2026-10-30T07:01:00+00:00"
+        "date": "2026-10-30T23:21:23+00:00"
       },
       {
-        "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-        "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. “Humanism is a collection of beliefs about the human experience and how humans interact with the world,” Durman, a University of Kentucky administrator, told TechCrunch.",
+        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+        "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. The assistant was focused on helping families stay connected and organized.",
         "source": "TechCrunch",
-        "date": "2026-10-30T01:20:48+00:00"
+        "date": "2026-10-30T22:56:13+00:00"
       },
       {
-        "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-        "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. The first six games of this season have averaged 17.7 million viewers, up 16% from last year, according to Nielsen figures Amazon shared.",
+        "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+        "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. The scare-off was caused when Intel warned to expect revenue of $15 billion to $16 billion in the fourth quarter when analysts were looking for around $17 billion.",
         "source": "TechCrunch",
-        "date": "2026-10-29T23:44:56+00:00"
+        "date": "2026-10-30T21:54:34+00:00"
       },
       {
-        "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-        "summary": "Founder Summit begins Nov. “AWS is a $184 billion annualized revenue run-rate business, and yet the opportunity remains extraordinary,” Jassy enthused. Like Amazon, other cloud providers are spending big but also earning big.",
+        "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+        "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Anthropic is expected to receive a high “junk” rating from credit rating agencies following its initial public offering, according to a report from the Financial Times.",
         "source": "TechCrunch",
-        "date": "2026-10-29T23:42:22+00:00"
+        "date": "2026-10-30T21:52:03+00:00"
       },
       {
-        "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-        "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
-        "summary": "Founder Summit begins Nov. Binance has confirmed to TechCrunch that it is dealing with a security incident as users reported that funds were being drained from the crypto exchange’s wallets. Crypto watchers say at least $2 billion has been drained from Binance’s hot wallets, which are internet-connected cryptocurrency wallets that store crypto that are connected to the internet.",
+        "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+        "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+        "summary": "The credential allowed access to the company’s customer database. Wiggins asked TechCrunch for help in disclosing the security issue to the company. Zack Whittaker is the security editor at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-10-29T22:27:23+00:00"
+        "date": "2026-10-30T21:48:53+00:00"
       },
       {
-        "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
-        "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Russian president Vladimir Putin said that he and SpaceX CEO Elon Musk are in “close contact” about Rassvet , Russia’s answer to Starlink, Musk’s internet satellite service.",
+        "title": "Last-minute Halloween costumes for tech nerds",
+        "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Here are some last-minute techy Halloween costumes.",
         "source": "TechCrunch",
-        "date": "2026-10-29T21:51:29+00:00"
+        "date": "2026-10-30T21:26:59+00:00"
       },
       {
-        "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
-        "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. To put that in perspective, the company forecast fourth-quarter net sales of between $240 billion and $247 billion.",
+        "title": "Cracks are emerging in the AI spending boom",
+        "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+        "summary": "Google’s parent company reported negative free cash flow of $9.1 billion in the third quarter, its second consecutive quarter in the red, even as quarterly capex grew to $51.4 billion. Amazon is in a similar boat after reporting negative free cash flow of $42.4 billion over the past 12 months, compared with $14.8 billion in positive free cash flow the year before. Meta is also burning cash, reporting negative free…",
         "source": "TechCrunch",
-        "date": "2026-10-29T21:20:47+00:00"
+        "date": "2026-10-30T21:17:40+00:00"
       },
       {
-        "title": "GM reaches $220M settlement over selling drivers’ private data",
-        "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
-        "summary": "Founder Summit begins Nov. General Motors will pay $220 million to 36 states to settle allegations that it illegally sold private driving behavior and location information to data brokers. Data brokers sold this information to insurance providers, which could affect customers’ rates, the NYT reported at the time.",
+        "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+        "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Two-year-old AI-first law firm Crosby has put in a bid to buy some of the assets of Weil Gotshal, including its trademark, its brand, and some unspecified internal data, TechCrunch has confirmed.",
         "source": "TechCrunch",
-        "date": "2026-10-29T21:01:04+00:00"
+        "date": "2026-10-30T19:55:13+00:00"
       },
       {
-        "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
-        "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Updated, 10/29/26, 9:45 PM ET, after OTW published a statement about the nature of the outage.",
+        "title": "Satlyt takes another step toward turning satellites into space data centers",
+        "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+        "summary": "Founder Summit begins Nov. His company, Satlyt , is building software to turn existing satellites into data processing networks, similar to the orbital data center concept. NASA already has a technology network designed to move data through space even when communication links face delays.",
         "source": "TechCrunch",
-        "date": "2026-10-29T20:43:56+00:00"
+        "date": "2026-10-30T18:01:24+00:00"
       },
       {
-        "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-        "summary": "Overall, Reddit’s global daily active users were flat quarter-over-quarter in Q3, reaching 130.3 million, while U.S. daily active users dropped from 53.2 million in Q2 to 50.7 million in Q3 and were down 2% year-over-year. Revenue increased 53% year-over-year to $895 million, ahead of Wall Street’s expectations of about $875 million. Globally, average revenue per daily active user increased 36% year-over-year to…",
+        "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+        "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+        "summary": "Founder Summit begins Nov. For Zest, that means bringing its restaurant recommendations into texts, then allowing users to immediately take the next step of booking a table. To work, users will text the Zest concierge at (212) 470-6067.",
         "source": "TechCrunch",
-        "date": "2026-10-29T20:08:31+00:00"
+        "date": "2026-10-30T17:47:12+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Silicon Valley wants you to invest in miracles",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-        "summary": "Anthropic’s S-1 is a new milestone in Big Tech’s sprawling and lofty promises to Wall Street. Anthropic’s S-1 is a new milestone in Big Tech’s sprawling and lofty promises to Wall Street. Out-of-this-world promises are integral to Anthropic’s survival as a company .",
+        "title": "Touchscreens everywhere!",
+        "url": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+        "summary": "Welcome to Installer No. Tell me everything: installer@theverge.com . “Currently watching: VisionQuest .",
         "source": "The Verge",
-        "date": "2026-10-30T13:11:05+00:00"
+        "date": "2026-10-31T12:00:00+00:00"
       },
       {
-        "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-        "summary": "Altman says OpenAI has spent hundreds of millions on math — and has more discoveries up its sleeve. Altman says OpenAI has spent hundreds of millions on math — and has more discoveries up its sleeve. On the podcast, Altman hints that OpenAI is sitting on many more mathematical discoveries than it has made public, too.",
+        "title": "Here’s why you can&#8217;t shake those unhinged political texts",
+        "url": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+        "summary": "You might be receiving political texts even if you’ve never made a political donation. You might be receiving political texts even if you’ve never made a political donation. Sometimes people move.",
         "source": "The Verge",
-        "date": "2026-10-30T13:01:14+00:00"
+        "date": "2026-10-31T12:00:00+00:00"
       },
       {
-        "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
-        "url": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
-        "summary": "Apple’s and Amazon’s new home devices might finally make the smart display genuinely useful. Apple’s and Amazon’s new home devices might finally make the smart display genuinely useful. Amazon’s approach treats the household as the user; the Echo Show is designed to know your home Amazon’s approach treats the household as the user; the Echo Show is designed to know your home.",
-        "source": "The Verge",
-        "date": "2026-10-30T13:00:00+00:00"
-      },
-      {
-        "title": "The Apple Pencil turned the Duo into my new favorite notebook",
-        "url": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
-        "summary": "Apple’s $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. It really is a different phone. It’s notebook-shaped.",
-        "source": "The Verge",
-        "date": "2026-10-30T12:30:00+00:00"
-      },
-      {
-        "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
-        "url": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
-        "summary": "Apple’s long-awaited touchscreen MacBook Pro is finally here. Apple took over a decade to come around to the touchscreen. Before the event, I wondered how Apple could make a touchscreen laptop better .",
-        "source": "The Verge",
-        "date": "2026-10-30T12:00:00+00:00"
-      },
-      {
-        "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
-        "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
-        "summary": "$3 billion of stolen assets have been frozen so far, and Binance has promised to ‘cover all losses.’﻿ $3 billion of stolen assets have been frozen so far, and Binance has promised to ‘cover all losses.’﻿ Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what’s believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X , the crypto…",
-        "source": "The Verge",
-        "date": "2026-10-30T11:44:53+00:00"
-      },
-      {
-        "title": "Backdoors in official Claude Code extensions",
-        "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-        "summary": "521 points, 154 comments on Hacker News",
+        "title": "Serbia just elected the world's brainiest parliament",
+        "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+        "summary": "359 points, 214 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-10-30T11:05:53+00:00"
+        "date": "2026-10-31T10:21:30+00:00"
       },
       {
-        "title": "Maine’s data center revolt will decide who controls the Senate",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-        "summary": "“AI data centers are destroying our climate. Maine and other rural states are becoming prime targets for new data centers. Collins’ ties to data centers don’t stop with her donors.",
-        "source": "The Verge",
-        "date": "2026-10-30T11:00:00+00:00"
-      },
-      {
-        "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-        "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-        "summary": "In the NYT’s case against OpenAI, the Wikimedia Foundation says training AI should be fair use — but regurgitating articles shouldn’t. In the NYT’s case against OpenAI, the Wikimedia Foundation says training AI should be fair use — but regurgitating articles shouldn’t. OpenAI and Microsoft both contend that using LLMs constitutes fair use.",
-        "source": "The Verge",
-        "date": "2026-10-30T09:00:00+00:00"
-      },
-      {
-        "title": "The director of Obsession put a new horror short on YouTube",
-        "url": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
-        "summary": "You can watch Curry Barker’s ‘Mama Bear’ on YouTube right now.﻿ You can watch Curry Barker’s ‘Mama Bear’ on YouTube right now.﻿ Curry Barker, the director behind the hit horror film Obsession , just published a new horror short on YouTube. The short, titled “Mama Bear,” is nearly five minutes long. Parsons debuted a new Backrooms YouTube episode in August .",
-        "source": "The Verge",
-        "date": "2026-10-29T23:57:18+00:00"
-      },
-      {
-        "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
-        "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
-        "summary": "Intel’s CFO says it’s ‘not optimistic about next year in terms of memory.’﻿ Intel’s CFO says it’s ‘not optimistic about next year in terms of memory.’﻿ During Intel’s latest earnings call , CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips “is outstripping supply.” According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has “seen significant growth in Wildcat Lake.…",
-        "source": "The Verge",
-        "date": "2026-10-29T23:42:21+00:00"
-      },
-      {
-        "title": "We ran AI agent swarms in Minecraft and Mindustry",
-        "url": "https://labs.ycombinator.com/projects/games/index.html",
-        "summary": "334 points, 133 comments on Hacker News",
+        "title": "Tell HN: Scribd Breached",
+        "url": "https://news.ycombinator.com/item?id=50312756",
+        "summary": "Central European Time. Central European Time. Central European Time. (259 points, 101 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-29T21:40:28+00:00"
+        "date": "2026-10-31T02:46:36+00:00"
+      },
+      {
+        "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+        "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+        "summary": "Apple is launching an iOS 27.3 beta next week that will bring some of the initial Apple Intelligence features to the Chinese market. Apple is launching an iOS 27.3 beta next week that will bring some of the initial Apple Intelligence features to the Chinese market. Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website , as reported by MacRumors .",
+        "source": "The Verge",
+        "date": "2026-10-30T22:32:53+00:00"
+      },
+      {
+        "title": "Exclusive details about Akai’s MPC Sample Key",
+        "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+        "summary": "The open-source MPC Sample Key won’t be focused on chopping up drum breaks. The open-source MPC Sample Key won’t be focused on chopping up drum breaks. Correction October 30th: The MPC Sample Key is 25 keys, not 37.",
+        "source": "The Verge",
+        "date": "2026-10-30T21:01:32+00:00"
+      },
+      {
+        "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+        "summary": "As OpenAI’s buying spree squeezes the world’s supply of RAM, its CEO explains why he needs so much.﻿ As OpenAI’s buying spree squeezes the world’s supply of RAM, its CEO explains why he needs so much.﻿ Asked about supply chain shortages, like the ongoing RAM shortage , OpenAI CEO Sam Altman said in an interview that it’s “terrible” to have RAM in personal PCs instead of data centers. You want maximum utilization in…",
+        "source": "The Verge",
+        "date": "2026-10-30T20:48:43+00:00"
+      },
+      {
+        "title": "The biggest names in AI are backing a new way to opt out of scraping",
+        "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+        "summary": "The new control will allow publishers to apply their AI training preferences across multiple crawlers. The new control will allow publishers to apply their AI training preferences across multiple crawlers. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually.",
+        "source": "The Verge",
+        "date": "2026-10-30T20:26:10+00:00"
+      },
+      {
+        "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+        "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+        "summary": "Stewart, of course, was far more than Picard. Stewart, as Picard, is on to him. JL: Stewart was 47 when he began playing Picard. (335 points, 200 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-10-30T20:23:30+00:00"
+      },
+      {
+        "title": "Bunny CDN Security Incident",
+        "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+        "summary": "219 points, 44 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-10-30T19:05:22+00:00"
+      },
+      {
+        "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+        "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+        "summary": "The Project Suncatcher satellite generated a haiku about being in space. The Project Suncatcher satellite generated a haiku about being in space. Google’s AI chip-equipped satellite has generated its first response from space.",
+        "source": "The Verge",
+        "date": "2026-10-30T18:21:38+00:00"
+      },
+      {
+        "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+        "summary": "The coffee chain aims to ‘recognize’ customers as they arrive. The coffee chain aims to ‘recognize’ customers as they arrive. Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru.",
+        "source": "The Verge",
+        "date": "2026-10-30T17:38:04+00:00"
       }
     ]
   }
