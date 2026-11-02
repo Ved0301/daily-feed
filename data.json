@@ -1,93 +1,100 @@
 {
-  "generated_at": "2026-11-01T14:04:29.984518+00:00",
+  "generated_at": "2026-11-02T16:51:20.468415+00:00",
   "sections": {
     "research": [
       {
-        "title": "Elucidating the Design Space of LM Data Attribution",
-        "url": "https://arxiv.org/abs/2610.40655v1",
-        "summary": "Steven Yu, Sheng-Yu Wang, Kimia Hamidieh et al. — Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible…",
+        "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+        "url": "https://arxiv.org/abs/2610.42149v1",
+        "summary": "Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee et al. — Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image…",
         "source": "arXiv",
-        "date": "2026-10-29T17:59:53Z"
+        "date": "2026-10-30T17:59:43Z"
       },
       {
-        "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
-        "url": "https://arxiv.org/abs/2610.40654v1",
-        "summary": "Moshe Shenfeld, Eliad Tsfadia, Katrina Ligett — An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets…",
+        "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+        "url": "https://arxiv.org/abs/2610.42148v1",
+        "summary": "Bobo Li, Jiajia Song, Hao Fei et al. — Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution.",
         "source": "arXiv",
-        "date": "2026-10-29T17:59:49Z"
+        "date": "2026-10-30T17:59:38Z"
       },
       {
-        "title": "Rethinking Neural Thickets Without Weight Perturbations",
-        "url": "https://arxiv.org/abs/2610.40649v1",
-        "summary": "Nicolas Dufour, Elouan Gardès, Amil Dravid et al. — The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported…",
+        "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+        "url": "https://arxiv.org/abs/2610.42147v1",
+        "summary": "Ales Kubicek, Andrea Caciolai, Liangzu Peng et al. — Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full…",
         "source": "arXiv",
-        "date": "2026-10-29T17:59:29Z"
+        "date": "2026-10-30T17:59:34Z"
       },
       {
-        "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
-        "url": "https://arxiv.org/abs/2610.40647v1",
-        "summary": "Jiongfan Yang, Weichen Fan, Haiwen Diao et al. — Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not…",
+        "title": "Hierarchical World Models with Implicit Dynamics",
+        "url": "https://arxiv.org/abs/2610.42146v1",
+        "summary": "Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui et al. — Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search…",
         "source": "arXiv",
-        "date": "2026-10-29T17:59:21Z"
+        "date": "2026-10-30T17:59:25Z"
       },
       {
-        "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
-        "url": "https://arxiv.org/abs/2610.40644v1",
-        "summary": "Aron Brenner, Saurabh Amin — Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat…",
+        "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+        "url": "https://arxiv.org/abs/2610.42141v1",
+        "summary": "Shengguang Wu, Suning Huang, Cherie Ho et al. — Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses…",
         "source": "arXiv",
-        "date": "2026-10-29T17:59:01Z"
+        "date": "2026-10-30T17:58:48Z"
       },
       {
-        "title": "Luggage re-identification: A study of strategies towards a real-world application",
-        "url": "https://arxiv.org/abs/2610.40643v1",
-        "summary": "Quentin Dhôte, Romaric Audigier — Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage…",
+        "title": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
+        "url": "https://arxiv.org/abs/2610.42139v1",
+        "summary": "Vitaly Feldman, Audra McMillan, Kunal Talwar — In many practical deployments of Differentially Private Stochastic Gradient Descent (DP-SGD), the server processes data in batches. Randomly sampling these batches allows for better privacy bounds via privacy…",
         "source": "arXiv",
-        "date": "2026-10-29T17:58:59Z"
+        "date": "2026-10-30T17:58:42Z"
       },
       {
-        "title": "From extreme weather to agricultural consequences with agentic AI",
-        "url": "https://arxiv.org/abs/2610.40641v1",
-        "summary": "Minghan Yu, Mengyu Dai, Yixin Wen et al. — Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that…",
+        "title": "A Better Critic Matters for Distribution Matching Distillation",
+        "url": "https://arxiv.org/abs/2610.42135v1",
+        "summary": "Zongze Wu, Xianbang Wang, Zhengyang Geng et al. — Distribution Matching Distillation (DMD) trains a few-step student using the difference between a teacher's score and an online critic's estimate of the student distribution's score. We investigate what the critic…",
         "source": "arXiv",
-        "date": "2026-10-29T17:58:53Z"
+        "date": "2026-10-30T17:58:26Z"
       },
       {
-        "title": "world2vec: Mechanistic world models through latent dynamics learning",
-        "url": "https://arxiv.org/abs/2610.40637v1",
-        "summary": "Tobias Schmidt, Rodrigo Gonzalez Laiz, Krisztián Szuppinger et al. — World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery.",
+        "title": "Instance-dependent sequential limits as an exact information ledger",
+        "url": "https://arxiv.org/abs/2610.42133v1",
+        "summary": "Akshay Balsubramani — Instance-dependent limits for bandit regret, sequential tests, best-arm identification and Markov decision processes are proved by one chain. It runs from a divergence decomposition through data processing to a…",
         "source": "arXiv",
-        "date": "2026-10-29T17:58:23Z"
+        "date": "2026-10-30T17:57:44Z"
       },
       {
-        "title": "Probing Spatial State Representations in Visual Foundation Models",
-        "url": "https://arxiv.org/abs/2610.40636v1",
-        "summary": "Baiqiao Yin, Zhongang Cai, Ruisi Wang et al. — An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent…",
+        "title": "DecisionRank: On-Policy Distillation for Decision-Model Rerankers",
+        "url": "https://arxiv.org/abs/2610.42128v1",
+        "summary": "Yanran Wu, Dian Yu, Chongyang Bai et al. — Decision models target structured tasks by directly predicting choices or scores, avoiding autoregressive decoding latency. However, transferring a generative LLM's ranking knowledge to a decision model remains…",
         "source": "arXiv",
-        "date": "2026-10-29T17:58:16Z"
+        "date": "2026-10-30T17:56:58Z"
       },
       {
-        "title": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
-        "url": "https://arxiv.org/abs/2610.40627v1",
-        "summary": "Qiyao Ma, Xiaodong Liu, Weiwei Yang et al. — Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request distributed across a multi-turn conversation still succeeds far too often. This brittleness has a…",
+        "title": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
+        "url": "https://arxiv.org/abs/2610.42126v1",
+        "summary": "Benjamin T. Pike — Objective: To distinguish the transferable predictive value of physiological trajectories from that of observation patterns in ICU mortality prediction, and to assess whether measurement timing affects performance…",
         "source": "arXiv",
-        "date": "2026-10-29T17:56:53Z"
+        "date": "2026-10-30T17:56:10Z"
       },
       {
-        "title": "Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses",
-        "url": "https://arxiv.org/abs/2610.40619v1",
-        "summary": "Chengyang He, Wenlong Zhang, Koduvayur Subbalakshmi et al. — Ask a language model whether sales tend to dip after a product recall, or whether one side effect tends to follow another after a vaccine, and it answers in a fluent sentence that reads like a finding, with no test…",
+        "title": "Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics",
+        "url": "https://arxiv.org/abs/2610.42118v1",
+        "summary": "Binghua Li, Mengzhe Li, Denny Wu et al. — Understanding how gradient descent learns features remains a central challenge in neural network theory. We study this question in a minimal multi-index setting that already exhibits rich multi-phase gradient dynamics:…",
         "source": "arXiv",
-        "date": "2026-10-29T17:55:30Z"
+        "date": "2026-10-30T17:51:35Z"
       },
       {
-        "title": "An ODE-based Sampler for Discrete Diffusion Models",
-        "url": "https://arxiv.org/abs/2610.40618v1",
-        "summary": "Samson Gourevitch, Yazid Janati, Eric Moulines et al. — The marginals of a continuous diffusion model can be reproduced by a deterministic ordinary differential equation (ODE), known as the probability flow ODE, which provides a foundation for accelerated sampling and…",
+        "title": "Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT",
+        "url": "https://arxiv.org/abs/2610.42117v1",
+        "summary": "Vitaly Feldman, Moshe Shenfeld — In the random allocation sampling scheme each user's data is used in $k$ steps chosen randomly and uniformly from a sequence of $t$ steps. This scheme is known to improve on Poisson sampling in private optimization and…",
         "source": "arXiv",
-        "date": "2026-10-29T17:55:25Z"
+        "date": "2026-10-30T17:51:03Z"
       }
     ],
     "labs": [
+      {
+        "title": "Introducing the Grid Protectors Program",
+        "url": "https://openai.com/index/grid-protectors-program",
+        "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+        "source": "OpenAI",
+        "date": "2026-11-02T15:00:00+00:00"
+      },
       {
         "title": "Making it easier for websites to express AI training preferences",
         "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
@@ -138,13 +145,6 @@
         "date": "2026-10-29T00:00:00+00:00"
       },
       {
-        "title": "Gemini 4 Carbon: Our next frontier model",
-        "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-        "summary": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities. SVP, Google DeepMind and Chief AI Architect, Google Today, we’re announcing the next frontier model: Gemini 4 Carbon, our strongest model with state-of-the-art cybersecurity and long horizon capabilities. Gemini 4 Carbon delivers a significant leap in cybersecurity capabilities.",
-        "source": "Google DeepMind",
-        "date": "2026-10-28T17:00:58+00:00"
-      },
-      {
         "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
         "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
         "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
@@ -175,174 +175,174 @@
     ],
     "startups": [
       {
-        "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-        "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
-        "summary": "Founder Summit begins Nov. There are even cashmere running shirts . The first are likely to feature renoa as a blended fiber, making up around 20% of the material in a cashmere sweater, for example.",
+        "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+        "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+        "summary": "Elon Musk, SpaceX’s CEO, reportedly spoke directly with EchoStar chairman Charlie Ergen in October about acquiring Boost Mobile, the mobile virtual network operator. EchoStar has about 7.5 million customers between Boost Mobile and GenMobile, its other mobile service offering. The big three providers each have over 100 million subscribers, dwarfing Boost Mobile.",
         "source": "TechCrunch",
-        "date": "2026-11-01T14:00:00+00:00"
+        "date": "2026-11-02T16:44:48+00:00"
       },
       {
-        "title": "Data centers are now a midterm issue, even in Brooklyn",
-        "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-        "summary": "I, meanwhile, was moderating a panel on data centers. People are upset that big tech companies appear to be cutting secret deals with local officials to build billion-dollar data centers. But once again, the conversation shifted to data centers.",
+        "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+        "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+        "summary": "Founder Summit begins Nov. In a world model, every individual is the world,” he added. Ezra said the model is trained to preserve a person’s underlying tendencies during simulations.",
         "source": "TechCrunch",
-        "date": "2026-11-01T02:22:10+00:00"
+        "date": "2026-11-02T16:30:00+00:00"
       },
       {
-        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. During a recent interview with Wired’s Steven Levy , Apple CEO John Ternus defended the company’s current position in the AI landscape.",
+        "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+        "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. The cost of serving Grok Bot was unsustainably high relative to revenue Grok Bot has been positioned as a success story for the newly public SpaceX, which said in a filing last month that AI now makes up 52% of company income.",
         "source": "TechCrunch",
-        "date": "2026-10-31T21:41:00+00:00"
+        "date": "2026-11-02T16:23:21+00:00"
       },
       {
-        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-        "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Just four days remain until TechCrunch Founder Summit arrives at Boston’s SoWa Power Station!",
+        "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+        "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Both startups were building real-time water sensors with complementary technology: Omen’s sensors looked for elements in the water, while the Aquatic Labs sensor tests its alkalinity.",
         "source": "TechCrunch",
-        "date": "2026-10-31T21:36:07+00:00"
+        "date": "2026-11-02T15:00:00+00:00"
       },
       {
-        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-        "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. A federal judge denied a motion by xAI seeking to dismiss an NAACP lawsuit accusing the SpaceX-owned company of failing to obtain permits needed to operate the gas turbines powering its Colossus data center outside Memphis.",
+        "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
+        "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
+        "summary": "Founder Summit begins Nov. Ninja has paired a 1,000W microwave with a 1,700W air fryer system, powered by its FusionCrisp technology, which combines the speed of microwave cooking with the golden, crispy results you’d typically expect from an air fryer. Of course, microwave and air fryer combinations aren’t entirely new.",
         "source": "TechCrunch",
-        "date": "2026-10-31T21:17:03+00:00"
+        "date": "2026-11-02T14:42:38+00:00"
       },
       {
-        "title": "OpenAI reportedly lowers funding target for new round",
-        "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. OpenAI was previously reported to be raising $30 billion at a $1.4 trillion valuation , and then at a $1.25 trillion valuation , ahead of a planned IPO.",
+        "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
+        "url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.",
         "source": "TechCrunch",
-        "date": "2026-10-31T16:12:55+00:00"
+        "date": "2026-11-02T14:22:35+00:00"
       },
       {
-        "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-        "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-        "summary": "It’s widely known that one of TikTok’s biggest leaps beyond social media was the launch of TikTok Shop. TikTok began testing TikTok Shop in 2021 and launched it in the U.S. in 2023. Additionally, TikTok began challenging digital marketplaces even further with the launch of TikTok Shop gift cards late last year.",
+        "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
+        "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. The cyberattacks follow earlier refrigerator hacks in France last month that caused food spoilage at hundreds of supermarkets by deliberately raising the temperature on the units.",
         "source": "TechCrunch",
-        "date": "2026-10-31T15:41:57+00:00"
+        "date": "2026-11-02T14:08:52+00:00"
       },
       {
-        "title": "I took two iPhones on vacation. The Duo won me over.",
-        "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-        "summary": "I started scrolling TikTok reviews of Duo cases . I sat on the phone countless times. The Duo has two rear cameras to my iPhone 17 Pro Max’s three.",
+        "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+        "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. A Boston company that became much bigger than Boston .",
         "source": "TechCrunch",
-        "date": "2026-10-31T14:00:00+00:00"
+        "date": "2026-11-02T14:00:00+00:00"
       },
       {
-        "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-        "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-        "summary": "Amit Bhatti: Same here. A lot of really well-known funds started with a $5 million fund. Amit Bhatti: People define “emerging” very differently.",
+        "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+        "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Codex will remain a separate experience in the ChatGPT desktop app,” the email said.",
         "source": "TechCrunch",
-        "date": "2026-10-31T04:16:50+00:00"
+        "date": "2026-11-02T13:57:53+00:00"
       },
       {
-        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-        "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-        "summary": "Nvidia is in talks to guarantee billions in debt financing for AI cloud provider Nscale’s planned Anthropic data center in West Virginia, The Information reported Thursday . Anthropic has signed a $44.6 billion contract for the project’s first building alone, according to Nscale’s IPO filing . Anthropic’s contract with Nscale covers the first 460-megawatt building at Nscale’s West Virginia campus, which is expected…",
+        "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+        "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+        "summary": "Founder Summit begins Nov. Opting out of sharing some data will naturally make some modern features inaccessible, Jones said. “We also do not share information about how our customers are driving their vehicles to data brokers,” Jones said.",
         "source": "TechCrunch",
-        "date": "2026-10-31T01:20:05+00:00"
+        "date": "2026-11-02T11:00:00+00:00"
       },
       {
-        "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-        "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Since Missionforce launched last year, its business has grown 80% year over year, driven in part by a new 10-year, $5.6 billion contract with the U.S.",
+        "title": "Borrowed reading: stories from our extended colleagues",
+        "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Buy One Pass, Get a Second Free Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says Google’s first data center satellite is online and…",
         "source": "TechCrunch",
-        "date": "2026-10-30T23:21:23+00:00"
+        "date": "2026-11-02T04:23:48+00:00"
       },
       {
-        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-        "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. The assistant was focused on helping families stay connected and organized.",
+        "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+        "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Data centers are deeply unpopular .",
         "source": "TechCrunch",
-        "date": "2026-10-30T22:56:13+00:00"
+        "date": "2026-11-01T21:55:23+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-        "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-        "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple’s Welcome Home event last month, I was disappointed. The Mini 2 is so much faster than the first-gen Mini, playing music in a few seconds and responding to smart home commands just as quickly. Siri on the Mini 2 is much snappier than on the first-gen Mini, regularly responding in under three seconds.",
+        "title": "Squarespace is laying off 19 percent of employees",
+        "url": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
+        "summary": "The layoffs will impact around 300 employees. The layoffs will impact around 300 employees. The job cuts will affect around 300 of Squarespace’s 1,800 employees .",
         "source": "The Verge",
-        "date": "2026-11-01T14:00:00+00:00"
+        "date": "2026-11-02T16:50:47+00:00"
       },
       {
-        "title": "New Zelda and GTA represent a games industry that no longer exists",
-        "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
-        "summary": "The two biggest games of the year launch in November, offering some reprieve from a terrible year.﻿ The two biggest games of the year launch in November, offering some reprieve from a terrible year.﻿ This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster . In that way, Zelda and GTA are throwbacks to a…",
+        "title": "Why Peacock is making a huge bet on YouTube",
+        "url": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
+        "summary": "There’s a lot going on. Where do we think the market was going to be? Think of it as an entertainment platform.",
         "source": "The Verge",
-        "date": "2026-11-01T13:00:00+00:00"
+        "date": "2026-11-02T16:00:00+00:00"
       },
       {
-        "title": "Prop 45 in California could be hiding a loophole for data centers",
-        "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
-        "summary": "Proposition 45 makes it easier for developers to speed through environmental reviews. Environmental groups and some legal experts, however, warn that data center developers backing the proposition could escape scrutiny if Prop 45 becomes law. Proponents, meanwhile, argue that Prop 45 would not apply to data centers.",
+        "title": "Vivo’s first Pro Max phone proves its Ultra is still in a league of its own",
+        "url": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price",
+        "summary": "The X500 Pro Max is great, but it’s a step back from my favorite phone camera. Fantastic telephoto camera 17 stops of dynamic range on the main camera Big 7,800mAh battery 1440p, 144Hz display Ultrawide camera is a weak link Drops the X300 Ultra’s 35mm main camera Expensive The X500 Pro Max is the latest in a trend that’s seen China’s major Android players roll out Pro Max models, including Xiaomi, Oppo , Honor ,…",
         "source": "The Verge",
-        "date": "2026-11-01T13:00:00+00:00"
+        "date": "2026-11-02T15:15:00+00:00"
       },
       {
-        "title": "Norway makes shithouses great again",
-        "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
-        "summary": "427 points, 208 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-11-01T10:47:58+00:00"
-      },
-      {
-        "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-        "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-        "summary": "It is the method of GVS5H (Lee, 2026), written as a Memdoor workflow: eight YAML files, no code, no model named. To change a role, change its prompt in steps/ . Every agent prompt says \"fresh context, read the files, do not rely on chat\". (306 points, 147 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-31T22:46:12+00:00"
-      },
-      {
-        "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-        "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-        "summary": "That grain must be really ancient , he thought. He dubbed it grano del miracolo —“miracle grain” or “miracle wheat.” Grossi’s discovery came at just the right time. “Miracle wheat” is hardly the first divine cereal. (554 points, 166 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-31T22:41:06+00:00"
-      },
-      {
-        "title": "Get in the spooky spirit with these horrors from YouTube",
-        "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-        "summary": "Close out the Halloween season with these creepy, weird, and unsettling videos from YouTube. Close out the Halloween season with these creepy, weird, and unsettling videos from YouTube. Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube.",
+        "title": "Could data center backlash flip Florida?",
+        "url": "https://www.theverge.com/policy/1024357/florida-governors-race-donalds-jolly-data-centers",
+        "summary": "Donalds has said he wants to welcome the tech industry — including data center developers — to the Sunshine State. So if a local community does not want a data center, then no data centers.” But Jolly has saddled his opponent with a nickname that sums up their differences on the issue: “Data Center Donalds.” Donalds’ campaign did not respond to a request for comment. Jolly has raised $22 million to Donalds’ $148…",
         "source": "The Verge",
-        "date": "2026-10-31T21:06:58+00:00"
+        "date": "2026-11-02T15:05:00+00:00"
       },
       {
-        "title": "HackerTube: YouTube built from videos recommended by HN",
-        "url": "https://karpathy.bearblog.dev/hacker-tube/",
-        "summary": "And Opus came back with: hackertube.org ! Thank you Opus 5.5 <3. I use Claude Code (desktop app for Mac). (1557 points, 418 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-10-31T19:56:53+00:00"
-      },
-      {
-        "title": "Anthropic blocks users for anything touching training larger models",
-        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-        "summary": "405 points, 227 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-10-31T19:39:19+00:00"
-      },
-      {
-        "title": "Keyboards of The Verge",
-        "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
-        "summary": "The Apple Magic Keyboard has its stalwarts. I love typing on mechanical keyboards! A 65 percent gasket-mounted wired mechanical keyboard kit.",
+        "title": "YouTuber Druski is going to make exclusive content for Netflix",
+        "url": "https://www.theverge.com/streaming/1023777/youtube-druski-netflix-deal",
+        "summary": "Netflix and Druski announced a multiyear deal, including a Druski series hitting Netflix on December 1st. Netflix and Druski announced a multiyear deal, including a Druski series hitting Netflix on December 1st. Netflix is also licensing other Druski series, including Coulda Been Love , Coulda Been Daddy , and Coulda Been Records Auditions .",
         "source": "The Verge",
-        "date": "2026-10-31T19:30:00+00:00"
+        "date": "2026-11-02T15:00:00+00:00"
       },
       {
-        "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-        "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-        "summary": "Running a self-built kernel? Red Hat's bulletin and AlmaLinux now publish nftables rules that drop incoming IPv4 TCP packets carrying IP options. The rule runs before connection tracking and doesn't touch IPv6 or non-TCP traffic. (569 points, 266 comments on Hacker News)",
+        "title": "WTF Ubuntu?",
+        "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+        "summary": "Ubuntu uses words like these: \"Timely.\" \"Enterprise-grade.\" \"Production grade.\" \"Enterprise resilience. What the fuck, Ubuntu? I'm moving all my servers off Ubuntu. (621 points, 295 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-10-31T19:16:30+00:00"
+        "date": "2026-11-02T14:52:00+00:00"
       },
       {
-        "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-        "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-        "summary": "Most of the $6.3 billion in crypto stolen from Binance users has been restored. Most of the $6.3 billion in crypto stolen from Binance users has been restored. Binance is covering the stolen funds directly, and the remaining 10 percent consists of “less liquid” tokens, which the company says may take longer to acquire.",
+        "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
+        "url": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
+        "summary": "The top configuration of the Raspberry Pi 5 now costs three times more than its launch price.﻿ The top configuration of the Raspberry Pi 5 now costs three times more than its launch price.﻿ The Raspberry Pi 5 with 16GB of RAM now costs $385 after an $80 price hike , the latest in a string of increases driven by the ongoing RAM shortage . This configuration launched at $120 and now costs more than triple that price.…",
         "source": "The Verge",
-        "date": "2026-10-31T18:40:32+00:00"
+        "date": "2026-11-02T14:07:22+00:00"
+      },
+      {
+        "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
+        "url": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report",
+        "summary": "SpaceX is looking into launching its own service through Boost Mobile, The Washington Post reports. SpaceX is looking into launching its own service through Boost Mobile, The Washington Post reports. Neither SpaceX nor Boost Mobile immediately responded to The Verge ’s request for comment.",
+        "source": "The Verge",
+        "date": "2026-11-02T14:05:34+00:00"
+      },
+      {
+        "title": "Affinity’s creative studio is now available on iPad for free",
+        "url": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
+        "summary": "After relaunching the Affinity creative suite as an all-in-one desktop app last year, Canva has now introduced Affinity for iPad , which provides the same pro-grade tools for vector graphics, photo editing, illustration, and page layouts in a format optimized for Apple Pencil and touchscreens. “Affinity for iPad delivers the full power of Affinity, together with the versatility and portability of iPad,” Affinity…",
+        "source": "The Verge",
+        "date": "2026-11-02T14:00:00+00:00"
+      },
+      {
+        "title": "More European supermarkets are getting their freezers hacked",
+        "url": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
+        "summary": "Stores in Belgium, Sweden, Luxembourg, and Estonia have had their cooling systems tampered with.﻿ Stores in Belgium, Sweden, Luxembourg, and Estonia have had their cooling systems tampered with.﻿ Grocery stores across Europe have been hit by another wave of suspected cyberattacks, reporting sudden changes in the temperatures of their fridges and freezers. Major supermarket chains across Belgium, Sweden, Luxembourg,…",
+        "source": "The Verge",
+        "date": "2026-11-02T13:00:35+00:00"
+      },
+      {
+        "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+        "url": "https://wikihack.netlify.app",
+        "summary": "324 points, 96 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-11-02T05:06:30+00:00"
+      },
+      {
+        "title": "Jackery made its portable power stations even smaller",
+        "url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
+        "summary": "The new Jackery Explorer 100D puts a longer lasting lithium iron phosphate battery in the palm of your hand.﻿ The new Jackery Explorer 100D puts a longer lasting lithium iron phosphate battery in the palm of your hand.﻿ Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D…",
+        "source": "The Verge",
+        "date": "2026-11-02T05:00:00+00:00"
       }
     ]
   }
