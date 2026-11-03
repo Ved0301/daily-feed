@@ -1,99 +1,148 @@
 {
-  "generated_at": "2026-11-02T16:51:20.468415+00:00",
+  "generated_at": "2026-11-03T14:52:19.137379+00:00",
   "sections": {
     "research": [
       {
-        "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
-        "url": "https://arxiv.org/abs/2610.42149v1",
-        "summary": "Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee et al. — Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image…",
+        "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+        "url": "https://arxiv.org/abs/2611.03647v1",
+        "summary": "Jason Jingzhou Liu, Tony Tao, Deepak Pathak et al. — Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whole-body policies…",
         "source": "arXiv",
-        "date": "2026-10-30T17:59:43Z"
+        "date": "2026-11-02T18:59:32Z"
       },
       {
-        "title": "Flide: Accelerating Decision Inference with Exact State Forking",
-        "url": "https://arxiv.org/abs/2610.42148v1",
-        "summary": "Bobo Li, Jiajia Song, Hao Fei et al. — Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution.",
+        "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+        "url": "https://arxiv.org/abs/2611.03648v1",
+        "summary": "Tony Tao, Jason Jingzhou Liu, Ruslan Salakhutdinov et al. — General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these components are often…",
         "source": "arXiv",
-        "date": "2026-10-30T17:59:38Z"
+        "date": "2026-11-02T18:59:32Z"
       },
       {
-        "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
-        "url": "https://arxiv.org/abs/2610.42147v1",
-        "summary": "Ales Kubicek, Andrea Caciolai, Liangzu Peng et al. — Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full…",
+        "title": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
+        "url": "https://arxiv.org/abs/2611.03641v1",
+        "summary": "Paulius Skaisgiris, Thomas Pammer, Veronika Semmelrock et al. — Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style question answering.…",
         "source": "arXiv",
-        "date": "2026-10-30T17:59:34Z"
+        "date": "2026-11-02T18:58:21Z"
       },
       {
-        "title": "Hierarchical World Models with Implicit Dynamics",
-        "url": "https://arxiv.org/abs/2610.42146v1",
-        "summary": "Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui et al. — Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search…",
+        "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+        "url": "https://arxiv.org/abs/2611.03634v1",
+        "summary": "Zhaoyang Wang, Qianhui Wu, Boyu Gou et al. — GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and limited coverage of…",
         "source": "arXiv",
-        "date": "2026-10-30T17:59:25Z"
+        "date": "2026-11-02T18:57:36Z"
       },
       {
-        "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
-        "url": "https://arxiv.org/abs/2610.42141v1",
-        "summary": "Shengguang Wu, Suning Huang, Cherie Ho et al. — Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses…",
+        "title": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
+        "url": "https://arxiv.org/abs/2611.03633v1",
+        "summary": "Catherine Li, Jingchu Gai, Andrej Risteski et al. — Muon has recently emerged as a promising optimizer for pretraining large language models, offering a speedup over AdamW in minimizing pretraining loss. However, it remains unclear whether Muon's advantage persists after…",
         "source": "arXiv",
-        "date": "2026-10-30T17:58:48Z"
+        "date": "2026-11-02T18:56:43Z"
       },
       {
-        "title": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
-        "url": "https://arxiv.org/abs/2610.42139v1",
-        "summary": "Vitaly Feldman, Audra McMillan, Kunal Talwar — In many practical deployments of Differentially Private Stochastic Gradient Descent (DP-SGD), the server processes data in batches. Randomly sampling these batches allows for better privacy bounds via privacy…",
+        "title": "Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR",
+        "url": "https://arxiv.org/abs/2611.03627v1",
+        "summary": "Ziqi Pang, Yu-Xiong Wang — Reinforcement learning with verifiable rewards (RLVR) can enable generalizable improvement for large language model (LLM) reasoning. This paper studies how to incentivize such generalization via reasoning strategies.",
         "source": "arXiv",
-        "date": "2026-10-30T17:58:42Z"
+        "date": "2026-11-02T18:53:54Z"
       },
       {
-        "title": "A Better Critic Matters for Distribution Matching Distillation",
-        "url": "https://arxiv.org/abs/2610.42135v1",
-        "summary": "Zongze Wu, Xianbang Wang, Zhengyang Geng et al. — Distribution Matching Distillation (DMD) trains a few-step student using the difference between a teacher's score and an online critic's estimate of the student distribution's score. We investigate what the critic…",
+        "title": "FADE: Factored Ability--Difficulty Filtering for Online RLVR Scheduling",
+        "url": "https://arxiv.org/abs/2611.03625v1",
+        "summary": "Tomas Duncun, Jonah Ellison, Mateo Ruiz et al. — Group-based reinforcement learning with verifiable rewards (RLVR) learns only from prompts whose sampled completions disagree: all-pass and all-fail groups produce zero relative advantage and burn generation budget…",
         "source": "arXiv",
-        "date": "2026-10-30T17:58:26Z"
+        "date": "2026-11-02T18:53:23Z"
       },
       {
-        "title": "Instance-dependent sequential limits as an exact information ledger",
-        "url": "https://arxiv.org/abs/2610.42133v1",
-        "summary": "Akshay Balsubramani — Instance-dependent limits for bandit regret, sequential tests, best-arm identification and Markov decision processes are proved by one chain. It runs from a divergence decomposition through data processing to a…",
+        "title": "Thought-deciphering via hierarchical EEG-to-text alignment",
+        "url": "https://arxiv.org/abs/2611.03623v1",
+        "summary": "Xiaopeng Mao, Morten Mørup, Xin Xu et al. — Communication is important for our well-being, but it can be impaired by disabilities, such as locked-in syndrome (LIS), cerebral palsy (CP), and dysarthria. Non-invasive brain-to-text brain-computer interfaces (BCIs)…",
         "source": "arXiv",
-        "date": "2026-10-30T17:57:44Z"
+        "date": "2026-11-02T18:52:26Z"
       },
       {
-        "title": "DecisionRank: On-Policy Distillation for Decision-Model Rerankers",
-        "url": "https://arxiv.org/abs/2610.42128v1",
-        "summary": "Yanran Wu, Dian Yu, Chongyang Bai et al. — Decision models target structured tasks by directly predicting choices or scores, avoiding autoregressive decoding latency. However, transferring a generative LLM's ranking knowledge to a decision model remains…",
+        "title": "D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models",
+        "url": "https://arxiv.org/abs/2611.03622v1",
+        "summary": "Marius Memmel, Shawn Yin, Urvi Rutia et al. — Vision-Language Models (VLMs) hold promise for zero-shot video task-progress estimation in robot learning, yet existing frameworks frequently suffer from confirmation bias, hallucinating progress in failed executions…",
         "source": "arXiv",
-        "date": "2026-10-30T17:56:58Z"
+        "date": "2026-11-02T18:52:11Z"
       },
       {
-        "title": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
-        "url": "https://arxiv.org/abs/2610.42126v1",
-        "summary": "Benjamin T. Pike — Objective: To distinguish the transferable predictive value of physiological trajectories from that of observation patterns in ICU mortality prediction, and to assess whether measurement timing affects performance…",
+        "title": "Strategist: Evolving Reasoning with Agents",
+        "url": "https://arxiv.org/abs/2611.03618v1",
+        "summary": "Taiming Lu, Qi Xu, Zhigang Hua et al. — A model is only half of an AI agent system. The other half is the inference strategy: the reasoning procedure that turns model calls into a response.",
         "source": "arXiv",
-        "date": "2026-10-30T17:56:10Z"
+        "date": "2026-11-02T18:51:04Z"
       },
       {
-        "title": "Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics",
-        "url": "https://arxiv.org/abs/2610.42118v1",
-        "summary": "Binghua Li, Mengzhe Li, Denny Wu et al. — Understanding how gradient descent learns features remains a central challenge in neural network theory. We study this question in a minimal multi-index setting that already exhibits rich multi-phase gradient dynamics:…",
+        "title": "Tracing the Scientific Discovery Capacity of LLMs to Their Training Data",
+        "url": "https://arxiv.org/abs/2611.03617v1",
+        "summary": "Arda Uzunoglu, Mahler Revsine, Michael Schatz et al. — Large language models (LLMs) show growing promise for scientific discovery, yet basic questions remain about what enables reliable discovery. How can we trace the scientific discovery capacity of LLMs to their training…",
         "source": "arXiv",
-        "date": "2026-10-30T17:51:35Z"
+        "date": "2026-11-02T18:50:54Z"
       },
       {
-        "title": "Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT",
-        "url": "https://arxiv.org/abs/2610.42117v1",
-        "summary": "Vitaly Feldman, Moshe Shenfeld — In the random allocation sampling scheme each user's data is used in $k$ steps chosen randomly and uniformly from a sequence of $t$ steps. This scheme is known to improve on Poisson sampling in private optimization and…",
+        "title": "Benchmark Prediction with Sparse and Unpaired Cached Responses",
+        "url": "https://arxiv.org/abs/2611.03614v1",
+        "summary": "Hayden Helm, Avijit Ghosh, Ben Johnson et al. — Evaluating a generative model on all queries from all available benchmark tasks is prohibitively expensive. As such, models are often evaluated on different subsets of tasks and/or different subsets of queries from a…",
         "source": "arXiv",
-        "date": "2026-10-30T17:51:03Z"
+        "date": "2026-11-02T18:49:33Z"
       }
     ],
     "labs": [
+      {
+        "title": "Heimstaden is changing residential real estate management with AI",
+        "url": "https://openai.com/index/heimstaden",
+        "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+        "source": "OpenAI",
+        "date": "2026-11-03T08:00:00+00:00"
+      },
+      {
+        "title": "Preparing our next security sprint to harden OpenAI",
+        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+        "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+        "source": "OpenAI",
+        "date": "2026-11-02T18:00:00+00:00"
+      },
+      {
+        "title": "Rewarding defenders with bigger bug bounties",
+        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+        "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+        "source": "OpenAI",
+        "date": "2026-11-02T18:00:00+00:00"
+      },
+      {
+        "title": "Scaling Git at OpenAI",
+        "url": "https://openai.com/index/scaling-git-at-openai",
+        "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+        "source": "OpenAI",
+        "date": "2026-11-02T15:30:00+00:00"
+      },
       {
         "title": "Introducing the Grid Protectors Program",
         "url": "https://openai.com/index/grid-protectors-program",
         "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
         "source": "OpenAI",
         "date": "2026-11-02T15:00:00+00:00"
+      },
+      {
+        "title": "LifeVal",
+        "url": "https://openai.com/index/lifeval",
+        "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+        "source": "OpenAI",
+        "date": "2026-11-02T09:00:00+00:00"
+      },
+      {
+        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+        "url": "https://openai.com/index/dan-driscoll-joins-openai",
+        "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+        "source": "OpenAI",
+        "date": "2026-11-02T00:00:00+00:00"
+      },
+      {
+        "title": "Qodo builds context into AI code review with Codex",
+        "url": "https://openai.com/index/qodo-codex-plugin",
+        "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+        "source": "OpenAI",
+        "date": "2026-11-02T00:00:00+00:00"
       },
       {
         "title": "Making it easier for websites to express AI training preferences",
@@ -122,227 +171,178 @@
         "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
         "source": "OpenAI",
         "date": "2026-10-29T17:00:00+00:00"
-      },
-      {
-        "title": "How we detect frontier model misalignment",
-        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-        "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-        "source": "OpenAI",
-        "date": "2026-10-29T09:00:00+00:00"
-      },
-      {
-        "title": "How Ropes & Gray is developing AI for transactional diligence",
-        "url": "https://openai.com/index/ropes-gray-ai-diligence",
-        "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-        "source": "OpenAI",
-        "date": "2026-10-29T07:00:00+00:00"
-      },
-      {
-        "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-        "url": "https://openai.com/index/credit-saison",
-        "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-        "source": "OpenAI",
-        "date": "2026-10-29T00:00:00+00:00"
-      },
-      {
-        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-        "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-        "source": "OpenAI",
-        "date": "2026-10-28T13:15:00+00:00"
-      },
-      {
-        "title": "The future of the firm",
-        "url": "https://openai.com/index/the-future-of-the-firm",
-        "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-        "source": "OpenAI",
-        "date": "2026-10-28T10:00:00+00:00"
-      },
-      {
-        "title": "Legora is building the agentic operating system for legal work",
-        "url": "https://openai.com/index/legora",
-        "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-        "source": "OpenAI",
-        "date": "2026-10-28T09:30:00+00:00"
-      },
-      {
-        "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
-        "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-        "summary": "Modern LLMs achieve impressive performance via pre-training and in-context learning (ICL). The sleep paradigm addresses catastrophic forgetting and continuous adaptation through two stages: memory consolidation and dreaming. Our sleep paradigm provides a path toward autonomous, continually learning AI systems.",
-        "source": "Google Research",
-        "date": "2026-10-27T17:35:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
-        "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
-        "summary": "Elon Musk, SpaceX’s CEO, reportedly spoke directly with EchoStar chairman Charlie Ergen in October about acquiring Boost Mobile, the mobile virtual network operator. EchoStar has about 7.5 million customers between Boost Mobile and GenMobile, its other mobile service offering. The big three providers each have over 100 million subscribers, dwarfing Boost Mobile.",
+        "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+        "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Bring your co-founder.",
         "source": "TechCrunch",
-        "date": "2026-11-02T16:44:48+00:00"
+        "date": "2026-11-03T14:30:00+00:00"
       },
       {
-        "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-        "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-        "summary": "Founder Summit begins Nov. In a world model, every individual is the world,” he added. Ezra said the model is trained to preserve a person’s underlying tendencies during simulations.",
+        "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+        "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. TechCrunch Founder Summit , presented by Fidelity Private Shares, takes place tomorrow, November 4, at SoWa Power Station in Boston.",
         "source": "TechCrunch",
-        "date": "2026-11-02T16:30:00+00:00"
+        "date": "2026-11-03T14:00:00+00:00"
       },
       {
-        "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-        "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. The cost of serving Grok Bot was unsustainably high relative to revenue Grok Bot has been positioned as a success story for the newly public SpaceX, which said in a filing last month that AI now makes up 52% of company income.",
+        "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+        "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+        "summary": "Founder Summit begins Nov. On Tuesday, she announced that her own fund, Evertrue, officially closed an oversubscribed $17 million Fund I. Evertrue was part of the £400 million British Business Bank’s Investor Pathways capital initiative, which saw it pour £90 million to 10 first-time fund managers.",
         "source": "TechCrunch",
-        "date": "2026-11-02T16:23:21+00:00"
+        "date": "2026-11-03T08:01:00+00:00"
       },
       {
-        "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-        "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Both startups were building real-time water sensors with complementary technology: Omen’s sensors looked for elements in the water, while the Aquatic Labs sensor tests its alkalinity.",
+        "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+        "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+        "summary": "The other option, Siri Recaps, takes this ambient listening technology even further by allowing Apple Watch owners to take high-level notes of their conversations. The Audio Intelligence features for the Apple Watch Series 12 and Apple Watch Ultra 4 rely on a combination of Apple’s hardware, software, and services. Similarly, Apple Watch transfers audio to the iPhone for processing to create the 15-second snippets…",
         "source": "TechCrunch",
-        "date": "2026-11-02T15:00:00+00:00"
+        "date": "2026-11-03T07:20:00+00:00"
       },
       {
-        "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
-        "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
-        "summary": "Founder Summit begins Nov. Ninja has paired a 1,000W microwave with a 1,700W air fryer system, powered by its FusionCrisp technology, which combines the speed of microwave cooking with the golden, crispy results you’d typically expect from an air fryer. Of course, microwave and air fryer combinations aren’t entirely new.",
+        "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+        "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+        "summary": "Dreambeans’ dependence on information from users’ Google accounts also raises questions about privacy and data access. Users can choose which Google services to connect to Dreambeans and disconnect them at any time, Oznur said. Users, Oznur said, can tell Dreambeans to avoid certain subjects, including business-related information, and the app will try to adjust its stories accordingly.",
         "source": "TechCrunch",
-        "date": "2026-11-02T14:42:38+00:00"
+        "date": "2026-11-03T03:30:00+00:00"
       },
       {
-        "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
-        "url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.",
+        "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+        "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+        "summary": "Founder Summit begins Nov. However, on Monday’s earnings call, Apple signaled that it may look to boost services revenue through third-party apps. Apple has traditionally controlled payments within its app marketplace tightly, taking a cut of all App Store transactions.",
         "source": "TechCrunch",
-        "date": "2026-11-02T14:22:35+00:00"
+        "date": "2026-11-03T01:49:52+00:00"
       },
       {
-        "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
-        "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. The cyberattacks follow earlier refrigerator hacks in France last month that caused food spoilage at hundreds of supermarkets by deliberately raising the temperature on the units.",
+        "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+        "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. It also listens on the radio channels Russia’s newer Molniya drones started using for video in June.",
         "source": "TechCrunch",
-        "date": "2026-11-02T14:08:52+00:00"
+        "date": "2026-11-03T01:12:55+00:00"
       },
       {
-        "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-        "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. A Boston company that became much bigger than Boston .",
+        "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+        "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. He uses agents for countless work projects and coding tasks and has freely shared his set of 23 Claude Code skills, called gstack , on GitHub — an effort to help teach others what agents can do, he said.",
         "source": "TechCrunch",
-        "date": "2026-11-02T14:00:00+00:00"
+        "date": "2026-11-03T00:35:52+00:00"
       },
       {
-        "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-        "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Codex will remain a separate experience in the ChatGPT desktop app,” the email said.",
+        "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+        "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+        "summary": "Founder Summit begins Nov. The app had a much better quarter than Tinder, with global monthly active users growing 12% year over year, direct revenue increasing 19%, and paying users rising 23% to 2.3 million. Match Group plans to ramp up those efforts in the fourth quarter.",
         "source": "TechCrunch",
-        "date": "2026-11-02T13:57:53+00:00"
+        "date": "2026-11-03T00:14:51+00:00"
       },
       {
-        "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
-        "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
-        "summary": "Founder Summit begins Nov. Opting out of sharing some data will naturally make some modern features inaccessible, Jones said. “We also do not share information about how our customers are driving their vehicles to data brokers,” Jones said.",
+        "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+        "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Apple Chief Operating Officer Sabih Khan acknowledged the shipping delays plaguing the new iPhone Duo during the company’s fiscal fourth-quarter earnings call on Monday, but offered little clarity on when customers can expect relief.",
         "source": "TechCrunch",
-        "date": "2026-11-02T11:00:00+00:00"
+        "date": "2026-11-02T23:25:32+00:00"
       },
       {
-        "title": "Borrowed reading: stories from our extended colleagues",
-        "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Buy One Pass, Get a Second Free Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says Google’s first data center satellite is online and…",
+        "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+        "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+        "summary": "Founder Summit begins Nov. The startup is now making its post-training platform publicly available. Trajectory isn’t the only startup trying to automate post-training.",
         "source": "TechCrunch",
-        "date": "2026-11-02T04:23:48+00:00"
+        "date": "2026-11-02T23:13:53+00:00"
       },
       {
-        "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-        "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Data centers are deeply unpopular .",
+        "title": "Apple’s inventory surges 154% as memory chip costs climb",
+        "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+        "summary": "Founder Summit begins Nov. Year-over-year, inventory grew 154.3% from $5.72 billion in the fourth quarter of 2025. The company reported a gross margin of 47.9% for the September quarter.",
         "source": "TechCrunch",
-        "date": "2026-11-01T21:55:23+00:00"
+        "date": "2026-11-02T23:04:57+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Squarespace is laying off 19 percent of employees",
-        "url": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
-        "summary": "The layoffs will impact around 300 employees. The layoffs will impact around 300 employees. The job cuts will affect around 300 of Squarespace’s 1,800 employees .",
+        "title": "A truck-sized NASA space telescope is about to crash to Earth",
+        "url": "https://www.theverge.com/science/1025227/nasa-swift-observatory-falling-to-earth",
+        "summary": "The Swift Observatory is expected to re-enter Earth’s atmosphere on Wednesday, and is ‘unlikely’ to cause harm. The Swift Observatory is expected to re-enter Earth’s atmosphere on Wednesday, and is ‘unlikely’ to cause harm. Due to Swift’s low inclination, re-entry locations of surviving fragments are limited between 20.6 degrees south latitude and 20.6 degrees north latitude.",
         "source": "The Verge",
-        "date": "2026-11-02T16:50:47+00:00"
+        "date": "2026-11-03T14:17:55+00:00"
       },
       {
-        "title": "Why Peacock is making a huge bet on YouTube",
-        "url": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
-        "summary": "There’s a lot going on. Where do we think the market was going to be? Think of it as an entertainment platform.",
+        "title": "Peak Design expands its collection of wireless charging accessories",
+        "url": "https://www.theverge.com/tech/1024484/peak-design-wireless-travel-battery-charging-charger-station-qi",
+        "summary": "The collection includes what Peak Design claims is the ‘world’s first Qi2.3-certified wireless charger.’ The collection includes what Peak Design claims is the ‘world’s first Qi2.3-certified wireless charger.’ If you buy something from a link, The Verge may earn a commission. On battery power alone, its wireless charging speed maxes out at 15W. Peak Design’s $99.95 Wireless Charging Station 2-in-1 , available in the…",
         "source": "The Verge",
-        "date": "2026-11-02T16:00:00+00:00"
+        "date": "2026-11-03T14:00:00+00:00"
       },
       {
-        "title": "Vivo’s first Pro Max phone proves its Ultra is still in a league of its own",
-        "url": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price",
-        "summary": "The X500 Pro Max is great, but it’s a step back from my favorite phone camera. Fantastic telephoto camera 17 stops of dynamic range on the main camera Big 7,800mAh battery 1440p, 144Hz display Ultrawide camera is a weak link Drops the X300 Ultra’s 35mm main camera Expensive The X500 Pro Max is the latest in a trend that’s seen China’s major Android players roll out Pro Max models, including Xiaomi, Oppo , Honor ,…",
+        "title": "Bambu&#8217;s nine-nozzle H3C foretells the future of 3D printing",
+        "url": "https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend",
+        "summary": "The Bambu H3C is a tool-changing, color-mixing, nine-nozzle printer that keeps your filament dry too. The Bambu H3C is a tool-changing, color-mixing, nine-nozzle printer that keeps your filament dry too. Today, Bambu Lab is announcing its most advanced 3D printer yet, the $2,499 H3C , which can do all of that mixing goodness — by loading nine different rolls of filament into nine different print heads.",
         "source": "The Verge",
-        "date": "2026-11-02T15:15:00+00:00"
+        "date": "2026-11-03T14:00:00+00:00"
       },
       {
-        "title": "Could data center backlash flip Florida?",
-        "url": "https://www.theverge.com/policy/1024357/florida-governors-race-donalds-jolly-data-centers",
-        "summary": "Donalds has said he wants to welcome the tech industry — including data center developers — to the Sunshine State. So if a local community does not want a data center, then no data centers.” But Jolly has saddled his opponent with a nickname that sums up their differences on the issue: “Data Center Donalds.” Donalds’ campaign did not respond to a request for comment. Jolly has raised $22 million to Donalds’ $148…",
+        "title": "The 2026 iPad Mini is a terrific tiny tablet — for a big price",
+        "url": "https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review",
+        "summary": "The iPad Mini sometimes feels like a trap. We, the iPad Mini People, sometimes feel a little forgotten. As ever, the iPad Mini is really only for iPad Mini People (and pilots and oil riggers, apparently).",
         "source": "The Verge",
-        "date": "2026-11-02T15:05:00+00:00"
+        "date": "2026-11-03T14:00:00+00:00"
       },
       {
-        "title": "YouTuber Druski is going to make exclusive content for Netflix",
-        "url": "https://www.theverge.com/streaming/1023777/youtube-druski-netflix-deal",
-        "summary": "Netflix and Druski announced a multiyear deal, including a Druski series hitting Netflix on December 1st. Netflix and Druski announced a multiyear deal, including a Druski series hitting Netflix on December 1st. Netflix is also licensing other Druski series, including Coulda Been Love , Coulda Been Daddy , and Coulda Been Records Auditions .",
+        "title": "Adobe’s Premiere mobile app is adding licensed music from ‘leading artists’",
+        "url": "https://www.theverge.com/tech/1025160/adobe-umg-wmg-premiere-mobile-licensed-music",
+        "summary": "Universal and Warner music groups are working with Adobe to provide a browsable library of fully licensed song clips.﻿ Universal and Warner music groups are working with Adobe to provide a browsable library of fully licensed song clips.﻿ Adobe is teaming up with Universal Music Group and Warner Music Group to add a library of licensed music clips to the Premiere mobile video editing app. No specific musicians have…",
         "source": "The Verge",
-        "date": "2026-11-02T15:00:00+00:00"
+        "date": "2026-11-03T14:00:00+00:00"
       },
       {
-        "title": "WTF Ubuntu?",
-        "url": "https://chalmovsky.com/posts/wtf-ubuntu",
-        "summary": "Ubuntu uses words like these: \"Timely.\" \"Enterprise-grade.\" \"Production grade.\" \"Enterprise resilience. What the fuck, Ubuntu? I'm moving all my servers off Ubuntu. (621 points, 295 comments on Hacker News)",
+        "title": "Apple is restricting dating apps and romanceable chatbots to over 18s",
+        "url": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion",
+        "summary": "New App Store age rating guidance is being introduced for dating apps, romanceable virtual companions, and location sharing.﻿ New App Store age rating guidance is being introduced for dating apps, romanceable virtual companions, and location sharing.﻿ Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing…",
+        "source": "The Verge",
+        "date": "2026-11-03T13:22:38+00:00"
+      },
+      {
+        "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+        "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+        "summary": "This is pretty much how the experiments in the ‘Astra can read and write weights to improve Qwen’ post work. If you read that, would you assume that the Qwen experiment worked ‘just by looking at the raw weights’? There’s experiments that look at raw weights, and experiments that improve a game-playing network, and an experiment that improves Qwen at maths. (380 points, 78 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-02T14:52:00+00:00"
+        "date": "2026-11-03T12:21:17+00:00"
       },
       {
-        "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
-        "url": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
-        "summary": "The top configuration of the Raspberry Pi 5 now costs three times more than its launch price.﻿ The top configuration of the Raspberry Pi 5 now costs three times more than its launch price.﻿ The Raspberry Pi 5 with 16GB of RAM now costs $385 after an $80 price hike , the latest in a string of increases driven by the ongoing RAM shortage . This configuration launched at $120 and now costs more than triple that price.…",
+        "title": "Redmagic upgrades its liquid-cooled gaming phone with extra RGBs",
+        "url": "https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera",
+        "summary": "The Redmagic 12 Pro adds lights to its liquid.﻿ The Redmagic 12 Pro adds lights to its liquid.﻿ After introducing true liquid cooling to its gaming phones last year, Redmagic is upping the ante in its 12 Pro by building RGB lights into the transparent cooling loop, too. The problem is that like last year’s 11 Pro , the cooling system itself uses fluorescent blue liquid, which the lights have to work against. Every…",
         "source": "The Verge",
-        "date": "2026-11-02T14:07:22+00:00"
+        "date": "2026-11-03T12:00:00+00:00"
       },
       {
-        "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
-        "url": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report",
-        "summary": "SpaceX is looking into launching its own service through Boost Mobile, The Washington Post reports. SpaceX is looking into launching its own service through Boost Mobile, The Washington Post reports. Neither SpaceX nor Boost Mobile immediately responded to The Verge ’s request for comment.",
+        "title": "Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship",
+        "url": "https://www.theverge.com/transportation/1024747/rivian-spinoff-also-chris-yu-interview-ebike-production-ramp",
+        "summary": "Those things combined don’t exist in standard e-bike battery guidelines. Mechanically, the bike has very few moving parts. Following the bike launch, we are heavily focused on autonomous delivery.",
         "source": "The Verge",
-        "date": "2026-11-02T14:05:34+00:00"
+        "date": "2026-11-03T12:00:00+00:00"
       },
       {
-        "title": "Affinity’s creative studio is now available on iPad for free",
-        "url": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
-        "summary": "After relaunching the Affinity creative suite as an all-in-one desktop app last year, Canva has now introduced Affinity for iPad , which provides the same pro-grade tools for vector graphics, photo editing, illustration, and page layouts in a format optimized for Apple Pencil and touchscreens. “Affinity for iPad delivers the full power of Affinity, together with the versatility and portability of iPad,” Affinity…",
-        "source": "The Verge",
-        "date": "2026-11-02T14:00:00+00:00"
-      },
-      {
-        "title": "More European supermarkets are getting their freezers hacked",
-        "url": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
-        "summary": "Stores in Belgium, Sweden, Luxembourg, and Estonia have had their cooling systems tampered with.﻿ Stores in Belgium, Sweden, Luxembourg, and Estonia have had their cooling systems tampered with.﻿ Grocery stores across Europe have been hit by another wave of suspected cyberattacks, reporting sudden changes in the temperatures of their fridges and freezers. Major supermarket chains across Belgium, Sweden, Luxembourg,…",
-        "source": "The Verge",
-        "date": "2026-11-02T13:00:35+00:00"
-      },
-      {
-        "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
-        "url": "https://wikihack.netlify.app",
-        "summary": "324 points, 96 comments on Hacker News",
+        "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+        "url": "https://hackertimes.ca/",
+        "summary": "Saved edition · Tuesday, November 3, 2026. HackerTube gathers 6,454 YouTube videos mentioned by Hacker News readers across nearly two decades. This is the original Hacker News submission title; no article summary or image is included. (387 points, 123 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-02T05:06:30+00:00"
+        "date": "2026-11-03T01:53:34+00:00"
       },
       {
-        "title": "Jackery made its portable power stations even smaller",
-        "url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
-        "summary": "The new Jackery Explorer 100D puts a longer lasting lithium iron phosphate battery in the palm of your hand.﻿ The new Jackery Explorer 100D puts a longer lasting lithium iron phosphate battery in the palm of your hand.﻿ Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D…",
-        "source": "The Verge",
-        "date": "2026-11-02T05:00:00+00:00"
+        "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+        "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+        "summary": "Windows 桌面版支持设计与刻录，Linux 和 macOS 的 实验性命令行版 可离线生成 CD、DVD 和蓝光镜像。 Disc Image Studio 可将一张图片转换成符合 CD、DVD 与单层 BD-R 光盘物理层约束的数据，刻录后将使光盘盘面呈现肉眼可见的图案。 Windows 下载 win-x64.exe 后可直接运行。Linux 或 macOS 请下载与 CPU 匹配的 实验性 CLI 压缩包，解压后运行 ./disc-image-studio --help 。这些发布包均自带 .NET 运行时。 GitHub Releases 在设计页导入图片，用图层完成排版，并在右栏「影调」模块调整抖动、伽马、亮度与灰阶档位。 在预览页核对盘面投影，在导出页生成 ISO / RAW / WAV+CUE，或使用即时刻录功能直接写入空白盘片。 Disc Image Studio… (303 points, 65 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-03T01:33:43+00:00"
+      },
+      {
+        "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+        "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+        "summary": "Chip and memory stocks have lost about $3.7 trillion in market value since Oct. 6, by Yahoo Finance calculations. \"The market kitchen-sinked it,\" Johnson told Yahoo Finance on Monday. (219 points, 193 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-03T00:08:53+00:00"
       }
     ]
   }
