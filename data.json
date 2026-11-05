@@ -1,99 +1,120 @@
 {
-  "generated_at": "2026-11-04T15:09:38.459678+00:00",
+  "generated_at": "2026-11-05T15:12:41.406709+00:00",
   "sections": {
     "research": [
       {
-        "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
-        "url": "https://arxiv.org/abs/2611.05377v1",
-        "summary": "Jisoo Kim, Chaehyun Kim, Junsu Kim et al. — Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearance.",
+        "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+        "url": "https://arxiv.org/abs/2611.06914v1",
+        "summary": "Mattia Greiche, Reihaneh Rabbany, Maximilian Puelma Touzel — Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been shown to…",
         "source": "arXiv",
-        "date": "2026-11-03T18:59:56Z"
+        "date": "2026-11-04T18:58:23Z"
       },
       {
-        "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
-        "url": "https://arxiv.org/abs/2611.05376v1",
-        "summary": "Hao Fei — For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on a person's behalf.…",
+        "title": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
+        "url": "https://arxiv.org/abs/2611.06912v1",
+        "summary": "Nicolas Tricard, Linzheng Wang, Jason Chen et al. — Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimators and which…",
         "source": "arXiv",
-        "date": "2026-11-03T18:59:52Z"
+        "date": "2026-11-04T18:57:47Z"
       },
       {
-        "title": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
-        "url": "https://arxiv.org/abs/2611.05373v1",
-        "summary": "Austin Tsai, Saurav Nanda, Ganapathy Parthasarathy et al. — Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates on-policy…",
+        "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+        "url": "https://arxiv.org/abs/2611.06911v1",
+        "summary": "Fei Lin, Tengchao Zhang, Ziyang Gong et al. — Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act under physical,…",
         "source": "arXiv",
-        "date": "2026-11-03T18:59:15Z"
+        "date": "2026-11-04T18:57:17Z"
       },
       {
-        "title": "PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2611.05372v1",
-        "summary": "Yuhan Liu, Xinqi Liu, Zixuan Dong et al. — Inverse kinematics (IK) converts end-effector pose commands into joint motion, and many vision-language-action (VLA) policies rely on it to act on a given arm and to transfer across embodiments.",
+        "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+        "url": "https://arxiv.org/abs/2611.06910v1",
+        "summary": "Bingran You, Wenjun Ke, Ria Rosenauer et al. — AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely…",
         "source": "arXiv",
-        "date": "2026-11-03T18:59:14Z"
+        "date": "2026-11-04T18:56:22Z"
       },
       {
-        "title": "GUILD: Guided Iterative Data Collection for Imitation Learning",
-        "url": "https://arxiv.org/abs/2611.05368v1",
-        "summary": "Shivin Dass, Kevin Nguyen, Rohan Yelandur et al. — Imitation learning policies in robotics are trained on datasets collected through costly real-world teleoperation. Often, the data-collection process is unguided, relying on the teleoperator's intuition, resulting in…",
+        "title": "Perceptive Humanoid Motion from Simulation",
+        "url": "https://arxiv.org/abs/2611.06908v1",
+        "summary": "Siyuan Hu, Abulikemu Abuduweili, Yue Meng et al. — Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-form language to…",
         "source": "arXiv",
-        "date": "2026-11-03T18:57:35Z"
+        "date": "2026-11-04T18:55:33Z"
       },
       {
-        "title": "Suppressing Misaligned Behaviors in Language Models, Durably",
-        "url": "https://arxiv.org/abs/2611.05358v1",
-        "summary": "Luxi He, Pengcheng Jiang, Jifan Zhang et al. — Undesired model behaviors can emerge or re-emerge at any stage of training. To study this question, we first construct two model organisms--language models…",
+        "title": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
+        "url": "https://arxiv.org/abs/2611.06905v1",
+        "summary": "Michal Korniak, Marco Bagatella, Ralf Römer et al. — The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-shot generalization…",
         "source": "arXiv",
-        "date": "2026-11-03T18:54:08Z"
+        "date": "2026-11-04T18:52:28Z"
       },
       {
-        "title": "Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits",
-        "url": "https://arxiv.org/abs/2611.05355v1",
-        "summary": "Teerawat Tongloy, Jiraporn Pongsopa, Rangsan Jomtarak — When a language model answers, we can usually only estimate why. We build a transformer in which every step is a Born measurement - attention $|\\langle q|k\\rangle|^4$ normalised over each row, a measured product in…",
+        "title": "Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues",
+        "url": "https://arxiv.org/abs/2611.06899v1",
+        "summary": "Chibueze Praise Onyenweaku, Toyibat Adele, Sikirulahi Opeyemi Abdulkareem et al. — Knowing that a pedestrian is occluded is useful to a robot even when the detector cannot recover the hidden pixels, but occlusion estimators are normally trained on occlusion annotations that deployment settings rarely…",
         "source": "arXiv",
-        "date": "2026-11-03T18:52:44Z"
+        "date": "2026-11-04T18:49:13Z"
       },
       {
-        "title": "Agnostic Learning by Imitating",
-        "url": "https://arxiv.org/abs/2611.05346v1",
-        "summary": "Sílvia Casacuberta, Parikshit Gopalan, Varun Kanade et al. — Given a class of machine learning models and sample access to a data distribution with binary labels, which computational task is harder: training a discriminative model that distinguishes positive and negative labels…",
+        "title": "Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure",
+        "url": "https://arxiv.org/abs/2611.06888v1",
+        "summary": "Siyi Yu — Automation is often justified as relief from dull, dirty, and dangerous work. I examine how these conditions relate to occupational AI exposure using 21 O*NET items across 754 US occupations.",
         "source": "arXiv",
-        "date": "2026-11-03T18:45:38Z"
+        "date": "2026-11-04T18:41:40Z"
       },
       {
-        "title": "Adversarial Speculative Reasoning Improves Long Horizon Agents",
-        "url": "https://arxiv.org/abs/2611.05345v1",
-        "summary": "Hongyin Luo, Wei Fang, Lijie Yang et al. — Speculative decoding has been treated purely as a systems optimization that speeds up large language model decoding without changing the model behavior. Under this view, the growing effort to train better draft models…",
+        "title": "Adaptive Multi Mode: Budget-Aware Routing of Optimizers By Online Landscape Probes",
+        "url": "https://arxiv.org/abs/2611.06879v1",
+        "summary": "Benjamin Jacob Bodner — The best classical optimizer for a continuous black-box problem depends on its budget and landscape. Existing routers decide from the dimension and budget, past improvement or features fitted to one benchmark, and few…",
         "source": "arXiv",
-        "date": "2026-11-03T18:45:23Z"
+        "date": "2026-11-04T18:35:35Z"
       },
       {
-        "title": "A Circuit for In-Context Learning",
-        "url": "https://arxiv.org/abs/2611.05344v1",
-        "summary": "Andrew Gao, William Gao — In-context learning (ICL) lets a pretrained language model perform a task specified by demonstrations in its prompt, with no parameter updates. With arbitrary labels the model must acquire a mapping it cannot have…",
+        "title": "SpecCompact: Accelerating LLM Agent Context Compaction with Slot-Parallel Semantic Speculative Verification",
+        "url": "https://arxiv.org/abs/2611.06876v1",
+        "summary": "Yulu An, Yifei Feng, Xiangyang Yin — LLM agents use context compaction to manage growing interaction histories, but summarizing long histories with large models can introduce substantial delays. Compaction therefore requires balancing information retention…",
         "source": "arXiv",
-        "date": "2026-11-03T18:44:34Z"
+        "date": "2026-11-04T18:34:41Z"
       },
       {
-        "title": "Weight-space programming for auditing clinical decision networks",
-        "url": "https://arxiv.org/abs/2611.05341v1",
-        "summary": "Humza Nusrat, Omar Nusrat — Machine learning models in radiotherapy are commissioned by testing them on cases with known answers, which may not reveal a shortcut that the test cases share with the training data. Frontier language models have…",
+        "title": "Learning to Decode Linear Codes with Generalized Belief Propagation Network",
+        "url": "https://arxiv.org/abs/2611.06874v1",
+        "summary": "Samira Malek — Error correcting codes are a fundamental component of communication systems, enabling reliable data transmission over noisy channels. Recently, neural decoders have demonstrated notable performance gains over classical…",
         "source": "arXiv",
-        "date": "2026-11-03T18:41:15Z"
+        "date": "2026-11-04T18:29:31Z"
       },
       {
-        "title": "MedPhysBench: A Benchmark for Evaluating Language Models on Medical Physics Calculations and Error Detection",
-        "url": "https://arxiv.org/abs/2611.05340v1",
-        "summary": "Omar Nusrat — Medical physicists turn a prescription into a delivered dose and check one another's calculations, because one error in a beam calibration or a monitor-unit (MU) calculation can affect every patient treated with it.…",
+        "title": "On Turn-Level Best-of-N Sampling for Scaling LLM Agents",
+        "url": "https://arxiv.org/abs/2611.06868v1",
+        "summary": "Jalaj Bhandari, Dhawal Gupta, Hongli Zhan et al. — In this work, we evaluate a simple inference-time scaling approach based on \\textit{turn-level best-of-N sampling} (\\method) for large language model (LLM) agents on complex, long-horizon tasks.",
         "source": "arXiv",
-        "date": "2026-11-03T18:40:35Z"
+        "date": "2026-11-04T18:23:14Z"
       }
     ],
     "labs": [
+      {
+        "title": "Setting a new standard for responsible AI infrastructure",
+        "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+        "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+        "source": "OpenAI",
+        "date": "2026-11-05T02:00:00+00:00"
+      },
+      {
+        "title": "Agile Deliberation: How AI helps humans define the gray areas",
+        "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+        "summary": "Agile Deliberation splits the complex task of defining a subjective concept into two structured stages: concept scoping and concept iteration . The Agile Deliberation workflow. Agile Deliberation upends this premise, focusing instead on collaborative refinement.",
+        "source": "Google Research",
+        "date": "2026-11-04T18:07:05+00:00"
+      },
       {
         "title": "OpenAI to acquire Pierre Computer Company, Inc.",
         "url": "https://openai.com/index/openai-to-acquire-pierre",
         "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
         "source": "OpenAI",
         "date": "2026-11-04T14:30:00+00:00"
+      },
+      {
+        "title": "A thousand fewer paths to root",
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+        "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+        "source": "OpenAI",
+        "date": "2026-11-04T08:00:00+00:00"
       },
       {
         "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
@@ -103,9 +124,23 @@
         "date": "2026-11-04T07:00:00+00:00"
       },
       {
+        "title": "Introducing Images 2.6",
+        "url": "https://openai.com/index/introducing-images-2-6",
+        "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+        "source": "OpenAI",
+        "date": "2026-11-04T00:00:00+00:00"
+      },
+      {
+        "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+        "url": "https://openai.com/index/devrev-enterprise-self-service",
+        "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+        "source": "OpenAI",
+        "date": "2026-11-04T00:00:00+00:00"
+      },
+      {
         "title": "Agentic cheminformatics with Google Antigravity",
         "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-        "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+        "summary": "Drug molecules can be complex, often linking multiple substructures through rotatable bonds. With the Cheminformatics skills in Antigravity, the agent is able to extract molecules from these documents, associate them with the data reported, and prepare the compounds for downstream analysis. The cheminformatics skills are available on Google Antigravity today.",
         "source": "Google DeepMind",
         "date": "2026-11-03T17:01:49+00:00"
       },
@@ -136,213 +171,178 @@
         "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
         "source": "OpenAI",
         "date": "2026-11-03T00:00:00+00:00"
-      },
-      {
-        "title": "Rewarding defenders with bigger bug bounties",
-        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-        "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-        "source": "OpenAI",
-        "date": "2026-11-02T18:00:00+00:00"
-      },
-      {
-        "title": "Preparing our next security sprint to harden OpenAI",
-        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-        "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-        "source": "OpenAI",
-        "date": "2026-11-02T18:00:00+00:00"
-      },
-      {
-        "title": "Scaling Git at OpenAI",
-        "url": "https://openai.com/index/scaling-git-at-openai",
-        "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-        "source": "OpenAI",
-        "date": "2026-11-02T15:30:00+00:00"
-      },
-      {
-        "title": "Introducing the Grid Protectors Program",
-        "url": "https://openai.com/index/grid-protectors-program",
-        "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-        "source": "OpenAI",
-        "date": "2026-11-02T15:00:00+00:00"
-      },
-      {
-        "title": "LifeVal",
-        "url": "https://openai.com/index/lifeval",
-        "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-        "source": "OpenAI",
-        "date": "2026-11-02T09:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
-        "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
-        "summary": "Founder Summit begins Nov. The company now serves 30 million users, up from 18 million last year. First is content discovery.",
+        "title": "Instagram brings Edits to desktop to take on CapCut",
+        "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+        "summary": "Founder Summit begins Nov. Instagram announced on Thursday that it’s bringing Edits, its short-form video editing app, to desktop on Mac. Instagram notes that the desktop app includes licensed and royalty-free music, sound and video effects, and automatic captions in multiple languages.",
         "source": "TechCrunch",
-        "date": "2026-11-04T15:00:00+00:00"
+        "date": "2026-11-05T15:00:00+00:00"
       },
       {
-        "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
-        "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
-        "summary": "Founder Summit begins Nov. Available across Europe, the UK, Singapore, Australia, New Zealand, and the U.S., Revolut Business processes more than £36 billion (about $48.6 billion) in transactions each month, including over £1 billion (around $1.35 billion) in the U.S. alone. The division generates more than £950 million (about $1.28 billion) in annualized revenue and holds more than £18 billion (roughly $24.3…",
+        "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+        "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+        "summary": "Founder Summit begins Nov. Audio AI company ElevenLabs on Thursday said users will be able to publish AI-generated music created using its ElevenMusic platform directly on SoundCloud. The company also has integrations with other platforms like Google Flow Music and the music remix platform, Hook.",
         "source": "TechCrunch",
-        "date": "2026-11-04T14:10:10+00:00"
+        "date": "2026-11-05T15:00:00+00:00"
       },
       {
-        "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-        "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Register now to access expert-led sessions, founder roundtables, networking opportunities, and practical growth strategies from the startup ecosystem’s most experienced builders and investors.",
+        "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+        "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+        "summary": "Founder Summit begins Nov. Hardware startup Aina released a smart ring today that features a screen, a joystick, and a mic so that you can talk to your agents and take notes. Once the early-bird period ends, the ring will cost $499.",
         "source": "TechCrunch",
-        "date": "2026-11-04T13:00:00+00:00"
+        "date": "2026-11-05T14:42:00+00:00"
       },
       {
-        "title": "Canva lays off over 1,200 people amid slowing growth",
-        "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Design software maker Canva is cutting 22% of its staff, amounting to 1,271 people, amid a growth slowdown.",
+        "title": "RadianX promises solar-powered devices that never need charging",
+        "url": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
+        "summary": "Founder Summit begins Nov. “It’s power density,” Vivian Qu, co-founder and CEO of RadianX, told TechCrunch. To wring more power out of the panels, RadianX is also developing power electronics tailored to perovskites.",
         "source": "TechCrunch",
-        "date": "2026-11-04T11:59:00+00:00"
+        "date": "2026-11-05T14:00:00+00:00"
       },
       {
-        "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
-        "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
-        "summary": "All microdrama platforms compete against platforms like YouTube, Instagram, and TikTok, where creators are posting content for free. Pandey thinks that producing quality content on the platform will entice users to choose StoryTV over other free platforms. Monetization is a challenge in India, as users often stick around for free content, but few convert to paid users.",
+        "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+        "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Called Box Content Retrieval, the new feature allows agents to answer queries far more effectively by relying on the embedded metadata created by Nemotron.",
         "source": "TechCrunch",
-        "date": "2026-11-04T04:45:00+00:00"
+        "date": "2026-11-05T14:00:00+00:00"
       },
       {
-        "title": "Anthropic is working on a system to prove AI models’ identity",
-        "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-        "summary": "Founder Summit begins Nov. Anthropic is working on an open source system to verify which AI model produced a given output, according to a blog post published Tuesday. The system, called FlashProve , is built to provide what researchers call “provable inference” — a cryptographic proof, essentially a mathematical guarantee, that a given output came from a specific model.",
+        "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+        "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+        "summary": "Founder Summit begins Nov. Discovered Materials, a months-old, San Francisco startup using AI models to find new substances for building advanced chips, announced a million-dollar challenge for AI models to solve five critical problems in materials science. How do we know AI is making progress?” Though materials science doesn’t have an equivalent of the Millennium Prize Problems, Discovered Materials recruited an…",
         "source": "TechCrunch",
-        "date": "2026-11-03T22:41:03+00:00"
+        "date": "2026-11-05T13:00:00+00:00"
       },
       {
-        "title": "Data centers are turning to old jet engines as the wait for power grows",
-        "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-        "summary": "Founder Summit begins Nov. Stuck in years-long lines for grid connections and new turbines, some AI data centers are making their own electricity with converted jet engines, the New York Times reported Tuesday. Elon Musk’s xAI is among the companies already using the engines, having installed eight converted jet-engine turbines in Mississippi to help power its Colossus 2 data center in Memphis, the Times reported,…",
+        "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+        "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+        "summary": "Founder Summit begins Nov. “You don’t see a lot of dancing robots or backflipping robots from Agility,” CEO Peggy Johnson told TechCrunch ahead of the company’s market debut. The good news is that Agility has $300 million in planned contracts from 30 customers for its new generation of robot, Digit 5.",
         "source": "TechCrunch",
-        "date": "2026-11-03T22:19:53+00:00"
+        "date": "2026-11-05T12:00:00+00:00"
       },
       {
-        "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-        "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-        "summary": "Founder Summit begins Nov. In 2022, Ballistic announced its $300 million debut fund and raised another $360 million for its second flagship fund two years later. It also raised about $130 million for a separate vehicle called Ballistic Ventures Fund A, per PitchBook data.",
+        "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
+        "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
+        "summary": "Under the new partnership announced Thursday, Amazon Prime members will be able to order food from Uber Eats directly through Amazon.com and the Amazon Shopping app. Amazon first struck a deal with the company in 2022 , offering Prime members a free Grubhub+ subscription. Amazon and Grubhub’s commercial partnership continued, however, until now.",
         "source": "TechCrunch",
-        "date": "2026-11-03T21:43:08+00:00"
+        "date": "2026-11-05T11:00:00+00:00"
       },
       {
-        "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-        "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-        "summary": "Founder Summit begins Nov. Revenue grew 96% from a year earlier, and 20% from the previous quarter, to $2.31 billion, beating analysts’ expectations of $2.18 billion. It was the first time Palantir has topped $2 billion in a quarter.",
+        "title": "Apple is reportedly cutting budgets for its internal AI usage",
+        "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Apple is cutting the daily amount its engineering teams can spend on AI, Bloomberg reported Wednesday.",
         "source": "TechCrunch",
-        "date": "2026-11-03T21:05:55+00:00"
+        "date": "2026-11-05T01:26:22+00:00"
       },
       {
-        "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
-        "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. The company’s small satellite, Replicator 2, was launched on a SpaceX rideshare mission this summer, with four of the company’s 3D printers onboard.",
+        "title": "After the midterms, a bigger clash over data centers could be coming",
+        "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+        "summary": "Data centers became a ballot-box issue in various states. Almost 60%, meanwhile, said data centers were a crucial or major factor in their vote. The environment is also a major concern, especially at xAI’s data center in Memphis and at the data centers throughout Virginia, known as the world capital of data centers, where gas turbines are used for power.",
         "source": "TechCrunch",
-        "date": "2026-11-03T20:57:17+00:00"
+        "date": "2026-11-05T01:02:14+00:00"
       },
       {
-        "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
-        "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
-        "summary": "Founder Summit begins Nov. In its latest statement, Binance said that North Korean hackers, posing as recruiters hiring for a job, contacted a software engineer who works on wallets at the company. Binance said its security tools did not detect the malware.",
+        "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+        "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+        "summary": "LTF’s Democratic spending arm, Think Big, had better luck backing Florida Rep. Meanwhile, Guardrails Alliance , a group that has sought to make taking money from AI companies a political liability, spent more than $1 million apiece opposing two candidates who lost: California Rep. Charlie Blaettler, political director of Guardrails Alliance, had a different theory for why LTF spent comparatively little in the…",
         "source": "TechCrunch",
-        "date": "2026-11-03T19:45:48+00:00"
+        "date": "2026-11-04T22:45:09+00:00"
       },
       {
-        "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-        "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. The deal values Fal at $16 billion, double its $8 billion valuation in April, Bloomberg reported .",
+        "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+        "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. On Wednesday, CEO Carl Pei posted on X that the company’s first “AI-native product” ships in December.",
         "source": "TechCrunch",
-        "date": "2026-11-03T19:34:43+00:00"
+        "date": "2026-11-04T22:13:16+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "The fight for tech accountability starts now",
-        "url": "https://www.theverge.com/policy/1026289/midterms-2026-results-ai-data-center-big-tech-accountability",
-        "summary": "Trump is still in office, but the era of gangster tech regulation needs to end. Trump is still in office, but the era of gangster tech regulation needs to end. But the tech industry is an easy target, too.",
+        "title": "The hidden supply chain costs of the AI boom",
+        "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+        "summary": "The Powerful Economics Behind Global Supply Chains . We have this circumvention going. Do you think the walls are going to keep going up, or do you think they’re going to come back down?",
         "source": "The Verge",
-        "date": "2026-11-04T15:02:25+00:00"
+        "date": "2026-11-05T15:00:00+00:00"
       },
       {
-        "title": "Sam Altman addresses RAM comments: people should &#8216;put as much as they want in their computers&#8217;",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-        "summary": "The OpenAI CEO rebranded to ‘Ram Altman’ on X, saying, ‘i want you to have so much ram.’﻿ The OpenAI CEO rebranded to ‘Ram Altman’ on X, saying, ‘i want you to have so much ram.’﻿ OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to “Ram Altman” in response to another user’s comment, saying , “i actually do want the world to have tons of memory and people…",
+        "title": "WhatsApp will let you invite friends to events who aren’t on the app",
+        "url": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
+        "summary": "You can also manage your WhatsApp RSVPs through a new Events Home. You can also manage your WhatsApp RSVPs through a new Events Home. WhatsApp will let you manage your events through a new Events Home, where you can create and send invites, as well as manage RSVPs.",
         "source": "The Verge",
-        "date": "2026-11-04T14:46:01+00:00"
+        "date": "2026-11-05T15:00:00+00:00"
       },
       {
-        "title": "SpaceX is working with Qualcomm to build its Starlink Mobile 5G network",
-        "url": "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk",
-        "summary": "Qualcomm’s ‘biggest 5G deal yet’ is with SpaceX. Qualcomm’s ‘biggest 5G deal yet’ is with SpaceX. SpaceX is teaming up with Qualcomm to build out its nationwide mobile network.",
+        "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+        "summary": "SoundCloud is partnering with another generative AI music service, ElevenLabs. SoundCloud is partnering with another generative AI music service, ElevenLabs. After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs.",
         "source": "The Verge",
-        "date": "2026-11-04T14:38:20+00:00"
+        "date": "2026-11-05T15:00:00+00:00"
       },
       {
-        "title": "Does opting out of TV tracking work?",
-        "url": "https://www.theverge.com/tech/1026088/northeastern-university-acr-tracking-study",
-        "summary": "Researchers at Northeastern University monitored 12 TVs from 10 manufacturers to test whether opting out of automatic content recognition (ACR) actually works . The researchers wanted to understand when ACR was running on each TV, whether opting out did anything, and what type of data ACR systems were capturing. Ideally, opting out of ACR activity should stop all data transmission to suspected ACR endpoints, and for…",
+        "title": "You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
+        "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+        "summary": "Instagram’s desktop editor has a full multi-track timeline, keyboard shortcuts, and support for connecting AI agents.﻿ Instagram’s desktop editor has a full multi-track timeline, keyboard shortcuts, and support for connecting AI agents.﻿ Instagram’s standalone video editing app is now available on macOS , where you can plug in your AI agent of choice to assemble your videos. Instagram’s Matthew Simari, head of…",
         "source": "The Verge",
-        "date": "2026-11-04T14:00:00+00:00"
+        "date": "2026-11-05T15:00:00+00:00"
       },
       {
-        "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-        "summary": "Meanwhile, growth in paid clicks — clicks on ads that generate revenue for Google — slowed from 13 percent to 8 percent. For now, advertisers are still getting results from Google. An October working paper found that US visits from ChatGPT ads generated 64 percent less revenue for retailers per session than visits from Google Search ads: $0.89 versus $2.45.",
+        "title": "Tech is about to get hammered in Congress",
+        "url": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
+        "summary": "Democrats have promised to drag CEOs to testify under oath and investigate corporate influence. Democrats have promised to drag CEOs to testify under oath and investigate corporate influence. Democrats’ recent messaging has promised a Big Tech and AI crackdown.",
         "source": "The Verge",
-        "date": "2026-11-04T12:00:00+00:00"
+        "date": "2026-11-05T14:11:27+00:00"
       },
       {
-        "title": "AI is forcing us to pay off 40 years of technical debt",
-        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-        "summary": "The bug underlying the PHP2Shell vulnerability was reported to the PHP Foundation as far back as 2024. It clearly cannot,” Jana says. “And PHP2Shell wasn’t bad enough to be really bad. (371 points, 269 comments on Hacker News)",
+        "title": "The X-70 is NASA’s next experimental X-plane",
+        "url": "https://www.theverge.com/tech/1027426/nasa-experimental-x-70-fractal-aircraft",
+        "summary": "The X-70 Fractal is expected to take flight within the next two years. The X-70 Fractal is expected to take flight within the next two years. It will be a crewed aircraft with a cruising speed of Mach .75 that can reach altitudes of up to 45,000 feet and will provide an “operational range exceeding about 1,726 miles.” The X-70 will be able to carry up to 2,000 pounds of experimental equipment either inside or…",
+        "source": "The Verge",
+        "date": "2026-11-05T14:10:12+00:00"
+      },
+      {
+        "title": "The touchscreen MacBook Pro is a winner",
+        "url": "https://www.theverge.com/tech/1026570/apple-macbook-pro-proled-xdr-display-review",
+        "summary": "The MacBook Pro with PROLED XDR Display is a lighter, thinner, and all-around better laptop. I keep forgetting the MacBook Pro with PROLED XDR Display has a touchscreen. Now the MacBook Pro has one.",
+        "source": "The Verge",
+        "date": "2026-11-05T14:00:00+00:00"
+      },
+      {
+        "title": "The new iMac is a good desktop computer that needs a redesign",
+        "url": "https://www.theverge.com/tech/1027177/2026-imac-m6-review",
+        "summary": "It’s the perfect desktop computer for people who don’t like to think about computers. I don’t want to dig too much into benchmarks since I just don’t think people buying an iMac overlap in a Venn diagram with people running benchmarks on computers. It turns out I still love the iMac even though Apple hasn’t changed the design or added new features that would make it even more compelling.",
+        "source": "The Verge",
+        "date": "2026-11-05T14:00:00+00:00"
+      },
+      {
+        "title": "The M6 MacBook Pro is probably the last of its kind",
+        "url": "https://www.theverge.com/tech/1027250/m6-macbook-pro-review",
+        "summary": "On November 6th, Apple will release an all-new MacBook Pro. The M6 MacBook Pro is still a great all-around computer, and a nice step up from the MacBook Air. Mark Gurman reports that next year’s entry M7 MacBook Pro will use the redesigned hardware of the MacBook Pro with PROLED XDR Display.",
+        "source": "The Verge",
+        "date": "2026-11-05T14:00:00+00:00"
+      },
+      {
+        "title": "Spotify is coming to United Airlines seatbacks — with help from Starlink",
+        "url": "https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi",
+        "summary": "Powered by Starlink Wi-Fi, United Airlines is rolling out a custom seatback Spotify app that lets travelers stream personal playlists and podcasts at 35,000 feet. Powered by Starlink Wi-Fi, United Airlines is rolling out a custom seatback Spotify app that lets travelers stream personal playlists and podcasts at 35,000 feet. “Starlink being a differentiator for United is a moment in time,” Milstead acknowledged.",
+        "source": "The Verge",
+        "date": "2026-11-05T13:00:00+00:00"
+      },
+      {
+        "title": "Sshole",
+        "url": "https://sshhole.com",
+        "summary": "back in old unix your password hash just sat in /etc/passwd , right next to your username. in a file everyone could read. in 1980 bill joy put a * there for an account called daemon . nobody's supposed to ever log in as it. a * isn't a hash, so no password can match it. unix still does this today the next field is the real name. he wrote \"the devil himself\" ok so these days the hash lives in /etc/shadow and looks… (818 points, 229 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-04T11:52:17+00:00"
+        "date": "2026-11-05T12:19:02+00:00"
       },
       {
-        "title": "The Legend of Zelda: Ocarina of Time never gets old",
-        "url": "https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2",
-        "summary": "The franchise has evolved since 1998, but the first 3D Zelda stands up incredibly well in its Switch 2 remake. The Ocarina remake fixes this in a few ways. The Legend of Zelda: Ocarina of Time launches on the Switch 2 on November 5th.",
-        "source": "The Verge",
-        "date": "2026-11-04T11:00:00+00:00"
-      },
-      {
-        "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-        "url": "https://news.ycombinator.com/item?id=50363461",
-        "summary": "https://support.google.com/gemini/answer/16836988 “[Gemini app activity] is used to improve Google services for everyone, including by training generative AI models, if your Keep Activity setting is on.“ https://support.google.com/gemini/answer/13594961?hl=en#human_review “A subset of chats are reviewed by human reviewers” https://support.google.com/gemini/answer/13594961?hl=en#pn_retain_data “Chats reviewed by… (308 points, 84 comments on Hacker News)",
+        "title": "Lemmings CSS Animation",
+        "url": "https://markblah.github.io/lemmings/",
+        "summary": "Add walkers with the button below or __walker.add() . Resize the window and walkers ride the surface they're standing on, so a fast resize launches them. Each line of text is its own floor. (302 points, 60 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-04T10:10:27+00:00"
-      },
-      {
-        "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-        "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-        "summary": "WSL, which runs a Linux environment inside Windows, hit 65.1 tokens per second, nearly identical. Unplugged, Linux hit around 61 to 67 tokens per second on LM Studio, comparable to Windows. On battery power, Linux GPU clocks and token throughput come much closer to Windows levels. (315 points, 164 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-11-04T08:46:29+00:00"
-      },
-      {
-        "title": "Jelly Sheet",
-        "url": "https://mrdoob.github.io/codevember-2026/01/",
-        "summary": "343 points, 90 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-11-04T03:40:50+00:00"
-      },
-      {
-        "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
-        "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-        "summary": "The company’s data center business is driving that growth, with $8.5 billion in data center quarterly revenue for Q3 2026. Over the last couple years, jumps in the company’s revenue have been closely mirroring its data center business — in Q3 2026 its overall revenue went up $1.9 billion, while its data center revenue went up $1.8 billion. As AMD keeps smashing its data center revenue records, its gaming business…",
-        "source": "The Verge",
-        "date": "2026-11-04T01:15:34+00:00"
-      },
-      {
-        "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
-        "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
-        "summary": "The Legend of Zelda: Ocarina of Time remake is scheduled to release on November 5th. The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 launches next Thursday, November 5th. Nintendo announced a remake of The Legend of Zelda: Ocarina of Time during its Nintendo Direct presentation on Tuesday.",
-        "source": "The Verge",
-        "date": "2026-11-04T01:02:53+00:00"
+        "date": "2026-11-05T04:54:10+00:00"
       }
     ]
   }
