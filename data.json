@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:49:00.348356+00:00",
+  "generated_at": "2026-11-07T13:45:52.079714+00:00",
   "sections": {
     "research": [
       {
@@ -89,6 +89,20 @@
     ],
     "labs": [
       {
+        "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "url": "https://openai.com/index/partnering-with-hacktron",
+        "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+        "source": "OpenAI",
+        "date": "2026-11-06T08:00:00+00:00"
+      },
+      {
+        "title": "Measuring how AI agents handle everyday wet-lab science",
+        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+        "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+        "source": "OpenAI",
+        "date": "2026-11-06T00:00:00+00:00"
+      },
+      {
         "title": "Cult.fit builds operational muscle with Codex",
         "url": "https://openai.com/index/cultfit-builds-with-codex",
         "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
@@ -157,192 +171,178 @@
         "summary": "Agile Deliberation splits the complex task of defining a subjective concept into two structured stages: concept scoping and concept iteration . The Agile Deliberation workflow. Agile Deliberation upends this premise, focusing instead on collaborative refinement.",
         "source": "Google Research",
         "date": "2026-11-04T18:07:05+00:00"
-      },
-      {
-        "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-        "url": "https://openai.com/index/openai-to-acquire-pierre",
-        "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-        "source": "OpenAI",
-        "date": "2026-11-04T14:30:00+00:00"
-      },
-      {
-        "title": "A thousand fewer paths to root",
-        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-        "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-        "source": "OpenAI",
-        "date": "2026-11-04T08:00:00+00:00"
       }
     ],
     "startups": [
+      {
+        "title": "Sequoia shutting down its Scouts program marks the end of an era",
+        "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+        "summary": "Founder Summit begins Nov. Some scouts will undoubtedly mourn the end of Sequoia’s program. “While Sequoia may be cutting the program, venture partner-style deals are likely to continue,” said Varza in her email to TechCrunch.",
+        "source": "TechCrunch",
+        "date": "2026-11-07T05:01:54+00:00"
+      },
+      {
+        "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+        "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Clearly, voters want stronger guardrails around the technology.",
+        "source": "TechCrunch",
+        "date": "2026-11-07T04:16:43+00:00"
+      },
+      {
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+        "summary": "Founder Summit begins Nov. Crusoe, an eight-year-old, Denver-based data center developer recently valued at $30.9 billion , confirmed Friday it has sold an unfinished data center project in southeastern Wyoming to Google. Crusoe is developing another data center for Google near Amarillo, Texas.",
+        "source": "TechCrunch",
+        "date": "2026-11-07T01:40:28+00:00"
+      },
+      {
+        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. In late September, Bloomberg reported that OpenAI was looking to raise $30 billion in the upcoming round.",
+        "source": "TechCrunch",
+        "date": "2026-11-06T22:53:46+00:00"
+      },
+      {
+        "title": "The Duo apps are coming, says Apple",
+        "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+        "summary": "The early iPhone Duo reviews were a bit hard on Apple’s new foldable for the lack of Duo-optimized apps available at the time of launch. These join the iPhone Duo-optimized apps that were already available, like Netflix, YouTube, Instagram, and WhatsApp. Here, the developers could use the Duo and work on their apps with Apple’s support.",
+        "source": "TechCrunch",
+        "date": "2026-11-06T21:38:05+00:00"
+      },
+      {
+        "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+        "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+        "summary": "Founder Summit begins Nov. The hacking software, called Artex, is an open source autonomous penetration testing tool, meaning software that automatically probes computer systems for weaknesses, and it’s been linked to several cyberattacks since its public release in July. Security companies have linked the use of Artex to several broad-scale cyberattacks, including against the Korean finance industry in September .",
+        "source": "TechCrunch",
+        "date": "2026-11-06T18:44:38+00:00"
+      },
+      {
+        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+        "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+        "summary": "Founder Summit begins Nov. Meta recently launched its Muse agents — a new generation of cuddly agentic helpers. Spaces is actually the second new Muse feature that Meta has debuted over the last week.",
+        "source": "TechCrunch",
+        "date": "2026-11-06T18:44:20+00:00"
+      },
+      {
+        "title": "After the midterms, is the AI industry in for a rough two years?",
+        "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+        "summary": "You can contact or verify outreach from Theresa by emailing [email protected] . You can contact or verify outreach from Theresa by emailing [email protected] . You can contact or verify outreach from Theresa by emailing [email protected] .",
+        "source": "TechCrunch",
+        "date": "2026-11-06T17:23:52+00:00"
+      },
+      {
+        "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+        "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. The company says the process can work on a number of different battery types, including lithium iron phosphate (LFP).",
+        "source": "TechCrunch",
+        "date": "2026-11-06T16:50:01+00:00"
+      },
+      {
+        "title": "Fox completes its $22B acquisition of Roku",
+        "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Announced Friday, the deal brings the streaming company founded in 2002 formally under Fox’s ownership.",
+        "source": "TechCrunch",
+        "date": "2026-11-06T16:05:36+00:00"
+      },
+      {
+        "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+        "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+        "summary": "According to Ramp’s data, token spend only grew 1.5% across August and September. “Almost the entire spend on AI is from venture-backed, high-growth tech companies,” Ramp’s lead economist Ara Kharazian told TechCrunch. Median firms spend $12-$15 per employee per month, and the top 10% spend $600-$1,000.",
+        "source": "TechCrunch",
+        "date": "2026-11-06T15:54:47+00:00"
+      },
       {
         "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
         "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
         "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Ivan covers global consumer tech developments at TechCrunch.",
         "source": "TechCrunch",
         "date": "2026-11-06T14:10:00+00:00"
-      },
-      {
-        "title": "Underdog shows off a 32MB speech model in new demo",
-        "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Ivan covers global consumer tech developments at TechCrunch.",
-        "source": "TechCrunch",
-        "date": "2026-11-06T13:02:16+00:00"
-      },
-      {
-        "title": "Physicl raises $10M to make the digital world real enough for robots",
-        "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-        "summary": "Founder Summit begins Nov. It lets users create scenes to generate synthetic data for training robots on specific problems. However, Physicl wants to be more than a data provider; it sees itself as the tooling for ongoing synthetic data generation.",
-        "source": "TechCrunch",
-        "date": "2026-11-06T13:00:00+00:00"
-      },
-      {
-        "title": "Tesla will stop making the Cybertruck in 2027",
-        "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-        "summary": "Founder Summit begins Nov. When Musk handed over the first few Cybertrucks in late 2023, he predicted Tesla would sell around 250,000 per year. First announced in 2019, the Cybertruck was a product that Musk had long obsessed over.",
-        "source": "TechCrunch",
-        "date": "2026-11-06T11:50:10+00:00"
-      },
-      {
-        "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
-        "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
-        "summary": "More than 100,000 Flock cameras are in use nationwide. The conversation around Flock echoes, in many ways, the fight over data centers. In October, the town voted to remove its Flock cameras.",
-        "source": "TechCrunch",
-        "date": "2026-11-06T07:18:44+00:00"
-      },
-      {
-        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-        "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-        "summary": "Founder Summit begins Nov. The transaction valued Console at $500 million in stock and cash, TechCrunch reported. Meanwhile, Cisco bought Menlo Ventures-backed Astrix for roughly $400 million , Calcalist reported.",
-        "source": "TechCrunch",
-        "date": "2026-11-06T06:28:32+00:00"
-      },
-      {
-        "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
-        "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
-        "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Founder Summit begins Nov. Letterboxd reported 3 million users in January 2021, a figure that grew to 28 million by April of this year.",
-        "source": "TechCrunch",
-        "date": "2026-11-06T00:07:18+00:00"
-      },
-      {
-        "title": "Meta, Google, and TikTok sue California AG over teen social media law",
-        "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
-        "summary": "Founder Summit begins Nov. Meta, Google, and TikTok have each filed lawsuits against California Attorney General Rob Bonta in an attempt to block a law that restricts social media features it deems addictive for users under 16. In December 2025, Australia became the first country to ban social media for users under 16 altogether.",
-        "source": "TechCrunch",
-        "date": "2026-11-06T00:01:38+00:00"
-      },
-      {
-        "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-        "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-        "summary": "Founder Summit begins Nov. “Travel is aspirational. The agent will also be able to help travelers beyond the booking itself.",
-        "source": "TechCrunch",
-        "date": "2026-11-05T22:40:55+00:00"
-      },
-      {
-        "title": "Serve Robotics launches new business to become the AWS for robots",
-        "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-        "summary": "Founder Summit begins Nov. Serve Robotics , a maker of self-driving sidewalk delivery robots, is expanding beyond its autonomous delivery operations in a bid to become a technology supplier to other companies building robots. Specifically, Serve Robotics will offer customers its connectivity and data tools.",
-        "source": "TechCrunch",
-        "date": "2026-11-05T21:15:00+00:00"
-      },
-      {
-        "title": "Meta says US users can now video chat with their Muse AI avatar",
-        "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-        "summary": "Founder Summit begins Nov. Muse Voice, a feature that lets users call and video chat with Meta’s consumer AI agent, Muse, is now available to everyone in the U.S., the company announced on Thursday. First introduced at Meta’s Connect developer conference in September, the video-chatting feature involves new AI models, Muse Realtime Avatar and Muse Realtime Voice technology, which help power the digital avatar that…",
-        "source": "TechCrunch",
-        "date": "2026-11-05T19:48:28+00:00"
-      },
-      {
-        "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-        "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-        "summary": "Founder Summit begins Nov. “I think it’s going to be harder,” Powell McCormick said, describing what the future of building data centers looks like. “It has been hard, I should say, but I also think that it’s becoming clear what models work, and the states want those models that work.” Specifically, communities only want data centers when it benefits them in some way, she explained, laying out the approach that Meta…",
-        "source": "TechCrunch",
-        "date": "2026-11-05T19:12:39+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Stranger Things is getting a live-action spinoff called Other Worlds",
-        "url": "https://www.theverge.com/entertainment/1028608/other-worlds-a-stranger-things-adventure-netflix-announce-trailer",
-        "summary": "The streamer just announced a live-action spinoff of Stranger Things which is expected to debut in 2028. It’s called Other Worlds: A Stranger Things Adventure . According to Netflix, Other Worlds is “a prequel set in the 1950s, before Stranger Things and before the stage play Stranger Things: The First Shadow.",
+        "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+        "summary": "AI is dramatically speeding up Anthropic’s research, even as the company calls for slowing down AI development. AI is dramatically speeding up Anthropic’s research, even as the company calls for slowing down AI development. Anthropic had the power to redact information from METR’s final report — and it used that power extensively.",
         "source": "The Verge",
-        "date": "2026-11-06T14:25:48+00:00"
+        "date": "2026-11-07T12:30:00+00:00"
       },
       {
-        "title": "TikTok&#8217;s For You page needs to change, says the EU",
-        "url": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
-        "summary": "The EU Commission says TikTok’s ‘rabbit hole’ effect can pose harm to users.﻿ The EU Commission says TikTok’s ‘rabbit hole’ effect can pose harm to users.﻿ The European Commission claims TikTok broke its online platform rules by offering a recommendation algorithm that creates a “rabbit hole effect” on users. In an announcement on Friday, the regulators allege TikTok’s algorithm can harm users with “endless and…",
-        "source": "The Verge",
-        "date": "2026-11-06T14:00:49+00:00"
-      },
-      {
-        "title": "Amazon will let you text Alexa your shopping list",
-        "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-        "summary": "The Alexa for Shopping AI assistant can now order groceries and recommend products over text messages.﻿ The Alexa for Shopping AI assistant can now order groceries and recommend products over text messages.﻿ Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they’re looking to buy and/or provide a…",
-        "source": "The Verge",
-        "date": "2026-11-06T14:00:00+00:00"
-      },
-      {
-        "title": "How Remedy designed Control Resonant’s wildest mission: ‘Anything kind of goes’",
-        "url": "https://www.theverge.com/games/1028159/control-resonant-recursions-and-iterations-mission-design-time-travel",
-        "summary": "Time-travel stories are ‘illogical’ by nature. Dylan’s first encounter with the researchers is somehow not the researchers’ first time meeting Dylan. There’s this time-travel mission in Titanfall 2 .",
-        "source": "The Verge",
-        "date": "2026-11-06T13:00:00+00:00"
-      },
-      {
-        "title": "I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares",
-        "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
-        "summary": "The iPhone Duo feels great. Compared with the Galaxy Z Fold 8 or Xiaomi 18 Fold, the Duo just feels better . The Duo’s crease is easy to ignore.",
-        "source": "The Verge",
-        "date": "2026-11-06T12:30:00+00:00"
-      },
-      {
-        "title": "After printing 40,000 whistles, this is the 3D printer I’d buy",
-        "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
-        "summary": "One year later, the Bambu P2S Combo is the only 3D printer I can easily recommend. Automated filament systems can fix that. But like other Bambu rivals, Elegoo doesn’t automatically load its filament from mostly airtight containers.",
-        "source": "The Verge",
-        "date": "2026-11-06T12:00:00+00:00"
-      },
-      {
-        "title": "The Enough Phone is made by and for people fed up with big screens",
-        "url": "https://www.theverge.com/tech/1028160/enough-small-phone-kickstarter-sleke",
-        "summary": "It’s a little phone with a big challenge ahead of it. It’s a little phone with a big challenge ahead of it. Brennan Jordan and Austin Boer are two-thirds of the trio behind the Enough Phone , a small phone that will run your choice of stock Android or the minimalist OdysseyOS.",
-        "source": "The Verge",
-        "date": "2026-11-06T12:00:00+00:00"
-      },
-      {
-        "title": "Protesters break into Microsoft data center site in Amsterdam",
-        "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-        "summary": "Europe is witnessing a wave of protests against data centers. Europe is witnessing a wave of protests against data centers. The protests over Microsoft’s data center site in Amsterdam comes in the same week that activists staged a mock Israeli military checkpoint outside a Microsoft data center in Dublin on Tuesday, part of a wave of data center protests across Europe .",
-        "source": "The Verge",
-        "date": "2026-11-06T11:55:19+00:00"
-      },
-      {
-        "title": "Tesla is ‘winding down’ production of the Cybertruck next year",
-        "url": "https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027",
-        "summary": "Cybertruck production at the Texas Gigafactory is being axed to make way for more Cybercabs.﻿ Cybertruck production at the Texas Gigafactory is being axed to make way for more Cybercabs.﻿ Tesla is getting the Cybertruck ready for retirement in an effort to ramp up its robotaxi output. In an X post on Friday , Tesla CEO Elon Musk said that the company will be “winding down” Cybertruck production at its Texas…",
-        "source": "The Verge",
-        "date": "2026-11-06T10:42:52+00:00"
-      },
-      {
-        "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-        "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-        "summary": "Conclusie ASN Bank werkt met Nederlandse en Europese partijen aan de verdere ontwikkeling en beschikbaarheid van iDEAL | Wero. Uw klacht U geeft aan dat betalen met iDEAL | Wero niet meer lukt op uw **** omdat de ASN-app bij de activatie van iDeal | Wero Google Play Integrity controleert. Conclusie ASN Bank werkt met Nederlandse en Europese partijen aan de verdere ontwikkeling en beschikbaarheid van iDEAL | Wero. (391 points, 232 comments on Hacker News)",
+        "title": "Every Mac comes with an (undocumented) family member classifier",
+        "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+        "summary": "The family scores live apart. The live graph forgets. The landing page: the graph of people around you. (228 points, 107 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-06T09:27:12+00:00"
+        "date": "2026-11-07T09:46:03+00:00"
       },
       {
-        "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-        "url": "https://github.com/ppmpreetham/BUI",
-        "summary": "C++ links bui::imgui , C links bui_cimgui . More: Blender's widgets . Use BUI_GPU=1 / BUI_GPU=0 to pick the renderer. (417 points, 176 comments on Hacker News)",
+        "title": "Asahi Linux Progress Linux 7.3",
+        "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+        "summary": "As always, upstreaming work continues to progress. Since Intel supplies every other extant Thunderbolt controller on the market, the Linux kernel’s Thunderbolt subsystem is effectively designed around them. When Asahi Linux was first started, it was with the intent that we develop a Free Software ecosystem for the Apple Silicon platform. (213 points, 178 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-06T07:40:35+00:00"
+        "date": "2026-11-07T05:20:18+00:00"
       },
       {
-        "title": "Britain to make salary disclosure in job ads mandatory",
-        "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
-        "summary": "388 points, 322 comments on Hacker News",
+        "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+        "summary": "CEO Sam Altman said recently that OpenAI is prioritizing safety instead of going ‘guns blazing’ toward an IPO.﻿ CEO Sam Altman said recently that OpenAI is prioritizing safety instead of going ‘guns blazing’ toward an IPO.﻿ OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg . OpenAI’s rival Anthropic filed its S-1 to go public last week.…",
+        "source": "The Verge",
+        "date": "2026-11-06T23:46:18+00:00"
+      },
+      {
+        "title": "Libghostty 1.0",
+        "url": "https://mitchellh.com/writing/libghostty-1-0",
+        "summary": "libghostty-vt 1.0 is here. libghostty is a portable, high-performance C library for terminal emulation, extracted directly from the core of Ghostty. A year later, the terminal in JetBrains IDEs now runs on libghostty . Every IntelliJ, PyCharm, GoLand, etc. user now has a libghostty-powered terminal. (775 points, 123 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-06T07:22:04+00:00"
+        "date": "2026-11-06T23:30:52+00:00"
+      },
+      {
+        "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+        "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+        "summary": "China’s intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times . Last week, the NYT reported that Jensen Huang was seen as the target of a “Chinese spy plot” and shared details about Alice Huang and Jensen Huang’s relationship, but the information that China’s MSS had recruited her is new. Yesterday, three House committees asked Jensen Huang…",
+        "source": "The Verge",
+        "date": "2026-11-06T23:00:44+00:00"
+      },
+      {
+        "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
+        "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+        "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. SpaceX is also reportedly in talks to buy Boost Mobile , potentially allowing it to launch Starlink Mobile through the service. SpaceX is teaming up with Qualcomm to build out its nationwide mobile network.",
+        "source": "The Verge",
+        "date": "2026-11-06T22:45:43+00:00"
+      },
+      {
+        "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+        "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
+        "summary": "The 4K Criterion Collection set is available to grab for $25. The 4K Criterion Collection set is available to grab for $25. See our ethics statement.",
+        "source": "The Verge",
+        "date": "2026-11-06T21:50:32+00:00"
+      },
+      {
+        "title": "AI is dramatically accelerating AI research",
+        "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+        "summary": "Combined with growth in compute, this compensated for diminishing returns enough to maintain the baseline rate of capabilities progress. But to maintain a new faster rate of capabilities progress without scaling compute faster, we would need a new faster rate of growth in overall labor. This means you square the acceleration in compute multipliers to back out the acceleration in labor. (333 points, 303 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-06T20:27:23+00:00"
+      },
+      {
+        "title": "All the latest updates on AI data centers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+        "summary": "Data centers were a major bipartisan issue ahead of the 2026 midterms , and voters largely opposed data center expansion at the polls. People hate data centers . “AI data centers are destroying our climate.",
+        "source": "The Verge",
+        "date": "2026-11-06T20:02:22+00:00"
+      },
+      {
+        "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+        "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+        "summary": "We tested whether fast, cheap decision models like Jev and GPT-6 Luna could grade identity resolution as well as frontier LLMs, and found that pairing Jev with Claude Opus gets close to Opus-level accuracy for much less. We wanted to test whether LLMs and decision models, specifically Jev and Luna, could solve a hard problem that we encounter regularly (grading identity resolution results). Of particular interest… (513 points, 122 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-06T19:48:51+00:00"
+      },
+      {
+        "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
+        "url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
+        "summary": "This Verge-favorite microphone for podcasting is discounted, along with other audio products. This Verge-favorite microphone for podcasting is discounted, along with other audio products. Shure’s MV7 Plus is an updated version of its popular USB microphone.",
+        "source": "The Verge",
+        "date": "2026-11-06T19:47:02+00:00"
       }
     ]
   }
