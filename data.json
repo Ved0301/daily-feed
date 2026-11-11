@@ -1,93 +1,114 @@
 {
-  "generated_at": "2026-11-10T15:26:18.067785+00:00",
+  "generated_at": "2026-11-11T14:56:48.221772+00:00",
   "sections": {
     "research": [
       {
-        "title": "Guiding Data Allocation for Robust Subpopulation Generalization",
-        "url": "https://arxiv.org/abs/2611.12884v1",
-        "summary": "Zhaoying Pan, Yipei Wang, Shenyu Lu et al. — Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup…",
+        "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+        "url": "https://arxiv.org/abs/2611.14519v1",
+        "summary": "Emre Kutlusan, Yongmin Li — Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however,…",
         "source": "arXiv",
-        "date": "2026-11-09T18:59:40Z"
+        "date": "2026-11-10T18:59:54Z"
       },
       {
-        "title": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics",
-        "url": "https://arxiv.org/abs/2611.12880v1",
-        "summary": "Majdi Hassan, Marta Skreta, Dominique Beaini et al. — Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration steps are inexpensive,…",
+        "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+        "url": "https://arxiv.org/abs/2611.14518v1",
+        "summary": "Sheethal Bhat, Bogdan Georgescu, Awais Mansoor et al. — DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets.",
         "source": "arXiv",
-        "date": "2026-11-09T18:59:13Z"
+        "date": "2026-11-10T18:59:17Z"
       },
       {
-        "title": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels",
-        "url": "https://arxiv.org/abs/2611.12878v1",
-        "summary": "Sreejeet Maity, Aritra Mitra — Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel. In our setup, an agent interacting with an…",
+        "title": "TorchCurves: Differentiable Parametric Curves",
+        "url": "https://arxiv.org/abs/2611.14516v1",
+        "summary": "Alex Shtoff — We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre…",
         "source": "arXiv",
-        "date": "2026-11-09T18:58:41Z"
+        "date": "2026-11-10T18:58:52Z"
       },
       {
-        "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
-        "url": "https://arxiv.org/abs/2611.12872v1",
-        "summary": "Haozhen Zhang, Bohan Liu, Jianzhu Bao et al. — As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on…",
+        "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+        "url": "https://arxiv.org/abs/2611.14515v1",
+        "summary": "Zijian Zhang, Rizhen Hu, Jiangweizhi Peng et al. — Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds,…",
         "source": "arXiv",
-        "date": "2026-11-09T18:57:00Z"
+        "date": "2026-11-10T18:58:46Z"
       },
       {
-        "title": "Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection",
-        "url": "https://arxiv.org/abs/2611.12871v1",
-        "summary": "Amey Pasarkar, Adji Bousso Dieng — Anomaly detection (AD) is a critical for trustworthy machine learning and scientific discovery. Existing methods typically define anomalies through local density, isolation heuristics, or distance from a fitted…",
+        "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+        "url": "https://arxiv.org/abs/2611.14514v1",
+        "summary": "Ziang Liu, James J. Kim, Yijia Dai et al. — LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$.",
         "source": "arXiv",
-        "date": "2026-11-09T18:56:15Z"
+        "date": "2026-11-10T18:58:43Z"
       },
       {
-        "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
-        "url": "https://arxiv.org/abs/2611.12869v1",
-        "summary": "Julia Herbst, Simon Roschmann, Quentin Bouniot et al. — The Platonic Representation Hypothesis (PRH) suggests that neural networks are converging toward similar representation spaces. As language models become more capable, their representations are aligning with those of…",
+        "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+        "url": "https://arxiv.org/abs/2611.14511v1",
+        "summary": "Megha Srivastava, Michael H. Lim, Allison M. Keys et al. — Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging.",
         "source": "arXiv",
-        "date": "2026-11-09T18:53:57Z"
+        "date": "2026-11-10T18:56:32Z"
       },
       {
-        "title": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
-        "url": "https://arxiv.org/abs/2611.12865v1",
-        "summary": "Xinjie Shen — Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including reward hacking, through…",
+        "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
+        "url": "https://arxiv.org/abs/2611.14508v1",
+        "summary": "Yeyuan Liu — Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wiring with how the…",
         "source": "arXiv",
-        "date": "2026-11-09T18:52:20Z"
+        "date": "2026-11-10T18:55:48Z"
       },
       {
-        "title": "Is Persona Generalization Predictable?",
-        "url": "https://arxiv.org/abs/2611.12864v1",
-        "summary": "Olina Mukherjee, Arnav Goel, Aditi Raghunathan et al. — Persona generalization occurs when fine-tuning a language model in one domain induces behavioral changes in others -- for example, the broadly unsafe behavior observed in emergent misalignment. We discover a surprising…",
+        "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
+        "url": "https://arxiv.org/abs/2611.14505v1",
+        "summary": "Daniel Lenton — Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on a single applied…",
         "source": "arXiv",
-        "date": "2026-11-09T18:51:03Z"
+        "date": "2026-11-10T18:55:01Z"
       },
       {
-        "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
-        "url": "https://arxiv.org/abs/2611.12856v1",
-        "summary": "Zheng Jiang, Fang Niu, Bo Peng et al. — Large language model agents are increasingly deployed as multi-agent systems rather than as a standalone model operating within a single context. Recent agent harnesses allow the model to instantiate worker agents and…",
+        "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
+        "url": "https://arxiv.org/abs/2611.14504v1",
+        "summary": "Adi Mashiach — Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation model for…",
         "source": "arXiv",
-        "date": "2026-11-09T18:45:28Z"
+        "date": "2026-11-10T18:53:01Z"
       },
       {
-        "title": "What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching",
-        "url": "https://arxiv.org/abs/2611.12852v1",
-        "summary": "Tianze Luo, Haofeng Huang, Yuan Yao — Latent Diffusion Models dominate generative modeling but face two-stage training complexity and the inherent reconstruction limits of pre-trained autoencoders. Pixel-space Flow Matching offers a simplified end-to-end…",
+        "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+        "url": "https://arxiv.org/abs/2611.14493v1",
+        "summary": "Howard Zhang, Chuck Arvin, Logan Brown et al. — Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three…",
         "source": "arXiv",
-        "date": "2026-11-09T18:44:37Z"
+        "date": "2026-11-10T18:50:06Z"
       },
       {
-        "title": "Mitigating Agentic Deception via Evaluation-Side Partially Observable Games",
-        "url": "https://arxiv.org/abs/2611.12835v1",
-        "summary": "Hanxiao Li, Shutong Liu, Yongjia Ma et al. — As large language models become more capable agents, they can exhibit deceptive behaviors, cheating human for higher rewards while appearing helpful. We attribute this failure to evaluation-side partial observability,…",
+        "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
+        "url": "https://arxiv.org/abs/2611.14492v1",
+        "summary": "Kaiyuan Hou, Yang Ping Kuo, Indranil Bhattacharya et al. — Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose…",
         "source": "arXiv",
-        "date": "2026-11-09T18:33:13Z"
+        "date": "2026-11-10T18:49:47Z"
       },
       {
-        "title": "Programming Prescience: Issues in Human Construction of Forecasting Bots",
-        "url": "https://arxiv.org/abs/2611.12834v1",
-        "summary": "Priya Dhawka, Benjamin Wilson, Andrew Head — AI models' growing capacity for complex reasoning has made them attractive tools for forecasting, or the systematic prediction of the future based on past and present data. However, should AI forecasting systems be…",
+        "title": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics",
+        "url": "https://arxiv.org/abs/2611.14491v1",
+        "summary": "Peng Chen, Yihang Wang, Zhongwen Rao et al. — Time series analytics has been widely applied across various domains. While existing time series foundation models (TSFMs) have demonstrated promising results, they still face two major challenges: 1) Most TSFMs mainly…",
         "source": "arXiv",
-        "date": "2026-11-09T18:33:13Z"
+        "date": "2026-11-10T18:49:26Z"
       }
     ],
     "labs": [
+      {
+        "title": "Gilbert + Tobin rethinks the business of law with AI",
+        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+        "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+        "source": "OpenAI",
+        "date": "2026-11-12T00:00:00+00:00"
+      },
+      {
+        "title": "ChatGPT Plus for veterans and servicemembers",
+        "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+        "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+        "source": "OpenAI",
+        "date": "2026-11-11T08:00:00+00:00"
+      },
+      {
+        "title": "Gemini 4 Carbon is now available",
+        "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+        "summary": "Following our recent launch of Gemini 4 Argon , Carbon pushes the frontier even further. Using a multi-agent loop in Google Antigravity, Carbon reconstructed a playable c. Applies to the Carbon model intended for public access only.",
+        "source": "Google DeepMind",
+        "date": "2026-11-10T16:03:47+00:00"
+      },
       {
         "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
         "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
@@ -103,6 +124,13 @@
         "date": "2026-11-10T12:00:00+00:00"
       },
       {
+        "title": "Introducing Businesses in ChatGPT",
+        "url": "https://openai.com/index/introducing-businesses-chatgpt",
+        "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+        "source": "OpenAI",
+        "date": "2026-11-10T10:00:00+00:00"
+      },
+      {
         "title": "Closing the AI guidance gap in education",
         "url": "https://openai.com/index/closing-ai-guidance-gap-education",
         "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
@@ -110,11 +138,25 @@
         "date": "2026-11-10T09:00:00+00:00"
       },
       {
+        "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+        "url": "https://openai.com/index/singapore-airlines-travel-work",
+        "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+        "source": "OpenAI",
+        "date": "2026-11-10T08:00:00+00:00"
+      },
+      {
         "title": "Work at the Frontier: AI’s effect on freelance work",
         "url": "https://openai.com/index/ai-effect-on-freelance-work",
         "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
         "source": "OpenAI",
         "date": "2026-11-10T07:00:00+00:00"
+      },
+      {
+        "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+        "url": "https://openai.com/index/cogent-security",
+        "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+        "source": "OpenAI",
+        "date": "2026-11-10T00:00:00+00:00"
       },
       {
         "title": "Exploring the world's languages with Language Explorer",
@@ -126,223 +168,181 @@
       {
         "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
         "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-        "summary": "Gemini Robotics 2.5 marks a leap forward in three key areas: Gemini Robotics 2.5 is rolling out to our robotics partners . Gemini 4 Argon’s robotics research capabilities helped solve these bottlenecks by acting as a simulation engine, which greatly accelerated our development of Gemini Robotics 2.5. Gemini 4 Argon’s robotics research capabilities helped solve these bottlenecks by acting as a simulation engine,…",
+        "summary": "Gemini Robotics 2.5 marks a leap forward in three key areas: Gemini Robotics 2.5 is rolling out to our robotics partners . Apollo 2 using Gemini Robotics 2.5 to autonomously perform automotive kitting at a Mercedes-Benz factory. Gemini Robotics 2.5 uses inference-time reasoning guidance to steer around physical hazards in real-time.",
         "source": "Google DeepMind",
         "date": "2026-11-09T19:51:47+00:00"
-      },
-      {
-        "title": "ChatGPT Enterprise now available in AWS Marketplace",
-        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-        "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-        "source": "OpenAI",
-        "date": "2026-11-09T19:00:00+00:00"
-      },
-      {
-        "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-        "url": "https://openai.com/index/control-room",
-        "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-        "source": "OpenAI",
-        "date": "2026-11-09T13:00:00+00:00"
-      },
-      {
-        "title": "CodeRabbit scales agentic software development and ships 20x more",
-        "url": "https://openai.com/index/coderabbit-codex-daybreak",
-        "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-        "source": "OpenAI",
-        "date": "2026-11-09T08:00:00+00:00"
-      },
-      {
-        "title": "Kuken Industries searches 70 years of drawings in minutes",
-        "url": "https://openai.com/index/kuken",
-        "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-        "source": "OpenAI",
-        "date": "2026-11-09T08:00:00+00:00"
-      },
-      {
-        "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-        "url": "https://openai.com/index/partnering-with-hacktron",
-        "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-        "source": "OpenAI",
-        "date": "2026-11-06T08:00:00+00:00"
-      },
-      {
-        "title": "Measuring how AI agents handle everyday wet-lab science",
-        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-        "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-        "source": "OpenAI",
-        "date": "2026-11-06T00:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Reddit is turning user conversations into AI-powered product reviews",
-        "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
-        "summary": "The company on Tuesday introduced “Reddit Reviews,” a feature that organizes conversations about products into dedicated reviews that include the highlights and key takeaways from users across its communities. The Reddit Reviews feature itself taps into AI to organize the conversations people are having where they describe their product experiences. The company has been testing the product reviews feature since…",
+        "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+        "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+        "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments. However, Kadar says the company’s real promise is using the data it gathers to post-train small, open-weight models tailored to individual customer needs. Tests performed in cooperation with Nvidia and Nebius showed the company’s models outperforming mid-tier frontier models at lower costs.",
         "source": "TechCrunch",
-        "date": "2026-11-10T15:00:00+00:00"
+        "date": "2026-11-11T14:00:00+00:00"
       },
       {
-        "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
-        "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
-        "summary": "I think of WhatsApp like a shared language, spoken by 3bn+ people. People send over 10 billion voice messages and over 4 billion stickers on WhatsApp every day. Your personal messages and calls stay end-to-end encrypted.",
+        "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+        "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+        "summary": "CEO Jensen Huang has reportedly been trying to conduct business as usual after admitting to an extramarital affair with Alice Huang, whom U.S. intelligence agencies believe was spying for China. It’s unclear when Huang learned Alice Huang was a suspected spy. Huang reportedly owns about 3.6%, so he doesn’t control the vote.",
         "source": "TechCrunch",
-        "date": "2026-11-10T15:00:00+00:00"
+        "date": "2026-11-11T07:30:51+00:00"
       },
       {
-        "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-        "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-        "summary": "The company is also expanding AI capabilities in its creative tool, Firefly, and releasing a Model Context Protocol (MCP) that lets other chatbots like ChatGPT, Claude, or Gemini use Adobe features. At the MAX event, Adobe is continuing the trend. Now, Adobe is releasing a local MCP to expose more features of its Creative Cloud apps to users.",
+        "title": "X launches its own clipping feature to spur influencer engagement",
+        "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+        "summary": "The latest effort to attract social media talent? Its own clipping tool. The platform added that both creators and clippers can “earn from views on the clip through Original Content Rewards,” X’s rewards program .",
         "source": "TechCrunch",
-        "date": "2026-11-10T14:05:10+00:00"
+        "date": "2026-11-11T01:02:13+00:00"
       },
       {
-        "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-        "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-        "summary": "The sale is expected to raise anywhere from $57.75 billion to $64.35 billion. Google and Nvidia are investing $10 billion apiece. The company’s third-quarter revenue came in at $17 billion, and nine-month revenue was $33.2 billion.",
+        "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+        "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+        "summary": "OpenAI has acquired an AI travel agent called Odessia, according to Odessia’s founder, Francis Davidson. Davidson’s announcement focused largely on how he built his AI travel agent Odessia by directing teams of AI agents. Davidson is well known in the travel industry after he founded a travel startup called Sonder as a college student in 2014.",
         "source": "TechCrunch",
-        "date": "2026-11-10T14:01:39+00:00"
+        "date": "2026-11-10T21:08:52+00:00"
       },
       {
-        "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
-        "url": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
-        "summary": "Aura’s cordless Ink photo frames have the versatility of a digital photo frame, but their e-ink displays don’t even look digital, blending seamlessly into the rest of your framed photos. A follow-up to its 13-inch, $499 Ink frame , Aura is unveiling a new product that’s a little less pricey: a 10-inch Ink frame that is now on sale for $349. For the new 10″ Ink frame, Aura worked with E Ink on expanding its Spectra 6…",
+        "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+        "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+        "summary": "The RAISE Act , New York’s safety and transparency bill, kicks in at the start of the year. It mandates that large frontier developers — companies with more than $500 million in annual revenue — have to publish safety frameworks on their websites, report critical safety incidents within 72 hours, and issue public model transparency reports. The RAISE Act isn’t the only safety law New York has passed.",
         "source": "TechCrunch",
-        "date": "2026-11-10T14:00:00+00:00"
+        "date": "2026-11-10T20:52:13+00:00"
       },
       {
-        "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-        "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-        "summary": "McMaster’s company, Kora Systems , on Tuesday unveiled a Linux-based desktop operating system that integrates AI models and autonomous agents directly into the computing experience, allowing them to work across applications, access files, and retain context between tasks. Previously known as Playtron , a gaming operating-system company led by McMaster, the Palo Alto-based company rebranded as Kora in July 2025 as it…",
+        "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+        "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+        "summary": "But that didn’t stop Sahir Raoof, a former SignalFire investor and executive at two healthcare startups, from raising $27.5 million for his first solo VC fund. Proximal plans to invest in pre-seed and seed-stage startups, writing checks from $500,000 to $1.5 million. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-11-10T14:00:00+00:00"
+        "date": "2026-11-10T20:47:05+00:00"
       },
       {
-        "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-        "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-        "summary": "With the update, Spotify Premium subscribers will be able to choose from an expanded set of AI DJ voices in both English and Spanish. The voices include seven English options with British, American, Irish, Australian, and Indian accents, and two new Spanish options. Spotify says the new voices begin rolling out today, November 10, to Premium users in the markets where DJ is already supported.",
+        "title": "X-energy gets green light to build its first small modular nuclear reactors",
+        "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+        "summary": "Nuclear startup X-energy announced Monday that it had been given the go-ahead from federal officials to build its first four commercial reactors. The Nuclear Regulatory Commission (NRC) approved the construction permit application for four of X-energy’s Xe-100 reactors at a Dow chemical plant in Texas. The U.S. nuclear industry has pinned its hopes on small modular reactors — or SMRs — like those being developed by…",
         "source": "TechCrunch",
-        "date": "2026-11-10T14:00:00+00:00"
+        "date": "2026-11-10T20:43:55+00:00"
       },
       {
-        "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-        "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
-        "summary": "Ring, the Amazon-owned home security company, is launching its own robotics division, with an eye toward automating security at both the home and the office. In 2021, Amazon launched its own home security robot, known as Astro. Ring cameras generally record their videos to the cloud.",
+        "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+        "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+        "summary": "Each will sell 3,378,378 shares. Board member Reed Hastings has indicated he wants to buy $300 million worth of shares through his donor-advised fund. Board member Christopher Liddell also wants to buy $3 million worth of shares.",
         "source": "TechCrunch",
-        "date": "2026-11-10T13:30:00+00:00"
+        "date": "2026-11-10T19:57:52+00:00"
       },
       {
-        "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
-        "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-        "summary": "The risks aren’t limited to platforms that invite open community contributions. The wealth of information open platforms host also make them targets. Other parts of the open source ecosystem are dealing with similar security-related tradeoffs.",
+        "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+        "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+        "summary": "Oura announced on Tuesday that it’s acquiring AI-native primary care company Counsel Health for $625 million. By acquiring Counsel Health, Oura is looking to expand its business and help users access medical care. For its fiscal year 2026, Oura generated revenue of approximately $1.75 billion, marking 92% year-over-year growth.",
         "source": "TechCrunch",
-        "date": "2026-11-10T13:00:00+00:00"
+        "date": "2026-11-10T19:23:34+00:00"
       },
       {
-        "title": "Otter AI can now follow conversations across 30+ languages",
-        "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-        "summary": "The company is also adding support for 27 languages, its largest language expansion to date. Once the rollout is complete, Otter will support 31 languages in total, making the platform more accessible to international teams. The newly added languages run on Otter’s own speech models.",
+        "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+        "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+        "summary": "David Turturean, a recent MIT graduate and a member of the technical staff at the startup lab Physical Superintelligence (PSI) , used early access to Anthropic’s Fable 5.2 model to solve an 18-year-old problem about quantum computing. “I’m totally accepting the idea that this might be the last paper I ever put out,” Turturean, who deferred plans to pursue a master’s at MIT’s prestigious computer science and AI lab…",
         "source": "TechCrunch",
-        "date": "2026-11-10T07:00:00+00:00"
+        "date": "2026-11-10T19:03:52+00:00"
       },
       {
-        "title": "California’s proposed ‘billionaire tax’ fails to pass",
-        "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
-        "summary": "California voters have rejected Proposition 40, the state’s proposed one-time tax on billionaires, the Associated Press reported Monday . But opponents argued that it would scare California’s wealthiest residents out of the state and ultimately disincentivize growth. Jesse Tinsely, a California entrepreneur who has spent his life working in startups, agreed.",
+        "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+        "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+        "summary": "Eligible companies will also be able to create and launch a specialized business agent, which gives ChatGPT users the ability to ask questions about the business and its products. “Today’s announcement is an early step in bringing businesses more deeply into ChatGPT.” In a move that calls to mind Google Analytics , the Business Hub will also give users access to limited business insights. These insights will reveal…",
         "source": "TechCrunch",
-        "date": "2026-11-10T05:18:43+00:00"
+        "date": "2026-11-10T18:49:52+00:00"
       },
       {
-        "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
-        "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
-        "summary": "Huang has long been seen as a wife guy (or so everyone assumed). Not enough people talking about how betrayed Jensen Huang must feel right now. He must be heartbroken The real crisis: every SF founder now thinks he's worth spying on Jensen Huang on Monday morning pic.twitter.com/y60dfyrVos Me and Jensen Huang’s ex wife after she gets half his money in the divorce. pic.twitter.com/xWAOhzXYVk https://t.co/2ZR6cRodLZ…",
+        "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+        "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+        "summary": "Instead of a small, round device, like Apple’s, the Pixel Tag is slimmer and more elongated. Spec-by-spec, the Pixel Tag is 1.1-inches wide, compared to the AirTag’s 1.26 inches. Google didn’t originally say that the Pixel Tag included NFC when it announced the device in August.",
         "source": "TechCrunch",
-        "date": "2026-11-10T04:34:15+00:00"
+        "date": "2026-11-10T18:49:19+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Reddit wants to guide your next purchase",
-        "url": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
-        "summary": "With a new product reviews hub, Reddit is creating something akin to a crowdsourced Wirecutter. With a new product reviews hub, Reddit is creating something akin to a crowdsourced Wirecutter. The company is launching Reddit Reviews , a built-in product reviews hub for consumer goods that are frequently discussed on the platform.",
+        "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
+        "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
+        "summary": "A comfortable, minimalist option that supports concurrent low-latency audio and Bluetooth. A comfortable, minimalist option that supports concurrent low-latency audio and Bluetooth. Functionally, the Pulse stands out as a semi-affordable wireless headset that can stream audio from PlayStation Link (Sony’s low-latency, lossless wireless connection) and Bluetooth simultaneously.",
         "source": "The Verge",
-        "date": "2026-11-10T15:00:00+00:00"
+        "date": "2026-11-11T14:00:00+00:00"
       },
       {
-        "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
-        "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
-        "summary": "Rockstar Games is making Grand Theft Auto VI available on Xbox Cloud Gaming when it launches next week. Rockstar notes that Xbox Cloud Gaming will use the Xbox Series S graphics settings to stream to Xbox consoles. Rockstar Games also confirms Grand Theft Auto VI will run at 30fps across PS5, PS5 Pro, Xbox Series S / X consoles.",
+        "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+        "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+        "summary": "Project Sound Bender is an AI audio mixing feature that lets you customize sound effects as if you’re clicking your cursor around a color wheel. It works by uploading a video clip and then describing your desired audio in a text prompt, such as “bubbling sci-fi cauldron noises.” Sound Bender then generates sound effects and automatically syncs it to the video, and provides a square sound canvas that lets you adjust…",
         "source": "The Verge",
-        "date": "2026-11-10T14:37:09+00:00"
+        "date": "2026-11-11T14:00:00+00:00"
       },
       {
-        "title": "Anthropic targets $1.4 trillion IPO",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-        "summary": "Anthropic’s public offering is expected to make it one of the world’s most valuable publicly traded companies as soon as next week. Anthropic’s public offering is expected to make it one of the world’s most valuable publicly traded companies as soon as next week. As of last week, Anthropic’s rival OpenAI was valued at $1.25 trillion .",
+        "title": "Streaming is still trying to be TikTok",
+        "url": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
+        "summary": "It hasn’t proven that short-form video will help. It hasn’t proven that short-form video will help. Disney has shown that people will use a clips feed inside a streaming app.",
         "source": "The Verge",
-        "date": "2026-11-10T14:06:54+00:00"
+        "date": "2026-11-11T13:30:00+00:00"
       },
       {
-        "title": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
-        "url": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
-        "summary": "The new 10-inch version of the Aura Ink can display three new colors that help skin tones look more natural.﻿ The new 10-inch version of the Aura Ink can display three new colors that help skin tones look more natural.﻿ If you buy something from a link, The Verge may earn a commission. The new Aura Ink frame features a 10-inch E Ink panel that can display more colors at a higher pixel density. The Aura Ink instead…",
+        "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+        "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+        "summary": "Apple did not provide an answer to this question. Apple did not provide an answer to this question. Apple did not provide an answer to this question.",
         "source": "The Verge",
-        "date": "2026-11-10T14:00:00+00:00"
+        "date": "2026-11-11T13:00:00+00:00"
       },
       {
-        "title": "Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too",
-        "url": "https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review",
-        "summary": "Both, though, come in cheaper than the Pro. Both the Pro and Lite share the same carbon fiber handle, also easily replaceable. The Lite Carry-On lacks the Pro’s trick external pockets for laptops, passports, and the like.",
+        "title": "Not everyone is loving their new iPhone Duo",
+        "url": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
+        "summary": "But two weeks with a new phone? After spending some time with the phone, he discovered that having a phone that’s also your iPad wasn’t always ideal. For Hayes, the Duo led him to downsize.",
         "source": "The Verge",
-        "date": "2026-11-10T14:00:00+00:00"
+        "date": "2026-11-11T13:00:00+00:00"
       },
       {
-        "title": "Adobe is going all in on agentic AI",
-        "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-        "summary": "Third-party AI agents can use Creative Cloud apps for you, and Firefly’s AI Assistant can run your social media accounts. Third-party AI agents can use Creative Cloud apps for you, and Firefly’s AI Assistant can run your social media accounts. The Firefly AI Assistant beta , which is powered by Adobe’s creative agent , is also getting some upgrades.",
+        "title": "Serve Robotics wants to democratize sidewalk delivery robots",
+        "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+        "summary": "With its new developer platform, the sidewalk robot company lets small businesses, indie developers, and AI agents summon its 2,000-robot fleet without paying delivery app markups. With its new developer platform, the sidewalk robot company lets small businesses, indie developers, and AI agents summon its 2,000-robot fleet without paying delivery app markups. Kashani remains adamant that Serve won’t morph into a…",
         "source": "The Verge",
-        "date": "2026-11-10T14:00:00+00:00"
+        "date": "2026-11-11T12:30:00+00:00"
       },
       {
-        "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-        "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
-        "summary": "Here are the new editing and design tools coming to Creative Cloud apps and Adobe’s Firefly suite.﻿ Here are the new editing and design tools coming to Creative Cloud apps and Adobe’s Firefly suite.﻿ Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe’s Max event today…",
+        "title": "Apple is killing its Support Community forum next week",
+        "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+        "summary": "The Apple Support Community platform is now read-only, and will permanently close on November 20th.﻿ The Apple Support Community platform is now read-only, and will permanently close on November 20th.﻿ It’s the end of the road for the Apple Support Community. You can continue to find trusted guidance and support on the official Apple Support site. In a statement to MacRumors , Apple said it decided to sunset the…",
         "source": "The Verge",
-        "date": "2026-11-10T14:00:00+00:00"
+        "date": "2026-11-11T12:19:10+00:00"
       },
       {
-        "title": "Amazon turned its Alexa robot into a Ring security patrol bot",
-        "url": "https://www.theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business",
-        "summary": "The Ring Rover Cam is targeted at businesses that want to increase security without installing permanent cameras. The Ring Rover Cam is targeted at businesses that want to increase security without installing permanent cameras. For multiple levels, multiple robots would be needed, or the Rover Cam can be paired with Amazon’s new flying Ring Drone Cam.",
-        "source": "The Verge",
-        "date": "2026-11-10T13:30:00+00:00"
-      },
-      {
-        "title": "Hands-on with Ring’s new AI drone camera for your home",
-        "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
-        "summary": "The Drone Cam is the spiritual successor to the Always Home Cam. The Drone Cam is the spiritual successor to the Always Home Cam. Ring is finally shipping a flying indoor drone camera.",
-        "source": "The Verge",
-        "date": "2026-11-10T13:30:00+00:00"
-      },
-      {
-        "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
-        "url": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology",
-        "summary": "You can choose between an 8TB or 20TB hard drive, but the Forge requires you to provide your own SSD.﻿ You can choose between an 8TB or 20TB hard drive, but the Forge requires you to provide your own SSD.﻿ Seagate announced a new external storage solution, called the FireCuda Forge, that combines the speed benefits of an SSD with the affordability of a higher-capacity hard drive. Combining a hard drive with flash…",
-        "source": "The Verge",
-        "date": "2026-11-10T11:01:00+00:00"
-      },
-      {
-        "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-        "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-        "summary": "Sonnet 4.6 fit the goldilocks choice of balancing intelligence with cost. We had Sonnet 4.6 labeling tickets at enormous scale. A decision model can’t generate text. (505 points, 181 comments on Hacker News)",
+        "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+        "url": "https://pietromiotti.com/latest/maya-site/?maya",
+        "summary": "By analyzing NASA lidar data, my AI agents discovered a Maya site in Mexico that, as far as anyone can tell, no one had reported before. Lidar, instead, fires laser pulses through the gaps in the canopy and maps the ground underneath. [1] So the agents went looking for lidar data. At this point, we should probably lidar the whole planet and let the agents discover the rest. (399 points, 149 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-10T06:01:08+00:00"
+        "date": "2026-11-11T12:05:22+00:00"
       },
       {
-        "title": "Fable 5.2 one-shotted my nephew's dream game",
-        "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-        "summary": "Aiden was appreciative, but it clearly wasn't the game he'd imagined. Finishing this game immediately sprang to mind. Fable had generated a game that was fun. (443 points, 371 comments on Hacker News)",
+        "title": "Protecting SSH Keys with macOS Secure Enclave",
+        "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+        "summary": "When you SSH somewhere, your Mac asks the Secure Enclave to sign the authentication challenge. Secure Enclave keys are tied to your specific Mac. Add your Secure Enclave key AND a backup key (from a YubiKey, or another Mac) to your servers’ authorized_keys . (300 points, 109 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-09T23:08:13+00:00"
+        "date": "2026-11-11T04:28:57+00:00"
+      },
+      {
+        "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+        "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+        "summary": "With the official launch of Auto SR, your Xbox Ally X can use Microsoft’s upscaling technology undocked and with games running at 1080p. With the official launch of Auto SR, your Xbox Ally X can use Microsoft’s upscaling technology undocked and with games running at 1080p. Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia’s DLSS, for the Xbox Ally X,…",
+        "source": "The Verge",
+        "date": "2026-11-11T00:34:24+00:00"
+      },
+      {
+        "title": "Tracking Anthropic-discovered vulnerabilities",
+        "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+        "summary": "After seven months, I've tracked 442 CVEs attributable to Anthropic. Of the 37,966 findings Anthropic reports, only 7,349 (19.4%) have been made public. It's a far cry from the 94.2% true positive rate Anthropic currently claims on its ledger. (434 points, 206 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-10T22:17:56+00:00"
+      },
+      {
+        "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+        "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+        "summary": "With the updated Disney Plus Quest app, you’ll be able to stream more than 60 3D movies and watch films in immersive virtual environments. With the updated Disney Plus Quest app, you’ll be able to stream more than 60 3D movies and watch films in immersive virtual environments. Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest.",
+        "source": "The Verge",
+        "date": "2026-11-10T22:00:00+00:00"
       }
     ]
   }
