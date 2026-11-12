@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:56:48.221772+00:00",
+  "generated_at": "2026-11-12T15:47:58.748342+00:00",
   "sections": {
     "research": [
       {
@@ -89,6 +89,20 @@
     ],
     "labs": [
       {
+        "title": "Holiday Extras is rethinking what it can build with Codex",
+        "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+        "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+        "source": "OpenAI",
+        "date": "2026-11-12T09:30:00+00:00"
+      },
+      {
+        "title": "Supporting research on AI and children’s safety",
+        "url": "https://openai.com/index/children-first-declaration",
+        "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+        "source": "OpenAI",
+        "date": "2026-11-12T00:00:00+00:00"
+      },
+      {
         "title": "Gilbert + Tobin rethinks the business of law with AI",
         "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
         "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
@@ -96,11 +110,32 @@
         "date": "2026-11-12T00:00:00+00:00"
       },
       {
+        "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+        "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+        "summary": "Metwally, Research Scientists, Google Research We introduce an investigational machine learning framework that translates passive wearable signals into a modifiable coachable health age, uses an action-conditioned world model to simulate personalized 12-week \"what-if\" habit trajectories, and expands to routine blood biomarkers to track early cardiovascular-kidney-metabolic (CKM) health. In “ Personalized health…",
+        "source": "Google Research",
+        "date": "2026-11-11T19:54:00+00:00"
+      },
+      {
+        "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+        "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+        "summary": "Adam Gayoso, Natasha Latysheva, Pushmeet Kohli and Žiga Avsec Our next-generation DNA sequence model bridges single-cell biology and human genetics, predicting how genetic variants affect hundreds of human cell types. Comparing how AlphaGenome 1 and 2 treat cell types . We trained AlphaGenome 2 on both bulk and single-cell data from human and mouse samples, including over 107 million individual cell profiles.",
+        "source": "Google DeepMind",
+        "date": "2026-11-11T15:00:15+00:00"
+      },
+      {
         "title": "ChatGPT Plus for veterans and servicemembers",
         "url": "https://openai.com/index/chatgpt-plus-for-veterans",
         "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
         "source": "OpenAI",
         "date": "2026-11-11T08:00:00+00:00"
+      },
+      {
+        "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+        "url": "https://openai.com/index/jiostar-vijay-seshadri",
+        "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+        "source": "OpenAI",
+        "date": "2026-11-11T00:00:00+00:00"
       },
       {
         "title": "Gemini 4 Carbon is now available",
@@ -112,7 +147,7 @@
       {
         "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
         "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-        "summary": "This breakthrough discovery was made using AlphaProof Code , a novel agentic framework for formal verification at unprecedented depth that combines human expertise with AI agents. To confirm that AlphaProof Code can tell correct code from buggy code, we reintroduced two real, previously fixed bugs into an isolated version of Signal's code. “Using AI agents to translate live code into valid Lean theorems is a major…",
+        "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
         "source": "Google DeepMind",
         "date": "2026-11-10T12:02:28+00:00"
       },
@@ -136,213 +171,178 @@
         "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
         "source": "OpenAI",
         "date": "2026-11-10T09:00:00+00:00"
-      },
-      {
-        "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-        "url": "https://openai.com/index/singapore-airlines-travel-work",
-        "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-        "source": "OpenAI",
-        "date": "2026-11-10T08:00:00+00:00"
-      },
-      {
-        "title": "Work at the Frontier: AI’s effect on freelance work",
-        "url": "https://openai.com/index/ai-effect-on-freelance-work",
-        "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-        "source": "OpenAI",
-        "date": "2026-11-10T07:00:00+00:00"
-      },
-      {
-        "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-        "url": "https://openai.com/index/cogent-security",
-        "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-        "source": "OpenAI",
-        "date": "2026-11-10T00:00:00+00:00"
-      },
-      {
-        "title": "Exploring the world's languages with Language Explorer",
-        "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
-        "summary": "Expanding language coverage responsibly also requires deeply understanding linguistic diversity on a global scale. The Language Explorer is an interactive web platform designed to let researchers, educators, and language enthusiasts discover and visualize linguistic diversity around the world. Welt. ) featuring the Language Explorer as an interactive installation.",
-        "source": "Google Research",
-        "date": "2026-11-09T20:29:39+00:00"
-      },
-      {
-        "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-        "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-        "summary": "Gemini Robotics 2.5 marks a leap forward in three key areas: Gemini Robotics 2.5 is rolling out to our robotics partners . Apollo 2 using Gemini Robotics 2.5 to autonomously perform automotive kitting at a Mercedes-Benz factory. Gemini Robotics 2.5 uses inference-time reasoning guidance to steer around physical hazards in real-time.",
-        "source": "Google DeepMind",
-        "date": "2026-11-09T19:51:47+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-        "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-        "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments. However, Kadar says the company’s real promise is using the data it gathers to post-train small, open-weight models tailored to individual customer needs. Tests performed in cooperation with Nvidia and Nebius showed the company’s models outperforming mid-tier frontier models at lower costs.",
+        "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+        "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+        "summary": "The Nvidia Board of Directors announced on Thursday morning that the company’s co-founder and CEO of 33 years, Jensen Huang, has resigned as President, CEO, and member of the Board, effective immediately. While the company conducts a more thorough search for Huang’s successor, Nvidia CFO and Executive Vice President Colette Kress has taken over as interim CEO. According to Nvidia’s website , Kress has worked at the…",
         "source": "TechCrunch",
-        "date": "2026-11-11T14:00:00+00:00"
+        "date": "2026-11-12T15:37:29+00:00"
       },
       {
-        "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-        "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-        "summary": "CEO Jensen Huang has reportedly been trying to conduct business as usual after admitting to an extramarital affair with Alice Huang, whom U.S. intelligence agencies believe was spying for China. It’s unclear when Huang learned Alice Huang was a suspected spy. Huang reportedly owns about 3.6%, so he doesn’t control the vote.",
+        "title": "Norwest pushes deeper into AI with new $4B fund",
+        "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+        "summary": "Norwest, a firm backed solely by Wells Fargo, has raised a $4 billion fund as it sets out to invest more in AI. This is the eighteenth fund for the 65-year-old multi-stage investment firm, and its largest to date. Some of the firm’s recent investments reflect this strategy.",
         "source": "TechCrunch",
-        "date": "2026-11-11T07:30:51+00:00"
+        "date": "2026-11-12T15:18:14+00:00"
       },
       {
-        "title": "X launches its own clipping feature to spur influencer engagement",
-        "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
-        "summary": "The latest effort to attract social media talent? Its own clipping tool. The platform added that both creators and clippers can “earn from views on the clip through Original Content Rewards,” X’s rewards program .",
+        "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+        "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+        "summary": "A cyberattack at Fireworks AI has exposed some of its customers’ data, the company has confirmed. Fireworks touts tens of thousands of customers worldwide using its platform, including legal tech company Harvey and AI company Cursor. Notion said that Fireworks alerted the company to a security incident and later confirmed that the hackers had stolen some Notion customer data.",
         "source": "TechCrunch",
-        "date": "2026-11-11T01:02:13+00:00"
+        "date": "2026-11-12T15:02:28+00:00"
       },
       {
-        "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-        "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-        "summary": "OpenAI has acquired an AI travel agent called Odessia, according to Odessia’s founder, Francis Davidson. Davidson’s announcement focused largely on how he built his AI travel agent Odessia by directing teams of AI agents. Davidson is well known in the travel industry after he founded a travel startup called Sonder as a college student in 2014.",
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "summary": "Nvidia, Huang and Powell have not confirmed the report. Huang are not unusual or unexpected. Jensen Huang had been spotted socializing with Megaspeed executive Alice Huang as early as 2024 in Taiwan, where the Nvidia CEO was born.",
         "source": "TechCrunch",
-        "date": "2026-11-10T21:08:52+00:00"
+        "date": "2026-11-12T14:30:01+00:00"
       },
       {
-        "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-        "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-        "summary": "The RAISE Act , New York’s safety and transparency bill, kicks in at the start of the year. It mandates that large frontier developers — companies with more than $500 million in annual revenue — have to publish safety frameworks on their websites, report critical safety incidents within 72 hours, and issue public model transparency reports. The RAISE Act isn’t the only safety law New York has passed.",
+        "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+        "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+        "summary": "Jones has been on Nvidia’s board since 1993. Nvidia reports earnings on Tuesday. “Jensen’s contributions to NVIDIA are profound.",
         "source": "TechCrunch",
-        "date": "2026-11-10T20:52:13+00:00"
+        "date": "2026-11-12T14:10:34+00:00"
       },
       {
-        "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-        "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-        "summary": "But that didn’t stop Sahir Raoof, a former SignalFire investor and executive at two healthcare startups, from raising $27.5 million for his first solo VC fund. Proximal plans to invest in pre-seed and seed-stage startups, writing checks from $500,000 to $1.5 million. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
+        "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+        "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+        "summary": "TechCrunch’s yearly Startup Battlefield 200 competition sees hundreds of companies from across the world trying every year to get a chance to pitch in front of VCs and the international tech community at the Disrupt conference. This week, nine early-stage South Korean startups pitched at DETO 2026 , a technology conference in Seoul, to earn a spot in next year’s Startup Battlefield 200. The startup also develops…",
         "source": "TechCrunch",
-        "date": "2026-11-10T20:47:05+00:00"
+        "date": "2026-11-12T13:26:25+00:00"
       },
       {
-        "title": "X-energy gets green light to build its first small modular nuclear reactors",
-        "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
-        "summary": "Nuclear startup X-energy announced Monday that it had been given the go-ahead from federal officials to build its first four commercial reactors. The Nuclear Regulatory Commission (NRC) approved the construction permit application for four of X-energy’s Xe-100 reactors at a Dow chemical plant in Texas. The U.S. nuclear industry has pinned its hopes on small modular reactors — or SMRs — like those being developed by…",
+        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+        "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+        "summary": "It’s almost inconceivable that Nvidia would fire its rock star CEO. The AMD CEO runs Nvidia’s most credible rival, as well as a distant cousin of Huang. He probably knows nearly every customer Nvidia has, too.",
         "source": "TechCrunch",
-        "date": "2026-11-10T20:43:55+00:00"
+        "date": "2026-11-12T03:13:10+00:00"
       },
       {
-        "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-        "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-        "summary": "Each will sell 3,378,378 shares. Board member Reed Hastings has indicated he wants to buy $300 million worth of shares through his donor-advised fund. Board member Christopher Liddell also wants to buy $3 million worth of shares.",
+        "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+        "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+        "summary": "Nvidia is reportedly planning to oust its co-founder and CEO Jensen Huang, who has led the company for the last 33 years, the Wall Street Journal reports . Sources told the newspaper that the Nvidia board is meeting as soon as Wednesday to determine Huang’s future at the company. According to Bloomberg, Nvidia is working with an outside firm to identify candidates that could potentially replace Huang as CEO.",
         "source": "TechCrunch",
-        "date": "2026-11-10T19:57:52+00:00"
+        "date": "2026-11-11T23:28:45+00:00"
       },
       {
-        "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-        "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-        "summary": "Oura announced on Tuesday that it’s acquiring AI-native primary care company Counsel Health for $625 million. By acquiring Counsel Health, Oura is looking to expand its business and help users access medical care. For its fiscal year 2026, Oura generated revenue of approximately $1.75 billion, marking 92% year-over-year growth.",
+        "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+        "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+        "summary": "Nvidia CEO Jensen Huang is already under investigation after having admitted to having an affair with a woman accused of being a Chinese spy . Powell, like Huang, is married, the outlet says. The company’s board has initiated an investigation into Huang’s publicly admitted affair.",
         "source": "TechCrunch",
-        "date": "2026-11-10T19:23:34+00:00"
+        "date": "2026-11-11T23:17:05+00:00"
       },
       {
-        "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-        "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-        "summary": "David Turturean, a recent MIT graduate and a member of the technical staff at the startup lab Physical Superintelligence (PSI) , used early access to Anthropic’s Fable 5.2 model to solve an 18-year-old problem about quantum computing. “I’m totally accepting the idea that this might be the last paper I ever put out,” Turturean, who deferred plans to pursue a master’s at MIT’s prestigious computer science and AI lab…",
+        "title": "Why the data center you dread might never even be built",
+        "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+        "summary": "You can contact or verify outreach from Theresa by emailing [email protected] . You can contact or verify outreach from Theresa by emailing [email protected] . You can contact or verify outreach from Theresa by emailing [email protected] .",
         "source": "TechCrunch",
-        "date": "2026-11-10T19:03:52+00:00"
+        "date": "2026-11-11T20:15:15+00:00"
       },
       {
-        "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-        "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-        "summary": "Eligible companies will also be able to create and launch a specialized business agent, which gives ChatGPT users the ability to ask questions about the business and its products. “Today’s announcement is an early step in bringing businesses more deeply into ChatGPT.” In a move that calls to mind Google Analytics , the Business Hub will also give users access to limited business insights. These insights will reveal…",
+        "title": "Meta is losing its longtime head of infrastructure",
+        "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+        "summary": "A key figure in Meta’s growth into a social media and tech industry powerhouse is leaving the company. Santosh Janardhan, the company’s longtime head of infrastructure and co-head of engineering, will be stepping down, Meta told TechCrunch. Earlier this year, Janardhan was tasked with leading Meta Compute , the company initiative to scale its data center investments and strategy.",
         "source": "TechCrunch",
-        "date": "2026-11-10T18:49:52+00:00"
+        "date": "2026-11-11T20:12:01+00:00"
       },
       {
-        "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
-        "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
-        "summary": "Instead of a small, round device, like Apple’s, the Pixel Tag is slimmer and more elongated. Spec-by-spec, the Pixel Tag is 1.1-inches wide, compared to the AirTag’s 1.26 inches. Google didn’t originally say that the Pixel Tag included NFC when it announced the device in August.",
+        "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+        "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+        "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. Just 81 first-time funds closed in the first nine months of 2026. He founded his firm RedBlue Capital in 2021 and closed its first fund with roughly $5 million in capital commitments in 2023.",
         "source": "TechCrunch",
-        "date": "2026-11-10T18:49:19+00:00"
+        "date": "2026-11-11T20:04:28+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
-        "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
-        "summary": "A comfortable, minimalist option that supports concurrent low-latency audio and Bluetooth. A comfortable, minimalist option that supports concurrent low-latency audio and Bluetooth. Functionally, the Pulse stands out as a semi-affordable wireless headset that can stream audio from PlayStation Link (Sony’s low-latency, lossless wireless connection) and Bluetooth simultaneously.",
+        "title": "A power bank that can quickly charge three gadgets is just $49",
+        "url": "https://www.theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale",
+        "summary": "It can deliver up to 170W of total power via its three ports. It can deliver up to 170W of total power via its three ports. Amazon Prime subscribers can jump on a pretty nice deal happening on Ecoflow’s laptop power bank that can deliver up to 140W of power through either of its two USB-C ports.",
         "source": "The Verge",
-        "date": "2026-11-11T14:00:00+00:00"
+        "date": "2026-11-12T15:19:58+00:00"
       },
       {
-        "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-        "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-        "summary": "Project Sound Bender is an AI audio mixing feature that lets you customize sound effects as if you’re clicking your cursor around a color wheel. It works by uploading a video clip and then describing your desired audio in a text prompt, such as “bubbling sci-fi cauldron noises.” Sound Bender then generates sound effects and automatically syncs it to the video, and provides a square sound canvas that lets you adjust…",
+        "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+        "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. Nvidia’s board announced that Jensen Huang — its longtime co-founder, president, and CEO — has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to…",
         "source": "The Verge",
-        "date": "2026-11-11T14:00:00+00:00"
+        "date": "2026-11-12T15:01:31+00:00"
       },
       {
-        "title": "Streaming is still trying to be TikTok",
-        "url": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
-        "summary": "It hasn’t proven that short-form video will help. It hasn’t proven that short-form video will help. Disney has shown that people will use a clips feed inside a streaming app.",
+        "title": "Lego’s BrickLink marketplace has been offline for a week following ‘unusual activity’",
+        "url": "https://www.theverge.com/tech/1031889/lego-bricklink-marketplace-offline-unusual-activity",
+        "summary": "BrickLink was taken offline on November 5th but Lego doesn’t know when it will return. BrickLink was taken offline on November 5th but Lego doesn’t know when it will return. Lego hasn’t explained exactly what happened with the marketplace, but says it “took BrickLink offline after identifying unusual activity on the platform.",
         "source": "The Verge",
-        "date": "2026-11-11T13:30:00+00:00"
+        "date": "2026-11-12T14:13:58+00:00"
       },
       {
-        "title": "I asked every TV manufacturer 17 questions about how they spy on you",
-        "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-        "summary": "Apple did not provide an answer to this question. Apple did not provide an answer to this question. Apple did not provide an answer to this question.",
+        "title": "I reviewed the Apple HomeView, ask me anything",
+        "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+        "summary": "Verge subscribers can get answers to their burning questions about Apple’s first smart display. Verge subscribers can get answers to their burning questions about Apple’s first smart display. I’m Jen Tuohy, The Verge’s senior smart home reviewer.",
         "source": "The Verge",
-        "date": "2026-11-11T13:00:00+00:00"
+        "date": "2026-11-12T14:10:00+00:00"
       },
       {
-        "title": "Not everyone is loving their new iPhone Duo",
-        "url": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
-        "summary": "But two weeks with a new phone? After spending some time with the phone, he discovered that having a phone that’s also your iPad wasn’t always ideal. For Hayes, the Duo led him to downsize.",
+        "title": "The pricey new Apple TV 4K is still the best streamer around",
+        "url": "https://www.theverge.com/tech/1031633/apple-tv-4k-4th-gen-review",
+        "summary": "The speakers and the Apple TV 4K need to be a part of the same Apple Home and set up by the same user. The speakers deliver a great surround experience. But the new Apple TV 4K is $300.",
         "source": "The Verge",
-        "date": "2026-11-11T13:00:00+00:00"
+        "date": "2026-11-12T14:00:00+00:00"
       },
       {
-        "title": "Serve Robotics wants to democratize sidewalk delivery robots",
-        "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
-        "summary": "With its new developer platform, the sidewalk robot company lets small businesses, indie developers, and AI agents summon its 2,000-robot fleet without paying delivery app markups. With its new developer platform, the sidewalk robot company lets small businesses, indie developers, and AI agents summon its 2,000-robot fleet without paying delivery app markups. Kashani remains adamant that Serve won’t morph into a…",
+        "title": "I tried Google’s AI glasses and Meta’s finally got real competition",
+        "url": "https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on",
+        "summary": "Smart glasses have never been more unpopular. Meta’s glasses also can’t do this. The glasses are fairly lightweight (for smart glasses) at 41g.",
         "source": "The Verge",
-        "date": "2026-11-11T12:30:00+00:00"
+        "date": "2026-11-12T14:00:00+00:00"
       },
       {
-        "title": "Apple is killing its Support Community forum next week",
-        "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-        "summary": "The Apple Support Community platform is now read-only, and will permanently close on November 20th.﻿ The Apple Support Community platform is now read-only, and will permanently close on November 20th.﻿ It’s the end of the road for the Apple Support Community. You can continue to find trusted guidance and support on the official Apple Support site. In a statement to MacRumors , Apple said it decided to sunset the…",
+        "title": "Apple’s HomeView is my new favorite smart display — but not my daughter’s",
+        "url": "https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit",
+        "summary": "Apple’s first smart display is a gorgeous, speedy smart home hub and a great kitchen companion. The HomeView nails everything I want from a smart display. I use and test all three major smart home platforms — Google Home, Amazon Alexa, and Apple Home.",
         "source": "The Verge",
-        "date": "2026-11-11T12:19:10+00:00"
+        "date": "2026-11-12T14:00:00+00:00"
       },
       {
-        "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-        "url": "https://pietromiotti.com/latest/maya-site/?maya",
-        "summary": "By analyzing NASA lidar data, my AI agents discovered a Maya site in Mexico that, as far as anyone can tell, no one had reported before. Lidar, instead, fires laser pulses through the gaps in the canopy and maps the ground underneath. [1] So the agents went looking for lidar data. At this point, we should probably lidar the whole planet and let the agents discover the rest. (399 points, 149 comments on Hacker News)",
+        "title": "Jensen Huang resigns as Nvidia CEO immediately",
+        "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+        "summary": "360 points, 195 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-11-11T12:05:22+00:00"
+        "date": "2026-11-12T13:56:11+00:00"
       },
       {
-        "title": "Protecting SSH Keys with macOS Secure Enclave",
-        "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-        "summary": "When you SSH somewhere, your Mac asks the Secure Enclave to sign the authentication challenge. Secure Enclave keys are tied to your specific Mac. Add your Secure Enclave key AND a backup key (from a YubiKey, or another Mac) to your servers’ authorized_keys . (300 points, 109 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-11-11T04:28:57+00:00"
-      },
-      {
-        "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-        "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
-        "summary": "With the official launch of Auto SR, your Xbox Ally X can use Microsoft’s upscaling technology undocked and with games running at 1080p. With the official launch of Auto SR, your Xbox Ally X can use Microsoft’s upscaling technology undocked and with games running at 1080p. Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia’s DLSS, for the Xbox Ally X,…",
+        "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+        "summary": "After reports of Huang’s two extramarital affairs with an alleged spy and an Nvidia executive, he’s out, and Nvidia CFO Colette Kress is in. After reports of Huang’s two extramarital affairs with an alleged spy and an Nvidia executive, he’s out, and Nvidia CFO Colette Kress is in. Nvidia’s board announced that Jensen Huang — its longtime co-founder, president, and CEO — has resigned after reports of two extramarital…",
         "source": "The Verge",
-        "date": "2026-11-11T00:34:24+00:00"
+        "date": "2026-11-12T13:53:16+00:00"
       },
       {
-        "title": "Tracking Anthropic-discovered vulnerabilities",
-        "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-        "summary": "After seven months, I've tracked 442 CVEs attributable to Anthropic. Of the 37,966 findings Anthropic reports, only 7,349 (19.4%) have been made public. It's a far cry from the 94.2% true positive rate Anthropic currently claims on its ledger. (434 points, 206 comments on Hacker News)",
+        "title": "NVIDIA Announces CEO Transition",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+        "summary": "Colette Kress, current Executive Vice President and Chief Financial Officer of NVIDIA, has agreed to serve as Interim Chief Executive Officer. About NVIDIA NVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing. © 2026 NVIDIA Corporation. About NVIDIA NVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing. © 2026 NVIDIA Corporation. (995 points, 838 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-10T22:17:56+00:00"
+        "date": "2026-11-12T13:52:29+00:00"
       },
       {
-        "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
-        "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
-        "summary": "With the updated Disney Plus Quest app, you’ll be able to stream more than 60 3D movies and watch films in immersive virtual environments. With the updated Disney Plus Quest app, you’ll be able to stream more than 60 3D movies and watch films in immersive virtual environments. Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest.",
+        "title": "Anthropic IPO",
+        "url": "https://ipo.anthropic.com/us/",
+        "summary": "Subject to regulatory clearance, the final IPO share price is expected to be set on November 18th (EST), and shares are expected to begin publicly trading on November 19th (EST). The final IPO price is expected to be determined on November 18th (EST), based on regulatory clearance, investor demand and market conditions. Shares bought in the IPO will be purchased at the offering price, which is expected to be set on… (326 points, 355 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-12T11:46:41+00:00"
+      },
+      {
+        "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+        "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+        "summary": "The Ring Drone Cam will entirely rely on AI autopilot to fly around your home.﻿ The Ring Drone Cam will entirely rely on AI autopilot to fly around your home.﻿ When (or if) Ring’s security camera drone flies into our homes in January, you won’t get the option to pilot it yourself. The Ring Drone Cam relies entirely on an “AI Pilot” system to follow pre-programmed routes and navigate autonomously around obstacles,…",
         "source": "The Verge",
-        "date": "2026-11-10T22:00:00+00:00"
+        "date": "2026-11-12T11:12:32+00:00"
       }
     ]
   }
