@@ -1,93 +1,107 @@
 {
-  "generated_at": "2026-11-12T15:47:58.748342+00:00",
+  "generated_at": "2026-11-13T15:08:14.048328+00:00",
   "sections": {
     "research": [
       {
-        "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
-        "url": "https://arxiv.org/abs/2611.14519v1",
-        "summary": "Emre Kutlusan, Yongmin Li — Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however,…",
+        "title": "Unbundling Multimodal Vision Encoding",
+        "url": "https://arxiv.org/abs/2611.17334v1",
+        "summary": "Ellis Brown, Chris Hoang, Shengyi Qian et al. — How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it…",
         "source": "arXiv",
-        "date": "2026-11-10T18:59:54Z"
+        "date": "2026-11-12T18:59:54Z"
       },
       {
-        "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
-        "url": "https://arxiv.org/abs/2611.14518v1",
-        "summary": "Sheethal Bhat, Bogdan Georgescu, Awais Mansoor et al. — DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets.",
+        "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+        "url": "https://arxiv.org/abs/2611.17332v1",
+        "summary": "Jie Wang, Tong Zhu, JiaHao Kuang et al. — Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi…",
         "source": "arXiv",
-        "date": "2026-11-10T18:59:17Z"
+        "date": "2026-11-12T18:59:52Z"
       },
       {
-        "title": "TorchCurves: Differentiable Parametric Curves",
-        "url": "https://arxiv.org/abs/2611.14516v1",
-        "summary": "Alex Shtoff — We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre…",
+        "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+        "url": "https://arxiv.org/abs/2611.17329v1",
+        "summary": "Zeynep Yıldız, Satchit Chatterji, Ercan Atam et al. — Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize…",
         "source": "arXiv",
-        "date": "2026-11-10T18:58:52Z"
+        "date": "2026-11-12T18:59:37Z"
       },
       {
-        "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
-        "url": "https://arxiv.org/abs/2611.14515v1",
-        "summary": "Zijian Zhang, Rizhen Hu, Jiangweizhi Peng et al. — Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds,…",
+        "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+        "url": "https://arxiv.org/abs/2611.17323v1",
+        "summary": "Ethan Lin, Akanksha Sarkar, Ziang Liu et al. — Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have…",
         "source": "arXiv",
-        "date": "2026-11-10T18:58:46Z"
+        "date": "2026-11-12T18:59:06Z"
       },
       {
-        "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
-        "url": "https://arxiv.org/abs/2611.14514v1",
-        "summary": "Ziang Liu, James J. Kim, Yijia Dai et al. — LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$.",
+        "title": "Learning When Diffusion Language Models Should Regenerate",
+        "url": "https://arxiv.org/abs/2611.17320v1",
+        "summary": "Minhae Oh, Jeonghye Kim, Jinwoo Koo et al. — Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Hidden states contain error information…",
         "source": "arXiv",
-        "date": "2026-11-10T18:58:43Z"
+        "date": "2026-11-12T18:58:50Z"
       },
       {
-        "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
-        "url": "https://arxiv.org/abs/2611.14511v1",
-        "summary": "Megha Srivastava, Michael H. Lim, Allison M. Keys et al. — Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging.",
+        "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+        "url": "https://arxiv.org/abs/2611.17316v1",
+        "summary": "Peiwen Li, Harshit Verma, Sophia Zhou et al. — Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing future usefulness…",
         "source": "arXiv",
-        "date": "2026-11-10T18:56:32Z"
+        "date": "2026-11-12T18:58:22Z"
       },
       {
-        "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
-        "url": "https://arxiv.org/abs/2611.14508v1",
-        "summary": "Yeyuan Liu — Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wiring with how the…",
+        "title": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+        "url": "https://arxiv.org/abs/2611.17314v1",
+        "summary": "Abigail L. Tenenbaum, R. Thomas McCoy — Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn rapidly.",
         "source": "arXiv",
-        "date": "2026-11-10T18:55:48Z"
+        "date": "2026-11-12T18:57:49Z"
       },
       {
-        "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
-        "url": "https://arxiv.org/abs/2611.14505v1",
-        "summary": "Daniel Lenton — Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on a single applied…",
+        "title": "Sketching Language Models for Context Attribution",
+        "url": "https://arxiv.org/abs/2611.17313v1",
+        "summary": "Christopher Liaw, Aranyak Mehta, Grigoris Velegkas et al. — Context attribution asks how removing parts of a prompt changes a language model's output. Computing all LOO values…",
         "source": "arXiv",
-        "date": "2026-11-10T18:55:01Z"
+        "date": "2026-11-12T18:57:48Z"
       },
       {
-        "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
-        "url": "https://arxiv.org/abs/2611.14504v1",
-        "summary": "Adi Mashiach — Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation model for…",
+        "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+        "url": "https://arxiv.org/abs/2611.17309v1",
+        "summary": "Benjamin Hoover, Hugh Blayney, James C. R. Whittington — Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to train, and use many…",
         "source": "arXiv",
-        "date": "2026-11-10T18:53:01Z"
+        "date": "2026-11-12T18:56:56Z"
       },
       {
-        "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
-        "url": "https://arxiv.org/abs/2611.14493v1",
-        "summary": "Howard Zhang, Chuck Arvin, Logan Brown et al. — Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three…",
+        "title": "Quantifying structural stability of transparent models for general insurance pricing",
+        "url": "https://arxiv.org/abs/2611.17308v1",
+        "summary": "Félix Côté, Marie-Pier Côté — The short duration of general insurance contracts leads to rapid distributional shifts in the data, warranting regular model updates. This process may yield a post-update model that differs considerably from the…",
         "source": "arXiv",
-        "date": "2026-11-10T18:50:06Z"
+        "date": "2026-11-12T18:56:54Z"
       },
       {
-        "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
-        "url": "https://arxiv.org/abs/2611.14492v1",
-        "summary": "Kaiyuan Hou, Yang Ping Kuo, Indranil Bhattacharya et al. — Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose…",
+        "title": "Towards a Theory of Learnability via Debate",
+        "url": "https://arxiv.org/abs/2611.17303v1",
+        "summary": "Tosca Lechner, Vinayak Pathak, Sivan Sabato et al. — Debate has been recently proposed as a training protocol that is hoped to produce more aligned models even as model capabilities scale. The idea is that the human, instead of providing supervision in the form of labels,…",
         "source": "arXiv",
-        "date": "2026-11-10T18:49:47Z"
+        "date": "2026-11-12T18:55:58Z"
       },
       {
-        "title": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics",
-        "url": "https://arxiv.org/abs/2611.14491v1",
-        "summary": "Peng Chen, Yihang Wang, Zhongwen Rao et al. — Time series analytics has been widely applied across various domains. While existing time series foundation models (TSFMs) have demonstrated promising results, they still face two major challenges: 1) Most TSFMs mainly…",
+        "title": "FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification",
+        "url": "https://arxiv.org/abs/2611.17302v1",
+        "summary": "Mohamed Alimoussa, Amal El Kaid — Local Binary Patterns (LBP) remain among the most widely used texture descriptors, from industrial inspection to medical imaging. Yet their radius, sampling angles, color transform and thresholds are fixed by hand for…",
         "source": "arXiv",
-        "date": "2026-11-10T18:49:26Z"
+        "date": "2026-11-12T18:55:56Z"
       }
     ],
     "labs": [
+      {
+        "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "url": "https://openai.com/business/customer-stories/amplitude",
+        "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+        "source": "OpenAI",
+        "date": "2026-11-12T20:00:00+00:00"
+      },
+      {
+        "title": "Gondola doubles revenue as its team builds more with Codex",
+        "url": "https://openai.com/business/customer-stories/gondola",
+        "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+        "source": "OpenAI",
+        "date": "2026-11-12T12:00:00+00:00"
+      },
       {
         "title": "Holiday Extras is rethinking what it can build with Codex",
         "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
@@ -117,13 +131,6 @@
         "date": "2026-11-11T19:54:00+00:00"
       },
       {
-        "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-        "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-        "summary": "Adam Gayoso, Natasha Latysheva, Pushmeet Kohli and Žiga Avsec Our next-generation DNA sequence model bridges single-cell biology and human genetics, predicting how genetic variants affect hundreds of human cell types. Comparing how AlphaGenome 1 and 2 treat cell types . We trained AlphaGenome 2 on both bulk and single-cell data from human and mouse samples, including over 107 million individual cell profiles.",
-        "source": "Google DeepMind",
-        "date": "2026-11-11T15:00:15+00:00"
-      },
-      {
         "title": "ChatGPT Plus for veterans and servicemembers",
         "url": "https://openai.com/index/chatgpt-plus-for-veterans",
         "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
@@ -136,20 +143,6 @@
         "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
         "source": "OpenAI",
         "date": "2026-11-11T00:00:00+00:00"
-      },
-      {
-        "title": "Gemini 4 Carbon is now available",
-        "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-        "summary": "Following our recent launch of Gemini 4 Argon , Carbon pushes the frontier even further. Using a multi-agent loop in Google Antigravity, Carbon reconstructed a playable c. Applies to the Carbon model intended for public access only.",
-        "source": "Google DeepMind",
-        "date": "2026-11-10T16:03:47+00:00"
-      },
-      {
-        "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-        "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-        "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-        "source": "Google DeepMind",
-        "date": "2026-11-10T12:02:28+00:00"
       },
       {
         "title": "Helping caregivers use AI in everyday life",
@@ -171,178 +164,185 @@
         "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
         "source": "OpenAI",
         "date": "2026-11-10T09:00:00+00:00"
+      },
+      {
+        "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+        "url": "https://openai.com/index/singapore-airlines-travel-work",
+        "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+        "source": "OpenAI",
+        "date": "2026-11-10T08:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-        "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-        "summary": "The Nvidia Board of Directors announced on Thursday morning that the company’s co-founder and CEO of 33 years, Jensen Huang, has resigned as President, CEO, and member of the Board, effective immediately. While the company conducts a more thorough search for Huang’s successor, Nvidia CFO and Executive Vice President Colette Kress has taken over as interim CEO. According to Nvidia’s website , Kress has worked at the…",
+        "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+        "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+        "summary": "Uber is notifying thousands of drivers that their personal and driver’s license information was stolen during an October data breach at one of the company’s tech providers. Fireworks reported a data breach last month in which hackers stole its customers’ information, including billing data and some private AI datasets. This is Uber’s second known data breach this year.",
         "source": "TechCrunch",
-        "date": "2026-11-12T15:37:29+00:00"
+        "date": "2026-11-13T14:57:55+00:00"
       },
       {
-        "title": "Norwest pushes deeper into AI with new $4B fund",
-        "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-        "summary": "Norwest, a firm backed solely by Wells Fargo, has raised a $4 billion fund as it sets out to invest more in AI. This is the eighteenth fund for the 65-year-old multi-stage investment firm, and its largest to date. Some of the firm’s recent investments reflect this strategy.",
+        "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+        "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+        "summary": "The newest entrant in that category is voice AI giant ElevenLabs , which this week released an experimental app called ElevenAI that combines meeting note-taking, dictation, and agent integration. ElevenLabs also allows companies to integrate ElevenAgent and take follow-up actions such as writing a draft email based on meeting notes. The company said that the app is capable of understanding industry-specific terms…",
         "source": "TechCrunch",
-        "date": "2026-11-12T15:18:14+00:00"
+        "date": "2026-11-13T14:44:48+00:00"
       },
       {
-        "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-        "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-        "summary": "A cyberattack at Fireworks AI has exposed some of its customers’ data, the company has confirmed. Fireworks touts tens of thousands of customers worldwide using its platform, including legal tech company Harvey and AI company Cursor. Notion said that Fireworks alerted the company to a security incident and later confirmed that the hackers had stolen some Notion customer data.",
+        "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+        "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+        "summary": "Microsoft is slowly recovering from its day-long outage after much of the company’s systems were hit by a cascading software issue. The last major incident affecting Microsoft services was in September , when a days-long outage hit Microsoft’s cloud services. During that outage, Microsoft blamed a “core authentication configuration” issue that prevented users from accessing the service.",
         "source": "TechCrunch",
-        "date": "2026-11-12T15:02:28+00:00"
+        "date": "2026-11-13T13:15:20+00:00"
+      },
+      {
+        "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+        "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+        "summary": "Former Nvidia CEO Jensen Huang’s resignation has been received with worry in Israel, the company’s “second home,” as Huang described it in 2023. Nvidia also made plans to build a multibillion-dollar campus in northern Israel. “Jensen brought Nvidia to Israel with the acquisition of Mellanox, so there is a strong positive sentiment towards Nvidia and Jensen in Israel’s tech community,” Israeli repeat cybersecurity…",
+        "source": "TechCrunch",
+        "date": "2026-11-13T12:52:19+00:00"
+      },
+      {
+        "title": "Jensen Huang didn’t show confidence in his successor, report says",
+        "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+        "summary": "Former NVIDIA CEO Jensen Huang described Collette Kress, the company’s CFO who has now replaced him as interim CEO, as “a deer in the headlights” during a presentation earlier in the summer, the Wall Street Journal reported , citing an anonymous source. Huang made the comment during a meeting with Nvidia’s finance team about the company’s plans to provide guarantees worth billions of dollars to data center operators…",
+        "source": "TechCrunch",
+        "date": "2026-11-13T12:28:23+00:00"
+      },
+      {
+        "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+        "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+        "summary": "Democrats on Thursday opened an inquiry into how the Trump administration handled Nvidia’s chip sales to China. Earlier on Thursday, the company ousted its CEO Jensen Huang . The letter also questions how Nvidia’s donations to Trump’s projects factored in.",
+        "source": "TechCrunch",
+        "date": "2026-11-12T22:42:51+00:00"
+      },
+      {
+        "title": "Muse can now place calls to US businesses — if you pay",
+        "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+        "summary": "After initially testing the feature in September, Meta’s consumer AI agent Muse is now able to place calls to U.S. businesses on behalf of its users. However, only paid subscribers have access to the feature, the company says. Currently, Muse subscription plans start at $20 per month for 500 million Muse tokens per week.",
+        "source": "TechCrunch",
+        "date": "2026-11-12T22:22:28+00:00"
       },
       {
         "title": "The unfolding Jensen Huang scandal: a timeline",
         "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "summary": "Nvidia, Huang and Powell have not confirmed the report. Huang are not unusual or unexpected. Jensen Huang had been spotted socializing with Megaspeed executive Alice Huang as early as 2024 in Taiwan, where the Nvidia CEO was born.",
+        "summary": "Nvidia, Huang, and Powell have not confirmed the report. Huang are not unusual or unexpected. Jensen Huang had been spotted socializing with Megaspeed executive Alice Huang as early as 2024 in Taiwan, where the Nvidia CEO was born.",
         "source": "TechCrunch",
-        "date": "2026-11-12T14:30:01+00:00"
+        "date": "2026-11-12T21:35:00+00:00"
       },
       {
-        "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
-        "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
-        "summary": "Jones has been on Nvidia’s board since 1993. Nvidia reports earnings on Tuesday. “Jensen’s contributions to NVIDIA are profound.",
+        "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+        "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+        "summary": "TechCrunch has reached out to Nebius, Microsoft, and DataOne for comment. Nebius ended the quarter with $7.4 billion in cash. Nebius reported third-quarter revenue of $981 million, up 571% from a year earlier.",
         "source": "TechCrunch",
-        "date": "2026-11-12T14:10:34+00:00"
+        "date": "2026-11-12T21:27:10+00:00"
       },
       {
-        "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-        "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-        "summary": "TechCrunch’s yearly Startup Battlefield 200 competition sees hundreds of companies from across the world trying every year to get a chance to pitch in front of VCs and the international tech community at the Disrupt conference. This week, nine early-stage South Korean startups pitched at DETO 2026 , a technology conference in Seoul, to earn a spot in next year’s Startup Battlefield 200. The startup also develops…",
+        "title": "Jensen Huang was having a third affair, Reuters reports",
+        "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+        "summary": "Nvidia founder Jensen Huang was having a separate affair with an employee that has not been previously reported, Reuters reported on Thursday . Huang stepped down as CEO and board member for the company earlier today, in the wake of news of extramarital affairs with accused spy Alice Huang and Nvidia VP of Healthcare Kimberly Powell. Reuters is withholding the name of the new employee linked to Huang but says she is…",
         "source": "TechCrunch",
-        "date": "2026-11-12T13:26:25+00:00"
+        "date": "2026-11-12T20:26:47+00:00"
       },
       {
-        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-        "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-        "summary": "It’s almost inconceivable that Nvidia would fire its rock star CEO. The AMD CEO runs Nvidia’s most credible rival, as well as a distant cousin of Huang. He probably knows nearly every customer Nvidia has, too.",
+        "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+        "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+        "summary": "Google Search is getting better at understanding complicated questions, including those with multiple parts, highly specific requests, or confusing typos. Hydrogen is also better at navigating hard-to-understand typos, Google says. Google says the Hydrogen update is rolling out to all Search users globally.",
         "source": "TechCrunch",
-        "date": "2026-11-12T03:13:10+00:00"
+        "date": "2026-11-12T19:27:45+00:00"
       },
       {
-        "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-        "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-        "summary": "Nvidia is reportedly planning to oust its co-founder and CEO Jensen Huang, who has led the company for the last 33 years, the Wall Street Journal reports . Sources told the newspaper that the Nvidia board is meeting as soon as Wednesday to determine Huang’s future at the company. According to Bloomberg, Nvidia is working with an outside firm to identify candidates that could potentially replace Huang as CEO.",
+        "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+        "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+        "summary": "Founded by sisters Misbah and Farah Uraizee, both former Meta employees, Nectar came out of stealth last year and uses AI agents to help brands manage social media, customer conversations, content moderation, creator partnerships, and competitor research. Announced Thursday, its new “Creator Agent” can search for creators, check their content and brand partnerships, send personalized messages, coordinate…",
         "source": "TechCrunch",
-        "date": "2026-11-11T23:28:45+00:00"
-      },
-      {
-        "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-        "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-        "summary": "Nvidia CEO Jensen Huang is already under investigation after having admitted to having an affair with a woman accused of being a Chinese spy . Powell, like Huang, is married, the outlet says. The company’s board has initiated an investigation into Huang’s publicly admitted affair.",
-        "source": "TechCrunch",
-        "date": "2026-11-11T23:17:05+00:00"
-      },
-      {
-        "title": "Why the data center you dread might never even be built",
-        "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-        "summary": "You can contact or verify outreach from Theresa by emailing [email protected] . You can contact or verify outreach from Theresa by emailing [email protected] . You can contact or verify outreach from Theresa by emailing [email protected] .",
-        "source": "TechCrunch",
-        "date": "2026-11-11T20:15:15+00:00"
-      },
-      {
-        "title": "Meta is losing its longtime head of infrastructure",
-        "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-        "summary": "A key figure in Meta’s growth into a social media and tech industry powerhouse is leaving the company. Santosh Janardhan, the company’s longtime head of infrastructure and co-head of engineering, will be stepping down, Meta told TechCrunch. Earlier this year, Janardhan was tasked with leading Meta Compute , the company initiative to scale its data center investments and strategy.",
-        "source": "TechCrunch",
-        "date": "2026-11-11T20:12:01+00:00"
-      },
-      {
-        "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-        "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
-        "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. Just 81 first-time funds closed in the first nine months of 2026. He founded his firm RedBlue Capital in 2021 and closed its first fund with roughly $5 million in capital commitments in 2023.",
-        "source": "TechCrunch",
-        "date": "2026-11-11T20:04:28+00:00"
+        "date": "2026-11-12T19:11:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "A power bank that can quickly charge three gadgets is just $49",
-        "url": "https://www.theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale",
-        "summary": "It can deliver up to 170W of total power via its three ports. It can deliver up to 170W of total power via its three ports. Amazon Prime subscribers can jump on a pretty nice deal happening on Ecoflow’s laptop power bank that can deliver up to 140W of power through either of its two USB-C ports.",
+        "title": "What&#8217;s really at stake in the Jensen Huang saga",
+        "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+        "summary": "On The Vergecast: The many spiraling stories in the AI world, the fate of streaming services, Mark Zuckerberg’s meat, and more. On The Vergecast: The many spiraling stories in the AI world, the fate of streaming services, Mark Zuckerberg’s meat, and more. In case you missed it this week: We also talked about private torrent trackers , reviewed the Apple HomeView , took your questions on the Vergecast Hotline, and…",
         "source": "The Verge",
-        "date": "2026-11-12T15:19:58+00:00"
+        "date": "2026-11-13T14:47:16+00:00"
       },
       {
-        "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-        "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. Nvidia’s board announced that Jensen Huang — its longtime co-founder, president, and CEO — has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to…",
+        "title": "Meta discussed attacking Jonathan Haidt — now even his haters are annoyed",
+        "url": "https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta",
+        "summary": "Meta has ticked off academics on all sides of the social media and mental health debate.﻿ Meta has ticked off academics on all sides of the social media and mental health debate.﻿ Three years ago, Meta apparently considered a plan to turn public opinion against one of its most influential opponents, Jonathan Haidt. Meta employees had discussed in 2023 a “Whisper strategy” to “turn academics against Haidt” It’s…",
         "source": "The Verge",
-        "date": "2026-11-12T15:01:31+00:00"
+        "date": "2026-11-13T14:30:00+00:00"
       },
       {
-        "title": "Lego’s BrickLink marketplace has been offline for a week following ‘unusual activity’",
-        "url": "https://www.theverge.com/tech/1031889/lego-bricklink-marketplace-offline-unusual-activity",
-        "summary": "BrickLink was taken offline on November 5th but Lego doesn’t know when it will return. BrickLink was taken offline on November 5th but Lego doesn’t know when it will return. Lego hasn’t explained exactly what happened with the marketplace, but says it “took BrickLink offline after identifying unusual activity on the platform.",
+        "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+        "summary": "Duet is a decent helper, if a little jumpy at times. Claude Duet is even more focused on work than those. Duet uses Claude’s characteristically cheery, minimalist design.",
         "source": "The Verge",
-        "date": "2026-11-12T14:13:58+00:00"
+        "date": "2026-11-13T14:00:00+00:00"
       },
       {
-        "title": "I reviewed the Apple HomeView, ask me anything",
-        "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
-        "summary": "Verge subscribers can get answers to their burning questions about Apple’s first smart display. Verge subscribers can get answers to their burning questions about Apple’s first smart display. I’m Jen Tuohy, The Verge’s senior smart home reviewer.",
+        "title": "Apple should have made the MacBook logo RGB",
+        "url": "https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors",
+        "summary": "The PROLED MacBook Pro’s logo is lit with boring white LEDs. The PROLED MacBook Pro’s logo is lit with boring white LEDs. Maybe if the light-up lid logo ever comes to future MacBook Airs or a MacBook Neo, Apple could cut loose a little.",
         "source": "The Verge",
-        "date": "2026-11-12T14:10:00+00:00"
+        "date": "2026-11-13T13:00:00+00:00"
       },
       {
-        "title": "The pricey new Apple TV 4K is still the best streamer around",
-        "url": "https://www.theverge.com/tech/1031633/apple-tv-4k-4th-gen-review",
-        "summary": "The speakers and the Apple TV 4K need to be a part of the same Apple Home and set up by the same user. The speakers deliver a great surround experience. But the new Apple TV 4K is $300.",
+        "title": "Microsoft&#8217;s massive Outlook outage continues",
+        "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+        "summary": "Microsoft 365 is starting to recover as its outage enters a second day. Microsoft 365 is starting to recover as its outage enters a second day. Update, November 13th: Added the latest information from Microsoft.",
         "source": "The Verge",
-        "date": "2026-11-12T14:00:00+00:00"
+        "date": "2026-11-13T12:48:03+00:00"
       },
       {
-        "title": "I tried Google’s AI glasses and Meta’s finally got real competition",
-        "url": "https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on",
-        "summary": "Smart glasses have never been more unpopular. Meta’s glasses also can’t do this. The glasses are fairly lightweight (for smart glasses) at 41g.",
-        "source": "The Verge",
-        "date": "2026-11-12T14:00:00+00:00"
-      },
-      {
-        "title": "Apple’s HomeView is my new favorite smart display — but not my daughter’s",
-        "url": "https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit",
-        "summary": "Apple’s first smart display is a gorgeous, speedy smart home hub and a great kitchen companion. The HomeView nails everything I want from a smart display. I use and test all three major smart home platforms — Google Home, Amazon Alexa, and Apple Home.",
-        "source": "The Verge",
-        "date": "2026-11-12T14:00:00+00:00"
-      },
-      {
-        "title": "Jensen Huang resigns as Nvidia CEO immediately",
-        "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
-        "summary": "360 points, 195 comments on Hacker News",
+        "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+        "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+        "summary": "254 points, 156 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-11-12T13:56:11+00:00"
+        "date": "2026-11-13T12:10:24+00:00"
       },
       {
-        "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
-        "summary": "After reports of Huang’s two extramarital affairs with an alleged spy and an Nvidia executive, he’s out, and Nvidia CFO Colette Kress is in. After reports of Huang’s two extramarital affairs with an alleged spy and an Nvidia executive, he’s out, and Nvidia CFO Colette Kress is in. Nvidia’s board announced that Jensen Huang — its longtime co-founder, president, and CEO — has resigned after reports of two extramarital…",
+        "title": "Let’s talk about Jensen Huang’s many affairs!",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+        "summary": "President Donald Trump was reportedly warned about Alice “No Relation” Huang’s possible connections to China’s spy apparatus last year, and again before his China trip in May. Nvidia reportedly intervened into a Commerce Department investigation into Alice’s company. Is Jensen’s leather jacket really an alien symbiote ?",
         "source": "The Verge",
-        "date": "2026-11-12T13:53:16+00:00"
+        "date": "2026-11-13T12:00:00+00:00"
       },
       {
-        "title": "NVIDIA Announces CEO Transition",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-        "summary": "Colette Kress, current Executive Vice President and Chief Financial Officer of NVIDIA, has agreed to serve as Interim Chief Executive Officer. About NVIDIA NVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing. © 2026 NVIDIA Corporation. About NVIDIA NVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing. © 2026 NVIDIA Corporation. (995 points, 838 comments on Hacker News)",
+        "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+        "url": "https://status.claude.com/incidents/nn11wk485zfn",
+        "summary": "368 points, 320 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-11-12T13:52:29+00:00"
+        "date": "2026-11-13T10:18:13+00:00"
       },
       {
-        "title": "Anthropic IPO",
-        "url": "https://ipo.anthropic.com/us/",
-        "summary": "Subject to regulatory clearance, the final IPO share price is expected to be set on November 18th (EST), and shares are expected to begin publicly trading on November 19th (EST). The final IPO price is expected to be determined on November 18th (EST), based on regulatory clearance, investor demand and market conditions. Shares bought in the IPO will be purchased at the offering price, which is expected to be set on… (326 points, 355 comments on Hacker News)",
+        "title": "Microsoft Outlook/365 still down after 12 hours",
+        "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+        "summary": "414 points, 288 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-11-12T11:46:41+00:00"
+        "date": "2026-11-13T05:08:23+00:00"
       },
       {
-        "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
-        "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
-        "summary": "The Ring Drone Cam will entirely rely on AI autopilot to fly around your home.﻿ The Ring Drone Cam will entirely rely on AI autopilot to fly around your home.﻿ When (or if) Ring’s security camera drone flies into our homes in January, you won’t get the option to pilot it yourself. The Ring Drone Cam relies entirely on an “AI Pilot” system to follow pre-programmed routes and navigate autonomously around obstacles,…",
+        "title": "IceWM",
+        "url": "https://ice-wm.org/",
+        "summary": "IceWM is a window manager for the X Window System. IceWM is translated into three dozen languages. Report your icewm bugs on Github . (286 points, 143 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-13T04:54:53+00:00"
+      },
+      {
+        "title": "Nvidia employees petition to bring back Jensen Huang",
+        "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+        "summary": "Huang hasn’t commented about these reports since his Sunday email. Nvidia’s board is largely made up of early Nvidia investors and Huang’s longtime confidants. “Nvidia is Nvidia because of Jensen,” the employee tells WIRED. (727 points, 584 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-13T02:16:24+00:00"
+      },
+      {
+        "title": "Donald Trump really wants Tim Cook to run Nvidia",
+        "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+        "summary": "Nvidia is looking for a new CEO, and President Trump says the former Apple CEO would be ‘a great candidate.’ Nvidia is looking for a new CEO, and President Trump says the former Apple CEO would be ‘a great candidate.’ Jensen Huang resigned this morning as Nvidia’s CEO following reports of affairs, including one with an alleged Chinese spy. I think if Tim Cook, who built Apple… If Steve Jobs were around, Apple would…",
         "source": "The Verge",
-        "date": "2026-11-12T11:12:32+00:00"
+        "date": "2026-11-13T00:46:07+00:00"
       }
     ]
   }
