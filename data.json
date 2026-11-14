@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T15:08:14.048328+00:00",
+  "generated_at": "2026-11-14T13:58:15.009024+00:00",
   "sections": {
     "research": [
       {
@@ -89,11 +89,39 @@
     ],
     "labs": [
       {
+        "title": "Advancing science & engineering with Antigravity’s /teamwork",
+        "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+        "summary": "Vahab Mirrokni, Google Fellow and VP, Google Research We share recent results from Antigravity’s /teamwork multiagent systems, which enhance human-AI collaborations to solve open problems across mathematics, chemistry, systems software, and ML engineering. Following our previous posts on Antigravity /teamwork , we provide new results to open challenges empowered by new variants of /teamwork and Gemini 4 models.…",
+        "source": "Google Research",
+        "date": "2026-11-13T20:47:18+00:00"
+      },
+      {
+        "title": "Introducing ChatGPT Wallet",
+        "url": "https://openai.com/index/introducing-chatgpt-wallet",
+        "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+        "source": "OpenAI",
+        "date": "2026-11-13T15:00:00+00:00"
+      },
+      {
+        "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "url": "https://openai.com/business/customer-stories/shield",
+        "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+        "source": "OpenAI",
+        "date": "2026-11-13T08:00:00+00:00"
+      },
+      {
         "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
         "url": "https://openai.com/business/customer-stories/amplitude",
         "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
         "source": "OpenAI",
         "date": "2026-11-12T20:00:00+00:00"
+      },
+      {
+        "title": "Introducing Gemini 4 Hydrogen",
+        "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+        "summary": "Hydrogen brings cutting-edge intelligence to everyone. With Hydrogen, we’re also bringing Gemini 4 to everyone — for all tiers of Google AI Studio , the Gemini API, Gemini for business , the Gemini app , Google Search , and paid Google AI Pro and Ultra subscribers in Google Antigravity . We built Gemini 4 Hydrogen for real-world usability.",
+        "source": "Google DeepMind",
+        "date": "2026-11-12T18:00:50+00:00"
       },
       {
         "title": "Gondola doubles revenue as its team builds more with Codex",
@@ -131,49 +159,77 @@
         "date": "2026-11-11T19:54:00+00:00"
       },
       {
+        "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+        "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+        "summary": "Adam Gayoso, Natasha Latysheva, Pushmeet Kohli and Žiga Avsec Our next-generation DNA sequence model bridges single-cell biology and human genetics, predicting how genetic variants affect hundreds of human cell types. Comparing how AlphaGenome 1 and 2 treat cell types . We trained AlphaGenome 2 on both bulk and single-cell data from human and mouse samples, including over 107 million individual cell profiles.",
+        "source": "Google DeepMind",
+        "date": "2026-11-11T15:00:15+00:00"
+      },
+      {
         "title": "ChatGPT Plus for veterans and servicemembers",
         "url": "https://openai.com/index/chatgpt-plus-for-veterans",
         "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
         "source": "OpenAI",
         "date": "2026-11-11T08:00:00+00:00"
-      },
-      {
-        "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-        "url": "https://openai.com/index/jiostar-vijay-seshadri",
-        "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-        "source": "OpenAI",
-        "date": "2026-11-11T00:00:00+00:00"
-      },
-      {
-        "title": "Helping caregivers use AI in everyday life",
-        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-        "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-        "source": "OpenAI",
-        "date": "2026-11-10T12:00:00+00:00"
-      },
-      {
-        "title": "Introducing Businesses in ChatGPT",
-        "url": "https://openai.com/index/introducing-businesses-chatgpt",
-        "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-        "source": "OpenAI",
-        "date": "2026-11-10T10:00:00+00:00"
-      },
-      {
-        "title": "Closing the AI guidance gap in education",
-        "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-        "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-        "source": "OpenAI",
-        "date": "2026-11-10T09:00:00+00:00"
-      },
-      {
-        "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-        "url": "https://openai.com/index/singapore-airlines-travel-work",
-        "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-        "source": "OpenAI",
-        "date": "2026-11-10T08:00:00+00:00"
       }
     ],
     "startups": [
+      {
+        "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+        "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+        "summary": "Amazon recently unveiled its refreshed Kindle lineup , introducing a new basic Kindle , Paperwhite, and Colorsoft. Amazon first brought color to its Kindle lineup in 2024 with the launch of the original Colorsoft. That said, if you really want a color display, the Colorsoft is definitely worth considering.",
+        "source": "TechCrunch",
+        "date": "2026-11-13T23:00:00+00:00"
+      },
+      {
+        "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+        "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+        "summary": "Jensen Huang, Nvidia’s embattled CEO who co-founded and led the company for 33 years, had officially stepped down . Nvidia was often the largest investor in the deals. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
+        "source": "TechCrunch",
+        "date": "2026-11-13T22:43:00+00:00"
+      },
+      {
+        "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+        "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+        "summary": "The FAA’s website said the cause is an “equipment outage.” The site itself was down for a brief period at the time of publication, with a note that the website was “experiencing technical difficulties.” Per an alert sent by the Air Traffic Control System Command Center , or ATCSCC, the FAA said the ground stop means that aircraft cannot take off from departure gates. A spokesperson for the FAA told TechCrunch that…",
+        "source": "TechCrunch",
+        "date": "2026-11-13T21:44:38+00:00"
+      },
+      {
+        "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+        "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+        "summary": "A new startup wants to harness that energy to power data centers. Drogue , which has kept a low profile until now, is building a system that harvests heat from the ocean to power data centers on board floating vessels. A heat pump uses electricity to move heat from one place to another; Drogue’s system instead uses a difference in temperature to generate electricity.",
+        "source": "TechCrunch",
+        "date": "2026-11-13T20:07:24+00:00"
+      },
+      {
+        "title": "AI agent startup LangChain hits $3B valuation",
+        "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+        "summary": "Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday. That’s more than double its $1.25 billion valuation when it raised $125 million about a year ago , led by IVP. LangChain began in 2022 as a popular open source project…",
+        "source": "TechCrunch",
+        "date": "2026-11-13T19:37:57+00:00"
+      },
+      {
+        "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+        "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+        "summary": "Nvidia CEO Jensen Huang left the company this week after admitting to his affair with Alice Huang, executive of Megaspeed, a company implicated in smuggling Nvidia chips into China. Friday, Bloomberg also reported that a company with links to Alice Huang was involved in smuggling banned Nvidia chips to a data center in Shanghai. If China succeeds, billions of dollars in Chinese demand for Nvidia chips could dry up.",
+        "source": "TechCrunch",
+        "date": "2026-11-13T18:40:30+00:00"
+      },
+      {
+        "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+        "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+        "summary": "On Friday, OpenAI launched a new wallet feature that lets its agents, called dots , help you decide what to buy and then complete the purchase on your behalf. Other personal AI agents, like Instinct, also support making purchases on users’ behalf. To help retailers adapt to agentic commerce, OpenAI also published a Commerce Partner Playbook that offers tools and guidance to sites that want to support customers using…",
+        "source": "TechCrunch",
+        "date": "2026-11-13T16:00:12+00:00"
+      },
+      {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "summary": "Nvidia, Huang and Powell have not confirmed the report. Nvidia said its board had accepted Huang’s resignation on Wednesday. Jensen Huang had been spotted socializing with Megaspeed executive Alice Huang as early as 2024 in Taiwan, where the Nvidia CEO was born.",
+        "source": "TechCrunch",
+        "date": "2026-11-13T15:58:00+00:00"
+      },
       {
         "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
         "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
@@ -189,9 +245,9 @@
         "date": "2026-11-13T14:44:48+00:00"
       },
       {
-        "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+        "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
         "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-        "summary": "Microsoft is slowly recovering from its day-long outage after much of the company’s systems were hit by a cascading software issue. The last major incident affecting Microsoft services was in September , when a days-long outage hit Microsoft’s cloud services. During that outage, Microsoft blamed a “core authentication configuration” issue that prevented users from accessing the service.",
+        "summary": "Microsoft is slowly recovering from its daylong outage after much of the company’s systems were hit by a cascading software issue. “Our teams are reviewing what happened and how we can prevent similar issues going forward.” The last major incident affecting Microsoft services was in September , when a dayslong outage hit Microsoft’s cloud services. During that outage, Microsoft blamed a “core authentication…",
         "source": "TechCrunch",
         "date": "2026-11-13T13:15:20+00:00"
       },
@@ -201,148 +257,92 @@
         "summary": "Former Nvidia CEO Jensen Huang’s resignation has been received with worry in Israel, the company’s “second home,” as Huang described it in 2023. Nvidia also made plans to build a multibillion-dollar campus in northern Israel. “Jensen brought Nvidia to Israel with the acquisition of Mellanox, so there is a strong positive sentiment towards Nvidia and Jensen in Israel’s tech community,” Israeli repeat cybersecurity…",
         "source": "TechCrunch",
         "date": "2026-11-13T12:52:19+00:00"
-      },
-      {
-        "title": "Jensen Huang didn’t show confidence in his successor, report says",
-        "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-        "summary": "Former NVIDIA CEO Jensen Huang described Collette Kress, the company’s CFO who has now replaced him as interim CEO, as “a deer in the headlights” during a presentation earlier in the summer, the Wall Street Journal reported , citing an anonymous source. Huang made the comment during a meeting with Nvidia’s finance team about the company’s plans to provide guarantees worth billions of dollars to data center operators…",
-        "source": "TechCrunch",
-        "date": "2026-11-13T12:28:23+00:00"
-      },
-      {
-        "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-        "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-        "summary": "Democrats on Thursday opened an inquiry into how the Trump administration handled Nvidia’s chip sales to China. Earlier on Thursday, the company ousted its CEO Jensen Huang . The letter also questions how Nvidia’s donations to Trump’s projects factored in.",
-        "source": "TechCrunch",
-        "date": "2026-11-12T22:42:51+00:00"
-      },
-      {
-        "title": "Muse can now place calls to US businesses — if you pay",
-        "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-        "summary": "After initially testing the feature in September, Meta’s consumer AI agent Muse is now able to place calls to U.S. businesses on behalf of its users. However, only paid subscribers have access to the feature, the company says. Currently, Muse subscription plans start at $20 per month for 500 million Muse tokens per week.",
-        "source": "TechCrunch",
-        "date": "2026-11-12T22:22:28+00:00"
-      },
-      {
-        "title": "The unfolding Jensen Huang scandal: a timeline",
-        "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "summary": "Nvidia, Huang, and Powell have not confirmed the report. Huang are not unusual or unexpected. Jensen Huang had been spotted socializing with Megaspeed executive Alice Huang as early as 2024 in Taiwan, where the Nvidia CEO was born.",
-        "source": "TechCrunch",
-        "date": "2026-11-12T21:35:00+00:00"
-      },
-      {
-        "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-        "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-        "summary": "TechCrunch has reached out to Nebius, Microsoft, and DataOne for comment. Nebius ended the quarter with $7.4 billion in cash. Nebius reported third-quarter revenue of $981 million, up 571% from a year earlier.",
-        "source": "TechCrunch",
-        "date": "2026-11-12T21:27:10+00:00"
-      },
-      {
-        "title": "Jensen Huang was having a third affair, Reuters reports",
-        "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-        "summary": "Nvidia founder Jensen Huang was having a separate affair with an employee that has not been previously reported, Reuters reported on Thursday . Huang stepped down as CEO and board member for the company earlier today, in the wake of news of extramarital affairs with accused spy Alice Huang and Nvidia VP of Healthcare Kimberly Powell. Reuters is withholding the name of the new employee linked to Huang but says she is…",
-        "source": "TechCrunch",
-        "date": "2026-11-12T20:26:47+00:00"
-      },
-      {
-        "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-        "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-        "summary": "Google Search is getting better at understanding complicated questions, including those with multiple parts, highly specific requests, or confusing typos. Hydrogen is also better at navigating hard-to-understand typos, Google says. Google says the Hydrogen update is rolling out to all Search users globally.",
-        "source": "TechCrunch",
-        "date": "2026-11-12T19:27:45+00:00"
-      },
-      {
-        "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-        "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-        "summary": "Founded by sisters Misbah and Farah Uraizee, both former Meta employees, Nectar came out of stealth last year and uses AI agents to help brands manage social media, customer conversations, content moderation, creator partnerships, and competitor research. Announced Thursday, its new “Creator Agent” can search for creators, check their content and brand partnerships, send personalized messages, coordinate…",
-        "source": "TechCrunch",
-        "date": "2026-11-12T19:11:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "What&#8217;s really at stake in the Jensen Huang saga",
-        "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-        "summary": "On The Vergecast: The many spiraling stories in the AI world, the fate of streaming services, Mark Zuckerberg’s meat, and more. On The Vergecast: The many spiraling stories in the AI world, the fate of streaming services, Mark Zuckerberg’s meat, and more. In case you missed it this week: We also talked about private torrent trackers , reviewed the Apple HomeView , took your questions on the Vergecast Hotline, and…",
+        "title": "A gadget to make your dumb house smarter",
+        "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+        "summary": "Plus, in this week’s Installer: a Space Race history, an Apple TV heist flick, a Wikipedia podcast, and much more. Welcome to Installer No. Tell me everything: installer@theverge.com .",
         "source": "The Verge",
-        "date": "2026-11-13T14:47:16+00:00"
+        "date": "2026-11-14T13:00:00+00:00"
       },
       {
-        "title": "Meta discussed attacking Jonathan Haidt — now even his haters are annoyed",
-        "url": "https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta",
-        "summary": "Meta has ticked off academics on all sides of the social media and mental health debate.﻿ Meta has ticked off academics on all sides of the social media and mental health debate.﻿ Three years ago, Meta apparently considered a plan to turn public opinion against one of its most influential opponents, Jonathan Haidt. Meta employees had discussed in 2023 a “Whisper strategy” to “turn academics against Haidt” It’s…",
+        "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+        "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+        "summary": "“Jensen is Nvidia, and Nvidia is Jensen,” Jon Peddie, a computer industry analyst who’s been tracking Nvidia since its inception, tells me. But Nvidia isn’t Jensen anymore. “Make no mistake – it was the Jensen Huang company.",
         "source": "The Verge",
-        "date": "2026-11-13T14:30:00+00:00"
+        "date": "2026-11-14T12:00:00+00:00"
       },
       {
-        "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-        "summary": "Duet is a decent helper, if a little jumpy at times. Claude Duet is even more focused on work than those. Duet uses Claude’s characteristically cheery, minimalist design.",
-        "source": "The Verge",
-        "date": "2026-11-13T14:00:00+00:00"
-      },
-      {
-        "title": "Apple should have made the MacBook logo RGB",
-        "url": "https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors",
-        "summary": "The PROLED MacBook Pro’s logo is lit with boring white LEDs. The PROLED MacBook Pro’s logo is lit with boring white LEDs. Maybe if the light-up lid logo ever comes to future MacBook Airs or a MacBook Neo, Apple could cut loose a little.",
-        "source": "The Verge",
-        "date": "2026-11-13T13:00:00+00:00"
-      },
-      {
-        "title": "Microsoft&#8217;s massive Outlook outage continues",
-        "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-        "summary": "Microsoft 365 is starting to recover as its outage enters a second day. Microsoft 365 is starting to recover as its outage enters a second day. Update, November 13th: Added the latest information from Microsoft.",
-        "source": "The Verge",
-        "date": "2026-11-13T12:48:03+00:00"
-      },
-      {
-        "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-        "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-        "summary": "254 points, 156 comments on Hacker News",
+        "title": "Monkey Island: all 13 versions side by side",
+        "url": "https://monkeyisland.pages.dev/",
+        "summary": "The CRT monitors of DOSBox Staging, ported to WebGL2: its presets for Hyllian's CRT shader, and its own VGA shaders where a screen has few pixels. VGA 1080p shaders: Copyright (C) 2020-2024 The DOSBox Staging Team, GNU GPL v2 or later. Venom; GNU GPL v2 or later. (257 points, 82 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-13T12:10:24+00:00"
+        "date": "2026-11-14T04:23:30+00:00"
       },
       {
-        "title": "Let’s talk about Jensen Huang’s many affairs!",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-        "summary": "President Donald Trump was reportedly warned about Alice “No Relation” Huang’s possible connections to China’s spy apparatus last year, and again before his China trip in May. Nvidia reportedly intervened into a Commerce Department investigation into Alice’s company. Is Jensen’s leather jacket really an alien symbiote ?",
+        "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+        "summary": "784 points, 464 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-11-14T02:52:59+00:00"
+      },
+      {
+        "title": "Ggml v1.0.0",
+        "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+        "summary": "Please reload this page . Please reload this page . ggml 1.0.0 prunes the deprecated public API and the legacy DIAG_MASK ops, adds configurable YaRN truncation and FP8 support, and brings broad performance work across backends: few-row quantized matmuls and MoE fusion on CUDA/Metal, a Vulkan prefill FlashAttention path, a device-side MoE scheduler on SYCL, decomposed Adreno FlashAttention in OpenCL, new WebGPU… (320 points, 50 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-14T02:28:29+00:00"
+      },
+      {
+        "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+        "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+        "summary": "A communications problem shut down takeoffs across the US on Friday afternoon before it was lifted more than four hours later. A communications problem shut down takeoffs across the US on Friday afternoon before it was lifted more than four hours later. An earlier report from CBS News cited multiple sources who said that an update to the air traffic control system’s private communications network, operated by…",
         "source": "The Verge",
-        "date": "2026-11-13T12:00:00+00:00"
+        "date": "2026-11-14T01:53:04+00:00"
       },
       {
-        "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-        "url": "https://status.claude.com/incidents/nn11wk485zfn",
-        "summary": "368 points, 320 comments on Hacker News",
+        "title": "FAA lifted National Ground Stop at 0119Z",
+        "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+        "summary": "208 points, 2 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-11-13T10:18:13+00:00"
+        "date": "2026-11-14T01:30:01+00:00"
       },
       {
-        "title": "Microsoft Outlook/365 still down after 12 hours",
-        "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
-        "summary": "414 points, 288 comments on Hacker News",
+        "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+        "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+        "summary": "Ukrainian drone strikes knocked out 36% of Russia’s total oil refining capacity in less than two weeks, hitting at least nine major refineries between Oct. 7, long-range drones struck Saratov Oil Refinery. 9, Ukrainian forces hit Russia's second-largest processing facility — Kirishi Oil Refinery in Leningrad Oblast. (277 points, 175 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-13T05:08:23+00:00"
+        "date": "2026-11-14T01:10:22+00:00"
       },
       {
-        "title": "IceWM",
-        "url": "https://ice-wm.org/",
-        "summary": "IceWM is a window manager for the X Window System. IceWM is translated into three dozen languages. Report your icewm bugs on Github . (286 points, 143 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-11-13T04:54:53+00:00"
-      },
-      {
-        "title": "Nvidia employees petition to bring back Jensen Huang",
-        "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-        "summary": "Huang hasn’t commented about these reports since his Sunday email. Nvidia’s board is largely made up of early Nvidia investors and Huang’s longtime confidants. “Nvidia is Nvidia because of Jensen,” the employee tells WIRED. (727 points, 584 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-11-13T02:16:24+00:00"
-      },
-      {
-        "title": "Donald Trump really wants Tim Cook to run Nvidia",
-        "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
-        "summary": "Nvidia is looking for a new CEO, and President Trump says the former Apple CEO would be ‘a great candidate.’ Nvidia is looking for a new CEO, and President Trump says the former Apple CEO would be ‘a great candidate.’ Jensen Huang resigned this morning as Nvidia’s CEO following reports of affairs, including one with an alleged Chinese spy. I think if Tim Cook, who built Apple… If Steve Jobs were around, Apple would…",
+        "title": "Amazon has a plan to index the world’s online shopping data",
+        "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+        "summary": "Listing the details of everything for sale everywhere is meant to make Amazon more useful than Reddit for people and AI agents.﻿ Listing the details of everything for sale everywhere is meant to make Amazon more useful than Reddit for people and AI agents.﻿ Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn’t sell, and make the information available…",
         "source": "The Verge",
-        "date": "2026-11-13T00:46:07+00:00"
+        "date": "2026-11-13T23:49:11+00:00"
+      },
+      {
+        "title": "Terminal borders that don't cost a cell",
+        "url": "https://www.joshka.net/cell-borders/",
+        "summary": "With cell borders they sit on the pane's top edge. With cell borders they sit on the cell edges between the dots. A cell border is a cell attribute, like a background color. (325 points, 142 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-13T23:06:40+00:00"
+      },
+      {
+        "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+        "url": "https://orcasairband.com/",
+        "summary": "279 points, 65 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-11-13T22:04:24+00:00"
+      },
+      {
+        "title": "FAA issues national ground stop – lifted 4.5 hours later",
+        "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+        "summary": "The FAA lifted the ground stop at 8:15 p.m. At the time of the ground stop, there were over 3,500 airplanes in the air, Duffy said. 11, 2001, terrorist attacks, the FAA ordered an unprecedented nationwide ground stop. (1585 points, 1205 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-13T21:05:53+00:00"
       }
     ]
   }
