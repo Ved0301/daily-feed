@@ -1,93 +1,135 @@
 {
-  "generated_at": "2026-11-16T16:47:10.885426+00:00",
+  "generated_at": "2026-11-17T16:43:38.001193+00:00",
   "sections": {
     "research": [
       {
-        "title": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
-        "url": "https://arxiv.org/abs/2611.18563v1",
-        "summary": "Daniel Grimm, Kyra Jongman, Renato Cordeiro Ferreira et al. — Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain.",
+        "title": "Latent Lattice Language Models",
+        "url": "https://arxiv.org/abs/2611.21608v1",
+        "summary": "Shivam Duggal, Zongze Wu, William T. Freeman et al. — Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers.",
         "source": "arXiv",
-        "date": "2026-11-13T18:59:43Z"
+        "date": "2026-11-16T18:59:38Z"
       },
       {
-        "title": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
-        "url": "https://arxiv.org/abs/2611.18561v1",
-        "summary": "Jonathan D. McCart, Pranav I. Deevi, Mehdi Azabou et al. — Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural activity during…",
+        "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
+        "url": "https://arxiv.org/abs/2611.21605v1",
+        "summary": "Huawei Lin, Jinting Liu, Tongyan Wang et al. — However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning…",
         "source": "arXiv",
-        "date": "2026-11-13T18:59:02Z"
+        "date": "2026-11-16T18:59:04Z"
       },
       {
-        "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
-        "url": "https://arxiv.org/abs/2611.18562v1",
-        "summary": "Jiaming Tang, Zhuoyang Zhang, Junxian Guo et al. — Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 Astra and Claude…",
+        "title": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
+        "url": "https://arxiv.org/abs/2611.21602v1",
+        "summary": "Ilia Azizi, Frederick Iat-Hin Tam, Marc-Olivier Boldi et al. — The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for intensity forecasting…",
         "source": "arXiv",
-        "date": "2026-11-13T18:59:02Z"
+        "date": "2026-11-16T18:58:55Z"
       },
       {
-        "title": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations",
-        "url": "https://arxiv.org/abs/2611.18559v1",
-        "summary": "Genki Kinoshita, Ko Nishino — Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial assumptions, e.g.,…",
+        "title": "How VLMs Plan What's Next",
+        "url": "https://arxiv.org/abs/2611.21600v1",
+        "summary": "Rohit Gandikota, Arnab Sen Sharma, Adam Belfki et al. — When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM uses to decide…",
         "source": "arXiv",
-        "date": "2026-11-13T18:58:54Z"
+        "date": "2026-11-16T18:58:30Z"
       },
       {
-        "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
-        "url": "https://arxiv.org/abs/2611.18553v1",
-        "summary": "Aayush Marasini, Barsat Khadka, Nick Rahimi — Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks…",
+        "title": "Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification for Deep ReLU Networks",
+        "url": "https://arxiv.org/abs/2611.21599v1",
+        "summary": "Brian Yarbrough, Jesse Wayment, Jingbo Wang et al. — We introduce Hyperlyve (Hyperplane Partitioned Lyapunov Verification and Enumeration), a framework for proving the asymptotic stability of nonlinear dynamical systems, including those with neural network controllers.…",
         "source": "arXiv",
-        "date": "2026-11-13T18:58:08Z"
+        "date": "2026-11-16T18:58:29Z"
       },
       {
-        "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2611.18543v1",
-        "summary": "Tony H. Zhang, Connor Mattson, Daniel S. Brown — Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning (MARL) is non-trivial as it is difficult and often impossible for…",
+        "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
+        "url": "https://arxiv.org/abs/2611.21598v1",
+        "summary": "Blas Eugenio Vicco Zarate, Miguel Hernán Vicco — Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evolutionary search…",
         "source": "arXiv",
-        "date": "2026-11-13T18:50:05Z"
+        "date": "2026-11-16T18:58:20Z"
       },
       {
-        "title": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond",
-        "url": "https://arxiv.org/abs/2611.18542v1",
-        "summary": "Cole Becker, Taylan Kargin, Kimia Hassibi et al. — Generative modeling based on stochastic interpolants requires specifying two key choices: an interpolant schedule bridging the initial and target distributions, and an efficient discretization of the resulting…",
+        "title": "Optimal Autoregressive Chain-of-Thought Learning via Bagging",
+        "url": "https://arxiv.org/abs/2611.21597v1",
+        "summary": "Awni Altabaa, John Lafferty, Omar Montasser — We study how to learn an autoregressive next-token generator $f\\colonΣ^\\star\\toΣ$ from a class $\\mathcal{F}$, given chain-of-thought (CoT) demonstrations of length $T$ generated by $f$. We present a simple algorithm…",
         "source": "arXiv",
-        "date": "2026-11-13T18:49:36Z"
+        "date": "2026-11-16T18:58:07Z"
       },
       {
-        "title": "Why Finite Intelligence Works in an Infinite World: A Mathematical Theory",
-        "url": "https://arxiv.org/abs/2611.18538v1",
-        "summary": "Mojtaba Soltanalian — An information system often has to learn before it knows what it will be asked. A finite representation can succeed without recording an infinite environment in full when those asks share collective structure, rather…",
+        "title": "SADL: On the Demand-Supply Geometry of Representation Collapse",
+        "url": "https://arxiv.org/abs/2611.21596v1",
+        "summary": "Junhan Sun, Yigui Feng, Mingzhe Liu et al. — In Joint-Embedding Predictive Architectures (JEPAs), a well-constrained projector output does not by itself prevent representation collapse. We find that, from initialization, the encoder representation is dominated by…",
         "source": "arXiv",
-        "date": "2026-11-13T18:47:24Z"
+        "date": "2026-11-16T18:58:03Z"
       },
       {
-        "title": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
-        "url": "https://arxiv.org/abs/2611.18533v1",
-        "summary": "Zelin He, Siyu Zhu, Jacob Helwig et al. — Agentic reinforcement learning (RL) increasingly relies on a harness, the scaffold around the model that decides what it sees of its own interaction and what guidance it receives. Most existing approaches train under a…",
+        "title": "Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K",
+        "url": "https://arxiv.org/abs/2611.21594v1",
+        "summary": "Aaron Wang, Olivia Gzamouranis, Vaibhav Lohia et al. — Cryogenic circuit design requires compact transistor models that reproduce measured low-temperature behavior and run in standard circuit simulators. We fit BSIM4 parameters to measured I-V curves of SkyWater 130 nm…",
         "source": "arXiv",
-        "date": "2026-11-13T18:45:49Z"
+        "date": "2026-11-16T18:57:06Z"
       },
       {
-        "title": "Alignment by Socialization: Learning Tradeoffs Under Selection",
-        "url": "https://arxiv.org/abs/2611.18531v1",
-        "summary": "Thomas Brennan, Andrew W. Lo, Chaoyi Zhao — Artificial intelligence (AI) agents are expected to complete tasks while following rules of conduct, but these objectives can conflict. We study how evolutionary selection shapes an agent's choices between them, and…",
+        "title": "Beyond Job Titles: Interpreting Early-Career Job Advertisements with Sparse Autoencoders and Semantic Clustering",
+        "url": "https://arxiv.org/abs/2611.21586v1",
+        "summary": "Yisong Cao, Leah Kim, Brian Wright et al. — Job titles and job descriptions alone provide limited insight into how technical roles differ in a changing job market. To assess how such roles differ in their work and industry applications, we design and compare two…",
         "source": "arXiv",
-        "date": "2026-11-13T18:43:24Z"
+        "date": "2026-11-16T18:54:40Z"
       },
       {
-        "title": "Understanding Contextual Bias in Agricultural CNNs Through Hidden-Neuron Concept Induction",
-        "url": "https://arxiv.org/abs/2611.18530v1",
-        "summary": "Abhilekha Dalal, Avishek Das, Samatha Ereshi Akkamahadevi — Convolutional Neural Networks (CNNs) can classify images using background-dominated patches that contain little or none of the target object, showing that they exploit contextual information. Previous studies detected…",
+        "title": "CertiSum: Bitwise-Identical MXFP4 Training Across Platforms and Parallelism Layouts",
+        "url": "https://arxiv.org/abs/2611.21584v1",
+        "summary": "Steve Rhyner, Yubo Gao, Stefan de Lasa et al. — Training with MXFP4, a 4-bit microscaling format, is non-deterministic: identical inputs can produce different results across parallelism layouts and GPU vendors. These differences complicate debugging and training…",
         "source": "arXiv",
-        "date": "2026-11-13T18:43:15Z"
+        "date": "2026-11-16T18:54:07Z"
       },
       {
-        "title": "WaferTetris: Efficient Freeform Mapping on Wafer-Scale Accelerators",
-        "url": "https://arxiv.org/abs/2611.18527v1",
-        "summary": "Dayou Du, Congjie He, Andrew Boutros et al. — Wafer-scale accelerators offer massive compute capacity through hundreds of thousands of processing elements (PEs) interconnected across a single wafer, but realizing this potential requires efficient application…",
+        "title": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises",
+        "url": "https://arxiv.org/abs/2611.21579v1",
+        "summary": "Jaime C. Acosta, Anantaa Kotal, Aritran Piplai — Cyber-range and capture-the-flag scenario construction remains labor-intensive because authors must coordinate infrastructure, vulnerable services, attack paths, artifacts, and success conditions.",
         "source": "arXiv",
-        "date": "2026-11-13T18:41:44Z"
+        "date": "2026-11-16T18:49:56Z"
       }
     ],
     "labs": [
+      {
+        "title": "Strengthening NATO and allied cyber defenses with AI",
+        "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+        "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+        "source": "OpenAI",
+        "date": "2026-11-17T00:00:00+00:00"
+      },
+      {
+        "title": "Introducing OpenAI for Chile",
+        "url": "https://openai.com/index/introducing-openai-for-chile",
+        "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+        "source": "OpenAI",
+        "date": "2026-11-17T00:00:00+00:00"
+      },
+      {
+        "title": "Broadening access to AI for scientists",
+        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+        "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+        "source": "OpenAI",
+        "date": "2026-11-16T17:00:00+00:00"
+      },
+      {
+        "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+        "url": "https://openai.com/index/strengthening-online-child-safety",
+        "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+        "source": "OpenAI",
+        "date": "2026-11-16T17:00:00+00:00"
+      },
+      {
+        "title": "Science at the Frontier: How scientists use ChatGPT",
+        "url": "https://openai.com/index/science-at-the-frontier",
+        "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+        "source": "OpenAI",
+        "date": "2026-11-16T12:00:00+00:00"
+      },
+      {
+        "title": "How Revolut raises ambition without lowering the bar",
+        "url": "https://openai.com/business/customer-stories/revolut",
+        "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+        "source": "OpenAI",
+        "date": "2026-11-16T09:30:00+00:00"
+      },
       {
         "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
         "url": "https://openai.com/index/lvmh-media-division-partnership",
@@ -96,16 +138,23 @@
         "date": "2026-11-16T09:00:00+00:00"
       },
       {
-        "title": "Advancing computer-use agents for healthcare teams",
-        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-        "summary": "",
+        "title": "Our first phase of embedded assessments",
+        "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+        "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
         "source": "OpenAI",
-        "date": "2026-11-16T06:00:00+00:00"
+        "date": "2026-11-16T08:00:00+00:00"
       },
       {
         "title": "More ways to move care forward with ChatGPT for Healthcare",
         "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
         "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+        "source": "OpenAI",
+        "date": "2026-11-16T06:00:00+00:00"
+      },
+      {
+        "title": "Advancing computer-use agents for healthcare teams",
+        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+        "summary": "",
         "source": "OpenAI",
         "date": "2026-11-16T06:00:00+00:00"
       },
@@ -117,232 +166,183 @@
         "date": "2026-11-16T00:00:00+00:00"
       },
       {
-        "title": "A step toward defining the Standard Model on a lattice",
-        "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-        "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+        "title": "At Holiday Extras, dots get to work before anyone asks",
+        "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+        "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
         "source": "OpenAI",
-        "date": "2026-11-15T22:00:01+00:00"
-      },
-      {
-        "title": "Our new blog for science",
-        "url": "https://openai.com/index/our-new-blog-for-science",
-        "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-        "source": "OpenAI",
-        "date": "2026-11-15T22:00:00+00:00"
-      },
-      {
-        "title": "Advancing science & engineering with Antigravity’s /teamwork",
-        "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-        "summary": "Vahab Mirrokni, Google Fellow and VP, Google Research We share recent results from Antigravity’s /teamwork multiagent systems, which enhance human-AI collaborations to solve open problems across mathematics, chemistry, systems software, and ML engineering. Following our previous posts on Antigravity /teamwork , we provide new results to open challenges empowered by new variants of /teamwork and Gemini 4 models.…",
-        "source": "Google Research",
-        "date": "2026-11-13T20:47:18+00:00"
-      },
-      {
-        "title": "Introducing ChatGPT Wallet",
-        "url": "https://openai.com/index/introducing-chatgpt-wallet",
-        "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-        "source": "OpenAI",
-        "date": "2026-11-13T15:00:00+00:00"
-      },
-      {
-        "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-        "url": "https://openai.com/business/customer-stories/shield",
-        "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-        "source": "OpenAI",
-        "date": "2026-11-13T08:00:00+00:00"
-      },
-      {
-        "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-        "url": "https://openai.com/business/customer-stories/amplitude",
-        "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-        "source": "OpenAI",
-        "date": "2026-11-12T20:00:00+00:00"
-      },
-      {
-        "title": "Introducing Gemini 4 Hydrogen",
-        "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-        "summary": "Hydrogen brings cutting-edge intelligence to everyone. With Hydrogen, we’re also bringing Gemini 4 to everyone — for all tiers of Google AI Studio , the Gemini API, Gemini for business , the Gemini app , Google Search , and paid Google AI Pro and Ultra subscribers in Google Antigravity . We built Gemini 4 Hydrogen for real-world usability.",
-        "source": "Google DeepMind",
-        "date": "2026-11-12T18:00:50+00:00"
-      },
-      {
-        "title": "Gondola doubles revenue as its team builds more with Codex",
-        "url": "https://openai.com/business/customer-stories/gondola",
-        "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-        "source": "OpenAI",
-        "date": "2026-11-12T12:00:00+00:00"
+        "date": "2026-11-16T00:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Serena Williams winds down her VC firm, launches new fund, targets $200M",
-        "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
-        "summary": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures. This fund is separate from Serena Ventures, which Williams founded in 2022. Serena Ventures backed more than 100 companies and raised over $100 million in capital.",
+        "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+        "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+        "summary": "Can an AI agent serve as your personal stylist? That’s what e-commerce veteran Julie Bornstein’s fashion startup, Daydream, aims to find out. On Tuesday, the company launched “Daydream Agent,” an AI agent that is described as a personal stylist that can help you plan a look, virtually try on clothes, surface relevant pieces based on your taste, and more.",
         "source": "TechCrunch",
-        "date": "2026-11-16T16:06:30+00:00"
+        "date": "2026-11-17T16:32:55+00:00"
       },
       {
-        "title": "Audible turns to AI to help users discover audiobooks",
-        "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-        "summary": "Amazon-owned audiobook service Audible is turning to AI to help listeners find their next book. The company on Monday launched a new “audio discovery” feature that provides a brief overview of a book’s themes and a summary of what readers liked about it, as well as commentary from an Audible editor or an author, in addition to playing the narrated sample. In Audible’s case, it’s pulling information about what people…",
+        "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
+        "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/",
+        "summary": "Uber Eats customers in a Houston suburb can now have their food delivered by a Zipline drone, the first commercial launch under a partnership announced earlier this year between Uber and the autonomous drone delivery startup. Zipline drones don’t land. Uber’s partnership extends beyond a commercial relationship with Zipline.",
         "source": "TechCrunch",
-        "date": "2026-11-16T15:52:19+00:00"
+        "date": "2026-11-17T15:07:06+00:00"
       },
       {
-        "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-        "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-        "summary": "Under the interim rule , the Commerce Department will require companies to get licenses to export, reexport or transfer AI chips and servers to data centers anywhere in the world if they may provide compute to companies in China or other restricted countries. “This new control is a logical extension of existing controls,” the interim rule reads. Existing data center operators providing services that fall under this…",
+        "title": "Meta launches Direct, a stand-alone messaging app for Instagram",
+        "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
+        "summary": "Meta is testing Direct, a new stand-alone messaging app that houses Instagram’s direct messages. Direct is initially launching in Turkey and Thailand, and can be used with or without an Instagram account. With Direct, Meta is likely looking to retain users who use Instagram primarily, or even exclusively, for messaging.",
         "source": "TechCrunch",
-        "date": "2026-11-16T15:02:34+00:00"
+        "date": "2026-11-17T15:01:46+00:00"
       },
       {
-        "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-        "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-        "summary": "The company is launching the ability for Maps to create trip itineraries and find appointments for users. Additionally, users can use Ask Maps to find beauty, pet care, auto, and home repair appointments online and call local businesses for you. For example, you could ask: “Find me a 4 p.m. nail appointment near me.” Ask Maps will then display open slots across nearby businesses.",
+        "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+        "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+        "summary": "But while most pitches use travel-planning as part of a general-purpose agent pitch, a new startup from a Google Maps alum is betting that a specialized travel-planning agent can beat the competition. Voyage Labs’ flagship product, called Atlas, is meant to work as a personal assistant for your trip-planning, available today in private beta . Ultimately, Voyage is betting that travel is specialized enough to need a…",
         "source": "TechCrunch",
-        "date": "2026-11-16T14:48:13+00:00"
+        "date": "2026-11-17T15:00:00+00:00"
       },
       {
-        "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
-        "url": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
-        "summary": "Success in geothermal energy is guided by two basic goals — drill fast and drill deep. Instead of mud, Mazama injects liquid carbon dioxide down the center of its drill string. “Without such technologies, I am, today, not able to drill these horizontal wells at super hot rock temperatures.” That capital injection will help Mazama drill more wells deeper.",
+        "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
+        "url": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
+        "summary": "Instagram is introducing a new tool to help creators protect their original videos, the Meta-owned company announced Tuesday. The feature, called “content protection,” is already available on Facebook and is designed to detect when creators’ original videos are being used without their permission. Instagram says the content protection tool continuously scans Instagram for unauthorized uses of creators’ protected…",
         "source": "TechCrunch",
-        "date": "2026-11-16T14:00:00+00:00"
+        "date": "2026-11-17T15:00:00+00:00"
       },
       {
-        "title": "After dodging death, battery startup Our Next Energy is now going public",
-        "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
-        "summary": "When Ijaz came back to the helm last year, he said that ONE would leave the automotive market and focus on grid-scale batteries. Soon, Ijaz saw other opportunities for ONE’s batteries, including defense and locomotives. My recent conversation with Ijaz last week was the first time I’d heard a company pitch rail companies as potential customers, though.",
+        "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+        "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+        "summary": "Isomorphic Labs , the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round as it seeks to take its drug candidates to clinical trials. Isomorphic Labs builds an AI drug-design engine that uses a slew of simulation AI models that explore various areas of chemistry to help the company design drugs. Bloomberg reported earlier this month that the…",
         "source": "TechCrunch",
-        "date": "2026-11-16T13:00:00+00:00"
+        "date": "2026-11-17T14:50:58+00:00"
       },
       {
-        "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
-        "url": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
-        "summary": "But one startup, Bedrock Energy , says its AI-directed rigs can slash drilling times by up to 80%, significantly reducing costs. That time savings recently helped Bedrock raise a new $24 million funding round, the startup told TechCrunch. The new round was led by Clean Energy Ventures and Clearvision Ventures with participation from GVP Climate, Susquehanna Sustainable Investments, Catalytic Capital for Climate and…",
+        "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+        "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+        "summary": "Science Corporation , the medical technology start-up founded by former Neuralink president Max Hodak in 2021, raised a $400 million Series D, the company said in a blog post . Hodak announced that the device is now being trialled for patients with another blindness-causing condition, Stargardt’s disease, while onstage at TechCrunch Disrupt. With the funding, the company aims to bring the device to the United States…",
         "source": "TechCrunch",
-        "date": "2026-11-16T13:00:00+00:00"
+        "date": "2026-11-17T14:26:46+00:00"
       },
       {
-        "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-        "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-        "summary": "The startup has also replaced established CRM platforms at several businesses, including Salesforce at healthcare company DMS Health and HubSpot at other customers. The advertising sales team at media streaming company Plex also chose Dreamteam over HubSpot and other AI-native CRM alternatives, Venkatraman told TechCrunch. Dreamteam also plans to expand beyond sales into other parts of the customer lifecycle,…",
+        "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+        "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+        "summary": "Nvidia has formed a committee to oversee national security policies and export control compliance following the abrupt resignation of CEO Jensen Huang over allegations of an affair with a suspected Chinese spy who had links to one of the company’s customers. Nvidia said Tuesday that the new standing committee will give board-level oversight of national security policies, export control compliance, and global trade…",
         "source": "TechCrunch",
-        "date": "2026-11-16T12:30:00+00:00"
+        "date": "2026-11-17T14:05:30+00:00"
       },
       {
-        "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
-        "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
-        "summary": "Zoox robotaxis are officially available through the Uber app in Las Vegas, marking the Amazon-owned autonomous vehicle company’s first partnership with a third-party ride-hailing platform. Rides will be available via the Uber app next year as well. Zoox’s addition to the Uber app comes with some initial limitations.",
+        "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+        "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+        "summary": "As AI-generated slop continues to flood music streaming platforms, Spotify is rolling out an “Artist Profile Protection” tool to all artists, giving them control over the music appearing under their name. Artists can enable the feature through Spotify for Artists to receive alerts when new music is submitted under their name. “Their artist profile should be in their control.",
         "source": "TechCrunch",
-        "date": "2026-11-16T12:00:00+00:00"
+        "date": "2026-11-17T14:00:00+00:00"
       },
       {
-        "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
-        "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
-        "summary": "Despite its size, Plural’s fundraise isn’t (only) for a growth fund: two thirds will go to its third early-stage fund, and one third to a new “opportunities” fund making select follow-on investments, TechCrunch learned from Plural partners Khaled Helioui and Carina Namih. Plural is “still very committed to being an early stage fund,” Namih said. Pictured from left to right: Ian Hogarth, Taavet Hinrikus, Khaled…",
+        "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
+        "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+        "summary": "Genesis AI has “cracked dexterous manipulation,” CEO and co-founder Zhou Xian says. Still, about that robot: Xian said that the company’s model was more capable when operating Eno, the company’s flagship humanoid robot. For truly generalized robotic intelligence, Genesis needs more data.",
         "source": "TechCrunch",
-        "date": "2026-11-16T07:00:00+00:00"
+        "date": "2026-11-17T14:00:00+00:00"
       },
       {
-        "title": "Apple launches new app to study how people use AI for health",
-        "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-        "summary": "Apple is debuting a new study to understand how people use AI for health. Apple said that the app will try to give simplified answers to everyday medical questions. It’s not clear if Apple wants to release AI-powered answering to its Health app or Siri yet.",
+        "title": "Upside Foods can now make a million pounds of chicken a year without killing any animals",
+        "url": "https://techcrunch.com/2026/11/17/upside-foods-can-now-make-one-million-pounds-of-chicken-each-year-without-killing-a-single-animal/",
+        "summary": "So MrBeast, whose real name is Jimmy Donaldson, came to see for himself, taste-testing two chicken sandwiches on camera, one made with meat from a chicken killed that day, and one using Upside Foods chicken. Uma Valeti told TechCrunch. “We use less water, less land, less energy,” Valeti said.",
         "source": "TechCrunch",
-        "date": "2026-11-16T01:30:00+00:00"
+        "date": "2026-11-17T14:00:00+00:00"
       },
       {
-        "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-        "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-        "summary": "Bharat Semi , an Indian semiconductor startup, has raised $24 million in seed funding to develop AI-enabled image sensors, as it seeks to win customers in the United States and elsewhere. Its image sensors, however, remain under development, with the startup targeting its initial commercial production in 2027. The project is separate from Bharat Semi’s image-sensor business, Kapoor added.",
+        "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
+        "url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
+        "summary": "YouTube has a dedicated app for children under 13, YouTube Kids, which offers a wide range of parental controls, but the app can reportedly still serve children a wealth of low-quality AI slop. But a lot of that content is great for kids,” Morgan explains. “It was really important that he had full control,” Morgan said.",
         "source": "TechCrunch",
-        "date": "2026-11-15T23:30:00+00:00"
+        "date": "2026-11-17T14:00:00+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
-        "url": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
-        "summary": "The president also said he doesn’t know if one of the women Huang allegedly had an affair with was a Chinese spy.﻿ The president also said he doesn’t know if one of the women Huang allegedly had an affair with was a Chinese spy.﻿ Following Jensen Huang’s resignation as Nvidia’s CEO last week, Trump told reporters on Monday that he’s open to seeing Huang return and that he’s not certain that the woman Huang…",
+        "title": "Banning phones really does help kids learn, researchers say",
+        "url": "https://www.theverge.com/policy/1035401/school-cell-phone-ban-study-meta-settlement",
+        "summary": "Now researchers want to know about phone use outside of school, and think the Meta settlement could help. Now researchers want to know about phone use outside of school, and think the Meta settlement could help. A new nationwide study found that in-school cellphone bans can lead to modest improvements in learning.",
         "source": "The Verge",
-        "date": "2026-11-16T16:39:36+00:00"
+        "date": "2026-11-17T16:13:18+00:00"
       },
       {
-        "title": "The Verge’s guide to the best gifts under $100",
-        "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
-        "summary": "See our ethics statement. The cordless, adjustable iron makes the perfect gift for your favorite DIYer, especially since it features customizable presets for virtually any job. Oxo’s excellent Cold Brew Coffee Maker provides a way around the cold brew tax, without the hassle.",
+        "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+        "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+        "summary": "‘I would be honored to answer these calls and return as CEO,’ Huang said. ‘I would be honored to answer these calls and return as CEO,’ Huang said. Jensen Huang, who resigned as Nvidia’s CEO last week, would be willing to return as CEO if the company’s board of directors wanted it, he said in a statement reported on by The Wall Street Journal . I love our country, and I love NVIDIA.",
         "source": "The Verge",
-        "date": "2026-11-16T16:00:14+00:00"
+        "date": "2026-11-17T16:09:57+00:00"
       },
       {
-        "title": "Why NJ’s governor thinks Republicans are trapped in an X bubble",
-        "url": "https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai",
-        "summary": "They were great people. They were really great people. I don’t think that will...",
+        "title": "You can now preorder the Flipper One that puts a Linux computer in your pocket",
+        "url": "https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte",
+        "summary": "The Flipper One is launching for $399 and is expected to ship to Kickstarter backers next year.﻿ The Flipper One is launching for $399 and is expected to ship to Kickstarter backers next year.﻿ After first announcing its Flipper One last May , which the company describes as an “open Linux multi-tool built for high-performance computing and IP networking,” Flipper Devices has launched a Kickstarter crowdfunding…",
         "source": "The Verge",
-        "date": "2026-11-16T16:00:00+00:00"
+        "date": "2026-11-17T16:00:00+00:00"
       },
       {
-        "title": "Robert Pattinson is Amazon’s first James Bond",
-        "url": "https://www.theverge.com/tech/1034192/robert-pattinson-james-bond",
-        "summary": "Bond director Denis Villeneuve and Pattinson already worked together in the upcoming Dune: Part Three. Bond director Denis Villeneuve and Pattinson already worked together in the upcoming Dune: Part Three. Robert Pattinson will take on the role of James Bond in Amazon MGM’s first film in the 007 franchise.",
+        "title": "Scoop up three great 4K Blu-ray movies for $33",
+        "url": "https://www.theverge.com/gadgets/1034571/gruv-4k-blu-ray-movies-black-friday-deal-sale",
+        "summary": "Or, peruse its catalog of $13 films that include more recent blockbuster hits, like The Super Mario Galaxy Movie. Or, peruse its catalog of $13 films that include more recent blockbuster hits, like The Super Mario Galaxy Movie. See our ethics statement.",
         "source": "The Verge",
-        "date": "2026-11-16T15:19:34+00:00"
+        "date": "2026-11-17T16:00:00+00:00"
       },
       {
-        "title": "Apple TV is getting video podcasts you can watch for free",
-        "url": "https://www.theverge.com/entertainment/1034168/apple-tv-video-podcasts",
-        "summary": "A new video podcasts section for Apple TV won’t go behind the subscription paywall.﻿ A new video podcasts section for Apple TV won’t go behind the subscription paywall.﻿ Apple’s streaming service will soon have a video podcasts section, the New York Times reports. Besides bringing its video podcasts to more screens, Apple is also planning to add more video podcasts to its regular Podcasts app, according to the Times…",
+        "title": "Kalshi moves into a new kind of gambling: the stock market",
+        "url": "https://www.theverge.com/business/1035366/kalshi-stock-trading",
+        "summary": "The prediction market platform could launch stock-trading within the next two months, according to The Wall Street Journal. The prediction market platform could launch stock-trading within the next two months, according to The Wall Street Journal. The rumored expansion into stock trading comes as Kalshi faces a growing number of legal battles over its prediction market platform across the US.",
         "source": "The Verge",
-        "date": "2026-11-16T14:45:56+00:00"
+        "date": "2026-11-17T15:35:32+00:00"
       },
       {
-        "title": "America’s air traffic control system couldn’t handle a single bad router",
-        "url": "https://www.theverge.com/transportation/1034039/faa-aviation-glitch-meltdown-ground-stop",
-        "summary": "On Friday, November 13, the nation’s air traffic control system began to fail. Air traffic control doesn’t have that luxury. FAA technicians believe the El Dorado router’s repeated connection attempts created enough instability within the FTI to cut off radio and radar feeds to 17 of the FAA’s 22 Air Route Traffic Control Centers and several Terminal Radar Approach Controls .",
+        "title": "The aliens are coming in 3 Body Problem’s first season 2 trailer",
+        "url": "https://www.theverge.com/streaming/1035221/3-body-problem-season-two-trailer-premiere-date-netflix",
+        "summary": "Netflix’s adaptation of Cixin Liu’s sci-fi epic returns on January 14th.﻿ Netflix’s adaptation of Cixin Liu’s sci-fi epic returns on January 14th.﻿ The first season of Netflix’s 3 Body Problem series ended with the remaining members of the Oxford Five disillusioned at the idea of humanity being utterly unprepared to deal with the San-Ti’s arrival on Earth. But in the first trailer for the show’s upcoming second…",
         "source": "The Verge",
-        "date": "2026-11-16T14:43:48+00:00"
+        "date": "2026-11-17T15:04:20+00:00"
       },
       {
-        "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
-        "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
-        "summary": "Audible’s new audio discovery feature will read you an AI overview of your next audiobook.﻿ Audible’s new audio discovery feature will read you an AI overview of your next audiobook.﻿ If you buy something from a link, The Verge may earn a commission. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more information before choosing their next story, in…",
+        "title": "This E Ink photo frame can double as your family’s digital dashboard",
+        "url": "https://www.theverge.com/tech/1035258/trmnl-e-ink-spectra-6-frame-dashboard-display-poster-photos",
+        "summary": "Trmnl’s latest digital dashboard features a large color E Ink screen to display photos and artwork.﻿ Trmnl’s latest digital dashboard features a large color E Ink screen to display photos and artwork.﻿ Trmnl, a company best known for its highly customizable E Ink dashboards that can function as anything from a desktop calendar to a stock tracker, has introduced a new display that’s also well suited for showing…",
         "source": "The Verge",
-        "date": "2026-11-16T14:00:00+00:00"
+        "date": "2026-11-17T14:49:21+00:00"
       },
       {
-        "title": "Google Maps can now create trip itineraries for you",
-        "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-        "summary": "The AI-powered Ask Maps feature can suggest stops for your next trip, while providing real-time details about each location. The AI-powered Ask Maps feature can suggest stops for your next trip, while providing real-time details about each location. As an example, Google says you can use Ask Maps to plan a day trip for holiday shopping, or have it create a schedule for a three-day road trip with stops for coastal…",
+        "title": "Get ready for a nationwide emergency alert test at 2:20PM ET today",
+        "url": "https://www.theverge.com/tech/1035257/fema-fcc-emergency-alert-system-test-2026",
+        "summary": "Heads-up: Radio and TV programming will be briefly interrupted this afternoon. Heads-up: Radio and TV programming will be briefly interrupted this afternoon. FEMA says today’s test includes radio and television broadcasters, cable systems, satellite radio and television providers, and wireline video providers.",
         "source": "The Verge",
-        "date": "2026-11-16T14:00:00+00:00"
+        "date": "2026-11-17T14:28:24+00:00"
       },
       {
-        "title": "What is w2rt6byl5nf1opmc-a.com?",
-        "url": "https://jack.cab/blog/siterate",
-        "summary": "All the backlinks on Majestic are “fresh”, which means in the last 120 days. Majestic has indexed 1,267 pages on this domain and crawled 27. Then I downloaded Majestic Million myself and searched for the domain. (250 points, 107 comments on Hacker News)",
+        "title": "The Fire TV Stick 4K Plus is on sale for less than Amazon’s entry-level streamer",
+        "url": "https://www.theverge.com/gadgets/1034612/amazon-fire-tv-stick-4k-plus-black-friday-2026-deal-sale",
+        "summary": "It may not be Amazon’s latest streaming dongle, but it offers more features for just $29.99. Amazon no longer considers the midrange Fire TV Stick 4K Plus as part of its official lineup following the launch of it latest Fire TV Stick 4K, but that doesn’t mean the streaming device isn’t still good value. The Fire TV Stick 4K Plus still offers a good balance of price and performance.",
+        "source": "The Verge",
+        "date": "2026-11-17T14:25:07+00:00"
+      },
+      {
+        "title": "Windows 11 actually runs better on 8GB of RAM now",
+        "url": "https://www.theverge.com/tech/1035159/windows-11-8gb-ram-updates-performance-improvements-surface-laptop-testing",
+        "summary": "I retested the base Surface Laptop, and Microsoft’s optimizations seem to be working. I retested the base Surface Laptop, and Microsoft’s optimizations seem to be working. Chrome tabs required less frequent refreshes.",
+        "source": "The Verge",
+        "date": "2026-11-17T14:00:00+00:00"
+      },
+      {
+        "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+        "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+        "summary": "704 points, 354 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-11-16T13:51:38+00:00"
+        "date": "2026-11-17T11:45:51+00:00"
       },
       {
-        "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
-        "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
-        "summary": "A blockbuster new investigation from Groundwork Collaborative exposes how Amazon shoppers may be getting hosed during the retail giant’s much-touted Black Friday and Cyber Monday sale events . Groundwork’s analysis examined the prices of more than 350 products included on Amazon’s own deal pages for the Black Friday and Cyber Monday sale events in 2024 and 2025. Shoppers trust that the deals advertised to them… (343 points, 182 comments on Hacker News)",
+        "title": "Optimizely compromised, served malware on Zoom, GitLab",
+        "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+        "summary": "Optimizely Web works by having each customer load a JavaScript \"snippet\" from Optimizely's CDN, for example https://cdn.optimizely.com/js/6395285578973184.js . The file was still served from cdn.optimizely.com , with Optimizely's certificate, from a host that every affected site already trusted. Optimizely's own sites were affected as well: the snippets for www.optimizely.com and login.optimizely.com both carried… (549 points, 219 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-16T13:39:07+00:00"
-      },
-      {
-        "title": "The Nvidia scandal isn’t slowing down",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-        "summary": "Jensen Huang’s absence has left the AI industry in limbo.﻿ Jensen Huang’s absence has left the AI industry in limbo.﻿ For years, Jensen Huang has had an almost unprecedented power to shape AI’s advancement as Nvidia’s CEO, cofounder, and president. As of last Wednesday, however, Huang — a pivotal figure in the industry — is no longer CEO of Nvidia. What does an Nvidia without Huang look like?",
-        "source": "The Verge",
-        "date": "2026-11-16T13:00:00+00:00"
-      },
-      {
-        "title": "Amazon’s Zoox robotaxis are now available via Uber",
-        "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
-        "summary": "Riders in Las Vegas can hail Amazon-owned Zoox’s steering-wheel-free robotaxis through the Uber app — with an MGM Resorts partnership and a 2027 Los Angeles expansion on the way. Unlike Uber’s human drivers, Zoox has some geographic limitations. Uber and Zoox aren’t stopping at Vegas.",
-        "source": "The Verge",
-        "date": "2026-11-16T12:00:00+00:00"
+        "date": "2026-11-16T23:00:34+00:00"
       }
     ]
   }
