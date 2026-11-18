@@ -1,97 +1,125 @@
 {
-  "generated_at": "2026-11-17T16:43:38.001193+00:00",
+  "generated_at": "2026-11-18T16:14:03.672861+00:00",
   "sections": {
     "research": [
       {
-        "title": "Latent Lattice Language Models",
-        "url": "https://arxiv.org/abs/2611.21608v1",
-        "summary": "Shivam Duggal, Zongze Wu, William T. Freeman et al. — Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers.",
+        "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+        "url": "https://arxiv.org/abs/2611.23229v1",
+        "summary": "Giannis Daras, Marios Papachristou, Adam Klivans et al. — Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly…",
         "source": "arXiv",
-        "date": "2026-11-16T18:59:38Z"
+        "date": "2026-11-17T18:59:37Z"
       },
       {
-        "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
-        "url": "https://arxiv.org/abs/2611.21605v1",
-        "summary": "Huawei Lin, Jinting Liu, Tongyan Wang et al. — However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning…",
+        "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+        "url": "https://arxiv.org/abs/2611.23228v1",
+        "summary": "Rui Ning, Om Chabra, Hari Balakrishnan — Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid vision-language…",
         "source": "arXiv",
-        "date": "2026-11-16T18:59:04Z"
+        "date": "2026-11-17T18:59:27Z"
       },
       {
-        "title": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
-        "url": "https://arxiv.org/abs/2611.21602v1",
-        "summary": "Ilia Azizi, Frederick Iat-Hin Tam, Marc-Olivier Boldi et al. — The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for intensity forecasting…",
+        "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+        "url": "https://arxiv.org/abs/2611.23225v1",
+        "summary": "Xingyang Yu — We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795…",
         "source": "arXiv",
-        "date": "2026-11-16T18:58:55Z"
+        "date": "2026-11-17T18:58:40Z"
       },
       {
-        "title": "How VLMs Plan What's Next",
-        "url": "https://arxiv.org/abs/2611.21600v1",
-        "summary": "Rohit Gandikota, Arnab Sen Sharma, Adam Belfki et al. — When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM uses to decide…",
+        "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
+        "url": "https://arxiv.org/abs/2611.23221v1",
+        "summary": "Zhaosong Lu, Yifeng Xiao — In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative requirements.…",
         "source": "arXiv",
-        "date": "2026-11-16T18:58:30Z"
+        "date": "2026-11-17T18:57:16Z"
       },
       {
-        "title": "Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification for Deep ReLU Networks",
-        "url": "https://arxiv.org/abs/2611.21599v1",
-        "summary": "Brian Yarbrough, Jesse Wayment, Jingbo Wang et al. — We introduce Hyperlyve (Hyperplane Partitioned Lyapunov Verification and Enumeration), a framework for proving the asymptotic stability of nonlinear dynamical systems, including those with neural network controllers.…",
+        "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+        "url": "https://arxiv.org/abs/2611.23219v1",
+        "summary": "Shobhita Sundaram, Cansu Sancaktar, Phillip Isola — LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves.",
         "source": "arXiv",
-        "date": "2026-11-16T18:58:29Z"
+        "date": "2026-11-17T18:57:10Z"
       },
       {
-        "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
-        "url": "https://arxiv.org/abs/2611.21598v1",
-        "summary": "Blas Eugenio Vicco Zarate, Miguel Hernán Vicco — Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evolutionary search…",
+        "title": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
+        "url": "https://arxiv.org/abs/2611.23218v1",
+        "summary": "S. M Seefat Alam — Methods that localise social bias in large language models to individual attention heads and remove it by ablation are validated by their effect on a fairness metric, never by evidence that the statistic selecting the…",
         "source": "arXiv",
-        "date": "2026-11-16T18:58:20Z"
+        "date": "2026-11-17T18:57:08Z"
       },
       {
-        "title": "Optimal Autoregressive Chain-of-Thought Learning via Bagging",
-        "url": "https://arxiv.org/abs/2611.21597v1",
-        "summary": "Awni Altabaa, John Lafferty, Omar Montasser — We study how to learn an autoregressive next-token generator $f\\colonΣ^\\star\\toΣ$ from a class $\\mathcal{F}$, given chain-of-thought (CoT) demonstrations of length $T$ generated by $f$. We present a simple algorithm…",
+        "title": "Higher-Scoring Coding Models Did Not Get More Work Done",
+        "url": "https://arxiv.org/abs/2611.23216v1",
+        "summary": "Yining Hua — New coding models advertise themselves on score improvements of coding benchmarks. Yet no study has tested if a model that scores higher on these benchmarks gets more real work done.",
         "source": "arXiv",
-        "date": "2026-11-16T18:58:07Z"
+        "date": "2026-11-17T18:56:42Z"
       },
       {
-        "title": "SADL: On the Demand-Supply Geometry of Representation Collapse",
-        "url": "https://arxiv.org/abs/2611.21596v1",
-        "summary": "Junhan Sun, Yigui Feng, Mingzhe Liu et al. — In Joint-Embedding Predictive Architectures (JEPAs), a well-constrained projector output does not by itself prevent representation collapse. We find that, from initialization, the encoder representation is dominated by…",
+        "title": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
+        "url": "https://arxiv.org/abs/2611.23211v1",
+        "summary": "John Gideon, Anshul Gupta, Megan Applegate-Kenton et al. — Human cognitive state (e.g., distraction, stress), gaze, and behavior interact with the driving environment in subtle ways that AI could use to assist drivers, but ground-truth labels for human cognitive state levels…",
         "source": "arXiv",
-        "date": "2026-11-16T18:58:03Z"
+        "date": "2026-11-17T18:50:22Z"
       },
       {
-        "title": "Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K",
-        "url": "https://arxiv.org/abs/2611.21594v1",
-        "summary": "Aaron Wang, Olivia Gzamouranis, Vaibhav Lohia et al. — Cryogenic circuit design requires compact transistor models that reproduce measured low-temperature behavior and run in standard circuit simulators. We fit BSIM4 parameters to measured I-V curves of SkyWater 130 nm…",
+        "title": "Distortion-Free Semantic Watermarks for Black-Box Generative Models",
+        "url": "https://arxiv.org/abs/2611.23208v1",
+        "summary": "Aviv Yossef, Or Patashnik, Or Zamir — We present a provably distortion-free semantic watermarking algorithm that requires only black-box sampling access to a generative model and black-box access to a semantic embedding. A watermark is called…",
         "source": "arXiv",
-        "date": "2026-11-16T18:57:06Z"
+        "date": "2026-11-17T18:49:17Z"
       },
       {
-        "title": "Beyond Job Titles: Interpreting Early-Career Job Advertisements with Sparse Autoencoders and Semantic Clustering",
-        "url": "https://arxiv.org/abs/2611.21586v1",
-        "summary": "Yisong Cao, Leah Kim, Brian Wright et al. — Job titles and job descriptions alone provide limited insight into how technical roles differ in a changing job market. To assess how such roles differ in their work and industry applications, we design and compare two…",
+        "title": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
+        "url": "https://arxiv.org/abs/2611.23206v1",
+        "summary": "Tongxi Wu, Yuyang Cheng, Jiacheng Xian et al. — Vision-language models (VLMs) can provide harmful assistance by interpreting visual events, even without an explicit request for the underlying harmful objective. We identify this \\textbf{scene-state safety…",
         "source": "arXiv",
-        "date": "2026-11-16T18:54:40Z"
+        "date": "2026-11-17T18:48:02Z"
       },
       {
-        "title": "CertiSum: Bitwise-Identical MXFP4 Training Across Platforms and Parallelism Layouts",
-        "url": "https://arxiv.org/abs/2611.21584v1",
-        "summary": "Steve Rhyner, Yubo Gao, Stefan de Lasa et al. — Training with MXFP4, a 4-bit microscaling format, is non-deterministic: identical inputs can produce different results across parallelism layouts and GPU vendors. These differences complicate debugging and training…",
+        "title": "Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU",
+        "url": "https://arxiv.org/abs/2611.23205v1",
+        "summary": "Mehmet Altan Toksöz — Small language models that run on a laptop are attractive for writing signal-processing code offline, but they make systematic errors on digital signal processing (DSP) conventions. We apply supervised fine-tuning (SFT)…",
         "source": "arXiv",
-        "date": "2026-11-16T18:54:07Z"
+        "date": "2026-11-17T18:47:37Z"
       },
       {
-        "title": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises",
-        "url": "https://arxiv.org/abs/2611.21579v1",
-        "summary": "Jaime C. Acosta, Anantaa Kotal, Aritran Piplai — Cyber-range and capture-the-flag scenario construction remains labor-intensive because authors must coordinate infrastructure, vulnerable services, attack paths, artifacts, and success conditions.",
+        "title": "Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and Accountability Architecture for Cross-Organization Autonomous AI Agents",
+        "url": "https://arxiv.org/abs/2611.23202v1",
+        "summary": "Viet K. Nguyen, Mohammad I. Husain — AI agents increasingly collaborate across organizational boundaries, invoking tools and interacting with agents operated by independent entities. Although existing agent frameworks support planning and coordination,…",
         "source": "arXiv",
-        "date": "2026-11-16T18:49:56Z"
+        "date": "2026-11-17T18:44:25Z"
       }
     ],
     "labs": [
       {
+        "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+        "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+        "source": "OpenAI",
+        "date": "2026-11-18T00:00:00+00:00"
+      },
+      {
+        "title": "Introducing GPT-6.2 Astra and Sol",
+        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+        "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+        "source": "OpenAI",
+        "date": "2026-11-17T17:45:00+00:00"
+      },
+      {
+        "title": "Introducing ChatGPT for Sales",
+        "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+        "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+        "source": "OpenAI",
+        "date": "2026-11-17T08:00:00+00:00"
+      },
+      {
         "title": "Strengthening NATO and allied cyber defenses with AI",
         "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
         "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+        "source": "OpenAI",
+        "date": "2026-11-17T00:00:00+00:00"
+      },
+      {
+        "title": "Astra for Law leads in legal intelligence",
+        "url": "https://openai.com/index/astra-law-6-2",
+        "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
         "source": "OpenAI",
         "date": "2026-11-17T00:00:00+00:00"
       },
@@ -143,206 +171,178 @@
         "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
         "source": "OpenAI",
         "date": "2026-11-16T08:00:00+00:00"
-      },
-      {
-        "title": "More ways to move care forward with ChatGPT for Healthcare",
-        "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-        "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-        "source": "OpenAI",
-        "date": "2026-11-16T06:00:00+00:00"
-      },
-      {
-        "title": "Advancing computer-use agents for healthcare teams",
-        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-        "summary": "",
-        "source": "OpenAI",
-        "date": "2026-11-16T06:00:00+00:00"
-      },
-      {
-        "title": "The King’s Trust and OpenAI launch £1m partnership",
-        "url": "https://openai.com/index/the-kings-trust-and-openai",
-        "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-        "source": "OpenAI",
-        "date": "2026-11-16T00:00:00+00:00"
-      },
-      {
-        "title": "At Holiday Extras, dots get to work before anyone asks",
-        "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
-        "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
-        "source": "OpenAI",
-        "date": "2026-11-16T00:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-        "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-        "summary": "Can an AI agent serve as your personal stylist? That’s what e-commerce veteran Julie Bornstein’s fashion startup, Daydream, aims to find out. On Tuesday, the company launched “Daydream Agent,” an AI agent that is described as a personal stylist that can help you plan a look, virtually try on clothes, surface relevant pieces based on your taste, and more.",
+        "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
+        "url": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
+        "summary": "Record players and other retro tech are making a strong comeback, and I’ve recently rejoined the world of vinyl collecting. The turntable also offers USB connectivity for digitizing your vinyl collection. Sign up for our waitlist FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’ Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang The unfolding…",
         "source": "TechCrunch",
-        "date": "2026-11-17T16:32:55+00:00"
+        "date": "2026-11-18T16:00:00+00:00"
       },
       {
-        "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
-        "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/",
-        "summary": "Uber Eats customers in a Houston suburb can now have their food delivered by a Zipline drone, the first commercial launch under a partnership announced earlier this year between Uber and the autonomous drone delivery startup. Zipline drones don’t land. Uber’s partnership extends beyond a commercial relationship with Zipline.",
+        "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
+        "url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
+        "summary": "Two British hackers are facing lengthy prison sentences for separate hacks as part of their roles in long-running, prolific cybercriminal hacking groups. U.K. authorities confirmed earlier reporting that Kurtaj hacked several companies, including while he was confined to a hotel amid police protection from rival criminal gangs. Both Buchanan and Kurtaj were members of overlapping cybercriminal groups, dubbed…",
         "source": "TechCrunch",
-        "date": "2026-11-17T15:07:06+00:00"
+        "date": "2026-11-18T14:55:13+00:00"
       },
       {
-        "title": "Meta launches Direct, a stand-alone messaging app for Instagram",
-        "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
-        "summary": "Meta is testing Direct, a new stand-alone messaging app that houses Instagram’s direct messages. Direct is initially launching in Turkey and Thailand, and can be used with or without an Instagram account. With Direct, Meta is likely looking to retain users who use Instagram primarily, or even exclusively, for messaging.",
+        "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+        "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+        "summary": "One reason 197,000 people, including Elon Musk, signed a petition over the weekend calling on Nvidia to reinstate the company’s ousted CEO Jensen Huang is that he wasn’t just championing the AI boom. He was using Nvidia’s enormous profits to help finance it. Under Kress, Nvidia clarified in its quarterly CFO commentary that guaranteeing a loan doesn’t mean the company is providing the financing itself.",
         "source": "TechCrunch",
-        "date": "2026-11-17T15:01:46+00:00"
+        "date": "2026-11-18T13:00:00+00:00"
       },
       {
-        "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-        "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-        "summary": "But while most pitches use travel-planning as part of a general-purpose agent pitch, a new startup from a Google Maps alum is betting that a specialized travel-planning agent can beat the competition. Voyage Labs’ flagship product, called Atlas, is meant to work as a personal assistant for your trip-planning, available today in private beta . Ultimately, Voyage is betting that travel is specialized enough to need a…",
+        "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+        "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+        "summary": "Unsiloed is already working with customers in finance, legal services, and healthcare, Mishra told TechCrunch. Mishra told TechCrunch that Unsiloed’s advantage lies in how it processes complex documents. Unsiloed’s pricing, Mishra said, starts at one cent per page.",
         "source": "TechCrunch",
-        "date": "2026-11-17T15:00:00+00:00"
+        "date": "2026-11-18T12:00:00+00:00"
       },
       {
-        "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
-        "url": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
-        "summary": "Instagram is introducing a new tool to help creators protect their original videos, the Meta-owned company announced Tuesday. The feature, called “content protection,” is already available on Facebook and is designed to detect when creators’ original videos are being used without their permission. Instagram says the content protection tool continuously scans Instagram for unauthorized uses of creators’ protected…",
+        "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+        "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+        "summary": "As demand grows for real-world data to train robots, India’s Humyn Labs has raised $47 million in Series A financing to help U.S. Bengaluru-based Humyn Labs aims to compete with them. Humyn Labs says it has 12 paying customers, including frontier AI labs, robotics companies, and developers of world models.",
         "source": "TechCrunch",
-        "date": "2026-11-17T15:00:00+00:00"
+        "date": "2026-11-18T11:30:00+00:00"
       },
       {
-        "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-        "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-        "summary": "Isomorphic Labs , the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round as it seeks to take its drug candidates to clinical trials. Isomorphic Labs builds an AI drug-design engine that uses a slew of simulation AI models that explore various areas of chemistry to help the company design drugs. Bloomberg reported earlier this month that the…",
+        "title": "China dominates battery graphite, but this startup could break the monopoly",
+        "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+        "summary": "The hydrogen atoms pair up into hydrogen gas (H2), which Molten sells at market prices to a customer next door. Carbon built up and clogged the reactor, and Boyd said no company before Molten had been able to produce high-quality graphite this way. But as they experimented with ways to keep the reactor clean, “we actually started making this really high quality graphite,” Boyd said, which “changed the entire…",
         "source": "TechCrunch",
-        "date": "2026-11-17T14:50:58+00:00"
+        "date": "2026-11-18T11:00:00+00:00"
       },
       {
-        "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-        "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-        "summary": "Science Corporation , the medical technology start-up founded by former Neuralink president Max Hodak in 2021, raised a $400 million Series D, the company said in a blog post . Hodak announced that the device is now being trialled for patients with another blindness-causing condition, Stargardt’s disease, while onstage at TechCrunch Disrupt. With the funding, the company aims to bring the device to the United States…",
+        "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+        "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+        "summary": "Nvidia’s equity in private companies continues to grow: it revealed its stakes are now worth $65.5 billion on Tuesday , up from the $22 billion reported in January. Dominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
         "source": "TechCrunch",
-        "date": "2026-11-17T14:26:46+00:00"
+        "date": "2026-11-18T01:44:21+00:00"
       },
       {
-        "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-        "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-        "summary": "Nvidia has formed a committee to oversee national security policies and export control compliance following the abrupt resignation of CEO Jensen Huang over allegations of an affair with a suspected Chinese spy who had links to one of the company’s customers. Nvidia said Tuesday that the new standing committee will give board-level oversight of national security policies, export control compliance, and global trade…",
+        "title": "Nvidia promises that revenue will keep soaring — for now",
+        "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+        "summary": "Despite the turmoil at Nvidia following the departure of its disgraced founder and CEO Jensen Huang , the company — as expected — delivered a solid quarter on Tuesday. On Tuesday, CFO-turned-interim CEO Colette Kress reported revenue of $115.8 billion, up 103% from the year-ago quarter and a beat above the company’s guidance. Nvidia had told Wall Street to expect $108 billion in revenue for its third quarter of…",
         "source": "TechCrunch",
-        "date": "2026-11-17T14:05:30+00:00"
+        "date": "2026-11-18T00:16:50+00:00"
       },
       {
-        "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-        "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-        "summary": "As AI-generated slop continues to flood music streaming platforms, Spotify is rolling out an “Artist Profile Protection” tool to all artists, giving them control over the music appearing under their name. Artists can enable the feature through Spotify for Artists to receive alerts when new music is submitted under their name. “Their artist profile should be in their control.",
+        "title": "Stripe backer Atomico calls for Europe to own its success stories",
+        "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+        "summary": "Europe is home to many of the world’s fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report . Politicians have strong incentives to give the tech sector what it wants. “We must get to the place where Europe and European beneficiaries are the biggest shareholders in the success that we create,” Wehmeier said.",
         "source": "TechCrunch",
-        "date": "2026-11-17T14:00:00+00:00"
+        "date": "2026-11-18T00:01:00+00:00"
       },
       {
-        "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
-        "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
-        "summary": "Genesis AI has “cracked dexterous manipulation,” CEO and co-founder Zhou Xian says. Still, about that robot: Xian said that the company’s model was more capable when operating Eno, the company’s flagship humanoid robot. For truly generalized robotic intelligence, Genesis needs more data.",
+        "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+        "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+        "summary": "Nvidia’s deal to sell H200 chips in China was brokered by Huang and President Donald Trump. Meanwhile, Chinese frontier labs are finding ways to access Nvidia chips elsewhere. All of China’s leading AI models show evidence of having been trained on Nvidia Grace Blackwell chips that are prohibited from being exported to China.",
         "source": "TechCrunch",
-        "date": "2026-11-17T14:00:00+00:00"
+        "date": "2026-11-17T23:37:48+00:00"
       },
       {
-        "title": "Upside Foods can now make a million pounds of chicken a year without killing any animals",
-        "url": "https://techcrunch.com/2026/11/17/upside-foods-can-now-make-one-million-pounds-of-chicken-each-year-without-killing-a-single-animal/",
-        "summary": "So MrBeast, whose real name is Jimmy Donaldson, came to see for himself, taste-testing two chicken sandwiches on camera, one made with meat from a chicken killed that day, and one using Upside Foods chicken. Uma Valeti told TechCrunch. “We use less water, less land, less energy,” Valeti said.",
+        "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+        "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+        "summary": "Nvidia interim CEO Colette Kress reaffirmed the company’s commitment to open source AI during Tuesday’s earnings call with analysts — the first since CEO Jensen Huang’s resignation. Huang had heavily advocated for open source AI technology. His departure had raised questions about the company’s future approach to open source AI models, with Hugging Face’s CEO calling Huang’s departure “a sad day,” and promising to…",
         "source": "TechCrunch",
-        "date": "2026-11-17T14:00:00+00:00"
+        "date": "2026-11-17T23:04:35+00:00"
       },
       {
-        "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
-        "url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
-        "summary": "YouTube has a dedicated app for children under 13, YouTube Kids, which offers a wide range of parental controls, but the app can reportedly still serve children a wealth of low-quality AI slop. But a lot of that content is great for kids,” Morgan explains. “It was really important that he had full control,” Morgan said.",
+        "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+        "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+        "summary": "Despite Nvidia founder and former CEO Jensen Huang’s recent offer to return to the chip company he helped build from the ground up, the company is not looking to take him back. During the company’s earnings call on Tuesday, Nvidia chairman Harvey C. That woman, former Megaspeed executive Alice Huang, has maintained close ties to the former Nvidia CEO for years.",
         "source": "TechCrunch",
-        "date": "2026-11-17T14:00:00+00:00"
+        "date": "2026-11-17T22:42:27+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Banning phones really does help kids learn, researchers say",
-        "url": "https://www.theverge.com/policy/1035401/school-cell-phone-ban-study-meta-settlement",
-        "summary": "Now researchers want to know about phone use outside of school, and think the Meta settlement could help. Now researchers want to know about phone use outside of school, and think the Meta settlement could help. A new nationwide study found that in-school cellphone bans can lead to modest improvements in learning.",
+        "title": "Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood",
+        "url": "https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off",
+        "summary": "The Neo Smart Water Valve works with Shelly’s sensors to stop a leak in about 12 seconds.﻿ The Neo Smart Water Valve works with Shelly’s sensors to stop a leak in about 12 seconds.﻿ After releasing a $28 leak sensor earlier this year that conveniently runs off a battery for two years, Shelly is announcing an accompanying smart valve you can install on your home’s main water line to automatically turn off the flow…",
         "source": "The Verge",
-        "date": "2026-11-17T16:13:18+00:00"
+        "date": "2026-11-18T16:00:00+00:00"
       },
       {
-        "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-        "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-        "summary": "‘I would be honored to answer these calls and return as CEO,’ Huang said. ‘I would be honored to answer these calls and return as CEO,’ Huang said. Jensen Huang, who resigned as Nvidia’s CEO last week, would be willing to return as CEO if the company’s board of directors wanted it, he said in a statement reported on by The Wall Street Journal . I love our country, and I love NVIDIA.",
+        "title": "8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird",
+        "url": "https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird",
+        "summary": "Diehard GameCube fans can connect the controller to their original console, or use it with the Switch. Diehard GameCube fans can connect the controller to their original console, or use it with the Switch. That’s much cheaper than Nintendo’s $69.99 wireless remake of the GameCube controller, although 8BitDo’s version isn’t an exact copy of the original’s shape and ergonomics.",
         "source": "The Verge",
-        "date": "2026-11-17T16:09:57+00:00"
+        "date": "2026-11-18T16:00:00+00:00"
       },
       {
-        "title": "You can now preorder the Flipper One that puts a Linux computer in your pocket",
-        "url": "https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte",
-        "summary": "The Flipper One is launching for $399 and is expected to ship to Kickstarter backers next year.﻿ The Flipper One is launching for $399 and is expected to ship to Kickstarter backers next year.﻿ After first announcing its Flipper One last May , which the company describes as an “open Linux multi-tool built for high-performance computing and IP networking,” Flipper Devices has launched a Kickstarter crowdfunding…",
+        "title": "Remember the frontier AI pause? Chip companies don’t either",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+        "summary": "Nvidia and AMD earnings show booming demand. Nvidia and AMD earnings show booming demand. Nvidia name-dropped Anthropic and OpenAI, too.",
         "source": "The Verge",
-        "date": "2026-11-17T16:00:00+00:00"
+        "date": "2026-11-18T15:44:02+00:00"
       },
       {
-        "title": "Scoop up three great 4K Blu-ray movies for $33",
-        "url": "https://www.theverge.com/gadgets/1034571/gruv-4k-blu-ray-movies-black-friday-deal-sale",
-        "summary": "Or, peruse its catalog of $13 films that include more recent blockbuster hits, like The Super Mario Galaxy Movie. Or, peruse its catalog of $13 films that include more recent blockbuster hits, like The Super Mario Galaxy Movie. See our ethics statement.",
+        "title": "The Verge’s 2026 holiday gift guide for travelers",
+        "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+        "summary": "Give Yourself A Gift With Holiday Travel Deals . Every traveler needs quality noise-canceling for long flights, but flagship headphones are becoming increasingly spendy. Fortunately, Tessan’s pack-friendly power strip offers all the ports, with multiple USB-C, USB-A, and AC inputs to charge everything in one place.",
         "source": "The Verge",
-        "date": "2026-11-17T16:00:00+00:00"
+        "date": "2026-11-18T15:00:00+00:00"
       },
       {
-        "title": "Kalshi moves into a new kind of gambling: the stock market",
-        "url": "https://www.theverge.com/business/1035366/kalshi-stock-trading",
-        "summary": "The prediction market platform could launch stock-trading within the next two months, according to The Wall Street Journal. The prediction market platform could launch stock-trading within the next two months, according to The Wall Street Journal. The rumored expansion into stock trading comes as Kalshi faces a growing number of legal battles over its prediction market platform across the US.",
+        "title": "Instagram’s ‘school safety’ push was also a way to get more teens on the app",
+        "url": "https://www.theverge.com/tech/1036517/instagram-school-safety-program-project-gryffindor",
+        "summary": "Meta’s own internal documents show how ‘Project Gryffindor’ aimed to ‘fuel’ the acquisition of teen users. Meta’s own internal documents show how ‘Project Gryffindor’ aimed to ‘fuel’ the acquisition of teen users. Internal documents revealed as part of a group of child safety lawsuits against Meta reference a “Project Gryffindor” — a school program that would “fuel organic and unattributed acquisition” of users.",
         "source": "The Verge",
-        "date": "2026-11-17T15:35:32+00:00"
+        "date": "2026-11-18T14:59:05+00:00"
       },
       {
-        "title": "The aliens are coming in 3 Body Problem’s first season 2 trailer",
-        "url": "https://www.theverge.com/streaming/1035221/3-body-problem-season-two-trailer-premiere-date-netflix",
-        "summary": "Netflix’s adaptation of Cixin Liu’s sci-fi epic returns on January 14th.﻿ Netflix’s adaptation of Cixin Liu’s sci-fi epic returns on January 14th.﻿ The first season of Netflix’s 3 Body Problem series ended with the remaining members of the Oxford Five disillusioned at the idea of humanity being utterly unprepared to deal with the San-Ti’s arrival on Earth. But in the first trailer for the show’s upcoming second…",
+        "title": "Rivian spinoff Also pauses e-bike deliveries over battery and software bugs",
+        "url": "https://www.theverge.com/transportation/1036460/also-rivian-spinoff-tm-b-ebike-delivery-delay-software-battery-issues",
+        "summary": "Customers are reporting overnight battery drain and charging errors on the high-tech, pedal-by-wire TM-B e-bike. Customers are reporting overnight battery drain and charging errors on the high-tech, pedal-by-wire TM-B e-bike. The largest untapped opportunity isn’t cyclists who already tolerate the current bike experience.",
         "source": "The Verge",
-        "date": "2026-11-17T15:04:20+00:00"
+        "date": "2026-11-18T14:56:43+00:00"
       },
       {
-        "title": "This E Ink photo frame can double as your family’s digital dashboard",
-        "url": "https://www.theverge.com/tech/1035258/trmnl-e-ink-spectra-6-frame-dashboard-display-poster-photos",
-        "summary": "Trmnl’s latest digital dashboard features a large color E Ink screen to display photos and artwork.﻿ Trmnl’s latest digital dashboard features a large color E Ink screen to display photos and artwork.﻿ Trmnl, a company best known for its highly customizable E Ink dashboards that can function as anything from a desktop calendar to a stock tracker, has introduced a new display that’s also well suited for showing…",
+        "title": "How The Verge is picking which Black Friday deals to share",
+        "url": "https://www.theverge.com/gadgets/1034715/how-the-verge-finds-deals",
+        "summary": "Groundwork Collaborative recently published its findings about the unclear manner in which Amazon displays deals. We follow deals closely enough to know when to bite at an offer or let it pass For products hit by recent price hikes, the new deal prices sometimes amount to the original sticker price, or close to it. In my experience, Amazon’s historical pricing data usually aligns with non-Amazon-affiliated companies.",
         "source": "The Verge",
-        "date": "2026-11-17T14:49:21+00:00"
+        "date": "2026-11-18T14:00:00+00:00"
       },
       {
-        "title": "Get ready for a nationwide emergency alert test at 2:20PM ET today",
-        "url": "https://www.theverge.com/tech/1035257/fema-fcc-emergency-alert-system-test-2026",
-        "summary": "Heads-up: Radio and TV programming will be briefly interrupted this afternoon. Heads-up: Radio and TV programming will be briefly interrupted this afternoon. FEMA says today’s test includes radio and television broadcasters, cable systems, satellite radio and television providers, and wireline video providers.",
+        "title": "Will Wright’s next game uses AI to map your memories",
+        "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+        "summary": "MyMems, from the creator of SimCity and The Sims, is a new social simulator powered by AI. MyMems, from the creator of SimCity and The Sims, is a new social simulator powered by AI. With The Sims , Wright says that many people tried making their real families in the game.",
         "source": "The Verge",
-        "date": "2026-11-17T14:28:24+00:00"
+        "date": "2026-11-18T14:00:00+00:00"
       },
       {
-        "title": "The Fire TV Stick 4K Plus is on sale for less than Amazon’s entry-level streamer",
-        "url": "https://www.theverge.com/gadgets/1034612/amazon-fire-tv-stick-4k-plus-black-friday-2026-deal-sale",
-        "summary": "It may not be Amazon’s latest streaming dongle, but it offers more features for just $29.99. Amazon no longer considers the midrange Fire TV Stick 4K Plus as part of its official lineup following the launch of it latest Fire TV Stick 4K, but that doesn’t mean the streaming device isn’t still good value. The Fire TV Stick 4K Plus still offers a good balance of price and performance.",
-        "source": "The Verge",
-        "date": "2026-11-17T14:25:07+00:00"
-      },
-      {
-        "title": "Windows 11 actually runs better on 8GB of RAM now",
-        "url": "https://www.theverge.com/tech/1035159/windows-11-8gb-ram-updates-performance-improvements-surface-laptop-testing",
-        "summary": "I retested the base Surface Laptop, and Microsoft’s optimizations seem to be working. I retested the base Surface Laptop, and Microsoft’s optimizations seem to be working. Chrome tabs required less frequent refreshes.",
-        "source": "The Verge",
-        "date": "2026-11-17T14:00:00+00:00"
-      },
-      {
-        "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-        "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-        "summary": "704 points, 354 comments on Hacker News",
+        "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+        "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+        "summary": "On Tuesday, November 24, 2026, Quad9 will stop answering DNS queries from France. Quad9 case , Quad9 used geoIP blocking for German users while the case continued. Quad9 won in Germany. (283 points, 67 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-17T11:45:51+00:00"
+        "date": "2026-11-18T13:18:02+00:00"
       },
       {
-        "title": "Optimizely compromised, served malware on Zoom, GitLab",
-        "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-        "summary": "Optimizely Web works by having each customer load a JavaScript \"snippet\" from Optimizely's CDN, for example https://cdn.optimizely.com/js/6395285578973184.js . The file was still served from cdn.optimizely.com , with Optimizely's certificate, from a host that every affected site already trusted. Optimizely's own sites were affected as well: the snippets for www.optimizely.com and login.optimizely.com both carried… (549 points, 219 comments on Hacker News)",
+        "title": "Nvidia isn’t selling any more AI chips to China",
+        "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+        "summary": "After former CEO Jensen Huang fought for US approval to sell H200 chips in China, Nvidia is now walking away.﻿ After former CEO Jensen Huang fought for US approval to sell H200 chips in China, Nvidia is now walking away.﻿ Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year . The announcement was made by interim Nvidia CEO…",
+        "source": "The Verge",
+        "date": "2026-11-18T13:01:05+00:00"
+      },
+      {
+        "title": "NASA’s Voyager 1 probe is now 1 light-day away",
+        "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
+        "summary": "It’s taken Voyager 1 almost 50 years to journey farther from Earth than light can travel in 24 hours. It’s taken Voyager 1 almost 50 years to journey farther from Earth than light can travel in 24 hours. That star is 17 light-years away, meaning Voyager 1 won’t pass by it for around 40,000 years, despite traveling at nearly 38,000 mph.",
+        "source": "The Verge",
+        "date": "2026-11-18T12:03:36+00:00"
+      },
+      {
+        "title": "AI is killing All About Berlin",
+        "url": "https://nicolasbouliane.com/blog/death-by-ai",
+        "summary": "This is the traffic to All About Berlin , the website that I run since 2017, and live from since 2020. No websites, just a chat box with ads. I don’t know where All About Berlin fits in that future. (665 points, 609 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-16T23:00:34+00:00"
+        "date": "2026-11-18T06:47:26+00:00"
       }
     ]
   }
