@@ -1,97 +1,153 @@
 {
-  "generated_at": "2026-11-18T16:14:03.672861+00:00",
+  "generated_at": "2026-11-19T16:21:23.433713+00:00",
   "sections": {
     "research": [
       {
-        "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
-        "url": "https://arxiv.org/abs/2611.23229v1",
-        "summary": "Giannis Daras, Marios Papachristou, Adam Klivans et al. — Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly…",
+        "title": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
+        "url": "https://arxiv.org/abs/2611.24936v1",
+        "summary": "Yan Qiu, Yuanyuan Li — Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without training an…",
         "source": "arXiv",
-        "date": "2026-11-17T18:59:37Z"
+        "date": "2026-11-18T18:56:12Z"
       },
       {
-        "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
-        "url": "https://arxiv.org/abs/2611.23228v1",
-        "summary": "Rui Ning, Om Chabra, Hari Balakrishnan — Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid vision-language…",
+        "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+        "url": "https://arxiv.org/abs/2611.24932v1",
+        "summary": "Priyanka Sinha, Sugam Pandey — When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a…",
         "source": "arXiv",
-        "date": "2026-11-17T18:59:27Z"
+        "date": "2026-11-18T18:55:07Z"
       },
       {
-        "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
-        "url": "https://arxiv.org/abs/2611.23225v1",
-        "summary": "Xingyang Yu — We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795…",
+        "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+        "url": "https://arxiv.org/abs/2611.24927v1",
+        "summary": "Sarah H. Cen, Lindsey A. Gailmard, Joohan Kim et al. — AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors…",
         "source": "arXiv",
-        "date": "2026-11-17T18:58:40Z"
+        "date": "2026-11-18T18:53:58Z"
       },
       {
-        "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
-        "url": "https://arxiv.org/abs/2611.23221v1",
-        "summary": "Zhaosong Lu, Yifeng Xiao — In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative requirements.…",
+        "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
+        "url": "https://arxiv.org/abs/2611.24924v1",
+        "summary": "Jiahang Lin, Jiahao Chen, Yiding Wang et al. — Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requirements and…",
         "source": "arXiv",
-        "date": "2026-11-17T18:57:16Z"
+        "date": "2026-11-18T18:52:13Z"
       },
       {
-        "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
-        "url": "https://arxiv.org/abs/2611.23219v1",
-        "summary": "Shobhita Sundaram, Cansu Sancaktar, Phillip Isola — LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves.",
+        "title": "Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation",
+        "url": "https://arxiv.org/abs/2611.24908v1",
+        "summary": "Samet Demir, Zafer Dogan — We study two-layer neural networks trained by stochastic gradient descent (SGD) on a multi-index teacher model, focusing on how first-layer parameters orthogonal to the teacher subspace affect generalization.",
         "source": "arXiv",
-        "date": "2026-11-17T18:57:10Z"
+        "date": "2026-11-18T18:43:40Z"
       },
       {
-        "title": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
-        "url": "https://arxiv.org/abs/2611.23218v1",
-        "summary": "S. M Seefat Alam — Methods that localise social bias in large language models to individual attention heads and remove it by ablation are validated by their effect on a fairness metric, never by evidence that the statistic selecting the…",
+        "title": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators",
+        "url": "https://arxiv.org/abs/2611.24896v1",
+        "summary": "Michael Liaofan Liu, Joe Kileel — We present a general framework for modeling and learning equivariant functions between finite dimensional semisimple real group representations, unifying constructions developed across many application areas.",
         "source": "arXiv",
-        "date": "2026-11-17T18:57:08Z"
+        "date": "2026-11-18T18:37:02Z"
       },
       {
-        "title": "Higher-Scoring Coding Models Did Not Get More Work Done",
-        "url": "https://arxiv.org/abs/2611.23216v1",
-        "summary": "Yining Hua — New coding models advertise themselves on score improvements of coding benchmarks. Yet no study has tested if a model that scores higher on these benchmarks gets more real work done.",
+        "title": "On Evaluating User Simulators for Interactive Agents",
+        "url": "https://arxiv.org/abs/2611.24892v1",
+        "summary": "Hengguang Zhou, I-Hung Hsu, Li Chen et al. — User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored. In particular, it is unclear whether existing user simulator evaluation frameworks reliably…",
         "source": "arXiv",
-        "date": "2026-11-17T18:56:42Z"
+        "date": "2026-11-18T18:34:23Z"
       },
       {
-        "title": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
-        "url": "https://arxiv.org/abs/2611.23211v1",
-        "summary": "John Gideon, Anshul Gupta, Megan Applegate-Kenton et al. — Human cognitive state (e.g., distraction, stress), gaze, and behavior interact with the driving environment in subtle ways that AI could use to assist drivers, but ground-truth labels for human cognitive state levels…",
+        "title": "Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacity",
+        "url": "https://arxiv.org/abs/2611.24891v1",
+        "summary": "Benjamin Novotny, Doug Szeto, Chang Wang et al. — A fixed dispatch rate for LLM inference becomes stale as serving fleets resize and request sizes change. Generative output length is unknown at admission, and shared provider pools can lose capacity.",
         "source": "arXiv",
-        "date": "2026-11-17T18:50:22Z"
+        "date": "2026-11-18T18:34:10Z"
       },
       {
-        "title": "Distortion-Free Semantic Watermarks for Black-Box Generative Models",
-        "url": "https://arxiv.org/abs/2611.23208v1",
-        "summary": "Aviv Yossef, Or Patashnik, Or Zamir — We present a provably distortion-free semantic watermarking algorithm that requires only black-box sampling access to a generative model and black-box access to a semantic embedding. A watermark is called…",
+        "title": "Who are you? The Personal Imitation Game",
+        "url": "https://arxiv.org/abs/2611.24888v1",
+        "summary": "Muhammad Rizky Wellyanto, Hajara-Yasmin Isa, Kexin Xue et al. — Large Language Models (LLMs) now perform strongly on Alan Turing's 1950 Imitation Game, so we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a specific individual in…",
         "source": "arXiv",
-        "date": "2026-11-17T18:49:17Z"
+        "date": "2026-11-18T18:32:14Z"
       },
       {
-        "title": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
-        "url": "https://arxiv.org/abs/2611.23206v1",
-        "summary": "Tongxi Wu, Yuyang Cheng, Jiacheng Xian et al. — Vision-language models (VLMs) can provide harmful assistance by interpreting visual events, even without an explicit request for the underlying harmful objective. We identify this \\textbf{scene-state safety…",
+        "title": "Ground, Iterate, Trace: Decomposing AI Research Ideation",
+        "url": "https://arxiv.org/abs/2611.24887v1",
+        "summary": "Samson Yu, Qiran Zou, Jing Yu Lim et al. — Large language models have been widely used to generate plausible research ideas, yet it remains unclear what makes automated ideation effective and how generated novel proposals arise from prior scientific work.",
         "source": "arXiv",
-        "date": "2026-11-17T18:48:02Z"
+        "date": "2026-11-18T18:31:37Z"
       },
       {
-        "title": "Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU",
-        "url": "https://arxiv.org/abs/2611.23205v1",
-        "summary": "Mehmet Altan Toksöz — Small language models that run on a laptop are attractive for writing signal-processing code offline, but they make systematic errors on digital signal processing (DSP) conventions. We apply supervised fine-tuning (SFT)…",
+        "title": "Monoculture Robust Learning",
+        "url": "https://arxiv.org/abs/2611.24881v1",
+        "summary": "Lee Cohen, Jon Kleinberg, Omer Reingold — We introduce a notion of monoculture robustness in Probably Approximately Correct (PAC) learning, as a way to mitigate the problem of algorithmic monoculture (Kleinberg and Raghavan, 2021): the tendency of models…",
         "source": "arXiv",
-        "date": "2026-11-17T18:47:37Z"
+        "date": "2026-11-18T18:27:52Z"
       },
       {
-        "title": "Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and Accountability Architecture for Cross-Organization Autonomous AI Agents",
-        "url": "https://arxiv.org/abs/2611.23202v1",
-        "summary": "Viet K. Nguyen, Mohammad I. Husain — AI agents increasingly collaborate across organizational boundaries, invoking tools and interacting with agents operated by independent entities. Although existing agent frameworks support planning and coordination,…",
+        "title": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs",
+        "url": "https://arxiv.org/abs/2611.24880v1",
+        "summary": "Yuzhuo Li, Pasan Gunawardena, Yunwei Li — Agentic artificial intelligence (AI) is emerging in power electronics, where it drives the simulation loop that engineers used to close largely by hand. In this loop, a converter design, or a study of the network it…",
         "source": "arXiv",
-        "date": "2026-11-17T18:44:25Z"
+        "date": "2026-11-18T18:27:40Z"
       }
     ],
     "labs": [
       {
+        "title": "Introducing Gemini 4 Neon",
+        "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+        "summary": "SVP, Google DeepMind and Chief AI Architect, Google Today, we’re introducing Gemini 4 Neon — bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows. Neon delivers high performance at a lower cost per task across third-party benchmarks. In the Gemini app, Gemini 4 Neon excels at work that requires frontier-level reasoning…",
+        "source": "Google DeepMind",
+        "date": "2026-11-18T21:35:43+00:00"
+      },
+      {
+        "title": "Genie 4 is now available",
+        "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+        "summary": "Explore a new Project Genie experience for Google AI Ultra subscribers, featuring Genie 4, the Project Genie agent, and a community gallery. This update unlocks first-time access to Genie 4, new upgrades to Genie 3, the Project Genie agent which helps users build their vision, and a community gallery to discover, explore, and remix worlds. Genie 3 and Genie 4 remain world models in the frontier research space.",
+        "source": "Google DeepMind",
+        "date": "2026-11-18T18:13:42+00:00"
+      },
+      {
+        "title": "The Silent Consensus",
+        "url": "https://openai.com/index/the-silent-consensus",
+        "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+        "source": "OpenAI",
+        "date": "2026-11-18T10:00:00+00:00"
+      },
+      {
+        "title": "Research acceleration: The jagged frontier",
+        "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+        "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+        "source": "OpenAI",
+        "date": "2026-11-18T08:00:00+00:00"
+      },
+      {
+        "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+        "url": "https://openai.com/business/customer-stories/sumitomo-life",
+        "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+        "source": "OpenAI",
+        "date": "2026-11-18T08:00:00+00:00"
+      },
+      {
+        "title": "Inside the Codex sandbox",
+        "url": "https://openai.com/index/inside-the-codex-sandbox",
+        "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+        "source": "OpenAI",
+        "date": "2026-11-18T08:00:00+00:00"
+      },
+      {
+        "title": "Managing frontier AI risk: From training to deployment",
+        "url": "https://openai.com/index/managing-frontier-ai-risk",
+        "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+        "source": "OpenAI",
+        "date": "2026-11-18T06:00:00+00:00"
+      },
+      {
         "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
         "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
         "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+        "source": "OpenAI",
+        "date": "2026-11-18T00:00:00+00:00"
+      },
+      {
+        "title": "Advancing chip design with OpenAI models",
+        "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+        "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
         "source": "OpenAI",
         "date": "2026-11-18T00:00:00+00:00"
       },
@@ -115,234 +171,178 @@
         "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
         "source": "OpenAI",
         "date": "2026-11-17T00:00:00+00:00"
-      },
-      {
-        "title": "Astra for Law leads in legal intelligence",
-        "url": "https://openai.com/index/astra-law-6-2",
-        "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-        "source": "OpenAI",
-        "date": "2026-11-17T00:00:00+00:00"
-      },
-      {
-        "title": "Introducing OpenAI for Chile",
-        "url": "https://openai.com/index/introducing-openai-for-chile",
-        "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-        "source": "OpenAI",
-        "date": "2026-11-17T00:00:00+00:00"
-      },
-      {
-        "title": "Broadening access to AI for scientists",
-        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-        "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-        "source": "OpenAI",
-        "date": "2026-11-16T17:00:00+00:00"
-      },
-      {
-        "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-        "url": "https://openai.com/index/strengthening-online-child-safety",
-        "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-        "source": "OpenAI",
-        "date": "2026-11-16T17:00:00+00:00"
-      },
-      {
-        "title": "Science at the Frontier: How scientists use ChatGPT",
-        "url": "https://openai.com/index/science-at-the-frontier",
-        "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-        "source": "OpenAI",
-        "date": "2026-11-16T12:00:00+00:00"
-      },
-      {
-        "title": "How Revolut raises ambition without lowering the bar",
-        "url": "https://openai.com/business/customer-stories/revolut",
-        "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-        "source": "OpenAI",
-        "date": "2026-11-16T09:30:00+00:00"
-      },
-      {
-        "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-        "url": "https://openai.com/index/lvmh-media-division-partnership",
-        "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-        "source": "OpenAI",
-        "date": "2026-11-16T09:00:00+00:00"
-      },
-      {
-        "title": "Our first phase of embedded assessments",
-        "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-        "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-        "source": "OpenAI",
-        "date": "2026-11-16T08:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
-        "url": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
-        "summary": "Record players and other retro tech are making a strong comeback, and I’ve recently rejoined the world of vinyl collecting. The turntable also offers USB connectivity for digitizing your vinyl collection. Sign up for our waitlist FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’ Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang The unfolding…",
+        "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+        "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+        "summary": "“There is much work still to be done, and the most difficult safety work lies ahead of us,” he said. Human intelligence has already made diseases like plague, smallpox, and polio history for most of the world. Too few scientists with too [little] time.",
         "source": "TechCrunch",
-        "date": "2026-11-18T16:00:00+00:00"
+        "date": "2026-11-19T16:19:41+00:00"
       },
       {
-        "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
-        "url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
-        "summary": "Two British hackers are facing lengthy prison sentences for separate hacks as part of their roles in long-running, prolific cybercriminal hacking groups. U.K. authorities confirmed earlier reporting that Kurtaj hacked several companies, including while he was confined to a hotel amid police protection from rival criminal gangs. Both Buchanan and Kurtaj were members of overlapping cybercriminal groups, dubbed…",
+        "title": "U.K government forced to disclose secret Apple backdoor order",
+        "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+        "summary": "The U.K. government has been ordered to confirm that it issued a secret order demanding Apple to provide authorities with encrypted customer information. The U.K.’s secret order was later narrowed to allow access to British nationals’ data stored in Apple’s encrypted cloud, and Apple also challenged this second order. Prior to the ruling, Apple was legally barred from disclosing the order, even after details leaked.",
         "source": "TechCrunch",
-        "date": "2026-11-18T14:55:13+00:00"
+        "date": "2026-11-19T15:32:20+00:00"
       },
       {
-        "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
-        "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-        "summary": "One reason 197,000 people, including Elon Musk, signed a petition over the weekend calling on Nvidia to reinstate the company’s ousted CEO Jensen Huang is that he wasn’t just championing the AI boom. He was using Nvidia’s enormous profits to help finance it. Under Kress, Nvidia clarified in its quarterly CFO commentary that guaranteeing a loan doesn’t mean the company is providing the financing itself.",
+        "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+        "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+        "summary": "Arriving at public markets today, Anthropic’s IPO is poised to raise billions for the company and its investors. Nvidia, AMD, Microsoft, Broadcom, Micron, and TSMC have joined Google in committing $26 billion to Anthropic at its IPO price in a private placement. In total, Google has invested $12.3 billion into Anthropic since 2023, with another promised $30 billion dependent on Anthropic meeting certain performance…",
         "source": "TechCrunch",
-        "date": "2026-11-18T13:00:00+00:00"
+        "date": "2026-11-19T14:54:39+00:00"
       },
       {
-        "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-        "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-        "summary": "Unsiloed is already working with customers in finance, legal services, and healthcare, Mishra told TechCrunch. Mishra told TechCrunch that Unsiloed’s advantage lies in how it processes complex documents. Unsiloed’s pricing, Mishra said, starts at one cent per page.",
+        "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+        "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
+        "summary": "Other options include the Trace Keyfob ($19.95), Trace Slim Wallet Card ($29.95), Trace Keychain ($29.95), Trace Luggage Tag ($39.95), and Trace Wallet ($39.95). We also thought more options should be rechargeable.” The Trace Luggage Tag and Trace Folio are arguably the most interesting products in the collection. Trace is the first collection designed specifically to meet these higher standards.",
         "source": "TechCrunch",
-        "date": "2026-11-18T12:00:00+00:00"
+        "date": "2026-11-19T14:00:00+00:00"
       },
       {
-        "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-        "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-        "summary": "As demand grows for real-world data to train robots, India’s Humyn Labs has raised $47 million in Series A financing to help U.S. Bengaluru-based Humyn Labs aims to compete with them. Humyn Labs says it has 12 paying customers, including frontier AI labs, robotics companies, and developers of world models.",
+        "title": "Superhuman pushes its Go assistant everywhere",
+        "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+        "summary": "Superhuman (formerly Grammarly) is going in the same direction with the rollout of features, including a personalized Go assistant, making agents available in Docs, and third-party agent integrations. Superhuman is revamping its onboarding flow to let users connect their preferred tools and load context about their work upfront. The company is also thinking about adding AI to different products, including Docs and…",
         "source": "TechCrunch",
-        "date": "2026-11-18T11:30:00+00:00"
+        "date": "2026-11-19T14:00:00+00:00"
       },
       {
-        "title": "China dominates battery graphite, but this startup could break the monopoly",
-        "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
-        "summary": "The hydrogen atoms pair up into hydrogen gas (H2), which Molten sells at market prices to a customer next door. Carbon built up and clogged the reactor, and Boyd said no company before Molten had been able to produce high-quality graphite this way. But as they experimented with ways to keep the reactor clean, “we actually started making this really high quality graphite,” Boyd said, which “changed the entire…",
+        "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+        "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+        "summary": "He’s not saying he’s replacing employees with AI, especially software engineers. “Let’s take software engineering. “They build a software factory that builds the product.",
         "source": "TechCrunch",
-        "date": "2026-11-18T11:00:00+00:00"
+        "date": "2026-11-19T00:42:56+00:00"
       },
       {
-        "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-        "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-        "summary": "Nvidia’s equity in private companies continues to grow: it revealed its stakes are now worth $65.5 billion on Tuesday , up from the $22 billion reported in January. Dominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
+        "title": "Elon Musk says: ‘I’m not MAGA’",
+        "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+        "summary": "Musk, notably, spent a gargantuan amount of money (reportedly some $445 million ) to support Republican candidates. Now Musk has an entirely new set of concerns. “The incoming Texas, you know, House Majority Leader, said that I should go to prison,” Musk said.",
         "source": "TechCrunch",
-        "date": "2026-11-18T01:44:21+00:00"
+        "date": "2026-11-19T00:40:49+00:00"
       },
       {
-        "title": "Nvidia promises that revenue will keep soaring — for now",
-        "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-        "summary": "Despite the turmoil at Nvidia following the departure of its disgraced founder and CEO Jensen Huang , the company — as expected — delivered a solid quarter on Tuesday. On Tuesday, CFO-turned-interim CEO Colette Kress reported revenue of $115.8 billion, up 103% from the year-ago quarter and a beat above the company’s guidance. Nvidia had told Wall Street to expect $108 billion in revenue for its third quarter of…",
+        "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+        "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+        "summary": "During his appearance at The New York Times’ DealBook Summit on Wednesday, Microsoft CEO Satya Nadella lamented the fact that a lot of America’s software systems — including those governing everyday hardware and transportation systems — suffer from unfixable software vulnerabilities. The conversation took place against the backdrop of a wave of recent large-scale outages — including one involving Microsoft Outlook.…",
         "source": "TechCrunch",
-        "date": "2026-11-18T00:16:50+00:00"
+        "date": "2026-11-18T23:45:00+00:00"
       },
       {
-        "title": "Stripe backer Atomico calls for Europe to own its success stories",
-        "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
-        "summary": "Europe is home to many of the world’s fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report . Politicians have strong incentives to give the tech sector what it wants. “We must get to the place where Europe and European beneficiaries are the biggest shareholders in the success that we create,” Wehmeier said.",
+        "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+        "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+        "summary": "“Jensen is an old friend of mine,” Musk said. “Who wouldn’t want to hire Jensen?” Musk also signed a petition , alongside over 200,000 other people, urging Nvidia to reinstate its former CEO. “Colette [Kress, interim CEO of Nvidia] worked at Microsoft for a long time.",
         "source": "TechCrunch",
-        "date": "2026-11-18T00:01:00+00:00"
+        "date": "2026-11-18T23:25:17+00:00"
       },
       {
-        "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-        "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-        "summary": "Nvidia’s deal to sell H200 chips in China was brokered by Huang and President Donald Trump. Meanwhile, Chinese frontier labs are finding ways to access Nvidia chips elsewhere. All of China’s leading AI models show evidence of having been trained on Nvidia Grace Blackwell chips that are prohibited from being exported to China.",
+        "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+        "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+        "summary": "Microsoft CEO Satya Nadella weighed in on former Nvidia CEO Jensen Huang’s unexpected departure amid a series of shocking controversies . While the world waits to see what the long-term economic impacts of Huang’s departure might be, Nadella says he still has confidence in Nvidia, which is a close partner of Microsoft. “Colette [Kress, interim CEO at Nvidia] worked at Microsoft for a long time.",
         "source": "TechCrunch",
-        "date": "2026-11-17T23:37:48+00:00"
+        "date": "2026-11-18T23:17:28+00:00"
       },
       {
-        "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-        "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-        "summary": "Nvidia interim CEO Colette Kress reaffirmed the company’s commitment to open source AI during Tuesday’s earnings call with analysts — the first since CEO Jensen Huang’s resignation. Huang had heavily advocated for open source AI technology. His departure had raised questions about the company’s future approach to open source AI models, with Hugging Face’s CEO calling Huang’s departure “a sad day,” and promising to…",
+        "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+        "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+        "summary": "Microsoft CEO Satya Nadella predicts that the rise of AI agents is going to reshape the economics of the internet, impacting the business models of the companies that rely on advertising and what he referred to as “human web” traffic. Speaking at The New York Times DealBook Summit on Wednesday, the tech executive argued that the shift to an agentic web could change which companies pay others for traffic and for…",
         "source": "TechCrunch",
-        "date": "2026-11-17T23:04:35+00:00"
+        "date": "2026-11-18T22:58:11+00:00"
       },
       {
-        "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-        "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-        "summary": "Despite Nvidia founder and former CEO Jensen Huang’s recent offer to return to the chip company he helped build from the ground up, the company is not looking to take him back. During the company’s earnings call on Tuesday, Nvidia chairman Harvey C. That woman, former Megaspeed executive Alice Huang, has maintained close ties to the former Nvidia CEO for years.",
+        "title": "Anthropic prices IPO at $83 a share, above projected range",
+        "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+        "summary": "Although none of Anthropic’s venture capital investors holds more than a 5% stake in the company, the IPO is a massive windfall for its numerous backers . Investors who own approximately 1% of the company reportedly include Sequoia, as well as former Google CEO Eric Schmidt. Yet the investors’ holdings in Anthropic pale in comparison to those of the company’s strategic partners Amazon, which owns nearly 15% of the…",
         "source": "TechCrunch",
-        "date": "2026-11-17T22:42:27+00:00"
+        "date": "2026-11-18T22:11:15+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood",
-        "url": "https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off",
-        "summary": "The Neo Smart Water Valve works with Shelly’s sensors to stop a leak in about 12 seconds.﻿ The Neo Smart Water Valve works with Shelly’s sensors to stop a leak in about 12 seconds.﻿ After releasing a $28 leak sensor earlier this year that conveniently runs off a battery for two years, Shelly is announcing an accompanying smart valve you can install on your home’s main water line to automatically turn off the flow…",
+        "title": "You can grab two months of Paramount Plus for just $2.99 for Black Friday",
+        "url": "https://www.theverge.com/gadgets/1036229/paramount-plus-black-friday-deal-2026-sale",
+        "summary": "Paramount’s streaming service offers an impressive variety of programming, from Star Trek and Tulsa King to NFL football. Paramount’s streaming service offers an impressive variety of programming, from Star Trek and Tulsa King to NFL football. Paramount Plus lets you watch a variety of CBS shows, including all major Star Trek series, along with classic shows like South America South Park , NCIS, and Everybody Loves…",
         "source": "The Verge",
-        "date": "2026-11-18T16:00:00+00:00"
+        "date": "2026-11-19T16:15:01+00:00"
       },
       {
-        "title": "8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird",
-        "url": "https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird",
-        "summary": "Diehard GameCube fans can connect the controller to their original console, or use it with the Switch. Diehard GameCube fans can connect the controller to their original console, or use it with the Switch. That’s much cheaper than Nintendo’s $69.99 wireless remake of the GameCube controller, although 8BitDo’s version isn’t an exact copy of the original’s shape and ergonomics.",
+        "title": "JPMorgan Chase reveals data breach, but says it&#8217;s unrelated to this week&#8217;s banking outage",
+        "url": "https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack",
+        "summary": "The data breach may have impacted customer names and emails, JPMorgan Chase says. The data breach may have impacted customer names and emails, JPMorgan Chase says. JPMorgan Chase says its third-party vendors suffered a cyberattack, exposing marketing data like customer names and email addresses.",
         "source": "The Verge",
-        "date": "2026-11-18T16:00:00+00:00"
+        "date": "2026-11-19T16:14:23+00:00"
       },
       {
-        "title": "Remember the frontier AI pause? Chip companies don’t either",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-        "summary": "Nvidia and AMD earnings show booming demand. Nvidia and AMD earnings show booming demand. Nvidia name-dropped Anthropic and OpenAI, too.",
+        "title": "The Verge’s 2026 fitness and wellness gift guide",
+        "url": "https://www.theverge.com/gadgets/1021241/best-fitness-wellness-gifts-2026",
+        "summary": "Ozlo’s powerful sleep buds provide the gift of detached euphoria. For visual learners, a visible timeline can help keep the pace moving. Inside are the same extensive health and fitness tracking features for charting everything from sleep to heart health, backed by long battery life.",
         "source": "The Verge",
-        "date": "2026-11-18T15:44:02+00:00"
+        "date": "2026-11-19T16:00:00+00:00"
       },
       {
-        "title": "The Verge’s 2026 holiday gift guide for travelers",
-        "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
-        "summary": "Give Yourself A Gift With Holiday Travel Deals . Every traveler needs quality noise-canceling for long flights, but flagship headphones are becoming increasingly spendy. Fortunately, Tessan’s pack-friendly power strip offers all the ports, with multiple USB-C, USB-A, and AC inputs to charge everything in one place.",
+        "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+        "summary": "ChatGPT’s new Live Dictation feature transcribes audio prompts faster, with no more 10-minute limit.﻿ ChatGPT’s new Live Dictation feature transcribes audio prompts faster, with no more 10-minute limit.﻿ ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. Along with faster transcription, OpenAI…",
         "source": "The Verge",
-        "date": "2026-11-18T15:00:00+00:00"
+        "date": "2026-11-19T15:16:45+00:00"
       },
       {
-        "title": "Instagram’s ‘school safety’ push was also a way to get more teens on the app",
-        "url": "https://www.theverge.com/tech/1036517/instagram-school-safety-program-project-gryffindor",
-        "summary": "Meta’s own internal documents show how ‘Project Gryffindor’ aimed to ‘fuel’ the acquisition of teen users. Meta’s own internal documents show how ‘Project Gryffindor’ aimed to ‘fuel’ the acquisition of teen users. Internal documents revealed as part of a group of child safety lawsuits against Meta reference a “Project Gryffindor” — a school program that would “fuel organic and unattributed acquisition” of users.",
+        "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
+        "url": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election",
+        "summary": "People are still out of work. We acknowledged that people were still struggling and people were still in pain. Tell people what to look out for.",
         "source": "The Verge",
-        "date": "2026-11-18T14:59:05+00:00"
+        "date": "2026-11-19T15:00:00+00:00"
       },
       {
-        "title": "Rivian spinoff Also pauses e-bike deliveries over battery and software bugs",
-        "url": "https://www.theverge.com/transportation/1036460/also-rivian-spinoff-tm-b-ebike-delivery-delay-software-battery-issues",
-        "summary": "Customers are reporting overnight battery drain and charging errors on the high-tech, pedal-by-wire TM-B e-bike. Customers are reporting overnight battery drain and charging errors on the high-tech, pedal-by-wire TM-B e-bike. The largest untapped opportunity isn’t cyclists who already tolerate the current bike experience.",
+        "title": "The Analogue 3D can now update itself over Wi-Fi",
+        "url": "https://www.theverge.com/tech/1037552/analogue-3d-nintendo-64-console-wi-fi-activated-automatic-updates",
+        "summary": "The console’s latest update finally activates its dormant Wi-Fi hardware, enabling a handful of new features. The console’s latest update finally activates its dormant Wi-Fi hardware, enabling a handful of new features. Analogue on Wednesday released the version 1.6.0 firmware for the Analogue 3D , adding support for 2.4GHz, 5GHz, mixed, and hidden Wi-Fi networks.",
         "source": "The Verge",
-        "date": "2026-11-18T14:56:43+00:00"
+        "date": "2026-11-19T14:32:33+00:00"
       },
       {
-        "title": "How The Verge is picking which Black Friday deals to share",
-        "url": "https://www.theverge.com/gadgets/1034715/how-the-verge-finds-deals",
-        "summary": "Groundwork Collaborative recently published its findings about the unclear manner in which Amazon displays deals. We follow deals closely enough to know when to bite at an offer or let it pass For products hit by recent price hikes, the new deal prices sometimes amount to the original sticker price, or close to it. In my experience, Amazon’s historical pricing data usually aligns with non-Amazon-affiliated companies.",
+        "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+        "summary": "The LTBT technically chooses four members of Anthropic’s seven-person board, for instance, but one of those four effectively needs to be approved by Anthropic’s founders, leaving the trust short of straightforward majority control. Anthropic did not respond to a request for comment. This explanation hasn’t satisfied everyone, including some Anthropic employees.",
         "source": "The Verge",
-        "date": "2026-11-18T14:00:00+00:00"
+        "date": "2026-11-19T14:25:37+00:00"
       },
       {
-        "title": "Will Wright’s next game uses AI to map your memories",
-        "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-        "summary": "MyMems, from the creator of SimCity and The Sims, is a new social simulator powered by AI. MyMems, from the creator of SimCity and The Sims, is a new social simulator powered by AI. With The Sims , Wright says that many people tried making their real families in the game.",
+        "title": "The wait begins for GTA VI on PC",
+        "url": "https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
+        "summary": "Given how good the game is on console, the wait will almost certainly be worth it. Given how good the game is on console, the wait will almost certainly be worth it. Ideally, the PC version will launch alongside an improved version of GTA Online (whether it’s free to play is anyone’s guess), and maybe with upgraded GTA roleplay tech to support it.",
         "source": "The Verge",
-        "date": "2026-11-18T14:00:00+00:00"
+        "date": "2026-11-19T14:00:00+00:00"
       },
       {
-        "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
-        "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
-        "summary": "On Tuesday, November 24, 2026, Quad9 will stop answering DNS queries from France. Quad9 case , Quad9 used geoIP blocking for German users while the case continued. Quad9 won in Germany. (283 points, 67 comments on Hacker News)",
+        "title": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+        "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+        "summary": "It will be the first dedicated heavy-lift launch for Google’s Project Suncatcher. It will be the first dedicated heavy-lift launch for Google’s Project Suncatcher. Google is teaming up with Jeff Bezos’ Blue Origin to launch its AI server satellites.",
+        "source": "The Verge",
+        "date": "2026-11-19T13:53:38+00:00"
+      },
+      {
+        "title": "Grand Theft Auto VI understands just how important a smartphone is",
+        "url": "https://www.theverge.com/entertainment/1037106/grand-theft-auto-6-smartphone",
+        "summary": "Text messages, social networking, selfies — the device is integrated into every aspect of your virtual life. Text messages, social networking, selfies — the device is integrated into every aspect of your virtual life. But the phone in GTA VI is different for a few reasons.",
+        "source": "The Verge",
+        "date": "2026-11-19T13:30:00+00:00"
+      },
+      {
+        "title": "How the European Commission rolled out Matrix to more than 40k staff",
+        "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+        "summary": "The European Commission went from a Matrix proof of concept in December 2025 to a sovereign communication tool rolled out to every Commission laptop by September 2026. The service doesn't run in a Commission-owned data centre. Connecting to Matrix servers outside the Commission is still under assessment. (466 points, 235 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-18T13:18:02+00:00"
+        "date": "2026-11-19T10:58:29+00:00"
       },
       {
-        "title": "Nvidia isn’t selling any more AI chips to China",
-        "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-        "summary": "After former CEO Jensen Huang fought for US approval to sell H200 chips in China, Nvidia is now walking away.﻿ After former CEO Jensen Huang fought for US approval to sell H200 chips in China, Nvidia is now walking away.﻿ Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year . The announcement was made by interim Nvidia CEO…",
-        "source": "The Verge",
-        "date": "2026-11-18T13:01:05+00:00"
-      },
-      {
-        "title": "NASA’s Voyager 1 probe is now 1 light-day away",
-        "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
-        "summary": "It’s taken Voyager 1 almost 50 years to journey farther from Earth than light can travel in 24 hours. It’s taken Voyager 1 almost 50 years to journey farther from Earth than light can travel in 24 hours. That star is 17 light-years away, meaning Voyager 1 won’t pass by it for around 40,000 years, despite traveling at nearly 38,000 mph.",
-        "source": "The Verge",
-        "date": "2026-11-18T12:03:36+00:00"
-      },
-      {
-        "title": "AI is killing All About Berlin",
-        "url": "https://nicolasbouliane.com/blog/death-by-ai",
-        "summary": "This is the traffic to All About Berlin , the website that I run since 2017, and live from since 2020. No websites, just a chat box with ads. I don’t know where All About Berlin fits in that future. (665 points, 609 comments on Hacker News)",
+        "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+        "url": "https://kapteko.com/15-million-webservers/",
+        "summary": "DPDK lets your program communicate directly with the hardware network card using Ethernet frames, bypassing the entire kernel network stack. DPDK lets your program communicate directly with the hardware network card using Ethernet frames, bypassing the entire kernel network stack. DPDK lets your program communicate directly with the hardware network card using Ethernet frames, bypassing the entire kernel network… (283 points, 32 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-18T06:47:26+00:00"
+        "date": "2026-11-19T05:56:36+00:00"
       }
     ]
   }
