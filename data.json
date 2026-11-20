@@ -1,93 +1,135 @@
 {
-  "generated_at": "2026-11-19T16:21:23.433713+00:00",
+  "generated_at": "2026-11-20T15:56:18.111374+00:00",
   "sections": {
     "research": [
       {
-        "title": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
-        "url": "https://arxiv.org/abs/2611.24936v1",
-        "summary": "Yan Qiu, Yuanyuan Li — Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without training an…",
+        "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+        "url": "https://arxiv.org/abs/2611.26627v1",
+        "summary": "Tuna Han Salih Meral, Kaan Oktay, Alec Helbling et al. — Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or…",
         "source": "arXiv",
-        "date": "2026-11-18T18:56:12Z"
+        "date": "2026-11-19T18:59:53Z"
       },
       {
-        "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
-        "url": "https://arxiv.org/abs/2611.24932v1",
-        "summary": "Priyanka Sinha, Sugam Pandey — When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a…",
+        "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+        "url": "https://arxiv.org/abs/2611.26624v1",
+        "summary": "Weihao Cheng — Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning.",
         "source": "arXiv",
-        "date": "2026-11-18T18:55:07Z"
+        "date": "2026-11-19T18:59:34Z"
       },
       {
-        "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
-        "url": "https://arxiv.org/abs/2611.24927v1",
-        "summary": "Sarah H. Cen, Lindsey A. Gailmard, Joohan Kim et al. — AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors…",
+        "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+        "url": "https://arxiv.org/abs/2611.26619v1",
+        "summary": "Jinbin Luo, Xiaozhe Yao, Shang Yang et al. — Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and concurrency.",
         "source": "arXiv",
-        "date": "2026-11-18T18:53:58Z"
+        "date": "2026-11-19T18:58:31Z"
       },
       {
-        "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
-        "url": "https://arxiv.org/abs/2611.24924v1",
-        "summary": "Jiahang Lin, Jiahao Chen, Yiding Wang et al. — Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requirements and…",
+        "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
+        "url": "https://arxiv.org/abs/2611.26617v1",
+        "summary": "Yuxin Jiang, Wenqiang Sun, Jiaqi Li et al. — Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics largely from…",
         "source": "arXiv",
-        "date": "2026-11-18T18:52:13Z"
+        "date": "2026-11-19T18:58:14Z"
       },
       {
-        "title": "Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation",
-        "url": "https://arxiv.org/abs/2611.24908v1",
-        "summary": "Samet Demir, Zafer Dogan — We study two-layer neural networks trained by stochastic gradient descent (SGD) on a multi-index teacher model, focusing on how first-layer parameters orthogonal to the teacher subspace affect generalization.",
+        "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
+        "url": "https://arxiv.org/abs/2611.26613v1",
+        "summary": "Yiyang Du, Yuxuan Kuang, Qitao Zhao et al. — Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, existing benchmarks…",
         "source": "arXiv",
-        "date": "2026-11-18T18:43:40Z"
+        "date": "2026-11-19T18:57:25Z"
       },
       {
-        "title": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators",
-        "url": "https://arxiv.org/abs/2611.24896v1",
-        "summary": "Michael Liaofan Liu, Joe Kileel — We present a general framework for modeling and learning equivariant functions between finite dimensional semisimple real group representations, unifying constructions developed across many application areas.",
+        "title": "Bio-PM-Guided Synthetic IMU Generation",
+        "url": "https://arxiv.org/abs/2611.26607v1",
+        "summary": "Deepali Singh, Deepesh Parpani, Aviral Gupta — Collecting and labeling inertial measurement unit (IMU) data for human activity recognition (HAR) is expensive, and models trained on one group of subjects often fail to generalize to unseen individuals.",
         "source": "arXiv",
-        "date": "2026-11-18T18:37:02Z"
+        "date": "2026-11-19T18:56:25Z"
       },
       {
-        "title": "On Evaluating User Simulators for Interactive Agents",
-        "url": "https://arxiv.org/abs/2611.24892v1",
-        "summary": "Hengguang Zhou, I-Hung Hsu, Li Chen et al. — User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored. In particular, it is unclear whether existing user simulator evaluation frameworks reliably…",
+        "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+        "url": "https://arxiv.org/abs/2611.26603v1",
+        "summary": "Peiyun Hu, Marko Mihajlovic, Lyndon Duong et al. — We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal…",
         "source": "arXiv",
-        "date": "2026-11-18T18:34:23Z"
+        "date": "2026-11-19T18:55:41Z"
       },
       {
-        "title": "Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacity",
-        "url": "https://arxiv.org/abs/2611.24891v1",
-        "summary": "Benjamin Novotny, Doug Szeto, Chang Wang et al. — A fixed dispatch rate for LLM inference becomes stale as serving fleets resize and request sizes change. Generative output length is unknown at admission, and shared provider pools can lose capacity.",
+        "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
+        "url": "https://arxiv.org/abs/2611.26601v1",
+        "summary": "Amine Lbath, Manan Suri, Aurelien Delaitre et al. — LLM-based agents are becoming increasingly capable at discovering, validating and patching vulnerabilities in real software, and vendors and researchers report that this is already changing how vulnerabilities are found…",
         "source": "arXiv",
-        "date": "2026-11-18T18:34:10Z"
+        "date": "2026-11-19T18:54:19Z"
       },
       {
-        "title": "Who are you? The Personal Imitation Game",
-        "url": "https://arxiv.org/abs/2611.24888v1",
-        "summary": "Muhammad Rizky Wellyanto, Hajara-Yasmin Isa, Kexin Xue et al. — Large Language Models (LLMs) now perform strongly on Alan Turing's 1950 Imitation Game, so we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a specific individual in…",
+        "title": "Active Feature Acquisition by Distilling an Oracle Teacher",
+        "url": "https://arxiv.org/abs/2611.26598v1",
+        "summary": "Yang Meng, Zixin Ding, Robert L. Grossman et al. — Acquiring every feature of an instance is often costly: a measurement can carry a monetary price, a time delay, or a privacy cost. Active Feature Acquisition (AFA) addresses this by learning a policy that decides, per…",
         "source": "arXiv",
-        "date": "2026-11-18T18:32:14Z"
+        "date": "2026-11-19T18:52:57Z"
       },
       {
-        "title": "Ground, Iterate, Trace: Decomposing AI Research Ideation",
-        "url": "https://arxiv.org/abs/2611.24887v1",
-        "summary": "Samson Yu, Qiran Zou, Jing Yu Lim et al. — Large language models have been widely used to generate plausible research ideas, yet it remains unclear what makes automated ideation effective and how generated novel proposals arise from prior scientific work.",
+        "title": "PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation",
+        "url": "https://arxiv.org/abs/2611.26596v1",
+        "summary": "Kai Lu, Chenyang Ma, Ioannis Havoutis — Robotic vision-language-action (VLA) models can execute diverse individual manipulation skills, yet they still struggle with long-horizon loco-manipulation tasks, where temporal structure, skills, and precision are…",
         "source": "arXiv",
-        "date": "2026-11-18T18:31:37Z"
+        "date": "2026-11-19T18:52:18Z"
       },
       {
-        "title": "Monoculture Robust Learning",
-        "url": "https://arxiv.org/abs/2611.24881v1",
-        "summary": "Lee Cohen, Jon Kleinberg, Omer Reingold — We introduce a notion of monoculture robustness in Probably Approximately Correct (PAC) learning, as a way to mitigate the problem of algorithmic monoculture (Kleinberg and Raghavan, 2021): the tendency of models…",
+        "title": "Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning",
+        "url": "https://arxiv.org/abs/2611.26592v1",
+        "summary": "Terence D. Agbeyegbe, Toneukarin G. Agbeyegbe — Self-consistency certification treats repeated sampling from a language model as sequential evidence accumulation and stops when an anytime-valid e-process crosses a threshold, guaranteeing finite-sample Type I error…",
         "source": "arXiv",
-        "date": "2026-11-18T18:27:52Z"
+        "date": "2026-11-19T18:47:51Z"
       },
       {
-        "title": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs",
-        "url": "https://arxiv.org/abs/2611.24880v1",
-        "summary": "Yuzhuo Li, Pasan Gunawardena, Yunwei Li — Agentic artificial intelligence (AI) is emerging in power electronics, where it drives the simulation loop that engineers used to close largely by hand. In this loop, a converter design, or a study of the network it…",
+        "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+        "url": "https://arxiv.org/abs/2611.26590v1",
+        "summary": "Jiahao Huang, Jun Wang — Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel…",
         "source": "arXiv",
-        "date": "2026-11-18T18:27:40Z"
+        "date": "2026-11-19T18:46:50Z"
       }
     ],
     "labs": [
+      {
+        "title": "A game you cannot win unless you have a quantum computer",
+        "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+        "summary": "The reason is a property called quantum contextuality , arguably the strangest feature of quantum mechanics. In \" Quantum-classical separation in bounded-resource tasks arising from measurement contextuality ,\" published in Science , we demonstrate and measure contextuality on our superconducting quantum processors. Useful quantum computing needs many qubits working together, so the question is whether contextuality…",
+        "source": "Google Research",
+        "date": "2026-11-19T20:03:00+00:00"
+      },
+      {
+        "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+        "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+        "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+        "source": "OpenAI",
+        "date": "2026-11-19T08:00:00+00:00"
+      },
+      {
+        "title": "Deploying Daybreak Red",
+        "url": "https://openai.com/business/learn/deploying-daybreak-red",
+        "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+        "source": "OpenAI",
+        "date": "2026-11-19T00:00:00+00:00"
+      },
+      {
+        "title": "See PR scans in action",
+        "url": "https://openai.com/business/learn/pr-scans-demo",
+        "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+        "source": "OpenAI",
+        "date": "2026-11-19T00:00:00+00:00"
+      },
+      {
+        "title": "Explore the Codex Security Plugin",
+        "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+        "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+        "source": "OpenAI",
+        "date": "2026-11-19T00:00:00+00:00"
+      },
+      {
+        "title": "Get started with Daybreak Blue",
+        "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+        "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+        "source": "OpenAI",
+        "date": "2026-11-19T00:00:00+00:00"
+      },
       {
         "title": "Introducing Gemini 4 Neon",
         "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
@@ -129,220 +171,178 @@
         "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
         "source": "OpenAI",
         "date": "2026-11-18T08:00:00+00:00"
-      },
-      {
-        "title": "Managing frontier AI risk: From training to deployment",
-        "url": "https://openai.com/index/managing-frontier-ai-risk",
-        "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-        "source": "OpenAI",
-        "date": "2026-11-18T06:00:00+00:00"
-      },
-      {
-        "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-        "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-        "source": "OpenAI",
-        "date": "2026-11-18T00:00:00+00:00"
-      },
-      {
-        "title": "Advancing chip design with OpenAI models",
-        "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-        "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-        "source": "OpenAI",
-        "date": "2026-11-18T00:00:00+00:00"
-      },
-      {
-        "title": "Introducing GPT-6.2 Astra and Sol",
-        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-        "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-        "source": "OpenAI",
-        "date": "2026-11-17T17:45:00+00:00"
-      },
-      {
-        "title": "Introducing ChatGPT for Sales",
-        "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-        "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-        "source": "OpenAI",
-        "date": "2026-11-17T08:00:00+00:00"
-      },
-      {
-        "title": "Strengthening NATO and allied cyber defenses with AI",
-        "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-        "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-        "source": "OpenAI",
-        "date": "2026-11-17T00:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-        "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-        "summary": "“There is much work still to be done, and the most difficult safety work lies ahead of us,” he said. Human intelligence has already made diseases like plague, smallpox, and polio history for most of the world. Too few scientists with too [little] time.",
+        "title": "A transcription firm used by police, prosecutors and tech giants exposed customer data online",
+        "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+        "summary": "The data security lapse at San Francisco-based Tigerfish exposed transcriptions of police interviews, body-cam footage, and customers’ raw audio and video footage. Sen is no stranger to TechCrunch. “Everyone often fears shadowy hackers,” Sen said.",
         "source": "TechCrunch",
-        "date": "2026-11-19T16:19:41+00:00"
+        "date": "2026-11-20T15:46:07+00:00"
       },
       {
-        "title": "U.K government forced to disclose secret Apple backdoor order",
-        "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
-        "summary": "The U.K. government has been ordered to confirm that it issued a secret order demanding Apple to provide authorities with encrypted customer information. The U.K.’s secret order was later narrowed to allow access to British nationals’ data stored in Apple’s encrypted cloud, and Apple also challenged this second order. Prior to the ruling, Apple was legally barred from disclosing the order, even after details leaked.",
+        "title": "Six AI-powered gadgets that could make your home office smarter",
+        "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+        "summary": "The AI-powered pen combines traditional handwriting with audio recording. Anker’s AI-powered recording pin, Soundcore Work , is designed to capture conversations, meetings, and quick voice memos without taking up much space on your desk. Autonomous Desk Pro is an adjustable standing desk designed to encourage healthier habits throughout the workday.",
         "source": "TechCrunch",
-        "date": "2026-11-19T15:32:20+00:00"
+        "date": "2026-11-20T14:00:00+00:00"
       },
       {
-        "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-        "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-        "summary": "Arriving at public markets today, Anthropic’s IPO is poised to raise billions for the company and its investors. Nvidia, AMD, Microsoft, Broadcom, Micron, and TSMC have joined Google in committing $26 billion to Anthropic at its IPO price in a private placement. In total, Google has invested $12.3 billion into Anthropic since 2023, with another promised $30 billion dependent on Anthropic meeting certain performance…",
+        "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+        "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+        "summary": "Earlier this week at the DealBook conference in New York, Elon Musk, beamed in from a trip to China with President Donald Trump, was asked about the ouster of his longtime friend, former Nvidia CEO Jensen Huang. Of Nvidia’s employees, he said, “They love [Huang]. Huang’s spokesman calls the allegations fabrications.",
         "source": "TechCrunch",
-        "date": "2026-11-19T14:54:39+00:00"
+        "date": "2026-11-20T13:25:00+00:00"
       },
       {
-        "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
-        "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
-        "summary": "Other options include the Trace Keyfob ($19.95), Trace Slim Wallet Card ($29.95), Trace Keychain ($29.95), Trace Luggage Tag ($39.95), and Trace Wallet ($39.95). We also thought more options should be rechargeable.” The Trace Luggage Tag and Trace Folio are arguably the most interesting products in the collection. Trace is the first collection designed specifically to meet these higher standards.",
+        "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+        "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+        "summary": "California’s Attorney General Rob Bonta on Thursday evening said the state has served an investigative subpoena to Nvidia following news of the company’s former CEO Jensen Huang’s affair with a woman who the U.S. government believes is a Chinese spy. “My office is investigating whether Nvidia or Jensen Huang’s actions resulted in China obtaining advanced chips or confidential information — and if Nvidia misled…",
         "source": "TechCrunch",
-        "date": "2026-11-19T14:00:00+00:00"
+        "date": "2026-11-20T13:21:11+00:00"
       },
       {
-        "title": "Superhuman pushes its Go assistant everywhere",
-        "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-        "summary": "Superhuman (formerly Grammarly) is going in the same direction with the rollout of features, including a personalized Go assistant, making agents available in Docs, and third-party agent integrations. Superhuman is revamping its onboarding flow to let users connect their preferred tools and load context about their work upfront. The company is also thinking about adding AI to different products, including Docs and…",
+        "title": "The U.S. national cyber director is stepping down",
+        "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+        "summary": "White House national cyber director Sean Cairncross will be stepping down from his role, Axios reported. Cairncross, the president’s principal adviser on national cybersecurity policy and strategy, took office in August 2025. The office hasn’t been around long; Congress created it in early 2021, and Cairncross was only its third Senate-confirmed director.",
         "source": "TechCrunch",
-        "date": "2026-11-19T14:00:00+00:00"
+        "date": "2026-11-20T09:14:19+00:00"
       },
       {
-        "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-        "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-        "summary": "He’s not saying he’s replacing employees with AI, especially software engineers. “Let’s take software engineering. “They build a software factory that builds the product.",
+        "title": "Apple may be developing its own AI agent that runs your Mac",
+        "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+        "summary": "Apple appears to be working on its own AI agent to conduct computer work on behalf of users — including using apps, accessing websites, and coding, among other things. Agents capable of computer work have become one of the hottest commodities in the tech industry over the past year. Major labs like Anthropic and OpenAI have launched such services, while other major tech brands — like Meta, which recently launched…",
         "source": "TechCrunch",
-        "date": "2026-11-19T00:42:56+00:00"
+        "date": "2026-11-20T00:56:01+00:00"
       },
       {
-        "title": "Elon Musk says: ‘I’m not MAGA’",
-        "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
-        "summary": "Musk, notably, spent a gargantuan amount of money (reportedly some $445 million ) to support Republican candidates. Now Musk has an entirely new set of concerns. “The incoming Texas, you know, House Majority Leader, said that I should go to prison,” Musk said.",
+        "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+        "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+        "summary": "Anthropic became a public company on Thursday, raising a total of $81.3 billion, including $1.95 billion for its seven founders. Nvidia bought $10 billion of these Class N shares, Google bought $10 billion, and AMD, Broadcom, Micron, Microsoft, and TSMC divvied up the rest. It needs $451.6 billion to cover these commitments before the end of 2030.",
         "source": "TechCrunch",
-        "date": "2026-11-19T00:40:49+00:00"
+        "date": "2026-11-20T00:43:50+00:00"
       },
       {
-        "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-        "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-        "summary": "During his appearance at The New York Times’ DealBook Summit on Wednesday, Microsoft CEO Satya Nadella lamented the fact that a lot of America’s software systems — including those governing everyday hardware and transportation systems — suffer from unfixable software vulnerabilities. The conversation took place against the backdrop of a wave of recent large-scale outages — including one involving Microsoft Outlook.…",
+        "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+        "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+        "summary": "Four-year-old Fireworks runs AI models for other businesses. How far behind are open models right now? Notion has disconnected from Fireworks.",
         "source": "TechCrunch",
-        "date": "2026-11-18T23:45:00+00:00"
+        "date": "2026-11-20T00:26:03+00:00"
       },
       {
-        "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-        "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-        "summary": "“Jensen is an old friend of mine,” Musk said. “Who wouldn’t want to hire Jensen?” Musk also signed a petition , alongside over 200,000 other people, urging Nvidia to reinstate its former CEO. “Colette [Kress, interim CEO of Nvidia] worked at Microsoft for a long time.",
+        "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+        "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+        "summary": "CEO Elon Musk said SpaceX has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones inside buildings where signals from its Starlink satellites have trouble reaching. “We’ve got a plan that enables ubiquitous access on Earth, including via cell phone,” Musk said, noting the company is launching its Direct-to-Cell V2 satellite constellation…",
         "source": "TechCrunch",
-        "date": "2026-11-18T23:25:17+00:00"
+        "date": "2026-11-19T23:37:56+00:00"
       },
       {
-        "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-        "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-        "summary": "Microsoft CEO Satya Nadella weighed in on former Nvidia CEO Jensen Huang’s unexpected departure amid a series of shocking controversies . While the world waits to see what the long-term economic impacts of Huang’s departure might be, Nadella says he still has confidence in Nvidia, which is a close partner of Microsoft. “Colette [Kress, interim CEO at Nvidia] worked at Microsoft for a long time.",
+        "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+        "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+        "summary": "Designer Michael Flarup has just launched a new Mac utility called IconSwapper , which lets you replace any app’s official icon with one of your own creation. He’s been making his own Mac icons since the early 2000s and even wrote a book about app icons that celebrates the work of designers. Flarup tells TechCrunch that his renderer runs the icon artwork through custom Metal shaders in real time.",
         "source": "TechCrunch",
-        "date": "2026-11-18T23:17:28+00:00"
+        "date": "2026-11-19T22:33:26+00:00"
       },
       {
-        "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-        "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-        "summary": "Microsoft CEO Satya Nadella predicts that the rise of AI agents is going to reshape the economics of the internet, impacting the business models of the companies that rely on advertising and what he referred to as “human web” traffic. Speaking at The New York Times DealBook Summit on Wednesday, the tech executive argued that the shift to an agentic web could change which companies pay others for traffic and for…",
+        "title": "Meta’s new Muse Charm device may cost $300",
+        "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+        "summary": "Meta plans to charge $300 for Muse Charm, its upcoming Tamagotchi-like AI device that was teased at the company’s Connect event earlier this year, The Information has reported . Even with its $99/year subscription to let it tie into a user’s apps (photos, emails, etc.), it’s still far less expensive than Muse Charm. Get an Early Peek at the Next TechCrunch Disrupt Disrupt, Startup Battlefield, and more will return…",
         "source": "TechCrunch",
-        "date": "2026-11-18T22:58:11+00:00"
+        "date": "2026-11-19T21:58:06+00:00"
       },
       {
-        "title": "Anthropic prices IPO at $83 a share, above projected range",
-        "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-        "summary": "Although none of Anthropic’s venture capital investors holds more than a 5% stake in the company, the IPO is a massive windfall for its numerous backers . Investors who own approximately 1% of the company reportedly include Sequoia, as well as former Google CEO Eric Schmidt. Yet the investors’ holdings in Anthropic pale in comparison to those of the company’s strategic partners Amazon, which owns nearly 15% of the…",
+        "title": "These tech outages are giving Y2K, AI agent style",
+        "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+        "summary": "It’s going down, as the American rapper Yung Joc might say: the airline booking systems, banking platforms, and productivity platforms. In the past two weeks, the U.S.’s top businesses have faced technical outages that have disrupted the systems that run everyday life. This was, perhaps, the first moment when legacy meets modern, Anusha Iyer, a software engineer and founder of the security startup Corsha, told…",
         "source": "TechCrunch",
-        "date": "2026-11-18T22:11:15+00:00"
+        "date": "2026-11-19T21:42:31+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "You can grab two months of Paramount Plus for just $2.99 for Black Friday",
-        "url": "https://www.theverge.com/gadgets/1036229/paramount-plus-black-friday-deal-2026-sale",
-        "summary": "Paramount’s streaming service offers an impressive variety of programming, from Star Trek and Tulsa King to NFL football. Paramount’s streaming service offers an impressive variety of programming, from Star Trek and Tulsa King to NFL football. Paramount Plus lets you watch a variety of CBS shows, including all major Star Trek series, along with classic shows like South America South Park , NCIS, and Everybody Loves…",
+        "title": "The best early Black Friday deals you can already shop",
+        "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+        "summary": "The TSA-approved battery also features a built-in display for monitoring power output. Google’s latest pair of wireless earbuds feature crisp sound quality, a comfortable design, and solid active noise cancellation, which is great considering the budget-friendly price tag. The sleek buds deliver powerful noise cancellation, good sound, and surprisingly fabulous call quality for less than Apple’s latest AirPods.",
         "source": "The Verge",
-        "date": "2026-11-19T16:15:01+00:00"
+        "date": "2026-11-20T15:53:25+00:00"
       },
       {
-        "title": "JPMorgan Chase reveals data breach, but says it&#8217;s unrelated to this week&#8217;s banking outage",
-        "url": "https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack",
-        "summary": "The data breach may have impacted customer names and emails, JPMorgan Chase says. The data breach may have impacted customer names and emails, JPMorgan Chase says. JPMorgan Chase says its third-party vendors suffered a cyberattack, exposing marketing data like customer names and email addresses.",
+        "title": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
+        "url": "https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un",
+        "summary": "Posts across Facebook ‘dehumanized’ the Rohingya Muslim people, the UN’s top court has found. Posts across Facebook ‘dehumanized’ the Rohingya Muslim people, the UN’s top court has found. In its ruling that Myanmar committed state-sponsored genocide against the Rohingya people in 2016 and 2017, the United Nations’ top court says that Facebook played a role in helping Myanmar’s military spread hate speech against its…",
         "source": "The Verge",
-        "date": "2026-11-19T16:14:23+00:00"
+        "date": "2026-11-20T15:02:13+00:00"
       },
       {
-        "title": "The Verge’s 2026 fitness and wellness gift guide",
-        "url": "https://www.theverge.com/gadgets/1021241/best-fitness-wellness-gifts-2026",
-        "summary": "Ozlo’s powerful sleep buds provide the gift of detached euphoria. For visual learners, a visible timeline can help keep the pace moving. Inside are the same extensive health and fitness tracking features for charting everything from sleep to heart health, backed by long battery life.",
+        "title": "Let’s talk about GTA VI",
+        "url": "https://www.theverge.com/entertainment/1037545/gta-6-discussion",
+        "summary": "The game is finally here, and there’s plenty to discuss. The game is finally here, and there’s plenty to discuss. Thirteen years after GTA V , and eight years since Red Dead Redemption 2 , Rockstar is back with its latest sprawling, extravagant open world.",
         "source": "The Verge",
-        "date": "2026-11-19T16:00:00+00:00"
+        "date": "2026-11-20T15:00:00+00:00"
       },
       {
-        "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-        "summary": "ChatGPT’s new Live Dictation feature transcribes audio prompts faster, with no more 10-minute limit.﻿ ChatGPT’s new Live Dictation feature transcribes audio prompts faster, with no more 10-minute limit.﻿ ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. Along with faster transcription, OpenAI…",
-        "source": "The Verge",
-        "date": "2026-11-19T15:16:45+00:00"
-      },
-      {
-        "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
-        "url": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election",
-        "summary": "People are still out of work. We acknowledged that people were still struggling and people were still in pain. Tell people what to look out for.",
-        "source": "The Verge",
-        "date": "2026-11-19T15:00:00+00:00"
-      },
-      {
-        "title": "The Analogue 3D can now update itself over Wi-Fi",
-        "url": "https://www.theverge.com/tech/1037552/analogue-3d-nintendo-64-console-wi-fi-activated-automatic-updates",
-        "summary": "The console’s latest update finally activates its dormant Wi-Fi hardware, enabling a handful of new features. The console’s latest update finally activates its dormant Wi-Fi hardware, enabling a handful of new features. Analogue on Wednesday released the version 1.6.0 firmware for the Analogue 3D , adding support for 2.4GHz, 5GHz, mixed, and hidden Wi-Fi networks.",
-        "source": "The Verge",
-        "date": "2026-11-19T14:32:33+00:00"
-      },
-      {
-        "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-        "summary": "The LTBT technically chooses four members of Anthropic’s seven-person board, for instance, but one of those four effectively needs to be approved by Anthropic’s founders, leaving the trust short of straightforward majority control. Anthropic did not respond to a request for comment. This explanation hasn’t satisfied everyone, including some Anthropic employees.",
-        "source": "The Verge",
-        "date": "2026-11-19T14:25:37+00:00"
-      },
-      {
-        "title": "The wait begins for GTA VI on PC",
-        "url": "https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
-        "summary": "Given how good the game is on console, the wait will almost certainly be worth it. Given how good the game is on console, the wait will almost certainly be worth it. Ideally, the PC version will launch alongside an improved version of GTA Online (whether it’s free to play is anyone’s guess), and maybe with upgraded GTA roleplay tech to support it.",
-        "source": "The Verge",
-        "date": "2026-11-19T14:00:00+00:00"
-      },
-      {
-        "title": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-        "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-        "summary": "It will be the first dedicated heavy-lift launch for Google’s Project Suncatcher. It will be the first dedicated heavy-lift launch for Google’s Project Suncatcher. Google is teaming up with Jeff Bezos’ Blue Origin to launch its AI server satellites.",
-        "source": "The Verge",
-        "date": "2026-11-19T13:53:38+00:00"
-      },
-      {
-        "title": "Grand Theft Auto VI understands just how important a smartphone is",
-        "url": "https://www.theverge.com/entertainment/1037106/grand-theft-auto-6-smartphone",
-        "summary": "Text messages, social networking, selfies — the device is integrated into every aspect of your virtual life. Text messages, social networking, selfies — the device is integrated into every aspect of your virtual life. But the phone in GTA VI is different for a few reasons.",
-        "source": "The Verge",
-        "date": "2026-11-19T13:30:00+00:00"
-      },
-      {
-        "title": "How the European Commission rolled out Matrix to more than 40k staff",
-        "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-        "summary": "The European Commission went from a Matrix proof of concept in December 2025 to a sovereign communication tool rolled out to every Commission laptop by September 2026. The service doesn't run in a Commission-owned data centre. Connecting to Matrix servers outside the Commission is still under assessment. (466 points, 235 comments on Hacker News)",
+        "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+        "url": "https://alpo.ge/remark.pdf",
+        "summary": "742 points, 428 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-11-19T10:58:29+00:00"
+        "date": "2026-11-20T14:16:21+00:00"
       },
       {
-        "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-        "url": "https://kapteko.com/15-million-webservers/",
-        "summary": "DPDK lets your program communicate directly with the hardware network card using Ethernet frames, bypassing the entire kernel network stack. DPDK lets your program communicate directly with the hardware network card using Ethernet frames, bypassing the entire kernel network stack. DPDK lets your program communicate directly with the hardware network card using Ethernet frames, bypassing the entire kernel network… (283 points, 32 comments on Hacker News)",
+        "title": "The week everything fell apart",
+        "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+        "summary": "On The Vergecast: Is AI breaking the world? And is Jensen Huang coming back to Nvidia? And is Jensen Huang coming back to Nvidia?",
+        "source": "The Verge",
+        "date": "2026-11-20T14:06:59+00:00"
+      },
+      {
+        "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+        "summary": "Signal will now restrict screenshots on mobile devices, and says AI agents are ‘hostile to privacy.’ Signal will now restrict screenshots on mobile devices, and says AI agents are ‘hostile to privacy.’ Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users’ messages and other data. The agentic AI capabilities built into operating systems…",
+        "source": "The Verge",
+        "date": "2026-11-20T12:30:47+00:00"
+      },
+      {
+        "title": "Why the robots are ditching Uber",
+        "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+        "summary": "Can Uber still be the default app for autonomy? Can Uber still be the default app for autonomy? Uber’s exit gave Waymo an opening.",
+        "source": "The Verge",
+        "date": "2026-11-20T12:00:00+00:00"
+      },
+      {
+        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+        "url": "https://architectlabs.com/blog/frostbite",
+        "summary": "Frostbite was designed with zero architectural priors. From then on, contracts, Arcmodel, RTL, and power moved forward together. A search set of workloads drove all architectural optimization, ISA design, RTL, and verification, and the chip was evaluated on both the 10 search-set workloads and the 15 held out, including the five practical workloads added later (Fig. (393 points, 248 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-19T05:56:36+00:00"
+        "date": "2026-11-20T10:01:41+00:00"
+      },
+      {
+        "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+        "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+        "summary": "Absent from the book was a lecture Feynman gave on planetary motion, but a later finding of the notes enabled David Goodstein, a colleague of Feynman’s, to write a book about it: Feynman’s Lost Lecture . In order to comment or fave, you need to be a kottke.org member. In order to comment or fave, you need to be a current kottke.org member. (324 points, 186 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-20T09:43:19+00:00"
+      },
+      {
+        "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+        "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+        "summary": "Faig Abbasov, shipping policy manager at T&E, said: “Luxury cruise ships are floating cities powered by some of the dirtiest fuel possible. Furthermore, the report recommends regulating NOx emissions from existing ships, which are currently exempt from NOx standards applying in emission control areas. Faig Abbasov concluded “There are enough mature technologies to clean up cruise ships. (346 points, 197 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-20T09:13:09+00:00"
+      },
+      {
+        "title": "\"I can tell you wrote this yourself\"",
+        "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+        "summary": "It's a roughly 10-page report on the control of flapping-wing micro aerial vehicles - which is probably very boring unless you're particularly interested in that. Think about what the creators of the content you consume want you to think 2 . Think about things as much as possible. (331 points, 310 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-20T07:13:21+00:00"
+      },
+      {
+        "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+        "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+        "summary": "426 points, 161 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-11-20T05:21:02+00:00"
       }
     ]
   }
