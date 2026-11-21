@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:56:18.111374+00:00",
+  "generated_at": "2026-11-21T15:07:34.145267+00:00",
   "sections": {
     "research": [
       {
@@ -89,6 +89,34 @@
     ],
     "labs": [
       {
+        "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+        "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+        "summary": "Yossi Matias, Vice President, Google & GM, Google Research, Yaniv Leviathan, Google Fellow, Google Research, and Janet Zhou, Group Product Manager, Google Maps When we introduced Google Duplex in 2018, it pioneered natural voice conversations between AI and local businesses over the phone. Propelled by advances in foundation models, the Duplex architecture has evolved to power autonomous task completion across many…",
+        "source": "Google Research",
+        "date": "2026-11-20T23:30:30+00:00"
+      },
+      {
+        "title": "Combatting adversarial distillation",
+        "url": "https://openai.com/index/combatting-adversarial-distillation",
+        "summary": "Our approach to adversarial distillation combines adversarial testing, model training, classifiers, and API-level protections with investigations into coordinated attempts to extract model capabilities. We also prevent older model families with weaker safeguards from reading GPT‑6.2 Astra and Sol’s protected reasoning. Cyber benchmark performance after training on exact reasoning traces or reasoning summaries.",
+        "source": "OpenAI",
+        "date": "2026-11-20T10:00:00+00:00"
+      },
+      {
+        "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+        "url": "https://openai.com/business/customer-stories/hebbia",
+        "summary": "Hebbia sees gains in financial research in tests of GPT‑6 Astra. Percentage-point lead over the best alternative tested in Hebbia’s tests. Percent of applicable presentation requirements met in Hebbia’s tests.",
+        "source": "OpenAI",
+        "date": "2026-11-20T00:00:00+00:00"
+      },
+      {
+        "title": "Can AI help scientists identify promising drug candidates?",
+        "url": "https://openai.com/index/introducing-medchembench",
+        "summary": "GPT‑6 Astra was strongest at reconstructing molecular structures and explaining experimental evidence. Molecular structures. Scientific reasoning.",
+        "source": "OpenAI",
+        "date": "2026-11-20T00:00:00+00:00"
+      },
+      {
         "title": "A game you cannot win unless you have a quantum computer",
         "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
         "summary": "The reason is a property called quantum contextuality , arguably the strangest feature of quantum mechanics. In \" Quantum-classical separation in bounded-resource tasks arising from measurement contextuality ,\" published in Science , we demonstrate and measure contextuality on our superconducting quantum processors. Useful quantum computing needs many qubits working together, so the question is whether contextuality…",
@@ -98,14 +126,14 @@
       {
         "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
         "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-        "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+        "summary": "Our Codex-powered system automates finding and fixing performance issues. In particular, the Regression Workflow opens a task when a performance alert fires. We built the Performance Factory to run end-to-end agentic performance engineering workflows.",
         "source": "OpenAI",
         "date": "2026-11-19T08:00:00+00:00"
       },
       {
-        "title": "Deploying Daybreak Red",
-        "url": "https://openai.com/business/learn/deploying-daybreak-red",
-        "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+        "title": "Explore the Codex Security Plugin",
+        "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+        "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
         "source": "OpenAI",
         "date": "2026-11-19T00:00:00+00:00"
       },
@@ -117,16 +145,16 @@
         "date": "2026-11-19T00:00:00+00:00"
       },
       {
-        "title": "Explore the Codex Security Plugin",
-        "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-        "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+        "title": "Get started with Daybreak Blue",
+        "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+        "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
         "source": "OpenAI",
         "date": "2026-11-19T00:00:00+00:00"
       },
       {
-        "title": "Get started with Daybreak Blue",
-        "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-        "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+        "title": "Deploying Daybreak Red",
+        "url": "https://openai.com/business/learn/deploying-daybreak-red",
+        "summary": "A reference architecture for supervised security investigations. Learn how to set up an isolated environment for supervised security investigations with Daybreak Red. This guide covers architecture, safety controls, environment configuration, and how to run and monitor an investigation.",
         "source": "OpenAI",
         "date": "2026-11-19T00:00:00+00:00"
       },
@@ -143,41 +171,62 @@
         "summary": "Explore a new Project Genie experience for Google AI Ultra subscribers, featuring Genie 4, the Project Genie agent, and a community gallery. This update unlocks first-time access to Genie 4, new upgrades to Genie 3, the Project Genie agent which helps users build their vision, and a community gallery to discover, explore, and remix worlds. Genie 3 and Genie 4 remain world models in the frontier research space.",
         "source": "Google DeepMind",
         "date": "2026-11-18T18:13:42+00:00"
-      },
-      {
-        "title": "The Silent Consensus",
-        "url": "https://openai.com/index/the-silent-consensus",
-        "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-        "source": "OpenAI",
-        "date": "2026-11-18T10:00:00+00:00"
-      },
-      {
-        "title": "Research acceleration: The jagged frontier",
-        "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-        "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-        "source": "OpenAI",
-        "date": "2026-11-18T08:00:00+00:00"
-      },
-      {
-        "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-        "url": "https://openai.com/business/customer-stories/sumitomo-life",
-        "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-        "source": "OpenAI",
-        "date": "2026-11-18T08:00:00+00:00"
-      },
-      {
-        "title": "Inside the Codex sandbox",
-        "url": "https://openai.com/index/inside-the-codex-sandbox",
-        "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-        "source": "OpenAI",
-        "date": "2026-11-18T08:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "A transcription firm used by police, prosecutors and tech giants exposed customer data online",
+        "title": "Startup sues Apple in India over tap-to-share contacts feature",
+        "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+        "summary": "GG Technologies, the startup behind StayTouch , an app that lets users exchange contact details by bringing their phones close together, is seeking ₹15 billion (about $161.86 million) in damages and an injunction against Apple, per court documents reviewed by TechCrunch. Apple introduced NameDrop as part of iOS 17 in June 2023. GG Technologies urged the court in its filing to restrict Apple from selling or importing…",
+        "source": "TechCrunch",
+        "date": "2026-11-21T04:00:00+00:00"
+      },
+      {
+        "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+        "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+        "summary": "“Nobody briefs founders on counterintelligence,” Aaron Brown, a former senior CIA officer and current founder of the software company Lumbra, told TechCrunch. Friendship is actually the oldest honey-trap scheme around, Brown said. “They need you to feel comfortable talking,” Brown said.",
+        "source": "TechCrunch",
+        "date": "2026-11-20T20:58:29+00:00"
+      },
+      {
+        "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+        "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+        "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a stealthy fusion power startup founded by an AI researcher who is taking a different approach to developing a fusion power plant. Recently, he was head of machine learning at Pacific Fusion , the fusion power startup based in Fremont, California. Like Pacific Fusion, Europa Fusion will pursue a pulsed-power approach to fusion.",
+        "source": "TechCrunch",
+        "date": "2026-11-20T19:53:41+00:00"
+      },
+      {
+        "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+        "summary": "It’s a big week for Levent Alpöge: The mathematician saw his employer, Anthropic, become the first publicly traded frontier AI lab. Several participants in the Zulip chat, including MIT mathematician Andrew Sutherland, say they have successfully confirmed that Alpöge’s solution can be compiled successfully. Alpöge and a collaborator, NYU mathematician Tristan Buckmaster, also released another important proof related…",
+        "source": "TechCrunch",
+        "date": "2026-11-20T19:32:08+00:00"
+      },
+      {
+        "title": "Super-hot rock geothermal could end data center energy woes",
+        "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+        "summary": "But this week was all about super-hot rock geothermal. The secret to super-hot rock geothermal is what happens to water at extreme depths. Super-hot rock geothermal is inching closer to commercial reality.",
+        "source": "TechCrunch",
+        "date": "2026-11-20T18:34:00+00:00"
+      },
+      {
+        "title": "Chips can survive the space environment — can their financing?",
+        "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+        "summary": "The push to build data centers in space faces plenty of obstacles, from tricky engineering to a dearth of rockets that could take chips to orbit. But what about paying for the chips? Even with Starship, however, SpaceX — as well as startups like StarCloud, Cowboy Space Corporation, Sophia Space, Orbital, and others — will need to buy chips.",
+        "source": "TechCrunch",
+        "date": "2026-11-20T17:40:01+00:00"
+      },
+      {
+        "title": "Bending Spoons buys Mailchimp for $3.68B",
+        "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+        "summary": "Bending Spoons has bought up another distressed internet company. Intuit acquired the company in 2021 for roughly $12 billion, so it’s taking quite a loss — and, perhaps, Bending Spoons is getting quite a bargain. Bending Spoons describes the transaction as an all-cash deal, although that’s not quite true: As part of the same package, Intuit is buying $368 million in newly minted shares of Bending Spoons, so the net…",
+        "source": "TechCrunch",
+        "date": "2026-11-20T16:16:06+00:00"
+      },
+      {
+        "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
         "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-        "summary": "The data security lapse at San Francisco-based Tigerfish exposed transcriptions of police interviews, body-cam footage, and customers’ raw audio and video footage. Sen is no stranger to TechCrunch. “Everyone often fears shadowy hackers,” Sen said.",
+        "summary": "The data security lapse at San Francisco-based Tigerfish exposed transcriptions of police interviews, body-cam footage, and customers’ raw audio and video footage. Sen, 30, is no stranger to TechCrunch. “Everyone often fears shadowy hackers,” Sen said.",
         "source": "TechCrunch",
         "date": "2026-11-20T15:46:07+00:00"
       },
@@ -191,158 +240,109 @@
       {
         "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
         "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-        "summary": "Earlier this week at the DealBook conference in New York, Elon Musk, beamed in from a trip to China with President Donald Trump, was asked about the ouster of his longtime friend, former Nvidia CEO Jensen Huang. Of Nvidia’s employees, he said, “They love [Huang]. Huang’s spokesman calls the allegations fabrications.",
+        "summary": "Of Nvidia’s employees, he said, “They love [Huang]. According to the Times, Huang told subordinates that Nvidia’s wealth meant it wasn’t possible to motivate employees with money, so humiliation was the only lever left. Huang’s spokesman calls the allegations fabrications.",
         "source": "TechCrunch",
         "date": "2026-11-20T13:25:00+00:00"
       },
       {
         "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
         "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
-        "summary": "California’s Attorney General Rob Bonta on Thursday evening said the state has served an investigative subpoena to Nvidia following news of the company’s former CEO Jensen Huang’s affair with a woman who the U.S. government believes is a Chinese spy. “My office is investigating whether Nvidia or Jensen Huang’s actions resulted in China obtaining advanced chips or confidential information — and if Nvidia misled…",
+        "summary": "California’s Attorney General Rob Bonta on Thursday evening said the state has served an investigative subpoena to Nvidia following news of former CEO Jensen Huang’s affair with a woman who the U.S. government believes is a Chinese spy. “My office is investigating whether Nvidia or Jensen Huang’s actions resulted in China obtaining advanced chips or confidential information — and if Nvidia misled investors and the…",
         "source": "TechCrunch",
         "date": "2026-11-20T13:21:11+00:00"
       },
       {
-        "title": "The U.S. national cyber director is stepping down",
+        "title": "The US national cyber director is stepping down",
         "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
         "summary": "White House national cyber director Sean Cairncross will be stepping down from his role, Axios reported. Cairncross, the president’s principal adviser on national cybersecurity policy and strategy, took office in August 2025. The office hasn’t been around long; Congress created it in early 2021, and Cairncross was only its third Senate-confirmed director.",
         "source": "TechCrunch",
         "date": "2026-11-20T09:14:19+00:00"
-      },
-      {
-        "title": "Apple may be developing its own AI agent that runs your Mac",
-        "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-        "summary": "Apple appears to be working on its own AI agent to conduct computer work on behalf of users — including using apps, accessing websites, and coding, among other things. Agents capable of computer work have become one of the hottest commodities in the tech industry over the past year. Major labs like Anthropic and OpenAI have launched such services, while other major tech brands — like Meta, which recently launched…",
-        "source": "TechCrunch",
-        "date": "2026-11-20T00:56:01+00:00"
-      },
-      {
-        "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-        "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-        "summary": "Anthropic became a public company on Thursday, raising a total of $81.3 billion, including $1.95 billion for its seven founders. Nvidia bought $10 billion of these Class N shares, Google bought $10 billion, and AMD, Broadcom, Micron, Microsoft, and TSMC divvied up the rest. It needs $451.6 billion to cover these commitments before the end of 2030.",
-        "source": "TechCrunch",
-        "date": "2026-11-20T00:43:50+00:00"
-      },
-      {
-        "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-        "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-        "summary": "Four-year-old Fireworks runs AI models for other businesses. How far behind are open models right now? Notion has disconnected from Fireworks.",
-        "source": "TechCrunch",
-        "date": "2026-11-20T00:26:03+00:00"
-      },
-      {
-        "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-        "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-        "summary": "CEO Elon Musk said SpaceX has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones inside buildings where signals from its Starlink satellites have trouble reaching. “We’ve got a plan that enables ubiquitous access on Earth, including via cell phone,” Musk said, noting the company is launching its Direct-to-Cell V2 satellite constellation…",
-        "source": "TechCrunch",
-        "date": "2026-11-19T23:37:56+00:00"
-      },
-      {
-        "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-        "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
-        "summary": "Designer Michael Flarup has just launched a new Mac utility called IconSwapper , which lets you replace any app’s official icon with one of your own creation. He’s been making his own Mac icons since the early 2000s and even wrote a book about app icons that celebrates the work of designers. Flarup tells TechCrunch that his renderer runs the icon artwork through custom Metal shaders in real time.",
-        "source": "TechCrunch",
-        "date": "2026-11-19T22:33:26+00:00"
-      },
-      {
-        "title": "Meta’s new Muse Charm device may cost $300",
-        "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-        "summary": "Meta plans to charge $300 for Muse Charm, its upcoming Tamagotchi-like AI device that was teased at the company’s Connect event earlier this year, The Information has reported . Even with its $99/year subscription to let it tie into a user’s apps (photos, emails, etc.), it’s still far less expensive than Muse Charm. Get an Early Peek at the Next TechCrunch Disrupt Disrupt, Startup Battlefield, and more will return…",
-        "source": "TechCrunch",
-        "date": "2026-11-19T21:58:06+00:00"
-      },
-      {
-        "title": "These tech outages are giving Y2K, AI agent style",
-        "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-        "summary": "It’s going down, as the American rapper Yung Joc might say: the airline booking systems, banking platforms, and productivity platforms. In the past two weeks, the U.S.’s top businesses have faced technical outages that have disrupted the systems that run everyday life. This was, perhaps, the first moment when legacy meets modern, Anusha Iyer, a software engineer and founder of the security startup Corsha, told…",
-        "source": "TechCrunch",
-        "date": "2026-11-19T21:42:31+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "The best early Black Friday deals you can already shop",
-        "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-        "summary": "The TSA-approved battery also features a built-in display for monitoring power output. Google’s latest pair of wireless earbuds feature crisp sound quality, a comfortable design, and solid active noise cancellation, which is great considering the budget-friendly price tag. The sleek buds deliver powerful noise cancellation, good sound, and surprisingly fabulous call quality for less than Apple’s latest AirPods.",
+        "title": "Can Anthropic afford to put safety first?",
+        "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+        "summary": "Anthropic had to have a public statement. Anthropic has seven founders. That’s the thing, Anthropic needs money.",
         "source": "The Verge",
-        "date": "2026-11-20T15:53:25+00:00"
+        "date": "2026-11-21T15:00:00+00:00"
       },
       {
-        "title": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
-        "url": "https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un",
-        "summary": "Posts across Facebook ‘dehumanized’ the Rohingya Muslim people, the UN’s top court has found. Posts across Facebook ‘dehumanized’ the Rohingya Muslim people, the UN’s top court has found. In its ruling that Myanmar committed state-sponsored genocide against the Rohingya people in 2016 and 2017, the United Nations’ top court says that Facebook played a role in helping Myanmar’s military spread hate speech against its…",
+        "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+        "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+        "summary": "The Liberty 5 Pro have the best voice call clarity of any earbuds we’ve tested, and they’re marked down for Black Friday. The Liberty 5 Pro have the best voice call clarity of any earbuds we’ve tested, and they’re marked down for Black Friday. If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon , Best Buy , and Walmart right now.",
         "source": "The Verge",
-        "date": "2026-11-20T15:02:13+00:00"
+        "date": "2026-11-21T14:55:28+00:00"
       },
       {
-        "title": "Let’s talk about GTA VI",
-        "url": "https://www.theverge.com/entertainment/1037545/gta-6-discussion",
-        "summary": "The game is finally here, and there’s plenty to discuss. The game is finally here, and there’s plenty to discuss. Thirteen years after GTA V , and eight years since Red Dead Redemption 2 , Rockstar is back with its latest sprawling, extravagant open world.",
+        "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+        "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+        "summary": "Chess.com is ready to go a lot bigger than chess. The expansion hasn’t put Chess.com itself on the back burner, according to Cheng. Chess.com might not be done growing its library of games, either.",
         "source": "The Verge",
-        "date": "2026-11-20T15:00:00+00:00"
+        "date": "2026-11-21T14:00:00+00:00"
       },
       {
-        "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-        "url": "https://alpo.ge/remark.pdf",
-        "summary": "742 points, 428 comments on Hacker News",
-        "source": "Hacker News",
-        "date": "2026-11-20T14:16:21+00:00"
-      },
-      {
-        "title": "The week everything fell apart",
-        "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
-        "summary": "On The Vergecast: Is AI breaking the world? And is Jensen Huang coming back to Nvidia? And is Jensen Huang coming back to Nvidia?",
+        "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+        "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+        "summary": "Excellent main and telephoto cameras Privacy display Strong performance Compact Rear display is limited Basic ultrawide camera Expensive Excellent main and telephoto cameras Privacy display Strong performance Extended dynamic range Rear display is limited Basic ultrawide camera Expensive There are two Xiaomi 18 Pro phones: the £1,199 Pro (around $1,570) and the £1,399 Pro Max (around $1,830). The Xiaomi 18 Pro…",
         "source": "The Verge",
-        "date": "2026-11-20T14:06:59+00:00"
+        "date": "2026-11-21T13:00:00+00:00"
       },
       {
-        "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-        "summary": "Signal will now restrict screenshots on mobile devices, and says AI agents are ‘hostile to privacy.’ Signal will now restrict screenshots on mobile devices, and says AI agents are ‘hostile to privacy.’ Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users’ messages and other data. The agentic AI capabilities built into operating systems…",
+        "title": "The game of the year is finally here",
+        "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+        "summary": "Welcome to Installer No. Also, programming note: Installer is off next week. Tell me everything: installer@theverge.com .",
         "source": "The Verge",
-        "date": "2026-11-20T12:30:47+00:00"
+        "date": "2026-11-21T13:00:00+00:00"
       },
       {
-        "title": "Why the robots are ditching Uber",
-        "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
-        "summary": "Can Uber still be the default app for autonomy? Can Uber still be the default app for autonomy? Uber’s exit gave Waymo an opening.",
+        "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+        "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+        "summary": "“In auto, you have Class 1 companies and you have Class 8 companies,” Harris says. The company is not pursuing heavy-duty Class 8 trucks like the Tesla Semi , however, as Harris argues the economics of electric long-haul trucking are unworkable. “Auto is a big enough opportunity that it can get people’s attention,” Harris says.",
         "source": "The Verge",
-        "date": "2026-11-20T12:00:00+00:00"
+        "date": "2026-11-21T12:00:00+00:00"
       },
       {
-        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-        "url": "https://architectlabs.com/blog/frostbite",
-        "summary": "Frostbite was designed with zero architectural priors. From then on, contracts, Arcmodel, RTL, and power moved forward together. A search set of workloads drove all architectural optimization, ISA design, RTL, and verification, and the chip was evaluated on both the 10 search-set workloads and the 15 held out, including the five practical workloads added later (Fig. (393 points, 248 comments on Hacker News)",
+        "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+        "url": "https://news.ycombinator.com/item?id=50583761",
+        "summary": "Don't even start doing that. Maybe even paying users. Maybe even paying users. (348 points, 355 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-20T10:01:41+00:00"
+        "date": "2026-11-20T23:18:32+00:00"
       },
       {
-        "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-        "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-        "summary": "Absent from the book was a lecture Feynman gave on planetary motion, but a later finding of the notes enabled David Goodstein, a colleague of Feynman’s, to write a book about it: Feynman’s Lost Lecture . In order to comment or fave, you need to be a kottke.org member. In order to comment or fave, you need to be a current kottke.org member. (324 points, 186 comments on Hacker News)",
+        "title": "NINLIVE: The Nine Inch Nails live archive",
+        "url": "https://ninlive.com/",
+        "summary": "Explore shows, download recordings, stream audio, and follow the tape trail across every era. Besides a database driven site. Some truly incredible work. (305 points, 80 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-20T09:43:19+00:00"
+        "date": "2026-11-20T22:30:47+00:00"
       },
       {
-        "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
-        "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
-        "summary": "Faig Abbasov, shipping policy manager at T&E, said: “Luxury cruise ships are floating cities powered by some of the dirtiest fuel possible. Furthermore, the report recommends regulating NOx emissions from existing ships, which are currently exempt from NOx standards applying in emission control areas. Faig Abbasov concluded “There are enough mature technologies to clean up cruise ships. (346 points, 197 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-11-20T09:13:09+00:00"
+        "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+        "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+        "summary": "The potential settlement would also require YouTube to introduce new safeguards for teens, Bloomberg reports. The potential settlement would also require YouTube to introduce new safeguards for teens, Bloomberg reports. As part of the agreement, Meta will only shell out the remaining $5.3 billion of its $17.1 billion settlement if YouTube and TikTok roll out similar changes and pay matching amounts.",
+        "source": "The Verge",
+        "date": "2026-11-20T20:43:52+00:00"
       },
       {
-        "title": "\"I can tell you wrote this yourself\"",
-        "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
-        "summary": "It's a roughly 10-page report on the control of flapping-wing micro aerial vehicles - which is probably very boring unless you're particularly interested in that. Think about what the creators of the content you consume want you to think 2 . Think about things as much as possible. (331 points, 310 comments on Hacker News)",
+        "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+        "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+        "summary": "This super composite rating is the result of a weighted average of the rankings based on the following ratings: Fundamentals (Composite), Valuation (Composite), EPS Revisions (1 year), and Visibility (Composite). This composite rating is the result of an average of the rankings based on the following ratings: Fundamentals (Composite), Valuation (Composite), Financial Estimates Revisions (Composite), Consensus… (293 points, 159 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-20T07:13:21+00:00"
+        "date": "2026-11-20T20:22:41+00:00"
       },
       {
-        "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
-        "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
-        "summary": "426 points, 161 comments on Hacker News",
+        "title": "Inkling 2 Mini",
+        "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "summary": "Inkling 2 Mini is a looped transformer, running the middle layers of the model three times for every token. Our model uses attention residuals. After pruning, the model trained on 1T tokens distilled from a larger internal Inkling model. (1150 points, 218 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-20T05:21:02+00:00"
+        "date": "2026-11-20T20:12:19+00:00"
+      },
+      {
+        "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+        "url": "https://scottaaronson.blog/?p=10344",
+        "summary": "Youlian #11 asks what we know about the human proof. Humans may take forever to verify a 17 million line Lean proof. Warren Harper #40 asks if AI has already found bugs in the human proof. (320 points, 285 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-20T20:03:07+00:00"
       }
     ]
   }
