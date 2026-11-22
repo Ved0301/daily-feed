@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:07:34.145267+00:00",
+  "generated_at": "2026-11-22T15:05:05.847854+00:00",
   "sections": {
     "research": [
       {
@@ -175,9 +175,58 @@
     ],
     "startups": [
       {
+        "title": "Can a TV be too large? An investigation",
+        "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+        "summary": "I’m scared to turn the thing on lol.” Others blamed the sheer size of the screen. Others blamed viewers for sitting too close to the screen — yet I was sitting a solid nine feet away, which is well within the recommended range for a 65-inch screen. Finally, others have argued that the screen brightness could be agitating users’ eyes.",
+        "source": "TechCrunch",
+        "date": "2026-11-22T15:00:00+00:00"
+      },
+      {
+        "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+        "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+        "summary": "Signal announced Friday that it’s limiting users’ ability to take screenshots within the secure messaging app — a response to what President Meredith Whittaker described as the “existential threat” of operating systems that integrate agentic AI. Whittaker wrote that by giving AI agents the ability to “scan” the information on users’ screens, Windows, Android, and macOS/iOS “are undermining Signal’s ability to…",
+        "source": "TechCrunch",
+        "date": "2026-11-21T21:37:10+00:00"
+      },
+      {
+        "title": "A tale of two Nvidias",
+        "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+        "summary": "Kirsten Korosec: Nvidia will no longer sell its H200 chips in China . Kirsten: Although Nvidia’s bottom line is doing just fine. Tim: Right, never say never.",
+        "source": "TechCrunch",
+        "date": "2026-11-21T21:07:42+00:00"
+      },
+      {
+        "title": "Trump says reported FBI database hack is ‘not good’",
+        "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+        "summary": "The FBI is investigating an apparent hack of the National Crime Information Center (NCIC), according to reports in CNN and the Associated Press . The NCIC is the online database used by federal and local law enforcement to share information about warrants, background checks, and more. A former FBI official told CNN that they’re not just concerned about “whether hackers gained access to sensitive information,…",
+        "source": "TechCrunch",
+        "date": "2026-11-21T18:44:53+00:00"
+      },
+      {
+        "title": "Here are the top AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "summary": "Comma is designed to manage tasks across both work and everyday life. It can help manage calendars, email, reminders, tasks, notes, and communications. Tab allows users to delegate everyday tasks through familiar messaging platforms.",
+        "source": "TechCrunch",
+        "date": "2026-11-21T17:00:00+00:00"
+      },
+      {
+        "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+        "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+        "summary": "For the most part, the content offered by the microdrama startup Shortical is indistinguishable from the rest of its industry . Shortical hopes the series will draw more attention to face licensing and plans to promote the offering more actively following this launch.” Much of this trend has already taken hold in China where the microdrama industry originated, where AI-generated content is big, and where…",
+        "source": "TechCrunch",
+        "date": "2026-11-21T16:00:00+00:00"
+      },
+      {
+        "title": "Alaska, your next governor is a Wikipedia nerd",
+        "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+        "summary": "On a Reddit page dedicated to discussing Wikipedia, someone posted that they had found what seemed very likely to be Kreiss-Tomkins’ account — a page for a user named Jonathan.s.kt from Sitka, Alaska who went to Yale, liked mountaineering, and made 13,358 Wikipedia edits between 2005 and 2011. The governor-elect is also from Alaska, went to Yale, and climbs mountains. A dedicated public servant to the global…",
+        "source": "TechCrunch",
+        "date": "2026-11-21T15:18:29+00:00"
+      },
+      {
         "title": "Startup sues Apple in India over tap-to-share contacts feature",
         "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-        "summary": "GG Technologies, the startup behind StayTouch , an app that lets users exchange contact details by bringing their phones close together, is seeking ₹15 billion (about $161.86 million) in damages and an injunction against Apple, per court documents reviewed by TechCrunch. Apple introduced NameDrop as part of iOS 17 in June 2023. GG Technologies urged the court in its filing to restrict Apple from selling or importing…",
+        "summary": "Apple is being sued in India by a U.S.-based startup that alleges the iPhone maker’s NameDrop feature, which lets users share contact information by bringing devices close together, infringes its patented technology. Apple introduced NameDrop as part of iOS 17 in June 2023. GG Technologies urged the court in its filing to restrict Apple from selling or importing iPhones and Apple Watches preloaded with NameDrop in…",
         "source": "TechCrunch",
         "date": "2026-11-21T04:00:00+00:00"
       },
@@ -208,141 +257,92 @@
         "summary": "But this week was all about super-hot rock geothermal. The secret to super-hot rock geothermal is what happens to water at extreme depths. Super-hot rock geothermal is inching closer to commercial reality.",
         "source": "TechCrunch",
         "date": "2026-11-20T18:34:00+00:00"
-      },
-      {
-        "title": "Chips can survive the space environment — can their financing?",
-        "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-        "summary": "The push to build data centers in space faces plenty of obstacles, from tricky engineering to a dearth of rockets that could take chips to orbit. But what about paying for the chips? Even with Starship, however, SpaceX — as well as startups like StarCloud, Cowboy Space Corporation, Sophia Space, Orbital, and others — will need to buy chips.",
-        "source": "TechCrunch",
-        "date": "2026-11-20T17:40:01+00:00"
-      },
-      {
-        "title": "Bending Spoons buys Mailchimp for $3.68B",
-        "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-        "summary": "Bending Spoons has bought up another distressed internet company. Intuit acquired the company in 2021 for roughly $12 billion, so it’s taking quite a loss — and, perhaps, Bending Spoons is getting quite a bargain. Bending Spoons describes the transaction as an all-cash deal, although that’s not quite true: As part of the same package, Intuit is buying $368 million in newly minted shares of Bending Spoons, so the net…",
-        "source": "TechCrunch",
-        "date": "2026-11-20T16:16:06+00:00"
-      },
-      {
-        "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-        "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-        "summary": "The data security lapse at San Francisco-based Tigerfish exposed transcriptions of police interviews, body-cam footage, and customers’ raw audio and video footage. Sen, 30, is no stranger to TechCrunch. “Everyone often fears shadowy hackers,” Sen said.",
-        "source": "TechCrunch",
-        "date": "2026-11-20T15:46:07+00:00"
-      },
-      {
-        "title": "Six AI-powered gadgets that could make your home office smarter",
-        "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-        "summary": "The AI-powered pen combines traditional handwriting with audio recording. Anker’s AI-powered recording pin, Soundcore Work , is designed to capture conversations, meetings, and quick voice memos without taking up much space on your desk. Autonomous Desk Pro is an adjustable standing desk designed to encourage healthier habits throughout the workday.",
-        "source": "TechCrunch",
-        "date": "2026-11-20T14:00:00+00:00"
-      },
-      {
-        "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-        "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-        "summary": "Of Nvidia’s employees, he said, “They love [Huang]. According to the Times, Huang told subordinates that Nvidia’s wealth meant it wasn’t possible to motivate employees with money, so humiliation was the only lever left. Huang’s spokesman calls the allegations fabrications.",
-        "source": "TechCrunch",
-        "date": "2026-11-20T13:25:00+00:00"
-      },
-      {
-        "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
-        "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
-        "summary": "California’s Attorney General Rob Bonta on Thursday evening said the state has served an investigative subpoena to Nvidia following news of former CEO Jensen Huang’s affair with a woman who the U.S. government believes is a Chinese spy. “My office is investigating whether Nvidia or Jensen Huang’s actions resulted in China obtaining advanced chips or confidential information — and if Nvidia misled investors and the…",
-        "source": "TechCrunch",
-        "date": "2026-11-20T13:21:11+00:00"
-      },
-      {
-        "title": "The US national cyber director is stepping down",
-        "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
-        "summary": "White House national cyber director Sean Cairncross will be stepping down from his role, Axios reported. Cairncross, the president’s principal adviser on national cybersecurity policy and strategy, took office in August 2025. The office hasn’t been around long; Congress created it in early 2021, and Cairncross was only its third Senate-confirmed director.",
-        "source": "TechCrunch",
-        "date": "2026-11-20T09:14:19+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "Can Anthropic afford to put safety first?",
-        "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-        "summary": "Anthropic had to have a public statement. Anthropic has seven founders. That’s the thing, Anthropic needs money.",
+        "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+        "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+        "summary": "The hybrid handheld / home console was already one of the best values in gaming, and now it’s an even better deal. The Mario Kart World bundle runs $499.99 (previously $549.99) and includes the console, a digital copy of the aforementioned game, and three months of Nintendo Switch Online. Nintendo has delivered hit after hit since the console launched in mid-2025.",
         "source": "The Verge",
-        "date": "2026-11-21T15:00:00+00:00"
+        "date": "2026-11-22T14:00:00+00:00"
       },
       {
-        "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-        "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-        "summary": "The Liberty 5 Pro have the best voice call clarity of any earbuds we’ve tested, and they’re marked down for Black Friday. The Liberty 5 Pro have the best voice call clarity of any earbuds we’ve tested, and they’re marked down for Black Friday. If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon , Best Buy , and Walmart right now.",
+        "title": "‘The show is starting soon. Please turn on your headphones.’",
+        "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+        "summary": "Auracast broadcasts are an integral part of the storytelling in this off-Broadway show about love, connections, and hearing loss. Auracast broadcasts are an integral part of the storytelling in this off-Broadway show about love, connections, and hearing loss. But one sound that stays clear and pristine is Michael’s inner monologue, heard in the headphones throughout the show.",
         "source": "The Verge",
-        "date": "2026-11-21T14:55:28+00:00"
+        "date": "2026-11-22T14:00:00+00:00"
       },
       {
-        "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-        "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-        "summary": "Chess.com is ready to go a lot bigger than chess. The expansion hasn’t put Chess.com itself on the back burner, according to Cheng. Chess.com might not be done growing its library of games, either.",
+        "title": "How Tamagotchis got us hooked on digital pets",
+        "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+        "summary": "On Version History: Why millions of people signed up to feed, change, and play with a beeping little keychain. On Version History: Why millions of people signed up to feed, change, and play with a beeping little keychain. On this episode of Version History, we dig deep into the story of the Tamagotchi.",
         "source": "The Verge",
-        "date": "2026-11-21T14:00:00+00:00"
+        "date": "2026-11-22T13:15:27+00:00"
       },
       {
-        "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-        "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
-        "summary": "Excellent main and telephoto cameras Privacy display Strong performance Compact Rear display is limited Basic ultrawide camera Expensive Excellent main and telephoto cameras Privacy display Strong performance Extended dynamic range Rear display is limited Basic ultrawide camera Expensive There are two Xiaomi 18 Pro phones: the £1,199 Pro (around $1,570) and the £1,399 Pro Max (around $1,830). The Xiaomi 18 Pro…",
+        "title": "Your questions about Apple HomeView’s audio, answered",
+        "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+        "summary": "The HomeView only automatically uses the last speakers if you choose content from the HomeView screen. If you use Siri voice control, it defaults to the HomeView speaker. I tried several apps: Pocket Casts, Amazon Music, YouTube Music, Spotify, and Audible.",
         "source": "The Verge",
-        "date": "2026-11-21T13:00:00+00:00"
+        "date": "2026-11-22T13:00:00+00:00"
       },
       {
-        "title": "The game of the year is finally here",
-        "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
-        "summary": "Welcome to Installer No. Also, programming note: Installer is off next week. Tell me everything: installer@theverge.com .",
+        "title": "The vibe-coding revolution is coming to all the gadgets",
+        "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+        "summary": "Now, it seems, all hardware is hacker hardware. The arms race between device manufacturers and vibe hackers is only going to continue. At the same time, we’re already seeing some vibe hackers turn into proper software vendors.",
         "source": "The Verge",
-        "date": "2026-11-21T13:00:00+00:00"
+        "date": "2026-11-22T13:00:00+00:00"
       },
       {
-        "title": "Harbinger is building the unsexy EVs that keep the economy moving",
-        "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
-        "summary": "“In auto, you have Class 1 companies and you have Class 8 companies,” Harris says. The company is not pursuing heavy-duty Class 8 trucks like the Tesla Semi , however, as Harris argues the economics of electric long-haul trucking are unworkable. “Auto is a big enough opportunity that it can get people’s attention,” Harris says.",
-        "source": "The Verge",
-        "date": "2026-11-21T12:00:00+00:00"
-      },
-      {
-        "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-        "url": "https://news.ycombinator.com/item?id=50583761",
-        "summary": "Don't even start doing that. Maybe even paying users. Maybe even paying users. (348 points, 355 comments on Hacker News)",
+        "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+        "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+        "summary": "A case study of Anthropic’s total power use and emissions. Map of Anthropic’s data centers and associated power plants. About 25% (2.5 GW) of Anthropic’s contracted power will come from on-site, behind-the-meter gas. (332 points, 444 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-20T23:18:32+00:00"
+        "date": "2026-11-22T08:57:34+00:00"
       },
       {
-        "title": "NINLIVE: The Nine Inch Nails live archive",
-        "url": "https://ninlive.com/",
-        "summary": "Explore shows, download recordings, stream audio, and follow the tape trail across every era. Besides a database driven site. Some truly incredible work. (305 points, 80 comments on Hacker News)",
+        "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+        "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+        "summary": "Japan’s three largest automakers have agreed to begin standardizing vehicle parts in an effort to reduce costs, according to Automotive News . The outlet reports that Japan Automobile Manufacturers Association chairman Koji Sato, who is also the vice chairman of Toyota, announced the decision at a news conference in Tokyo this week. The push to simplify and lower costs comes as Japan’s seven automakers, including… (801 points, 474 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-20T22:30:47+00:00"
+        "date": "2026-11-22T04:04:56+00:00"
       },
       {
-        "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-        "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-        "summary": "The potential settlement would also require YouTube to introduce new safeguards for teens, Bloomberg reports. The potential settlement would also require YouTube to introduce new safeguards for teens, Bloomberg reports. As part of the agreement, Meta will only shell out the remaining $5.3 billion of its $17.1 billion settlement if YouTube and TikTok roll out similar changes and pay matching amounts.",
+        "title": "Data Processing Incidents on Inference Providers",
+        "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+        "summary": "We have been collaborating closely with the researchers and with providers to understand the findings and encourage the providers to address them. The results of this testing revealed new findings about specific inference providers. Not all affected providers have posted publicly. (224 points, 79 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-22T02:14:14+00:00"
+      },
+      {
+        "title": "Sandwich Simulator",
+        "url": "https://stulle.app/",
+        "summary": "388 points, 137 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-11-22T00:07:59+00:00"
+      },
+      {
+        "title": "Amazon is complaining about NYC Council on shipping labels, too",
+        "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+        "summary": "Amazon is taking its accusations that the Council is driving up prices offline and onto your packages. Amazon is taking its accusations that the Council is driving up prices offline and onto your packages. Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act .",
         "source": "The Verge",
-        "date": "2026-11-20T20:43:52+00:00"
+        "date": "2026-11-21T21:59:31+00:00"
       },
       {
-        "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
-        "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
-        "summary": "This super composite rating is the result of a weighted average of the rankings based on the following ratings: Fundamentals (Composite), Valuation (Composite), EPS Revisions (1 year), and Visibility (Composite). This composite rating is the result of an average of the rankings based on the following ratings: Fundamentals (Composite), Valuation (Composite), Financial Estimates Revisions (Composite), Consensus… (293 points, 159 comments on Hacker News)",
+        "title": "Advice for the next 100 Rust GUIs",
+        "url": "https://linebender.org/blog/next-100-guis/",
+        "summary": "The motivation to build GUI apps in Rust remains strong. Many shipping GUI apps suffer from poor performance, especially when built with cross-platform technology. Building high-performance UI in Rust is a practical alternative. (215 points, 102 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-20T20:22:41+00:00"
+        "date": "2026-11-21T21:17:53+00:00"
       },
       {
-        "title": "Inkling 2 Mini",
-        "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-        "summary": "Inkling 2 Mini is a looped transformer, running the middle layers of the model three times for every token. Our model uses attention residuals. After pruning, the model trained on 1T tokens distilled from a larger internal Inkling model. (1150 points, 218 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-11-20T20:12:19+00:00"
-      },
-      {
-        "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-        "url": "https://scottaaronson.blog/?p=10344",
-        "summary": "Youlian #11 asks what we know about the human proof. Humans may take forever to verify a 17 million line Lean proof. Warren Harper #40 asks if AI has already found bugs in the human proof. (320 points, 285 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-11-20T20:03:07+00:00"
+        "title": "The UN fails to agree on rules regulating ‘killer robots’",
+        "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+        "summary": "Countries agree to ‘start discussing options’ for rules around autonomous weapons. Countries agree to ‘start discussing options’ for rules around autonomous weapons. Then the United States proposed a five-year window to discuss nonbinding, optional guidelines for autonomous weapons.",
+        "source": "The Verge",
+        "date": "2026-11-21T20:03:37+00:00"
       }
     ]
   }
