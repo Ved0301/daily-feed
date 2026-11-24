@@ -1,93 +1,107 @@
 {
-  "generated_at": "2026-11-23T19:00:35.383109+00:00",
+  "generated_at": "2026-11-24T18:40:56.249137+00:00",
   "sections": {
     "research": [
       {
-        "title": "Optimal Linear Regression Without a Variance",
-        "url": "https://arxiv.org/abs/2611.27983v1",
-        "summary": "Artin Tajdini, Jasper C. H. Lee, Jonathan Scarlett et al. — We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\\in(1,2)$, and the covariates may only have finite…",
+        "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
+        "url": "https://arxiv.org/abs/2611.31240v1",
+        "summary": "Seongchan Kim, Soowon Son, Sangoh Kim et al. — Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for…",
         "source": "arXiv",
-        "date": "2026-11-20T18:58:45Z"
+        "date": "2026-11-23T18:59:52Z"
       },
       {
-        "title": "A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial…",
-        "url": "https://arxiv.org/abs/2611.27978v1",
-        "summary": "Hari Sitaula, Joseph Opitz — This study examines one-day-ahead forecasting of the S&P 500 closing level using a 2006-2025 dataset that includes fundamental price data, macroeconomic indicators, and engineered technical features.",
+        "title": "Let Vision-Language Models Generate Images through Their Representations",
+        "url": "https://arxiv.org/abs/2611.31237v1",
+        "summary": "JB Kim, Byungwoo Jeon, Kyungmin Lee et al. — Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained vision-language…",
         "source": "arXiv",
-        "date": "2026-11-20T18:57:15Z"
+        "date": "2026-11-23T18:59:32Z"
       },
       {
-        "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
-        "url": "https://arxiv.org/abs/2611.27973v1",
-        "summary": "Chang Nie, Chaoyou Fu, Songlin Liu et al. — Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, posing challenges for existing architectures. Standard Transformers…",
+        "title": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
+        "url": "https://arxiv.org/abs/2611.31233v1",
+        "summary": "Hani Alomari, Md Atabuzzaman, Chris Thomas — CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap. Retrieval fails when wrong matches,…",
         "source": "arXiv",
-        "date": "2026-11-20T18:51:29Z"
+        "date": "2026-11-23T18:59:13Z"
       },
       {
-        "title": "On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals",
-        "url": "https://arxiv.org/abs/2611.27970v1",
-        "summary": "Javier Sanchis, Álvaro Navarro, Jorge García-Carrasco et al. — Attention-deficit/hyperactivity disorder is a neurodevelopmental condition that can affect attention, activity and impulse control. Electroencephalography (EEG) records brain activity as children and adolescents perform…",
+        "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
+        "url": "https://arxiv.org/abs/2611.31228v1",
+        "summary": "Daniel Theron — Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes…",
         "source": "arXiv",
-        "date": "2026-11-20T18:51:08Z"
+        "date": "2026-11-23T18:58:52Z"
       },
       {
-        "title": "Non-penetrating World Models",
-        "url": "https://arxiv.org/abs/2611.27963v1",
-        "summary": "Yuhang Dai, Yinwei Wu, Ziyue Lin et al. — We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world models respond to…",
+        "title": "How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation Modelling",
+        "url": "https://arxiv.org/abs/2611.31227v1",
+        "summary": "Abhishek Sharma, Aleksej Zelezniak — Understanding how genetic perturbations affect cellular behaviour is essential for studying gene function and regulatory mechanisms. Large-scale CRISPR screens measure these effects across thousands of genes, but cover…",
         "source": "arXiv",
-        "date": "2026-11-20T18:44:57Z"
+        "date": "2026-11-23T18:58:32Z"
       },
       {
-        "title": "Model Carving: Training Transformers That Optimize Their Own Topology",
-        "url": "https://arxiv.org/abs/2611.27962v1",
-        "summary": "Kaden Zheng, Pratyusha Sharma — Machine learning has largely kept separate the choice of architecture and the process of training. A classic Transformer, for instance, trains a fixed set of attention and MLP sublayers at every layer, in the same…",
+        "title": "Self-Supervised Dataset Distillation via Mutual Information Maximization",
+        "url": "https://arxiv.org/abs/2611.31225v1",
+        "summary": "Mohammad Hossein Moslemi, Mahdi Beitollahi, Zhimin Mei et al. — Dataset distillation (DD) aims to compress a large dataset into a small synthetic one that remains effective for training neural networks. Despite its success in supervised learning, DD remains underexplored in…",
         "source": "arXiv",
-        "date": "2026-11-20T18:41:39Z"
+        "date": "2026-11-23T18:58:27Z"
       },
       {
-        "title": "Ranking-Preserving Coreset Selection for Efficient Evolutionary Hyperparameter Optimization",
-        "url": "https://arxiv.org/abs/2611.27959v1",
-        "summary": "Mamoona Tasadduq, Maryam Bashir — Hyperparameter optimization (HPO) is essential for high predictive performance, but its computational cost becomes prohibitive when candidate configurations require repeated training on large datasets.",
+        "title": "Agentic AI for Intent Management and Control in Autonomous Communication Networks",
+        "url": "https://arxiv.org/abs/2611.31223v1",
+        "summary": "Burak Demirel, Yu Wang, Pablo Soldati — Artificial intelligence (AI)-driven automation will help future mobile networks translate high-level network intents into concrete network optimization or control actions. However, existing approaches often focus on…",
         "source": "arXiv",
-        "date": "2026-11-20T18:35:28Z"
+        "date": "2026-11-23T18:57:32Z"
       },
       {
-        "title": "Topology Hub Optimal Transport: Eliminating Long Context Dilution at Flash Speed",
-        "url": "https://arxiv.org/abs/2611.27951v1",
-        "summary": "Dylan Forde — Long-context models use sparse or structured attention to avoid quadratic cost, yet retrieving a small set of relevant facts embedded among hundreds of thousands of distractors degrades as normalization mass disperses…",
+        "title": "CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings to 3D Chest CT Scans",
+        "url": "https://arxiv.org/abs/2611.31222v1",
+        "summary": "Mohammed Baharoon, Sung Eun Kim, Mahmoud Hussain Alabbad et al. — Radiology reports describe findings in text only, without visually marking them on the scan, so readers cannot directly see which abnormality each reported finding refers to. We introduce CTLink, a text-prompted 3D…",
         "source": "arXiv",
-        "date": "2026-11-20T18:23:42Z"
+        "date": "2026-11-23T18:57:26Z"
       },
       {
-        "title": "The Optimal Sample Complexity of Agnostic PAC Learning for Partial Concept Classes",
-        "url": "https://arxiv.org/abs/2611.27946v1",
-        "summary": "Liang-Yu Zou — Let $\\mathcal H\\subseteq\\{-1,+1,\\star\\}^{\\mathcal X}$ be a partial concept class of finite VC dimension $d$. We construct a deterministic agnostic PAC learner that, for every $\\varepsilon,δ\\in(0,1)$, uses…",
+        "title": "LeJEPA Features Are Not Isotropic, and Should Not Be",
+        "url": "https://arxiv.org/abs/2611.31216v1",
+        "summary": "Richeek Das, Pratik Chaudhari — The SIGReg term in LeJEPA regularizes features to have an isotropic Gaussian distribution. Our first result is to show that this regularizer, in practice, cannot achieve its goal.",
         "source": "arXiv",
-        "date": "2026-11-20T18:18:09Z"
+        "date": "2026-11-23T18:56:04Z"
       },
       {
-        "title": "BioEmu2: Scalable Emulation of Biomolecular Dynamics",
-        "url": "https://arxiv.org/abs/2611.27924v1",
-        "summary": "Michael Gastegger, Adam E. Foster, José Jiménez-Luna et al. — Despite major advances in structure prediction, modelling the motions and interactions that drive biomolecular function at scale remains a central challenge. We introduce BioEmu2, a generative model for atomically…",
+        "title": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
+        "url": "https://arxiv.org/abs/2611.31215v1",
+        "summary": "Xiwei Liu, Yulong Li, Xuhui Li et al. — Humans explore unfamiliar spaces with purpose, deciding where to look until they have gathered the evidence a spatial question requires. However, can vision-language models (VLMs), which reason increasingly well over…",
         "source": "arXiv",
-        "date": "2026-11-20T17:58:47Z"
+        "date": "2026-11-23T18:55:44Z"
       },
       {
-        "title": "SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement",
-        "url": "https://arxiv.org/abs/2611.27919v1",
-        "summary": "Huaze Tang, Runqing Miao, Tianren Peng et al. — Reward-independent representations enable reinforcement learning agents to reuse knowledge across tasks, but limited representation capacity raises three fundamental questions: what statistical dependence should these…",
+        "title": "Flood forecasting using a physics-guided conditional denoising diffusion probabilistic model",
+        "url": "https://arxiv.org/abs/2611.31212v1",
+        "summary": "Omar Sallam, David Coe, Jeremy Feinstein et al. — High-resolution flood forecasting with full two-dimensional shallow water equation (SWE) solvers remains computationally expensive, even on GPUs. We develop a conditional denoising diffusion probabilistic model (DDPM)…",
         "source": "arXiv",
-        "date": "2026-11-20T17:53:21Z"
+        "date": "2026-11-23T18:55:29Z"
       },
       {
-        "title": "StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning",
-        "url": "https://arxiv.org/abs/2611.27915v1",
-        "summary": "Chi Yan, Guoyang Zhao, Wentao Yuan et al. — Vision-language models (VLMs) exhibit strong semantic understanding but remain limited in their ability to reason about metric 3D space in the physical world. Existing VLMs typically infer 3D scene structure from one or…",
+        "title": "Verifying the Outputs of PDE Solvers: From Finite Elements to Neural Surrogates",
+        "url": "https://arxiv.org/abs/2611.31211v1",
+        "summary": "Konstantinos Dovelos — Physics simulation outputs increasingly come from solvers that no expert inspects, such as third-party packages in automated pipelines, programs written by large language models (LLMs), and learned surrogates.",
         "source": "arXiv",
-        "date": "2026-11-20T17:52:02Z"
+        "date": "2026-11-23T18:55:06Z"
       }
     ],
     "labs": [
+      {
+        "title": "How iFood scales coding agents across 15,000 repositories",
+        "url": "https://openai.com/index/ifood",
+        "summary": "",
+        "source": "OpenAI",
+        "date": "2026-11-24T00:00:00+00:00"
+      },
+      {
+        "title": "OpenAI and Cisco introduce Shirudo",
+        "url": "https://openai.com/index/introducing-shirudo",
+        "summary": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo, an open-source runtime that helps teams protect Linux systems while they roll out patches. Shirudo (Japanese for “shield”) is designed to help security teams navigate this tradeoff. Security teams control what gets deployed.",
+        "source": "OpenAI",
+        "date": "2026-11-23T21:20:00+00:00"
+      },
       {
         "title": "Supercharging transformer residual connections",
         "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
@@ -101,6 +115,20 @@
         "summary": "Sergey Shirobokov, Ben Jaderberg and Ryan Babbush How using agent teams and formal verification can improve quantum algorithms for modelling fusion energy, chemistry and enzymes Quantum computers could soon solve problems beyond the reach of classical supercomputers. In a new paper , we used teams of Gemini 4 agents to improve well-known quantum algorithms, creating highly efficient quantum circuits. Improving…",
         "source": "Google DeepMind",
         "date": "2026-11-23T16:59:40+00:00"
+      },
+      {
+        "title": "Connected intelligence for in-house legal",
+        "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+        "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside…",
+        "source": "OpenAI",
+        "date": "2026-11-23T08:00:00+00:00"
+      },
+      {
+        "title": "Richpanel helps companies automate 50% of support in 30 days",
+        "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+        "summary": "Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations. It writes procedures and defines how Richpanel’s frontline support agent, copilot, and quality-assurance agent call the tools they need. Richpanel’s customers may already use low-cost outsourced support.",
+        "source": "OpenAI",
+        "date": "2026-11-23T08:00:00+00:00"
       },
       {
         "title": "Perplexity and Intelligence",
@@ -143,206 +171,178 @@
         "summary": "The reason is a property called quantum contextuality , arguably the strangest feature of quantum mechanics. In \" Quantum-classical separation in bounded-resource tasks arising from measurement contextuality ,\" published in Science , we demonstrate and measure contextuality on our superconducting quantum processors. Useful quantum computing needs many qubits working together, so the question is whether contextuality…",
         "source": "Google Research",
         "date": "2026-11-19T20:03:00+00:00"
-      },
-      {
-        "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-        "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-        "summary": "Our Codex-powered system automates finding and fixing performance issues. In particular, the Regression Workflow opens a task when a performance alert fires. We built the Performance Factory to run end-to-end agentic performance engineering workflows.",
-        "source": "OpenAI",
-        "date": "2026-11-19T08:00:00+00:00"
-      },
-      {
-        "title": "Deploying Daybreak Red",
-        "url": "https://openai.com/business/learn/deploying-daybreak-red",
-        "summary": "A reference architecture for supervised security investigations. Learn how to set up an isolated environment for supervised security investigations with Daybreak Red. This guide covers architecture, safety controls, environment configuration, and how to run and monitor an investigation.",
-        "source": "OpenAI",
-        "date": "2026-11-19T00:00:00+00:00"
-      },
-      {
-        "title": "See PR scans in action",
-        "url": "https://openai.com/business/learn/pr-scans-demo",
-        "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-        "source": "OpenAI",
-        "date": "2026-11-19T00:00:00+00:00"
-      },
-      {
-        "title": "Get started with Daybreak Blue",
-        "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-        "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-        "source": "OpenAI",
-        "date": "2026-11-19T00:00:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-        "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-        "summary": "Jensen Huang is scheduled to testify before the Senate Banking Committee on December 3, according to a notice on the committee’s website. The public hearing follows bipartisan calls for Huang to testify about his affair with the suspected Chinese spy and his potential involvement in chip-smuggling operations. It’s worth noting that before his reinstatement as CEO, Huang had already agreed to appear before the House…",
+        "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+        "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+        "summary": "Anthropic’s stock fell below its IPO price of $83 , trading as low as $76 a share by midday Tuesday, down nearly 12% from Monday’s close. Falling below the IPO price is often seen as a negative signal because underwriters typically price offerings at a discount to their expected trading value. Anthropic isn’t the only AI stock selling off on Tuesday.",
         "source": "TechCrunch",
-        "date": "2026-11-23T18:12:22+00:00"
+        "date": "2026-11-24T18:30:42+00:00"
       },
       {
-        "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-        "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-        "summary": "Amazon has agreed to acquire a good chunk of Israeli startup Decart. As part of the deal, Amazon will acquire the technology behind DOS, as well as Decart’s founding team and team of AI researchers and engineers, Amazon said in a blog post . Decart and Amazon did not immediately return requests for comment.",
+        "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+        "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+        "summary": "The U.K. government’s cybersecurity unit says it has seen a “marked rise” in AI-driven cyberattacks in recent months, as hackers increasingly rely on autonomous hacking tools to identify and exploit simple weaknesses to break into systems and networks. National Cybersecurity Center (NCSC) said it has seen several cyber incidents since September involving autonomous hacking tools, such as penetration testing tools…",
         "source": "TechCrunch",
-        "date": "2026-11-23T17:14:23+00:00"
+        "date": "2026-11-24T18:02:59+00:00"
       },
       {
-        "title": "Meta throws out its net-zero goal. Its competitors should be furious",
-        "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
-        "summary": "Despite years of clean power procurement, Meta’s greenhouse gas emissions have more than doubled in the last four years. Meta’s bet on natural gas appears mistimed. After this, who will trust another tech company’s voluntary net zero goals?",
+        "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
+        "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
+        "summary": "It’s also added another new feature, borrowed from X: the stock-tracking feature known as cashtags. Instead of offering a multi-column interface as on Threads’ web app, the iPad app focuses on the user’s main feed in a single-column layout. According to a post from Threads engineer Guy Dickinson , Threads will now support cashtags — a feature popularized by Twitter years ago for tracking live stock information.",
         "source": "TechCrunch",
-        "date": "2026-11-23T17:13:45+00:00"
+        "date": "2026-11-24T17:44:34+00:00"
       },
       {
-        "title": "Jensen Huang isn’t out of the woods yet",
-        "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-        "summary": "Monday morning, Jensen Huang returned as CEO of Nvidia, after resigning the position following news of multiple affairs, including one with a subordinate and one with a woman tied to Chinese intelligence services. Still, tech leaders should be clear-eyed about all the problems likely to come with Huang’s reinstatement. Even if they can’t fire Huang or remove Trump, there are lots of uncomfortable questions that are…",
+        "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+        "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+        "summary": "FedEx, which ordered 2,000 trucks from Harbinger, also participated. Erebor is now Harbinger’s primary banking partner. “Harbinger is exactly the kind of business we built Erebor to back: an American manufacturer building world-class technology,” he said.",
         "source": "TechCrunch",
-        "date": "2026-11-23T16:57:40+00:00"
+        "date": "2026-11-24T17:29:09+00:00"
       },
       {
-        "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-        "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-        "summary": "A close ally of Nvidia co-founder Jensen Huang, President Donald Trump reportedly dialed into an Nvidia board meeting to push for the ousted CEO’s return, Semafor reported on Monday. Trump got his way, as Nvidia announced Huang’s reinstatement shortly afterwards. Huang’s reinstatement poses no national security risk.” While Trump has declared that Huang “did absolutely nothing wrong,” many government officials…",
+        "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+        "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+        "summary": "Instagram users can now chat with Meta’s AI agent Muse in a DM thread, the company announced on Tuesday. Meta notes that conversations with Muse on Instagram will appear as a side chat in the main Muse app. Meta says that users remain in control of their Muse experience on Instagram.",
         "source": "TechCrunch",
-        "date": "2026-11-23T16:39:10+00:00"
+        "date": "2026-11-24T17:00:00+00:00"
       },
       {
-        "title": "CrowdStrike to acquire Zscaler for $44 billion",
-        "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
-        "summary": "Cybersecurity giant CrowdStrike has agreed to buy Zscaler in a $43.9 billion all-stock deal, the companies announced Monday. Crowdstrike and Zscaler said that the deal will create the “largest single addressable market” for cybersecurity, which will enable the companies to better position themselves for the AI era. Zscaler is a San Jose, Calif.-based tech company that provides cloud cybersecurity products to about…",
+        "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+        "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+        "summary": "Music streaming service Tidal said on Tuesday that it will start banning and removing songs generated fully with AI in a bid to stem the flood of submissions to its platform. Tidal is also banning distribution services from delivering 100% AI-generated tracks, and will reject submissions if songs’ metadata says they are made fully using AI. The move comes as AI-generated music inundates streaming services across the…",
         "source": "TechCrunch",
-        "date": "2026-11-23T16:20:11+00:00"
+        "date": "2026-11-24T16:46:00+00:00"
       },
       {
-        "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
-        "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
-        "summary": "The Dutch Data Protection Authority is urging consumers not to buy AI-enabled camera glasses, warning that they compromise the privacy of nearby bystanders and risk the safety of their users. Some people have even made phone apps capable of detecting nearby smart glasses wearers. The Dutch data protection authority warned that the glasses also produce wrong results and unsafe results.",
+        "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+        "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+        "summary": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area more than six months after receiving the permit that allowed the companies to pull the human safety driver from behind the wheel. Nuro has spent nearly a year testing the Lucid Gravity robotaxi on public roads in the San Francisco Bay Area with a human safety operator behind the wheel. Uber and Nuro are…",
         "source": "TechCrunch",
-        "date": "2026-11-23T15:29:49+00:00"
+        "date": "2026-11-24T16:40:46+00:00"
       },
       {
-        "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-        "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-        "summary": "President Trump praised Nvidia’s decision on Monday to reinstate founder Jensen Huang as the company’s CEO and president, saying on his social network Truth Social that “the United States Government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security.” The Nvidia board’s statement had also referred to consultations with “senior levels of the United States government” as…",
+        "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+        "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+        "summary": "That picture involves solar paired with energy storage, based on an analysis Porter and his colleagues at G2VP recently conducted on the state of the data center power market. As the next wave takes shape, the firm sees two different paths for data centers: small, on-grid facilities with their own generating capacity, and larger data centers powered by solar and long-duration energy storage. “The big idea is to go…",
         "source": "TechCrunch",
-        "date": "2026-11-23T15:04:01+00:00"
+        "date": "2026-11-24T16:10:00+00:00"
       },
       {
-        "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-        "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-        "summary": "Enterprise customer experience company Sierra , co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round that doubles the company’s valuation to $30 billion. The new raise comes within six months of its previous round, which valued the company at $15 billion . Voice AI company ElevenLabs is now valued at $22 billion; Decagon is valued at $4.5 billion ;…",
+        "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+        "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+        "summary": "Pinterest announced this week that it’s expanding its parental controls, but one new feature stands out: Parents can now control how much AI-generated content their children are exposed to. The change makes Pinterest one of the first major social platforms to allow parents to control how much AI-generated content is shown to their children as part of the overall user experience. But when it comes to AI-generated…",
         "source": "TechCrunch",
-        "date": "2026-11-23T14:43:03+00:00"
+        "date": "2026-11-24T16:02:37+00:00"
       },
       {
-        "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-        "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-        "summary": "Huang’s candor and ability to lead Nvidia.” Just a few days ago, the board had seemed immovable in its choice to push Huang out. During the company’s third-quarter earnings call, Nvidia board chair Harvey C. Jones said they didn’t intend to reinstate Huang.",
+        "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+        "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+        "summary": "The broader industry seems to agree that Decart’s tech for optimizing AI models to run on non-Nvidia chips is worth several billion dollars. In its announcement , Amazon said it has worked with Decart since 2025 to optimize the Trainium chips. Amazon could well be following a similar path.",
         "source": "TechCrunch",
-        "date": "2026-11-23T14:21:59+00:00"
+        "date": "2026-11-24T15:51:07+00:00"
       },
       {
-        "title": "Uber now lets you book rides that record the drive by default",
-        "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
-        "summary": "Uber is piloting a new feature in the U.S. that offers rides in which drivers have enabled the company’s recording feature, Record My Ride. Uber said it is testing recorded rides specifically for rides booked at late night or those involving teens. Earlier this year, it introduced a live video streaming feature for rides booked for teenagers .",
+        "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
+        "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+        "summary": "Early in November, Huang admitted to an extramarital affair in a letter to employees. It’s not clear which affairs Huang admitted to during this recent conversation with Nvidia’s board of directors. Huang received a “hero’s welcome” at Nvidia’s HQ , with several employees applauding his return.",
         "source": "TechCrunch",
-        "date": "2026-11-23T14:00:00+00:00"
+        "date": "2026-11-24T13:29:53+00:00"
       },
       {
-        "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-        "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-        "summary": "Moreover, at $61.5 billion, Anthropic’s valuation was by far the highest that the predominantly early-stage venture firm had invested at in its 25-year history. GIC then made its first investment in Anthropic’s Series F, a round announced in September 2025 at a $183 billion valuation. “Claude Code was just released then,” Emanuel told TechCrunch.",
+        "title": "Figma employee sues, alleging company forced her to confront harassers",
+        "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+        "summary": "Park says she tried to avoid her onboarding mentor. Park alleges the harassment continued throughout 2023. Park again complained to HR about “escalating retaliation” and expressed concern the manager would “derail her career.” HR allegedly defended the manager’s conduct, saying the manager was “within her reasonable authority” and again instructed Park to address her concerns directly with the manager.",
         "source": "TechCrunch",
-        "date": "2026-11-23T01:25:53+00:00"
+        "date": "2026-11-23T23:07:49+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "GTA VI’s pretentious puzzler makes indie developers feel ‘part of larger culture’",
-        "url": "https://www.theverge.com/games/1040265/gta-vi-tenebrae-lux-indie-developers",
-        "summary": "Tenebrae Lux is a gag that has inspired some larger conversations about the gap between indie games and big-budget blockbusters. Tenebrae Lux is a gag that has inspired some larger conversations about the gap between indie games and big-budget blockbusters. There are more games you can play inside GTA VI in addition to Tenebrae Lux , including a zombie-themed roguelike.",
+        "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+        "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+        "summary": "Early screenings of David Fincher’s latest film are raising questions about whether the director used generative AI. Early screenings of David Fincher’s latest film are raising questions about whether the director used generative AI. Though David Fincher ’s fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth , early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt…",
         "source": "The Verge",
-        "date": "2026-11-23T18:55:06+00:00"
+        "date": "2026-11-24T18:15:00+00:00"
       },
       {
-        "title": "Peacock subscriptions are up to 66 percent off for Black Friday",
-        "url": "https://www.theverge.com/gadgets/1040122/peacock-subscription-black-friday-2026-deal-sale",
-        "summary": "Black Friday is a great time to sign up for a new Peacock plan, which can help you weather the cold winter months indoors. Black Friday is a great time to sign up for a new Peacock plan, which can help you weather the cold winter months indoors. You can now sign up for the ad-supported Select plan , usually $8.99 per month or $89.99 per year, for $2.99 for the first three months or $29.99 for the first year.",
+        "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
+        "url": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
+        "summary": "We’ve rounded up the best discounts on our favorite robot vacuums, including models that can mop on your behalf. Roborock’s first roller-mop robot vacuum, the Curv 2 Flow, features flagship specs at a midrange price, including excellent mopping, a retractable mop cover, 20,000Pa suction, AI-powered obstacle avoidance, and a compact design. Ecovacs’ robot vacuum and mop can pretreat stains, keep carpets dry with a…",
         "source": "The Verge",
-        "date": "2026-11-23T18:33:29+00:00"
+        "date": "2026-11-24T17:30:00+00:00"
       },
       {
-        "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-        "summary": "State AGs called the weak safeguards built into Elon Musk’s AI image generator ‘not a failure but a feature.’﻿ State AGs called the weak safeguards built into Elon Musk’s AI image generator ‘not a failure but a feature.’﻿ In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring…",
+        "title": "Tidal will start banning AI-generated music next month",
+        "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+        "summary": "The music streaming platform estimates that it will delete 29 million songs as a result of the AI ban. The music streaming platform estimates that it will delete 29 million songs as a result of the AI ban. Tidal is officially banning AI-generated music on December 9th.",
         "source": "The Verge",
-        "date": "2026-11-23T18:26:47+00:00"
+        "date": "2026-11-24T17:17:09+00:00"
       },
       {
-        "title": "The best Black Friday deals we’ve already found",
-        "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-        "summary": "They also sound fantastic, boast active noise cancellation, and offer robust EQ settings, making them a great pick for the price. Google’s latest pair of wireless earbuds feature crisp sound quality, a comfortable design, and solid active noise cancellation, which is great considering the budget-friendly price tag. It features USB-C charging and has an adjustable clip.",
+        "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
+        "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
+        "summary": "The Trump administration backed the Nvidia CEO’s return while restricting trade with the Singaporean AI firm linked to the scandal. The Trump administration backed the Nvidia CEO’s return while restricting trade with the Singaporean AI firm linked to the scandal. According to the DOJ, Nvidia added Megaspeed to its no-sell list last year after the Commerce Department requested Nvidia’s records on its “direct or…",
         "source": "The Verge",
-        "date": "2026-11-23T17:14:20+00:00"
+        "date": "2026-11-24T16:37:03+00:00"
       },
       {
-        "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
-        "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
-        "summary": "Trump said Nvidia’s board ‘made the correct and proper decision’ to bring back Jensen Huang.﻿ Trump said Nvidia’s board ‘made the correct and proper decision’ to bring back Jensen Huang.﻿ It sure looked like President Donald Trump played a role in Jensen Huang’s reinstatement as Nvidia CEO — and now the White House is making sure everyone knows he was. “President Trump was totally involved and this is a great…",
+        "title": "Jensen Huang deepfakes are the hot new AI slop",
+        "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+        "summary": "Jensen Huang is partying it up in Ibiza. As it turns out, Huang may benefit, too. The Instagram account behind the Ibiza one has made three Huang deepfakes so far, all remakes of the same scene.",
         "source": "The Verge",
-        "date": "2026-11-23T16:30:11+00:00"
+        "date": "2026-11-24T16:30:00+00:00"
       },
       {
-        "title": "Tech leaders are celebrating Jensen Huang’s return",
-        "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
-        "summary": "Huang is getting by with a little help from his friends. Let’s say you’re Jensen Huang. Trump expects Huang to make him proud.",
+        "title": "The New York Times warns photographers not to update Photoshop over AI features",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+        "summary": "An email sent to freelance photographers says Photoshop’s latest update uses AI ‘in ways that may not be apparent.’ An email sent to freelance photographers says Photoshop’s latest update uses AI ‘in ways that may not be apparent.’ The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI “in ways that may not be apparent to…",
         "source": "The Verge",
-        "date": "2026-11-23T16:14:04+00:00"
+        "date": "2026-11-24T16:09:23+00:00"
       },
       {
-        "title": "Ladybird is now in alpha",
-        "url": "https://ladybird.org/posts/alpha/",
-        "summary": "Ladybird is now in alpha. When you pwn us, please tell us how so we can harden Ladybird! If you build websites, try yours in Ladybird and tell us what breaks. (692 points, 192 comments on Hacker News)",
+        "title": "You can lock in Hulu and Disney Plus for as low as $5 per month for a year",
+        "url": "https://www.theverge.com/gadgets/1041150/hulu-disney-plus-black-friday-ad-free-streaming-subscription-deal-sale-2026",
+        "summary": "Or, opt for the ad-free plan for $14.99 per month instead of $21.99 for 12 months. Or, opt for the ad-free plan for $14.99 per month instead of $21.99 for 12 months. The Black Friday offers on streaming services are rolling in, and the latest deal includes Disney Plus and Hulu for a steeply discounted monthly rate.",
+        "source": "The Verge",
+        "date": "2026-11-24T15:24:46+00:00"
+      },
+      {
+        "title": "Wyze’s new window feeder records birds from a camera inside your home",
+        "url": "https://www.theverge.com/tech/1041164/wyze-window-bird-cam-camera-identification",
+        "summary": "The camera can be easily installed by just sticking it to the inside a of a window, while the feeder mounts outside. The camera can be easily installed by just sticking it to the inside a of a window, while the feeder mounts outside. Today the company announced its new Window Bird Cam, which expands on that idea by pairing a similar window-mounted camera with a feeder that attaches to the outside of the glass.",
+        "source": "The Verge",
+        "date": "2026-11-24T15:14:05+00:00"
+      },
+      {
+        "title": "Harman Kardon’s classic, see-through SoundSticks 4 are half off",
+        "url": "https://www.theverge.com/gadgets/1040300/harman-kardon-soundsticks-4-speakers-black-friday-2026-deal-sale",
+        "summary": "The 2.1-channel system sounds great and supports both 3.5mm and Bluetooth connectivity. The 2.1-channel system sounds great and supports both 3.5mm and Bluetooth connectivity. See our ethics statement.",
+        "source": "The Verge",
+        "date": "2026-11-24T14:13:22+00:00"
+      },
+      {
+        "title": "Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected",
+        "url": "https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date",
+        "summary": "Bambu cut a few corners — and motors — to reach that price. Bambu cut a few corners — and motors — to reach that price. And while five is still one more color than you’d get with an $800 Bambu P2S Combo, the 3D printer I’d buy for myself , the Bambu P3C’s automated material system (AMS) is the first Bambu has shipped without any motors to automatically load your filament.",
+        "source": "The Verge",
+        "date": "2026-11-24T14:00:00+00:00"
+      },
+      {
+        "title": "LLM agents work for their parent companies, not for you",
+        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+        "summary": "I'm not trying to do evil. I'm actually trying to do good! They want all the money. (696 points, 298 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-23T16:13:12+00:00"
+        "date": "2026-11-24T12:40:15+00:00"
       },
       {
-        "title": "My trusty 27-inch Alienware QD-OLED gaming monitor is just $280",
-        "url": "https://www.theverge.com/gadgets/1039999/alienware-aw2726dm-qdoled-gaming-monitor-black-friday-2026-deal-sale",
-        "summary": "The 1440p 240Hz panel looks and performs like a monitor that’s hundreds more. Alienware’s AW2726DM QD-OLED gaming monitor was a great deal even at its original $349.99 price. Alienware’s 1440p 27-inch QD-OLED monitor with 240Hz refresh rate is selling at its lowest price yet.",
-        "source": "The Verge",
-        "date": "2026-11-23T16:00:00+00:00"
-      },
-      {
-        "title": "Apple’s AirPods Pro 3 are a whopping $100 off ahead of Black Friday",
-        "url": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
-        "summary": "At $100 off, they’re the same price as the less impressive AirPods 5. At $100 off, they’re the same price as the less impressive AirPods 5. The AirPods Pro 3 are cheaper than ever.",
-        "source": "The Verge",
-        "date": "2026-11-23T15:00:44+00:00"
-      },
-      {
-        "title": "The Verge’s favorite holiday gifts that cost $50 or less",
-        "url": "https://www.theverge.com/gadgets/1023471/best-gifts-under-50-2026",
-        "summary": "If someone on your list collects Game Boy, Game Boy Color, or Game Boy Advance cartridges, the GB Operator might be the perfect gift. These self-looping USB-C cables from SuperCalla might be just what your gift recipient needs. Let your favorite gamer turn their phone into a Game Boy, of sorts.",
-        "source": "The Verge",
-        "date": "2026-11-23T15:00:00+00:00"
-      },
-      {
-        "title": "How one router caused the worst ground stop since 9/11",
-        "url": "https://www.theverge.com/podcast/1039215/faa-ground-stop-cause-trump-elon-musk-doge-airlines-safety",
-        "summary": "Why did air traffic control ground you all? But again, this is the air traffic control system for the world’s largest air traffic network, and you really can’t have any kind of data lag. I think the system, airlines, know what’s going on.",
-        "source": "The Verge",
-        "date": "2026-11-23T15:00:00+00:00"
-      },
-      {
-        "title": "Jensen Huang Reinstated as Nvidia CEO",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
-        "summary": "Huang’s candor and ability to lead NVIDIA. Huang’s reinstatement poses no national security risk. Jones, Chair of the Board. (1687 points, 4 comments on Hacker News)",
+        "title": "Who in Washington owns and trades Nvidia stock",
+        "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+        "summary": "Every disclosed Nvidia stock trade by Trump and 37 members of Congress, around Jensen Huang's resignation and reinstatement. Nvidia fell 48 % from its October high to 20 November, through Huang's resignation and quarterly results. The latest disclosed trade is from 28 October. (271 points, 148 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-23T14:01:23+00:00"
+        "date": "2026-11-24T11:51:05+00:00"
       }
     ]
   }
