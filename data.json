@@ -1,97 +1,139 @@
 {
-  "generated_at": "2026-11-24T18:40:56.249137+00:00",
+  "generated_at": "2026-11-25T17:49:41.125704+00:00",
   "sections": {
     "research": [
       {
-        "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
-        "url": "https://arxiv.org/abs/2611.31240v1",
-        "summary": "Seongchan Kim, Soowon Son, Sangoh Kim et al. — Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for…",
+        "title": "OmniAct: One Policy, One Million Embodiments",
+        "url": "https://arxiv.org/abs/2611.33158v1",
+        "summary": "Xiang Fan, Yuheng Wang, Jiayuan Yan et al. — A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared…",
         "source": "arXiv",
-        "date": "2026-11-23T18:59:52Z"
+        "date": "2026-11-24T18:59:58Z"
       },
       {
-        "title": "Let Vision-Language Models Generate Images through Their Representations",
-        "url": "https://arxiv.org/abs/2611.31237v1",
-        "summary": "JB Kim, Byungwoo Jeon, Kyungmin Lee et al. — Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained vision-language…",
+        "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+        "url": "https://arxiv.org/abs/2611.33153v1",
+        "summary": "Binfei Ji, Zhiwen Cao, Anqi Yang et al. — We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Considering that utterance…",
         "source": "arXiv",
-        "date": "2026-11-23T18:59:32Z"
+        "date": "2026-11-24T18:59:08Z"
       },
       {
-        "title": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
-        "url": "https://arxiv.org/abs/2611.31233v1",
-        "summary": "Hani Alomari, Md Atabuzzaman, Chris Thomas — CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap. Retrieval fails when wrong matches,…",
+        "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+        "url": "https://arxiv.org/abs/2611.33151v1",
+        "summary": "Yuwei Yang, Xiaoxiao Sun, Alejandro Lozano et al. — The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, further progress can…",
         "source": "arXiv",
-        "date": "2026-11-23T18:59:13Z"
+        "date": "2026-11-24T18:59:04Z"
       },
       {
-        "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
-        "url": "https://arxiv.org/abs/2611.31228v1",
-        "summary": "Daniel Theron — Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes…",
+        "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+        "url": "https://arxiv.org/abs/2611.33148v1",
+        "summary": "Dawid J. Kopiczko, Tijmen Blankevoort, Yuki M. Asano — Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories, which contain the teacher's chain-of-thought as well as its actions.…",
         "source": "arXiv",
-        "date": "2026-11-23T18:58:52Z"
+        "date": "2026-11-24T18:58:53Z"
       },
       {
-        "title": "How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation Modelling",
-        "url": "https://arxiv.org/abs/2611.31227v1",
-        "summary": "Abhishek Sharma, Aleksej Zelezniak — Understanding how genetic perturbations affect cellular behaviour is essential for studying gene function and regulatory mechanisms. Large-scale CRISPR screens measure these effects across thousands of genes, but cover…",
+        "title": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
+        "url": "https://arxiv.org/abs/2611.33141v1",
+        "summary": "Vansh Kapoor, Max Sobol Mark, Sreyas Venkataraman et al. — World-action models (WAMs) build policies on pretrained video-generation models, on the premise that predicting how a scene evolves helps determine how to act. However, generating future scenes is expensive for…",
         "source": "arXiv",
-        "date": "2026-11-23T18:58:32Z"
+        "date": "2026-11-24T18:56:04Z"
       },
       {
-        "title": "Self-Supervised Dataset Distillation via Mutual Information Maximization",
-        "url": "https://arxiv.org/abs/2611.31225v1",
-        "summary": "Mohammad Hossein Moslemi, Mahdi Beitollahi, Zhimin Mei et al. — Dataset distillation (DD) aims to compress a large dataset into a small synthetic one that remains effective for training neural networks. Despite its success in supervised learning, DD remains underexplored in…",
+        "title": "BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Generation",
+        "url": "https://arxiv.org/abs/2611.33135v1",
+        "summary": "Nadav Magar, Amir Hertz, Ariel Shamir et al. — Language models can generate LEGO$^\\circledR$ assemblies from text, but their builds often contain parts that collide or attach to nothing. The usual approach of rejecting and resampling invalid placements discards…",
         "source": "arXiv",
-        "date": "2026-11-23T18:58:27Z"
+        "date": "2026-11-24T18:54:38Z"
       },
       {
-        "title": "Agentic AI for Intent Management and Control in Autonomous Communication Networks",
-        "url": "https://arxiv.org/abs/2611.31223v1",
-        "summary": "Burak Demirel, Yu Wang, Pablo Soldati — Artificial intelligence (AI)-driven automation will help future mobile networks translate high-level network intents into concrete network optimization or control actions. However, existing approaches often focus on…",
+        "title": "A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit",
+        "url": "https://arxiv.org/abs/2611.33133v1",
+        "summary": "Hussamuddin Syed — Qwen3.5-0.8B rarely finishes reasoning in thinking mode: at a 4,096-token budget only 1 or 2 of 500 MATH-500 answers close their think block (two seeds), and accuracy is 15.4%. A recent demonstration had GPT-6 Astra…",
         "source": "arXiv",
-        "date": "2026-11-23T18:57:32Z"
+        "date": "2026-11-24T18:53:22Z"
       },
       {
-        "title": "CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings to 3D Chest CT Scans",
-        "url": "https://arxiv.org/abs/2611.31222v1",
-        "summary": "Mohammed Baharoon, Sung Eun Kim, Mahmoud Hussain Alabbad et al. — Radiology reports describe findings in text only, without visually marking them on the scan, so readers cannot directly see which abnormality each reported finding refers to. We introduce CTLink, a text-prompted 3D…",
+        "title": "Exploratory Midtraining for Robot Policies",
+        "url": "https://arxiv.org/abs/2611.33130v1",
+        "summary": " Kshitiz, Zheyuan Hu, Robyn Wu et al. — Robot policies predominantly learn from human-collected data emphasizing competent behavior, limiting coverage of the low-level behaviors needed to support autonomous improvement. We study how a form of midtraining can…",
         "source": "arXiv",
-        "date": "2026-11-23T18:57:26Z"
+        "date": "2026-11-24T18:52:34Z"
       },
       {
-        "title": "LeJEPA Features Are Not Isotropic, and Should Not Be",
-        "url": "https://arxiv.org/abs/2611.31216v1",
-        "summary": "Richeek Das, Pratik Chaudhari — The SIGReg term in LeJEPA regularizes features to have an isotropic Gaussian distribution. Our first result is to show that this regularizer, in practice, cannot achieve its goal.",
+        "title": "SAG-Mem-1.0 Technical Report",
+        "url": "https://arxiv.org/abs/2611.33124v1",
+        "summary": "Yuchao Wu, XingCheng Liang, Xuanze Wang et al. — Long-term conversational memory requires retrieving complementary facts scattered across dialogue sessions, including intermediate evidence with limited similarity to the original question. Existing approaches often…",
         "source": "arXiv",
-        "date": "2026-11-23T18:56:04Z"
+        "date": "2026-11-24T18:51:29Z"
       },
       {
-        "title": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
-        "url": "https://arxiv.org/abs/2611.31215v1",
-        "summary": "Xiwei Liu, Yulong Li, Xuhui Li et al. — Humans explore unfamiliar spaces with purpose, deciding where to look until they have gathered the evidence a spatial question requires. However, can vision-language models (VLMs), which reason increasingly well over…",
+        "title": "MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing",
+        "url": "https://arxiv.org/abs/2611.33119v1",
+        "summary": "Scott Piersall, Yang Gao, Shenyang Liu et al. — Large language models (LLMs) can generate parallel programs, but their correctness and performance depend strongly on the instructions that guide generation. We present \\textsc{MetaFORGE}, an execution-grounded…",
         "source": "arXiv",
-        "date": "2026-11-23T18:55:44Z"
+        "date": "2026-11-24T18:49:19Z"
       },
       {
-        "title": "Flood forecasting using a physics-guided conditional denoising diffusion probabilistic model",
-        "url": "https://arxiv.org/abs/2611.31212v1",
-        "summary": "Omar Sallam, David Coe, Jeremy Feinstein et al. — High-resolution flood forecasting with full two-dimensional shallow water equation (SWE) solvers remains computationally expensive, even on GPUs. We develop a conditional denoising diffusion probabilistic model (DDPM)…",
+        "title": "Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions",
+        "url": "https://arxiv.org/abs/2611.33111v1",
+        "summary": "Yuxing Liu, Wei Zuo, Walid Krichene et al. — Speculative decoding accelerates large language model (LLM) inference by employing a lightweight draft model to propose draft tokens and allowing the target model to verify the new tokens in parallel to improve…",
         "source": "arXiv",
-        "date": "2026-11-23T18:55:29Z"
+        "date": "2026-11-24T18:41:59Z"
       },
       {
-        "title": "Verifying the Outputs of PDE Solvers: From Finite Elements to Neural Surrogates",
-        "url": "https://arxiv.org/abs/2611.31211v1",
-        "summary": "Konstantinos Dovelos — Physics simulation outputs increasingly come from solvers that no expert inspects, such as third-party packages in automated pipelines, programs written by large language models (LLMs), and learned surrogates.",
+        "title": "Temporal Conditioning for Human Behavioral Cloning in Chess",
+        "url": "https://arxiv.org/abs/2611.33106v1",
+        "summary": "Victor Dziwniel, Tianxiang Lu — Behavioral cloning models in chess typically predict human moves from board states while ignoring temporal inputs such as the remaining clock. However, time pressure is a major determinant of human decision-making…",
         "source": "arXiv",
-        "date": "2026-11-23T18:55:06Z"
+        "date": "2026-11-24T18:40:51Z"
       }
     ],
     "labs": [
       {
+        "title": "Verifiable Social Reasoning for LLM Assistants",
+        "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+        "summary": "Zorik Gekhman, Senior Research Scientist; Amir Taubenfeld, Staff Research Engineer; Google Research We introduce an evaluation framework based on multi-agent social simulations that quantifies how well AI assistants understand social situations from users' subjective narratives. Evaluating a diverse range of LLMs through our framework reveals that relying on subjective user mediation substantially complicates social…",
+        "source": "Google Research",
+        "date": "2026-11-25T17:10:27+00:00"
+      },
+      {
+        "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+        "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+        "summary": "Exact-match identification accuracy on 100 benchmark spectra available in public reference libraries (three attempts per spectrum), comparing Antigravity alone (no internet, no skills), with internet access only, and with internet access plus the Mass Spec Skills (mean and 95% confidence interval). The Mass Spec Skills are available on Google Antigravity today. Download the Antigravity App and install the Mass Spec…",
+        "source": "Google DeepMind",
+        "date": "2026-11-24T13:07:53+00:00"
+      },
+      {
+        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+        "summary": "An internal research model matched or outperformed specialized models on many protein design tasks. Specialized models supplied amino acid sequences and helped select candidates for testing. We gave our models the amino acid sequences of proteins with known three-dimensional structures.",
+        "source": "OpenAI",
+        "date": "2026-11-24T13:00:00+00:00"
+      },
+      {
+        "title": "Searching for distant planets with Astra",
+        "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+        "summary": "Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. In 2017, researchers trained a neural network on 15,000 signals from NASA’s Kepler Space Telescope ⁠ (opens in a new window) that astronomers had already examined. Bond ran the program on public data from the Kepler Space Telescope.",
+        "source": "OpenAI",
+        "date": "2026-11-24T11:00:00+00:00"
+      },
+      {
+        "title": "How Intentful uses dots to make more time for growth",
+        "url": "https://openai.com/business/customer-stories/intentful-dots",
+        "summary": "Next, Aria helped Marina research pricing. My dot handles that,” Marina says. Aria checks for messages that need Marina’s attention.",
+        "source": "OpenAI",
+        "date": "2026-11-24T00:00:00+00:00"
+      },
+      {
         "title": "How iFood scales coding agents across 15,000 repositories",
-        "url": "https://openai.com/index/ifood",
-        "summary": "",
+        "url": "https://openai.com/business/customer-stories/ifood",
+        "summary": "as many vulnerabilities fixed through the security platform The Remote Agents Platform turned engineering tasks into API calls: teams delegate the work, execution takes place in a remote sandbox, and the result comes back as a merge request. The team describes the Remote Agents Platform as an API that launches a remote agentic coding task. Combine deterministic steps with agentic execution.",
+        "source": "OpenAI",
+        "date": "2026-11-24T00:00:00+00:00"
+      },
+      {
+        "title": "Clay helps sales teams win with Codex and ChatGPT",
+        "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+        "summary": "ChatGPT and Codex integrations help Clay users research deals and turn data into go-to-market plays, and GPT‑6 models handle the reasoning. Clay uses GPT‑6 Sol as its primary model, with GPT‑6 Astra for harder tasks and GPT‑6 Luna for cost-sensitive work. GPT‑6 Astra also helps Jeff build and test software.",
         "source": "OpenAI",
         "date": "2026-11-24T00:00:00+00:00"
       },
@@ -129,220 +171,178 @@
         "summary": "Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations. It writes procedures and defines how Richpanel’s frontline support agent, copilot, and quality-assurance agent call the tools they need. Richpanel’s customers may already use low-cost outsourced support.",
         "source": "OpenAI",
         "date": "2026-11-23T08:00:00+00:00"
-      },
-      {
-        "title": "Perplexity and Intelligence",
-        "url": "https://openai.com/index/perplexity-and-intelligence",
-        "summary": "2 , 3 Perplexity measures how well a model predicts the next token on average; lower perplexity means better predictions. Extrapolating from recent progress, we should expect further transformative capabilities as we enter the ~0.68-0.7 log-perplexity window. Perplexity as a shared metric has challenges: Difficulty of comparison across labs.",
-        "source": "OpenAI",
-        "date": "2026-11-22T00:00:00+00:00"
-      },
-      {
-        "title": "How Google Duplex evolved to also call businesses for you in Gemini",
-        "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
-        "summary": "Yossi Matias, Vice President, Google & GM, Google Research, Yaniv Leviathan, Google Fellow, Google Research, and Janet Zhou, Group Product Manager, Google Maps When we introduced Google Duplex in 2018, it pioneered natural voice conversations between AI and local businesses over the phone. Propelled by advances in foundation models, the Duplex architecture has evolved to power autonomous task completion across many…",
-        "source": "Google Research",
-        "date": "2026-11-20T23:30:30+00:00"
-      },
-      {
-        "title": "Combatting adversarial distillation",
-        "url": "https://openai.com/index/combatting-adversarial-distillation",
-        "summary": "Our approach to adversarial distillation combines adversarial testing, model training, classifiers, and API-level protections with investigations into coordinated attempts to extract model capabilities. We also prevent older model families with weaker safeguards from reading GPT‑6.2 Astra and Sol’s protected reasoning. Cyber benchmark performance after training on exact reasoning traces or reasoning summaries.",
-        "source": "OpenAI",
-        "date": "2026-11-20T10:00:00+00:00"
-      },
-      {
-        "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-        "url": "https://openai.com/business/customer-stories/hebbia",
-        "summary": "Hebbia sees gains in financial research in tests of GPT‑6 Astra. Percentage-point lead over the best alternative tested in Hebbia’s tests. Percent of applicable presentation requirements met in Hebbia’s tests.",
-        "source": "OpenAI",
-        "date": "2026-11-20T00:00:00+00:00"
-      },
-      {
-        "title": "Can AI help scientists identify promising drug candidates?",
-        "url": "https://openai.com/index/introducing-medchembench",
-        "summary": "GPT‑6 Astra was strongest at reconstructing molecular structures and explaining experimental evidence. Molecular structures. Scientific reasoning.",
-        "source": "OpenAI",
-        "date": "2026-11-20T00:00:00+00:00"
-      },
-      {
-        "title": "A game you cannot win unless you have a quantum computer",
-        "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
-        "summary": "The reason is a property called quantum contextuality , arguably the strangest feature of quantum mechanics. In \" Quantum-classical separation in bounded-resource tasks arising from measurement contextuality ,\" published in Science , we demonstrate and measure contextuality on our superconducting quantum processors. Useful quantum computing needs many qubits working together, so the question is whether contextuality…",
-        "source": "Google Research",
-        "date": "2026-11-19T20:03:00+00:00"
       }
     ],
     "startups": [
       {
-        "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-        "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-        "summary": "Anthropic’s stock fell below its IPO price of $83 , trading as low as $76 a share by midday Tuesday, down nearly 12% from Monday’s close. Falling below the IPO price is often seen as a negative signal because underwriters typically price offerings at a discount to their expected trading value. Anthropic isn’t the only AI stock selling off on Tuesday.",
+        "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+        "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+        "summary": "According to federal prosecutors , Juan Ricardo Palacio Escobar, 52, was the chief technology officer at RansomwareHelp, which purported to offer data recovery services to victims of ransomware. But then Palacio Escobar paid the apparent hackers some $6,000 in cryptocurrency, without the knowledge that FBI agents were also posing as the ransomware hackers. A third ransomware negotiator was also convicted of helping…",
         "source": "TechCrunch",
-        "date": "2026-11-24T18:30:42+00:00"
+        "date": "2026-11-25T17:36:51+00:00"
       },
       {
-        "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-        "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-        "summary": "The U.K. government’s cybersecurity unit says it has seen a “marked rise” in AI-driven cyberattacks in recent months, as hackers increasingly rely on autonomous hacking tools to identify and exploit simple weaknesses to break into systems and networks. National Cybersecurity Center (NCSC) said it has seen several cyber incidents since September involving autonomous hacking tools, such as penetration testing tools…",
+        "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
+        "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+        "summary": "The following day, Character.ai picked it as the base bid for the auction, scheduled for December 1, California Attorney General Rob Bonta noted . “Character.AI promised consumers that their data would not be sold. Connecticut Attorney General William Tong also criticized Character.ai’s business model.",
         "source": "TechCrunch",
-        "date": "2026-11-24T18:02:59+00:00"
+        "date": "2026-11-25T17:35:58+00:00"
       },
       {
-        "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
-        "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
-        "summary": "It’s also added another new feature, borrowed from X: the stock-tracking feature known as cashtags. Instead of offering a multi-column interface as on Threads’ web app, the iPad app focuses on the user’s main feed in a single-column layout. According to a post from Threads engineer Guy Dickinson , Threads will now support cashtags — a feature popularized by Twitter years ago for tracking live stock information.",
+        "title": "X’s latest update for creators focuses on vertical video",
+        "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+        "summary": "The tools are designed to help creators make professional-quality vertical videos, share original content more easily, and earn more. A key addition is an upgraded media editor that lets creators produce polished vertical videos without leaving X. Another feature, “React with Video,” launched earlier this year .",
         "source": "TechCrunch",
-        "date": "2026-11-24T17:44:34+00:00"
+        "date": "2026-11-25T17:28:29+00:00"
       },
       {
-        "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
-        "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
-        "summary": "FedEx, which ordered 2,000 trucks from Harbinger, also participated. Erebor is now Harbinger’s primary banking partner. “Harbinger is exactly the kind of business we built Erebor to back: an American manufacturer building world-class technology,” he said.",
+        "title": "WhatsApp now lets you schedule messages in group and individual chats",
+        "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
+        "summary": "WhatsApp on Wednesday started rolling out a much-sought-after feature: the ability to schedule messages in both individual and group chats. The feature is rolling out globally to all users across iOS and Android. You can schedule messages containing text, photos, and videos.",
         "source": "TechCrunch",
-        "date": "2026-11-24T17:29:09+00:00"
+        "date": "2026-11-25T16:57:51+00:00"
       },
       {
-        "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-        "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-        "summary": "Instagram users can now chat with Meta’s AI agent Muse in a DM thread, the company announced on Tuesday. Meta notes that conversations with Muse on Instagram will appear as a side chat in the main Muse app. Meta says that users remain in control of their Muse experience on Instagram.",
+        "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
+        "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+        "summary": "Thanksgiving holidays. Downdetector , a crowdsourced outage-reporting website, shows users began reporting Allstate’s outage from Monday morning. Allstate did not immediately return a request for comment.",
         "source": "TechCrunch",
-        "date": "2026-11-24T17:00:00+00:00"
+        "date": "2026-11-25T15:08:37+00:00"
       },
       {
-        "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-        "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-        "summary": "Music streaming service Tidal said on Tuesday that it will start banning and removing songs generated fully with AI in a bid to stem the flood of submissions to its platform. Tidal is also banning distribution services from delivering 100% AI-generated tracks, and will reject submissions if songs’ metadata says they are made fully using AI. The move comes as AI-generated music inundates streaming services across the…",
+        "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
+        "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+        "summary": "Task management app Todoist said on Tuesday that a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates. Todoist said the attacker used stolen credentials to access the company’s version control system and source code between November 22 and 23. The company is asking users to also update API tokens, reconnect integrations, and revoke…",
         "source": "TechCrunch",
-        "date": "2026-11-24T16:46:00+00:00"
+        "date": "2026-11-25T14:20:28+00:00"
       },
       {
-        "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
-        "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
-        "summary": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area more than six months after receiving the permit that allowed the companies to pull the human safety driver from behind the wheel. Nuro has spent nearly a year testing the Lucid Gravity robotaxi on public roads in the San Francisco Bay Area with a human safety operator behind the wheel. Uber and Nuro are…",
+        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+        "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+        "summary": "Amazon may be having a change of heart about Meta’s AI agent, Muse. One of Amazon’s biggest concerns is how third-party shopping agents like Muse could affect its advertising business. Any potential agreement between Amazon and Meta would reportedly require approval from both companies’ CEOs, Fortune also reported.",
         "source": "TechCrunch",
-        "date": "2026-11-24T16:40:46+00:00"
+        "date": "2026-11-25T14:10:18+00:00"
       },
       {
-        "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-        "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-        "summary": "That picture involves solar paired with energy storage, based on an analysis Porter and his colleagues at G2VP recently conducted on the state of the data center power market. As the next wave takes shape, the firm sees two different paths for data centers: small, on-grid facilities with their own generating capacity, and larger data centers powered by solar and long-duration energy storage. “The big idea is to go…",
+        "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+        "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+        "summary": "A Walmart spokesperson told TechCrunch that Krishnamurthy’s last day at Flipkart will be December 4. Krishnamurthy’s exit comes amid uncertainty around Flipkart’s IPO. “Both Flipkart and Walmart are better because of Kalyan.",
         "source": "TechCrunch",
-        "date": "2026-11-24T16:10:00+00:00"
+        "date": "2026-11-25T13:08:19+00:00"
       },
       {
-        "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-        "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-        "summary": "Pinterest announced this week that it’s expanding its parental controls, but one new feature stands out: Parents can now control how much AI-generated content their children are exposed to. The change makes Pinterest one of the first major social platforms to allow parents to control how much AI-generated content is shown to their children as part of the overall user experience. But when it comes to AI-generated…",
+        "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+        "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+        "summary": "Jensen Huang’s return as CEO to Nvidia hasn’t eased the scrutiny the company faces. The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang’s affair with a Megaspeed executive gave the company reason to doubt Megaspeed’s assurances. Huang’s return doesn’t settle that.",
         "source": "TechCrunch",
-        "date": "2026-11-24T16:02:37+00:00"
+        "date": "2026-11-25T13:00:00+00:00"
       },
       {
-        "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-        "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-        "summary": "The broader industry seems to agree that Decart’s tech for optimizing AI models to run on non-Nvidia chips is worth several billion dollars. In its announcement , Amazon said it has worked with Decart since 2025 to optimize the Trainium chips. Amazon could well be following a similar path.",
+        "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+        "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+        "summary": "Nvidia’s chairman had effectively ruled out Huang’s return just last week. Huang was ousted, he’s come back. You don’t think Nvidia needed Huang back?",
         "source": "TechCrunch",
-        "date": "2026-11-24T15:51:07+00:00"
+        "date": "2026-11-25T00:12:02+00:00"
       },
       {
-        "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
-        "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
-        "summary": "Early in November, Huang admitted to an extramarital affair in a letter to employees. It’s not clear which affairs Huang admitted to during this recent conversation with Nvidia’s board of directors. Huang received a “hero’s welcome” at Nvidia’s HQ , with several employees applauding his return.",
+        "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+        "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+        "summary": "During an interview with the New York Post on Tuesday, President Trump said that pardoning Nvidia CEO Jensen Huang, who has been ensnared in a scandal involving an alleged Chinese spy, is “an option,” albeit one that he doesn’t think he will have to exercise. “It’s always an option, I guess, but I don’t think it’ll be necessary,” the president reportedly told the outlet . Huang is scheduled to testify at a public…",
         "source": "TechCrunch",
-        "date": "2026-11-24T13:29:53+00:00"
+        "date": "2026-11-25T00:10:27+00:00"
       },
       {
-        "title": "Figma employee sues, alleging company forced her to confront harassers",
-        "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
-        "summary": "Park says she tried to avoid her onboarding mentor. Park alleges the harassment continued throughout 2023. Park again complained to HR about “escalating retaliation” and expressed concern the manager would “derail her career.” HR allegedly defended the manager’s conduct, saying the manager was “within her reasonable authority” and again instructed Park to address her concerns directly with the manager.",
+        "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+        "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+        "summary": "Nvidia has just five executive officers running the show, including Huang. Huang has previously defended the company’s structure in numerous interviews, including one in March with podcaster Lex Fridman. Hamburger [company] organization charts, software organization charts, and car company organization charts.",
         "source": "TechCrunch",
-        "date": "2026-11-23T23:07:49+00:00"
+        "date": "2026-11-24T22:27:52+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-        "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-        "summary": "Early screenings of David Fincher’s latest film are raising questions about whether the director used generative AI. Early screenings of David Fincher’s latest film are raising questions about whether the director used generative AI. Though David Fincher ’s fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth , early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt…",
+        "title": "Nothing offers a full look at its AI earbuds and charging case",
+        "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+        "summary": "The Ear Note buds look similar to Nothing’s previous earbuds, but now their case doubles as an AI-connected note taker for conversations. The Ear Note buds look similar to Nothing’s previous earbuds, but now their case doubles as an AI-connected note taker for conversations. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations.",
         "source": "The Verge",
-        "date": "2026-11-24T18:15:00+00:00"
+        "date": "2026-11-25T16:00:59+00:00"
       },
       {
-        "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
-        "url": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
-        "summary": "We’ve rounded up the best discounts on our favorite robot vacuums, including models that can mop on your behalf. Roborock’s first roller-mop robot vacuum, the Curv 2 Flow, features flagship specs at a midrange price, including excellent mopping, a retractable mop cover, 20,000Pa suction, AI-powered obstacle avoidance, and a compact design. Ecovacs’ robot vacuum and mop can pretreat stains, keep carpets dry with a…",
-        "source": "The Verge",
-        "date": "2026-11-24T17:30:00+00:00"
-      },
-      {
-        "title": "Tidal will start banning AI-generated music next month",
-        "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-        "summary": "The music streaming platform estimates that it will delete 29 million songs as a result of the AI ban. The music streaming platform estimates that it will delete 29 million songs as a result of the AI ban. Tidal is officially banning AI-generated music on December 9th.",
-        "source": "The Verge",
-        "date": "2026-11-24T17:17:09+00:00"
-      },
-      {
-        "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
-        "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
-        "summary": "The Trump administration backed the Nvidia CEO’s return while restricting trade with the Singaporean AI firm linked to the scandal. The Trump administration backed the Nvidia CEO’s return while restricting trade with the Singaporean AI firm linked to the scandal. According to the DOJ, Nvidia added Megaspeed to its no-sell list last year after the Commerce Department requested Nvidia’s records on its “direct or…",
-        "source": "The Verge",
-        "date": "2026-11-24T16:37:03+00:00"
-      },
-      {
-        "title": "Jensen Huang deepfakes are the hot new AI slop",
-        "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-        "summary": "Jensen Huang is partying it up in Ibiza. As it turns out, Huang may benefit, too. The Instagram account behind the Ibiza one has made three Huang deepfakes so far, all remakes of the same scene.",
-        "source": "The Verge",
-        "date": "2026-11-24T16:30:00+00:00"
-      },
-      {
-        "title": "The New York Times warns photographers not to update Photoshop over AI features",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-        "summary": "An email sent to freelance photographers says Photoshop’s latest update uses AI ‘in ways that may not be apparent.’ An email sent to freelance photographers says Photoshop’s latest update uses AI ‘in ways that may not be apparent.’ The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI “in ways that may not be apparent to…",
-        "source": "The Verge",
-        "date": "2026-11-24T16:09:23+00:00"
-      },
-      {
-        "title": "You can lock in Hulu and Disney Plus for as low as $5 per month for a year",
-        "url": "https://www.theverge.com/gadgets/1041150/hulu-disney-plus-black-friday-ad-free-streaming-subscription-deal-sale-2026",
-        "summary": "Or, opt for the ad-free plan for $14.99 per month instead of $21.99 for 12 months. Or, opt for the ad-free plan for $14.99 per month instead of $21.99 for 12 months. The Black Friday offers on streaming services are rolling in, and the latest deal includes Disney Plus and Hulu for a steeply discounted monthly rate.",
-        "source": "The Verge",
-        "date": "2026-11-24T15:24:46+00:00"
-      },
-      {
-        "title": "Wyze’s new window feeder records birds from a camera inside your home",
-        "url": "https://www.theverge.com/tech/1041164/wyze-window-bird-cam-camera-identification",
-        "summary": "The camera can be easily installed by just sticking it to the inside a of a window, while the feeder mounts outside. The camera can be easily installed by just sticking it to the inside a of a window, while the feeder mounts outside. Today the company announced its new Window Bird Cam, which expands on that idea by pairing a similar window-mounted camera with a feeder that attaches to the outside of the glass.",
-        "source": "The Verge",
-        "date": "2026-11-24T15:14:05+00:00"
-      },
-      {
-        "title": "Harman Kardon’s classic, see-through SoundSticks 4 are half off",
-        "url": "https://www.theverge.com/gadgets/1040300/harman-kardon-soundsticks-4-speakers-black-friday-2026-deal-sale",
-        "summary": "The 2.1-channel system sounds great and supports both 3.5mm and Bluetooth connectivity. The 2.1-channel system sounds great and supports both 3.5mm and Bluetooth connectivity. See our ethics statement.",
-        "source": "The Verge",
-        "date": "2026-11-24T14:13:22+00:00"
-      },
-      {
-        "title": "Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected",
-        "url": "https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date",
-        "summary": "Bambu cut a few corners — and motors — to reach that price. Bambu cut a few corners — and motors — to reach that price. And while five is still one more color than you’d get with an $800 Bambu P2S Combo, the 3D printer I’d buy for myself , the Bambu P3C’s automated material system (AMS) is the first Bambu has shipped without any motors to automatically load your filament.",
-        "source": "The Verge",
-        "date": "2026-11-24T14:00:00+00:00"
-      },
-      {
-        "title": "LLM agents work for their parent companies, not for you",
-        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-        "summary": "I'm not trying to do evil. I'm actually trying to do good! They want all the money. (696 points, 298 comments on Hacker News)",
+        "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+        "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+        "summary": "Tell me about the retention pond. Do you think people should be snorkeling in more retention ponds? [Laughs] I don’t recommend that people do that! Do you think you’ll do more urban snorkeling? (251 points, 72 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-24T12:40:15+00:00"
+        "date": "2026-11-25T15:14:32+00:00"
       },
       {
-        "title": "Who in Washington owns and trades Nvidia stock",
-        "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
-        "summary": "Every disclosed Nvidia stock trade by Trump and 37 members of Congress, around Jensen Huang's resignation and reinstatement. Nvidia fell 48 % from its October high to 20 November, through Huang's resignation and quarterly results. The latest disclosed trade is from 28 October. (271 points, 148 comments on Hacker News)",
+        "title": "The Verge’s guide to affordable holiday gifts under $25",
+        "url": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
+        "summary": "If you buy something from a link, The Verge may earn a commission. See our ethics statement. See our ethics statement.",
+        "source": "The Verge",
+        "date": "2026-11-25T15:00:00+00:00"
+      },
+      {
+        "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+        "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+        "summary": "Amazon is concerned that Muse AI could have an impact on its advertising revenue, according to Fortune. Amazon is concerned that Muse AI could have an impact on its advertising revenue, according to Fortune. Amazon has held talks about letting Meta’s Muse AI agent shop on its online marketplace, according to a report from Fortune .",
+        "source": "The Verge",
+        "date": "2026-11-25T14:12:33+00:00"
+      },
+      {
+        "title": "Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday",
+        "url": "https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale",
+        "summary": "The tiny ebook reader features physical page-turning buttons and up to 10 hours of battery life. The tiny ebook reader features physical page-turning buttons and up to 10 hours of battery life. The X4 Classic is an updated version of Xteink’s original pocket-sized e-reader, one that features a miniature 4.3-inch E Ink display that makes it more pocketable than any current Kindle or Kobo model.",
+        "source": "The Verge",
+        "date": "2026-11-25T14:00:00+00:00"
+      },
+      {
+        "title": "‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV",
+        "url": "https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa",
+        "summary": "There really isn’t anything else like Blade Runner . The Blade Runner films have such a slow and deliberate pacing. Blade Runner has such a strong lineage of cool jackets.",
+        "source": "The Verge",
+        "date": "2026-11-25T14:00:00+00:00"
+      },
+      {
+        "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+        "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+        "summary": "This directory holds research papers that were produced by Cogentic . Unless otherwise noted in individual subdirectories, the contents in this directory are released under the Apache 2.0 license . See individual subdirectories and the top-level google-research repository for details. (282 points, 229 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-24T11:51:05+00:00"
+        "date": "2026-11-25T13:33:07+00:00"
+      },
+      {
+        "title": "Tapo’s new indoor security camera includes a touchscreen for video calls",
+        "url": "https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt",
+        "summary": "The C825 can keep an eye on your home or help you keep in touch with your family. The C825 can keep an eye on your home or help you keep in touch with your family. TP-Link’s Tapo smart home brand announced a new indoor security camera that can help keep an eye on your house while you’re away or connect you to family and friends while you’re at home.",
+        "source": "The Verge",
+        "date": "2026-11-25T13:30:00+00:00"
+      },
+      {
+        "title": "Has vibe coding made open source the new normal for synths?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+        "summary": "Companies like Akai have decided to embrace the modding community rather than resist vibe coders. That includes a recently launched SDK and several open-source devices, including the recently teased MPC Sample Key . Other companies have also embraced the modding community.",
+        "source": "The Verge",
+        "date": "2026-11-25T13:00:00+00:00"
+      },
+      {
+        "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+        "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+        "summary": "Microsoft is now holding daily meetings with the engineering group responsible for Microsoft 365 services. Microsoft is now holding daily meetings with the engineering group responsible for Microsoft 365 services. Microsoft is now holding daily meetings with the engineering group responsible for Microsoft 365 services, alongside weekly reviews.",
+        "source": "The Verge",
+        "date": "2026-11-25T11:12:42+00:00"
+      },
+      {
+        "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+        "url": "https://gpu-demo-gallery.pages.dev/",
+        "summary": "Sixty alien insects swarm across a junkyard. Light and reflections ripple across a rocky pool. Ruby's first mission showcases layered hair, reflections, and cinematic depth of field. (280 points, 61 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-25T04:31:48+00:00"
+      },
+      {
+        "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+        "url": "https://buttons.joshwcomeau.com/",
+        "summary": "719 points, 116 comments on Hacker News",
+        "source": "Hacker News",
+        "date": "2026-11-25T03:23:07+00:00"
       }
     ]
   }
