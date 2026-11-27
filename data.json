@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:33:33.932550+00:00",
+  "generated_at": "2026-11-27T17:16:18.906540+00:00",
   "sections": {
     "research": [
       {
@@ -175,6 +175,27 @@
     ],
     "startups": [
       {
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+        "summary": "According to the Journal, Nvidia has told manufacturing partners, including Dell and Super Micro, to hit pause on server shipments to Malaysia, Singapore, Thailand, and Indonesia for an unspecified period as it assesses whether its regional partners are meeting U.S. export requirements. As for why those countries, Chinese companies have been tapping Nvidia chips remotely from data centers there, a loophole the US…",
+        "source": "TechCrunch",
+        "date": "2026-11-26T20:03:54+00:00"
+      },
+      {
+        "title": "Is Alice Huang a spy or not?",
+        "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+        "summary": "What’s better established is that Alice Huang was in touch with Chinese intelligence. Senior intelligence officials reportedly told Congress that the government apparently has no actual evidence that the MSS directed Alice Huang to pursue an affair with Jensen Huang. None of those statements necessarily exonerates Alice Huang as an intelligence agent.",
+        "source": "TechCrunch",
+        "date": "2026-11-26T20:00:00+00:00"
+      },
+      {
+        "title": "X finally gets parental controls after 20 years",
+        "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+        "summary": "After 20 years of existence, X, the social network formerly known as Twitter, has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see and interact with on the platform. “Parents want practical tools, and teens deserve room to grow. With Parental Controls on X, families can set the guardrails that fit their home, while teens keep ownership of their accounts…",
+        "source": "TechCrunch",
+        "date": "2026-11-26T19:31:50+00:00"
+      },
+      {
         "title": "A month with the iPhone Duo has changed how I use my phone",
         "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
         "summary": "Everything is happening on one screen, so should we call it “Duo screen viewing,” perhaps? Generally, I also unfold the Duo when I’m actively using apps. Most apps now take advantage of the available space, whether that’s on the Duo’s small front screen or the wider, unfolded one.",
@@ -182,7 +203,7 @@
         "date": "2026-11-26T17:00:00+00:00"
       },
       {
-        "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+        "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
         "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
         "summary": "Fans waited 13 years for the newest installment in the crime-adventure franchise, and Rockstar Games exceeded even those inconceivable expectations when the game finally came out last week. The video game industry is already grappling with the threat of AI. The stock prices of several video game companies faltered around the time of Project Genie’s release, perhaps because of investors’ uncertainty about the future…",
         "source": "TechCrunch",
@@ -236,113 +257,92 @@
         "summary": "Password manager maker 1Password has confirmed that some customer information was taken in a recent intrusion into its internal systems, but that customer password vaults and other secrets were not accessed. 1Password said that customer vaults, which store their passwords, were “at no point” available to the attacker. The company touts millions of customers and more than 200,000 businesses who use its password…",
         "source": "TechCrunch",
         "date": "2026-11-25T18:49:52+00:00"
-      },
-      {
-        "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-        "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-        "summary": "Santa won’t be delivering any AI chatbot toys to New York kids this Christmas. The Common Sense Media study found that AI toys can undermine children’s human relationships and expose them to inappropriate content. Common Sense Media also found that the toys didn’t provide parents with reliable ways to monitor their young children’s interactions with the chatbots.",
-        "source": "TechCrunch",
-        "date": "2026-11-25T18:11:46+00:00"
-      },
-      {
-        "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
-        "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
-        "summary": "According to federal prosecutors , Juan Ricardo Palacio Escobar, 52, was the chief technology officer at RansomwareHelp, which purported to offer data recovery services to victims of ransomware. But then Palacio Escobar paid the apparent hackers some $6,000 in cryptocurrency, without the knowledge that FBI agents were also posing as the ransomware hackers. A third ransomware negotiator was also convicted of helping…",
-        "source": "TechCrunch",
-        "date": "2026-11-25T17:36:51+00:00"
-      },
-      {
-        "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-        "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-        "summary": "The following day, Character.ai picked it as the base bid for the auction, scheduled for December 1, California Attorney General Rob Bonta noted . “Character.AI promised consumers that their data would not be sold. Connecticut Attorney General William Tong also criticized Character.ai’s business model.",
-        "source": "TechCrunch",
-        "date": "2026-11-25T17:35:58+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
-        "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-        "summary": "While $100 might not feel like much, it brings the laptop down to its original launch price. While $100 might not feel like much, it brings the laptop down to its original launch price. See our ethics statement.",
+        "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
+        "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+        "summary": "The latest Beats Studio Pro feature improved noise cancellation, sound quality, and comfort. Apple’s most affordable laptop uses the same A18 Pro chip found in the iPhone 16 Pro. The Apple Watch Series 12 introduces AI-powered Audio Intelligence features, including sound recognition alerts, Live Rewind, and Siri Recap.",
         "source": "The Verge",
-        "date": "2026-11-26T17:07:00+00:00"
+        "date": "2026-11-27T16:30:37+00:00"
       },
       {
-        "title": "Android app developers will soon have to share their address publicly",
-        "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
-        "summary": "The change is to meet EU regulations, but Apple gives its developers more privacy.﻿ The change is to meet EU regulations, but Apple gives its developers more privacy.﻿ Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations…",
+        "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
+        "url": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale",
+        "summary": "Each set of AAs includes a clamshell charger, which lets you top off multiple batteries with a single connection. Each set of AAs includes a clamshell charger, which lets you top off multiple batteries with a single connection. My colleague Sean Hollister tested Zepath’s higher-capacity 3,600mWh batteries against competing lithium-ion AAs in April, and he picked them as his top choice.",
         "source": "The Verge",
-        "date": "2026-11-26T17:06:24+00:00"
+        "date": "2026-11-27T15:30:00+00:00"
       },
       {
-        "title": "The best Black Friday deals we’ve already found",
-        "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-        "summary": "The Apple Watch Series 12 introduces AI-powered Audio Intelligence features, including sound recognition alerts, Live Rewind, and Siri Recap. Google’s latest pair of wireless earbuds features crisp sound, a comfortable design, and solid active noise cancellation, which is great considering the budget-friendly price tag. It features USB-C charging and has an adjustable clip.",
+        "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
+        "url": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
+        "summary": "At $100 off, they’re the same price as the less impressive AirPods 5. At $100 off, they’re the same price as the less impressive AirPods 5. The AirPods Pro 3 are cheaper than ever.",
         "source": "The Verge",
-        "date": "2026-11-26T16:55:00+00:00"
+        "date": "2026-11-27T15:15:28+00:00"
       },
       {
-        "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
-        "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
-        "summary": "The judge has preliminarily sided with ABC, rejecting the FCC’s efforts to dismiss the case.﻿ The judge has preliminarily sided with ABC, rejecting the FCC’s efforts to dismiss the case.﻿ US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC’s broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC’s First Amendment…",
+        "title": "Buying a laptop right now is rough, but these Black Friday deals help",
+        "url": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026",
+        "summary": "Apple’s most affordable laptop uses the same A18 Pro chip found in the iPhone 16 Pro. An expensive but excellent dual-screen laptop with a powerful Intel Panther Lake chip. An affordable laptop with a large 16-inch display, plenty of ports, and a solid Intel Core 7 350 chip.",
         "source": "The Verge",
-        "date": "2026-11-26T16:38:00+00:00"
+        "date": "2026-11-27T14:30:00+00:00"
       },
       {
-        "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
-        "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
-        "summary": "Many services are offering discounts that last anywhere from two months to a full year. Many services are offering discounts that last anywhere from two months to a full year. If you’re a Star Trek fan or want another way to watch live sports, Paramount Plus is down to $2.99 per month for two months for Black Friday.",
+        "title": "The absolute best Black Friday deals we’ve found (so far)",
+        "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+        "summary": "The latest super-rugged wearable from Apple features better battery life than the previous version, plus AI-powered features like Siri Recap also available on the Series 12. Google’s latest pair of wireless earbuds features crisp sound, a comfortable design, and solid active noise cancellation, which is great considering the budget-friendly price tag. It features USB-C charging and has an adjustable clip.",
         "source": "The Verge",
-        "date": "2026-11-26T16:00:00+00:00"
+        "date": "2026-11-27T14:19:44+00:00"
       },
       {
-        "title": "GTA VI developers vote against unionization",
-        "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
-        "summary": "Workers voted 75 percent against the IWGB recognition agreement. Workers voted 75 percent against the IWGB recognition agreement. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organizing even without formal recognition.",
+        "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+        "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+        "summary": "What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. It’s called Create My Widget, and it’s part of Android’s suite of “Gemini Intelligence” features.",
         "source": "The Verge",
-        "date": "2026-11-26T15:55:24+00:00"
+        "date": "2026-11-27T14:00:00+00:00"
       },
       {
-        "title": "Why GTA VI’s version of Florida feels so real",
-        "url": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
-        "summary": "Virtual city expert Emma Fraser explains what makes Rockstar’s latest open world work. GTA stands apart in how its various settings look and feel true to the real world. “You know immediately how to function in a city,” she explains.",
+        "title": "This gaming mouse should be a Logitech-killer, but it has one big flaw",
+        "url": "https://www.theverge.com/games/1043028/keychron-g6-he-hall-effect-magoptic-gaming-mouse-impressions",
+        "summary": "Keychron’s G6 HE uses magnetic switches like Logitech’s Superstrike mice, but the clicks are all off.﻿ Keychron’s G6 HE uses magnetic switches like Logitech’s Superstrike mice, but the clicks are all off.﻿ If you buy something from a link, The Verge may earn a commission. A cheaper alternative to the pricey $180 Logitech G Pro X2 Superstrike .” Logitech’s innovation with the Superstrike is using magnetic Hall effect…",
         "source": "The Verge",
-        "date": "2026-11-26T15:00:00+00:00"
+        "date": "2026-11-27T14:00:00+00:00"
       },
       {
-        "title": "Tell HN: Happy Thanksgiving",
-        "url": "https://news.ycombinator.com/item?id=50655664",
-        "summary": "Blum had leased an 18-wheeler from which he tossed hundreds of live turkeys at a suburban Atlanta shopping center.[15] * https://en.wikipedia.org/wiki/WQXI_(AM)#WKRP_connection > The plot of \"Turkeys Away\" is based on a true story. Blum had leased an 18-wheeler from which he tossed hundreds of live turkeys at a suburban Atlanta shopping center.[15] * https://en.wikipedia.org/wiki/WQXI_(AM)#WKRP_connection > The plot… (348 points, 101 comments on Hacker News)",
+        "title": "The Oura Ring 5 just got its biggest discount ever for Black Friday",
+        "url": "https://www.theverge.com/gadgets/1041299/oura-ring-5-black-friday-2026-deal-sale",
+        "summary": "Our favorite smart ring can track your sleep, activity, and more without requiring you to wear a smartwatch.﻿ Our favorite smart ring can track your sleep, activity, and more without requiring you to wear a smartwatch.﻿ If you buy something from a link, The Verge may earn a commission. That’s because the Oura Ring 5 , which we consider the best smart ring you can buy, has dropped to an all-time low of $299 ($100…",
+        "source": "The Verge",
+        "date": "2026-11-27T13:30:00+00:00"
+      },
+      {
+        "title": "Grand Theft Auto VI is a different kind of GTA — so it needed a different kind of ending",
+        "url": "https://www.theverge.com/entertainment/1043362/grand-theft-auto-6-ending",
+        "summary": "GTA VI producer Rob Nelson explains Rockstar’s approach to letting players explore Vice City after the main story. GTA VI producer Rob Nelson explains Rockstar’s approach to letting players explore Vice City after the main story. “Their story needed to end and have some kind of conclusion.” This story contains light spoilers for the ending of Grand Theft Auto VI , along with a key plot point from chapter 1.",
+        "source": "The Verge",
+        "date": "2026-11-27T13:00:00+00:00"
+      },
+      {
+        "title": "Some of our favorite Sony, LG, and TCL TVs are over 50 percent off for Black Friday",
+        "url": "https://www.theverge.com/gadgets/1042744/best-black-friday-tv-deals-2026",
+        "summary": "OLEDs, RGB LEDs, quantum dot LEDs, they’re all on sale during Black Friday. OLEDs, RGB LEDs, quantum dot LEDs, they’re all on sale during Black Friday. The Bravia 7 II is Sony’s first RGB LED TV.",
+        "source": "The Verge",
+        "date": "2026-11-27T12:30:00+00:00"
+      },
+      {
+        "title": "Claude sabotaging ML research tasks?",
+        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+        "summary": "281 points, 158 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-11-26T14:26:54+00:00"
+        "date": "2026-11-27T08:28:08+00:00"
       },
       {
-        "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
-        "url": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
-        "summary": "In addition to GTA VI , Nintendo’s stellar Zelda remake is sure to be one of the most popular gaming gifts this holiday. In addition to GTA VI , Nintendo’s stellar Zelda remake is sure to be one of the most popular gaming gifts this holiday. The digital game will then appear gift-wrapped on their homescreen.",
-        "source": "The Verge",
-        "date": "2026-11-26T14:00:00+00:00"
-      },
-      {
-        "title": "Samsung’s R95H TV shows what RGB LED is capable of",
-        "url": "https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review",
-        "summary": "More color, higher brightness, improved performance — RGB LED TVs have a lot to prove. Because RGB LED TVs use individual red, green, and blue LEDs for their backlight (instead of a field of white or blue LEDs), they can deliver more colors than LED TVs. There’s still room for RGB LED TVs to improve.",
-        "source": "The Verge",
-        "date": "2026-11-26T14:00:00+00:00"
-      },
-      {
-        "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
-        "url": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
-        "summary": "Repeated construction-zone violations and a California DMV ban have forced the autonomous vehicle giant off the freeway for the second time this year.﻿ Repeated construction-zone violations and a California DMV ban have forced the autonomous vehicle giant off the freeway for the second time this year.﻿ Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on…",
-        "source": "The Verge",
-        "date": "2026-11-26T12:00:00+00:00"
-      },
-      {
-        "title": "Nextcloud Office Desktop app",
-        "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-        "summary": "With Nextcloud Hub 26 Summer , we announced the release of the Nextcloud Office Desktop app powered by Euro-Office. How to connect the Nextcloud Office Desktop app to the cloud: Once connected, choose your Nextcloud instance from the list. We are introducing the Nextcloud ISV Partner Program to support independent app developers through the Nextcloud app store. (335 points, 143 comments on Hacker News)",
+        "title": "Group chat where your AI talks behind your back",
+        "url": "https://construct22.com/",
+        "summary": "A one-line prompt that makes ChatGPT leak its private opinion of you, in a pretty funny format: a WhatsApp group chat where the AI models gossip about their users. Also worth trying on Claude, Gemini, or any assistant that's been accumulating your chat history. Shared by its author, translated from Turkish, with his name and identifying details generalized. (548 points, 241 comments on Hacker News)",
         "source": "Hacker News",
-        "date": "2026-11-26T11:50:49+00:00"
+        "date": "2026-11-27T06:44:34+00:00"
       }
     ]
   }
