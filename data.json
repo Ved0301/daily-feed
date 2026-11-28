@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:16:18.906540+00:00",
+  "generated_at": "2026-11-28T15:59:03.954892+00:00",
   "sections": {
     "research": [
       {
@@ -96,6 +96,13 @@
         "date": "2026-11-25T17:10:27+00:00"
       },
       {
+        "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+        "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+        "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+        "source": "Google DeepMind",
+        "date": "2026-11-24T13:07:53+00:00"
+      },
+      {
         "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
         "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
         "summary": "An internal research model matched or outperformed specialized models on many protein design tasks. Specialized models supplied amino acid sequences and helped select candidates for testing. We gave our models the amino acid sequences of proteins with known three-dimensional structures.",
@@ -145,6 +152,13 @@
         "date": "2026-11-23T17:21:12+00:00"
       },
       {
+        "title": "Finding faster quantum algorithms with agents and formal verification",
+        "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+        "summary": "Sergey Shirobokov, Ben Jaderberg and Ryan Babbush How using agent teams and formal verification can improve quantum algorithms for modelling fusion energy, chemistry and enzymes Quantum computers could soon solve problems beyond the reach of classical supercomputers. In a new paper , we used teams of Gemini 4 agents to improve well-known quantum algorithms, creating highly efficient quantum circuits. Improving…",
+        "source": "Google DeepMind",
+        "date": "2026-11-23T16:59:40+00:00"
+      },
+      {
         "title": "Connected intelligence for in-house legal",
         "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
         "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside…",
@@ -157,23 +171,16 @@
         "summary": "Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations. It writes procedures and defines how Richpanel’s frontline support agent, copilot, and quality-assurance agent call the tools they need. Richpanel’s customers may already use low-cost outsourced support.",
         "source": "OpenAI",
         "date": "2026-11-23T08:00:00+00:00"
-      },
-      {
-        "title": "Perplexity and Intelligence",
-        "url": "https://openai.com/index/perplexity-and-intelligence",
-        "summary": "2 , 3 Perplexity measures how well a model predicts the next token on average; lower perplexity means better predictions. Extrapolating from recent progress, we should expect further transformative capabilities as we enter the ~0.68-0.7 log-perplexity window. Perplexity as a shared metric has challenges: Difficulty of comparison across labs.",
-        "source": "OpenAI",
-        "date": "2026-11-22T00:00:00+00:00"
-      },
-      {
-        "title": "How Google Duplex evolved to also call businesses for you in Gemini",
-        "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
-        "summary": "Yossi Matias, Vice President, Google & GM, Google Research, Yaniv Leviathan, Google Fellow, Google Research, and Janet Zhou, Group Product Manager, Google Maps When we introduced Google Duplex in 2018, it pioneered natural voice conversations between AI and local businesses over the phone. Propelled by advances in foundation models, the Duplex architecture has evolved to power autonomous task completion across many…",
-        "source": "Google Research",
-        "date": "2026-11-20T23:30:30+00:00"
       }
     ],
     "startups": [
+      {
+        "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+        "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+        "summary": "Sakana AI , a Japanese AI startup, last month revealed plans to develop its own foundation model. Japan needs on-premises deployment capabilities.” While Fugu incorporates OpenAI’s models, Ha noted that foreign AI models are not enough for certain applications. For example, in cybersecurity, Japan requires that customized models be deployed on-premises.",
+        "source": "TechCrunch",
+        "date": "2026-11-28T14:00:00+00:00"
+      },
       {
         "title": "Nvidia hits pause on chip shipments to Southeast Asia",
         "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
@@ -184,7 +191,7 @@
       {
         "title": "Is Alice Huang a spy or not?",
         "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
-        "summary": "What’s better established is that Alice Huang was in touch with Chinese intelligence. Senior intelligence officials reportedly told Congress that the government apparently has no actual evidence that the MSS directed Alice Huang to pursue an affair with Jensen Huang. None of those statements necessarily exonerates Alice Huang as an intelligence agent.",
+        "summary": "She had an affair with Nvidia CEO Jensen Huang, who abruptly resigned on Nov. Senior intelligence officials reportedly told Congress that the government apparently has no actual evidence that the MSS directed Alice Huang to pursue an affair with Jensen Huang. None of those statements necessarily exonerates Alice Huang as an intelligence agent.",
         "source": "TechCrunch",
         "date": "2026-11-26T20:00:00+00:00"
       },
@@ -250,99 +257,92 @@
         "summary": "Anthropic CEO Dario Amodei is pushing back against claims that Anthropic believes we should “surrender human free will” to AI systems. Amodei suggested drawing a line at recursive self-improvement (RSI), or AI that can improve itself without human assistance. Still, Anthropic is by no means the only company that is pursuing RSI or building AI systems to automate more and more human tasks.",
         "source": "TechCrunch",
         "date": "2026-11-25T19:44:24+00:00"
-      },
-      {
-        "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
-        "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
-        "summary": "Password manager maker 1Password has confirmed that some customer information was taken in a recent intrusion into its internal systems, but that customer password vaults and other secrets were not accessed. 1Password said that customer vaults, which store their passwords, were “at no point” available to the attacker. The company touts millions of customers and more than 200,000 businesses who use its password…",
-        "source": "TechCrunch",
-        "date": "2026-11-25T18:49:52+00:00"
       }
     ],
     "wider_tech": [
       {
-        "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
-        "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
-        "summary": "The latest Beats Studio Pro feature improved noise cancellation, sound quality, and comfort. Apple’s most affordable laptop uses the same A18 Pro chip found in the iPhone 16 Pro. The Apple Watch Series 12 introduces AI-powered Audio Intelligence features, including sound recognition alerts, Live Rewind, and Siri Recap.",
+        "title": "Almost every great Black Friday deal is still happening this weekend",
+        "url": "https://www.theverge.com/gadgets/1045110/best-black-friday-still-happening-2026-deals-tech-gadgets-gift-ideas",
+        "summary": "It features USB-C charging and has an adjustable clip. The latest super-rugged wearable from Apple features better battery life than the previous version, plus AI-powered features like Siri Recap also available on the Series 12. Google’s latest pair of wireless earbuds features crisp sound, a comfortable design, and solid active noise cancellation, which is great considering the budget-friendly price tag.",
         "source": "The Verge",
-        "date": "2026-11-27T16:30:37+00:00"
+        "date": "2026-11-28T15:17:57+00:00"
       },
       {
-        "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
-        "url": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale",
-        "summary": "Each set of AAs includes a clamshell charger, which lets you top off multiple batteries with a single connection. Each set of AAs includes a clamshell charger, which lets you top off multiple batteries with a single connection. My colleague Sean Hollister tested Zepath’s higher-capacity 3,600mWh batteries against competing lithium-ion AAs in April, and he picked them as his top choice.",
+        "title": "Kodak’s ultra-cute Charmera keychain camera is on sale for just $30",
+        "url": "https://www.theverge.com/gadgets/1044917/kodak-charmera-keychain-digital-camera-black-friday-deal-sale-2026",
+        "summary": "The tiny keychain camera is a ton of fun to use, even if its photos are laughably bad. The tiny keychain camera is a ton of fun to use, even if its photos are laughably bad. That makes it a fun stocking stuffer for someone who loves cute, unusual gadgets.",
         "source": "The Verge",
-        "date": "2026-11-27T15:30:00+00:00"
+        "date": "2026-11-28T15:13:51+00:00"
       },
       {
-        "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
-        "url": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
-        "summary": "At $100 off, they’re the same price as the less impressive AirPods 5. At $100 off, they’re the same price as the less impressive AirPods 5. The AirPods Pro 3 are cheaper than ever.",
+        "title": "Here are the best Black Friday deals you can still grab for $30 or less",
+        "url": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
+        "summary": "From smart plugs to noise-canceling earbuds, there’s plenty of discounted tech still available for those on a tighter budget. It features USB-C charging and has an adjustable clip. Halo: Campaign Evolved lets you revisit the original Halo: Combat Evolved campaign with better graphics, updated controls, and improved sound.",
         "source": "The Verge",
-        "date": "2026-11-27T15:15:28+00:00"
+        "date": "2026-11-28T14:03:00+00:00"
       },
       {
-        "title": "Buying a laptop right now is rough, but these Black Friday deals help",
-        "url": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026",
-        "summary": "Apple’s most affordable laptop uses the same A18 Pro chip found in the iPhone 16 Pro. An expensive but excellent dual-screen laptop with a powerful Intel Panther Lake chip. An affordable laptop with a large 16-inch display, plenty of ports, and a solid Intel Core 7 350 chip.",
+        "title": "The Alexa Photo Frame is the Echo Show without the bits you hate",
+        "url": "https://www.theverge.com/tech/1043764/amazon-alexa-photo-frame-review",
+        "summary": "An Alexa speaker with a screen that only shows your best photos? As a dedicated photo device, the Alexa Photo Frame is great. The Alexa Photo Frame’s semi-matte screen also displays photos better with less glare.",
         "source": "The Verge",
-        "date": "2026-11-27T14:30:00+00:00"
+        "date": "2026-11-28T14:00:00+00:00"
       },
       {
-        "title": "The absolute best Black Friday deals we’ve found (so far)",
+        "title": "Here’s how to make that new Black Friday TV look its best",
+        "url": "https://www.theverge.com/tech/1042700/change-these-tv-settings",
+        "summary": "Another setting you should immediately turn off is the ambient light sensor. This option can also be called Brightness Optimization, Ambient Light Detection, Intelligent Mode, or Energy Saving Step, and it’s usually not in the picture settings menu. After the ambient light sensor is off, you can adjust the brightness based on how much light is in your room.",
+        "source": "The Verge",
+        "date": "2026-11-28T13:00:00+00:00"
+      },
+      {
+        "title": "Audible removes download option for purchased audiobooks",
+        "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+        "summary": "People who paid for audiobooks with a credit card or with an Audible credit, [ 1 ] which the audiobook store Audible says it may issue as \"part of a membership plan or a Service promotion\", under terms that also say, \"We only accept credit cards for payment of your membership fees\", [ 2 ] can no longer download them directly as computer files from Audible's US website; [ 3 ] on the site they can listen with… (273 points, 124 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-28T11:51:27+00:00"
+      },
+      {
+        "title": "Farewell",
+        "url": "https://github.com/p-e-w/heretic/issues/601",
+        "summary": "I am archiving this repository to preserve it in its current, high-quality state, and to prevent issue and pull request spam from turning it into a trash pile. As AI continues to spread through your lives, you will find that controlling the models you use gradually transforms from an issue of Free Speech into an issue of Free Thought. Farewell, my friends. (609 points, 266 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-28T11:42:26+00:00"
+      },
+      {
+        "title": "Claude Code sabotage: preliminary benchmarking",
+        "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+        "summary": "Below, the same three prompts on a different kind of work: repairing a planted bug in a nanoGPT training run. The main task is KernelBench 4 . The next thing to run is more task families. (343 points, 126 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-28T10:37:40+00:00"
+      },
+      {
+        "title": "Knuth: Moratorium on Error Reports",
+        "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+        "summary": "Therefore I insist on verifying everything carefully. Therefore, I shall not be able to look at any error reports submitted after 25 November, 2026, until I've posted an updated list of the known errors in whatever book is involved. Please consult the list below to see if error reports are currently being accepted. (291 points, 151 comments on Hacker News)",
+        "source": "Hacker News",
+        "date": "2026-11-28T03:49:21+00:00"
+      },
+      {
+        "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+        "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+        "summary": "The new promo drops Apple’s 13-incher to within $100 of its all-time low, easing the sting of recent price hikes. The new promo drops Apple’s 13-incher to within $100 of its all-time low, easing the sting of recent price hikes. The M5-equipped MacBook Air is a good middle ground if you need more power than the MacBook Neo — which, thanks to a $100 discount , is $599 — but don’t want to splurge on a MacBook Pro.",
+        "source": "The Verge",
+        "date": "2026-11-28T03:30:00+00:00"
+      },
+      {
+        "title": "The absolute best Black Friday deals you can still get",
         "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
-        "summary": "The latest super-rugged wearable from Apple features better battery life than the previous version, plus AI-powered features like Siri Recap also available on the Series 12. Google’s latest pair of wireless earbuds features crisp sound, a comfortable design, and solid active noise cancellation, which is great considering the budget-friendly price tag. It features USB-C charging and has an adjustable clip.",
+        "summary": "It features USB-C charging and has an adjustable clip. The latest super-rugged wearable from Apple features better battery life than the previous version, plus AI-powered features like Siri Recap also available on the Series 12. Google’s latest pair of wireless earbuds features crisp sound, a comfortable design, and solid active noise cancellation, which is great considering the budget-friendly price tag.",
         "source": "The Verge",
-        "date": "2026-11-27T14:19:44+00:00"
+        "date": "2026-11-28T03:28:32+00:00"
       },
       {
-        "title": "Android’s DIY widgets are a bit of vibe-coding fun",
-        "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
-        "summary": "What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. It’s called Create My Widget, and it’s part of Android’s suite of “Gemini Intelligence” features.",
-        "source": "The Verge",
-        "date": "2026-11-27T14:00:00+00:00"
-      },
-      {
-        "title": "This gaming mouse should be a Logitech-killer, but it has one big flaw",
-        "url": "https://www.theverge.com/games/1043028/keychron-g6-he-hall-effect-magoptic-gaming-mouse-impressions",
-        "summary": "Keychron’s G6 HE uses magnetic switches like Logitech’s Superstrike mice, but the clicks are all off.﻿ Keychron’s G6 HE uses magnetic switches like Logitech’s Superstrike mice, but the clicks are all off.﻿ If you buy something from a link, The Verge may earn a commission. A cheaper alternative to the pricey $180 Logitech G Pro X2 Superstrike .” Logitech’s innovation with the Superstrike is using magnetic Hall effect…",
-        "source": "The Verge",
-        "date": "2026-11-27T14:00:00+00:00"
-      },
-      {
-        "title": "The Oura Ring 5 just got its biggest discount ever for Black Friday",
-        "url": "https://www.theverge.com/gadgets/1041299/oura-ring-5-black-friday-2026-deal-sale",
-        "summary": "Our favorite smart ring can track your sleep, activity, and more without requiring you to wear a smartwatch.﻿ Our favorite smart ring can track your sleep, activity, and more without requiring you to wear a smartwatch.﻿ If you buy something from a link, The Verge may earn a commission. That’s because the Oura Ring 5 , which we consider the best smart ring you can buy, has dropped to an all-time low of $299 ($100…",
-        "source": "The Verge",
-        "date": "2026-11-27T13:30:00+00:00"
-      },
-      {
-        "title": "Grand Theft Auto VI is a different kind of GTA — so it needed a different kind of ending",
-        "url": "https://www.theverge.com/entertainment/1043362/grand-theft-auto-6-ending",
-        "summary": "GTA VI producer Rob Nelson explains Rockstar’s approach to letting players explore Vice City after the main story. GTA VI producer Rob Nelson explains Rockstar’s approach to letting players explore Vice City after the main story. “Their story needed to end and have some kind of conclusion.” This story contains light spoilers for the ending of Grand Theft Auto VI , along with a key plot point from chapter 1.",
-        "source": "The Verge",
-        "date": "2026-11-27T13:00:00+00:00"
-      },
-      {
-        "title": "Some of our favorite Sony, LG, and TCL TVs are over 50 percent off for Black Friday",
-        "url": "https://www.theverge.com/gadgets/1042744/best-black-friday-tv-deals-2026",
-        "summary": "OLEDs, RGB LEDs, quantum dot LEDs, they’re all on sale during Black Friday. OLEDs, RGB LEDs, quantum dot LEDs, they’re all on sale during Black Friday. The Bravia 7 II is Sony’s first RGB LED TV.",
-        "source": "The Verge",
-        "date": "2026-11-27T12:30:00+00:00"
-      },
-      {
-        "title": "Claude sabotaging ML research tasks?",
-        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-        "summary": "281 points, 158 comments on Hacker News",
+        "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+        "url": "https://unkernel.dev",
+        "summary": "474 points, 124 comments on Hacker News",
         "source": "Hacker News",
-        "date": "2026-11-27T08:28:08+00:00"
-      },
-      {
-        "title": "Group chat where your AI talks behind your back",
-        "url": "https://construct22.com/",
-        "summary": "A one-line prompt that makes ChatGPT leak its private opinion of you, in a pretty funny format: a WhatsApp group chat where the AI models gossip about their users. Also worth trying on Claude, Gemini, or any assistant that's been accumulating your chat history. Shared by its author, translated from Turkish, with his name and identifying details generalized. (548 points, 241 comments on Hacker News)",
-        "source": "Hacker News",
-        "date": "2026-11-27T06:44:34+00:00"
+        "date": "2026-11-28T03:19:20+00:00"
       }
     ]
   }
